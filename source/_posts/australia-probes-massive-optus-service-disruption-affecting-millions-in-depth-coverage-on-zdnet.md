@@ -1,7 +1,7 @@
 ---
 title: "Australia Probes Massive Optus Service Disruption Affecting Millions: In-Depth Coverage on ZDNet"
-date: 2024-09-17 16:39:48
-updated: 2024-09-20 10:38:29
+date: 2025-01-04T23:40:48.236Z
+updated: 2025-01-06T09:13:44.407Z
 tags:
   - networking
 categories:
@@ -62,11 +62,32 @@ To check out the extensions ready now for Firefox on Android, head to the Androi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-tagging-tactics-how-to-leverage-instagrams-top-25-hashtags/"><u>[New] 2024 Approved Tagging Tactics How to Leverage Instagram's Top 25 Hashtags</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-low-cost-high-performance-capturing-adrenaline-in-motion/"><u>[Updated] In 2024, Low-Cost, High-Performance Capturing Adrenaline in Motion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instant-recovery-of-vanished-reddit-topics/"><u>[Updated] Instant Recovery of Vanished Reddit Topics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-navigating-metaverse-self-representation-a-step-by-step-manual/"><u>[Updated] Navigating Metaverse Self-Representation A Step-by-Step Manual</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-quitting-linkedin-how-to-close-your-account-properly-for-2024/"><u>[Updated] Quitting LinkedIn How To Close Your Account Properly for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/avoid-these-8-steps-that-newcomers-often-miss-on-youtube-for-2024/"><u>Avoid These 8 Steps that Newcomers Often Miss on YouTube for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/how-to-combine-videos-on-iphone-for-2024/"><u>How to Combine Videos on iPhone for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technological-innovations-a-deep-dive-into-toms-hardware-analyses/"><u>Mastering Technological Innovations: A Deep Dive Into Tom's Hardware Analyses</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-needs-with-expert-guides-from-toms-hardware/"><u>Mastering Your Tech Needs with Expert Guides From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-through-technology-with-toms-gear-hub/"><u>Navigate Through Technology With Tom's Gear Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/performance-meets-savings-in-our-lenovo-legion-pro-5i-gen-9-review-a-must-have-for-value-driven-gamers/"><u>Performance Meets Savings in Our Lenovo Legion Pro 5I (Gen 9) Review: A Must-Have for Value-Driven Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/powerbook-520c-back-from-history-now-features-a-refined-ipad-touchscreen-and-the-heart-of-a-201n5-core-i5-macbook-pro/"><u>PowerBook 520C Back From History: Now Features a Refined iPad Touchscreen & the Heart of a 201N5 Core I5 MacBook Pro!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-note-13-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi Note 13 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728474345308-windows-11/"><u>Windows 11向けの迅速なリカバリーパーティション設定と活用 - 新しい２通り</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

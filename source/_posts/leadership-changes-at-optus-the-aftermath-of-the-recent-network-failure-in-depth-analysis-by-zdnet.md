@@ -1,7 +1,7 @@
 ---
 title: "Leadership Changes at Optus: The Aftermath of the Recent Network Failure – In-Depth Analysis by ZDNet"
-date: 2024-09-19 20:28:18
-updated: 2024-09-20 12:35:17
+date: 2025-01-01T04:11:53.133Z
+updated: 2025-01-06T02:34:43.501Z
 tags:
   - networking
 categories:
@@ -70,11 +70,33 @@ Apple's iOS 18 launches in a public beta next month. It'll officially launch thi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-a-step-by-step-approach-to-snapchat-video-communication-for-2024/"><u>[New] A Step-By-Step Approach to Snapchat Video Communication for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-cutting-edge-video-playback-on-windows-mobile-for-2024/"><u>[New] Cutting-Edge Video Playback on Windows Mobile for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-exclusive-top-5-iphone-podcast-apps-guide/"><u>[New] In 2024, Exclusive Top 5 iPhone Podcast Apps Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-snipping-videophotographs-in-windows-11/"><u>[Updated] Snipping Videophotographs in Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypassreset-12plus-5g-phone-screen-passcodepatternpin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset 12+ 5G Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-sessions-with-asus-rog-swift-a-comprehensive-review-of-its-breathtaking-240hz-oled-display-and-unmatched-visual-clarity-for-competitive-1/"><u>Elevate Your Gaming Sessions with ASUS ROG Swift - A Comprehensive Review of Its Breathtaking 240Hz OLED Display & Unmatched Visual Clarity for Competitive Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-analysis-by-tom-stay-ahead-of-technology-trends/"><u>Expert Hardware Analysis by Tom - Stay Ahead of Technology Trends</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-gigabyte-aorus-co49dq-oled-stunning-display-colors-and-contrast-performance/"><u>In-Depth Analysis of the Gigabyte Aorus CO49DQ OLED - Stunning Display Colors & Contrast Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-processors-and-peripherals-a-tour-by-toms-hardware/"><u>Inside the World of Processors and Peripherals - A Tour by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-technology-review-your-source-for-pc-hardware-analysis/"><u>Inside Tom's Technology Review: Your Source for PC Hardware Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mystery-of-undetected-sd-solved-here/"><u>Mystery of Undetected SD Solved Here</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-webm-to-mp3-conversion-made-simple-top-tools/"><u>New In 2024, WebM to MP3 Conversion Made Simple Top Tools</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/top-15-trending-tiktok-meals-worth-savoring/"><u>Top 15 Trending TikTok Meals Worth Savoring</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-at-toms-hardware-hub/"><u>Unveiling the Latest in Computing at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/wirelessly-dominate-your-productivity-with-the-keychron-q1-he-the-wireless-version-youve-been-dreaming-of/"><u>Wirelessly Dominate Your Productivity with the Keychron Q1 HE - The Wireless Version You've Been Dreaming Of</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

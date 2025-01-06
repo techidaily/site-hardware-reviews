@@ -1,7 +1,7 @@
 ---
 title: "Unlock Ultimate Versatility: Discover the Powerful Yet Portable 8-in-1 Charger that Defies Price Point Expectations on ZDNet"
-date: 2024-12-20T19:01:00.863Z
-updated: 2024-12-27T18:31:02.697Z
+date: 2025-01-04T22:55:00.155Z
+updated: 2025-01-05T20:29:30.478Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -81,7 +81,7 @@ Regarding the battery life on the ThinkBook 14 2-in-1, I found it to be acceptab
 I can get a full day's worth of work out of this laptop on one charge, but honestly, barely so. That being said, the fast charging capability does bring the laptop from nearly dead to 100% in less than an hour. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -120,19 +120,21 @@ If you're looking for a similarly-priced convertible with a better display, chec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-essential-inexpensive-vlogging-tools-listed-for-2024/"><u>[New] Essential, Inexpensive Vlogging Tools Listed for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-seeking-clearance-can-you-upload-media-on-fb-for-2024/"><u>[New] Seeking Clearance Can You Upload Media on FB for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-the-path-of-extensive-video-transfers-iphone-mac-interface/"><u>[Updated] Navigating the Path of Extensive Video Transfers IPhone-Mac Interface</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/complete-examination-the-video-show-app-for-2024/"><u>Complete Examination The Video Show App for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210868230-9781088164877-engaging-in-intimate-conversation-with-god/"><u>Engaging in Intimate Conversation with God | Free Book</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/metas-horizon-os-powers-new-virtual-reality-devices-by-asus-and-lenovo/"><u>Meta's Horizon OS Powers New Virtual Reality Devices by ASUS & Lenovo</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/now-accessible-the-latest-smart-led-containers-by-nanoleaf-hit-the-market/"><u>Now Accessible: The Latest Smart LED Containers by Nanoleaf Hit the Market.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revamped-rebranding-how-the-samsung-galaxy-fe-is-essentially-the-previous-model-in-disguise/"><u>Revamped Rebranding: How the Samsung Galaxy FE Is Essentially the Previous Model in Disguise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revive-the-odd-a-collection-of-the-most-bizarre-desktop-tower-cabinets/"><u>Revive the Odd: A Collection of the Most Bizarre Desktop Tower Cabinets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/reviving-retro-tech-the-impressive-similarities-of-8bitdos-latest-mechanical-keyboard-to-the-iconic-ibm-model-m/"><u>Reviving Retro Tech: The Impressive Similarities of 8BitDo's Latest Mechanical Keyboard to the Iconic IBM Model M</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/simplifying-image-editing-with-picsarts-background-tool/"><u>Simplifying Image Editing with Picsart's Background Tool</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-resolving-non-functional-windows-alt-keys/"><u>Steps for Resolving Non-Functional Windows Alt Keys</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/cribe-without-breaking-the-bank-learn-how-with-our-free-guide/"><u>Transcribe Without Breaking the Bank Learn How with Our Free Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-step-by-step-tutorial-capturing-snapchat-moments-for-2024/"><u>[New] Step-by-Step Tutorial Capturing Snapchat Moments for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-a-step-by-step-roadmap-for-lasting-tiktok-account-loss/"><u>[Updated] In 2024, A Step-by-Step Roadmap for Lasting TikTok Account Loss</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-powerhouse-testing-the-asus-rt-ax57-go-wi-fi-6-travelers-friendly-router/"><u>Compact Powerhouse: Testing the Asus RT-AX57 Go Wi-Fi 6 Traveler's Friendly Router</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-in-pc-hardware-with-toms-insights/"><u>Discover the Best in PC Hardware with Tom's Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-xr-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone XR Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-stay-on-top-of-youtube-moderation-standards/"><u>How to Stay on Top of YouTube Moderation Standards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hps-latest-laptop-showcase-the-trailblazing-omnibook-x-defined-by-its-impressive-snapdragon-x-chip-and-extended-battery-durability/"><u>HP's Latest Laptop Showcase: The Trailblazing OmniBook X, Defined by Its Impressive Snapdragon X Chip and Extended Battery Durability</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-realme-11x-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Realme 11X 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-s23-tactical-edition-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy S23 Tactical Edition FRP Without Computer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-reno-10-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo Reno 10 5G Device</u></a></li>
+<li><a href="https://article-helps.techidaily.com/luminary-collage-conceptions-aesthetic-illumination-ideas-for-2024/"><u>Luminary Collage Conceptions Aesthetic Illumination Ideas for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-connectivity-with-asus-rog-rapture-gt-be98-pro-a-7-in-1-wireless-router-showcase-of-power-and-flexibility/"><u>Mastering Connectivity with Asus ROG Rapture GT-BE98 Pro: A 7-in-1 Wireless Router Showcase of Power & Flexibility</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-components-at-toms-hardware-station/"><u>Mastering Gadgets and Components at Tom's Hardware Station</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-expertise-from-toms-hardware-guide/"><u>Mastering Gadgets with Expertise From Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-high-speed-computing-on-budget-with-the-latest-raspberry-pi-m2-hatplus-a-comprehensive-review/"><u>Mastering High-Speed Computing on Budget with the Latest Raspberry Pi M.2 HAT+ - A Comprehensive Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revealing-hidden-social-exchanges-in-yt-discussions/"><u>Revealing Hidden Social Exchanges in YT Discussions</u></a></li>
 </ul></div>
 

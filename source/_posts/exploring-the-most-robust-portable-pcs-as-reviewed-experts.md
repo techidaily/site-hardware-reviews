@@ -1,7 +1,7 @@
 ---
 title: Exploring the Most Robust Portable PCs as Reviewed Experts
-date: 2024-12-23T19:58:01.604Z
-updated: 2024-12-27T16:50:42.880Z
+date: 2025-01-01T21:30:14.946Z
+updated: 2025-01-06T07:54:51.195Z
 tags:
   - laptops
 categories:
@@ -45,7 +45,7 @@ Cons
 ## Getac S510
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best rugged laptop overall
@@ -72,10 +72,6 @@ Pros
 Cons 
 * Very expensive
 * No AMD option
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Panasonic ToughBook 40 Mk2
 
@@ -105,7 +101,7 @@ Cons
 * Can't upgrade RAM or storage
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acer Chromebook Spin 512
@@ -137,6 +133,10 @@ Cons
 * On the heavy side
 
 ## Asus ZenBook Pro Duo 15 OLED
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best rugged laptop splurge
 
@@ -180,10 +180,6 @@ The rest of the TUF A14 build is just as impressive. It sports an Nvidia GeForce
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best rugged laptop?
 
 I chose the Getac S510 as the best rugged laptop for its highly customizable configurations for a wide range of applications like emergency response, construction, and even in mechanic's shops and manufacturing plants. It's built with an Intel Core Ultra 5 or 7 CPU, which uses AI to boost multitasking efficiency, and features robust military-grade shock, drop, moisture, dust, and electrical hazard resistance to protect delicate electronics and sensitive information from damage. 
@@ -195,6 +191,10 @@ I chose the Getac S510 as the best rugged laptop for its highly customizable con
 | Panasonic Toughbook 40 Mk2   | $4,700              | Up to 2TB SSD | Up to Intel Core Ultra 7 165H |
 | Asus ZenBook Pro Duo 15 OLED | $1,700              | 1TB SSD       | Intel Core i7-12700H          |
 | Asus TUF A14                 | $1,400              | 1TB SSD       | AMD Ryzen 7 8845HS            |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which rugged laptop is right for you?
 
@@ -214,15 +214,15 @@ Don't forget to research the brand's ecosystem if you're going to need docks, mo
 | Asus ZenBook Pro Duo 15 OLED     | A tough, high-end laptop. It features Asus' revolutionary dual-screen design, giving you a 15.6-inch main 4K OLED display and a secondary 4K ScreenPad.                                                                                            |
 | Asus TUF A14                     | A tough laptop for gaming. The Asus TUF A14 has a CNC-machined aluminum lid as well as hinges for enhanced durability as well as enhanced airflow and a full-width heatsink for better power efficiency.                                           |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these rugged laptops?
 
 Laptop manufacturers helpfully label these systems as "semi-rugged" or "rugged," with a few niche companies devoting their entire business to rugged portables. This makes it easier to separate rugged laptops from ones that may have some ruggedized features but aren't marketed to those who need specialized systems. 
 
 The rugged laptops listed here are from major manufacturers in the space (Dell, Panasonic, Getac), including some with which ZDNET staff have had hands-on experience. For more on how we test laptops, check out our comprehensive [laptop testing methodology](https://www.zdnet.com/article/how-we-test-laptops/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does "rugged laptop" mean?
 
@@ -230,23 +230,19 @@ A rugged laptop, sometimes listed as a "ruggedized" laptop, is a computer that i
 
 These kinds of laptops are great for anyone who has to work outdoors for any length of time, such as people at construction sites, on geological surveys, and in the military.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does "military grade" mean?
 
 A laptop that is listed as "military grade" doesn't necessarily mean that it was developed for use by the Army or other military branches. Rather, it has been tested against military standards for dirt and water resistance as well as resistance to shocks, drops, and operating temperatures. 
 
 Laptops meant for military use are more rigorously tested against a laundry list of conditions, while commercially available laptops labeled "military grade" are only tested against a few of the MIL-STD-810 standards.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does Apple make a rugged laptop?
 
 At the time of writing, Apple does not have a ruggedized version of any of their MacBooks for sale, either through their official store or authorized sellers. You can, however, purchase rugged cases like the [Urban Armor Gear](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FURBAN-ARMOR-GEAR-Feather-Light-Translucent%2Fdp%2FB08M5KWNW4%2F%3Ftag-zdnet-deals-20%3D%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C147794d1-2a0f-4fe9-add1-b64d18f0fb22%7Cdtp&dtb=1) for the 13-inch MacBook Pro, the [Ibenezer case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07D848J6V%2F%3Ftag-zdnet-deals-20%3D%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C147794d1-2a0f-4fe9-add1-b64d18f0fb22%7Cdtp&dtb=1) for the 13-inch MacBook Air, or the [Pelican 1085](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPelican-1095CC-Laptop-Case-Liner%2Fdp%2FB006C21MCU%2F%3Ftag-zdnet-deals-20%3D%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C147794d1-2a0f-4fe9-add1-b64d18f0fb22%7Cdtp&dtb=1) hardshell carrying case.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More rugged laptops to consider
 
@@ -268,6 +264,10 @@ Show less
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Getac B360
 
 I got the chance to test out the Getac B360 and saw first-hand just how tough it really is. Weighing in at a hefty 5.1 pounds, it's both MIL-STD-810H and MIL-STD-416G certified for shock and moisture resistance and can be customized for salt fog and Class I electrical hazard certification. 
@@ -281,7 +281,7 @@ Show less
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Panasonic Toughbook 55
@@ -330,18 +330,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-reviews.techidaily.com/1723964489740-cable-matters-unveils-revolutionary-23-thunderbolt-5-with-120gbps-and-240w-power-shop-the-worlds-first-superfast-charger-now/"><u>Cable Matters Unveils Revolutionary $23 Thunderbolt 5 with 120Gbps & 240W Power: Shop the World's First Superfast Charger Now!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-insights-a-deep-dive-into-technology-trends/"><u>Exploring Gadgets with Tom's Hardware Insights: A Deep Dive Into Technology Trends</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-comprehensive-reviews-and-insights/"><u>Exploring Tom's Hardware: Comprehensive Reviews & Insights</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-brother-hl-2280dw-printer-software-for-windows-pcs-111087-supported/"><u>Get the Latest Brother HL-2280DW Printer Software for Windows PCs - 11/10/8/7 Supported</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-oppo-k11x-by-fonelab-android-recover-video/"><u>How to recover old videos from your Oppo K11x</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/miniaturized-x-ray-chip-technology-seeing-beyond-obstacles-with-cell-phone-integration-expert-insights/"><u>Miniaturized X-Ray Chip Technology: Seeing Beyond Obstacles with Cell Phone Integration - Expert Insights</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revitalize-your-lenovo-g580-with-drivers/"><u>Revitalize Your Lenovo G580 with Drivers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-guides-and-reviews-by-toms-hardware/"><u>Tom's Tech Insights: In-Depth Guides and Reviews by Tom's Hardware</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-oculus-quest-into-windows-friendly-vr/"><u>Transforming Oculus Quest Into Windows-Friendly VR</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-unable-to-switch-between-portrait-and-landscape-step-by-step-guide/"><u>Troubleshooting iPhone Unable to Switch Between Portrait & Landscape: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-sifives-revolutionary-256-core-risc-v-processor-the-power-of-the-p870-d-series/"><u>Unveiling SiFive's Revolutionary 256-Core RISC-V Processor: The Power of the P870-D Series</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/yield-cash-reviewing-gadgets-apparel-and-more-on-the-web/"><u>Yield Cash Reviewing Gadgets, Apparel, and More on the Web</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-charting-your-course-in-the-realm-of-youtube-shorts/"><u>[Updated] Charting Your Course in the Realm of YouTube Shorts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ranking-9-premier-video-call-and-meeting-apps-ios-vs-android-reviewed-for-2024/"><u>[Updated] Ranking 9 Premier Video Call & Meeting Apps iOS vs Android Reviewed for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2213950-9780008138059-aquarius-2016-your-personal-horoscope/"><u>Aquarius 2016: Your Personal Horoscope | Free Book</u></a></li>
+<li><a href="https://fox-info.techidaily.com/bringing-life-to-slides-adding-audio-effectively-powerpoint-for-2024/"><u>Bringing Life to Slides Adding Audio Effectively (PowerPoint) for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-technology-with-toms-hardware-guides/"><u>Exploring the Latest in Technology with Tom's Hardware Guides</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-futures-in-your-hands-with-powerdirector-24-unleashed/"><u>In 2024, The Future's in Your Hands with PowerDirector '24 Unleashed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/mline-your-vlogs-sound-with-effective-tips/"><u>Streamline Your Vlog's Sound with Effective Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-equipment-mastery-in-depth-analysis-for-savvy-gamers-and-builders/"><u>Tom's Equipment Mastery: In-Depth Analysis for Savvy Gamers and Builders</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-features-gigabytes-b760m-ds3h-ax-micro-atx-motherboard-for-beginners-and-multi-screen-lovers/"><u>Unveiling the Features: Gigabyte's B760M DS3H AX Micro ATX Motherboard for Beginners and Multi-Screen Lovers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-hardware-with-toms-expertise/"><u>Unveiling the Latest in Computer Hardware with Tom's Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/valkyrie-syn-240-aio-pc-chiller-review-exceptional-heat-dispersion-compromised-by-unrefined-user-interface/"><u>Valkyrie Syn 240 AIO PC Chiller Review – Exceptional Heat Dispersion Compromised by Unrefined User Interface</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/where-can-i-find-bruh-sound-effect-in-2024/"><u>Where Can I Find Bruh Sound Effect, In 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/iuocpuocpplusodvoodlumfspluswjsoodhplusodvoocvplusobiplusocieodkeodqplusocueocsplusodvoodiewkieapmzog5oml6acg6kej6kqsig/"><u>ウェーブ音声データからパルスコード変換: 手順解説</u></a></li>
 </ul></div>
 

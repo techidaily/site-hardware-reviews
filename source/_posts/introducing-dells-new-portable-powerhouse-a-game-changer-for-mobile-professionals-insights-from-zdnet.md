@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Portable Powerhouse: A Game Changer for Mobile Professionals - Insights From ZDNet"
-date: 2024-12-22T23:39:34.897Z
-updated: 2024-12-27T22:03:56.044Z
+date: 2025-01-03T04:01:56.708Z
+updated: 2025-01-06T08:38:03.433Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,14 +114,17 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-cutting-edge-concepts-for-captivating-youtube-video-thumbnails/"><u>[New] 2024 Approved Cutting-Edge Concepts for Captivating YouTube Video Thumbnails</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-quick-route-to-joy-embracing-the-ifunny-meme-app-for-2024/"><u>[Updated] The Quick Route to Joy Embracing the iFunny Meme App for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/entry-level-drone-excellence-reviewing-the-syma-xx5c-racing-quadcopters-value-and-performance/"><u>Entry-Level Drone Excellence: Reviewing the SYMA X#X5C Racing Quadcopter's Value and Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expanded-raspberry-pi-connect-enhances-ssh-capabilities-and-welcomes-legacy-model-compatibility/"><u>Expanded Raspberry Pi Connect Enhances SSH Capabilities and Welcomes Legacy Model Compatibility</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-the-raspberry-pi-revolutionizes-your-classic-sony-tape-recorder-with-seamless-wireless-audio-streaming/"><u>How the Raspberry Pi Revolutionizes Your Classic Sony Tape Recorder with Seamless Wireless Audio Streaming</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-computer-hardware-at-toms-review-sites/"><u>In-Depth Analysis of Computer Hardware at Tom's Review Sites</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-the-future-with-raspberry-pi-5-meet-bender-your-ai-powered-personal-assistant-inspired-by-futurama/"><u>Introducing the Future with Raspberry Pi 5: Meet Bender, Your AI-Powered Personal Assistant Inspired by Futurama</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-use-your-social-media-app-and-make-slow-motion-videos-by-reading-this-guide-besides-learning-slow-motion-snapchat-get-useful-apps-serving-the-sa/"><u>New In 2024, Use Your Social Media App and Make Slow-Motion Videos by Reading This Guide. Besides Learning Slow-Motion Snapchat, Get Useful Apps Serving the Same Purposes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-sensational-deal-on-quest-3-with-512gb-storage-metas-latest-offer-that-dominates-the-vr-market-zdnet-insight/"><u>Snag the Sensational Deal on Quest 3 with 512GB Storage - Meta's Latest Offer That Dominates the VR Market | ZDNET Insight</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-exciting-possibilities-the-best-12-clickers-for-pc-gamers/"><u>[New] Exciting Possibilities The Best 12 Clickers for PC Gamers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-supercharge-your-social-sagas-free-seamless-online-integration/"><u>2024 Approved Supercharge Your Social Sagas FREE, Seamless Online Integration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-z790i-lightning-wireless-networking-board-review-harnessing-the-power-of-lightning-in-miniature/"><u>ASRock Z790I Lightning Wireless Networking Board Review: Harnessing the Power of Lightning in Miniature</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-tcl-50-inch-4k-smart-tv-a-balanced-blend-of-features-and-budget-on-the-50s425-roku-series-review/"><u>Discover the TCL 50-Inch 4K Smart TV: A Balanced Blend of Features and Budget on the 50S425 Roku Series (Review)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-1535-wi-fi-card-driver-for-ultimate-internet-connectivity/"><u>Download the Latest 1535 Wi-Fi Card Driver for Ultimate Internet Connectivity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-restore-functionality-of-your-laptops-built-in-camera-on-lenovo/"><u>Expert Tips to Restore Functionality of Your Laptop's Built-In Camera on Lenovo</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-essentials-toms-guide-to-computer-hardware/"><u>Exploring Technology Essentials: Tom’s Guide to Computer Hardware</u></a></li>
+<li><a href="https://some-tips.techidaily.com/foodpanda-enhances-partnerships-revolutionary-restaurant-management-solutions-launched/"><u>Foodpanda Enhances Partnerships: Revolutionary Restaurant Management Solutions Launched</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-tecno-phantom-v-fold-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Phantom V Fold Without Password | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mid-century-designed-cutting-edge-performance-unveiling-the-keychron-k2-he-special-edition-review/"><u>Mid-Century Designed, Cutting-Edge Performance: Unveiling the Keychron K2 HE Special Edition Review</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-7-free-singing-voice-recorders-compatible-with-pc-mac-iphone-and-android/"><u>Top 7 Free Singing Voice Recorders: Compatible with PC, Mac, iPhone & Android</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-sovol-sv08-review-a-tribute-speed-machine-inspired-by-voron/"><u>Unveiling Sovol SV08 Review: A Tribute Speed Machine Inspired by Voron</u></a></li>
 </ul></div>
 

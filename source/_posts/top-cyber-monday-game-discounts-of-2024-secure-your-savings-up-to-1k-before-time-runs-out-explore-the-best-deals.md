@@ -1,7 +1,7 @@
 ---
 title: "Top Cyber Monday Game Discounts of 2024: Secure Your Savings Up to $1K Before Time Runs Out! Explore the Best Deals"
-date: 2024-12-21T23:05:59.851Z
-updated: 2024-12-27T21:43:16.890Z
+date: 2025-01-02T22:28:13.473Z
+updated: 2025-01-05T23:45:08.865Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ Major brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day gaming deals still available
 
@@ -118,6 +122,10 @@ ZDNET
 * [Logitech G F710 wireless gamepad for $30 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Nano-Receiver-Controller-Vibration%2Fdp%2FB0041RR0TW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A basic gamepad for PC gaming that uses 2.4GHz connectivity and dual-motor vibration so you can feel feedback for every in-game action like punches in fighting games or crashes in racing sims.
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day PlayStation 5 deals still available
 
 ZDNET
@@ -145,7 +153,7 @@ ZDNET
 * [Starfield standard edition for $40 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FStarfield-Standard-Xbox-X%2Fdp%2FB0C7PN2L5V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): Bethesda's latest action RPG has players exploring more than 1,000 planets to gather resources and allies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals still available
@@ -186,6 +194,10 @@ Lenovo
 * [Acer Predator Triton Neo 16 for $1,500 (save $400 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPredator-Verified-AI-Powered-processor-PTN16-51-932N%2Fdp%2FB0CZBVRSXT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): The 16-inch display is Calman Verified for color accuracy, and the laptop is built with both an Intel Core Ultra 9 CPU and Nvidia GeForce RTX 4070 GPU.
 * [Alienware m18 for $1,750 (save $800 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-m18-fhd-480hz-gaming-laptop-amd-ryzen-9-32gb-memory-nvidia-geforce-rtx-4070-1tb-ssd-windows-11-pro-dark-metallic-moon%2F6543535.p%3FskuId%3D6543535&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's high-end gaming laptop has an 18-inch display with an impressive 480Hz refresh rate. It's built with an AMD Ryzen 9 7000 series CPU, 32GB of RAM, a 1TB SSD, and Nvidia RTX 4070.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming monitor deals still available
 
 Samsung/ZDNET
@@ -209,15 +221,7 @@ Samsung/ZDNET
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $770 (save $130 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When was Amazon Prime Day 2024?
 
@@ -227,16 +231,12 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ra
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
@@ -304,21 +304,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-deconstructing-the-fisheye-effect-in-your-gopro-videos/"><u>[Updated] Deconstructing the Fisheye Effect in Your GoPro Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-fine-tuning-your-obs-live-feeds-for-facebook-audience-for-2024/"><u>[Updated] Fine-Tuning Your OBS Live Feeds for Facebook Audience for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-educational-history-series-the-most-engaging-ones/"><u>[Updated] In 2024, Educational History Series - The Most Engaging Ones</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-photo-wit-funnypictorials-for-2024/"><u>[Updated] Photo Wit FunnyPictorials for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-top-8-proven-video-growth-enhancers-for-2024/"><u>[Updated] Top 8 Proven Video Growth Enhancers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1-silencing-your-zoom-meeting-with-ease-a-step-by-step-guide/"><u>1. Silencing Your Zoom Meeting with Ease: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-samsung-galaxy-s24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Samsung Galaxy S24 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/bend-the-competition-with-our-2024-ranking-of-superior-curved-gaming-monitors/"><u>Bend the Competition with Our 2024 Ranking of Superior Curved Gaming Monitors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/compact-convenient-and-cost-effective-in-depth-review-of-the-eyoyo-em1/"><u>Compact, Convenient, and Cost-Effective: In-Depth Review of the EYOYO EM1</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-reviews-by-toms-gear-experts-discover-top-hardware-choices/"><u>Comprehensive Reviews by Tom's Gear Experts: Discover Top Hardware Choices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discounted-deal-alienwares-aw3225qf-gaming-monitor-with-qd-oled-4k-technology-and-240-hz-refresh-rate-grab-100-off/"><u>Discounted Deal: Alienware's AW3225QF Gaming Monitor with QD-OLED 4K Technology & 240 Hz Refresh Rate - Grab $100 Off</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-high-performance-components-with-toms-gear-insights/"><u>Discover High-Performance Components with Tom's Gear Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-gadgets-trustworthy-insights-from-toms-hardware/"><u>Discover the Latest Gadgets | Trustworthy Insights From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dominate-the-digital-battlefield-with-cooler-masters-giant-super-wide-57-mini-led-and-dual-uhd-monitor-for-gamers/"><u>Dominate the Digital Battlefield with Cooler Master's Giant Super Wide, 57 Mini LED & Dual-UHD Monitor for Gamers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-connection-integrating-your-firestick-with-a-projector-device/"><u>Mastering the Connection: Integrating Your Firestick With A Projector Device</u></a></li>
-<li><a href="https://fox-http.techidaily.com/sculpting-speed-at-winter-olympics-for-2024/"><u>Sculpting Speed at Winter Olympics for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-breaking-down-sync-a-thorough-review-of-lgs-uhd68-display/"><u>[New] In 2024, Breaking Down Sync A Thorough Review of LG's UHD68 Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-applications-for-image-driven-video-creation/"><u>[New] Superior Applications for Image-Driven Video Creation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-from-editing-desk-to-youtube-post-production-processes/"><u>[Updated] From Editing Desk to YouTube Post-Production Processes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-video-edits-is-inshot-top-choice/"><u>2024 Approved Exploring Video Edits Is InShot Top Choice?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>3 Ways to Fake GPS Without Root On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-ultra-efficient-storage-with-teamgroups-new-lpddr5x-camm2-memory-units-your-third-choice-for-the-latest-compact-ram-standard-and-intelligent-bran24/"><u>Experience Ultra-Efficient Storage with TeamGroup's New LPDDR5X CAMM2 Memory Units – Your Third Choice for the Latest Compact RAM Standard and Intelligent Branding</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-y100t-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo Y100t to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-xiaomi-redmi-13c-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Xiaomi Redmi 13C 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/industry-approved-128gb-memory-upgrade-the-revolutionary-ram-sticks-that-comply-with-the-newly-adopted-camm2-standard/"><u>Industry-Approved 128GB Memory Upgrade: The Revolutionary RAM Sticks that Comply with the Newly Adopted CAMM2 Standard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-gen-nvidia-gpus-empowered-by-microns-production-of-ultra-fast-24gb-hbm3e-ai-memory-chips-set-for-release-in-q2/"><u>Next-Gen Nvidia GPUs Empowered by Micron's Production of Ultra-Fast 24GB HBM3E AI Memory Chips, Set for Release in Q2</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sk-hynix-triumphs-as-ai-revolution-surge-bolsters-its-control-to-35-of-the-global-dram-market/"><u>SK Hynix Triumphs as AI Revolution Surge Bolsters Its Control to 35% of the Global DRAM Market</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-viewing-all-harry-potter-films-sequentially/"><u>Step-by-Step Guide: Viewing All Harry Potter Films Sequentially</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/surecore-unveils-eco-efficient-quantum-memory-innovation-stable-at-recordly-cool-temperatures-of-just-4-kelvin/"><u>SureCore Unveils Eco-Efficient Quantum Memory Innovation - Stable at Recordly Cool Temperatures of Just 4 Kelvin</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tech-breakthrough-global-leader-samsung-initiates-production-of-ultra-thin-lpddr5x-memory-modules/"><u>Tech Breakthrough: Global Leader Samsung Initiates Production of Ultra-Thin LPDDR5X Memory Modules</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-and-hardware-insights/"><u>Tom's Tech Reviews: In-Depth Analysis and Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-china-based-semiconductor-producer-pursues-enhanced-funding-for-195-billion-goal-ipo-deferred/"><u>Top China-Based Semiconductor Producer Pursues Enhanced Funding for $19.5 Billion Goal, IPO Deferred</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/xbox-screen-sharing-setting-up-for-fb-livestreaming-for-2024/"><u>Xbox Screen Sharing Setting Up for FB Livestreaming for 2024</u></a></li>
 </ul></div>
 

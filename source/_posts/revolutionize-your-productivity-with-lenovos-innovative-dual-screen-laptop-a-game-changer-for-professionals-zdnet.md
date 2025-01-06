@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Productivity with Lenovo's Innovative Dual-Screen Laptop - A Game Changer for Professionals | ZDNet
-date: 2024-12-20T19:29:39.998Z
-updated: 2024-12-27T22:04:09.317Z
+date: 2025-01-04T19:15:48.899Z
+updated: 2025-01-06T08:06:36.770Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -44,6 +44,10 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -59,7 +63,7 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -83,7 +87,7 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -106,10 +110,6 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Evaluating Lenovo's dual-screen software
 
 With such unique hardware, Lenovo had to build unique software for Windows 11 so that it behaves properly and gives you extra functionality.
@@ -131,7 +131,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -182,22 +182,20 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-ultimate-guide-to-itunes-video-downloading-for-ios-users/"><u>[New] In 2024, The Ultimate Guide to iTunes Video Downloading for iOS Users</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tweeting-with-videos-a-quick-tutorial/"><u>[New] Tweeting with Videos A Quick Tutorial</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-5-best-live-stream-video-conference-recorders/"><u>[Updated] In 2024, 5 Best Live Stream Video Conference Recorders</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-pixie-dust-game-hours-childrens-choice-edition/"><u>2024 Approved Pixie-Dust Game Hours - Children's Choice Edition</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-new-dawn-of-computing-with-intels-bean-canyon-nucs-superior-speed-and-throttled-tdp/"><u>Discover the New Dawn of Computing with Intel's Bean Canyon NUCs - Superior Speed & Throttled TDP!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-legal-trials-understanding-the-judicial-process/"><u>Exploring Legal Trials: Understanding the Judicial Process</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-ready-join-the-exciting-foldinghome-challenge-launching-next-week/"><u>Get Ready: Join the Exciting Folding@Home Challenge Launching Next Week</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-this-file-isnt-playable-error-0xc10100bf-in-windows/"><u>How to Fix the This File Isn’t Playable Error 0Xc10100bf in Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pc-sales-surge-anticipate-an-8-rise-by-2024-the-comeback-of-the-personal-computer-industry/"><u>PC Sales Surge: Anticipate an 8% Rise by 2024 – The Comeback of the Personal Computer Industry</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/q4-2015-toms-guide-to-building-systems-announcing-the-winning-configurations/"><u>Q4 2015 Tom's Guide to Building Systems: Announcing the Winning Configurations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-by-step-advice-on-constructing-a-personal-computer-from-scratch/"><u>Step-by-Step Advice on Constructing a Personal Computer From Scratch</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-heat-of-tech-understanding-why-high-performance-phones-stay-cool-unlike-pcs/"><u>The Heat of Tech: Understanding Why High-Performance Phones Stay Cool, Unlike PCs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-gadget-guide-in-depth-reviews-of-computing-technology-and-hardware-solutions/"><u>Tom's Gadget Guide: In-Depth Reviews of Computing Technology and Hardware Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guide-to-performance-equipment/"><u>Tom's Tech Review: Comprehensive Guide to Performance Equipment</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-performing-gaming-rigs-conquering-the-ultimate-tech-trials/"><u>Top-Performing Gaming Rigs: Conquering the Ultimate Tech Trials</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-how-to-easily-make-professional-looking-movies-and-slideshow-for-2024/"><u>Updated How to Easily Make Professional-Looking Movies and Slideshow for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-saving-snaps-from-snapchat-on-camera-roll-a-guide/"><u>[New] In 2024, Saving Snaps From Snapchat on Camera Roll – A Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-screen-capture-mastery-windows-edition-free-3-methods-for-2024/"><u>[New] Screen Capture Mastery Windows Edition (Free, 3 Methods) for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtubes-guide-to-the-best-gaming-tech/"><u>[Updated] YouTube's Guide to the Best Gaming Tech</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-western-digital-my-passport-6tb-robust-and-compact/"><u>Comprehensive Evaluation of Western Digital My Passport (6TB): Robust & Compact</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rming-youtube-ad-revenue-accrual/"><u>Confirming YouTube Ad Revenue Accrual</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-powerful-features-of-highpoints-rocket-1608a-usb-drives-card-ultimate-review/"><u>Evaluating the Powerful Features of HighPoint's Rocket 1608A USB Drives Card - Ultimate Review</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oneplus-ace-2-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring OnePlus Ace 2 to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-your-apple-watch-can-become-an-effective-video-recording-tool-a-guide/"><u>How Your Apple Watch Can Become an Effective Video Recording Tool: A Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-tecno-spark-go-2023-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-180hz-titan-army-p27a2g-a-savvy-buyers-guide-for-gamers/"><u>In-Depth Analysis of the 180Hz Titan Army P27A2G - A Savvy Buyer's Guide for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-levelplays-combat-air-ca4-the-epitome-of-silent-and-efficient-cpu-cooling-solutions/"><u>In-Depth Review of Levelplay's Combat Air CA4 - The Epitome of Silent and Efficient CPU Cooling Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-of-digital-devices-with-toms-tech-wisdom/"><u>In-Depth Reviews of Digital Devices with Tom's Tech Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/insider-knowledge-on-gadgets-the-toms-hardware-edge/"><u>Insider Knowledge on Gadgets: The Tom's Hardware Edge</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-hostgator-offerings-a-detailed-vps-and-shared-hosting-overview/"><u>Navigating Through HostGator Offerings: A Detailed VPS & Shared Hosting Overview</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/soaring-in-high-definition-an-in-depth-xiaomi-analysis-for-2024/"><u>Soaring in High Definition An In-Depth Xiaomi Analysis for 2024</u></a></li>
 </ul></div>
 

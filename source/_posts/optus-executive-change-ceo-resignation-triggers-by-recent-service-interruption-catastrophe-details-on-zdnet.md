@@ -1,7 +1,7 @@
 ---
 title: "Optus Executive Change: CEO Resignation Triggers by Recent Service Interruption Catastrophe, Details on ZDNET"
-date: 2024-09-17 10:23:10
-updated: 2024-09-20 12:31:49
+date: 2024-12-31T13:24:44.010Z
+updated: 2025-01-06T00:08:17.821Z
 tags:
   - networking
 categories:
@@ -70,11 +70,33 @@ Apple's iOS 18 launches in a public beta next month. It'll officially launch thi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-the-pinnacle-of-live-tweeting-on-social-media/"><u>[New] 2024 Approved The Pinnacle of Live Tweeting on Social Media</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-interactive-learning-strategies-in-video-editing/"><u>[New] Interactive Learning Strategies in Video Editing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/10-best-video-calling-software-on-phone-and-pc-for-2024/"><u>10 Best Video Calling Software on Phone and PC for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-methods-for-subtle-volume-reduction-in-fl-studio/"><u>2024 Approved Methods for Subtle Volume Reduction in FL Studio</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-tecno-phantom-v-flip-by-fonelab-android-recover-music/"><u>How to recover old music from your Tecno Phantom V Flip</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-boost-your-channels-subscribers-on-a-shoestring-budget/"><u>In 2024, Boost Your Channel's Subscribers on a Shoestring Budget</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msi-unveils-top-tier-z890-and-b8n60-boards-for-intel-arc-s-certified-before-the-excitement-of-computex-2024-begins/"><u>MSI Unveils Top-Tier Z890 and B8n60 Boards for Intel Arc S, Certified Before the Excitement of Computex 2024 Begins!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msis-pre-computex-2024-launch-premium-z890-and-b860-motherboards-for-intel-arc-s-system-leak-detected/"><u>MSI's Pre-Computex 2024 Launch: Premium Z890 and B860 Motherboards for Intel Arc S System Leak Detected</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-from-armory-crate-to-advanced-illumination-with-microsoft-and-asus-collaborative-bios-enhancement/"><u>Navigating From Armory Crate to Advanced Illumination with Microsoft and Asus' Collaborative BIOS Enhancement</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-hardware-solutions-with-toms-reviews/"><u>Navigating Hardware Solutions with Tom's Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-innovations-in-computing-a-guide-by-toms-hardware/"><u>Navigating New Innovations in Computing - A Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-todays-tech-landscape-a-tour-of-tomn-hardware-world/"><u>Navigating Today's Tech Landscape: A Tour of Tom'n Hardware World</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/observe-changes-in-behavior-look-for-any-changes-in-behavior-that-could-indicate-substance-abuse-such-as-mood-swings-withdrawal-from-family-activities-decli81/"><u>Observe Changes in Behavior: Look for Any Changes in Behavior that Could Indicate Substance Abuse, Such as Mood Swings, Withdrawal From Family Activities, Declining Academic Performance, or a Sudden Disinterest in Hobbies and Friends.</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

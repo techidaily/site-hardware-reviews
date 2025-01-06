@@ -1,7 +1,7 @@
 ---
 title: Get a Superior Lenovo Laptop for Work or Play at an Incredible Discount This Memorial Day
-date: 2024-12-21T18:51:58.971Z
-updated: 2024-12-27T17:00:10.768Z
+date: 2025-01-01T16:05:02.285Z
+updated: 2025-01-06T09:13:22.121Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is the deal?
@@ -31,7 +31,7 @@ The [Lenovo Legion Pro 5i](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=h
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,7 +73,7 @@ The power cable has an extensive power supply; it's a little bit larger than my 
 The [Lenovo Legion Pro 5i](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-pro-series%2Flegion-pro-5i-gen-8-%2816-inch-intel%29%2Flen101g0024&publisher_slug=itechdaily19598&exclusive=1) base configuration starts at $1,260, while the top configuration retails for $1,800\. The configuration I was sent for testing will cost you around $1,450, which is a very decent value for the components and performance you'll get.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -110,19 +110,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-captivating-books-in-video-form/"><u>[New] In 2024, Captivating Books in Video Form</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-reliable-methods-to-elevate-your-youtube-presence-without-breaking-trust/"><u>[Updated] 2024 Approved Reliable Methods to Elevate Your YouTube Presence Without Breaking Trust</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-cut-the-cost-not-the-creativity-best-free-editing-tools-top-9/"><u>2024 Approved Cut The Cost, Not The Creativity Best Free Editing Tools (Top 9)</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/a-bundle-of-nine-premium-holiday-treasures-watch-for-free-on-youtube-for-2024/"><u>A Bundle of Nine Premium Holiday Treasures Watch for Free on YouTube for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/assembling-a-custom-rig-using-cooler-masters-qube-n500-impressive-layout-opportunities-for-refinement/"><u>Assembling a Custom Rig Using Cooler Master's Qube N500: Impressive Layout, Opportunities for Refinement</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comparing-mov-and-mp4-video-formats-understanding-the-differences-in-size-quality-and-playback/"><u>Comparing MOV and MP4 Video Formats: Understanding the Differences in Size, Quality & Playback</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-edge-methods-for-admin-access-in-the-winworld/"><u>Cutting-Edge Methods for Admin Access in the WinWorld</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-with-eblazters-modular-desktop-solutions-upgradable-and-all-in-one/"><u>Experience Next-Level Gaming with EBlazter's Modular Desktop Solutions – Upgradable and All-in-One</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964477391-expert-tips-on-pc-gear-discover-what-tom-has-to-say/"><u>Expert Tips on PC Gear - Discover What Tom Has to Say!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/geforce-experience-crash-woes-heres-how-to-identify-diagnose-and-correct-common-issues/"><u>GeForce Experience Crash Woes? Here's How to Identify, Diagnose, and Correct Common Issues</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-hardware-analysis/"><u>Tom's Tech Insights: Expert Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-reviews-and-expert-advice-t17239718720366/"><u>Tom's Tech Insights: In-Depth Reviews and Expert Advice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-computer-components-and-gadgets-t17239718720377/"><u>Tom's Tech Review: Expert Insights on Computer Components and Gadgets</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-potential-misuse-of-gpt-technology/"><u>Unveiling the Potential Misuse of GPT Technology</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/reedom-from-popups-discover-the-top-7-android-adblock-apps-for-2024/"><u>[New] Freedom From Popups? Discover the Top 7 Android AdBlock Apps for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-the-craft-of-digital-cinematography-with-ipad/"><u>[New] In 2024, Mastering the Craft of Digital Cinematography with iPad</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-integrate-youtube-playlists-into-your-site-for-2024/"><u>[Updated] How to Integrate YouTube Playlists Into Your Site for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-of-sunfounders-pironman-n-model-5-with-noteworthy-assembling-steps/"><u>A Comprehensive Review of SunFounder's Pironman N Model 5 with Noteworthy Assembling Steps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadgets-by-tom-a-detailed-look-at-latest-tech/"><u>Advanced Gadgets by Tom: A Detailed Look at Latest Tech</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-audio-experience-on-your-computer-with-easy-windows-11-settings/"><u>Enhancing Audio Experience on Your Computer with Easy Windows 11 Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-browsing-speeds-with-microsoft-edge-win10w11/"><u>Enhancing Browsing Speeds with Microsoft Edge, Win10/W11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/id-cooling-fx360-pro-reviewed-exceptional-cpu-cooling-under-budget-at-just-60/"><u>ID-Cooling FX360 Pro Reviewed! Exceptional CPU Cooling Under Budget At Just $60</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-change-location-on-yik-yak-for-your-tecno-spark-10c-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Tecno Spark 10C to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-electronics-with-toms-hardware-wisdom/"><u>Navigate the World of Electronics with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsung-system-files-windows-download/"><u>Samsung System Files - Windows Download</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-tier-hardware-secrets-at-toms-expert-platform/"><u>Unveiling Top-Tier Hardware Secrets at Tom's Expert Platform</u></a></li>
 </ul></div>
 

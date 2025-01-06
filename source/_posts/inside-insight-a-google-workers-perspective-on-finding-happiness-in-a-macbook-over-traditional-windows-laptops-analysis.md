@@ -1,7 +1,7 @@
 ---
 title: "Inside Insight: A Google Worker's Perspective on Finding Happiness in a MacBook Over Traditional Windows Laptops Analysis"
-date: 2024-12-26T17:04:40.404Z
-updated: 2024-12-27T21:20:04.258Z
+date: 2025-01-04T22:14:35.438Z
+updated: 2025-01-06T01:29:49.709Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,22 +218,18 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-imprint-entire-online-viewport/"><u>[Updated] Imprint Entire Online Viewport</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-unveiling-the-perfect-thumbnail-formula-for-youtube-success/"><u>2024 Approved Unveiling The Perfect Thumbnail Formula for YouTube Success</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/beat-the-competition-with-an-rtx-4060-enabled-msi-bravo-laptop-priced-below-1000/"><u>Beat the Competition with an RTX 4060-Enabled MSI Bravo Laptop - Priced Below $1,000</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/benzalkonium-chloride-commonly-found-in-hand-sanitizers-its-a-quaternary-ammonium-compound-effective-against-bacteria-and-some-viruses-however-its-effective34/"><u>Benzalkonium Chloride - Commonly Found in Hand Sanitizers, It's a Quaternary Ammonium Compound Effective Against Bacteria and some Viruses. However, Its Effectiveness Can Be Reduced by Organic Matter Like Blood or Dirt</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/boosting-mac-gaming-with-the-entire-apple-network-a-new-strategy-unveiled/"><u>Boosting Mac Gaming with the Entire Apple Network – A New Strategy Unveiled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-risc-v-computer-revolution-engineers-new-choice-from-china-at-just-300/"><u>Budget-Friendly RISC-V Computer Revolution: Engineers' New Choice From China at Just $300</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/conquering-browser-blockades-fix-your-ie-page-loading-problems-once-and-for-all/"><u>Conquering Browser Blockades: Fix Your IE Page Loading Problems Once and For All</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exclusive-preview-dells-latest-tech-unleashed-xps-and-inspiron-laptops-powered-by-qualcomm-snapdragon-ready-for-q3-launch/"><u>Exclusive Preview: Dell's Latest Tech Unleashed – XPS and Inspiron Laptops Powered by Qualcomm Snapdragon Ready for Q3 Launch!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-computer-and-hardware-analysis/"><u>Expert Insights From Tom’s Computer & Hardware Analysis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-instructions-how-to-turn-on-and-configure-hyper-v-in-windows-11/"><u>Expert Instructions: How to Turn On and Configure Hyper-V in Windows 11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-computer-hardware-with-tom/"><u>Exploring the Latest in Computer Hardware with Tom</u></a></li>
-<li><a href="https://win-docs.techidaily.com/how-microsofts-new-lineup-of-repairable-laptops-impresses-ifixit-and-throws-down-the-gauntlet-for-rivals-including-apple-reported-by-zdnet/"><u>How Microsoft's New Lineup of Repairable Laptops Impresses iFixit and Throws Down the Gauntlet for Rivals, Including Apple | Reported by ZDNET</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-motorola-g54-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Motorola G54 5G Phones</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-10-best-free-online-video-looping-software/"><u>New The Ultimate List 10 Best Free Online Video Looping Software</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/e-extraction-converting-youtube-to-trusted-mp4/"><u>Secure Extraction Converting YouTube to Trusted MP4</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/step-by-step-process-for-aesthetic-and-engaging-instagram-video-content-for-2024/"><u>Step-by-Step Process for Aesthetic and Engaging Instagram Video Content for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/windows-laptop-revolution-looms-with-mediatek-preparing-arm-processors-as-qualcomms-exclusive-access-ends/"><u>Windows Laptop Revolution Looms with MediaTek Preparing ARM Processors as Qualcomm's Exclusive Access Ends</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-capturing-timeless-moments-iphones-prolonged-shots-guide/"><u>[Updated] 2024 Approved Capturing Timeless Moments IPhone’s Prolonged Shots Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-video-recording-camstudios-total-package/"><u>[Updated] 2024 Approved Mastering Video Recording CamStudio's Total Package</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-features-is-the-upgrade-worth-it-iphone-15-pro-takes-on-iphone-14-pro-in-latest-review-insights/"><u>Comparing Features: Is the Upgrade Worth It? IPhone 15 Pro Takes on iPhone 14 Pro in Latest Review | Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gameplay-revolutionary-robotic-additional-limb-by-researchers/"><u>Elevate Your Gameplay: Revolutionary Robotic Additional Limb by Researchers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-insight-on-logitechs-latest-marvel-the-g-pro-x-2-with-incredible-speed-tailored-for-hardcore-gamers/"><u>Exclusive Insight on Logitech's Latest Marvel - The G Pro X 2 with Incredible Speed, Tailored for Hardcore Gamers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-poco-m6-5g-by-drfone-android/"><u>How to Bypass FRP on Poco M6 5G?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-best-srt-mods-ultimate-upgrades-for-macwindows/"><u>In 2024, Best SRT Mods Ultimate Upgrades for Mac/Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-electronic-devices-by-tom-a-trustworthy-guide/"><u>In-Depth Analysis of Electronic Devices by Tom - A Trustworthy Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/miniaturized-x-ray-chip-technology-seeing-beyond-obstacles-with-cell-phone-integration-expert-insights/"><u>Miniaturized X-Ray Chip Technology: Seeing Beyond Obstacles with Cell Phone Integration - Expert Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-experts/"><u>Navigating the World of Technology with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/special-memorial-day-deal-alert-high-quality-full-size-roccat-pyro-mechanical-keyboard-just-34-awaits-you/"><u>Special Memorial Day Deal Alert: High-Quality, Full-Size Roccat Pyro Mechanical Keyboard - Just $34 Awaits You!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-building-a-bootable-drive-with-rufus-on-windows-11/"><u>Step-by-Step Guide: Building a Bootable Drive with Rufus on Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-y56-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo Y56 5G to iPhone 14/15 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover Ultimate Paperless Journals: Our Exhaustive Testing of Leading Digital Notebook Options | ZDNet"
-date: 2024-12-25T22:39:01.214Z
-updated: 2024-12-27T17:20:36.447Z
+date: 2025-01-04T11:30:54.976Z
+updated: 2025-01-06T10:14:45.906Z
 tags:
   - laptops
 categories:
@@ -26,10 +26,6 @@ As a hybrid option for those who want the best of both worlds, a smart notebook 
 
 To help you decide which smart notebooks are worth the investment, we tested and researched the best ones on the market, considering notebook feel, storage capabilities and options, special features, and price. Based on our hands-on experience, our pick for the best smart notebook overall is the [Boox Note Air 3 C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBOOX-Tablet-Note-Air-ePaper%2Fdp%2FB0CHF423CP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C08f8670e-b5a5-4980-9707-c1729b5cbf22%7Cdtp&dtb=1) thanks to its note-taking and productivity features and smooth color display. We also included notebooks from brands like Kindle, Rocketbook, and others that ZDNET staff use and recommend. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best smart notebooks of 2024
 
 Show less 
@@ -43,6 +39,10 @@ Pros
 
 Cons 
 * Screen can lag when browsing web or watching videos
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Boox Note Air 3 C
 
@@ -76,10 +76,6 @@ Cons
 
 ## Rocketbook Fusion Smart Notebook
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best budget smart notebook
 
 The Rocketbook Fusion Smart Notebook has versatile page and template options for only $40\. The notebook's synthetic paper allows you to write with the included Pilot FriXion pen, then wipe the page clean with a damp cloth to reuse it repeatedly.
@@ -107,11 +103,11 @@ Cons
 * Premium pen upgrade will cost you more
 * Does not support note-taking on magazines or newspapers
 
-## Kindle Scribe
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Kindle Scribe
 
 ### Best smart notebook for reading
 
@@ -143,14 +139,10 @@ Cons
 * Sometimes slow transcription
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Moleskine Pen+ Smart Writing Set
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best stylish smart notebook
 
@@ -184,7 +176,7 @@ Cons
 ## reMarkable 2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best smart notebook splurge
@@ -216,7 +208,7 @@ The best smart notebook is the Boox Note Air 3 C. I made this pick based on its 
 \*MSRP at the time of writing. Please note that actual prices may vary depending on available sales, deals, discounts, and coupons. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is a smart notebook just a fancy way of saying tablet?
@@ -229,6 +221,10 @@ The sole purpose of a smart notebook is exactly that, to digitize a normal noteb
 A tablet, usually runs on a mobile operating system and offers a wider range of functions such as browsing the web, multimedia, gaming, and other tasks. A digital notebook is more niche and designed specifically for note-taking and digital writing tasks.
 3. **Is a digital notebook worth it?**  
 You can find a digital notebook for well under $20, making it a pretty budget-friendly option for students or anyone looking to organize their notes without breaking the bank. But, if you like for all your devices to be consistent in terms of software, then you might be better off spending a little more for a tablet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which smart notebook is right for you?
 
@@ -261,6 +257,10 @@ A lot of these digital notebooks can also be categorized as tablets. When we tes
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Frequently Asked Questions:
 
 ## What's the best smart pen for my electronic notebook?
@@ -275,10 +275,6 @@ Our best pick for smart pens would have to be the [Apple Pencil](https://www.zdn
 
 Most smart notebooks already include a smart pen, but it will also depend on the manufacturer and specific model. Smart notebooks such as reMarkable 2 and Wacom Bamboo Slate include the smart pen with their notebook. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Would I recommend a smart notebook for students?
 
 Keeping your notes and reminders organized on a single device for school is the best way to improve your productivity in and outside of class. That is why we recommend all students look into our best list of smart notebooks and find which is right for their needs. The Boox is a great option since you can connect it to many third-party apps through the Android store and transfer any files onto it, like essays or notes from class. 
@@ -292,6 +288,10 @@ That depends on the specific product. For example, Rocketbook's lineup of smart 
 ## Can you use an iPad as a smart notebook?
 
 While you won't get the "feel" of real paper with an iPad, you can use an iPad as a way to take notes digitally, especially if you have a quality stylus like the Apple Pencil. iOS apps like Noteflow allow you to take notes, annotate PDFs, sketch and doodle, and more while syncing to the cloud.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative smart notebooks to consider?
 
@@ -339,16 +339,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ssential-mobile-media-creation-tools-iphone-vs-android-review-for-2024/"><u>[New] Essential Mobile Media Creation Tools IPhone vs Android Review for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>[New] In 2024, From Zero to Cool Video Star Your Mac Youtube Journey Starts Here</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-art-of-mixing-on-youtube-music/"><u>[New] The Art of Mixing on YouTube Music</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-taking-the-first-steps-towards-vr-technology-mobile-based-headsets-vs-cabled-gear/"><u>[Updated] Taking the First Steps Towards VR Technology Mobile-Based Headsets Vs. Cabled Gear</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-pro-grade-animation-top-software-picks-for-mac-and-windows-users/"><u>New Pro-Grade Animation Top Software Picks for Mac and Windows Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solving-the-mov-wont-play-top-7-rapid-solutions/"><u>Solving the 'MOV Won't Play': Top 7 Rapid Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-reviews-and-analysis/"><u>Tom's Tech Insights: Comprehensive Reviews and Analysis</u></a></li>
-<li><a href="https://driver-install.techidaily.com/turbox-nvidia-rtx-3090-download-guide/"><u>TurboX NVIDIA RTX 3090 - Download Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-best-gaming-ram-in-2nd4e-swift-performance-budget-friendly-options-with-radiant-rgb-features/"><u>Ultimate Guide to the Best Gaming RAM in 2nD4e - Swift Performance, Budget-Friendly Options with Radiant RGB Features</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-performance-a-comprehensive-look-at-the-corsair-dominator-platinum-6400-mhz-rgb-led-and-2x16gb-ddr5-ram-modules/"><u>Unveiling Performance: A Comprehensive Look at the Corsair Dominator Platinum - 6400 MHz, RGB LED, and 2X16GB DDR5 RAM Modules</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-sk-hynixs-probe-into-suspected-illicit-dram-inside-huawei-devices/"><u>Unveiling SK Hynix's Probe Into Suspected Illicit DRAM Inside Huawei Devices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-discovering-elite-gif-apps-for-iphone-x8-series/"><u>[New] In 2024, Discovering Elite GIF Apps for iPhone X/8 Series</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-select-selections-exciting-cardboard-friendly-virtual-reality-titles/"><u>[New] Select Selections Exciting Cardboard-Friendly Virtual Reality Titles</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/excellent-visual-repair-service-praises-aplenty/"><u>Excellent Visual Repair Service, Praises Aplenty</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-digital-worlds-with-insights-from-tom-hardware-haven/"><u>Exploring Digital Worlds with Insights From Tom Hardware Haven</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-raspberry-pi-compute-module-4s-a-comprehensive-industry-focused-assessment/"><u>Exploring the Raspberry Pi Compute Module 4S: A Comprehensive Industry-Focused Assessment</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-becoming-an-exemplary-conductor-of-candidate-assessments/"><u>In 2024, Becoming An Exemplary Conductor of Candidate Assessments</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-audio-quality-tips-for-resolving-powerpoint-playback-errors/"><u>Mastering Audio Quality: Tips for Resolving PowerPoint Playback Errors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-with-tips-from-toms-computing-experts/"><u>Mastering Hardware Choices with Tips From Tom's Computing Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steigern-sie-die-effizienz-der-buchhaltung-durch-fortschrittliche-scan-to-pdf-ocr-technologie-entdecken-sie-das-power-of-abbyy-id/"><u>Steigern Sie Die Effizienz Der Buchhaltung Durch Fortschrittliche Scan-to-PDF-OCR-Technologie - Entdecken Sie Das Power of ABBYY ID</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-picks-for-gadgets-in-depth-analysis-from-toms-hardware-blog/"><u>Top Picks for Gadgets: In-Depth Analysis From Tom's Hardware Blog</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Infinix Note 30? | Dr.fone</u></a></li>
 </ul></div>
 

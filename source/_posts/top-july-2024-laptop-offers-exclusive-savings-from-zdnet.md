@@ -1,7 +1,7 @@
 ---
 title: "Top July 2024 Laptop Offers: Exclusive Savings From ZDNet"
-date: 2024-12-25T22:08:15.377Z
-updated: 2024-12-27T16:10:01.879Z
+date: 2024-12-30T22:10:00.795Z
+updated: 2025-01-06T11:47:10.348Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ If you see something that looks like a great deal, we recommend adding it to you
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best laptop deals
 
@@ -95,11 +99,11 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64b42205-96dc-4b01-a7c5-12f41ce673a9%7Cdtp&dtb=1) 
 
-## Alternative laptop deals
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Alternative laptop deals
 
 ### Amazon laptop deals
 
@@ -114,6 +118,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Acer Aspire 3 laptop deal for $300 (save $22) $300 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FA315-24P-R7VH-Display-Quad-Core-Processor-Graphics%2Fdp%2FB0BS4BP8FB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64b42205-96dc-4b01-a7c5-12f41ce673a9%7Cdtp&dtb=1)
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64b42205-96dc-4b01-a7c5-12f41ce673a9%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Walmart laptop deals
 
@@ -162,7 +170,7 @@ When compiling the list of the best deals, we considered the following:
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What specifications do I need to look for in a laptop?
@@ -174,13 +182,13 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
 
@@ -192,20 +200,12 @@ If you're a gamer who needs a high-spec laptop with a decent graphics card, top-
 
 ZDNET experts split out the latest and greatest deals for you below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best deals by retailer
 
 * [The best Amazon deals](https://www.zdnet.com/article/amazon-deals/)
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -257,22 +257,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-craft-clearer-crisper-youtube-videos-with-quality-tools/"><u>[Updated] In 2024, Craft Clearer, Crisper YouTube Videos with Quality Tools</u></a></li>
-<li><a href="https://win-news.techidaily.com/boost-your-pc-speed-by-fixing-registry-issues-expert-tips-from-yl-computing/"><u>Boost Your PC Speed by Fixing Registry Issues - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-gigabyte-ud750gm-psu-performance-test/"><u>Comprehensive Evaluation: Gigabyte UD750GM PSU Performance Test</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-computer-hardware-by-toms-expertise/"><u>Comprehensive Guide to Computer Hardware by Tom's Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-testing-insights-seasonic-prime-tx-1600-psu-assessment/"><u>Comprehensive Testing Insights: Seasonic Prime TX-1600 PSU Assessment</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-print-on-edge-security-mode-windows-11/"><u>Enabling Print on Edge Security Mode Windows 11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-the-premium-nzxt-c1email-protected-power-unit-unveiling-its-capabilities/"><u>Expert Analysis of the Premium NZXT C1([email Protected]) Power Unit: Unveiling Its Capabilities</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-hardware-with-tom-your-guide-to-cutting-edge-technology/"><u>Exploring Advanced Hardware with Tom - Your Guide to Cutting-Edge Technology</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-m54-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy M54 5G Phone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-tecno-phantom-v-flip-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Tecno Phantom V Flip to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-transforming-trending-searches-into-video-concepts/"><u>In 2024, Transforming Trending Searches Into Video Concepts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-assessment-of-the-corsair-tx5-problems/"><u>In-Depth Assessment of the Corsair TX5# Problems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/launch-of-seasonic-psu-models-featuring-advanced-12vhpwr-connectors-starting-from-230/"><u>Launch of Seasonic PSU Models Featuring Advanced 12VHPWR Connectors Starting From $230</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-hardware-with-toms-guide/"><u>Navigating the Latest in Hardware with Tom's Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncovering-gaming-profiles-secret-code-on-steam/"><u>Uncovering Gaming Profile's Secret Code on Steam</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/unlock-your-music-tracks-audafrees-2024-edition/"><u>Unlock Your Music Tracks AudaFree's 2024 Edition</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-ultimate-list-of-free-green-screen-apps-for-mobile-creators/"><u>Updated 2024 Approved The Ultimate List of Free Green Screen Apps for Mobile Creators</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-the-ultimate-guide-to-electronics-hardware/"><u>Expert Reviews by Tom: The Ultimate Guide to Electronics Hardware</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-nokia-c210-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Nokia C210 FRP Bypass Instantly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovate-with-ease-learn-to-use-free-dall-e-3-via-microsoft-bing/"><u>Innovate With Ease: Learn to Use Free DALL-E 3 via Microsoft Bing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-lian-lis-revolutionary-hydroshift-lcd-groovy-surround-gaming-tower-review/"><u>Inside Look at Lian Li's Revolutionary Hydroshift LCD Groovy Surround Gaming Tower Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computing-tips-from-toms-hardware-experts/"><u>Navigating the World of Computing: Tips From Tom’s Hardware Experts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-fixed-solving-the-mystery-of-enshrouded-crashes/"><u>PC Fixed: Solving the Mystery of Enshrouded Crashes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/showcasing-spectacular-color-accuracy-and-contrast-with-the-gigabyte-aorus-oled-gaming-screen/"><u>Showcasing Spectacular Color Accuracy and Contrast with the Gigabyte Aorus OLED Gaming Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-insights-from-toms-hardware/"><u>Tom's Tech Review: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-the-phanteks-eclipse-g360a-your-top-choice-for-an-affordable-pc-case-at-just-59/"><u>Unbeatable Deal: The Phanteks Eclipse G360A, Your Top Choice for an Affordable PC Case at Just $59</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-tesla-robot-unveiled-breaking-down-the-latest-rumors-projected-costs-and-launch-timeline/"><u>Upcoming Tesla Robot Unveiled: Breaking Down the Latest Rumors, Projected Costs & Launch Timeline</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/wie-behandeln-sie-ein-problem-mit-einer-nicht-erkannten-hitachi-festplatte-in-ihrem-system/"><u>Wie Behandeln Sie Ein Problem Mit Einer Nicht Erkannten Hitachi-Festplatte in Ihrem System?</u></a></li>
 </ul></div>
 

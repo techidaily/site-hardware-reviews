@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Reveals at Apple's October Showcase: M4 Mac Mini Unveiled, New iPad Lineup, Innovations in AI - Insights for Tech Enthusiasts | ZDNet"
-date: 2024-12-24T19:30:12.938Z
-updated: 2024-12-27T20:09:56.717Z
+date: 2025-01-04T05:11:25.314Z
+updated: 2025-01-05T20:26:53.253Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,21 +118,14 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-facebooks-visual-storytelling-what-angle-matters-most/"><u>[Updated] Facebook's Visual Storytelling What Angle Matters Most?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-mac-screen-recording-apps-without-bandicam-for-2024/"><u>[Updated] Ultimate Mac Screen Recording Apps Without Bandicam for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/2024-school-starts-savings-exclusive-offers-on-educational-tech-for-the-upcoming-academic-year/"><u>2024 School Starts Savings! Exclusive Offers on Educational Tech for the Upcoming Academic Year</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-itel-a60s-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Itel A60s without App | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964484111-dropped-to-a-bargain-the-elite-five-star-fractal-design-north-pc-chassis-for-only-109/"><u>Dropped to a Bargain - The Elite Five-Star Fractal Design North PC Chassis for Only $109!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-asus-proart-pa-329q-reviewed-a-detailed-look-at-the-leading-4k-workstation-display/"><u>In 2024, Asus ProArt PA 329Q Reviewed A Detailed Look at the Leading 4K Workstation Display</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-monitoring-instagram-disconnects-immediately/"><u>In 2024, Monitoring Instagram Disconnects Immediately</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/insta-reel-power-mimicking-high-flying-tiktok-methods/"><u>Insta Reel Power Mimicking High-Flying TikTok Methods</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/navigating-missing-pages-online-insights-on-the-not-found-error-404-issue/"><u>Navigating Missing Pages Online: Insights on the 'Not Found (Error 404)' Issue</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-comprehensive-guide-to-the-latest-hardware-innovations/"><u>Tom's Tech Insights: A Comprehensive Guide to the Latest Hardware Innovations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-reviews-on-electronic-components-and-gadgets/"><u>Tom's Tech Insights: In-Depth Reviews on Electronic Components & Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guide-to-top-of-the-line-computer-gear/"><u>Tom's Tech Review: Comprehensive Guide to Top-of-the-Line Computer Gear</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-your-ultimate-guide-to-cutting-edge-hardware/"><u>Tom's Tech Review: Your Ultimate Guide to Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-recommended-solid-state-drives-and-traditional-hdds-sales/"><u>Top Recommended Solid State Drives & Traditional HDDs Sales</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-scaling-your-channel-a-guide-to-increased-viewership-and-followers/"><u>[Updated] 2024 Approved Scaling Your Channel A Guide to Increased Viewership and Followers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-breathe-new-life-into-your-ig-story-with-simple-animated-text-tips/"><u>2024 Approved Breathe New Life Into Your IG Story with Simple Animated Text Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dell-xps-13-review-consistent-elegance-upgraded-with-the-latest-snapdragon-x-elite-processor/"><u>Dell XPS 13 Review - Consistent Elegance, Upgraded with the Latest Snapdragon X Elite Processor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-next-level-gaming-with-asuss-rog-swift-pg34wcdm-a-thorough-review-of-its-exquisite-240hz-oled-visual-experience-and-top-tier-gameplay-dynamics/"><u>Discover Next-Level Gaming with ASUS's ROG Swift PG34WCDM: A Thorough Review of Its Exquisite 240Hz OLED Visual Experience & Top-Tier Gameplay Dynamics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-powerful-symphony-with-blueants-soundblade-vibrant-sounds-and-style-combined/"><u>Experience the Powerful Symphony with BlueAnt's Soundblade - Vibrant Sounds & Style Combined</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-from-toms-equipment-hub-for-savvy-gamers-and-pros/"><u>Expert Advice From Tom's Equipment Hub for Savvy Gamers and Pros</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-solutions-for-missing-steamdll-files/"><u>Troubleshooting and Solutions for Missing Steam.dll Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-new-productivity-microsoft-excels-latest-copilot-feature/"><u>Unleashing New Productivity: Microsoft Excel's Latest Copilot Feature</u></a></li>
 </ul></div>
 

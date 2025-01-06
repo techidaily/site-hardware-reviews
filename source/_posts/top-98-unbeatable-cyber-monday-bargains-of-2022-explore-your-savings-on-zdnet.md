@@ -1,7 +1,7 @@
 ---
 title: Top 98 Unbeatable Cyber Monday Bargains of 2022 - Explore Your Savings on ZDNet
-date: 2024-12-20T16:43:22.124Z
-updated: 2024-12-27T21:52:47.179Z
+date: 2025-01-05T10:31:06.884Z
+updated: 2025-01-05T22:05:35.958Z
 tags:
   - laptops
 categories:
@@ -18,7 +18,7 @@ Amazon
 Cyber Monday is finally here! Laptops are the first thing I think of today: I want the most affordable laptop with the best possible features. If you're in the same boat, there are three laptops to keep in mind that ring in for less than $1,000: [The MacBook Air with Apple's M1 chip](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-256GB-Storage%2Fdp%2FB08N5LNQCX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9726ad23-f28c-4202-9966-09e24683054e%7Cdtp&dtb=1) for $799 at Amazon (save $200), [the LG gram 17-inch laptop](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/lg-gram-17%22-intel-evo-platform-laptop---12th-gen-intel-i7-1260p---2560-x-1600-display---windows-11.product.100971154.html) at Costco for $999 (save $500), and [the Latitude 7420 business laptop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fdeals.dell.com%2Fen-us%2Fproductdetail%2Ffqnp) at Dell for $889 (save $1,320). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -79,19 +79,22 @@ Dell has the [Latitude 7420](https://shop-links.co/link/?exclusive=1&publisher_s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-perfect-your-content-with-tiktoks-number-manipulation-tricks/"><u>[New] In 2024, Perfect Your Content with TikTok's Number Manipulation Tricks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-d3dgear-screen-recorder-review-for-2024/"><u>[Updated] D3DGear Screen Recorder Review for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-quick-start-inserting-images-into-your-instagram-feed/"><u>[Updated] Quick Start Inserting Images Into Your Instagram Feed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-mechanism-behind-cross-audio-blending/"><u>2024 Approved Unveiling the Mechanism Behind Cross-Audio Blending</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhanced-artificial-intelligence-performance-with-intels-ultra-pc-the-new-era-of-optimized-model-integration/"><u>Enhanced Artificial Intelligence Performance with Intel's Ultra PC: The New Era of Optimized Model Integration</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/essential-guide-the-best-solar-lantern-for-adventurous-outdoor-excursions-and-sudden-energy-losses/"><u>Essential Guide: The Best Solar Lantern for Adventurous Outdoor Excursions & Sudden Energy Losses</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/essential-top-7-inquiries-for-purchasing-your-next-smart-home-gadget/"><u>Essential Top 7 Inquiries for Purchasing Your Next Smart Home Gadget</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exclusive-insight-the-high-end-price-tag-on-the-latest-model-g-electric-dual-zone-bbq/"><u>Exclusive Insight: The High-End Price Tag on the Latest Model G Electric Dual-Zone BBQ</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-ultra-hd-photography-insta360s-new-tiny-go-3-shoots-in-stunning-4k-resolution/"><u>Experience Ultra-HD Photography: Insta360's New Tiny Go 3 Shoots in Stunning 4K Resolution</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/fastest-audio-playback-speed-controlers-collection/"><u>Fastest Audio Playback Speed Controlers Collection</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/managing-several-gmail-profiles-steps-for-linking-multiple-google-logins-to-your-android-device/"><u>Managing Several Gmail Profiles: Steps for Linking Multiple Google Logins to Your Android Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/rugged-electric-bike-delivers-unforgettable-off-road-adventure-joyful-ride-with-tech-innovation-zdnet/"><u>Rugged Electric Bike Delivers Unforgettable Off-Road Adventure - Joyful Ride with Tech Innovation | ZDNet</u></a></li>
-<li><a href="https://win-web.techidaily.com/step-by-step-guide-how-do-you-insert-time-codes-into-your-videos/"><u>Step-by-Step Guide: How Do You Insert Time Codes Into Your Videos?</u></a></li>
-<li><a href="https://windows11.techidaily.com/whats-wrong-with-windows-modern-standby/"><u>What's Wrong with Windows Modern Standby?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-navigating-the-world-of-instagram-puzzles-for-peak-performance/"><u>[Updated] In 2024, Navigating the World of Instagram Puzzles for Peak Performance</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unleash-laughter-and-tears-the-best-instagram-meme-picks-for-2024/"><u>[Updated] Unleash Laughter and Tears The Best Instagram Meme Picks for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-comparisons-and-reviews-by-toms-hardware-specialists/"><u>Advanced Gadget Comparisons and Reviews by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-pineboard-hatdrive-ultimate-nano-ssd-for-raspberry-pi-4pi-5/"><u>Budget-Friendly Pineboard HatDrive: Ultimate Nano SSD for Raspberry Pi 4/Pi 5</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-assessment-asus-rog-azoth-extreme-for-gamers-under-500-usd/"><u>Detailed Assessment: Asus ROG Azoth Extreme for Gamers Under 500 USD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-unique-world-of-flsun-s1-fast-and-fun-solar-gadget/"><u>Discover the Unique World of FLSun S1 - Fast and Fun Solar Gadget</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-oppo-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Oppo</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/hd-light-blue-soccer-field-live-wallpaper-with-rotating-football-feature-high-quality-designs-by-yl-computing/"><u>HD Light Blue Soccer Field Live Wallpaper with Rotating Football Feature - High-Quality Designs by YL Computing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-performance-low-cost-storage-comprehensive-review-of-the-hatdrive-nano-ssd-for-pi-enthusiasts/"><u>High-Performance, Low-Cost Storage: Comprehensive Review of the HatDrive! Nano SSD for Pi Enthusiasts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-asus-rog-phone-7-ultimate-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Asus ROG Phone 7 Ultimate Lock Screen Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-realme-12-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Realme 12 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-motorola-moto-e13-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Motorola Moto E13 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-gizmos-with-expertise-from-toms-hardware/"><u>Mastering Gadgets & Gizmos with Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-lag-issues-improve-gameplay-with-higher-fps-on-the-latest-titles/"><u>Solving Lag Issues: Improve Gameplay with Higher FPS on the Latest Titles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-top-tier-pc-parts-by-toms-technology-experts/"><u>The Ultimate Guide to Top-Tier PC Parts by Tom's Technology Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-essential-hardware-advice-for-smart-buying/"><u>Tom’s Essential Hardware Advice for Smart Buying</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-100-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor 100 Pro Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expanding Internet of Things (IoT) Usage Escalates Potential Cybersecurity Threats | ZDNet
-date: 2024-09-19 10:11:51
-updated: 2024-09-20 12:40:48
+date: 2024-12-31T12:37:12.276Z
+updated: 2025-01-05T19:45:34.796Z
 tags:
   - networking
 categories:
@@ -70,11 +70,35 @@ Apple's iOS 18 launches in a public beta next month. It'll officially launch thi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-9-epic-live-gaming-stations-unlocked/"><u>[New] 9 Epic Live Gaming Stations Unlocked</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-blur-the-background-in-teams-meeting-desktop-and-mobile/"><u>[Updated] How to Blur the Background in Teams Meeting? [Desktop & Mobile]</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-xiaomi-13t-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Xiaomi 13T Activity | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/cutting-through-the-noise-top-15-non-gopro-cameras/"><u>Cutting Through the Noise Top 15 Non-GoPro Cameras</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hardware-hub-by-tom-your-source-for-cutting-edge-reviews/"><u>Hardware Hub by Tom: Your Source for Cutting-Edge Reviews</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-11-proplus-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 11 Pro+ in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/imessage-communication-from-your-desktop-tips-for-using-it-with-windows/"><u>IMessage Communication From Your Desktop: Tips for Using It with Windows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-best-10-youtube-volume-boosters-for-windows-macos-android-and-iphone/"><u>In 2024, Best 10 YouTube Volume Boosters for Windows, macOS, Android, and iPhone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-components-insights-from-toms-hardware-team/"><u>Navigating the World of PC Components: Insights From Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-your-next-purchase-on-toms-comprehensive-hardware-guides/"><u>Navigating Your Next Purchase on Tom's Comprehensive Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/new-high-speed-z791-wifi-board-powers-splaves-record-breaking-overclocking-feats/"><u>New High-Speed Z79^1 Wifi Board Powers Splave's Record-Breaking Overclocking Feats</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/newly-launched-budget-friendly-am5-mini-itx-motherboard-with-pcie-gen-4-by-sapphire-in-china/"><u>Newly-Launched Budget-Friendly AM5 Mini ITX Motherboard with PCIe Gen 4 by Sapphire in China</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revealed-the-powerhouse-of-a-board-unboxing-the-declassified-evgas-amd-motherboard/"><u>Revealed: The Powerhouse of a Board - Unboxing the Declassified EVGA's AMD Motherboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sapphire-unveils-affordable-pcie-gen-4-mini-itx-am5-board-for-chinese-market/"><u>Sapphire Unveils Affordable PCIe Gen 4 Mini ITX AM5 Board for Chinese Market</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-essential-hardware-handbook-by-tom-make-informed-tech-decisions/"><u>The Essential Hardware Handbook by Tom: Make Informed Tech Decisions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-expertise-on-computer-gear-and-systems/"><u>Tom's Expertise on Computer Gear and Systems</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

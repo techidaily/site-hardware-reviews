@@ -1,7 +1,7 @@
 ---
 title: Can the MSI Steam Deck Challenge Nintendo and Sony in the Portable Console Market?
-date: 2024-12-22T23:29:07.849Z
-updated: 2024-12-27T23:09:12.657Z
+date: 2025-01-03T06:43:21.065Z
+updated: 2025-01-06T11:27:21.226Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Furthermore, there are very few ports. You get three in total: two USB-C inputs 
 My last critique is admittedly a nitpick. I would've appreciated a free stylus in the overall package. Microsoft's 11th-gen Surface Pro had one when I got it, and I thoroughly enjoyed it. So unless you already have a pen, you'll have to buy one for the PZ13, which isn't a big issue since the laptop is fairly cheap.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ Prices for the Asus ProArt PZ13 start at [$1,100 on Best Buy](https://shop-links
 Other than that, they're the same device. Get the Hexagon version only if you are expecting heavy workloads.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -140,19 +140,18 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-harness-the-power-of-engagement-in-instagram-videos/"><u>[New] Harness the Power of Engagement in Instagram Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/hats-new-in-youtube-tv-updates-and-features/"><u>[New] What's New in YouTube TV Updates & Features?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-brighter-horizons-is-intense-light-for-hdr-right/"><u>[Updated] Brighter Horizons Is Intense Light for HDR Right?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-maximize-iphone-visual-capture-selective-photo-and-video-tools/"><u>2024 Approved Maximize iPhone Visual Capture Selective Photo & Video Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-top-6-best-webcams-for-zoom/"><u>2024 Approved Top 6 Best Webcams for Zoom</u></a></li>
-<li><a href="https://win-able.techidaily.com/complete-solution-to-horizon-forbidden-west-pc-crashes-optimization-tips-and-tricks/"><u>Complete Solution to Horizon Forbidden West PC Crashes - Optimization Tips & Tricks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-stunning-clarity-with-our-portable-1080p-156-inch-ips-display-priced-at-a-record-6599/"><u>Experience Stunning Clarity with Our Portable 1080P 15.6-Inch IPS Display - Priced at a Record $65.99</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-tom-hardware-insights/"><u>Exploring Technology with Tom: Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gamers-alert-enjoy-the-cutting-edge-technology-with-a-sceptre-curved-monitor-at-an-incredible-discounted-rate-of-79/"><u>Gamers Alert! Enjoy the Cutting-Edge Technology with a Sceptre Curved Monitor at an Incredible Discounted Rate of $79</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-itel-a60s-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Itel A60s Lock Screen Password</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862836975-transform-your-gaming-experience-with-the-alienware-curved-34-inch-oled-available-for-749-at-best-buy/"><u>Transform Your Gaming Experience with the Alienware Curved 34 Inch OLED - Available for $749 at Best Buy!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862802096-vaio-takes-portability-to-new-heights-the-worlds-lightest-screen-the-visionplus-n/"><u>Vaio Takes Portability to New Heights: The World’s Lightest Screen, the Vision+ N.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725289165026-winxvideo-ai/"><u>WinxVideo AIでの動画上書き - クリーンかつハイクオリティな解決手法</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-compelling-content-the-most-attractive-6-video-types/"><u>[Updated] Compelling Content The Most Attractive 6 Video Types</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-fidelity-graphics-on-4k-an-in-depth-look-at-proart-monitors/"><u>[Updated] High-Fidelity Graphics on 4K An In-Depth Look at ProArt Monitors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-art-of-revisiting-your-private-snap-history/"><u>2024 Approved The Art of Revisiting Your Private Snap History</u></a></li>
+<li><a href="https://fox-info.techidaily.com/backtracking-live-on-twitch-fifteen-ingenious-ways-to-revamp-streams/"><u>Backtracking Live on Twitch Fifteen Ingenious Ways to Revamp Streams</u></a></li>
+<li><a href="https://win11.techidaily.com/cheap-bargains-come-with-hidden-risks-for-windows-users/"><u>Cheap Bargains Come with Hidden Risks for Windows Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-oppo-a1-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Oppo A1 5G? Try These Fixes</u></a></li>
+<li><a href="https://win-tips.techidaily.com/oem-partitionsssd-windows-7-8-10dell-hp-lenovo/"><u>OEM Partitionsの簡単なSSDへの複製: Windows 7, 8, 10用Dell, HP, Lenovoマシン</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/original-replacement-components-for-google-pixel-available-at-ifixit/"><u>Original Replacement Components for Google Pixel Available at iFixit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-adjusting-autofill-and-managing-passwords-in-android-devices/"><u>Step-by-Step Guide: Adjusting AutoFill & Managing Passwords in Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-how-to-send-your-text-messages-forward-from-an-android-device/"><u>Step-by-Step Guide: How to Send Your Text Messages Forward From an Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/steps-to-incorporate-vital-health-details-on-your-android-device/"><u>Steps to Incorporate Vital Health Details on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-secret-behind-exceptional-phone-experience-its-all-about-timeless-uncomplicated-design/"><u>The Secret Behind Exceptional Phone Experience: It's All About Timeless, Uncomplicated Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-14-friendly-multiplayer-android-gaming-experiences-you-shouldnt-miss/"><u>Top 14 Friendly Multiplayer Android Gaming Experiences You Shouldn't Miss</u></a></li>
 </ul></div>
 

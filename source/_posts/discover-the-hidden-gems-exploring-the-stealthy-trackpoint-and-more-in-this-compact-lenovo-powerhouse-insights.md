@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: Exploring the Stealthy TrackPoint and More in This Compact Lenovo Powerhouse - Insights"
-date: 2024-12-25T23:41:59.983Z
-updated: 2024-12-27T19:53:17.116Z
+date: 2025-01-01T12:07:28.138Z
+updated: 2025-01-06T07:44:30.825Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cce20b3bd-264e-4243-8b2f-de2b540f1dec%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -110,7 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,24 +149,18 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-frugal-filmmakers-guide-to-affordable-camera-gear/"><u>[Updated] 2024 Approved The Frugal Filmmaker's Guide to Affordable Camera Gear</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-from-conceptualization-to-connection-stream-your-video-now/"><u>[Updated] In 2024, From Conceptualization to Connection Stream Your Video Now</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-making-a-difference-structuring-video-content-with-chapters/"><u>2024 Approved Making a Difference Structuring Video Content with Chapters</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dell-xps-13-2020-evaluation-continued-stylish-design-enhanced-by-the-latest-snapdragon-x-elite-chipset/"><u>Dell XPS 13 (2020) Evaluation: Continued Stylish Design Enhanced by the Latest Snapdragon X Elite Chipset</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-innovations-on-toms-tech-hub-your-guide-to-cutting-edge-hardware/"><u>Discover Innovations on Tom's Tech Hub - Your Guide to Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-computing-with-toms-hardware-guides/"><u>Discover the Latest in Computing with Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-top-notch-hardware-tips-with-toms-hardware-hub/"><u>Discover Top-Notch Hardware Tips with Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discovering-the-lenovo-legion-pro-5i-gen-9-a-game-changer-in-affordable-high-end-gaming-computers/"><u>Discovering the Lenovo Legion Pro 5I Gen 9: A Game Changer in Affordable High-End Gaming Computers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elite-performance-meets-eye-popping-price-explore-the-razer-blade-18-featuring-rtx-4090-graphics-card-and-amd-ryzen-processor-for-4799/"><u>Elite Performance Meets Eye-Popping Price: Explore the Razer Blade 18 Featuring RTX 4090 Graphics Card & AMD Ryzen Processor for $4,799</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/excellent-choices-best-windows-8-podcasting/"><u>Excellent Choices Best Windows 8 Podcasting</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-computing-with-amds-latest-in-the-asus-zenbook-s1/"><u>Experience Next-Level Computing with AMD's Latest in the Asus Zenbook S1</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-top-tier-gaming-with-the-compact-acer-predator-helios-14/"><u>Experience Top-Tier Gaming with the Compact Acer Predator Helios 14</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-technology-showdowns/"><u>Expert Insights From Tom's Technology Showdowns</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-motorola-razr-40-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Motorola Razr 40?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-nokia-g310-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Nokia G310 Unlock Without Password</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-how-to-edit-youtube-videos-ultimate-guide/"><u>In 2024, How To Edit YouTube Videos [Ultimate Guide]</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-optimize-your-channels-an-introduction-to-youtube-statistics/"><u>In 2024, Optimize Your Channels An Introduction to YouTube Statistics</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-y78t-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y78t Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/tab-troubles-tamed-keys-now-talking/"><u>Tab Troubles Tamed - Keys Now Talking</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-regular-are-youtube-monetization-payments/"><u>[New] How Regular Are YouTube Monetization Payments?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-y78plus-t1-edition-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/hidden-threats-at-your-doorstep-evading-fraudulent-transactions-online/"><u>Hidden Threats at Your Doorstep: Evading Fraudulent Transactions Online</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-speed-it-up-or-slow-down-the-netflix-guide/"><u>In 2024, Speed It Up or Slow Down The Netflix Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/most-affordable-graphic-cards-sale-alert-save-big-this-octobers-prime-day/"><u>Most Affordable Graphic Cards Sale Alert - Save Big This October's Prime Day</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-download-guide-focusrites-scarlett-2i4-sound-card-drivers-on-pc/"><u>Quick Download Guide: Focusrite's Scarlett 2I4 Sound Card Drivers on PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-evolution-of-ratchet-and-clank-a-modern-take-on-an-old-favorite/"><u>The Evolution of Ratchet & Clank: A Modern Take on an Old Favorite</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-comprehensive-guide-to-the-latest-hardware-innovations/"><u>Tom's Tech Insights: A Comprehensive Guide to the Latest Hardware Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-reviews-on-electronic-components-and-gadgets/"><u>Tom's Tech Insights: In-Depth Reviews on Electronic Components & Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guide-to-top-of-the-line-computer-gear/"><u>Tom's Tech Review: Comprehensive Guide to Top-of-the-Line Computer Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-your-ultimate-guide-to-cutting-edge-hardware/"><u>Tom's Tech Review: Your Ultimate Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-upgrade-efficient-aoc-drivers-release-e1659/"><u>Win Upgrade: Efficient AOC Drivers Release - E1659</u></a></li>
 </ul></div>
 

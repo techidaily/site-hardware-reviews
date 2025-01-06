@@ -1,7 +1,7 @@
 ---
 title: Discover Why This Lenovo Laptop Captivates Tech Savvy Users with Its Exceptional Duo Features | Exclusive Review by ZDNET
-date: 2024-12-22T19:03:39.877Z
-updated: 2024-12-27T17:31:38.395Z
+date: 2024-12-30T04:48:29.044Z
+updated: 2025-01-06T04:27:35.203Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,20 +134,22 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-flavorful-frames-stepwise-food-film-making/"><u>[New] 2024 Approved Flavorful Frames Stepwise Food Film-Making</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-the-backstage-pass-creating-content-that-works/"><u>[New] 2024 Approved The Backstage Pass Creating Content That Works</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-from-light-to-shadow-premiere-pro-transitions-for-2024/"><u>[Updated] From Light to Shadow Premiere Pro Transitions for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-images-in-your-instagram-profile/"><u>2024 Approved Mastering Images in Your Instagram Profile</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-quality-xiaomi-g34wqi-34-inch-180hz-monitor-review-vibrant-color-and-impressive-contrast-ratio-analysis/"><u>Affordable Quality: Xiaomi G34WQi 34-Inch 180Hz Monitor Review - Vibrant Color and Impressive Contrast Ratio Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/alienware-aw2725df-360hz-the-ultimate-battlefield-companion-unleashed-on-an-eye-popping-oled-screen/"><u>Alienware AW2725DF 360Hz: The Ultimate Battlefield Companion Unleashed on an Eye-Popping OLED Screen</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amazing-value-249-asus-tuf-curved-monitor-34-display-available-at-amazon/"><u>Amazing Value: $249 ASUS TUF Curved Monitor, 34 Display Available at Amazon</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862822842-amazing-value-249-asus-tuf-curved-monitor-34-display-available-at-amazon/"><u>Amazing Value: $249 ASUS TUF Curved Monitor, 34 Display Available at Amazon!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862826163-dells-high-resolution-qhd-ips-gaming-monitor-only-1ebaseandamppaged0-at-this-price/"><u>Dell's High-Resolution QHD IPS Gaming Monitor: Only $1Ebase=&amp;paged=0 at This Price!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862829005-experience-crystal-clear-visuals-with-the-27-qhd-ips-samsung-odyssey-g50a-now-priced-at-a-bargain-255-on-amazon/"><u>Experience Crystal Clear Visuals with the 27 QHD IPS Samsung Odyssey G50A - Now Priced at a Bargain $255 on Amazon</u></a></li>
-<li><a href="https://article-posts.techidaily.com/expert-list-of-websites-for-text-styling-tools-for-2024/"><u>Expert List of Websites for Text Styling Tools for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862836417-grab-yours-now-the-ultimate-steal-of-a-sceptre-24-inch-curved-tv-game-screen-at-79/"><u>Grab Yours Now! The Ultimate Steal of a Sceptre 24-Inch Curved TV Game Screen at $79</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/impeccable-console-replication-best-5-emulators-for-2024/"><u>Impeccable Console Replication Best 5 Emulators for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-google-pixel-8-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Google Pixel 8 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-convenient-alias-adjustment-in-google-meet-devices/"><u>[New] 2024 Approved Convenient Alias Adjustment in Google Meet Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-behind-the-lens-wisdom-the-best-cinemagraph-tips/"><u>[New] Behind-the-Lens Wisdom The Best Cinemagraph Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-reimagining-streaming-experience-beyond-manycam/"><u>[Updated] In 2024, Reimagining Streaming Experience Beyond ManyCam</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-top-gear-ratings-a-comprehensive-guide-by-toms-electronics-expertise/"><u>Discovering Top Gear Ratings - A Comprehensive Guide by Tom's Electronics Expertise</u></a></li>
+<li><a href="https://fox-links.techidaily.com/essential-sites-for-watching-vr-media/"><u>Essential Sites for Watching VR Media</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fords-semi-automated-vehicle-system-probed-after-fatal-incidents-essential-information-zdnet-news/"><u>Ford's Semi-Automated Vehicle System Probed After Fatal Incidents – Essential Information | ZDNET News</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-xs-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone XS Max without Password?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-xiaomi-redmi-note-12t-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Xiaomi Redmi Note 12T Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-20-proplus-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 20 Pro+ Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964501050-the-tone-must-be-urgent-and-passionate-as-if-the-ai-robot-caretaker-is-deeply-concerned-about-the-topic/"><u>The Tone Must Be Urgent and Passionate as if the AI Robot Caretaker Is Deeply Concerned About the Topic</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-gear-the-ultimate-guide-to-computer-components-and-performance/"><u>Tom's Tech Gear: The Ultimate Guide to Computer Components and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-your-ultimate-guide-to-cutting-edge-hardware/"><u>Tom's Tech Hub: Your Ultimate Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-reviews-and-analysis/"><u>Tom's Tech Insights: Comprehensive Reviews and Analysis</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/uberspielen-von-dateien-vom-iphoneipad-auf-eine-externe-speicherung-funf-effektive-tricks/"><u>Überspielen Von Dateien Vom iPhone/iPad Auf Eine Externe Speicherung - Fünf Effektive Tricks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-best-gaming-ram-in-2nd4e-swift-performance-budget-friendly-options-with-radiant-rgb-features/"><u>Ultimate Guide to the Best Gaming RAM in 2nD4e - Swift Performance, Budget-Friendly Options with Radiant RGB Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-performance-a-comprehensive-look-at-the-corsair-dominator-platinum-6400-mhz-rgb-led-and-2x16gb-ddr5-ram-modules/"><u>Unveiling Performance: A Comprehensive Look at the Corsair Dominator Platinum - 6400 MHz, RGB LED, and 2X16GB DDR5 RAM Modules</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-sk-hynixs-probe-into-suspected-illicit-dram-inside-huawei-devices/"><u>Unveiling SK Hynix's Probe Into Suspected Illicit DRAM Inside Huawei Devices</u></a></li>
 </ul></div>
 

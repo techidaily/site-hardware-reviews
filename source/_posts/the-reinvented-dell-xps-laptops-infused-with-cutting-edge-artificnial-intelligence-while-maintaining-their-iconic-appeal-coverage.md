@@ -1,7 +1,7 @@
 ---
 title: "The Reinvented Dell XPS Laptops: Infused with Cutting-Edge Artificnial Intelligence While Maintaining Their Iconic Appeal | Coverage"
-date: 2024-12-20T20:08:42.333Z
-updated: 2024-12-28T00:00:19.072Z
+date: 2024-12-31T18:18:28.434Z
+updated: 2025-01-06T02:38:09.647Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ Just ahead of [CES 2024](https://www.zdnet.com/topic/ces-2024/), Dell has reveal
 Every laptop will be powered by an Intel Core Ultra processor. The CPU will house an AI acceleration engine alongside a neural processing unit (NPU). The NPU can be considered a third resource, which is separate from the processor and graphics card that the laptop can access. The NPU will alleviate some of the laptop's workload while helping the battery maintain its longevity. What's more, the models will have ExpressCharge software, allowing users to recharge their computer from zero to 80% in about an hour.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,17 +85,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-10-shopping-sites-for-customized-gift-boxes-find-the-perfect-personalized-present/"><u>[New] Top 10 Shopping Sites for Customized Gift Boxes - Find the Perfect Personalized Present</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-how-to-banish-spotifys-recommended-podcasts/"><u>[Updated] 2024 Approved How to Banish Spotify's Recommended Podcasts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-bridging-worlds-unveiling-the-best-31-platforms-for-cross-language-video-conversion/"><u>2024 Approved Bridging Worlds Unveiling the Best 31 Platforms for Cross-Language Video Conversion</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-irecorder-the-screen-recording-standard/"><u>2024 Approved IRecorder The Screen Recording Standard</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-unleashing-the-power-of-the-aoc-agon-pro-ag456uczd-the-ultimate-45-ultra-wide-oled-gaming-monitor-for-enthusiasts-with-extreme-curvat12/"><u>A Comprehensive Review: Unleashing the Power of the AOC Agon Pro AG456UCZD - The Ultimate 45 Ultra-Wide OLED Gaming Monitor for Enthusiasts with Extreme Curvature and Lightning Performance!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-3d-lut-development-course/"><u>Comprehensive 3D LUT Development Course</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-kingston-fury-beast-a-review-of-its-ddr5-6000-2x32gb-configuration-and-performance-features/"><u>Comprehensive Analysis of the Kingston Fury Beast: A Review of Its DDR5-6000 2X32GB Configuration and Performance Features</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/detailed-review-of-beyerdynamic-mmx-30e-pro-outstanding-audio-performance-and-no-frills-design/"><u>Detailed Review of Beyerdynamic MMX 30E Pro: Outstanding Audio Performance and No-Frills Design</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tials-for-professionals-advanced-strategies-in-video-tagging-for-2024/"><u>Essentials for Professionals Advanced Strategies in Video Tagging for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-evaluation-of-the-logitech-blue-sona-headset-aesthetics-meet-performance-zdnet/"><u>In-Depth Evaluation of the Logitech Blue Sona Headset: Aesthetics Meet Performance | ZDNet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-hub-in-depth-gadget-analysis-and-advice/"><u>Tom's Hardware Hub: In-Depth Gadget Analysis & Advice</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-countdown-in-minutes-a-3-part-guide-to-fcpx-timers-for-2024/"><u>Updated Countdown in Minutes A 3-Part Guide to FCPX Timers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-huaweis-built-in-recorder-screen-capture-for-mate-and-p-series/"><u>[Updated] In 2024, Huawei's Built-In Recorder Screen Capture for Mate and P Series</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-startup-strategies-for-making-money-on-periscope/"><u>[Updated] Startup Strategies for Making Money on Periscope</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-the-features-of-rode-streamer-pro-x-could-this-be-the-answer-to-your-cinematic-challenges/"><u>Delving Into The Features Of Rode Streamer Pro X - Could This Be the Answer to Your Cinematic Challenges?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-learning-with-these-top-rated-animation-software/"><u>Elevate Learning with These Top-Rated Animation Software</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/enhance-your-document-management-system-with-abbyy-and-laserfiche-combined-capabilities-using-flexicapture-technology/"><u>Enhance Your Document Management System with ABBYY and Laserfiche Combined Capabilities Using FlexiCapture Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-hostingers-offerings-a-deep-dive-into-vps-cloud-platforms-and-shared-hosting-options/"><u>Evaluating Hostinger's Offerings: A Deep Dive Into VPS, Cloud Platforms, and Shared Hosting Options</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fix-mobile-device-errors-fb-vids-not-loading/"><u>Fix Mobile Device Errors FB Vids Not Loading</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/immersive-color-and-lightning-speed-an-insiders-look-at-the-unmatched-performance-of-philips-evonia-gaming-display-model-49m2c8900-240hz-oled/"><u>Immersive Color & Lightning Speed: An Insider's Look at the Unmatched Performance of Philips Evonia Gaming Display, Model 49M2C8900 (240Hz OLED)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-superior-pcmacos-users-choice-best-8-uhd-video-player/"><u>In 2024, Superior PC/MacOS Users' Choice Best 8 UHD Video Player</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-the-world-of-gadgets-with-toms-hardware-experts/"><u>Master the World of Gadgets with Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/my-top-pick-the-surprisingly-versatile-paper-writing-laptop-stylus-from-ces-a-must-see-innovation/"><u>My Top Pick: The Surprisingly Versatile Paper-Writing Laptop Stylus From CES - A Must-See Innovation!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-todays-tech-landscape-expert-hardware-advice-from-tom/"><u>Navigating Today's Tech Landscape: Expert Hardware Advice From Tom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/power-your-gadgets-on-the-go-in-depth-look-at-baseus-blade-100w-versatile-power-bank-for-all-your-devices-zdnet-review/"><u>Power Your Gadgets on the Go: In-Depth Look at Baseus Blade 100W Versatile Power Bank for All Your Devices | ZDNET Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341754699-preventive-measures-such-as-protective-eyewear-can-significantly-reduce-the-risk-of-ocular-trauma/"><u>Preventive Measures Such as Protective Eyewear Can Significantly Reduce the Risk of Ocular Trauma.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Insights: A Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-potential-with-gigabytes-b760m-ds3h-ax-the-ultimate-guide-to-an-entry-level-three-monitor-motherboard/"><u>Unlocking Performance Potential with Gigabyte's B760M DS3H AX - The Ultimate Guide to an Entry-Level Three-Monitor Motherboard</u></a></li>
 </ul></div>
 

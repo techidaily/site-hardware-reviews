@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Decision Alert: Comparing the New M2 to M3 MacBook Air From Apple | Tech Insights"
-date: 2024-12-23T18:19:33.505Z
-updated: 2024-12-27T16:10:10.518Z
+date: 2025-01-02T10:17:48.889Z
+updated: 2025-01-05T20:54:42.472Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple is _officially_ in the AI PC race
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -67,7 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -110,24 +110,24 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-confirmed-age-adjustment-editing-your-profile-on-tiktok-easily-for-2024/"><u>[New] Confirmed Age Adjustment Editing Your Profile on TikTok Easily for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-earn-big-on-youtube-strategies-for-successful-creators-for-2024/"><u>[New] Earn Big on YouTube Strategies for Successful Creators for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-stabilizing-your-motion-sensitive-cameras-a-step-by-step-guide/"><u>[New] Stabilizing Your Motion-Sensitive Cameras A Step by Step Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-power-play-joining-a-music-company-network-in-the-age-of-streaming/"><u>[New] The Power Play Joining a Music Company Network in the Age of Streaming</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-get-your-stream-on-point-with-these-top-webcams-for-youtube/"><u>[Updated] In 2024, Get Your Stream on Point with These Top Webcams for YouTube</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breaking-news-amd-patches-zen-2-vulnerability-dont-delay-apply-msis-updated-agesa-120-bios/"><u>Breaking News: AMD Patches Zen 2 Vulnerability - Don’t Delay! Apply MSI's Updated AGESA 1.2.0 BIOS</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-asus-pro-b760m-ct-csm-motherboard-why-choose-a-certified-supermom/"><u>Comprehensive Guide to Asus Pro B760M-CT CSM Motherboard - Why Choose a Certified Supermom?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-the-beast-a-deep-dive-into-the-asus-rog-z790-formulas-top-notch-hardware-and-efficient-cooling-mechanisms/"><u>Decoding the Beast: A Deep Dive Into the Asus ROG Z790 Formula's Top-Notch Hardware and Efficient Cooling Mechanisms</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-toms-gadget-guidance-mastering-hardware-solutions/"><u>Discover Tom's Gadget Guidance: Mastering Hardware Solutions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eradicate-windows-7-screen-flares/"><u>Eradicate Windows 7 Screen Flares</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/future-tech-uncovered-the-upcoming-line-of-certified-msi-z890-and-b860-boards-engineered-for-the-anticipated-intel-arrow-lake-s-chip-sneak-peek-before-compu82/"><u>Future Tech Uncovered: The Upcoming Line of Certified MSI Z890 & B860 Boards Engineered for the Anticipated Intel Arrow Lake-S Chip - Sneak Peek Before Computex 2024 Showcase</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/high-end-psd-lighting-tweaks-for-2024/"><u>High-End PSD Lighting Tweaks for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-solutions-and-reviews-discovering-tech-secrets-at-toms-hardware/"><u>Innovative Solutions and Reviews: Discovering Tech Secrets at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-analysis-and-reviews-the-toms-hardware-collection/"><u>Innovative Tech Analysis and Reviews - The Tom's Hardware Collection</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/professional-display-revolutionized-aoc-launches-its-cutting-edge-trio-of-graphic-pro-series-monitors-model-u3/"><u>Professional Display Revolutionized: AOC Launches Its Cutting-Edge Trio of Graphic Pro Series Monitors, Model U3</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-iphone-issues-how-to-utilize-the-apple-support-app-for-quick-fixes/"><u>Solving iPhone Issues: How to Utilize the Apple Support App for Quick Fixes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-unmissable-eyoy-em105-review-exceptional-value-meets-miniaturization-at-105-inches/"><u>The Unmissable EYOY EM105 Review – Exceptional Value Meets Miniaturization at 10.5 Inches</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-guide-removing-stubborn-folders-on-windows-1011-with-revo-uninstaller/"><u>Ultimate Guide: Removing Stubborn Folders on Windows 10/11 with Revo Uninstaller</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/standing-the-economics-behind-youtubes-shorts-fund-for-2024/"><u>Understanding the Economics Behind YouTube's Shorts Fund for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-ultimate-strategies-pinterest-to-mp3-migration-guide/"><u>[Updated] In 2024, Ultimate Strategies Pinterest to MP3 Migration Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-best-steadicam-options-for-high-end-dslr-video-production/"><u>2024 Approved The Best Steadicam Options for High-End DSLR Video Production</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/el-titling-101-the-quest-for-an-original-label-for-2024/"><u>Channel Titling 101 The Quest for an Original Label for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deciphering-the-function-of-an-hdmi-arc-inputoutput-in-modern-televisions/"><u>Deciphering the Function of an HDMI-ARC Input/Output in Modern Televisions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-the-best-aqara-smart-lock-option-an-experts-roadmap-to-making-the-choice-that-suits-you/"><u>Decoding the Best Aqara Smart Lock Option: An Expert's Roadmap to Making the Choice That Suits You</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-to-fix-blurry-facebook-videos-on-iphoneandroidchrome-in-2024/"><u>How to Fix Blurry Facebook Videos on iPhone/Android/Chrome, In 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-vivo-y78plus-t1-edition-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Vivo Y78+ (T1) Edition? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-13-pro-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 13 Pro with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/resolving-memory-issues-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Resolving Memory Issues on Windows: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-7-must-have-android-home-replacement-apps/"><u>Top 7 Must-Have Android Home Replacement Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-recommended-foldable-smartphones/"><u>Top Recommended Foldable Smartphones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-protective-covers-for-google-pixel-6-pro-2023-edition/"><u>Top-Rated Protective Covers for Google Pixel 6 Pro - 2023 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-non-responsive-corsair-icue-software-on-windows-11-pcs/"><u>Troubleshooting Steps for Non-Responsive Corsair iCUE Software on Windows 11 PCs</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/twist-and-turn-the-screen-unleashing-your-inner-dancer-with-tiktok-and-macos-for-2024/"><u>Twist & Turn the Screen Unleashing Your Inner Dancer with TikTok and MacOS for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-enabling-spell-check-and-grammar-correction-on-your-device/"><u>Ultimate Guide: Enabling Spell Check and Grammar Correction on Your Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-the-5g-uc-indicator-in-mobile-devices/"><u>Understanding the '5G UC' Indicator in Mobile Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upcoming-upgrades-promise-superior-functionality-for-android-nearby-sharing/"><u>Upcoming Upgrades Promise Superior Functionality for Android Nearby Sharing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-are-there-no-wps-buttons-anymore-on-android-phones-a-comprehensive-guide/"><u>Why Are There No WPS Buttons Anymore on Android Phones: A Comprehensive Guide</u></a></li>
 </ul></div>
 

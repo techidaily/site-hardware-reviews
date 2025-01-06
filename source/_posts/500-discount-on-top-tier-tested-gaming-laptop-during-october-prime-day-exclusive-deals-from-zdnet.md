@@ -1,7 +1,7 @@
 ---
 title: $500 Discount on Top-Tier Tested Gaming Laptop During October Prime Day - Exclusive Deals From ZDNet
-date: 2024-12-22T16:13:06.174Z
-updated: 2024-12-27T21:20:06.306Z
+date: 2024-12-30T05:24:04.656Z
+updated: 2025-01-05T19:53:15.484Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Dell/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -99,7 +99,7 @@ A total of five vents on the m18 R2 allow for maximum internal airflow. Addition
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -109,7 +109,7 @@ In fact, one thing I noticed about the m18 R2 is that it never really felt hot t
 However, this is also quite a large laptop, so although it's portable, it isn't exactly carry-and-go, and it isn't a machine that you can leave unplugged for hours at a time. Pricing can easily rise toward the higher end too, but the cutting-edge technology solidifies the m18 R2 as something that will be near the top of the laptop market for a while. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -146,14 +146,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-master-techniques-for-live-sport-broadcast-recording/"><u>[New] 2024 Approved Master Techniques for Live Sport Broadcast Recording</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-master-the-art-of-customization-for-youtube-shorts-thumbnails/"><u>[Updated] Master the Art of Customization for YouTube Shorts Thumbnails</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-phantom-slow-motion-masterclass/"><u>[Updated] Phantom Slow Motion Masterclass</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/activating-the-do-not-disturb-feature-in-google-pixel-automatically-during-driving-a-step-by-step-guide/"><u>Activating the 'Do Not Disturb' Feature in Google Pixel Automatically During Driving: A Step-by-Step Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo S17e? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/keep-your-hp-officejet-pro-8720-running-smoothly-with-the-newest-windows-driver-downloads/"><u>Keep Your HP OfficeJet Pro 8720 Running Smoothly with the Newest Windows Driver Downloads</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/weekly-insights-latest-releases-of-windows-powered-notebooks-and-exclusive-sneak-peeks-into-spotifys-roadmap/"><u>Weekly Insights: Latest Releases of Windows-Powered Notebooks & Exclusive Sneak Peeks Into Spotify's Roadmap</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/whats-the-origin-behind-the-name-android-for-mobile-os/"><u>What's the Origin Behind the Name 'Android' For Mobile OS</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/worthwhile-or-outdated-the-debate-over-upgrading-from-stock-android-keyboard/"><u>Worthwhile or Outdated: The Debate Over Upgrading From Stock Android Keyboard</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-transformative-zooms-for-snapchat-photos-and-videos/"><u>[New] 2024 Approved Transformative Zooms for Snapchat Photos & Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-fbx-guide-to-professional-gamers-footage/"><u>[Updated] FBX Guide to Professional Gamers' Footage</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-essential-tips-for-online-photo-cropting/"><u>[Updated] In 2024, Essential Tips for Online Photo Cropting</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341717928-boost-your-raspberry-pis-storage-with-low-cost-high-speed-hatdrive-by-pineboards/"><u>Boost Your Raspberry Pi's Storage with Low-Cost, High-Speed HatDrive by Pineboards!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-overview-of-the-sk1-two-trees-chip-unveiling-its-rapid-community-driven-capabilities/"><u>Exclusive Overview of the SK1 Two Trees Chip: Unveiling Its Rapid, Community-Driven Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-and-analysis-at-toms-technology-hub/"><u>Expert Reviews & Analysis at Tom's Technology Hub</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-lenovo-thinkphone-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Lenovo ThinkPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-future-today-introducing-keychron-q1-he-the-cutting-edge-wireless-mechanical-keyboard/"><u>Get the Future Today: Introducing Keychron Q1 HE, the Cutting-Edge Wireless Mechanical Keyboard</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-apple-iphone-11-pro-max-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From Apple iPhone 11 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionize-your-workflow-the-top-7-digital-tokens-makers/"><u>In 2024, Revolutionize Your Workflow - The Top 7 Digital Tokens Makers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-patriot-viper-vp4300-lite-4tb-ssd-performance-vs-affordability/"><u>In-Depth Analysis of the Patriot Viper VP4300 Lite 4TB SSD - Performance Vs. Affordability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-reviews-join-us-at-toms-tech-forum/"><u>Pioneering Hardware Reviews: Join Us at Tom's Tech Forum</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revolutionizing-video-speed-in-social-networks/"><u>Revolutionizing Video Speed in Social Networks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solution-public-hearings-allow-stakeholders-and-residents-to-voice-concerns-or-support-potentially-influencing-modifications-to-the-division-plan-for-better7/"><u>Solution: Public Hearings Allow Stakeholders and Residents to Voice Concerns or Support, Potentially Influencing Modifications to the Division Plan for Better Alignment with Community Interests</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-high-performance-components-by-toms-gear-insights/"><u>The Ultimate Guide to High-Performance Components by Tom's Gear Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-asus-rog-nuc-groovy-desktop-solution-compact-and-efficient/"><u>Unboxing the Asus ROG NUC Groovy Desktop Solution - Compact and Efficient</u></a></li>
 </ul></div>
 

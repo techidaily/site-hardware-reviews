@@ -1,7 +1,7 @@
 ---
 title: "Cloud Gaming on Lenovo IdeaPad Gaming Chromebook: How Hardware Limitations Affect Performance"
-date: 2024-12-24T19:04:52.119Z
-updated: 2024-12-27T16:40:37.050Z
+date: 2024-12-31T09:56:05.224Z
+updated: 2025-01-05T18:31:31.638Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ Honestly, the differences in that comparison will be mostly razor thin. My testi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -58,7 +58,7 @@ Honestly, the differences in that comparison will be mostly razor thin. My testi
 | Dimensions and weight | 19.95mm (H) x 356.5mm (W) x 253mm (D) (0.79 x 14.03 x 9.96 inches) \| 4.01lbs                                              |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Build and ports
@@ -94,7 +94,7 @@ Unusually, for a Lenovo device, I didn't love the keyboard. The individual keys 
 Of course, you'll eventually get used to this layout, but I'm not certain it was necessary to begin with. Very few gamers make use of a full numpad for anything short of custom real-time strategy layouts or unusual MMORPG control schemes. Even then, they'd likely be better served by something like the [SteelSeries Aerox 9 Wireless](https://www.zdnet.com/home-and-office/home-entertainment/steelseries-aerox-9-wireless-review/), or another MMO/MOBA mouse that does the same job as a numpad.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance
@@ -120,7 +120,7 @@ As a last note, I should mention that the battery life of the IdeaPad Gaming Chr
 [Lenovo IdeaPad Gaming Chromebook $600 at Lenovo](https://lenovo.vzew.net/c/5597632/218864/3808?sharedId=zdnet&u=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fideapad%2Fideapad-gaming-laptops%2Fideapad-5i-gaming-chromebook-gen-7-%2816-inch-intel%29%2F82v8000hux&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -136,7 +136,7 @@ This Chromebook and others like it are already more than capable enough to handl
 Thankfully, progress is constantly being made. In the short few weeks between the Acer review and this one, Xbox Cloud Gaming has seen noticeable performance enhancements. But then again, it also continues to stop me dead when trying to play some games. I believe cloud gaming really will fulfill its potential...eventually. If you want an excellent way of joining in what will surely be a wild ride on the way there, Lenovo's take on a gaming Chromebook is one of the best options available. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -187,22 +187,21 @@ Would you rather dabble in cloud gaming, but maintain the ability to locally ins
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-sharing-knowledge-via-instagrams-hyperlink-haven/"><u>[New] In 2024, Sharing Knowledge via Instagram's Hyperlink Haven</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-11-best-free-youtube-name-generators-you-should-try/"><u>[Updated] 2024 Approved 11 Best Free YouTube Name Generators You Should Try</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-benq-sw320-4k-315-inch-monitor-review/"><u>[Updated] 2024 Approved BenQ SW320 4K 31.5-Inch Monitor Review</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-addressing-missing-image-display-in-youtubes-shorts-for-2024/"><u>[Updated] Addressing Missing Image Display in YouTubes Shorts for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-by-step-approach-for-effective-spotify-marketing/"><u>2024 Approved A Step-by-Step Approach for Effective Spotify Marketing</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-walkthrough-joining-the-playstation-online-community/"><u>Complete Walkthrough: Joining the PlayStation Online Community</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/corsairs-revolutionary-rmx-series-psu-units-with-innovative-side-mounted-modularity/"><u>Corsair's Revolutionary RMx Series: PSU Units with Innovative Side-Mounted Modularity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cyberpower-backup-units-face-fire-risk-users-warn/"><u>CyberPower Backup Units Face Fire Risk, Users Warn</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-worlds-smallest-atx-3n-psu-from-enermax-the-ultimate-choice-for-space-saving-rear-connector-enhanced-computer-builds/"><u>Discover the World’s Smallest ATX 3.n PSU From Enermax – The Ultimate Choice for Space-Saving, Rear-Connector Enhanced Computer Builds</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/efficiency-and-performance/"><u>Efficiency and Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-evaluating-performance-and-reliability-of-thermaltakes-1350w-toughpower-gf3-power-supply-unit/"><u>Expert Insights: Evaluating Performance and Reliability of Thermaltake's 1350W Toughpower GF3 Power Supply Unit</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964495768-power-up-with-corsairs-budget-friendly-1000-watt-sff-power-supply-unit-now-just-149/"><u>Power up with Corsair’s Budget-Friendly 1000-Watt SFF Power Supply Unit Now Just $149</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/power-up-with-corsairs-budget-friendly-1000-watt-sff-power-supply-unit-now-just-149/"><u>Power up with Corsair’s Budget-Friendly 1000-Watt SFF Power Supply Unit Now Just $149!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/447146-9781101127384-the-witchs-magical-handbook/"><u>The Witch's Magical Handbook | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-performance-benchmarks/"><u>Tom's Tech Review: In-Depth Analysis and Performance Benchmarks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-audio-free-recording-a-comprehensive-guide/"><u>[New] In 2024, Audio-Free Recording A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-beginners-handbook-to-harnessing-the-power-of-movie-maker-in-windows-11/"><u>[Updated] A Beginner's Handbook to Harnessing the Power of Movie Maker in Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-free-youtube-money-calculators-calculate-youtube-money/"><u>[Updated] In 2024, Free YouTube Money Calculators-Calculate YouTube Money</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/debunking-ai-myths-inadequate-cryptocurrency-expertise/"><u>Debunking AI Myths: Inadequate Cryptocurrency Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-asus-rog-azoth-extreme-at-just-500-reviews-inside/"><u>Expert Analysis on Asus ROG Azoth Extreme at Just $500 - Reviews Inside!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/fast-and-powerful-how-mu-stacks-up-against-raspberry-pi-4-in-speed-though-costs-more/"><u>Fast and Powerful: How Mu Stacks Up Against Raspberry Pi 4 in Speed, Though Costs More</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/harmonizing-comms-on-os-windows-error-rectified/"><u>Harmonizing Comms on OS Windows, Error Rectified</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-honor-90-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Honor 90 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-unbeatable-corsair-1tb-m2-slim-e2-t-reviewed/"><u>In-Depth Analysis of the Unbeatable Corsair 1TB M.2 Slim (E2# T) Reviewed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-data-merge-techniques-integrating-multiple-spreadsheet-sources-in-excel/"><u>Mastering Data Merge Techniques: Integrating Multiple Spreadsheet Sources in Excel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-insights-with-toms-pc-hub/"><u>Mastering Hardware Insights with Tom's PC Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-digital-space-with-tips-from-toms-hardware-hub/"><u>Mastering Your Digital Space with Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://fox-access.techidaily.com/motorcycles-viewfinder-gems-top-5-helmets-with-hats-for-the-modern-rider/"><u>Motorcycle's Viewfinder Gems – Top 5 Helmets with Hats for the Modern Rider</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-of-the-curve-top-picks-in-hardware-from-toms-authoritative-reviews/"><u>Stay Ahead of the Curve: Top Picks in Hardware From Tom's Authoritative Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-reviews-and-advice/"><u>Tom's Tech Insights: Comprehensive Reviews and Advice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasts-using-manycam-cutting-edge-livestream-tech-and-remote-cam-devices/"><u>Transform Your Broadcasts Using ManyCam: Cutting-Edge Livestream Tech & Remote Cam Devices</u></a></li>
 </ul></div>
 

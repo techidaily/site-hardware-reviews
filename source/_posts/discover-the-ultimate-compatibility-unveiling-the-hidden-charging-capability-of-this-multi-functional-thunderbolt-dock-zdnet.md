@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Compatibility: Unveiling the Hidden Charging Capability of This Multi-Functional Thunderbolt Dock | ZDNet"
-date: 2024-12-20T21:42:54.506Z
-updated: 2024-12-27T21:46:11.195Z
+date: 2025-01-03T04:05:33.232Z
+updated: 2025-01-06T05:15:16.913Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C845c8ccf-ab05-4ea1-8ad3-f242b1b9fbbd%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -110,7 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,19 +149,16 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-a-critique-of-vivas-video-capabilities/"><u>[Updated] In 2024, A Critique of Viva's Video Capabilities</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-pro-level-tiktok-edits-techniques-that-increase-viewership/"><u>[Updated] In 2024, Pro-Level TikTok Edits Techniques That Increase Viewership</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-insiders-guide-to-youtube-success/"><u>[Updated] In 2024, The Insider's Guide to YouTube Success</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-venturing-into-vector-world-starting-point-and-top-tools/"><u>[Updated] In 2024, Venturing Into Vector World Starting Point and Top Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1-dual-mouse-mastery-my-top-tech-upgrade-of-the-year/"><u>1. 'Dual-Mouse Mastery: My Top Tech Upgrade of the Year'</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-grading-inshot-does-it-reign-supreme/"><u>2024 Approved Grading InShot Does It Reign Supreme?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-pure-pitch-perception-recording-in-mac-studios/"><u>In 2024, Pure Pitch Perception Recording in Mac Studios</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-essential-tutorial-for-facebook-live-on-roku-tv/"><u>In 2024, The Essential Tutorial for Facebook Live on Roku TV</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/make-your-own-meme/"><u>Make Your Own Meme</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-wi-fi-7-features-and-benefits-is-it-worth-the-upgrade/"><u>Understanding Wi-Fi 7: Features & Benefits - Is It Worth the Upgrade?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-origins-of-enigmatic-tech-phrases-demonstrations-and-digital-eulogy/"><u>Unveiling the Origins of Enigmatic Tech Phrases - Demonstrations & Digital Eulogy</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-the-classic-clamshell-computer-design-remains-forever-popular/"><u>Why the Classic Clamshell Computer Design Remains Forever Popular</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-thickness-isnt-everything-uncovering-the-top-3-features-to-consider-when-choosing-a-tv/"><u>Why Thickness Isn't Everything: Uncovering the Top 3 Features to Consider When Choosing a TV</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-how-to-go-viral-on-youtube-with-minimal-effort/"><u>[New] 2024 Approved How to Go Viral on YouTube with Minimal Effort</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-strategic-showcasing-10-essential-tips-to-improve-your-instagram-highlights-for-2024/"><u>[New] Strategic Showcasing 10 Essential Tips to Improve Your Instagram Highlights for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-the-latest-atx-board-from-maxsun-the-stylish-high-capacity-z790m-d5-ice-with-5x-m2-options/"><u>Comprehensive Guide to The Latest ATX Board From Maxsun: The Stylish, High-Capacity Z790M D5 Ice with 5X M.2 Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-id-cooling-fx360-pro-cpu-cooler-great-performance-at-only-60/"><u>Expert Analysis of ID-Cooling FX360 Pro Cpu Cooler - Great Performance at Only $60!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-computer-hardware-from-toms-resource-hub/"><u>Expert Insights Into Computer Hardware From Tom's Resource Hub</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rust-programming-how-to-fix-the-kernel-panic-error/"><u>Rust Programming: How to Fix the 'Kernel Panic' Error</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secrets-unveiled-stealthy-methods-to-keep-your-chatgpt-interactions-safe-and-invisible/"><u>Secrets Unveiled: Stealthy Methods to Keep Your ChatGPT Interactions Safe and Invisible</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-why-your-steam-games-wont-start-in-windows-10-and-how-to-solve-them/"><u>Troubleshooting Tips: Why Your Steam Games Won't Start in Windows 10 & How to Solve Them</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-corsair-mp600-mini-1tb-ssd-top-pick-for-e27t-m2-drives/"><u>Ultimate Guide to Corsair MP600 Mini 1TB SSD - Top Pick for E27T M.2 Drives</u></a></li>
 </ul></div>
 

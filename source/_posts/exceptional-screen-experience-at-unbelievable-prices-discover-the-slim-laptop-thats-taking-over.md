@@ -1,7 +1,7 @@
 ---
 title: Exceptional Screen Experience at Unbelievable Prices! Discover the Slim Laptop That's Taking Over
-date: 2024-12-24T20:19:59.264Z
-updated: 2024-12-27T23:10:30.744Z
+date: 2024-12-30T21:47:17.447Z
+updated: 2025-01-06T09:08:39.239Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the Amazon Prime Day deal?
@@ -33,7 +33,7 @@ Ahead of the Prime Big Deal Days sale, the [LG Gram Pro 16 2-in-1](https://buy.g
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -101,7 +101,7 @@ For most users, this is not much of an issue, but during exceptionally heavy loa
 Finally, the battery life on this machine was about what you'd expect from a 2-in-1 with an OLED screen. This is a laptop that can last a full day of work, but only barely. Depending on how hard you're pushing it, expect to see 7-8 hours on a single charge. I got around that during my testing. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,7 +111,7 @@ In a market of dozens of 2-in-1 laptops that were released this year, the [LG Gr
 If you're looking for more budget-friendly options, the [Acer Swift Edge 16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-swift-edge-16-16-3-2k-120hz-oled-laptop-amd-ryzen-7-7840u-with-16gb-lpddr5-memory-1tb-pcie-gen-4-ssd-olivine-black%2F6546242.p&publisher_slug=itechdaily19598&exclusive=1) features the same sized OLED screen and weighs slightly more at 2.73 pounds, but will only cost you $1,300.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,16 +148,17 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-how-to-tweet-videos-on-iphoneandroid-without-a-retweet/"><u>[New] 2024 Approved How To Tweet Videos on iPhone/Android Without a Retweet</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-expand-access-to-creative-works-pick-from-the-best-free-youtube-shorts-downloader-apps/"><u>[New] In 2024, Expand Access to Creative Works Pick From the Best Free YouTube Shorts Downloader Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-optimized-auditory-experience-choosing-the-best-audio-device/"><u>[Updated] Optimized Auditory Experience Choosing the Best Audio Device</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210934648-9781782497561-44-ways-to-talk-to-your-angels/"><u>44 Ways to Talk to Your Angels | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862821283-amazon-drops-price-immerse-yourself-in-gaming-with-a-giant-39-inch-lg-ultragear-wqhd-curved-monitor-for-999/"><u>Amazon Drops Price: Immerse Yourself in Gaming with a Giant 39-Inch LG Ultragear WQHD Curved Monitor for $999!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862816787-elevate-your-gaming-setup-the-sale-of-a-lifetime-acer-nitros-24-curved-monitor-at-an-unbeatable-price-of-81/"><u>Elevate Your Gaming Setup: The Sale of a Lifetime - Acer Nitro's 24 Curved Monitor at an Unbeatable Price of $81!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862805004-experience-next-level-gaming-on-a-budget-the-gigabyte-gs3gs32qhttpswwwgigabytecomusmonitorplus-plusgraphics-32-qhd-monitor-now-at-199/"><u>Experience Next-Level Gaming on a Budget: The Gigabyte GS3^[GS32Q](https://www.gigabyte.com/us/Monitor+-+Graphics) 32'' QHD Monitor Now at $199</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-spectrum-visionary-eizos-cg318-4k-reviewed-and-revealed/"><u>In 2024, Full Spectrum Visionary EIZO's CG318-4K Reviewed and Revealed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/maquillage-officiel-achetez-le-convertisseur-video-winx-hd-en-ligne-et-beneficiez-dun-rabais-vacances-exclusif/"><u>Maquillage Officiel : Achetez Le Convertisseur Vidéo WinX HD en Ligne Et Bénéficiez D'un Rabais Vacances Exclusif</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862771438-title-elevate-your-gaming-with-the-asus-rog-strix-xg27acs-a-review-of-its-dynamic-qhd-display-and-robust-accuracy/"><u>Title: Elevate Your Gaming with the Asus ROG Strix XG27ACS: A Review of Its Dynamic QHD Display and Robust Accuracy.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862790686-unbeatable-dell-gaming-screen-at-an-amazing-price-199/"><u>Unbeatable Dell Gaming Screen at an Amazing Price: $199</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-tips-to-navigate-the-world-of-free-iphoneipad-edits/"><u>[New] 2024 Approved Tips to Navigate the World of Free iPhone/iPad Edits</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/irst-foray-into-fashionable-mac-made-videos-for-youtube/"><u>[New] First Foray Into Fashionable Mac-Made Videos for YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-aiming-for-the-stars-select-7-top-shooter-experiences/"><u>[Updated] Aiming for the Stars Select 7 Top Shooter Experiences</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unveiling-the-most-effective-methods-for-your-hp-laptop-recordings-for-2024/"><u>[Updated] Unveiling the Most Effective Methods for Your HP Laptop Recordings for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/webpmovavi/"><u>高画質で効率的なWEBP画像変換、Movaviのフリーオンラインツール - すぐに始める方法</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-emporium-comprehensive-guides-and-reviews/"><u>Exploring Tom's Tech Emporium: Comprehensive Guides & Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-reviews-top-picks-and-insights/"><u>Exploring Tom's Tech Reviews: Top Picks & Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-gadget-insights-by-tom-exploring-advanced-technology-hardware/"><u>Innovative Gadget Insights by Tom - Exploring Advanced Technology Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-generation-hbm-manufacturing-set-to-launch-at-new-memory-fab-by-sk-hynix-in-indiana-a-387-billion-dollar-venture/"><u>Next Generation HBM Manufacturing Set to Launch at New Memory Fab by SK Hynix in Indiana - A 3.87 Billion Dollar Venture</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/score-the-new-apple-ipad-10gen-at-an-unbeatable-price-of-299-exclusive-post-prime-day-bargain-zdnet-news/"><u>Score the New Apple iPad 10Gen at an Unbeatable Price of $299 - Exclusive Post-Prime Day Bargain! | ZDNET News.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/teamgroup-t-force-vulcan-alpha-ddr5-memory-c38-review-the-perfect-match-for-amd-ryzen-7000-series/"><u>TeamGroup T-Force Vulcan Alpha DDR5 Memory (C38) Review – The Perfect Match for AMD Ryzen 7000 Series</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-key-to-dramatic-contrast-in-hdr-portrait-photography-for-2024/"><u>The Key to Dramatic Contrast in HDR Portrait Photography for 2024</u></a></li>
 </ul></div>
 

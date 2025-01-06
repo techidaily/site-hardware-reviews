@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Upcoming Kubuntu-Powered IR14: A Linux Laptop Designed for Optimal Performance with KDE Plasma"
-date: 2024-12-23T21:26:39.304Z
-updated: 2024-12-27T20:14:24.391Z
+date: 2025-01-02T17:42:18.403Z
+updated: 2025-01-05T17:06:55.498Z
 tags:
   - laptops
 categories:
@@ -17,10 +17,6 @@ If you're shopping for the [best laptop](https://www.zdnet.com/article/best-lapt
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -49,6 +45,10 @@ Cons
 
 ## Lenovo Yoga 9i
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best overall battery life laptop
 
 **CPU:** Intel Evo i7-1185G7 | **GPU:** Intel Iris Xe integrated graphics | **RAM:** 16GB | **Storage:** 512GB SSD | **Display size:** 14-inches | **Resolution:** 1080p | **Refresh rate:** 60Hz | **Battery life:** 15 hours 
@@ -73,14 +73,10 @@ Cons
 * Expensive
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## HP Spectre x360
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best 2-in-1 battery life laptop
 
@@ -106,7 +102,7 @@ Cons
 * Not user upgradeable once configured
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Chromebook 4+
@@ -135,6 +131,10 @@ Cons
 
 ## Dell G15
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best battery life laptop for gaming
 
 **CPU:** Intel Core i7-12700H | **GPU:** Nvidia GeForce RTX 3050 Ti | **RAM:** 16GB | **Storage:** 512GB NVMe SSD | **Display size:** 15.6-inches | **Resolution:** 1080p | **Refresh rate:** 120Hz | **Battery life:** 10 hours 
@@ -159,6 +159,10 @@ Cons
 
 ## Acer Swift 3X
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best battery life laptop for under $1100
 
 **CPU:** Intel Core i7-1165G7 | **GPU:** Intel Iris Xe Max integrated | **RAM:** 16GB | **Storage:** 1TB SSD | **Display size:** 14-inches | **Resolution:** 1080p | **Refresh rate:** 60Hz | **Battery life:** 14 hours 
@@ -179,10 +183,6 @@ The best battery life laptop is the Lenovo Yoga 9i since its 2-in-1 form factor 
 | Dell G15              | $1100     | 10 hours         | Intel Core i7-12700H |
 | Acer Swift 3X         | $1043     | 14 hours         | Intel Core i7-1165G7 |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which laptop is right for you?
 
 Once you've hammered out a budget for a new laptop, you then need to figure out how long you will need the battery to last once it's unplugged. For students and mobile professionals, you'll want to err on the side of caution, opting for models with longer battery lives than what you actually need; just in case classes or work runs long and you can't get to a wall outlet right away. Gamers looking for a new laptop need to temper their expectations on battery life and go into the shopping process knowing that the absolute most you'll get out of a full charge while playing games is 3 to 4 hours, but the average is closer to just 2 hours. However, gaming laptops can have much longer battery lives when used for things like browsing the web and streaming media. 
@@ -195,10 +195,6 @@ Once you've hammered out a budget for a new laptop, you then need to figure out 
 | Dell G15                  | A gaming laptop                                        |
 | Acer Swift 3X             | A laptop with 14 hours of battery life for under $1000 |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these laptops?
 
 Aside from price and battery life, I tried to choose a variety of laptops to suit different work and entertainment needs. I chose models from brands like HP, Dell, Samsung, and Acer because they tend to be not only affordable, but reliable as well.
@@ -207,17 +203,21 @@ Aside from price and battery life, I tried to choose a variety of laptops to sui
 
 It all depends on what you're going to use the laptop for. Gaming laptops are considered to have "excellent" battery lives when you can get 3 or 4 hours out of them while playing games. For laptops intended for home, school, or office work, it's reasonable to expect your battery to last between 8 and 10 hours. Though it is possible to find models with significantly longer battery lives, which are great if you want to use your laptop while on a business flight or watch a movie in bed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can I use my laptop while it's charging?
 
 Absolutely! You can do everything on a laptop while it's charging that you can when it's unplugged. My advice would be to not leave it plugged in after the battery reaches full charge, since this can actually damage the battery and lead to a diminished battery life.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to improve laptop battery life?
 
 If you want to get more use out of a battery charge or extend your laptop's standby time, you can take a variety of steps to do so. One of the quickest and easiest is to simply reduce your screen's brightness; by reducing screen brightness, it won't draw as much power and extend your battery's life. You can also enable a power save mode, which automatically disables unused ports and programs to reduce power consumption. Or you can keep your laptop's operating temperatures lower with a [cooling pad](https://www.zdnet.com/article/best-laptop-cooling-pad/). By improving airflow and waste heat dissipation, your laptop won't have to work as hard to run programs, further improving battery life.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best battery life laptop for gaming?
 
@@ -261,14 +261,24 @@ There are plenty of options out there if you're prioritizing battery life over o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-navigating-screen-space-enlargement-on-youtube/"><u>[Updated] 2024 Approved Navigating Screen Space Enlargement on YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-artists-playground-the-prime-6-platforms-for-nft-creation/"><u>2024 Approved Artists' Playground The Prime 6 Platforms for NFT Creation</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-itel-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Itel Phone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-technology-masterful-tips-from-toms-experts-in-hardware/"><u>Decoding Technology: Masterful Tips From Tom’s Experts in Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722957883872-download-updated-nvidia-rtx-3070-graphics-driver-for-windows-1110-get-the-best-performance-now/"><u>Download Updated NVIDIA RTX 3070 Graphics Driver for Windows 11/10 - Get the Best Performance Now</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-technology-with-toms-hardware-guides/"><u>Exploring the Latest in Technology with Tom's Hardware Guides</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-c53-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on C53</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-on-electronics-toms-hardware-insights/"><u>The Ultimate Resource on Electronics - Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-gadgets/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Gadgets</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-from-script-to-screen-the-compreeved-guide-to-youtube-video-edits/"><u>[Updated] From Script to Screen The Compreeved Guide to YouTube Video Edits</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-essentials-of-creating-and-curating-instagram-highlights/"><u>[Updated] In 2024, The Essentials of Creating and Curating Instagram Highlights</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-foodie-fads-the-tiktok-treat-that-took-over/"><u>2024 Approved Foodie Fads The #Tiktok Treat that Took Over</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/essential-tips-for-magix-video-pro-x-users/"><u>Essential Tips for Magix Video Pro X Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/getting-to-know-tech-better-dive-into-toms-hardware-treasure-trove-of-information/"><u>Getting to Know Tech Better? Dive Into Tom's Hardware Treasure Trove of Information</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-tecno-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Tecno .</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-asus-proart-pa32ucxr-unmatched-color-precision-in-a-compact-form/"><u>In-Depth Analysis of the Asus ProArt PA32UCXR - Unmatched Color Precision in a Compact Form</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-picks-for-your-setup-sourced-from-toms-hardware-guide/"><u>Innovative Tech Picks for Your Setup – Sourced From Tom’s Hardware Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-tech-destination-comprehensive-gear-evaluations/"><u>Inside Tom's Tech Destination: Comprehensive Gear Evaluations</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/konvertingereen-wtv-en-online-in-wmv-met-gratuiciel-movavi/"><u>Konvertingereen WTV en Online in WMV Met Gratuiciel Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macx-downloader-protect-and-save-videosmusic-from-youtube-on-windows-and-mac-platforms/"><u>MacX Downloader: Protect & Save Videos/Music From YouTube on Windows & Mac Platforms</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-creation-with-elegoo-the-all-new-saturn-4-ultra-review/"><u>Mastering Modern Creation with Elegoo - The All-New Saturn 4 Ultra Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-and-peripherals-toms-authoritative-hardware-advice/"><u>Navigating the World of Gadgets & Peripherals: Tom's Authoritative Hardware Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-gaming-experience-with-gigabytes-aorus-z69ueh-an-intense-review-of-the-high-performance-4k-oled-display-at-lightning-speed/"><u>Revolutionize Your Gaming Experience with Gigabyte's Aorus Z69UEH: An Intense Review of the High-Performance, 4K OLED Display at Lightning Speed</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-mac-video-editor-adobe-premiere-pro-for-experts-for-2024/"><u>The Ultimate Mac Video Editor Adobe Premiere Pro for Experts for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-comprehve-review-showcase/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Comprehve Review Showcase</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-performer-showdown-in-depth-review-of-gigabytes-high-end-aorus-fo32u2p-monitor-with-ultra-4k-240hz-visual-splendor/"><u>Top-Performer Showdown: In-Depth Review of Gigabyte's High-End Aorus FO32U2P Monitor with Ultra 4K, 240Hz Visual Splendor</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-11-proplus-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme 11 Pro+ Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-oneplus-12r-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My OnePlus 12R Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

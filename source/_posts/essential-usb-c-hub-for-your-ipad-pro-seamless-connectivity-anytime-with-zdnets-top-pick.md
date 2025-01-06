@@ -1,7 +1,7 @@
 ---
 title: "Essential USB-C Hub for Your iPad Pro: Seamless Connectivity Anytime with ZDNet's Top Pick"
-date: 2024-12-24T19:33:29.885Z
-updated: 2024-12-27T18:45:13.997Z
+date: 2025-01-03T03:43:28.286Z
+updated: 2025-01-06T07:49:35.176Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -40,10 +44,6 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -59,7 +59,7 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -83,7 +83,7 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -127,7 +127,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -141,7 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -182,14 +182,18 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-sudden-shadow-immediate-copyright-issue/"><u>[New] In 2024, Sudden Shadow Immediate Copyright Issue</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-essential-srt-compendium-for-all-levels-for-2024/"><u>[New] The Essential SRT Compendium for All Levels for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-windows-11-the-next-level-upgrade-journey-for-2024/"><u>[Updated] Windows 11 The Next-Level Upgrade Journey for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862749259-amazons-exclusive-get-lg-34qhd-ultragear-monitor-with-g-sync-tech-for-a-steal-at-549/"><u>Amazon's Exclusive: Get LG 34QHD Ultragear Monitor with G-Sync Tech for a Steal at $549!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-oneplus-ace-2-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 OnePlus Ace 2 Pro Android SIM Unlock APK</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-windows-11-snip-and-sketch-command/"><u>Unlock Windows 11 Snip & Sketch Command</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-advanced-computing-a-dive-into-toms-hardware-analysis/"><u>Unveiling Advanced Computing: A Dive Into Tom's Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hard-drive-technology-with-tom/"><u>Unveiling the Latest in Hard Drive Technology with Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/your-guide-to-gadgets-and-gear-in-depth-reviews-by-toms-hardware-experts/"><u>Your Guide to Gadgets and Gear: In-Depth Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-guide-to-successfully-saving-your-iptv-streams-for-2024/"><u>[New] Guide to Successfully Saving Your IPTV Streams for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-top-vlog-concepts-for-daily-engagement/"><u>[New] In 2024, Top Vlog Concepts for Daily Engagement</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-how-to-optimize-microphone-use-on-windows-11-for-best-results-for-2024/"><u>[Updated] How to Optimize Microphone Use on Windows 11 for Best Results for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-prime-audio-solutions-for-creators/"><u>[Updated] Prime Audio Solutions for Creators</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-permanently-stop-the-ring-of-elysium-from-freezing-during-play-a-detailed-fix-guide/"><u>How to Permanently Stop the Ring of Elysium From Freezing During Play - A Detailed Fix Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/identify-the-exact-model-of-your-android-smartphone-a-step-by-step-guide/"><u>Identify the Exact Model of Your Android Smartphone - A Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-g24-power-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola G24 Power Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-pros-and-cons-of-onyx-boox-tab-ultra-a-comprehensive-guide-to-the-premier-e-paper-tablet/"><u>Inside the Pros and Cons of Onyx Boox Tab Ultra: A Comprehensive Guide to the Premier E-Paper Tablet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/keep-your-android-display-on-a-comprehensive-guide-to-managing-sleep-settings/"><u>Keep Your Android Display On: A Comprehensive Guide to Managing Sleep Settings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-single-finger-navigation-unlocking-the-secrets-of-androids-handicap-accessibility/"><u>Mastering Single-Finger Navigation: Unlocking the Secrets of Android's Handicap Accessibility</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/meet-the-game-changer-in-smartphones-the-new-google-pixel-fold/"><u>Meet the Game-Changer in Smartphones: The New Google Pixel Fold</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/meet-your-next-smartphone-companer-the-amazing-entry-level-google-pixel-7a-arrives-now/"><u>Meet Your Next Smartphone Companer: The Amazing Entry-Level Google Pixel 7a Arrives Now!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/monster-hunter-rise-stuck-on-loading-screen-heres-the-solution/"><u>Monster Hunter Rise Stuck on Loading Screen? Here's the Solution!</u></a></li>
 </ul></div>
 

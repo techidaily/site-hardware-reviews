@@ -1,7 +1,7 @@
 ---
 title: Major Network Failure at Optus Under Scrutiny in Australia, with Over Million Users Affected | The Insight by ZDNET
-date: 2024-09-17 12:54:59
-updated: 2024-09-20 10:49:17
+date: 2024-12-30T21:49:32.442Z
+updated: 2025-01-06T12:14:43.187Z
 tags:
   - networking
 categories:
@@ -70,11 +70,37 @@ Apple's iOS 18 launches in a public beta next month. It'll officially launch thi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-instagram-video-sharing-techniques/"><u>[Updated] 2024 Approved Instagram Video Sharing Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-skyrocket-your-e-commerce-with-these-15-facebook-analytics/"><u>[Updated] In 2024, Skyrocket Your E-Commerce with These 15 Facebook Analytics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/149-deal-on-acer-nitro-27/"><u>$149 Deal on Acer Nitro 27</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-from-live-demos-to-replays-tapping-into-aiseesoft-screencast-potential/"><u>2024 Approved From Live Demos to Replays Tapping Into Aiseesoft Screencast Potential</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quick-tutorial-for-top-memes-kinemaster/"><u>2024 Approved Quick Tutorial for Top Memes KineMaster</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tips-for-producing-high-quality-hdr-photographs-with-lightroom/"><u>2024 Approved Tips for Producing High-Quality HDR Photographs with Lightroom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862778136-elevate-your-gameplay-with-a-crystal-clear-innocn-27-240hz-gaming-monitor-limited-offer-only-1amonth/"><u>Elevate Your Gameplay with a Crystal-Clear Innocn 27 240Hz Gaming Monitor - Limited Offer: Only $1Amonth!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-xiaomi-redmi-12-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Xiaomi Redmi 12 to iPod | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-ultimate-guide-to-photo-perfection-on-snapchat/"><u>In 2024, The Ultimate Guide to Photo Perfection on Snapchat</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862799080-revolutionary-tech-unveiled-the-new-modos-paper-monitor-offers-an-open-source-solution-to-high-res-and-low-latency-needs/"><u>Revolutionary Tech Unveiled: The New Modos Paper Monitor Offers an Open-Source Solution to High Res and Low Latency Needs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862752577-snag-a-colossal-lg-ultragear-wqhd-curved-monitor-39-steal-it-at-amazon-for-only-999/"><u>Snag a Colossal LG Ultragear WQHD Curved Monitor (39) - Steal It at Amazon for Only $999!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transforming-your-kindle-into-an-e-ink-display-a-step-by-step-guide/"><u>Transforming Your Kindle Into an E-Ink Display: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-showdown-of-the-gigabyte-aorus-co49dq-oled-display-immersive-colors-and-deep-blacks-unleashed/"><u>Ultimate Showdown of the Gigabyte Aorus CO49DQ OLED Display: Immersive Colors & Deep Blacks Unleashed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultra-high-definition-graphics-unveiled-aocs-new-graphic-pro-series-u3-hits-the-pro-arena/"><u>Ultra-High Definition Graphics Unveiled: AOC's New Graphic Pro Series U3 Hits the Pro Arena</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-colors-on-screen-a-comprehensive-guide-to-asus-rog-swift-pg49wcd-monitor-review/"><u>Unveiling the Colors on Screen: A Comprehensive Guide to Asus ROG Swift PG49WCD Monitor Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-components-by-toms-experts/"><u>Unveiling the Latest in Computer Components by Tom's Experts</u></a></li>
+<li><a href="https://solve-help.techidaily.com/user-agreement-discussions-understanding-terms-and-conditions/"><u>User Agreement Discussions: Understanding Terms and Conditions</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

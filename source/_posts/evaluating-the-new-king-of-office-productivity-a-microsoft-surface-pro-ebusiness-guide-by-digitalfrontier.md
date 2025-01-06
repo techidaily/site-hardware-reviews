@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the New King of Office Productivity: A Microsoft Surface Pro Ebusiness Guide by DigitalFrontier"
-date: 2024-12-25T17:51:45.441Z
-updated: 2024-12-27T22:42:32.024Z
+date: 2025-01-03T21:55:18.599Z
+updated: 2025-01-06T08:08:08.288Z
 tags:
   - laptops
 categories:
@@ -48,10 +48,6 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -74,10 +70,6 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -94,6 +86,10 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -101,10 +97,6 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -131,10 +123,6 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -144,6 +132,10 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -156,6 +148,10 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 **Also:** [**Want a touchscreen MacBook? This portable monitor makes it possible**](https://www.zdnet.com/home-and-office/smart-office/want-a-touchscreen-macbook-this-portable-monitor-makes-it-possible/)
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -170,10 +166,14 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -212,19 +212,18 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-pro-level-gopro-tricks-and-insights/"><u>[New] 2024 Approved Pro-Level GoPro Tricks and Insights</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-prime-video-power-players-all-time-top-tweets-and-views-ranking/"><u>[Updated] In 2024, Prime Video Power Players All-Time Top Tweets & Views Ranking</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-the-most-popular-anime-themed-tiktok-videos-of-all-time/"><u>[Updated] The Most Popular Anime-Themed TikTok Videos of All Time</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-youtubes-finest-unveiling-the-best-reaction-tricks/"><u>[Updated] YouTube's Finest Unveiling the Best Reaction Tricks</u></a></li>
-<li><a href="https://video-capture.techidaily.com/10-top-free-screen-recorder-mac/"><u>10 Top Free Screen Recorder Mac</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-western-digital-my-passport-6tb-robust-and-compact/"><u>Comprehensive Evaluation of Western Digital My Passport (6TB): Robust & Compact</u></a></li>
-<li><a href="https://facebook.techidaily.com/enhance-security-get-instagrams-2fa-verification-on-whatsapp/"><u>Enhance Security: Get Instagram's 2FA Verification on WhatsApp</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-powerful-features-of-highpoints-rocket-1608a-usb-drives-card-ultimate-review/"><u>Evaluating the Powerful Features of HighPoint's Rocket 1608A USB Drives Card - Ultimate Review</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-11-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on 11 5G</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-180hz-titan-army-p27a2g-a-savvy-buyers-guide-for-gamers/"><u>In-Depth Analysis of the 180Hz Titan Army P27A2G - A Savvy Buyer's Guide for Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-levelplays-combat-air-ca4-the-epitome-of-silent-and-efficient-cpu-cooling-solutions/"><u>In-Depth Review of Levelplay's Combat Air CA4 - The Epitome of Silent and Efficient CPU Cooling Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/insider-knowledge-on-gadgets-the-toms-hardware-edge/"><u>Insider Knowledge on Gadgets: The Tom's Hardware Edge</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-through-lipo-technologies-for-drones-needs-for-2024/"><u>Navigating Through LiPo Technologies for Drones' Needs for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-perfecting-elite-canon-time-lapse-cinematic/"><u>[New] 2024 Approved Perfecting Elite Canon Time-Lapse Cinematic</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-revolutionizing-photo-quality-with-auto-and-smart-hdr-features/"><u>[New] Revolutionizing Photo Quality with Auto and Smart HDR Features</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-top-non-gopro-cameras-for-adventure-and-sports-enthusiasts/"><u>[Updated] In 2024, Top Non-GoPro Cameras for Adventure and Sports Enthusiasts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-subtitles-made-simple-top-10-zero-cost-downloaders/"><u>[Updated] Subtitles Made Simple Top 10 Zero-Cost Downloaders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-windows-11-ultimate-video-recorder-software/"><u>2024 Approved Windows 11 Ultimate Video Recorder Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/abbyy-reflechit-a-un-redefinition-de-sa-marque-avec-un-nouveau-design-et-slogan/"><u>ABBYY Refléchit À Un Redéfinition De Sa Marque Avec Un Nouveau Design Et Slogan</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/blueant-soundblade-unveiled-audibly-impressive-and-visually-stunning-review/"><u>BlueAnt Soundblade Unveiled: Audibly Impressive and Visually Stunning Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-western-digital-wd-blue-sn50n0-a-game-changing-4tb-ssd/"><u>Comprehensive Analysis of the Western Digital WD Blue SN50n0 - A Game-Changing 4TB SSD</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-pro-audio-recording-the-ultimate-audacity-course/"><u>In 2024, Pro Audio Recording The Ultimate Audacity Course</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-asuss-powerhouse-the-rog-rapture-gt-be9-pro-wifi-7-gigabit-router-a-balance-of-speed-and-flexibility/"><u>In-Depth Look at Asus's Powerhouse - The ROG Rapture GT-BE9# PRO WiFi 7 Gigabit Router: A Balance of Speed and Flexibility</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-components-wisdom-from-toms-workshop/"><u>Mastering Gadgets & Components - Wisdom From Tom's Workshop</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-selections-with-toms-technological-wisdom/"><u>Mastering Hardware Selections with Tom's Technological Wisdom</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-against-dota-2s-crash-problem-top-solutions-for-uninterrupted-gaming/"><u>Winning Against Dota 2'S Crash Problem - Top Solutions for Uninterrupted Gaming</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Anticipating Innovations at Apple's Event: The Revolutionary M4 Mac Mini, Redesigned iPads, and Cutting-Edge Apple Intelligence Unveiled"
-date: 2024-12-26T23:39:25.136Z
-updated: 2024-12-27T17:17:28.963Z
+date: 2024-12-29T22:59:01.198Z
+updated: 2025-01-05T18:36:53.339Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,24 +118,15 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-6-budget-friendly-youtube-outro-makers/"><u>[New] Top 6 Budget-Friendly YouTube Outro Makers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-how-to-get-and-add-animated-emojis-on-discord-for-2024/"><u>[Updated] How to Get and Add Animated Emojis on Discord for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-hide-and-discover-instagram-stories-leaders/"><u>[Updated] In 2024, Hide & Discover Instagram Stories Leaders</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-one-size-fits-all-not-with-these-top-mics-for-diverse-channels-for-2024/"><u>[Updated] One Size Fits All? Not with These Top Mics for Diverse Channels for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/best-free-hd-video-software-effortlessly-watch-full-hd-movies-on-windows/"><u>Best Free HD Video Software - Effortlessly Watch Full HD Movies on Windows</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-with-tom-authoritative-hardware-insights/"><u>Decoding Tech with Tom: Authoritative Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/detailed-analysis-and-insights-from-techmastertom/"><u>Detailed Analysis and Insights From TechMasterTom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-innovative-hardware-with-tom-expert-insights-and-evaluations/"><u>Discover Innovative Hardware with Tom - Expert Insights and Evaluations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-setup-with-the-latest-asus-innovation-rog-strix-xg227-wcs-a-superior-27-va-panel-at-a-whopping-180hz/"><u>Elevate Your Gaming Setup with the Latest Asus Innovation: ROG Strix XG2^27 WCS – A Superior 27 VA Panel at a Whopping 180Hz!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/epic-price-drop-for-the-ultrawide-samsung-oled-odyssey-g9-49-of-stunning-visuals-at-bargain-prices/"><u>Epic Price Drop for the Ultrawide Samsung OLED Odyssey G9 - 49 of Stunning Visuals at Bargain Prices!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exclusive-deal-alert-samsungs-cutting-edge-odyssey-g9-monitor-drops-to-record-lows/"><u>Exclusive Deal Alert: Samsung's Cutting-Edge Odyssey G9 Monitor Drops to Record Lows</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-computing-equipment-toms-hardware-wisdom/"><u>Expert Guidance on Computing Equipment - Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-toms-hardware-products/"><u>Expert Insights on Tom's Hardware Products</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-the-world-of-computers-with-toms-hardware-insights/"><u>Explore the World of Computers with Tom's Hardware Insights</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-8-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 8</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Motorola Moto G24? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-se-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone SE? Learn All 4 Methods</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/vrije-websmiting-eenvoudige-3g2-to-mp4-conversie-met-de-helping-hand-van-movavi/"><u>Vrije Websmiting: Eenvoudige 3G2-to-MP4 Conversie Met De Helping Hand Van Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-tech-for-professional-video-shows/"><u>Cutting Edge Tech for Professional Video Shows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-eye-catching-aesthetics-of-the-new-galaxy-tab-s9-series-are-they-worth-their-cost/"><u>Exploring the Eye-Catching Aesthetics of the New Galaxy Tab S9 Series - Are They Worth Their Cost?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/f-droid-vs-play-store-what-sets-them-apart-and-why-you-should-consider-the-alternative-app-repository/"><u>F-Droid Vs. Play Store: What Sets Them Apart and Why You Should Consider the Alternative App Repository</u></a></li>
+<li><a href="https://blog-min.techidaily.com/fixing-mac-dvd-player-issues-a-comprehensive-guide-to-resolution/"><u>Fixing Mac DVD Player Issues: A Comprehensive Guide to Resolution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/guide-setting-up-song-crossfading-feature-on-apple-music/"><u>Guide: Setting Up Song Crossfading Feature on Apple Music</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-to-fix-google-messages-when-it-continuously-fails/"><u>How to Fix Google Messages When It Continuously Fails</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-fix-synology-drive-client-when-its-stuck-in-processing-alternatives-and-tips/"><u>How to Fix Synology Drive Client When It's Stuck in 'Processing': Alternatives and Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-making-a-mark-with-square-video-formats-using-imovie-and-instagram/"><u>In 2024, Making a Mark with Square Video Formats Using iMovie and Instagram</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Oppo Reno 9A? | Dr.fone</u></a></li>
 </ul></div>
 

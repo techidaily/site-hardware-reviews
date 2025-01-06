@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Snapping Screenshots on Popular Laptops - Dell, Lenovo, Mac
-date: 2024-12-24T17:02:42.603Z
-updated: 2024-12-27T16:07:34.620Z
+date: 2024-12-29T16:13:42.192Z
+updated: 2025-01-05T20:56:25.323Z
 tags:
   - laptops
 categories:
@@ -26,19 +26,11 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to take screenshots on any laptop
 
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Screenshotting on Windows-based laptops
 
@@ -47,7 +39,7 @@ While the process for taking a screenshot on every laptop varies somewhat, the b
 ### **Option 1: The old fashioned way**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
@@ -59,6 +51,10 @@ In any case, it should be easy to find by looking for the key marked **Prt**, **
 The button can be just about anywhere, so just look for something that looks as similar as possible to the legend on this one.
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
 
@@ -72,7 +68,15 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option 2: The Snipping Tool and Win+Shift+S**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
@@ -85,6 +89,10 @@ The main difference in using Windows+Shift+S is that windows won't automatically
 The Windows 11 version of the basic Snipping Tool menu and its icon.
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Screenshotting on Macs
 
@@ -100,19 +108,11 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What's a good, free image editing software to use on my screenshots?
 
@@ -157,18 +157,17 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-maximize-content-consumption-6-best-free-youtube-short-downloaders/"><u>[Updated] 2024 Approved Maximize Content Consumption 6 Best Free YouTube Short Downloaders</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-momentum-meets-mass-audience/"><u>2024 Approved Momentum Meets Mass Audience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-the-new-m4-mac-mini-prospect-specs-launch-date-and-price-predictions/"><u>All You Need to Know About the New M4 Mac Mini - Prospect Specs, Launch Date & Price Predictions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-unveils-new-rog-strix-xg2-cuilntess-gaming-display-27-inch-180hz-refresh-rate-on-a-premium-va-panel/"><u>Asus Unveils New ROG Strix XG2 Cuilntess Gaming Display: 27-Inch, 180Hz Refresh Rate on a Premium VA Panel</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/captivating-couture-bilingual-banter/"><u>Captivating Couture: Bilingual Banter</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-spark-20-proplus-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Tecno Spark 20 Pro+</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/next-gen-devs-dream-affordable-chinese-startups-risc-ve-laptop-at-300/"><u>Next-Gen Devs' Dream: Affordable Chinese Startup's RISC-Ve Laptop at $300</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/premier-alienware-and-dell-discounts-for-gamers/"><u>Premier Alienware & Dell Discounts for Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862761277-the-ultimate-gamers-guide-to-the-dough-spectrum-black-27-oled-display-in-depth-reveal-on-exceptional-color-precision-and-premium-quality-output/"><u>The Ultimate Gamer's Guide to the Dough Spectrum Black 27 OLED Display: In-Depth Reveal on Exceptional Color Precision & Premium Quality Output</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/transform-your-zephyrus-g14-experience-with-asus-new-dali-concept-a-colorful-leap-forward-for-gamer-lid-displays/"><u>Transform Your Zephyrus G14 Experience with Asus' New Dali Concept - A Colorful Leap Forward for Gamer Lid Displays</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-disk-unknown-not-initialized-in-windows/"><u>Troubleshooting Disk Unknown Not Initialized in Windows</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unintentional-consequences-hp-probooks-affected-by-updated-bios-causing-black-screen-issues/"><u>Unintentional Consequences: HP ProBooks Affected by Updated BIOS Causing Black Screen Issues</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-tips-and-tricks-for-efficient-twitch-stream-recordings/"><u>[New] Tips and Tricks for Efficient Twitch Stream Recordings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-direct-link-between-twitter-and-tumblr-videos/"><u>[Updated] 2024 Approved Direct Link Between Twitter and Tumblr Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sparkle-on-screen-ideal-tools-for-online-videos/"><u>[Updated] Sparkle on Screen Ideal Tools for Online Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077s-episode-2024-glitches-unraveling-the-mystery/"><u>Cyberpunk 2077'S Episode 2024 Glitches: Unraveling the Mystery</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-personalized-typing-with-xyza-tiny-keyboard-v20-new-features-include-triple-tailored-keys-and-adjustable-dial-for-enhanced-usability/"><u>Experience Personalized Typing with XYZA Tiny Keyboard v2.0 – New Features Include Triple-Tailored Keys and Adjustable Dial for Enhanced Usability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-insights-by-tom-your-trusted-source/"><u>Expert Hardware Insights by Tom - Your Trusted Source</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-14-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi 14 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-gadget-analysis-by-toms-electronics-guide/"><u>In-Depth Gadget Analysis by Tom's Electronics Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-gadget-guide/"><u>Navigating the World of Technology with Tom's Gadget Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-insights-in-depth-hardware-evaluation-and-comparison/"><u>Tom's Computer Insights: In-Depth Hardware Evaluation and Comparison</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transitioning-to-a-new-era-apple-ditches-finewoven-accessories-for-cutting-edge-beats-gear-analysis/"><u>Transitioning to a New Era: Apple Ditches FineWoven Accessories for Cutting-Edge Beats Gear, Analysis</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your OnePlus 12R | Dr.fone</u></a></li>
 </ul></div>
 

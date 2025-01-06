@@ -1,7 +1,7 @@
 ---
 title: How LG's Innovative Gram Pro Laptop Triumphs Over the MacBook Air in Performance, Battery Life & Portability | GadgetGuru
-date: 2024-12-23T23:12:21.429Z
-updated: 2024-12-27T18:07:37.433Z
+date: 2025-01-01T08:13:22.957Z
+updated: 2025-01-06T13:09:45.746Z
 tags:
   - laptops
 categories:
@@ -56,7 +56,7 @@ If you're at all familiar with the previous ThinkPad X1 computers, you'll notice
 Another consequence of the limited space is the lack of ports. You have four inputs in total: two Thunderbolt 4 ports, an 3.5mm headphone/mic combo, and a slot for a Nano SIM, although the last one is optional. It's as barebones as you can get. To be honest, I am pleasantly surprised that there is a headphone jack. With how simple the [third-generation ThinkPad X1 Nano](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-nano-gen-3-%2813-inch-intel%29%2Flen101t0054&publisher_slug=itechdaily19598&exclusive=1) is, I was a little shocked it made the cut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -97,24 +97,24 @@ Prices [start at $1,043](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-building-your-dream-4k-video-editing-studio-a-diy-blueprint/"><u>[New] Building Your Dream 4K Video Editing Studio A DIY Blueprint</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-social-media-blend-easy-twitch-to-facebook-integration/"><u>[Updated] 2024 Approved Social Media Blend Easy Twitch to Facebook Integration</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-secrets-to-effortlessly-posting-youtube-on-fb/"><u>[Updated] In 2024, Secrets to Effortlessly Posting YouTube on FB</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1726224028961-bmpjpg-movavi/"><u>「即座にフリーソフトでBMPからJPGへの変換機能 – Movavi」</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1-enhance-your-whatsapp-chats-ultimate-formatting-tips-and-shortcuts/"><u>1. Enhance Your WhatsApp Chats: Ultimate Formatting Tips and Shortcuts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amazon-fire-tablet-hack-shifting-apps-to-external-sd-memory-for-enhanced-performance-and-storage-management/"><u>Amazon Fire Tablet Hack: Shifting Apps to External SD Memory for Enhanced Performance and Storage Management</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/android-leads-in-notification-innovation-outshining-iphone-features/"><u>Android Leads in Notification Innovation, Outshining iPhone Features</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/benefits-unveiled-discover-five-compelling-reasons-to-opt-for-a-samsung-galaxy-tab-rather-than-an-ipad/"><u>Benefits Unveiled: Discover Five Compelling Reasons to Opt for a Samsung Galaxy Tab Rather Than an iPad.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/combine-computer-imagery-like-a-pro-for-2024/"><u>Combine Computer Imagery Like a Pro for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/conserve-battery-and-reduce-data-usage-with-googles-streamlined-lightweight-android-applications/"><u>Conserve Battery & Reduce Data Usage with Google's Streamlined Lightweight Android Applications</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/efficient-energy-use-in-mobile-how-to-prevent-app-drain-with-androids-hidden-power-mode/"><u>Efficient Energy Use in Mobile: How to Prevent App Drain with Android's Hidden Power Mode</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/effortless-steps-removing-repeated-data-from-your-android-device/"><u>Effortless Steps: Removing Repeated Data From Your Android Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/july-28th-mark-your-calendar-get-ready-to-browse-best-buys-exclusive-listings-for-new-ryzen-ai-300-laptops/"><u>July 28Th - Mark Your Calendar! Get Ready to Browse Best Buy's Exclusive Listings for New Ryzen AI 300 Laptops</u></a></li>
-<li><a href="https://win-docs.techidaily.com/navigating-the-best-seo-services-in-san-francisco-a-2024-ranking-blueprint-by-top-tier-experts/"><u>Navigating the Best SEO Services in San Francisco – A 2024 Ranking Blueprint by Top-Tier Experts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-iphones-icloud-backup-problem-with-these-9-tips/"><u>Solve Your iPhone's iCloud Backup Problem with These 9 Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-editors-almanac-key-takeaways-from-filmora-editioning-for-2024/"><u>The Editor’s Almanac Key Takeaways From Filmora Editioning for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/top-3-macos-synchronization-tools-comprehensive-review-features-and-step-by-step-guide/"><u>Top 3 macOS Synchronization Tools: Comprehensive Review, Features, and Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-steps-to-find-out-your-android-version-and-build-id/"><u>Unveiling the Steps to Find Out Your Android Version and Build ID</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upcoming-foldable-version-of-google-pixel-could-feature-a-simplified-photography-setup/"><u>Upcoming Foldable Version of Google Pixel Could Feature a Simplified Photography Setup</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-combine-power-tweeting-and-snapping-with-snapchat-for-2024/"><u>[Updated] Combine Power Tweeting and Snapping with Snapchat for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-top-applications-for-remote-team-connection/"><u>[Updated] In 2024, Top Applications for Remote Team Connection</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-rethinking-recipes-squared-up-tutorials-for-youtube-and-facebook-success-for-2024/"><u>[Updated] Rethinking Recipes Squared-Up Tutorials for YouTube and Facebook Success for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-mac-visuals-plus-acoustics-scribing-tool-for-2024/"><u>[Updated] Ultimate Mac Visuals + Acoustics Scribing Tool for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cold-war-call-of-duty-troubleshooting-error-code-887-a0005-demystified/"><u>Cold War Call of Duty Troubleshooting: Error Code 887 A0005 Demystified</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-breakdown-of-asus-rog-keris-ii-ace-vs-deathadder-v3-pro-battle-for-gaming-supremacy-begins/"><u>Comprehensive Breakdown of Asus ROG Keris II Ace vs DeathAdder V3 Pro: Battle for Gaming Supremacy Begins</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-testing-of-asrocks-z79-bios-guide/"><u>Comprehensive Testing of ASRock's Z79지킨트 라이트니늄 와일드플로우 모바일 BIOS Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-review-of-the-hp-omnibook-x-long-lasting-on-a-single-charge/"><u>Expert Review of the HP OmniBook X: Long-Lasting on a Single Charge</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gaming-at-its-best-with-the-aorus-z69ueh-an-in-depth-look-at-the-gigabyte-gaming-monitors-high-performance-and-elegant-design-features/"><u>Gaming at Its Best with the Aorus Z69UEH: An In-Depth Look at the Gigabyte Gaming Monitor's High Performance and Elegant Design Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206258902-how-to-securely-eliminate-critical-error-scams-in-google-chrome-expert-tips-inside/"><u>How to Securely Eliminate Critical Error SCAMs in Google Chrome – Expert Tips Inside!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-multiformat-manual-effortless-conversion-of-srt-files/"><u>In 2024, Multiformat Manual Effortless Conversion of SRT Files</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-tech-knowledge-with-expert-advice-from-tome-hardware/"><u>Master Your Tech Knowledge with Expert Advice From Tom'e Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-graphics-evolution-directx-11-vs-directx-12/"><u>PC Graphics Evolution: DirectX 11 V/S DirectX 12</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/stop-ff-videos-from-not-rendering-on-android-for-2024/"><u>Stop FF Videos From Not Rendering on Android for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tackling-tech-deep-dives-into-toms-world-of-hardware-solutions/"><u>Tackling Tech: Deep Dives Into Tom's World of Hardware Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-listening-experience-awaits-with-turtle-beachs-atlas-air-headphones-discover-the-difference/"><u>The Ultimate Listening Experience Awaits with Turtle Beach's Atlas Air Headphones – Discover the Difference</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-advice-unbiased-hardware-guidance/"><u>Tom's Tech Advice: Unbiased Hardware Guidance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-review-the-ultimate-guide-to-buying-an-asus-rog-azoth-extreme-extreme-at-half-a-grand/"><u>Top Review: The Ultimate Guide to Buying an Asus ROG Azoth Extreme (Extreme) at Half a Grand</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Oppo Reno 11 5G | Dr.fone</u></a></li>
 </ul></div>
 

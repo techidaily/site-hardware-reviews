@@ -1,7 +1,7 @@
 ---
 title: "Battle of Powerhouses: How Our $4K Durable Laptop Challenges the Dell Latitude on Performance"
-date: 2024-12-25T16:02:49.075Z
-updated: 2024-12-27T19:39:25.896Z
+date: 2025-01-04T05:42:06.974Z
+updated: 2025-01-06T06:34:02.320Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ I spent a good hour and a half moving from station to station, from 240Hz ultraw
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. The numbers don't lie
@@ -47,7 +47,7 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -61,7 +61,7 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -75,7 +75,7 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,19 +114,22 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-9-free-youtube-logo-makers/"><u>[New] In 2024, Best 9 Free YouTube Logo Makers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-cost-free-match-mastery-how-to-stream-and-slice/"><u>[New] In 2024, Cost-Free Match Mastery How to Stream and Slice</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-groan-inducing-humor-in-hits/"><u>[New] In 2024, Groan-Inducing Humor in Hits</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-bring-your-vision-online-mobilizing-content-creation-with-ease-and-simplicity/"><u>[Updated] Bring Your Vision Online Mobilizing Content Creation with Ease and Simplicity</u></a></li>
-<li><a href="https://extra-information.techidaily.com/all-about-facetune-in-depth-user-guide-and-analysis-for-2024/"><u>All About Facetune In-Depth User Guide & Analysis for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-vivo-x100-pro-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Vivo X100 Pro</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-infinix-smart-8-hd-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Infinix Smart 8 HD FRP Bypass</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-high-performance-hardware-with-tomtechspotlight/"><u>Navigating the World of High-Performance Hardware with TomTechSpotlight</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/qualcomm-x-series-processors-set-to-triple-dell-xps-13plus-laptop-lifespans-at-half-the-price-of-intel-counterparts/"><u>Qualcomm X Series Processors Set to Triple Dell XPS 13+ Laptop Lifespans at Half the Price of Intel Counterparts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-tips-altering-video-pace-in-instagram-stories-for-2024/"><u>Quick Tips Altering Video Pace in Instagram Stories for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reign-in-windows-stop-unwanted-screen-movement/"><u>Reign In Windows: Stop Unwanted Screen Movement</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/technical-glitch-or-danger-a-fiery-laptop-sparks-urgent-exodus-from-an-american-airlines-airliner/"><u>Technical Glitch or Danger? A Fiery Laptop Sparks Urgent Exodus From an American Airlines Airliner</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-on-pc-hardware-by-tom-explore-and-learn/"><u>The Ultimate Resource on PC Hardware by Tom - Explore and Learn</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-advanced-computer-components/"><u>Tom's Tech Insights: Your Guide to Advanced Computer Components</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-showcasing-brilliance-iconic-anime-intros/"><u>[New] 2024 Approved Showcasing Brilliance Iconic Anime Intros</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-comprehensive-solution-guide-turning-xml-and-ttml-into-srt-for-2024/"><u>[Updated] Comprehensive Solution Guide Turning XML & TTML Into SRT for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-fade-perfection-quick-tips-and-tricks/"><u>[Updated] Fade Perfection Quick Tips and Tricks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-a-sea-of-silence-the-perils-of-pretense-in-profiles-for-2024/"><u>[Updated] In a Sea of Silence The Perils of Pretense in Profiles for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-ultimate-cooling-detailed-examination-of-the-5-uphere-m201-nvme-ssd-heatsink/"><u>Affordable Ultimate Cooling: Detailed Examination of the $5 UpHere M201 NVMe SSD Heatsink</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-pc-gear-with-toms-hardware-analysis/"><u>Expert Guidance on PC Gear with Tom’s Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-an-in-depth-guide/"><u>Exploring Tom’s Hardware: An In-Depth Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-in-depth-reviews-and-tech-insights/"><u>Exploring Tom's Hardware: In-Depth Reviews and Tech Insights</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-13-pro-max-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 13 Pro Max Data Completely | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-chinese-tech-startups-opt-for-affordable-performance-with-geforce-gaming-cards-over-expensive-sanction-compliant-nvidia-ais-the-value-edge-of-the-rtx-408/"><u>How Chinese Tech Startups Opt for Affordable Performance with GeForce Gaming Cards Over Expensive Sanction-Compliant Nvidia AIs: The Value Edge of the RTX 4090</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/microsoft-disruptions-highlight-critical-risks-in-government-use-of-major-technology-providers/"><u>Microsoft Disruptions Highlight Critical Risks in Government Use of Major Technology Providers</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-fixed-understanding-the-solution-behind-exit-code-0-issue/"><u>Minecraft Fixed! Understanding the Solution Behind Exit Code '0' Issue</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nvidias-blackwell-graphics-cards-face-setback-potential-redesign-leads-to-projected-3-month-launch-postponement/"><u>Nvidia's Blackwell Graphics Cards Face Setback: Potential Redesign Leads to Projected 3-Month Launch Postponement</u></a></li>
+<li><a href="https://win-forum.techidaily.com/speeding-up-the-initial-load-of-windows-11-for-a-faster-experience/"><u>Speeding Up the Initial Load of Windows 11 for a Faster Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/turbocharge-your-mobile-gameplay-nextorages-cutting-edge-ssd-sets-new-speed-benchmark-at-74gbs/"><u>Turbocharge Your Mobile Gameplay: Nextorage's Cutting-Edge SSD Sets New Speed Benchmark at 7.4GB/S</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-toms-comprehensive-hardware-analysis/"><u>Unveiling the Latest Gadgets - Tom's Comprehensive Hardware Analysis</u></a></li>
 </ul></div>
 

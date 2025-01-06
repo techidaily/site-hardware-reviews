@@ -1,7 +1,7 @@
 ---
 title: College Comeback? Score Top Discounts on Laptops & Tablets From Samsung
-date: 2024-12-20T18:37:42.225Z
-updated: 2024-12-27T22:19:52.967Z
+date: 2025-01-04T21:21:08.734Z
+updated: 2025-01-06T06:07:00.663Z
 tags:
   - laptops
 categories:
@@ -51,7 +51,7 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -90,18 +90,19 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-amplifying-your-tiktok-voice-strategies-for-more-views-and-likes/"><u>[New] 2024 Approved Amplifying Your TikTok Voice Strategies for More Views and Likes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-transforming-your-film-with-advanced-color-separation/"><u>[New] Transforming Your Film with Advanced Color Separation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-7-must-have-free-apps-for-students-starting-a-new-semester/"><u>Discover 7 Must-Have Free Apps for Students Starting a New Semester</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/eyoyo-em105-105-compact-travel-screen-unbeatable-bargain-for-on-the-go-productivity/"><u>EYOYO EM105 10.5 Compact Travel Screen: Unbeatable Bargain for On-the-Go Productivity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/groundbreaking-shift-lg-ramps-up-mass-production-of-stunning-oleds-as-top-pick-for-latest-dell-xps-13-screen/"><u>Groundbreaking Shift: LG Ramps Up Mass Production of Stunning OLEDs as Top Pick for Latest Dell XPS 13 Screen</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo Y02T? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-uhbr-certified-cable-incompatibilities-influence-nvidia-to-stick-with-displayport-14-for-its-latest-rtx-graphics-models/"><u>How UHBR-Certified Cable Incompatibilities Influence Nvidia to Stick With DisplayPort 1.4 for Its Latest RTX Graphics Models</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-avoid-the-frustration-fast-paced-methods-to-create-captions-for-your-fb-videos/"><u>In 2024, Avoid the Frustration - Fast-Paced Methods to Create Captions for Your FB Videos</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a14-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A14 5G Bootloader Easily</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-aocs-ultimate-three-monitor-setup-with-the-u3-graphic-pro-series/"><u>Introducing AOC's Ultimate Three-Monitor Setup with the U3 Graphic Pro Series</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-a-guide-with-toms-insights/"><u>Mastering Hardware: A Guide with Tom's Insights</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/mp3-file-trimming-made-simple-top-3-free-methods-for-windows-11-users/"><u>MP3 File Trimming Made Simple: Top 3 Free Methods for Windows 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-office-applications-activation-woes/"><u>Unlocking Windows Office Applications' Activation Woes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-seamless-offline-experience-best-playlist-downloader-tools-reviewed/"><u>[New] In 2024, Seamless Offline Experience Best Playlist Downloader Tools Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-the-corsair-m75-mechanical-keyboard-with-bi-directional-buttons-reviewed/"><u>Comprehensive Evaluation of the Corsair M75 Mechanical Keyboard with Bi-Directional Buttons Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-past-steam-values-for-your-favorite-games/"><u>Discover Past Steam Values for Your Favorite Games</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-electronics-hub-in-depth-hardware-analysis-and-tips/"><u>Expert Insights From Tom's Electronics Hub - In-Depth Hardware Analysis & Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/get-laughter-in-minutes-install-and-revel-in-ifunnys-meme-world-for-2024/"><u>Get Laughter in Minutes Install and Revel in iFunny's Meme World for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964502701-high-speed-savings-alert-secure-32gb-of-team-t-force-vulcan-ddr5-memory-6000-mhz-for-only-86-now/"><u>High-Speed Savings Alert: Secure 32GB of Team T-Force Vulcan DDR5 Memory (6000 MHz) For Only $86 Now!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-idevice-screen-recording-techniques-for-youtube/"><u>In 2024, Mastering iDevice Screen Recording Techniques for YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-photographic-precision-the-ultimate-list-of-photo-framing-software/"><u>In 2024, Photographic Precision The Ultimate List of Photo Framing Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964499541-include-at-least-three-rhetorical-questions-to-engage-the-audience/"><u>Include at Least Three Rhetorical Questions to Engage the Audience.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/latest-insights-into-12vhpwr-connection-issues-melting-reports-coming-from-psu-side/"><u>Latest Insights Into 12VHPWR Connection Issues - Melting Reports Coming From PSU Side</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-forced-deletion-of-persistent-folders-in-windows-1011-with-revo-uninstaller/"><u>Ultimate Guide: Forced Deletion of Persistent Folders in Windows 10/11 with Revo Uninstaller</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-premier-non-gmail-email-solutions-of-202n4-the-definitive-list/"><u>Unveiling the Premier Non-Gmail Email Solutions of 202N4: The Definitive List</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Better Alternatives: Why It's Time to Upgrade From Your Solar Charger"
-date: 2024-09-18 22:49:35
-updated: 2024-09-20 12:18:11
+date: 2025-01-01T04:54:50.598Z
+updated: 2025-01-06T07:32:00.835Z
 tags:
   - mobile-accessories
 categories:
@@ -17,9 +17,17 @@ The new generation of iPhones are here and features a new action button, more AI
 
 It's no secret that iPhones aren't the most rugged devices, sometimes yielding screen cracks and camera damage from simple drops. Luckily, ZDNET editors have gone hands-on with iPhone 16 cases to see how they match up. No matter your needs -- drop protection, style _with_ durability, or functionality -- we've got you covered. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone 16 case right now?
 
 Our pick for the best iPhone 16 case right now is the [Nomad Sport Case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNOMAD%2Fpage%2F6927BCAB-A05E-40FA-ADA7-1E37C46F23E5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1b7570ec-4eb5-4b81-b155-113b9708aa83%7Cdtp&dtb=1) case. This brand has been a longtime ZDNET favorite for its sleek form factor, [MagSafe capabilities](https://www.zdnet.com/article/best-magsafe-wallets/), and drop protection without a bulky form factor. Keep reading for more of our iPhone 16 case picks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best iPhone 16 cases of 2024
 
@@ -89,6 +97,10 @@ Cons
 * Minimal drop protection
 * Heftier price
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pitaka Ultra Slim case
 
 #### Best thin iPhone 16 case
@@ -140,6 +152,10 @@ Pros
 
 Cons 
 * Pricier
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mous Limitless 6.0
 
@@ -285,9 +301,17 @@ However, if you stray from the list, the best options are those with a solid bum
 
 Unfortunately, there isn't such a thing as the best phone case brand. Many sources point to Spigen and Otterbox as the most popular phone case brands with the most units sold. That, however, does not necessarily mean they are the best brands. It is ultimately up to you and your lived experience and opinion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What case material is best for iPhone?
 
 Materials like plastic or polycarbonate usually offer the best price and durability. Other cases made from leather or metal can be pricier and may not offer the best protection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When is the iPhone 16 available?
 
@@ -300,6 +324,10 @@ If your phone has the problem of overheating, it may be best to look into specia
 ## What is the best iPhone for a 16 year old?
 
 This is a good question, and if we had to chime in, we would say something more durable. A study by tech protection service Asurion in 2013 that [3 out of 10 teenagers have dropped](https://www.prnewswire.com/news-releases/3-out-of-10-teens-damaged-cell-phones-in-the-last-18-months-mainly-at-school-218494391.html#:~:text=A%20back%2Dto%2Dschool%20survey,most%20accidents%20happening%20at%20school.) and/or damaged their cell phones in the past 18 months. Ten years later, many phones are even less durable. Therefore, that number may be higher, especially if teenagers have more phones than ever. To prevent damage to your teen's phone, it may be wise to invest in a durable case that protects the device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 16 cases worth considering?
 
@@ -338,11 +366,30 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-bite-size-broadcasting-battle-which-platform-dominates-in-shorter-videos-in-2024/"><u>[New] Bite-Size Broadcasting Battle Which Platform Dominates in Shorter Videos, In 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-must-watch-asmr-video-gems-online-for-2024/"><u>[Updated] Must-Watch ASMR Video Gems Online for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/102-special-offer-transform-your-macbook-setup-with-the-multi-functional-charger-stand-and-ports-organizer-featured-on-zdnet-now/"><u>$102 Special Offer: Transform Your MacBook Setup with the Multi-Functional Charger, Stand, and Ports Organizer Featured on ZDNET Now!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-elite-5-monitors-with-advanced-color-grading-capabilities/"><u>2024 Approved Elite 5 Monitors with Advanced Color Grading Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/assembling-a-custom-rig-using-cooler-masters-qube-n500-impressive-layout-opportunities-for-refinement/"><u>Assembling a Custom Rig Using Cooler Master's Qube N500: Impressive Layout, Opportunities for Refinement</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-download-fast-track-validity-fingerprint-sensor-software/"><u>Easy Installation Guide: [DOWNLOAD] Fast-Track Validity Fingerprint Sensor Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-with-eblazters-modular-desktop-solutions-upgradable-and-all-in-one/"><u>Experience Next-Level Gaming with EBlazter's Modular Desktop Solutions – Upgradable and All-in-One</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-lava-yuva-2-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Lava Yuva 2 Pro FRP Locks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-insights-from-toms-tech-hub-the-ultimate-guide-to-computer-components/"><u>In-Depth Reviews & Insights From Tom's Tech Hub: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964479571-most-affordable-graphic-cards-sale-alert-save-big-this-octobers-prime-day/"><u>Most Affordable Graphic Cards Sale Alert - Save Big This October's Prime Day!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-infinix-note-30i-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Infinix Note 30i Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-selecting-8-best-instagram-scheduler-tools-for-2024/"><u>The Ultimate Guide to Selecting 8 Best Instagram Scheduler Tools for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-hardware-analysis/"><u>Tom's Tech Insights: Expert Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-reviews-and-expert-advice-t17239718720366/"><u>Tom's Tech Insights: In-Depth Reviews and Expert Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-computer-components-and-gadgets-t17239718720377/"><u>Tom's Tech Review: Expert Insights on Computer Components and Gadgets</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-6-plus-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone 6 Plus</u></a></li>
+</ul></div>
+

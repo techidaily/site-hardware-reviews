@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Guide to Purchasing Superior Electronic Notebooks – Authoritative Assessments | CNET
-date: 2024-12-26T19:05:29.280Z
-updated: 2024-12-27T16:38:58.224Z
+date: 2025-01-02T19:53:56.456Z
+updated: 2025-01-05T21:10:42.309Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,17 +112,24 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/utstanding-movies-overlooked-by-critics/"><u>[New] Outstanding Movies Overlooked by Critics</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-daily-dharma-the-best-yoga-channels-for-self-growth/"><u>[Updated] 2024 Approved Daily Dharma The Best Yoga Channels for Self-Growth</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-from-camera-to-feed-ig-photo-tutorial-for-2024/"><u>[Updated] From Camera to Feed IG Photo Tutorial for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-innovative-approaches-to-documenting-film-content-on-various-os/"><u>[Updated] In 2024, Innovative Approaches to Documenting Film Content on Various OS</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-v29-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo V29 Pro Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-recommended-foldable-smartphones/"><u>Top Recommended Foldable Smartphones</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-enabling-spell-check-and-grammar-correction-on-your-device/"><u>Ultimate Guide: Enabling Spell Check and Grammar Correction on Your Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-the-5g-uc-indicator-in-mobile-devices/"><u>Understanding the '5G UC' Indicator in Mobile Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-the-potential-of-siri-expert-tips-to-repair-hey-siri-functionality-on-ios/"><u>Unlock the Potential of Siri: Expert Tips to Repair “Hey Siri” Functionality on iOS</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upcoming-upgrades-promise-superior-functionality-for-android-nearby-sharing/"><u>Upcoming Upgrades Promise Superior Functionality for Android Nearby Sharing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-comprehensive-conversion-guide-for-avi-media-to-web-ready-gif-in-filmora/"><u>[Updated] Comprehensive Conversion Guide for AVI Media to Web-Ready GIF in Filmora</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-editorxperience-deep-dive-complete-look-at-androvids-features/"><u>[Updated] EditorXperience Deep Dive – Complete Look at AndroVid's Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-approach-breaking-down-videos-into-chapters-for-youtube/"><u>[Updated] Innovative Approach Breaking Down Videos Into Chapters for YouTube</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadgets-and-gizmos-covered-at-toms-hardware-hub/"><u>Advanced Gadgets and Gizmos Covered at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-value-for-gamers-in-depth-look-at-acer-predator-orion-5000-egpus-exceptional-capabilities/"><u>Best Value for Gamers: In-Depth Look at Acer Predator Orion 5000 eGPU's Exceptional Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breakdown-the-wonky-delta-design-and-swift-performance-of-flsun-s1-solar-panels/"><u>Breakdown: The Wonky Delta Design & Swift Performance of FLSun S1 Solar Panels</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-toms-comprehensive-computer-hardware-reviews-and-insights/"><u>Discover Tom's Comprehensive Computer Hardware Reviews & Insights</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ensure-the-document-remains-informative-and-comprehensive-after-simplification-using-no-more-than-two-sentences-for-analogies/"><u>Ensure the Document Remains Informative and Comprehensive After Simplification, Using No More than Two Sentences for Analogies.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/from-basics-to-advanced-selecting-premium-components-with-toms-hardware-guidance/"><u>From Basics to Advanced: Selecting Premium Components with Tom's Hardware Guidance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/futures-echo-top-30-metaverse-sentiments-arvr/"><u>Future's Echo Top 30 Metaverse Sentiments [AR/VR]</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-cease-discord-activity-on-all-screens/"><u>In 2024, Cease Discord Activity on All Screens</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-modern-electronics-wisdom-from-toms-hardware-gurus/"><u>Navigating Modern Electronics: Wisdom From Tom's Hardware Gurus</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-overcoming-the-stopped-hamachi-functionality-problem/"><u>Step-by-Step Solution for Overcoming the Stopped Hamachi Functionality Problem</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/streamline-your-setup-with-microsoft-ergonomic-keyboard-4000-driver-download-quick-tips/"><u>Streamline Your Setup with Microsoft Ergonomic Keyboard 4000 Driver Download – Quick Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-on-modern-workloads-the-gigabyte-b760m-ds3h-ax-revealed-entry-level-motherboard-for-three-monitor-setups/"><u>Taking on Modern Workloads - The Gigabyte B760M DS3H AX Revealed: Entry-Level Motherboard for Three Monitor Setups</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-toms-hardware-comprehensive-tech-insights/"><u>The Ultimate Guide to Tom's Hardware: Comprehensive Tech Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-top-notch-pc-components-toms-guide-to-hardware/"><u>The Ultimate Resource for Top-Notch PC Components - Tom’s Guide to Hardware</u></a></li>
 </ul></div>
 

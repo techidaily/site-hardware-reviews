@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Apple Bargains in July 2024: IPhones, Apple Watches & iPads at Steep Discounts - Detailed Roundup by ZDNet"
-date: 2024-12-22T21:37:46.429Z
-updated: 2024-12-27T22:11:49.422Z
+date: 2024-12-29T17:30:09.921Z
+updated: 2025-01-05T19:42:58.721Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Below, you'll find the best sales and discounts on Apple products, including Mac
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Apple deals of July 2024
@@ -161,10 +161,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc59f26ff-942b-4436-9faf-236bb5a523b5%7Cdtp&dtb=1)
@@ -183,13 +179,13 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the cheapest Apple product?
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
 
@@ -198,7 +194,7 @@ This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
@@ -215,7 +211,7 @@ Factors influencing our recommendations include:
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
@@ -238,6 +234,10 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -283,24 +283,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-high-definition-recorders-revealed-5-devices-to-watch-for-2024/"><u>[Updated] High-Definition Recorders Revealed 5 Devices to Watch for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-echoing-emotions-infusing-music-into-instareel-content/"><u>2024 Approved Echoing Emotions Infusing Music Into InstaReel Content</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-analyses-by-toms-hardware-hub/"><u>Advanced Gadget Analyses by Tom’s Hardware Hub</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bring-back-the-magic-fix-unresponsive-bluetooth-in-win11-now-available-to-everyone-guide-inside/"><u>Bring Back the Magic: Fix Unresponsive Bluetooth in Win11 – Now Available to Everyone [Guide Inside!]</u></a></li>
-<li><a href="https://win-webster.techidaily.com/comment-effacer-un-disque-dur-sous-windows-7-sans-cd-deux-methodes/"><u>Comment Effacer Un Disque Dur Sous Windows 7 Sans CD - Deux Méthodes</u></a></li>
-<li><a href="https://solve-help.techidaily.com/converti-liberamente-i-file-mpeg-in-mp4-utilizzando-windows-11-o-macos-con-questa-semplice-guida/"><u>Converti Liberamente I File MPEG in MP4 Utilizzando Windows 11 O macOS Con Questa Semplice Guida</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/da-disco-facilita-guida-alla-trasformazione-di-dvd-musicali-in-formati-video-digitali-su-sistemi-operativi-windows-e-mac/"><u>Da Discò: Facilità Guida Alla Trasformazione Di DVD Musicali in Formati Video Digitali Su Sistemi Operativi Windows E Mac</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-netgear-amped-wireless-usb-driver-for-pcs/"><u>Download NETGEAR Amped Wireless USB Driver for PCs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-digital-frontiers-with-toms-hardware-guide/"><u>Exploring Digital Frontiers with Tom's Hardware Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-insights/"><u>Navigating the World of Electronics with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/new-update-enables-1u-sms-based-dram-tuning-for-amds-threadripper-3000-series-processors/"><u>New Update Enables 1U SMS-Based DRAM Tuning for AMD's Threadripper 3000 Series Processors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimal-data-buffering-for-sony-a7s-ii/"><u>Optimal Data Buffering for Sony A7S II</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-ai-anxiety-eight-key-points-on-how-artificperture-can-enhance-teaching-practices/"><u>Overcoming AI Anxiety: Eight Key Points on How Artificperture Can Enhance Teaching Practices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionary-core-i9-11900k-cpu-reaches-peak-performance-at-7-ghz-using-liquid-nitrogen-cooling/"><u>Revolutionary Core I9-11900K CPU Reaches Peak Performance at 7 GHz Using Liquid Nitrogen Cooling</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components-and-performance/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components and Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-uncovering-the-latest-in-computer-components/"><u>Tom's Tech Review: Uncovering the Latest in Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-the-latest-gadgets-and-computer-components/"><u>Tom's Tech Reviews: Expert Insights on the Latest Gadgets and Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-insights-into-latest-computer-components/"><u>Tom's Tech Reviews: Insights Into Latest Computer Components</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-authority-list-top-10-sports-and-football-streaming-applications-cutting-edge-for-2024/"><u>[New] Authority List Top 10 Sports & Football Streaming Applications, Cutting Edge for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-embrace-innovation-the-art-of-photo-video-making-with-pixiz/"><u>[Updated] Embrace Innovation The Art of Photo-Video Making with Pixiz</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-top-20-cheerful-facebook-incarceration-gems-for-a-happy-mood-enhancement/"><u>[Updated] In 2024, Top 20 Cheerful Facebook Incarceration Gems for a Happy Mood Enhancement</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovating-photography-the-art-of-crafting-effective-gopro-time-lapse/"><u>[Updated] Innovating Photography The Art of Crafting Effective GoPro Time-Lapse</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-streamline-your-web-experience-with-these-leading-screen-capturers/"><u>2024 Approved Streamline Your Web Experience with These Leading Screen Capturers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-streamlined-guide-5-efficient-windows-11-audio-recording-tips/"><u>2024 Approved Streamlined Guide 5 Efficient Windows 11 Audio Recording Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-realm-a-comprehensive-tech-resource/"><u>Inside Tom's Hardware Realm: A Comprehensive Tech Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-technology-essential-reviews-by-the-tomer/"><u>Mastering Modern Technology: Essential Reviews by The Tom'er</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tomtechdigest-decoding-computer-hardware-secrets/"><u>TomTechDigest: Decoding Computer Hardware Secrets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/trustworthy-advice-on-building-your-dream-machine-from-toms-hardware-pioneers/"><u>Trustworthy Advice on Building Your Dream Machine From Tom's Hardware Pioneers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unmatched-precision-meets-pristine-quality-in-the-dough-spectrum-black-an-elite-27-oled-monitor-tailored-for-true-gamers-satisfaction/"><u>Unmatched Precision Meets Pristine Quality in the Dough Spectrum Black - An Elite 27 OLED Monitor Tailored for True Gamers' Satisfaction</u></a></li>
 </ul></div>
 

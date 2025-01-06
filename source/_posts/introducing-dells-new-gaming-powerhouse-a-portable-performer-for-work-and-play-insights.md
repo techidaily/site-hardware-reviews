@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights"
-date: 2024-12-25T19:23:56.166Z
-updated: 2024-12-27T17:34:17.669Z
+date: 2025-01-03T02:08:06.212Z
+updated: 2025-01-06T06:37:33.670Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,17 +114,18 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-effortless-gif-tweets-the-future-of-social-media-2024-edition/"><u>[New] Effortless Gif Tweets The Future of Social Media, 2024 Edition</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-are-camera-shakes-less-troublesome-after-photostable-effects/"><u>[Updated] In 2024, Are Camera Shakes Less Troublesome After PhotoStable Effects?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-roundup-top-performing-key-finder-gadgets/"><u>Expert Roundup: Top-Performing Key Finder Gadgets</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-isdonedll-failures-in-your-windows-11-system/"><u>How to Fix ISDone.dll Failures in Your Windows 11 System</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Honor Magic 6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-oppo-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Oppo</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/streamline-your-messaging-experience-by-organizing-telegram-chats-into-folders-dont-make-my-mistake/"><u>Streamline Your Messaging Experience by Organizing Telegram Chats Into Folders - Don't Make My Mistake!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-great-shift-embracing-a-smartphone-era-for-superior-accessibility-and-functionality/"><u>The Great Shift: Embracing a Smartphone Era for Superior Accessibility and Functionality</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ltimate-guide-to-creating-click-enticing-youtube-thumbnails/"><u>The Ultimate Guide to Creating Click-Enticing YouTube Thumbnails</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-15-best-looking-android-games-a-match-for-console-quality/"><u>Top 15 Best-Looking Android Games: A Match for Console Quality</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/transparent-brilliance-unveiled-the-second-look-at-the-nothing-phone/"><u>Transparent Brilliance Unveiled: The Second Look at the Nothing Phone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-your-corsair-hs70-headset-microphone/"><u>Troubleshooting Tips: Resolving Issues with Your Corsair HS70 Headset Microphone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-drone-visionarys-guide-to-mavic-pro/"><u>[Updated] Drone Visionary's Guide to Mavic Pro</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-the-art-of-transferring-instagram-footage-to-pcmac/"><u>[Updated] Mastering the Art of Transferring Instagram Footage to PC/Mac</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-should-you-review-off-facebook-histories-security-tips-and-tricks/"><u>[Updated] Should You Review Off-Facebook Histories? Security Tips & Tricks</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-v29-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo V29 Pro Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-apple-iphone-15-pro-maxipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked Apple iPhone 15 Pro Max/iPad/iPod</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-why-teamgroups-t-force-dark-airflow-i-is-a-game-changer-for-nvme-ssd-overheating-issues/"><u>Comprehensive Review: Why TeamGroup's T-Force Dark AirFlow I Is a Game-Changer for NVMe SSD Overheating Issues</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-vibrant-colors-with-the-philips-evonia-49m2c8900-qd-oled-monitor-ultimate-gamers-guide-and-testing/"><u>Experience Vibrant Colors with the Philips Evonia 49M2C8900 QD-OLED Monitor: Ultimate Gamers' Guide and Testing</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/freie-restauration-von-bildern-auf-formatierten-sd-speicherkarten/"><u>Freie Restauration Von Bildern Auf Formatierten SD-Speicherkarten</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlocking-the-secrets-to-altering-your-networks-showcase-picture/"><u>In 2024, Unlocking the Secrets to Altering Your Network's Showcase Picture</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seek-immediate-medical-attention-for-all-significant-eye-injuries-to-prevent-complications-such-as-glaucoma-or-retinal-detachment/"><u>Seek Immediate Medical Attention for All Significant Eye Injuries to Prevent Complications Such as Glaucoma or Retinal Detachment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-potential-of-your-devices-tips-and-tricks-by-toms-team/"><u>Unlocking the Potential of Your Devices - Tips & Tricks by Tom's Team</u></a></li>
 </ul></div>
 
