@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Dell Savings Deals for Holidays at Retail Giants Like Best Buy and Amazon | ZDNET Exclusive List
-date: 2025-01-03T17:37:38.888Z
-updated: 2025-01-05T21:55:11.869Z
+date: 2025-01-07T16:13:36.809Z
+updated: 2025-01-12T16:39:34.649Z
 tags:
   - laptops
 categories:
@@ -22,10 +22,6 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Dell holiday deals
 
 * [Dell Inspiron 15 3520 Intel Core i5 touch laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-inspiron-15-3520-touch-laptop-intel-core-i5-8gb-memory-256gb-ssd-carbon-black%2F6553026.p%3FskuId%3D6553026&publisher_slug=itechdaily19598&exclusive=1) for $350 (save $250)
@@ -35,6 +31,10 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 * [Dell 14-inch portable monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Dual-Screen-Productivity-Switching-Connectivity%2Fdp%2FB0C8LM4ZZD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C85af31ba-ec69-4671-8e0e-5cd0ce62589e%7Cdtp&dtb=1) for $274 (save $91)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More Dell holiday deals
 
@@ -93,10 +93,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C85af31ba-ec69-4671-8e0e-5cd0ce62589e%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Dell laptop holiday deals
 
 * [Dell G15 gaming laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G15-5535-Gaming-Laptop%2Fdp%2FB0CJGBMD42%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C85af31ba-ec69-4671-8e0e-5cd0ce62589e%7Cdtp&dtb=1): $1,000 (save $150)
@@ -106,7 +102,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C85af31ba-ec69-4671-8e0e-5cd0ce62589e%7Cdtp&dtb=1) for $1,071 (save $429)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
@@ -118,6 +114,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Optiplex 7080 Intel i5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-7080-business-desktops-workstations%252Fp%252F1VK-0001-6GXW7) for $520 (save $179)
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Dell monitor holiday deals
 
 * [Dell S2721HS 27-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721HS-Adjustable-Response-FreeSync%2Fdp%2FB09S4ZZMS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C85af31ba-ec69-4671-8e0e-5cd0ce62589e%7Cdtp&dtb=1): $180 (save $40)
@@ -125,7 +125,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C85af31ba-ec69-4671-8e0e-5cd0ce62589e%7Cdtp&dtb=1) for $297 (save $33)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -135,7 +135,7 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals?
@@ -210,19 +210,15 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-free-audio-treasures-to-amplify-youtube/"><u>[New] Free Audio Treasures to Amplify YouTube!</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-snapshot-showdown-youtube-shorts-challenge-to-the-titans-of-tiktok-for-2024/"><u>[Updated] Snapshot Showdown YouTube Shorts Challenge to the Titans of TikTok for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722968322335-brother-mfc7360n-drivers-download-and-update-in-windows-1187-easily/"><u>Brother MFC7360N Drivers Download & Update in Windows 11/8/7 EASILY</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/combining-footage-with-ease-expert-tips-for-multiplexing-videos-using-windows/"><u>Combining Footage with Ease: Expert Tips for Multiplexing Videos Using Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/creation-gratuite-de-fichiers-flv-a-partir-damv-un-guide-etape-par-etape-avec-movavi/"><u>Création Gratuite De Fichiers FLV À Partir D'AMV : Un Guide Étape Par Étape Avec Movavi</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhance-your-eye-comfort-on-android-devices-with-these-simple-brightness-adjustments/"><u>Enhance Your Eye Comfort on Android Devices with These Simple Brightness Adjustments!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-differences-essential-aspects-of-samsungs-ecosystem-not-found-in-the-google-universe-a-comprehensive-guide-for-switchers/"><u>Experience Differences: Essential Aspects of Samsung's Ecosystem Not Found in the Google Universe – A Comprehensive Guide for Switchers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/guide-disabling-intrusive-notification-alerts-on-android-devices/"><u>Guide: Disabling Intrusive Notification Alerts on Android Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-lenovo-mouse-pad-issues-on-windows-11-8-and-7-solutions-included/"><u>How to Fix Lenovo Mouse Pad Issues on Windows 11, 8 & 7 - Solutions Included!</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-crafting-a-viral-phenomenon-on-igtv-with-savvy-hash-tags/"><u>In 2024, Crafting a Viral Phenomenon on IGTV with Savvy Hash Tags</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/limited-time-tech-offers-get-the-new-pixel-8-pro-and-other-high-value-deals-now/"><u>Limited-Time Tech Offers: Get the New Pixel 8 Pro & Other High-Value Deals Now!</u></a></li>
-<li><a href="https://fox-making.techidaily.com/lost-data-on-exfat-storage-devices-discover-proven-strategies-for-successful-file-recovery/"><u>Lost Data on ExFAT Storage Devices? Discover Proven Strategies for Successful File Recovery</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-android-security-a-guide-to-activating-and-utilizing-lockdown-mode/"><u>Mastering Android Security: A Guide to Activating and Utilizing Lockdown Mode</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-file-management-on-android-a-comprehensive-guide/"><u>Mastering File Management on Android: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-direct-entry-into-your-channel-simplifying-the-follow-button-creation-for-2024/"><u>[Updated] Direct Entry Into Your Channel Simplifying the Follow Button Creation for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-the-tricks-of-finding-vanished-airtags-and-invisible-bluetooth-tracks-easily/"><u>Discovering the Tricks of Finding Vanished Airtags & Invisible Bluetooth Tracks Easily</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-evaluation-the-how-to-geek-guide-to-thoroughly-assessing-tech-gadgets/"><u>Expert Evaluation: The How-To Geek Guide to Thoroughly Assessing Tech Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/first-glance-at-the-sonos-roam-2-opening-exploration-and-early-reactions/"><u>First Glance at the Sonos Roam 2: Opening, Exploration, and Early Reactions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-qualcomms-snapdragon-x-challenges-the-dominance-of-apple-silicon-in-processor-performance/"><u>How Qualcomm's Snapdragon X Challenges the Dominance of Apple Silicon in Processor Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/lenovo-legion-go-top-5-highlights-from-ifa-2023/"><u>Lenovo Legion Go: Top 5 Highlights From IFA 2023</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-the-newest-zebra-printer-drivers-for-windows-computers/"><u>Step-by-Step Guide to Downloading the Newest Zebra Printer Drivers for Windows Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210116655-trouble-with-driver-power-state-failure-heres-how-to-fix-it/"><u>Trouble with Driver Power State Failure? Here’s How to Fix It</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-resolving-grounded-pc-crashes-in-2n-d-ensuring-seamless-gameplay/"><u>Ultimate Guide to Resolving Grounded PC Crashes in 2N-D, Ensuring Seamless Gameplay</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-y100-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo Y100 5G Device</u></a></li>
 </ul></div>
 

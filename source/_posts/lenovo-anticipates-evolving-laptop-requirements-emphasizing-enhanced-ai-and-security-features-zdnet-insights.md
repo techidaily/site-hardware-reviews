@@ -1,7 +1,7 @@
 ---
 title: "Lenovo Anticipates Evolving Laptop Requirements: Emphasizing Enhanced AI & Security Features | ZDNet Insights"
-date: 2025-01-04T11:00:05.293Z
-updated: 2025-01-06T04:22:00.948Z
+date: 2025-01-11T21:41:02.031Z
+updated: 2025-01-12T18:22:59.114Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,22 +116,24 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/mplementing-video-transcripts-via-youtube-captions/"><u>[New] Implementing Video Transcripts via YouTube Captions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-insider-guide-to-simplifying-character-voice-modification-pubg/"><u>[New] The Insider Guide to Simplifying Character Voice Modification (PUBG)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-capture-your-screen-with-precision-and-orderly-guidance/"><u>[Updated] Capture Your Screen with Precision and Orderly Guidance</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-charting-new-territory-strategies-for-youtube-keyword-research/"><u>[Updated] In 2024, Charting New Territory Strategies for YouTube Keyword Research</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/16-essential-tools-to-craft-engaging-professional-emails/"><u>16 Essential Tools to Craft Engaging Professional Emails</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-explore-new-movie-landscapes-top-7-alternates/"><u>2024 Approved Explore New Movie Landscapes - Top 7 Alternates</u></a></li>
-<li><a href="https://win-blog.techidaily.com/exclusive-sneak-peek-how-rainbow-six-siege-transforms-in-its-2024-freeze-upgrade/"><u>Exclusive Sneak Peek: How Rainbow Six Siege Transforms in Its 2024 Freeze Upgrade!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-computer-gear-with-tom-your-ultimate-guide-on-toms-hardware/"><u>Explore Computer Gear with Tom - Your Ultimate Guide on Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-cutting-edge-pc-components-with-toms-gear-guide/"><u>Exploring Cutting-Edge PC Components with Tom's Gear Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-performance-and-quality-of-nzxts-premium-c1500-psu/"><u>In-Depth Analysis: Performance and Quality of NZXT's Premium C1500 PSU</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-digital-frontiers-with-toms-hardware-insights/"><u>Navigating Digital Frontiers with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneers-of-processors-a-journey-through-toms-hardware-world/"><u>Pioneers of Processors: A Journey Through Tom's Hardware World</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/stay-updated-on-computer-components-toms-tech-resource/"><u>Stay Updated on Computer Components - Tom's Tech Resource</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/targeted-online-advertising/"><u>Targeted Online Advertising</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-by-toms-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights by Tom's Hardware</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unbelievable-deal-alert-apple-m2-macbook-air-now-just-800-on-amazon-before-official-sales-events/"><u>Unbelievable Deal Alert: Apple M2 MacBook Air Now Just $800 on Amazon Before Official Sales Events</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/utilizing-mentions-as-a-litmus-test-for-authentic-bots/"><u>Utilizing Mentions as a Litmus Test for Authentic Bots</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-essential-tips-for-monetizing-your-content-finding-the-right-viewer-count-for-2024/"><u>[New] 5 Essential Tips for Monetizing Your Content Finding the Right Viewer Count for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-explore-unrestricted-stock-content-in-key-4-video-channels-for-2024/"><u>[New] Explore Unrestricted Stock Content in Key 4 Video Channels for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-easy-steps-for-sharing-your-xbox-playtime/"><u>[Updated] Easy Steps for Sharing Your Xbox Playtime</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-scrutinizing-free2x-tech-for-optimal-webcam-use-for-2024/"><u>[Updated] Scrutinizing Free2X Tech for Optimal Webcam Use for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehensive-tutorial-on-anchoring-chats-within-your-instagram-feed/"><u>A Comprehensive Tutorial on Anchoring Chats Within Your Instagram Feed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-tier-pc-components-through-toms-in-depth-hardware-analysis/"><u>Discover Top-Tier PC Components Through Tom's In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-the-future-of-computing-power-on-toms-digital-blueprint/"><u>Discovering the Future of Computing Power on Tom's Digital Blueprint</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-drivers-free-hp-spectre-x360-installation-files-compatible-with-windows/"><u>Essential Drivers: Free HP Spectre X360 Installation Files Compatible with Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expanding-horizons-in-retail-logistics-walmarts-latest-advancements-in-drone-delivery-explored-by-zdnet/"><u>Expanding Horizons in Retail Logistics: Walmart's Latest Advancements in Drone Delivery Explored by ZDNET</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-gadgets-with-toms-hardware-experts/"><u>Exploring Advanced Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-leading-nas-systems-features-reviews-and-buying-tips/"><u>Exploring the Leading NAS Systems : Features, Reviews, and Buying Tips</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-15-pro-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone 15 Pro Max without Password?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-hostingers-server-solutions-vps-cloud-hosting-and-more/"><u>In-Depth Review of Hostinger's Server Solutions - VPS, Cloud Hosting, and More</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-a78-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo A78 5G Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-efficiency-with-advanced-technology-from-toms-equipment/"><u>Maximizing Efficiency with Advanced Technology From Tom's Equipment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solution-zoning-laws-ensure-that-the-divided-lots-are-used-appropriately-according-to-community-needs-and-environmental-considerations-maintaining-orderly-d21/"><u>Solution: Zoning Laws Ensure that the Divided Lots Are Used Appropriately According to Community Needs and Environmental Considerations, Maintaining Orderly Development Patterns</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-magic-of-rode-streamer-x-will-it-boost-your-filmmaking-quality/"><u>Unveiling the Magic of Rode Streamer X: Will It Boost Your Filmmaking Quality?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-new-features-a-comprehensive-review-of-dell-xps-13-series-9345-with-qualcomms-elite-snapdragon-technology/"><u>Unveiling the New Features: A Comprehensive Review of Dell XPS 13 Series 9345 with Qualcomm's Elite Snapdragon Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-toms-tech-review-the-ultimate-guide-to-cutting-edge-gadgets-and-components/"><u>Unveiling Tom's Tech Review - The Ultimate Guide to Cutting-Edge Gadgets and Components</u></a></li>
 </ul></div>
 

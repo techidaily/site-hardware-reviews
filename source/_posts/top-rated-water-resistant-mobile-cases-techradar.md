@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Water Resistant Mobile Cases | TechRadar
-date: 2024-09-17 21:26:53
-updated: 2024-09-20 12:13:20
+date: 2025-01-06T16:53:23.509Z
+updated: 2025-01-12T19:00:14.217Z
 tags:
   - mobile-accessories
 categories:
@@ -16,6 +16,10 @@ The new generation of iPhones are here and features a new action button, more AI
 **Also:** [**Preorder the iPhone 16 now (and even get one for free) - here's how**](https://www.zdnet.com/article/preorder-the-iphone-16-now-and-even-get-one-for-free-heres-how/)
 
 It's no secret that iPhones aren't the most rugged devices, sometimes yielding screen cracks and camera damage from simple drops. Luckily, ZDNET editors have gone hands-on with iPhone 16 cases to see how they match up. No matter your needs -- drop protection, style _with_ durability, or functionality -- we've got you covered. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case right now?
 
@@ -114,6 +118,10 @@ Pros
 
 Cons 
 * Low drop protection
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Smartish Gripmunk case
 
@@ -224,6 +232,10 @@ Cons
 * Unsure on sustainability
 * Only for Pro models
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Nomad Modern Leather Case
 
 #### Best leather case for iPhone 16
@@ -262,6 +274,10 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Incase Icon case                | A unique and stylish case with protection and MagSafe capabilities.                                     |
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing the best iPhone 16 case
 
 We kept in mind the most important factors when choosing the best iPhone 16 cases. The most relevant aspects are:
@@ -275,11 +291,19 @@ We kept in mind the most important factors when choosing the best iPhone 16 case
 
 To choose these iPhone 16 cases, we performed extensive research over every corner of the internet, like Reddit forums and customer reviews, to find the best picks at the time of this writing. When we can't test a product, we rely on opinions from real people over company promises. We also receive recommendations from ZDNET experts like reviews editor Kerry Wan and editor-in-chief Jason Hiner, who have years of experience in the tech journalism field. Our picks are meant to leave the reader happy and their device healthy. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What iPhone case is most protective?
 
 On this list, the Nomad Sport case and the Torras Ostand MagSafe Case are the most protective for their drop protection and protective features. 
 
 However, if you stray from the list, the best options are those with a solid bumper and durable material. Before purchasing a case, make sure to check its drop protection and other safety features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best phone case brand?
 
@@ -296,6 +320,10 @@ The iPhone 16 is available for preorder now, and will arrive in stores on Septem
 ## What is the best phone case to avoid overheating?
 
 If your phone has the problem of overheating, it may be best to look into specialty cases called heat dissipation cases. These cases are made of heat-wicking material that regulates heat and allows airflow to cool your phone down.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best iPhone for a 16 year old?
 
@@ -338,11 +366,33 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-humor-on-the-go-iphones-edition/"><u>[New] Humor on the Go IPhones Edition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-elevate-your-media-with-simple-tiktok-tricks/"><u>[New] In 2024, Elevate Your Media with Simple TikTok Tricks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-creative-teaching-incorporating-youtube-into-your-curriculum/"><u>2024 Approved Creative Teaching Incorporating YouTube Into Your Curriculum</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-z170-a-drivers-download-for-windows-1087-easily/"><u>ASUS Z170-A Drivers Download for Windows 10/8/7 Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-x1-carbon-driver-downloads-compatible-with-both-windows-10-and-7-systems-quick-setup-instructions/"><u>Lenovo X1 Carbon Driver Downloads: Compatible with Both Windows 10 and 7 Systems - Quick Setup Instructions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782307-9781591438892-meditations-with-the-navajo/"><u>Meditations with the Navajo | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/oled-monitor-sales-soar-as-experts-predict-shipping-of-134-million-devices-annually/"><u>OLED Monitor Sales Soar as Experts Predict Shipping of 1.34 Million Devices Annually</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/perfect-your-content-mix-horizontal-videos-on-the-igtv-stage/"><u>Perfect Your Content Mix Horizontal Videos on the IGTV Stage</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-pc-advice-by-toms-technology-tribune/"><u>Pioneering PC Advice by Tom's Technology Tribune</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ready-to-game-in-style-score-an-unbelievable-deal-on-the-24-inch-curved-acer-nitro-monitor-for-only-81/"><u>Ready to Game in Style? Score an Unbelievable Deal on the 24-Inch Curved Acer Nitro Monitor for Only $81!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamlined-living-room-learn-to-remove-apps-from-your-samsung-smart-tv/"><u>Streamlined Living Room: Learn to Remove Apps From Your Samsung Smart TV</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-asus-proart-pa32ucxr-revolutionary-mini-led-with-professional-grade-color-accuracy-explored/"><u>The Ultimate Guide to Asus ProArt PA32UCXR – Revolutionary Mini LED with Professional-Grade Color Accuracy Explored</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-high-performance-hardware-by-tom/"><u>The Ultimate Guide to High-Performance Hardware by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-diving-deep-into-computer-hardware/"><u>Tom's Tech Insights: Diving Deep Into Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components-t17238628801698/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-computer-components/"><u>Tom's Tech Review: Expert Insights on Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-hardware-insights/"><u>Tom's Tech Review: In-Depth Analysis and Hardware Insights</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/ultimate-fixes-for-data-loss-when-your-computer-fails-to-startup-learn-here/"><u>Ultimate Fixes for Data Loss when Your Computer Fails to Startup - Learn Here</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-makes-edge-a-top-contender-among-browser-games/"><u>What Makes Edge a Top Contender Among Browser Games?</u></a></li>
+</ul></div>
+

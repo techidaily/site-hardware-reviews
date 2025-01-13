@@ -1,7 +1,7 @@
 ---
 title: "Sale Alert: Limited-Time Offer on 4TB Samsung T5 External SSD at Nearly Half Price on Amazon | Expert Insights"
-date: 2024-12-30T18:02:08.661Z
-updated: 2025-01-05T16:02:36.394Z
+date: 2025-01-11T19:29:10.272Z
+updated: 2025-01-12T20:15:18.996Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,24 +128,15 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-guide-to-instagram-looping-videos/"><u>[New] The Ultimate Guide to Instagram Looping Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-unveiling-the-top-10-facebook-video-platforms/"><u>[Updated] 2024 Approved Unveiling the Top 10 Facebook Video Platforms</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-exploring-screen-capture-bandicam-versus-camtasia/"><u>2024 Approved Exploring Screen Capture Bandicam Versus Camtasia</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-fastest-audio-playback-speed-controlers-collection/"><u>2024 Approved Fastest Audio Playback Speed Controlers Collection</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341729304-approach-define-easements-and-discuss-their-implications-on-land-use/"><u>Approach: Define Easements and Discuss Their Implications on Land Use</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/collaborative-playlist-fun-how-to-share-your-favorite-songs-on-spotify-with-friends/"><u>Collaborative Playlist Fun: How to Share Your Favorite Songs on Spotify with Friends</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-evaluating-hostgator-virtual-private-servers-and-shared-hosting/"><u>Comprehensive Guide: Evaluating HostGator Virtual Private Servers & Shared Hosting</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/decoding-webmaster-rules-in-depth-analysis-and-top-seo-techniques-for-optimizing-website-performance-seo-powersuite-insights/"><u>Decoding Webmaster Rules: In-Depth Analysis and Top SEO Techniques for Optimizing Website Performance | SEO PowerSuite Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-top-tier-cooling-with-the-levelplay-combat-air-ca4-cpu-a-detailed-review-for-optimal-performance/"><u>Discover Top-Tier Cooling with the Levelplay Combat Air CA4 CPU: A Detailed Review for Optimal Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-morse-code-typing-with-laptops-shut-lid-strike-rhythm-wisely-to-preserve-hardware-integrity/"><u>Effortless Morse Code Typing with Laptop's Shut Lid – Strike Rhythm Wisely to Preserve Hardware Integrity</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-ultimate-list-free-best-ios-video-editor-tools/"><u>In 2024, Ultimate List Free, Best iOS Video Editor Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-your-tech-journey-with-informed-picks-from-toms-hardware-pros/"><u>Navigate Your Tech Journey with Informed Picks From Tom's Hardware Pros</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-toms-gear-galaxy-a-guide-to-advanced-computing-tools/"><u>Navigating Tom's Gear Galaxy: A Guide to Advanced Computing Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-gadgets-and-components-at-toms-technology-oasis/"><u>Pioneering Gadgets and Components at Tom's Technology Oasis</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstation-remotes-your-switchs-additional-companion/"><u>PlayStation Remotes: Your Switch's Additional Companion</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-hostingers-virtual-hosting-array-vps-cloud-options-and-shared-host-plans/"><u>The Ultimate Guide to Hostinger's Virtual Hosting Array: VPS, Cloud Options & Shared Host Plans</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-guides-on-computer-components/"><u>Tom's Tech Insights: Expert Guides on Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-look-at-the-latest-gadgets/"><u>Tom's Tech Review: In-Depth Look at the Latest Gadgets</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/visual-branding-in-small-business-marketing-for-2024/"><u>Visual Branding in Small Business Marketing for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715860339626-new-leveraging-built-in-recorders-on-mate-1020-and-p2010-series-to-screen-capture/"><u>[New] Leveraging Built-In Recorders on Mate 10/20 & P20/10 Series to Screen Capture.</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tep-into-simplicity-a-tailored-approach-to-creating-shorts-thumbnails-for-2024/"><u>[New] Step Into Simplicity A Tailored Approach to Creating Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1716042025504-updated-top-6-minecraft-house-ideas-for-beginners-for-2024/"><u>[Updated] Top 6 Minecraft House Ideas [for Beginners] for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/building-on-a-budget-an-in-depth-look-at-the-cytrn-maker-uno-rp2040-board-for-hobbyists/"><u>Building on a Budget: An In-Depth Look at the Cytrn Maker Uno RP2040 Board for Hobbyists</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/free-access-now-however-platinum-plans-6-benefits-are-still-compelling/"><u>Free Access Now! However, Platinum Plan's 6 Benefits Are Still Compelling</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-non-competitive-front-row-fun-ranking-the-top-ten/"><u>In 2024, Non-Competitive Front Row Fun Ranking the Top Ten</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-lian-lis-revolutionary-hydroshift-lcd-groovy-surround-gaming-tower-review/"><u>Inside Look at Lian Li's Revolutionary Hydroshift LCD Groovy Surround Gaming Tower Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-pc-building-insights-from-toms-hardware-expertise/"><u>Mastering PC Building: Insights From Tom’s Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-computer-and-electronics-gear-toms-insights/"><u>The Ultimate Resource for Computer and Electronics Gear: Tom’s Insights</u></a></li>
 </ul></div>
 

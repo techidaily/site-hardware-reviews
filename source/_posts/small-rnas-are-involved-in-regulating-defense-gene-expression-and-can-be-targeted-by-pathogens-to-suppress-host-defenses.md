@@ -1,7 +1,7 @@
 ---
 title: Small RNAs Are Involved in Regulating Defense Gene Expression and Can Be Targeted by Pathogens to Suppress Host Defenses.
-date: 2024-09-19 17:38:41
-updated: 2024-09-20 11:12:48
+date: 2025-01-10T17:01:04.864Z
+updated: 2025-01-13T02:30:02.471Z
 tags:
   - mobile-accessories
 categories:
@@ -16,6 +16,10 @@ The new generation of iPhones are here and features a new action button, more AI
 **Also:** [**Preorder the iPhone 16 now (and even get one for free) - here's how**](https://www.zdnet.com/article/preorder-the-iphone-16-now-and-even-get-one-for-free-heres-how/)
 
 It's no secret that iPhones aren't the most rugged devices, sometimes yielding screen cracks and camera damage from simple drops. Luckily, ZDNET editors have gone hands-on with iPhone 16 cases to see how they match up. No matter your needs -- drop protection, style _with_ durability, or functionality -- we've got you covered. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case right now?
 
@@ -63,6 +67,10 @@ Cons
 * Kickstand durability
 * Not many color options
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Torras 360-degree OStand
 
 #### Best kickstand iPhone 16 case
@@ -88,6 +96,10 @@ Pros
 Cons 
 * Minimal drop protection
 * Heftier price
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pitaka Ultra Slim case
 
@@ -196,6 +208,10 @@ Cons
 * Not too much protection
 * Pricey for low protection
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Moft Snap Case Movas
 
 #### Best vegan-leather iPhone 16 case
@@ -223,6 +239,10 @@ Pros
 Cons 
 * Unsure on sustainability
 * Only for Pro models
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Nomad Modern Leather Case
 
@@ -271,6 +291,10 @@ We kept in mind the most important factors when choosing the best iPhone 16 case
 * **Cost:** iPhones are expensive, and spending a lot on a phone case just adds to the bill. Therefore, we consider price an important factor in our selections.
 * **Special Features:** Many cases have added features like MagSafe capabilities and a kickstand. We include these products to appease those who may prefer wireless charging or other necessary features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these iPhone 16 cases?
 
 To choose these iPhone 16 cases, we performed extensive research over every corner of the internet, like Reddit forums and customer reviews, to find the best picks at the time of this writing. When we can't test a product, we rely on opinions from real people over company promises. We also receive recommendations from ZDNET experts like reviews editor Kerry Wan and editor-in-chief Jason Hiner, who have years of experience in the tech journalism field. Our picks are meant to leave the reader happy and their device healthy. 
@@ -280,6 +304,10 @@ To choose these iPhone 16 cases, we performed extensive research over every corn
 On this list, the Nomad Sport case and the Torras Ostand MagSafe Case are the most protective for their drop protection and protective features. 
 
 However, if you stray from the list, the best options are those with a solid bumper and durable material. Before purchasing a case, make sure to check its drop protection and other safety features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best phone case brand?
 
@@ -338,11 +366,31 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-optimizing-recording-quality-tips-and-tricks-for-ps3-gamers/"><u>[New] In 2024, Optimizing Recording Quality Tips and Tricks for PS3 Gamers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-perfect-5-monitors-to-boost-your-ps5/"><u>[Updated] In 2024, Perfect 5 Monitors to Boost Your PS5</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-building-blocks-of-virtual-experience-terminology/"><u>2024 Approved Building Blocks of Virtual Experience Terminology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/build-your-own-modular-itx-nas-computer-with-customizable-3d-printing/"><u>Build Your Own Modular ITX NAS Computer with Customizable 3D Printing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/essential-fb-extras-video-grabs-and-firefox-boost/"><u>Essential FB Extras Video Grabs & FireFox Boost</u></a></li>
+<li><a href="https://article-helps.techidaily.com/essential-polarr-tips-for-pro-level-photography-editing-for-2024/"><u>Essential Polarr Tips for Pro-Level Photography Editing for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964475671-iconic-5-star-fractal-universe-north-premium-pc-chassis-now-a-steal-at-just-109/"><u>Iconic 5-Star Fractal Universe North Premium PC Chassis Now a Steal at Just $109!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-be-quiet-shadow-base-800-fx-masterful-noise-suppression-with-superior-performance-features/"><u>In-Depth Analysis of Be Quiet! Shadow Base 800 FX: Masterful Noise Suppression with Superior Performance Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964477913-lowest-price-on-pure-base-500dx-midi-tower-computer-case-just-84-available-now/"><u>Lowest Price on Pure Base 500DX Midi-Tower Computer Case: Just $84 Available Now!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-transformations-in-anime-how-localization-brings-characters-home-for-2024/"><u>New Transformations in Anime How Localization Brings Characters Home for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seamless-thermal-regulation-achieved-the-no-fan-solution-dissipating-up-to-600-watts/"><u>Seamless Thermal Regulation Achieved: The 'No-Fan' Solution Dissipating Up to 600 Watts</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-economics-of-enjoying-free-games-with-psplus-membership/"><u>The Economics of Enjoying Free Games with PS+ Membership</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-expert-insights-into-the-latest-hardware-trends/"><u>Tom's Tech Hub: Expert Insights Into the Latest Hardware Trends</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-and-guidance/"><u>Tom's Tech Reviews: In-Depth Analysis and Guidance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-gadgets-and-components-t17239718719945/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Gadgets and Components</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-for-successful-data-transfer-in-windows-os/"><u>Winning Strategies for Successful Data Transfer in Windows OS</u></a></li>
+</ul></div>
+

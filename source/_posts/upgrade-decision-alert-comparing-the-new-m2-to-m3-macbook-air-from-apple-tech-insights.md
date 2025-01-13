@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Decision Alert: Comparing the New M2 to M3 MacBook Air From Apple | Tech Insights"
-date: 2025-01-02T10:17:48.889Z
-updated: 2025-01-05T20:54:42.472Z
+date: 2025-01-08T02:17:00.036Z
+updated: 2025-01-12T18:28:03.488Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple is _officially_ in the AI PC race
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -67,7 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -110,24 +110,20 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-ultimate-strategies-pinterest-to-mp3-migration-guide/"><u>[Updated] In 2024, Ultimate Strategies Pinterest to MP3 Migration Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-the-best-steadicam-options-for-high-end-dslr-video-production/"><u>2024 Approved The Best Steadicam Options for High-End DSLR Video Production</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/el-titling-101-the-quest-for-an-original-label-for-2024/"><u>Channel Titling 101 The Quest for an Original Label for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/deciphering-the-function-of-an-hdmi-arc-inputoutput-in-modern-televisions/"><u>Deciphering the Function of an HDMI-ARC Input/Output in Modern Televisions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-the-best-aqara-smart-lock-option-an-experts-roadmap-to-making-the-choice-that-suits-you/"><u>Decoding the Best Aqara Smart Lock Option: An Expert's Roadmap to Making the Choice That Suits You</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/how-to-fix-blurry-facebook-videos-on-iphoneandroidchrome-in-2024/"><u>How to Fix Blurry Facebook Videos on iPhone/Android/Chrome, In 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-vivo-y78plus-t1-edition-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Vivo Y78+ (T1) Edition? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-13-pro-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 13 Pro with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/resolving-memory-issues-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Resolving Memory Issues on Windows: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-7-must-have-android-home-replacement-apps/"><u>Top 7 Must-Have Android Home Replacement Apps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-recommended-foldable-smartphones/"><u>Top Recommended Foldable Smartphones</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-rated-protective-covers-for-google-pixel-6-pro-2023-edition/"><u>Top-Rated Protective Covers for Google Pixel 6 Pro - 2023 Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-non-responsive-corsair-icue-software-on-windows-11-pcs/"><u>Troubleshooting Steps for Non-Responsive Corsair iCUE Software on Windows 11 PCs</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/twist-and-turn-the-screen-unleashing-your-inner-dancer-with-tiktok-and-macos-for-2024/"><u>Twist & Turn the Screen Unleashing Your Inner Dancer with TikTok and MacOS for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-enabling-spell-check-and-grammar-correction-on-your-device/"><u>Ultimate Guide: Enabling Spell Check and Grammar Correction on Your Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-the-5g-uc-indicator-in-mobile-devices/"><u>Understanding the '5G UC' Indicator in Mobile Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upcoming-upgrades-promise-superior-functionality-for-android-nearby-sharing/"><u>Upcoming Upgrades Promise Superior Functionality for Android Nearby Sharing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-are-there-no-wps-buttons-anymore-on-android-phones-a-comprehensive-guide/"><u>Why Are There No WPS Buttons Anymore on Android Phones: A Comprehensive Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-a-tweet-to-snap-showcase-video-posting-techniques/"><u>[Updated] A Tweet-to-Snap Showcase Video Posting Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leading-sound-transformation-tools-magic-edition-included/"><u>[Updated] Leading Sound Transformation Tools, Magic Edition Included</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/android-device-longevities-forecasting-update-support-duration/"><u>Android Device Longevities: Forecasting Update Support Duration</u></a></li>
+<li><a href="https://techtrends.techidaily.com/defeating-the-blue-screen-expert-tips-for-fixing-critical-errors/"><u>Defeating the Blue Screen: Expert Tips for Fixing Critical Errors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/educational-transformation-the-vr-revolution/"><u>Educational Transformation The VR Revolution</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-team-error-80080300-in-windows-11/"><u>Eliminating Team Error 80080300 in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-latest-realtek-rtl81er-wi-fi-driver-for-windows-11-and-7-free-download/"><u>Install Latest Realtek RTL81er Wi-Fi Driver for Windows 11 & 7 - Free Download</u></a></li>
+<li><a href="https://win-premium.techidaily.com/mastering-the-basics-of-blockchain-a-beginners-guide-by-yl-computing/"><u>Mastering the Basics of Blockchain: A Beginner's Guide by YL Computing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-lenovo-chromebox-mini-a-new-compact-powerhouse-for-diy-enthusiasts-and-tech-explorers/"><u>The Lenovo Chromebox Mini: A New Compact Powerhouse for DIY Enthusiasts and Tech Explorers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-keychron-q1eron-max-perfectly-balanced-for-every-user/"><u>The Ultimate Guide to the Keychron Q1eron Max - Perfectly Balanced for Every User!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-6-indicators-of-poor-pc-cable-organization-avoid-the-chaos/"><u>Top 6 Indicators of Poor PC Cable Organization – Avoid the Chaos!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-2024-outdoor-surveillance-cameras-a-comprehensive-guide/"><u>Top Rated 2024 Outdoor Surveillance Cameras: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-electronics-sale-exclusive-offers-on-beats-solo-headphones-djis-premium-quadcopter-drone-plus-immersive-bose-television-soundbars/"><u>Ultimate Electronics Sale: Exclusive Offers on Beats Solo Headphones, DJI's Premium Quadcopter Drone, Plus Immersive Bose Television Soundbars!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-choosing-the-ideal-bluetooth-speaker-in-2e24/"><u>Ultimate Guide to Choosing the Ideal Bluetooth Speaker in 2E24</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-a-thunderous-sound-discover-sonys-revolutionary-ult-lineup-for-superior-bass-quality-in-speakers-and-headsets/"><u>Unleash a Thunderous Sound: Discover Sony's Revolutionary ULT Lineup for Superior Bass Quality in Speakers and Headsets</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to Apple's Latest M-Series Chip Lineup: M3, M3 Pro & M"
-date: 2025-01-02T01:05:23.798Z
-updated: 2025-01-05T23:21:00.061Z
+date: 2025-01-06T23:09:22.271Z
+updated: 2025-01-13T01:28:05.859Z
 tags:
   - laptops
 categories:
@@ -20,16 +20,12 @@ The holiday season and sales events are fast approaching. Black Friday deals are
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When is Black Friday in 2022?
 
 Black Friday is always the day after Thanksgiving. This year, it falls on Friday, Nov. 25\. You can find excellent deals on top tech products during Black Friday sales. In recent years, Black Friday deals have started earlier and earlier -- and right now, you can already start saving during early sales. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When is Cyber Monday in 2022?
@@ -40,12 +36,16 @@ Cyber Monday is the Monday after Thanksgiving and Black Friday. This year, Cyber
 
 We found great deals on tech at Amazon, Best Buy, Walmart, and elsewhere. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [**Best Amazon deals**](https://www.zdnet.com/article/amazon-black-friday-deals-november-25-2022/)
 
 Miss Prime Day? See the best early Black Friday deals on Amazon right now
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [**Top Best Buy deals**](https://www.zdnet.com/article/best-buy-black-friday-deals-november-25-2022/)
@@ -55,7 +55,7 @@ Top early Black Friday deals at Best Buy
 ### [**Best Costco deals**](https://www.zdnet.com/home-and-office/costco-black-friday-deals-november-25-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -64,13 +64,13 @@ Top early Black Friday deals at Best Buy
 
 Black Friday Costco deals: Early-bird sales on TVs, laptops, and more 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [**Best Newegg deals**](https://www.zdnet.com/article/newegg-black-friday-deals-november-25-2022/)
 
 Black Friday Newegg deals: Gaming monitors and PCs, earbuds, and more 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [**Best Target deals**](https://www.zdnet.com/home-and-office/target-black-friday-deals-november-25-2022/)
 
@@ -94,21 +94,21 @@ Black Friday Apple deals: AirPods, Apple Watch, iPad, and more on sale now
 
 Black Friday Dell deals: XPS, Inspiron, and Alienware laptops all on sale 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [**Best HP deals**](https://www.zdnet.com/article/dell-black-friday-deals-november-25-2022/)
 
 Black Friday HP deals: The best early deals on gaming PCs, laptops, and more 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [**Best Samsung deals**](https://www.zdnet.com/article/dell-black-friday-deals-november-25-2022/)
 
 Black Friday Samsung deals: Galaxy phones, TVs, and more on sale now 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Top Black Friday deals by category**
 
@@ -136,10 +136,6 @@ Black Friday iPad deals: The iPad Pro and iPad Air are already on sale
 
 Black Friday laptop deals: Dell is offering $700 off the stunning XPS 15 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [**Best monitor deals**](https://www.zdnet.com/home-and-office/black-friday-monitor-deals-november-25-2022/)
 
 Black Friday monitor deals: Samsung's 34-inch curved display is $375 
@@ -151,6 +147,10 @@ Black Friday robot vacuum deals: Score a Roomba for $240 -- over 40% off
 ### [**Best smartphone deals**](https://www.zdnet.com/article/black-friday-smartphone-deals-november-25-2022/)
 
 Black Friday phone deals: The best early sales on iPhone and Android phones 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [**Best smartwatch deals**](https://www.zdnet.com/article/black-friday-smartwatch-deals-november-25-2022/)
 
@@ -165,22 +165,22 @@ Black Friday storage deals: Early sales on flash drives, SSDs, and more
 Black Friday tablet deals: Microsoft's Surface Pro 7 tablet is currently 44% off 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [**Best TV deals**](https://www.zdnet.com/home-and-office/home-entertainment/black-friday-tv-deals-november-25-2022/)
 
 Black Friday TV deals: Save hundreds on Samsung, Sony, and LG TVs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [**Best VPN deals**](https://www.zdnet.com/article/black-friday-vpn-deals-november-25-2022/)
 
 These early Black Friday VPN deals are some of the lowest prices we've seen
 
 Finally, if you'd like to see the newest Black Friday deals as they drop:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [**Live blog: The latest Black Friday 2022 deals you can shop now**](https://www.zdnet.com/article/black-friday-deals-live-blog-november-25-2022/)
 
@@ -226,18 +226,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-essential-guide-to-exploring-youtube-comments/"><u>[New] 2024 Approved The Essential Guide to Exploring YouTube Comments</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-is-active-presenter-8-the-peak-of-recording/"><u>[Updated] 2024 Approved Is Active Presenter 8 the Peak of Recording?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-screen-recording-apps-without-time-restrictions/"><u>[Updated] In 2024, Top Screen Recording Apps Without Time Restrictions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-maximize-space-not-time-discover-the-coolest-34-phone-apps-for-slashing-size/"><u>[Updated] Maximize Space, Not Time Discover the Coolest 34 Phone Apps for Slashing Size</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-asrock-b760m-pro-rs-motherboard-featuring-plenty-of-m2-support/"><u>Affordable ASRock B760M Pro RS Motherboard: Featuring Plenty of M.2 Support</u></a></li>
-<li><a href="https://win-popular.techidaily.com/effective-strategies-for-fixing-network-adapter-problems-expert-tips-from-yl-computing/"><u>Effective Strategies for Fixing Network Adapter Problems - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-high-performance-gadgets-with-toms-hardware-insights/"><u>Exploring High-Performance Gadgets with Tom's Hardware Insights</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-spectacular-ultra-hd-screens-for-playing-games/"><u>In 2024, Spectacular Ultra HD Screens for Playing Games</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-launch-errors-in-fifa-21-expert-tips-and-tricks/"><u>Overcoming Launch Errors in FIFA 21 – Expert Tips & Tricks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overhauling-enex-driver-failure-in-windows-11-environment/"><u>Overhauling eNEX Driver Failure in Windows 11 Environment</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-stay-chilled-in-depth-analysis-of-the-silent-and-powerful-levelplay-combat-air-ca4-cpu-cooler/"><u>The Ultimate Guide to Stay Chilled: In-Depth Analysis of the Silent & Powerful Levelplay Combat Air CA4 CPU Cooler</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-review-of-the-logitech-g5s-tkl-compact-powerful-keyboard-at-an-attainable-price-point/"><u>The Ultimate Review of the Logitech G5s TKL - Compact, Powerful Keyboard at an Attainable Price Point</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/your-trusted-advisor-in-electronics-insider-knowledge-with-toms-hardware-reviews/"><u>Your Trusted Advisor in Electronics: Insider Knowledge with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-bringing-text-to-life-3d-techniques-in-illustrator/"><u>[Updated] Bringing Text to Life 3D Techniques in Illustrator</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-social-media-presence-h-videos-reimagined-for-igtv/"><u>[Updated] Elevate Your Social Media Presence H-Videos Reimagined for IGTV</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-why-is-instagram-turning-my-videos-sideways/"><u>[Updated] Why Is Instagram Turning My Videos Sideways?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/avid-gamers-rejoice-the-ultimate-review-of-the-philips-evonia-49m2c8900-featuring-dynamic-color-and-high-speed-performance-at-240hz-qd-oled/"><u>Avid Gamers Rejoice: The Ultimate Review of the Philips Evonia 49M2C8900, Featuring Dynamic Color & High-Speed Performance at 240Hz QD OLED</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/clevetura-clvx-1-wi-fi-keyboard-evaluation-featuring-tactile-response/"><u>Clevetura CLVX 1 Wi-Fi Keyboard Evaluation - Featuring Tactile Response</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-with-new-ch340g-usb-to-serial-adapter-drivers-for-windows-10-systems/"><u>Ensure Compatibility with New CH340G USB-to-Serial Adapter Drivers for Windows 10 Systems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-motorola-moto-g14-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Motorola Moto G14 FRP Without Computer</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-rapid-video-grabber-your-gateway-to-all-online-videos/"><u>In 2024, Rapid Video Grabber - Your Gateway to All Online Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-tecno-spark-10-4g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Tecno Spark 10 4G Phone Hassle-Free</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-computing-solutions-a-guide-by-technology-virtuoso-tom/"><u>Innovative Computing Solutions - A Guide by Technology Virtuoso, Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-market-tips-and-reviews-by-tom/"><u>Navigating Technology Market: Tips and Reviews by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-pcs-and-peripherals-with-toms-hardware-guides/"><u>Navigating the Latest in PCs & Peripherals with Tom's Hardware Guides</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-astro-a50s-audio-swift-fix-guide-for-no-sound-problems/"><u>Revive Astro A50's Audio – Swift Fix Guide for No-Sound Problems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tackling-tech-deep-dives-into-toms-world-of-hardware-solutions/"><u>Tackling Tech: Deep Dives Into Tom's World of Hardware Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-unbiased-insights-into-computer-components-and-gadgets/"><u>Tom's Tech Reviews: Unbiased Insights Into Computer Components and Gadgets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-why-arent-my-airpods-automatically-transferring-to-other-macs/"><u>Troubleshooting Steps: Why Aren't My AirPods Automatically Transferring to Other Macs?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-secret-to-a-low-profile-wallet-friendly-gaming-experience-the-logitech-g51e-lightspeed-tkl-analysis/"><u>Unveiling the Secret to a Low Profile, Wallet-Friendly Gaming Experience: The Logitech G51e Lightspeed TKL Analysis</u></a></li>
 </ul></div>
 

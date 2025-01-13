@@ -1,7 +1,7 @@
 ---
 title: College Comeback? Score Top Discounts on Laptops & Tablets From Samsung
-date: 2025-01-04T21:21:08.734Z
-updated: 2025-01-06T06:07:00.663Z
+date: 2025-01-08T18:48:56.768Z
+updated: 2025-01-12T20:03:36.087Z
 tags:
   - laptops
 categories:
@@ -51,7 +51,7 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -90,19 +90,18 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-seamless-offline-experience-best-playlist-downloader-tools-reviewed/"><u>[New] In 2024, Seamless Offline Experience Best Playlist Downloader Tools Reviewed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-the-corsair-m75-mechanical-keyboard-with-bi-directional-buttons-reviewed/"><u>Comprehensive Evaluation of the Corsair M75 Mechanical Keyboard with Bi-Directional Buttons Reviewed</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-past-steam-values-for-your-favorite-games/"><u>Discover Past Steam Values for Your Favorite Games</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-electronics-hub-in-depth-hardware-analysis-and-tips/"><u>Expert Insights From Tom's Electronics Hub - In-Depth Hardware Analysis & Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/get-laughter-in-minutes-install-and-revel-in-ifunnys-meme-world-for-2024/"><u>Get Laughter in Minutes Install and Revel in iFunny's Meme World for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964502701-high-speed-savings-alert-secure-32gb-of-team-t-force-vulcan-ddr5-memory-6000-mhz-for-only-86-now/"><u>High-Speed Savings Alert: Secure 32GB of Team T-Force Vulcan DDR5 Memory (6000 MHz) For Only $86 Now!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-idevice-screen-recording-techniques-for-youtube/"><u>In 2024, Mastering iDevice Screen Recording Techniques for YouTube</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-photographic-precision-the-ultimate-list-of-photo-framing-software/"><u>In 2024, Photographic Precision The Ultimate List of Photo Framing Software</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964499541-include-at-least-three-rhetorical-questions-to-engage-the-audience/"><u>Include at Least Three Rhetorical Questions to Engage the Audience.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/latest-insights-into-12vhpwr-connection-issues-melting-reports-coming-from-psu-side/"><u>Latest Insights Into 12VHPWR Connection Issues - Melting Reports Coming From PSU Side</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-guide-forced-deletion-of-persistent-folders-in-windows-1011-with-revo-uninstaller/"><u>Ultimate Guide: Forced Deletion of Persistent Folders in Windows 10/11 with Revo Uninstaller</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-premier-non-gmail-email-solutions-of-202n4-the-definitive-list/"><u>Unveiling the Premier Non-Gmail Email Solutions of 202N4: The Definitive List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-titans-of-transportation-in-drone-tech/"><u>[New] 2024 Approved Top Titans of Transportation in Drone Tech</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-budget-friendly-sponsorship-blueprint-for-youtube-enthusiasts/"><u>[New] Budget-Friendly Sponsorship Blueprint for YouTube Enthusiasts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-swiftly-uncover-unfollowers-on-instagram-for-2024/"><u>[New] Swiftly Uncover Unfollowers on Instagram for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-minecraft-geometries-circular-and-spherical-designs/"><u>[Updated] Mastering Minecraft Geometries Circular & Spherical Designs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximizing-video-channels-earning-with-new-policies/"><u>[Updated] Maximizing Video Channels Earning with New Policies</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-strategies-for-captivating-handc-fb-campaigns/"><u>Innovative Strategies for Captivating H&C FB Campaigns</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/revolutionize-your-sales-approach-with-the-best-15-social-media-analyzers/"><u>Revolutionize Your Sales Approach with the Best 15 Social Media Analyzers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-nubia-red-magic-8s-proplus-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Nubia Red Magic 8S Pro+ FRP</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-next-level-features-on-a-budget-the-best-deals-in-tech-700-samsung-galaxy-s21-fe-5g/"><u>Unlock Next-Level Features on a Budget: The Best Deals in Tech - $700 Samsung Galaxy S21 FE 5G</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-androids-full-potential-with-these-5-ingenious-screen-grab-techniques/"><u>Unlocking Android's Full Potential with These 5 Ingenious Screen Grab Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-guide-final-opportunity-to-access-your-lg-smartphone-securely/"><u>Unlocking Guide: Final Opportunity to Access Your LG Smartphone Securely</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-of-the-full-specs-anticipate-the-google-pixel-7s-grand-release-in-october/"><u>Unveiling of the Full Specs: Anticipate the Google Pixel 7'S Grand Release in October</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upcoming-solutions-for-pixel-6-pro-when-will-that-persistent-screen-flicker-stop/"><u>Upcoming Solutions for Pixel 6 Pro: When Will That Persistent Screen Flicker Stop?</u></a></li>
 </ul></div>
 

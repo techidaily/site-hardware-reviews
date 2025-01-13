@@ -1,7 +1,7 @@
 ---
 title: "Score Big Savings: Samsung's 8TB Portable T5 Drive Now Available at a Whopping 36%% Off After Prime Day | Exclusive Deal Breakdown From ZDNET"
-date: 2024-12-11T17:59:20.169Z
-updated: 2024-12-12T20:44:36.300Z
+date: 2025-01-09T00:11:41.074Z
+updated: 2025-01-13T02:25:23.144Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDJXZ19%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e221c50-6828-489f-a5f6-f90f31d3da72%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,24 +65,24 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-a-compreayers-guide-to-capturing-console-games-on-a-computer/"><u>[New] 2024 Approved A Compreayer's Guide to Capturing Console Games on a Computer</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-whatsapp-video-integration-for-twitter-content-for-2024/"><u>[New] WhatsApp Video Integration for Twitter Content for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unparalleled-video-intros-made-easy-with-online-tools/"><u>[Updated] 2024 Approved Unparalleled Video Intros Made Easy with Online Tools</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-weaving-worthy-preview-pieces/"><u>[Updated] In 2024, Weaving Worthy Preview Pieces</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-your-quick-guide-to-the-best-youtube-business-channel-creation-hacks/"><u>[Updated] In 2024, Your Quick Guide to the Best YouTube Business Channel Creation Hacks</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/enhance-tiktok-velocity-with-these-hacks/"><u>Enhance TikTok Velocity with These Hacks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhanced-artificial-intelligence-performance-with-intels-ultra-pc-the-new-era-of-optimized-model-integration/"><u>Enhanced Artificial Intelligence Performance with Intel's Ultra PC: The New Era of Optimized Model Integration</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/essential-guide-the-best-solar-lantern-for-adventurous-outdoor-excursions-and-sudden-energy-losses/"><u>Essential Guide: The Best Solar Lantern for Adventurous Outdoor Excursions & Sudden Energy Losses</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/essential-top-7-inquiries-for-purchasing-your-next-smart-home-gadget/"><u>Essential Top 7 Inquiries for Purchasing Your Next Smart Home Gadget</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exclusive-insight-the-high-end-price-tag-on-the-latest-model-g-electric-dual-zone-bbq/"><u>Exclusive Insight: The High-End Price Tag on the Latest Model G Electric Dual-Zone BBQ</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-ultra-hd-photography-insta360s-new-tiny-go-3-shoots-in-stunning-4k-resolution/"><u>Experience Ultra-HD Photography: Insta360's New Tiny Go 3 Shoots in Stunning 4K Resolution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-the-features-introducing-googles-latest-innovation-a-multi-functional-smart-hub-and-streaming-device/"><u>Explore the Features: Introducing Google's Latest Innovation - A Multi-Functional Smart Hub and Streaming Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-cherry-xtrfy-k5v2-a-game-changing-review-with-cutting-edge-red-keyswitch-technology/"><u>Exploring the Cherry XTRFY K5V2 - A Game Changing Review with Cutting-Edge Red Keyswitch Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gemini-technology-fuels-nests-latest-innovative-smart-thermostat/"><u>Gemini Technology Fuels Nest's Latest Innovative Smart Thermostat</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-to-relocate-your-desk-top-system-without-damage-top-6-strategies/"><u>How to Relocate Your Desk-Top System Without Damage: Top 6 Strategies</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/tailoring-visual-quality-choose-aspect-ratios-wisely/"><u>Tailoring Visual Quality Choose Aspect Ratios Wisely</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-photographers-toolkit-top-text-editors-for-images-for-2024/"><u>The Photographer's Toolkit Top Text Editors for Images for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-power-of-persuasion-exploring-6-video-genres/"><u>The Power of Persuasion Exploring 6 Video Genres</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-youtube-banners-and-thumbnails/"><u>[Updated] 2024 Approved How to Make YouTube Banners and Thumbnails</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamline-multimedia-with-pip-in-apple-browsers/"><u>[Updated] Streamline Multimedia with PIP in Apple Browsers</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1-discover-the-top-3-methods-to-recover-deleted-emails-from-yahoo-a-comprehensive-guide/"><u>1. Discover the Top 3 Methods to Recover Deleted Emails From Yahoo: A Comprehensive Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/captivating-gamer-content-through-obs-streaming/"><u>Captivating Gamer Content Through OBS Streaming</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creating-unique-youtube-music-mixtapes/"><u>Creating Unique YouTube Music Mixtapes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-tecno-pop-8-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Tecno Pop 8</u></a></li>
+<li><a href="https://win-web.techidaily.com/imessages-loading-from-icloud-onto-your-devices-a-step-by-step-tutorial-with-fonebackup/"><u>IMessages Loading From iCloud Onto Your Devices: A Step-by-Step Tutorial with FoneBackup</u></a></li>
+<li><a href="https://fox-that.techidaily.com/late-ios-text-alerts-here-are-9-effective-solutions-for-faster-messages/"><u>Late iOS Text Alerts? Here Are 9 Effective Solutions for Faster Messages</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pioneering-the-use-of-film-in-educational-methodologies/"><u>Pioneering the Use of Film in Educational Methodologies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-expert-advice/"><u>Tom's Tech Review: In-Depth Analysis & Expert Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-insights-on-hardware-innovations/"><u>Tom's Tech Review: Insights on Hardware Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-hardware-t17238628801617/"><u>Tom's Tech Reviews: The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-tech-advice-on-computer-components-by-professionals-at-toms-hardware/"><u>Top Tech Advice on Computer Components by Professionals at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-toms-computer-and-electronics-store-pioneering-tech-solutions/"><u>Top Tom's Computer & Electronics Store: Pioneering Tech Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transform-your-gaming-setup-with-innocns-budget-friendly-27-240hz-ips-display-purchase-now-at-only-1ebn/"><u>Transform Your Gaming Setup with Innocn's Budget-Friendly, 27 240Hz IPS Display - Purchase Now at Only $1Ebn!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-gaming-display-breakdown-asrock-pg2nqft2a-monitor-at-a-whopping-180hz-is-it-worth-it/"><u>Ultimate Gaming Display Breakdown: ASRock PG2nQFT2a Monitor at a Whopping 180Hz - Is It Worth It?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-your-gadget-potential-trustworthy-reviews-by-toms-experts/"><u>Unleash Your Gadget Potential: Trustworthy Reviews by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-electronics-mysteries-at-toms-hardware-haven/"><u>Unraveling Electronics Mysteries at Tom's Hardware Haven</u></a></li>
 </ul></div>
 

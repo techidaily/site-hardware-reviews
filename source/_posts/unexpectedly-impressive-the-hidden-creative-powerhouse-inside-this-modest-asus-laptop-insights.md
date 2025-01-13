@@ -1,7 +1,7 @@
 ---
 title: "Unexpectedly Impressive: The Hidden Creative Powerhouse Inside This Modest Asus Laptop - Insights"
-date: 2024-12-31T06:27:15.867Z
-updated: 2025-01-06T07:30:47.490Z
+date: 2025-01-11T18:54:43.661Z
+updated: 2025-01-13T00:06:03.984Z
 tags:
   - laptops
 categories:
@@ -47,6 +47,10 @@ While Framework previously sold models with Windows 11 and BYOOS (bring your own
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Processor        | Intel 12th Gen i5-1240P                                                     |
@@ -63,10 +67,6 @@ While Framework previously sold models with Windows 11 and BYOOS (bring your own
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How's the design?
 
 If you've seen a Framework laptop before, then the Chromebook edition's design shouldn't come as a surprise. In fact, the hardware on the ChromeOS model is practically the same as the other two that the company sells, and I'm not complaining. It's got a sleek, unibody appearance with silver brushed throughout. The matte treatment is sufficient enough to hide fingerprints and smudges while still feeling soft and polished like that of other $1,000+ laptops. 
@@ -78,7 +78,7 @@ Not a lot to complain about with the Framework laptop's look. Maybe a matte blac
 June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured reviews
@@ -106,6 +106,10 @@ Lastly, the 3:2, 2256x1504 display on the Framework Chromebook is color-vibrant,
 
 **Review: [The HP Elite Dragonfly Chromebook has no business being this good](https://www.zdnet.com/article/hp-elite-dragonfly-chromebook-review/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Customizing the Framework
 
 Really the only reason you should consider a Framework laptop, let alone the Chromebook edition, is for the customizability. Virtually every single part of the laptop can be replaced by hand, including the IO ports, battery pack, memory, and even the bezel that magnetically attaches around the display. That means you won't need dongles, adapters, or a whole other [docking hub](https://www.zdnet.com/article/best-laptop-docking-station/) to get your work machine to... work. 
@@ -132,6 +136,10 @@ The company makes it easy to find the exact component that you need by labeling 
 
 **Also: [With Samsung's Self-Repair program, you can fix your broken screen at will](https://www.zdnet.com/article/samsung-launches-self-repair-program-so-you-can-fix-that-broken-screen-at-will/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does it handle daily tasks?
 
 Hardware aside, the ChromeOS experience on the new Framework is as expected. It's a clean, resourceful, and easy-to-learn operating system that continues to expand in features month after month. There's a stigma that Chromebooks are too minimal, given they lack support for professional apps and services like Adobe Photoshop and Premiere Pro. But, unless such programs are essential to your workflow, you won't find yourself missing them when using the laptop for internet browsing, streaming movies and shows, and even [playing games on the cloud](https://www.zdnet.com/home-and-office/home-entertainment/three-of-the-biggest-pc-makers-are-redefining-gaming-with-chromebooks/). 
@@ -150,10 +158,6 @@ A singular cooling fan is found inside. It's audible under strenuous workloads b
 
 June Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Battery and charging
 
 That brings me to battery life, an area that Chromebooks are known to excel at thanks to the efficiency and bloatware-free nature of the software. To my surprise, the Framework Chromebook isn't the battery champ that I expected it to be. It's got a healthy 55Wh cell powering the unit, but even then, the laptop lasted me about 6 to 7 hours before needing a charge. That means that on a typical workday, I'd need to plug in a charger an hour or two before closing time. 
@@ -164,10 +168,6 @@ Framework bundles a modular (surprise, surprise) 60W charger in the box that use
 
 [Buy the Framework Chromebook $963 at Frame](https://frame.work/products/laptop-chromebook-12-gen-intel/configuration/edit)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 I love the Framework Chromebook. It's one of the few tech products that I've reviewed this year that truly feels like a consumer-first gadget and is made by a company that truly cares about the environment. I also happen to fall under the "non-professional" userbase which makes the ChromeOS experience more than adequate for my day-to-day.
@@ -175,7 +175,7 @@ I love the Framework Chromebook. It's one of the few tech products that I've rev
 With a [starting price of $963](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMac-Book-Pro-Charger-Compatible%2Fdp%2FB09GFR7NSK%2Fref%3Dsxts%5Fb2b%5Fsx%5Freorder%5Fv3%5Fbusiness%3Fcontent-id%3Damzn1.sym.3ff8510d-e0d4-4cf7-beed-93a0c9d332a5%3Aamzn1.sym.3ff8510d-e0d4-4cf7-beed-93a0c9d332a5%26cv%5Fct%5Fcx%3Dapple%2Bmac%2Bbook%2Bpro%2Bcharger%26gclid%3DEAIaIQobChMIs5Pt35LC-wIVUTizAB1ACgGFEAAYAiAAEgIy2%5FD%5FBwE%26hvadid%3D177325628310%26hvdev%3Dc%26hvlocphy%3D9005779%26hvnetw%3Dg%26hvqmt%3De%26hvrand%3D2145686270052462161%26hvtargid%3Dkwd-13812963869%26hydadcr%3D19137%5F9664167%26keywords%3Dapple%2Bmac%2Bbook%2Bpro%2Bcharger%26pd%5Frd%5Fi%3DB09GFR7NSK%26pd%5Frd%5Fr%3D129fb8fb-f662-4d8a-8ba5-3c33bf2785fd%26pd%5Frd%5Fw%3DH19HD%26pd%5Frd%5Fwg%3DJAz8D%26pf%5Frd%5Fp%3D3ff8510d-e0d4-4cf7-beed-93a0c9d332a5%26pf%5Frd%5Fr%3D5CG3412G8ZQ8YRYVN7GE%26qid%3D1669132408%26sr%3D1-1-722db4e4-77fc-4fb6-8cee-654ad16ce1d5%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C072696e5-0cae-486b-9cee-48548f1af7b6%7Cdtp&dtb=1), the Framework Chromebook is competing in rough waters, especially going into the holiday season when every manufacturer (including Apple) is [discounting laptops](https://www.zdnet.com/article/early-black-friday-laptop-deals-november-22-2022/) left and right. But if you want a machine that will free you of dongles, hubs, and visits to your local tech support, receive software updates for years down the line, and represents a movement that effectively betters the planet, then the Framework Chromebook is the best option available.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -216,22 +216,21 @@ With a [starting price of $963](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-pulsepundit-critique-of-live-performances/"><u>[New] 2024 Approved PulsePundit Critique of Live Performances</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-expert-level-mp4-integrator-with-fb-compatibility-for-2024/"><u>[New] Expert-Level MP4 Integrator with FB Compatibility for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-cinematic-lighting-5-must-haves-for-streams/"><u>[Updated] Cinematic Lighting 5 Must-Haves for Streams</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-visionmeld-digital-artistry-at-your-fingertips/"><u>[Updated] In 2024, VisionMeld Digital Artistry at Your Fingertips</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/boosting-your-stream-quality-with-zoom-and-fb-live/"><u>Boosting Your Stream Quality with ZOOM & FB Live</u></a></li>
-<li><a href="https://facebook.techidaily.com/connecting-worlds-facebooks-pivotal-shift-to-becoming-meta/"><u>Connecting Worlds: Facebook's Pivotal Shift to Becoming Meta</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-stories-and-poems-with-chatgpt-tips-and-techniques/"><u>Crafting Stories and Poems with ChatGPT: Tips & Techniques</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-tech-gadgets-by-toms-electronics-hub/"><u>Expert Insights on Tech Gadgets by Tom’s Electronics Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-raspberry-pi-artificial-intelligence-starter-pack-an-in-depth-analysis/"><u>Exploring the Raspberry Pi Artificial Intelligence Starter Pack: An In-Depth Analysis</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How to Detect and Remove Spyware on Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v29-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V29 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-pc-hardware-by-toms-experts/"><u>In-Depth Analysis of PC Hardware by Tom's Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-equipment-expert-insights-on-pc-components-and-gear/"><u>Inside Tom's Equipment: Expert Insights on PC Components and Gear</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-zerowriter-inks-latest-typewriter-enhanced-52-e-ink-display-and-weeklong-battery-life-with-comfortable-mechanical-keys/"><u>Introducing Zerowriter Ink's Latest Typewriter: Enhanced 5.2 E-Ink Display & Weeklong Battery Life with Comfortable Mechanical Keys</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/kioxia-unveils-breakthrough-solid-state-drives-with-ultra-fast-optical-link-capable-of-transmitting-data-beyond-40-meters-away-from-cpus/"><u>Kioxia Unveils Breakthrough Solid State Drives with Ultra-Fast Optical Link Capable of Transmitting Data Beyond 40 Meters Away From CPUs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-projects-with-waveshares-new-iot-board-seamlessly-integrates-with-raspberry-pi-zero-includes-4glte-connectivity-and-customized-micropytho34/"><u>Revolutionize Your Projects with Waveshare's New IoT Board: Seamlessly Integrates with Raspberry Pi Zero, Includes 4G/LTE Connectivity & Customized MicroPython Environment</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-unveiling-the-latest-tech-trends/"><u>Tom's Computer Components: Unveiling the Latest Tech Trends</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-break-through-the-crowd-key-youtube-seo-strategies-to-rank-high/"><u>[Updated] 2024 Approved Break Through the Crowd Key YouTube SEO Strategies to Rank High</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-set-a-unique-tiktok-sound-as-your-cellphone-alarm-or-ringtone/"><u>[Updated] 2024 Approved Set a Unique TikTok Sound as Your Cellphone Alarm or Ringtone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-expert-advice-on-quick-and-clean-ppt-captures/"><u>2024 Approved Expert Advice on Quick and Clean PPT Captures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/global-smartphone-sales-revealed-iphones-capture-the-first-7-slots-according-to-new-data/"><u>Global Smartphone Sales Revealed: IPhones Capture the First 7 Slots, According to New Data</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-se-2022-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone SE (2022) without Losing Data? | Stellar</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/simple-steps-for-detecting-problems-with-your-sound-card-according-to-yl-software-advice/"><u>Simple Steps for Detecting Problems with Your Sound Card, According to YL Software Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/streamline-your-messaging-experience-by-organizing-telegram-chats-into-folders-dont-make-my-mistake/"><u>Streamline Your Messaging Experience by Organizing Telegram Chats Into Folders - Don't Make My Mistake!</u></a></li>
+<li><a href="https://win-able.techidaily.com/superior-iphone-video-editor-ultimate-pro-convert-any-video-format-effortlessly/"><u>Superior iPhone Video Editor Ultimate Pro - Convert Any Video Format Effortlessly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oneplus-11r-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your OnePlus 11R Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-great-shift-embracing-a-smartphone-era-for-superior-accessibility-and-functionality/"><u>The Great Shift: Embracing a Smartphone Era for Superior Accessibility and Functionality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-15-best-looking-android-games-a-match-for-console-quality/"><u>Top 15 Best-Looking Android Games: A Match for Console Quality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transcode-mp4-files-to-3gpp-streaming-quality-videos-for-free-with-movavis-web-service/"><u>Transcode MP4 Files to 3GPP Streaming Quality Videos For Free with Movavi's Web Service</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transparent-brilliance-unveiled-the-second-look-at-the-nothing-phone/"><u>Transparent Brilliance Unveiled: The Second Look at the Nothing Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-next-gen-foldable-samsung-galaxy-z-flip-4-pros-and-innovations-compared/"><u>Unboxing the Next Gen Foldable: Samsung Galaxy Z Flip 4 Pros and Innovations Compared</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-the-causes-behind-your-phones-unexpected-reboots-a-comprehensive-guide/"><u>Understanding the Causes Behind Your Phone's Unexpected Reboots: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-the-functionality-of-the-android-systems-webview-component/"><u>Understanding the Functionality of the Android System's WebView Component</u></a></li>
 </ul></div>
 

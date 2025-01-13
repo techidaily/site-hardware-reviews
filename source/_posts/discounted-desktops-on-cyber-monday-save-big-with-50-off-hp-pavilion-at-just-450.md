@@ -1,7 +1,7 @@
 ---
 title: Discounted Desktops on Cyber Monday - Save Big with 50%% Off HP Pavilion at Just $450
-date: 2024-12-05T19:19:54.518Z
-updated: 2024-12-12T20:40:36.542Z
+date: 2025-01-08T17:29:46.622Z
+updated: 2025-01-12T17:26:52.049Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc8c2efc8-16b6-4af0-9981-a5b640401ae3%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,500 -- $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc8c2efc8-16b6-4af0-9981-a5b640401ae3%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,24 +79,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-masterclass-in-instagram-designing-eye-catching-cover-images/"><u>[New] In 2024, Masterclass in Instagram Designing Eye-Catching Cover Images</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-strategic-steps-for-sky-high-insta-video-view-counts-for-2024/"><u>[New] Strategic Steps for Sky-High Insta Video View Counts for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-how-to-get-royalty-free-clip-art-in-2024/"><u>[Updated] How to Get Royalty Free Clip Art, In 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-step-by-step-guide-to-perfecting-tiktok-broadcast-on-zoom/"><u>[Updated] In 2024, Step-by-Step Guide to Perfecting TikTok Broadcast on Zoom</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-pushing-boundaries-with-innovative-instagram-content-for-2024/"><u>[Updated] Pushing Boundaries with Innovative Instagram Content for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/1715860013606-2024-approved-essential-offline-ios-game-list-unplugged-fun-awaits/"><u>2024 Approved Essential Offline iOS Game List - Unplugged Fun Awaits!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-mastering-the-art-of-eye-catching-fb-ad-content/"><u>2024 Approved Mastering the Art of Eye-Catching FB Ad Content</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/navigating-the-tiktok-facebook-content-exchange/"><u>Navigating the TikTok-Facebook Content Exchange</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pop-up-logitech-casa-desk-performance-analysis-topnotch-keyboard-and-trackpad-with-subpar-casing/"><u>Pop-Up Logitech Casa Desk Performance Analysis: Topnotch Keyboard & Trackpad with Subpar Casing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revamping-the-amd-ryzen-5000-series-the-allyn-x-review-and-future-desires/"><u>Revamping the AMD Ryzen 5000 Series: The Allyn X Review & Future Desires</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-of-cherry-xtrfy-k5v2-keyboard-innovative-red-switches-shine/"><u>Review of Cherry XTRFY K5V2 Keyboard: Innovative Red Switches Shine</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/schnelle-und-sichere-erstellung-von-windows-server-2022-wiederherstellungs-drive-tipps-and-tricks/"><u>Schnelle Und Sichere Erstellung Von Windows Server 2022 Wiederherstellungs-Drive - Tipps & Tricks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-updating-the-software-on-your-airpods/"><u>Step-by-Step Guide: Updating the Software on Your AirPods</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-by-step-tutorial-on-how-to-factory-reset-ipod-airpods-series-for-optimal-performance/"><u>Step-by-Step Tutorial on How To Factory Reset iPod AirPods Series for Optimal Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-travel-companion-tp-links-all-in-one-portable-wifi-hub/"><u>The Ultimate Travel Companion: TP-Link's All-in-One Portable WiFi Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-6-causes-of-overspending-on-graphics-processing-units-gpus/"><u>Top 6 Causes of Overspending on Graphics Processing Units (GPUs)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-7-frequently-asked-battery-faqs-answering-your-most-common-queries/"><u>Top 7 Frequently Asked Battery FAQs - Answering Your Most Common Queries</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-ranking-wireless-sound-systems-the-ultimate-guide-to-the-finest-portable-speakers/"><u>Top-Ranking Wireless Sound Systems - The Ultimate Guide to the Finest Portable Speakers</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-battlenet-launcher-issues-on-windows-pcs/"><u>Troubleshooting Guide: Fixing 'Battle.net Launcher' Issues on Windows PCs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-find-your-next-vector-the-best-10-pics-sites/"><u>[New] Find Your Next Vector The Best 10 Pics Sites</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-tumblr-id-visualization-guide-size-format-duration/"><u>[New] Tumblr ID Visualization Guide Size, Format, Duration</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-mobile-and-desktop-mkv-software/"><u>[Updated] Premier Mobile & Desktop MKV Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-your-path-to-youtube-stardom-3-strategies-for-captivating-reaction-videos/"><u>2024 Approved Your Path to YouTube Stardom 3 Strategies for Captivating Reaction Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-vivo-y100-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo Y100 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-infinix-smart-8-plus-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Infinix Smart 8 Plus</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-high-performance-on-a-budget-acers-nitro-16-with-rtx-4070-and-amd-cpu-for-an-unbeatable-price-of-1129/"><u>Experience High Performance on a Budget: Acer's Nitro 16 with RTX 4070 and AMD CPU for an Unbeatable Price of $1,129</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-unprecedented-value-razer-blade-15-now-at-a-historic-1000-discount-for-the-year-2023/"><u>Experience Unprecedented Value - Razer Blade 15 Now at a Historic $1,000 Discount for the Year 2023</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-new-gadgets-with-tom-a-detailed-guide-on-hardware/"><u>Exploring New Gadgets with Tom - A Detailed Guide on Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/from-lenovo-disappointment-to-upgrade-delight-adding-a-custom-titanium-case-and-mechanical-keyboard/"><u>From Lenovo Disappointment to Upgrade Delight: Adding a Custom Titanium Case and Mechanical Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-the-latest-in-technology-via-toms-hardware/"><u>Inside Look: The Latest in Technology via Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-power-of-hp-omnibook-x-experience-long-lasting-efficiency-with-snapdragons-innovation/"><u>Inside the Power of HP OmniBook X: Experience Long-Lasting Efficiency with Snapdragon's Innovation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-world-top-picks-for-powerful-systems/"><u>Inside Tom's Hardware World: Top Picks for Powerful Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-print-sharing-snags-with-step-by-step/"><u>Solving Print Sharing Snags with Step-by-Step</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sonys-latest-bargain-get-the-ps5-slim-and-spider-man-2-bundle-for-its-most-affordable-price-ever/"><u>Sony's Latest Bargain: Get the PS5 Slim and Spider-Man 2 Bundle for Its Most Affordable Price Ever!</u></a></li>
 </ul></div>
 

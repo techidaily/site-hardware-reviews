@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Taking Screenshots: Dell, Lenovo & Mac Laptop Guides"
-date: 2025-01-01T20:16:26.377Z
-updated: 2025-01-06T06:09:44.993Z
+date: 2025-01-09T17:28:34.897Z
+updated: 2025-01-13T02:08:13.449Z
 tags:
   - laptops
 categories:
@@ -29,22 +29,22 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 ## How to take screenshots on any laptop
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
 ### **Option 1: The old fashioned way**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
 
@@ -55,10 +55,6 @@ In any case, it should be easy to find by looking for the key marked **Prt**, **
 The button can be just about anywhere, so just look for something that looks as similar as possible to the legend on this one.
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
 
@@ -73,10 +69,6 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 Michael Gariffo/ZDNET
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
@@ -105,10 +97,14 @@ These are the three keys you'll need to press at once on a mac to take a standar
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Is there an easy way to record video of my laptop screen too?
 
@@ -117,6 +113,10 @@ There sure is. For Mac users, we've already covered [how to capture recordings o
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,24 +157,19 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-footage-to-riveting-content-the-ultimate-guide-to-yt-video-edits/"><u>[New] In 2024, From Raw Footage to Riveting Content The Ultimate Guide to YT Video Edits</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-elite-cloud-saving-solutions-compilation/"><u>[Updated] 2024 Approved Elite Cloud Saving Solutions Compilation</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-navigating-lunapic-like-an-ace-photographer/"><u>[Updated] In 2024, Navigating LunaPic Like an Ace Photographer</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-next-frontier-in-technological-application/"><u>[Updated] The Next Frontier in Technological Application</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-beam-brighter-adopting-the-playful-cartoon-lens-on-snapchat/"><u>2024 Approved Beam Brighter Adopting the Playful Cartoon Lens on Snapchat</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asrock-b760m-pro-rs-board-assessment-cost-effective-with-extensive-m2-slots/"><u>ASROCK B760M PRO RS Board Assessment: Cost Effective with Extensive M.2 Slots</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-gadget-breakdown-with-tom-focus-on-hardware/"><u>Comprehensive Gadget Breakdown with Tom - Focus on Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-pc-world-a-comprehensive-resource/"><u>Exploring Tom's PC World: A Comprehensive Resource</u></a></li>
-<li><a href="https://some-tips.techidaily.com/green-alliance-inked-between-australia-and-singapore-sets-a-new-precedent-for-environmentally-conscious-trade-practices/"><u>Green Alliance Inked Between Australia & Singapore Sets a New Precedent for Environmentally Conscious Trade Practices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-samsung-galaxy-f04-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Samsung Galaxy F04 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-pixio-px277-oled-the-hidden-gem-among-gaming-displays/"><u>In-Depth Analysis of the Pixio PX277 OLED - The Hidden Gem Among Gaming Displays</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-your-it-journey-with-expert-advice-from-toms-tech/"><u>Navigate Your IT Journey with Expert Advice From Tom's Tech</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-the-xlivedll-file-not-detected-issue-a-comprehensive-guide/"><u>Resolving the xlive.dll File Not Detected Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-gaming-displays-a-closer-look-at-the-speedy-performance-of-a-45-inch-oled-monitor-aoc-agon-pro-ag456uczd/"><u>Revolutionizing Gaming Displays – A Closer Look at the Speedy Performance of a 45-Inch OLED Monitor (AOC Agon Pro AG456UCZD)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210417149-9781737726029-soul-fullness-3rd-ed/"><u>Soul-Fullness (3rd ed.) | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/taking-a-closer-look-performance-testing-and-review-for-raspberry-pi-intelligent-unit-kit/"><u>Taking a Closer Look: Performance Testing and Review for Raspberry Pi Intelligent Unit Kit</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-reasoning-behind-meta-holding-off-on-end-to-end-encryption-by-23/"><u>The Reasoning Behind Meta Holding Off on End-to-End Encryption by '23</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-review-for-power-and-reliability-the-nzxt-c1email-protected-platinum-psu/"><u>Top Review for Power and Reliability: The NZXT C1[email Protected] Platinum PSU</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-power-of-technology-with-toms-hardware-tips/"><u>Unlocking the Power of Technology with Tom's Hardware Tips</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ompile-of-the-most-beautiful-wedding-videos-youtube-and-vimeo-edition-for-2024/"><u>[New] Compile of the Most Beautiful Wedding Videos - Youtube & Vimeo Edition for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-iphone-and-samsung-faces-examining-their-biometric-security/"><u>[Updated] 2024 Approved IPhone & Samsung Faces Examining Their Biometric Security</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-innovative-youtube-titles-crafting-a-standout-brand/"><u>[Updated] In 2024, Innovative YouTube Titles Crafting a Standout Brand</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winx-dvd-ripper-and-video-converter/"><u>線上 WinX DVD Ripper & Video Converter 最新指南：操作與解決最常見的技術問題</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-breakdown-of-asus-rog-keris-ii-ace-vs-deathadder-v3-pro-battle-for-gaming-supremacy-begins/"><u>Comprehensive Breakdown of Asus ROG Keris II Ace vs DeathAdder V3 Pro: Battle for Gaming Supremacy Begins</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-testing-of-asrocks-z79-bios-guide/"><u>Comprehensive Testing of ASRock's Z79지킨트 라이트니늄 와일드플로우 모바일 BIOS Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-review-of-the-hp-omnibook-x-long-lasting-on-a-single-charge/"><u>Expert Review of the HP OmniBook X: Long-Lasting on a Single Charge</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gaming-at-its-best-with-the-aorus-z69ueh-an-in-depth-look-at-the-gigabyte-gaming-monitors-high-performance-and-elegant-design-features/"><u>Gaming at Its Best with the Aorus Z69UEH: An In-Depth Look at the Gigabyte Gaming Monitor's High Performance and Elegant Design Features</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-inverting-screen-time-with-android-videos/"><u>In 2024, Inverting Screen Time with Android Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-tech-knowledge-with-expert-advice-from-tome-hardware/"><u>Master Your Tech Knowledge with Expert Advice From Tom'e Hardware</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/metaversal-journey-versus-omniverse-quest-for-2024/"><u>Metaversal Journey Versus Omniverse Quest for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-resolving-non-functional-keyboard-issue-during-system-startup/"><u>Solved! Resolving Non-Functional Keyboard Issue During System Startup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-review-the-ultimate-guide-to-buying-an-asus-rog-azoth-extreme-extreme-at-half-a-grand/"><u>Top Review: The Ultimate Guide to Buying an Asus ROG Azoth Extreme (Extreme) at Half a Grand</u></a></li>
 </ul></div>
 

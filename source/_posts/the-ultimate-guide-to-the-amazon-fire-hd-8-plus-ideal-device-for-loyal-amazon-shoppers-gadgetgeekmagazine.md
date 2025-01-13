@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to the Amazon Fire HD 8 Plus: Ideal Device for Loyal Amazon Shoppers | GadgetGeekMagazine"
-date: 2024-09-19 15:11:34
-updated: 2024-09-20 11:56:23
+date: 2025-01-09T16:16:56.465Z
+updated: 2025-01-13T02:43:48.510Z
 tags:
   - mobile-accessories
 categories:
@@ -16,6 +16,10 @@ The new generation of iPhones are here and features a new action button, more AI
 **Also:** [**Preorder the iPhone 16 now (and even get one for free) - here's how**](https://www.zdnet.com/article/preorder-the-iphone-16-now-and-even-get-one-for-free-heres-how/)
 
 It's no secret that iPhones aren't the most rugged devices, sometimes yielding screen cracks and camera damage from simple drops. Luckily, ZDNET editors have gone hands-on with iPhone 16 cases to see how they match up. No matter your needs -- drop protection, style _with_ durability, or functionality -- we've got you covered. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case right now?
 
@@ -88,6 +92,10 @@ Pros
 Cons 
 * Minimal drop protection
 * Heftier price
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pitaka Ultra Slim case
 
@@ -167,6 +175,10 @@ Pros
 Cons 
 * Pricier
 * No camera protection
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Incase Icon
 
@@ -250,6 +262,10 @@ Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek desig
 | Incase Icon case           | $60       | Yes                 | Yes         |
 | Nomad Modern Leather case  | $70       | Yes                 | Yes         |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which is the right iPhone 16 case for you?
 
 The best iPhone 16 case option for you differs depending on your needs. For one, you may require an extremely protective case if you are clumsy with your device. Maybe you're lucky with great phone handling skills and want a stylish case. There are options for everyone.
@@ -261,6 +277,10 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Latercase for iPhone 16         | A super thin case to stick your large phone in your small pocket.                                       |
 | Incase Icon case                | A unique and stylish case with protection and MagSafe capabilities.                                     |
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best iPhone 16 case
 
@@ -285,6 +305,10 @@ However, if you stray from the list, the best options are those with a solid bum
 
 Unfortunately, there isn't such a thing as the best phone case brand. Many sources point to Spigen and Otterbox as the most popular phone case brands with the most units sold. That, however, does not necessarily mean they are the best brands. It is ultimately up to you and your lived experience and opinion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What case material is best for iPhone?
 
 Materials like plastic or polycarbonate usually offer the best price and durability. Other cases made from leather or metal can be pricier and may not offer the best protection.
@@ -300,6 +324,10 @@ If your phone has the problem of overheating, it may be best to look into specia
 ## What is the best iPhone for a 16 year old?
 
 This is a good question, and if we had to chime in, we would say something more durable. A study by tech protection service Asurion in 2013 that [3 out of 10 teenagers have dropped](https://www.prnewswire.com/news-releases/3-out-of-10-teens-damaged-cell-phones-in-the-last-18-months-mainly-at-school-218494391.html#:~:text=A%20back%2Dto%2Dschool%20survey,most%20accidents%20happening%20at%20school.) and/or damaged their cell phones in the past 18 months. Ten years later, many phones are even less durable. Therefore, that number may be higher, especially if teenagers have more phones than ever. To prevent damage to your teen's phone, it may be wise to invest in a durable case that protects the device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 16 cases worth considering?
 
@@ -338,11 +366,25 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-expert-advice-for-achieving-larger-head-effects-in-tiktok-vfx/"><u>[Updated] In 2024, Expert Advice for Achieving Larger Head Effects in TikTok VFX</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-journey-through-lut-based-color-enhancement-methods/"><u>[Updated] Journey Through LUT-Based Color Enhancement Methods</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-the-latest-logitech-mk710-mouse-drivers/"><u>Download and Update the Latest Logitech MK710 Mouse Drivers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exceptional-clarity-at-an-affordable-price-discover-hps-37-wqhdplus-ultrawide-display-with-ips-technology-ideal-for-professionals-seeking-quality-without-ol49/"><u>Exceptional Clarity at an Affordable Price: Discover HP’s 37 WQHD+ Ultrawide Display with IPS Technology, Ideal for Professionals Seeking Quality without OLED Expense</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-alienwares-stunning-34-curved-oled-display-for-only-749-at-best-buy/"><u>Experience Next-Level Gaming: Alienware's Stunning 34 Curved OLED Display for Only $749 at Best Buy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-future-of-gaming-with-alienwares-high-speed-aw2725df-monitor-an-expert-review-of-its-oled-brilliance/"><u>Experience the Future of Gaming with Alienware's High-Speed AW2725DF Monitor - An Expert Review of Its OLED Brilliance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-latest-in-affordable-laptops-minisforums-new-release-featuring-a-156-inch-144hz-1440p-screen-for-just-189/"><u>Experience the Latest in Affordable Laptops - Minisforum's New Release Featuring a 15.6-Inch, 144Hz, 1440P Screen for Just $189</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-9-premium-wedding-films-online-youtube-and-vimeo/"><u>In 2024, Top 9 Premium Wedding Films Online Youtube & Vimeo</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inside-movavis-video-editor-plus-features/"><u>Inside Movavi's Video Editor Plus Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezes-fixing-the-notorious-hunger-game-on-your-computer/"><u>No More Freezes: Fixing the Notorious 'Hunger' Game on Your Computer</u></a></li>
+</ul></div>
+

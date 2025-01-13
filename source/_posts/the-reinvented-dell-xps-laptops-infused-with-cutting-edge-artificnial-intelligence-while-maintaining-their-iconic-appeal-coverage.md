@@ -1,7 +1,7 @@
 ---
 title: "The Reinvented Dell XPS Laptops: Infused with Cutting-Edge Artificnial Intelligence While Maintaining Their Iconic Appeal | Coverage"
-date: 2024-12-31T18:18:28.434Z
-updated: 2025-01-06T02:38:09.647Z
+date: 2025-01-10T19:46:50.929Z
+updated: 2025-01-13T01:39:58.526Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ Just ahead of [CES 2024](https://www.zdnet.com/topic/ces-2024/), Dell has reveal
 Every laptop will be powered by an Intel Core Ultra processor. The CPU will house an AI acceleration engine alongside a neural processing unit (NPU). The NPU can be considered a third resource, which is separate from the processor and graphics card that the laptop can access. The NPU will alleviate some of the laptop's workload while helping the battery maintain its longevity. What's more, the models will have ExpressCharge software, allowing users to recharge their computer from zero to 80% in about an hour.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,22 +85,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-huaweis-built-in-recorder-screen-capture-for-mate-and-p-series/"><u>[Updated] In 2024, Huawei's Built-In Recorder Screen Capture for Mate and P Series</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-startup-strategies-for-making-money-on-periscope/"><u>[Updated] Startup Strategies for Making Money on Periscope</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/delving-into-the-features-of-rode-streamer-pro-x-could-this-be-the-answer-to-your-cinematic-challenges/"><u>Delving Into The Features Of Rode Streamer Pro X - Could This Be the Answer to Your Cinematic Challenges?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-learning-with-these-top-rated-animation-software/"><u>Elevate Learning with These Top-Rated Animation Software</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/enhance-your-document-management-system-with-abbyy-and-laserfiche-combined-capabilities-using-flexicapture-technology/"><u>Enhance Your Document Management System with ABBYY and Laserfiche Combined Capabilities Using FlexiCapture Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-hostingers-offerings-a-deep-dive-into-vps-cloud-platforms-and-shared-hosting-options/"><u>Evaluating Hostinger's Offerings: A Deep Dive Into VPS, Cloud Platforms, and Shared Hosting Options</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/fix-mobile-device-errors-fb-vids-not-loading/"><u>Fix Mobile Device Errors FB Vids Not Loading</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/immersive-color-and-lightning-speed-an-insiders-look-at-the-unmatched-performance-of-philips-evonia-gaming-display-model-49m2c8900-240hz-oled/"><u>Immersive Color & Lightning Speed: An Insider's Look at the Unmatched Performance of Philips Evonia Gaming Display, Model 49M2C8900 (240Hz OLED)</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-superior-pcmacos-users-choice-best-8-uhd-video-player/"><u>In 2024, Superior PC/MacOS Users' Choice Best 8 UHD Video Player</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-the-world-of-gadgets-with-toms-hardware-experts/"><u>Master the World of Gadgets with Tom’s Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/my-top-pick-the-surprisingly-versatile-paper-writing-laptop-stylus-from-ces-a-must-see-innovation/"><u>My Top Pick: The Surprisingly Versatile Paper-Writing Laptop Stylus From CES - A Must-See Innovation!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-todays-tech-landscape-expert-hardware-advice-from-tom/"><u>Navigating Today's Tech Landscape: Expert Hardware Advice From Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/power-your-gadgets-on-the-go-in-depth-look-at-baseus-blade-100w-versatile-power-bank-for-all-your-devices-zdnet-review/"><u>Power Your Gadgets on the Go: In-Depth Look at Baseus Blade 100W Versatile Power Bank for All Your Devices | ZDNET Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341754699-preventive-measures-such-as-protective-eyewear-can-significantly-reduce-the-risk-of-ocular-trauma/"><u>Preventive Measures Such as Protective Eyewear Can Significantly Reduce the Risk of Ocular Trauma.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Insights: A Comprehensive Guide to Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-potential-with-gigabytes-b760m-ds3h-ax-the-ultimate-guide-to-an-entry-level-three-monitor-motherboard/"><u>Unlocking Performance Potential with Gigabyte's B760M DS3H AX - The Ultimate Guide to an Entry-Level Three-Monitor Motherboard</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-insightful-review-understanding-du-recorder/"><u>[New] Insightful Review Understanding Du Recorder</u></a></li>
+<li><a href="https://article-tips.techidaily.com/crafting-a-combined-video-narrative-on-iphone/"><u>Crafting a Combined Video Narrative on iPhone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-and-performance-of-western-digitals-new-4tb-wd-blue-sn5000-ssd/"><u>Exploring the Features and Performance of Western Digital's New 4TB WD Blue SN5000 SSD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-nzxt-h7-flow-case-a-cautious-approach-to-performance/"><u>Exploring the NZXT H7 Flow Case: A Cautious Approach to Performance</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-x8b-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Honor X8b Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-motorola-moto-g24-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Motorola Moto G24 online without jailbreak</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premiere-script-highlights/"><u>In 2024, Premiere Script Highlights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/live-streaming-the-samsung-unveiling-a-step-by-step-guide/"><u>Live Streaming the Samsung Unveiling: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-z-fold-5-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341752525-toms-tech-hub-in-depth-reviews-and-tips-explore-more-with-us/"><u>Tom's Tech Hub: In-Depth Reviews & Tips - Explore More with Us</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-powerhouse-in-depth-look-at-hps-new-snapdragon-chip-in-omnibook-x/"><u>Unboxing the Powerhouse: In-Depth Look at HP's New Snapdragon Chip in OmniBook X</u></a></li>
 </ul></div>
 

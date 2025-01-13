@@ -1,7 +1,7 @@
 ---
 title: "Huge Cyber Monday Savings: Save 77%% on Lenovo ThinkPad L14 Gen 3 - Limited Time Offer!"
-date: 2025-01-02T05:11:19.912Z
-updated: 2025-01-06T03:19:57.526Z
+date: 2025-01-12T01:38:02.020Z
+updated: 2025-01-12T17:49:31.237Z
 tags:
   - laptops
 categories:
@@ -56,7 +56,7 @@ If you're at all familiar with the previous ThinkPad X1 computers, you'll notice
 Another consequence of the limited space is the lack of ports. You have four inputs in total: two Thunderbolt 4 ports, an 3.5mm headphone/mic combo, and a slot for a Nano SIM, although the last one is optional. It's as barebones as you can get. To be honest, I am pleasantly surprised that there is a headphone jack. With how simple the [third-generation ThinkPad X1 Nano](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-nano-gen-3-%2813-inch-intel%29%2Flen101t0054&publisher_slug=itechdaily19598&exclusive=1) is, I was a little shocked it made the cut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -97,22 +97,19 @@ Prices [start at $1,043](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-essential-guidelines-for-tiktok-web-on-a-mac-for-2024/"><u>[Updated] Essential Guidelines for TikTok Web on a Mac for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-refine-your-youtube-identity-with-efficient-descriptions/"><u>[Updated] In 2024, Refine Your YouTube Identity with Efficient Descriptions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-depth-look-at-vsdc-plus-top-competitors/"><u>[Updated] In-Depth Look at VSDC, Plus Top Competitors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/10-essential-google-chat-tools-every-user-needs-to-know/"><u>10 Essential Google Chat Tools Every User Needs to Know</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/automating-your-samsung-galaxy-mastering-the-power-of-modes-and-routines/"><u>Automating Your Samsung Galaxy: Mastering the Power of Modes & Routines</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-romance-the-role-of-chatgpt-in-transforming-your-love-journey/"><u>Enhancing Romance: The Role of ChatGPT in Transforming Your Love Journey</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-tiktok-watermark-removal-made-easy-top-picks-and-reviews/"><u>In 2024, TikTok Watermark Removal Made Easy Top Picks and Reviews</u></a></li>
-<li><a href="https://fox-info.techidaily.com/navigating-the-path-iphone-file-exchange/"><u>Navigating the Path IPhone File Exchange</u></a></li>
-<li><a href="https://article-files.techidaily.com/navigating-the-virtual-landscape-an-overview/"><u>Navigating the Virtual Landscape An Overview</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/samsung-ue590-masterclass-cutting-edge-gaming-display-for-2024/"><u>Samsung UE590 Masterclass Cutting-Edge Gaming Display for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/streamlining-your-mobile-workspace-mastering-app-management-like-a-pro/"><u>Streamlining Your Mobile Workspace: Mastering App Management Like a Pro</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-10-reader-favorites-highest-rated-blog-posts/"><u>Top 10 Reader Favorites: Highest Rated Blog Posts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-rated-protective-covers-for-the-newest-samsung-galaxy-z-fold-5/"><u>Top-Rated Protective Covers for the Newest Samsung Galaxy Z Fold 5</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/turning-onoff-your-android-devices-bluetooth-connection/"><u>Turning On/Off Your Android Device's Bluetooth Connection</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-the-most-sought-after-miniature-mobile-devices-of-2024-unveiled/"><u>Ultimate Selection: The Most Sought-After Miniature Mobile Devices of 2024 Unveiled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-secrets-of-android-privacy-monitoring-app-access-to-your-clipboard/"><u>Unlocking the Secrets of Android Privacy: Monitoring App Access to Your Clipboard</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upgrade-or-not-a-detailed-comparison-of-features-between-apples-latest-iphones-iphone-16-vs-iphone-15/"><u>Upgrade or Not? A Detailed Comparison of Features Between Apple's Latest iPhones (iPhone 16 Vs. IPhone 15)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-smile-stashers-the-ultimate-list-of-meme-makers-for-2024/"><u>[New] Smile Stashers The Ultimate List of Meme Makers for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparing-top-ereader-gadgets-your-go-to-guide-s-best-picks/"><u>Comparing Top eReader Gadgets: Your Go-To Guide 'S Best Picks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-switchbot-remote-overview-does-it-truly-merge-all-your-needs/"><u>Comprehensive SwitchBot Remote Overview: Does It Truly Merge All Your Needs?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-revolutionary-compact-tracker-by-nomad-a-credit-card-sized-solution-for-precise-location-tracking/"><u>Discover the Revolutionary Compact Tracker by Nomad – A Credit Card-Sized Solution for Precise Location Tracking</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embrace-the-future-of-safety-swap-out-your-old-ring-doorbell-today/"><u>Embrace the Future of Safety - Swap Out Your Old Ring Doorbell Today!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhanced-artificial-intelligence-performance-with-intels-ultra-pc-the-new-era-of-optimized-model-integration/"><u>Enhanced Artificial Intelligence Performance with Intel's Ultra PC: The New Era of Optimized Model Integration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/extending-the-lifespan-of-your-smartphone-understanding-android-device-endurance/"><u>Extending the Lifespan of Your Smartphone: Understanding Android Device Endurance</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-price-tracker-finding-the-best-cloud-services/"><u>In 2024, Price Tracker Finding the Best Cloud Services</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tailor-screen-size-for-optimal-windows-11-use/"><u>Tailor Screen Size for Optimal Windows 11 Use</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-troubleshooting-steps-addressing-missing-d3dx9n41dll-files/"><u>The Ultimate Troubleshooting Steps: Addressing Missing d3dx9_n41.dll Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-essential-apple-watch-sleep-monitoring-applications/"><u>Top 5 Essential Apple Watch Sleep Monitoring Applications</u></a></li>
 </ul></div>
 

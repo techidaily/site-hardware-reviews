@@ -1,7 +1,7 @@
 ---
 title: Discover Why This Lenovo Laptop Captivates Tech Savvy Users with Its Exceptional Duo Features | Exclusive Review by ZDNET
-date: 2024-12-30T04:48:29.044Z
-updated: 2025-01-06T04:27:35.203Z
+date: 2025-01-06T22:55:48.900Z
+updated: 2025-01-12T17:14:17.071Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,22 +134,22 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-convenient-alias-adjustment-in-google-meet-devices/"><u>[New] 2024 Approved Convenient Alias Adjustment in Google Meet Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-behind-the-lens-wisdom-the-best-cinemagraph-tips/"><u>[New] Behind-the-Lens Wisdom The Best Cinemagraph Tips</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-reimagining-streaming-experience-beyond-manycam/"><u>[Updated] In 2024, Reimagining Streaming Experience Beyond ManyCam</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discovering-top-gear-ratings-a-comprehensive-guide-by-toms-electronics-expertise/"><u>Discovering Top Gear Ratings - A Comprehensive Guide by Tom's Electronics Expertise</u></a></li>
-<li><a href="https://fox-links.techidaily.com/essential-sites-for-watching-vr-media/"><u>Essential Sites for Watching VR Media</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fords-semi-automated-vehicle-system-probed-after-fatal-incidents-essential-information-zdnet-news/"><u>Ford's Semi-Automated Vehicle System Probed After Fatal Incidents – Essential Information | ZDNET News</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-xs-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone XS Max without Password?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-xiaomi-redmi-note-12t-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Xiaomi Redmi Note 12T Pro to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-spark-20-proplus-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 20 Pro+ Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964501050-the-tone-must-be-urgent-and-passionate-as-if-the-ai-robot-caretaker-is-deeply-concerned-about-the-topic/"><u>The Tone Must Be Urgent and Passionate as if the AI Robot Caretaker Is Deeply Concerned About the Topic</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-gear-the-ultimate-guide-to-computer-components-and-performance/"><u>Tom's Tech Gear: The Ultimate Guide to Computer Components and Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-your-ultimate-guide-to-cutting-edge-hardware/"><u>Tom's Tech Hub: Your Ultimate Guide to Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-reviews-and-analysis/"><u>Tom's Tech Insights: Comprehensive Reviews and Analysis</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/uberspielen-von-dateien-vom-iphoneipad-auf-eine-externe-speicherung-funf-effektive-tricks/"><u>Überspielen Von Dateien Vom iPhone/iPad Auf Eine Externe Speicherung - Fünf Effektive Tricks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-best-gaming-ram-in-2nd4e-swift-performance-budget-friendly-options-with-radiant-rgb-features/"><u>Ultimate Guide to the Best Gaming RAM in 2nD4e - Swift Performance, Budget-Friendly Options with Radiant RGB Features</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-performance-a-comprehensive-look-at-the-corsair-dominator-platinum-6400-mhz-rgb-led-and-2x16gb-ddr5-ram-modules/"><u>Unveiling Performance: A Comprehensive Look at the Corsair Dominator Platinum - 6400 MHz, RGB LED, and 2X16GB DDR5 RAM Modules</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-sk-hynixs-probe-into-suspected-illicit-dram-inside-huawei-devices/"><u>Unveiling SK Hynix's Probe Into Suspected Illicit DRAM Inside Huawei Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-license-free-minecraft-banner-pack/"><u>[New] License-Free Minecraft Banner Pack</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-exceptional-sound-value-for-aspiring-asmr-artists/"><u>[Updated] 2024 Approved Exceptional Sound Value for Aspiring ASMR Artists</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-become-an-insta-celebrity-overnight-top-15-strategies-from-social-media-experts/"><u>[Updated] Become an Insta Celebrity Overnight Top 15 Strategies From Social Media Experts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-ps5xbox-x-visuals-the-leading-game-screens-ranked/"><u>[Updated] PS5/Xbox X Visuals The Leading Game Screens Ranked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adapting-fn-key-operations-in-the-latest-windows-os/"><u>Adapting FN Key Operations in the Latest Windows OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-methods-to-expand-your-icloud-storage-for-seamless-photo-backups/"><u>Free Methods to Expand Your iCloud Storage for Seamless Photo Backups</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-nokia-c22-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Nokia C22?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/master-remote-controlling-android-with-iphone-top-techniques-unveiled/"><u>Master Remote Controlling Android with iPhone – Top Techniques Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pre-order-your-atandt-and-verizon-pixel-fold-available-now/"><u>Pre-Order Your AT&T & Verizon Pixel Fold - Available Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/preventing-damage-from-cellphone-shakes-protecting-your-smartphones-lens-a-guide-for-iphone-and-android-users/"><u>Preventing Damage From Cellphone Shakes: Protecting Your Smartphone's Lens - A Guide for iPhone & Android Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/preventing-nuisance-automated-calls-tips-for-android-users/"><u>Preventing Nuisance Automated Calls: Tips for Android Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seamless-integration-of-windows-and-android-in-lenovos-innovative-thinkbook-plus-nhybrid/"><u>Seamless Integration of Windows & Android in Lenovo's Innovative ThinkBook Plus Nhybrid.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seamlessly-transfer-website-links-from-your-android-smartphone-to-your-pc-running-windows/"><u>Seamlessly Transfer Website Links From Your Android Smartphone to Your PC Running Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/smart-savings-high-quality-phones-available-for-less-than-1000/"><u>Smart Savings: High-Quality Phones Available for Less Than $1,000</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/smartphone-screen-protectors-are-they-necessary-or-just-extra-expense/"><u>Smartphone Screen Protectors: Are They Necessary or Just Extra Expense?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-how-to-empty-your-android-devices-cache/"><u>Step-by-Step Guide: How To Empty Your Android Device's Cache</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ultimate-trailer-treasure-chest/"><u>Ultimate Trailer Treasure Chest</u></a></li>
 </ul></div>
 

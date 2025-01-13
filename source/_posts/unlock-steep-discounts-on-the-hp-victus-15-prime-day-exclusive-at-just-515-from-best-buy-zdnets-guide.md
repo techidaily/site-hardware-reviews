@@ -1,7 +1,7 @@
 ---
 title: "Unlock Steep Discounts on the HP Victus 15: Prime Day Exclusive at Just $515 From Best Buy – ZDNet's Guide!"
-date: 2024-12-23T22:06:17.435Z
-updated: 2024-12-27T16:23:16.049Z
+date: 2025-01-05T18:26:38.132Z
+updated: 2025-01-12T16:47:55.810Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,22 +63,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-discovering-vr-identity-a-hands-on-approach-to-self-representation/"><u>[New] Discovering VR Identity - A Hands-On Approach to Self-Representation</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-backdrop-beats-curating-cinematic-tunes/"><u>[New] In 2024, Backdrop Beats Curating Cinematic Tunes</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-quick-hands-turning-photos-into-compelling-youtube-thumbnails/"><u>[New] In 2024, Quick Hands Turning Photos Into Compelling YouTube Thumbnails</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-unmatched-audio-changer-applications-for-smartphones/"><u>[New] Unmatched Audio Changer Applications for Smartphones</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-how-to-record-webcam-video-on-hp-laptops-and-chromebooks/"><u>[Updated] In 2024, How to Record Webcam Video on HP Laptops and Chromebooks?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-asus-rog-rapture-gt-be98-pro-wireless-router-top-tier-speed-and-unmatched-upgrade-potential/"><u>Comprehensive Analysis of the Asus ROG Rapture GT-BE98 Pro Wireless Router: Top Tier Speed & Unmatched Upgrade Potential</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-test-and-evaluation-of-pimoronis-nvme-ssd-base-duo/"><u>Comprehensive Test and Evaluation of Pimoroni's NVMe SSD Base Duo</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-ai-unveiling-transfer-learning-mechanisms/"><u>Demystifying AI: Unveiling Transfer Learning Mechanisms</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/die-besten-free-dvd-ripper-apps-fur-windows-11-im-jahr-2ebar-2023-umfassender-vergleich/"><u>Die Besten FREE-DVD-Ripper Apps Für Windows 11 Im Jahr 2Ebar 2023 – Umfassender Vergleich</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 Pro to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovations-and-reviews-on-top-tech-products-by-toms-hardware-experts/"><u>Innovations and Reviews on Top Tech Products by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-nzxt-h7-flow-reliability-over-innovation/"><u>Inside the NZXT H7 Flow: Reliability Over Innovation?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-pc-parts-and-devices-a-look-with-toms-hardware/"><u>Inside the World of PC Parts & Devices – A Look with Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-tech-expert-reviews-from-toms-hardware/"><u>Navigate the World of Tech: Expert Reviews From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/solution-a-subdivision-plat-records-new-lot-boundaries-and-relevant-details-for-official-use-providing-a-legally-binding-representation-of-the-divided-prope16/"><u>Solution: A Subdivision Plat Records New Lot Boundaries and Relevant Details for Official Use, Providing a Legally Binding Representation of the Divided Property</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-maximizing-your-microcontroller-experience-with-the-budget-friendly-cytron-maker-uno-rp2040/"><u>The Ultimate Guide to Maximizing Your Microcontroller Experience with the Budget-Friendly Cytron Maker Uno RP2040</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-expert-tips-for-high-quality-minecraft-saves-for-2024/"><u>[New] Expert Tips for High-Quality Minecraft Saves for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-how-to-record-mov-files-on-windows-11/"><u>[Updated] 2024 Approved How to Record MOV Files on Windows 11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-master-control-over-video-velocity-on-snapchat-app/"><u>[Updated] 2024 Approved Master Control Over Video Velocity on Snapchat App</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-prime-directors-cut-trailers/"><u>[Updated] In 2024, Prime Director's Cut Trailers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-seamless-windows-performance-on-your-steam-deck-oled-a-comprehensive-guide/"><u>Experience Seamless Windows Performance on Your Steam Deck OLED: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gskill-memory-mastery-dive-into-our-comprehensive-review-of-the-stunning-trident-z5-rgb-perfectly-balanced-2x48gb-ddr5-duo/"><u>G.SKILL Memory Mastery! Dive Into Our Comprehensive Review of the Stunning Trident Z5 RGB - Perfectly Balanced 2X48GB DDR5 Duo</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-the-ultimate-pathway-to-vimeo-recording/"><u>In 2024, The Ultimate Pathway to Vimeo Recording</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-tech-insights-at-toms-hardware-hub/"><u>In-Depth Tech Insights at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-device-choices-with-toms-hardware-wisdom/"><u>Mastering Your Device Choices with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-new-tech-trends-with-guidance-from-toms-hardware-hub/"><u>Navigate New Tech Trends with Guidance From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-experts/"><u>Navigating the World of Electronics with Tom's Hardware Experts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-gionee-f3-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Gionee F3 Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-comprehensive-guide-and-reviews/"><u>Tom's Tech: Comprehensive Guide and Reviews</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/yl-software-insights-finding-the-right-time-to-track-bitcoin-and-altcoin-balances-in-your-digital-wallet/"><u>YL Software Insights: Finding the Right Time to Track Bitcoin and Altcoin Balances in Your Digital Wallet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Save Big: Grab the Massive Discount on an 8TB Samsung T5 SSD From Amazon, Now Just 36%% Cheaper - Tech News by ZDNet"
-date: 2024-12-23T16:33:06.194Z
-updated: 2024-12-28T00:01:36.569Z
+date: 2025-01-08T03:16:50.322Z
+updated: 2025-01-12T20:20:09.333Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3197ac90-972b-4b62-968f-8aa6f5d36c35%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,20 +65,22 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-asgard-reborn-the-ragnarok-chronicles/"><u>[New] Asgard Reborn The Ragnarök Chronicles</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-depth-analysis-unveiling-the-best-5-racer-simulations/"><u>[New] In-Depth Analysis Unveiling the Best 5 Racer Simulations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-sync-up-your-streams-zooming-into-facebook-lives-for-2024/"><u>[Updated] Sync Up Your Streams Zooming Into Facebook Lives for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-under-20-reviews-uphere-c5c-and-d6sec-air-cooler-efficiency-explored/"><u>Affordable Under-$20 Reviews: UpHere C5C & D6Sec Air Cooler Efficiency Explored</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/enhancing-video-soundtracks-on-digital-platforms/"><u>Enhancing Video Soundtracks on Digital Platforms</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/famebit-alternatives-for-finding-youtube-sponsorships/"><u>FameBit Alternatives for Finding YouTube Sponsorships</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-50plus-best-text-effects-for-videographers/"><u>In 2024, 50+ Best Text Effects for Videographers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-podcast-name-selection-step-by-step-guide-plus-50plus-top-ideas-list/"><u>In 2024, Mastering Podcast Name Selection Step-by-Step Guide + 50+ Top Ideas List</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-y36-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo Y36 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unveilingnextgencameratech/"><u>In 2024, UnveilingNextGenCameraTech</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-sabrents-1tb-rocket-nano-ssd-m2-2242-setting-the-benchmark-in-miniaturized-memory-drives/"><u>In-Depth Analysis: Sabrent's 1TB Rocket Nano SSD (M.2 2242) - Setting the Benchmark in Miniaturized Memory Drives</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/sabrent-rocket-nano-2242-1tb-ssd-performance-testing-the-ideal-base-drive-for-m2-2242-slots/"><u>Sabrent Rocket Nano 2242 1TB SSD Performance Testing: The Ideal Base Drive for M.2 2242 Slots</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-hardware-reviews-and-guides/"><u>Tom's Computer Hardware Reviews & Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-review-top-picks-and-insights/"><u>Tom's Computer Review: Top Picks and Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-guide/"><u>Tom's Tech Reviews: Comprehensive Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-incorporating-background-scenes-for-visual-depth/"><u>[New] 2024 Approved Incorporating Background Scenes for Visual Depth</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-guide-to-crafting-an-instagram-enterprise-profile/"><u>[New] Step-by-Step Guide to Crafting an Instagram Enterprise Profile</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-27-ways-to-livestream-education-content-for-free/"><u>[Updated] 2024 Approved 27 Ways to Livestream Education Content for Free</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-essential-tips-for-adapting-to-facebooks-algorithm-update/"><u>[Updated] Essential Tips for Adapting to Facebook's Algorithm Update</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-driver-installation-for-arduino-mega-nano-2560-get-them-here-now/"><u>Effortless Driver Installation for Arduino Mega Nano 2560 – Get Them Here Now</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-innovations-with-toms-guide/"><u>Exploring Hardware Innovations with Tom's Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-advanced-tips-for-proficient-use-of-vlcs-functions/"><u>In 2024, Advanced Tips for Proficient Use of VLC's Functions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Is Fake GPS Location Spoofer a Good Choice On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-machine-key-takeaways-from-toms-hardware-explorations/"><u>Mastering the Machine: Key Takeaways From Tom's Hardware Explorations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-future-of-computing-with-toms-hardware-analysis/"><u>Navigating the Future of Computing with Tom’s Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-maze-with-tomns-hardware-experts/"><u>Navigating the Tech Maze with Tom'n's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seeing-is-believing-the-ultimate-review-of-viewsonics-xg272-2k-gaming-display-with-240hz-refresh-rate/"><u>Seeing Is Believing: The Ultimate Review of ViewSonic's XG272-2K Gaming Display with 240Hz Refresh Rate</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solution-easements-grant-rights-to-use-portions-of-a-property-for-specific-purposes-such-as-utilities-or-access-roads-impacting-where-structures-can-be-buil22/"><u>Solution: Easements Grant Rights to Use Portions of a Property for Specific Purposes, Such as Utilities or Access Roads, Impacting Where Structures Can Be Built and How Lots Are Developed.</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/stream-away-the-leading-online-video-havens-for-2024/"><u>Stream Away The Leading Online Video Havens for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-guide-for-overcoming-error-1068-in-windows-expert-advice-included/"><u>The Ultimate Fix Guide for Overcoming Error 1068 in Windows – Expert Advice Included</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-comprehensive-insights-into-computer-hardware/"><u>Tom's Tech: Comprehensive Insights Into Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-with-toms-technology-blog/"><u>Unveiling the Latest Gadgets with Tom's Technology Blog</u></a></li>
 </ul></div>
 

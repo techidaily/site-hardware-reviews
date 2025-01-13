@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's In-Depth Analysis of Withings ScanWatch Horizon: Combining Elegance with Precision Medical Monitoring"
-date: 2024-09-17 20:33:26
-updated: 2024-09-20 10:11:26
+date: 2025-01-05T19:12:34.698Z
+updated: 2025-01-12T22:21:59.652Z
 tags:
   - mobile-accessories
 categories:
@@ -35,6 +35,10 @@ Pros
 
 Cons 
 * Only available for iPhone 16 Pro models
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Nomad Sport Case
 
@@ -196,6 +200,10 @@ Cons
 * Not too much protection
 * Pricey for low protection
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Moft Snap Case Movas
 
 #### Best vegan-leather iPhone 16 case
@@ -224,6 +232,10 @@ Cons
 * Unsure on sustainability
 * Only for Pro models
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Nomad Modern Leather Case
 
 #### Best leather case for iPhone 16
@@ -237,6 +249,10 @@ That being said, leather is not everybody's thing. But, if you are in the market
 **Nomad Modern Leather case features:** 8 feet drop protection | Sustainably sourced leather | MagSafe and magnetic back
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case?
 
@@ -271,6 +287,10 @@ We kept in mind the most important factors when choosing the best iPhone 16 case
 * **Cost:** iPhones are expensive, and spending a lot on a phone case just adds to the bill. Therefore, we consider price an important factor in our selections.
 * **Special Features:** Many cases have added features like MagSafe capabilities and a kickstand. We include these products to appease those who may prefer wireless charging or other necessary features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these iPhone 16 cases?
 
 To choose these iPhone 16 cases, we performed extensive research over every corner of the internet, like Reddit forums and customer reviews, to find the best picks at the time of this writing. When we can't test a product, we rely on opinions from real people over company promises. We also receive recommendations from ZDNET experts like reviews editor Kerry Wan and editor-in-chief Jason Hiner, who have years of experience in the tech journalism field. Our picks are meant to leave the reader happy and their device healthy. 
@@ -281,6 +301,10 @@ On this list, the Nomad Sport case and the Torras Ostand MagSafe Case are the mo
 
 However, if you stray from the list, the best options are those with a solid bumper and durable material. Before purchasing a case, make sure to check its drop protection and other safety features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best phone case brand?
 
 Unfortunately, there isn't such a thing as the best phone case brand. Many sources point to Spigen and Otterbox as the most popular phone case brands with the most units sold. That, however, does not necessarily mean they are the best brands. It is ultimately up to you and your lived experience and opinion.
@@ -288,6 +312,10 @@ Unfortunately, there isn't such a thing as the best phone case brand. Many sourc
 ## What case material is best for iPhone?
 
 Materials like plastic or polycarbonate usually offer the best price and durability. Other cases made from leather or metal can be pricier and may not offer the best protection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When is the iPhone 16 available?
 
@@ -338,11 +366,27 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-navigating-video-conversion-in-vlc-from-mp4-onward/"><u>[New] 2024 Approved Navigating Video Conversion in VLC From MP4 Onward</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unlock-efficiency-screen-recording-on-mac-via-keyboard-shortcuts/"><u>[New] In 2024, Unlock Efficiency Screen Recording on Mac via Keyboard Shortcuts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-excellence-in-smartphones-a-review-of-the-nokia-71s-superior-display-and-camera-features/"><u>Affordable Excellence in Smartphones - A Review of the Nokia 7.1'S Superior Display & Camera Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-evaluation-of-ugreen-nexode-pro-65w-charging-station-your-ultimate-usb-c-solution/"><u>Comprehensive Evaluation of Ugreen Nexode Pro 65W Charging Station: Your Ultimate USB-C Solution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/efficient-1100w-cooler-master-passive-psu-silent-performance-and-stable-output/"><u>Efficient 1100W Cooler Master Passive PSU: Silent Performance & Stable Output</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-solutions-for-correcting-the-missing-bootmgr-error-illustrated-tutorial/"><u>Effortless Solutions for Correcting the Missing BOOTMGR Error – Illustrated Tutorial</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-a15-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy A15 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/r-11-key-seo-steps-to-promote-your-videos/"><u>Master 11 Key SEO Steps to Promote Your Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msi-introduces-innovative-power-supply-featuring-yellow-ports-designed-to-avoid-common-16-pin-overheating-issues/"><u>MSI Introduces Innovative Power Supply Featuring Yellow Ports Designed to Avoid Common 16-Pin Overheating Issues</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-computer-components-and-gadgets/"><u>Tom's Tech Insights: Exploring the Latest in Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncovering-the-latest-in-computing-expert-analysis-by-toms-storehouse-of-knowledge/"><u>Uncovering the Latest in Computing - Expert Analysis by Tom's Storehouse of Knowledge</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleashing-the-power-of-tech-discover-in-depth-reviews-at-toms-comprehensive-hardware-guide/"><u>Unleashing the Power of Tech: Discover In-Depth Reviews at Tom’s Comprehensive Hardware Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgraded-performance-and-sturdiness-discover-cooler-masters-reinforced-psu-with-innovative-1nvhpwr-connectors-for-superior-gaming-rigs/"><u>Upgraded Performance & Sturdiness: Discover Cooler Master's Reinforced PSU with Innovative 1nVHPWR Connectors for Superior Gaming Rigs</u></a></li>
+</ul></div>
+

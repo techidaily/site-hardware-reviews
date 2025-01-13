@@ -1,7 +1,7 @@
 ---
 title: "Day One Highlights From CES 202N: Top Tech Reveals and Breakthroughs"
-date: 2024-12-21T19:49:01.316Z
-updated: 2024-12-27T21:37:45.314Z
+date: 2025-01-10T20:03:50.412Z
+updated: 2025-01-12T19:02:59.597Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ The first day of [CES 2023](https://www.zdnet.com/topic/ces-2023-the-biggest-tre
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -35,10 +35,6 @@ This year, while we're still expecting announcements from many major companies, 
 **Also:** [**CES 2023 Day 2: The biggest reveals**](https://www.zdnet.com/home-and-office/ces-2023-day-2-the-biggest-reveals/)
 
 Below, you'll find today's biggest announcements from major players like Samsung, Nvidia, and GE.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Nvidia's GeForce RTX 40 series GPU drop
 
@@ -73,7 +69,7 @@ The first of the major tech companies to reveal a new TV during CES, LG didn't d
 **Read more:** [LG announces new C, G, and Z OLED TV lineups at CES 2023](https://www.zdnet.com/home-and-office/home-entertainment/lgs-2023-tv-lineup-c3-g3-z3-models/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Intel's 13th gen family expands
@@ -91,7 +87,7 @@ Also dropping today is the Evie Ring, a wearable that is en route to be the firs
 **Read more:** [The Evie Ring may have a grip on women's wellness other wearables don't](https://www.zdnet.com/article/ces-2023-movano-health-unveils-the-evie-ring/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung adds new OLED and 8K monitors for gamers
@@ -102,6 +98,10 @@ Ahead of Samsung's First Look event tonight, the tech company announced new addi
 
 **Read more:** [Samsung's Odyssey G9 gaming monitor family to add OLED, 8K models](https://www.zdnet.com/home-and-office/home-entertainment/samsungs-odyssey-g9-gaming-monitor-family-adds-oled-8k-models/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Also announced: Samsung upgrades its TV lines
 
 Samsung
@@ -109,7 +109,7 @@ Samsung
 In addition to the Odyssey G9 monitors, Samsung also dropped a plethora of home entertainment TVs, including the QN900C 8K QLED TV, S95C 4K QLED, and S95C 4K OLED panels. For lifestyle-oriented consumers, Samsung also revealed the latest iterations of the Freestyle, The Premium, and The Frame models.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GE Cync has a new Dynamic Effects line
@@ -154,15 +154,20 @@ In the meantime, be sure to check back tomorrow to get the scoop on more announc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-time-warp-techniques-harnessing-classic-80s-visual-flair-in-videos/"><u>[New] In 2024, Time Warp Techniques Harnessing Classic 80S Visual Flair in Videos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-testing-of-asrocks-z79-bios-guide/"><u>Comprehensive Testing of ASRock's Z79지킨트 라이트니늄 와일드플로우 모바일 BIOS Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-g310-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-innovative-practices-for-instagram-video-narratives-and-captioning/"><u>In 2024, Innovative Practices for Instagram Video Narratives and Captioning</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tone-and-pitch-control-on-chrome-os-select-the-best-online-speech-converters/"><u>In 2024, Tone and Pitch Control on Chrome OS Select the Best Online Speech Converters</u></a></li>
-<li><a href="https://discover-great.techidaily.com/managing-your-security-how-to-activate-and-deactivate-windows-firewall-with-yls-expert-advice/"><u>Managing Your Security: How to Activate & Deactivate Windows Firewall with YL's Expert Advice</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-players-handbook-on-how-to-dominate-in-the-royal-match-challenge/"><u>The Player's Handbook on How to Dominate in the Royal Match Challenge</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-listening-experience-awaits-with-turtle-beachs-atlas-air-headphones-discover-the-difference/"><u>The Ultimate Listening Experience Awaits with Turtle Beach's Atlas Air Headphones – Discover the Difference</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-advice-unbiased-hardware-guidance/"><u>Tom's Tech Advice: Unbiased Hardware Guidance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-review-the-ultimate-guide-to-buying-an-asus-rog-azoth-extreme-extreme-at-half-a-grand/"><u>Top Review: The Ultimate Guide to Buying an Asus ROG Azoth Extreme (Extreme) at Half a Grand</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-cutting-edge-communication-strategies-merging-slack-with-filmoras-capabilities/"><u>[New] 2024 Approved Cutting-Edge Communication Strategies Merging Slack with Filmora's Capabilities</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-boutonniere-bookmarks-casino-critique/"><u>[New] BOUTONNIERE BOOKMARKS Casino Critique</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-tutorial-to-retrieve-saved-passwords-on-a-mac-device/"><u>A Step-by-Step Tutorial to Retrieve Saved Passwords on a Mac Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/all-about-kinemaster-androids-ultimate-gaming-companion-for-2024/"><u>All About KineMaster Android's Ultimate Gaming Companion for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-insights-from-toms-computer-diagnostics/"><u>Detailed Insights From Tom's Computer Diagnostics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elite-gamer-screens/"><u>Elite Gamer Screens</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/essential-analysis-delving-into-adobe-lightroom-for-android/"><u>Essential Analysis Delving Into Adobe Lightroom for Android</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-technology-from-toms-equipment-review-hub/"><u>Expert Insights on Technology From Tom's Equipment Review Hub</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lava-blaze-curve-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lava Blaze Curve 5G Phones with/without a PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-microsofts-innovation-on-display-the-hololens-revolution/"><u>In 2024, Microsoft's Innovation on Display – The HoloLens Revolution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-by-toms-hardware-experts/"><u>In-Depth Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341757274-land-division-must-comply-with-local-zoning-laws-and-land-use-regulations/"><u>Land Division Must Comply with Local Zoning Laws and Land Use Regulations</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-foundations-of-facebook-video-marketing-for-2024/"><u>The Foundations of Facebook Video Marketing for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-tech-specs-with-toms-insights/"><u>The Ultimate Guide to Tech Specs with Tom's Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-guides-and-reviews-t172386287987416/"><u>Tom's Tech Hub - Comprehensive Guides and Reviews</u></a></li>
 </ul></div>
 

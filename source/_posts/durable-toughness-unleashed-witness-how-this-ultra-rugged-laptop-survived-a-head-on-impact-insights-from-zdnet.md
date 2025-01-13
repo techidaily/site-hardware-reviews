@@ -1,7 +1,7 @@
 ---
 title: "Durable Toughness Unleashed: Witness How This Ultra-Rugged Laptop Survived a Head-On Impact - Insights From ZDNet"
-date: 2024-12-09T20:43:11.297Z
-updated: 2024-12-12T20:55:22.076Z
+date: 2025-01-11T16:00:57.681Z
+updated: 2025-01-13T00:36:34.256Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,24 +122,20 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-full-circle-clips-iphone-filming-tips/"><u>[New] In 2024, Mastering Full-Circle Clips IPhone Filming Tips</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-realme-c67-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Realme C67 5G System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/be-a-part-of-the-buzz-top-10-tiktok-tests/"><u>Be a Part of the Buzz Top 10 TikTok Tests</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-bargains-on-dell-school-supplies-and-tech-gear-this-labor-day-monitors-laptops-included-zdnet/"><u>Best Bargains on Dell School Supplies & Tech Gear This Labor Day - Monitors, Laptops Included! | ZDNet</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/encapsulate-powerpoint-visuals-in-media-for-2024/"><u>Encapsulate PowerPoint Visuals in Media for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-official-method-to-unlock-your-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE (2020) Official Method to Unlock Your Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-a-step-up-worth-it-ps5-versus-enhanced-ps4-pro/"><u>Is a Step Up Worth It? PS5 Versus Enhanced PS4 Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-print-conflicts-in-windows-1011/"><u>Resolving Print Conflicts in Windows 10/11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/struggling-with-weak-wifi-signal-try-this-essential-checklist-before-upgrading-your-router/"><u>Struggling with Weak Wifi Signal? Try This Essential Checklist Before Upgrading Your Router</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-essential-guide-to-external-drives-why-theyre-indispensable-even-with-cloud-backup-options/"><u>The Essential Guide to External Drives: Why They're Indispensable Even With Cloud Backup Options</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-rise-of-horizontal-pc-cases-as-the-ultimate-choice-in-motherboard-enclosures-insights-revealed/"><u>The Rise of Horizontal PC Cases as the Ultimate Choice in Motherboard Enclosures – Insights Revealed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-11-essential-smart-home-setups-a-must-have-guide-for-every-household/"><u>Top 11 Essential Smart Home Setups: A Must-Have Guide for Every Household</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-7-technology-items-to-avoid-purchasing-this-season/"><u>Top 7 Technology Items to Avoid Purchasing This Season</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-microsd-cards-ranked-buyers-guide/"><u>Top MicroSD Cards Ranked : Buyer's Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-rated-laptop-printers-a-comprehensive-guide/"><u>Top Rated Laptop Printers : A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-laser-engraving-machines-of-2024/"><u>Top Rated Laser Engraving Machines of 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-ranking-dslr-photography-gear/"><u>Top-Ranking DSLR Photography Gear</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-rated-laptop-enhancements-the-ultimate-guide/"><u>Top-Rated Laptop Enhancements: The Ultimate Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-find-your-perfect-mac-live-streamer-from-here/"><u>[New] 2024 Approved Find Your Perfect Mac Live Streamer From Here</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/1-understanding-why-your-graphics-card-fails-insights-from-yl-computing/"><u>1. Understanding Why Your Graphics Card Fails: Insights From YL Computing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-unveils-new-rog-strix-xg227-wcs-a-27-va-panel-monitor-with-blistering-180hz-performance-for-gamers/"><u>Asus Unveils New Rog Strix XG2^27 WCS: A 27 VA Panel Monitor with Blistering 180Hz Performance for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-budget-gaming-pcs-for-less-than-a-grand/"><u>Best Budget Gaming PCs for Less Than a Grand</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cartoony-conversion-chronicles-top-windowsmac-imaging-software-for-2024/"><u>Cartoony Conversion Chronicles Top Windows/Mac Imaging Software for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-by-tom-decoding-computer-hardware/"><u>Comprehensive Guide by Tom: Decoding Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/conquer-virtual-worlds-in-depth-analysis-of-alienwares-aw2725df-360-hz-oled-monitor-for-serious-gamers/"><u>Conquer Virtual Worlds: In-Depth Analysis of Alienware's AW2725DF 360 Hz OLED Monitor for Serious Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dells-affordable-24-inch-freesync-display-now-only-99-shop-today/"><u>Dell's Affordable 24-Inch FreeSync Display Now Only $99 - Shop Today!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-new-technology-discover-toms-hardware/"><u>Expert Guidance on New Technology - Discover Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-hub-the-ultimate-guide/"><u>Exploring Technology with Tom's Hardware Hub - The Ultimate Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/ta-to-divide-two-numbers-written-in-scientific-notation-we-can-divide-their-coefficients-and-subtract-the-exponents-of-10-for-this-question-we-have/"><u>TA: To Divide Two Numbers Written in Scientific Notation, We Can Divide Their Coefficients and Subtract the Exponents of 10. For This Question, We Have:</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-complete-azure-guide-to-speech-to-text-integration/"><u>The Complete Azure Guide to Speech-to-Text Integration</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-youtube-name-makers-plus-creative-idea-sparking-techniques-for-2024/"><u>Top YouTube Name Makers + Creative Idea Sparking Techniques for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlocking-creative-potential-using-luts-for-color-grading-in-ae/"><u>Unlocking Creative Potential Using LUTs for Color Grading in AE</u></a></li>
 </ul></div>
 

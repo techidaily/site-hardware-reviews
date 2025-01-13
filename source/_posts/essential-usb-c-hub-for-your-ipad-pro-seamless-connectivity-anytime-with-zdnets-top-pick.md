@@ -1,7 +1,7 @@
 ---
 title: "Essential USB-C Hub for Your iPad Pro: Seamless Connectivity Anytime with ZDNet's Top Pick"
-date: 2025-01-03T03:43:28.286Z
-updated: 2025-01-06T07:49:35.176Z
+date: 2025-01-09T23:38:48.309Z
+updated: 2025-01-13T03:21:38.838Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -58,10 +58,6 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Living with a dual-screen laptop
 
 Does it look excessive on the outside? Yes, but having two 13.3-inch screens at your disposal is the most productivity-friendly advantage of buying the Yoga Book 9i. Not only has Lenovo included two beautiful OLED panels, but they're plenty versatile, too.
@@ -83,7 +79,7 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -106,6 +102,10 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Evaluating Lenovo's dual-screen software
 
 With such unique hardware, Lenovo had to build unique software for Windows 11 so that it behaves properly and gives you extra functionality.
@@ -127,7 +127,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -141,7 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -182,18 +182,20 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-guide-to-successfully-saving-your-iptv-streams-for-2024/"><u>[New] Guide to Successfully Saving Your IPTV Streams for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-top-vlog-concepts-for-daily-engagement/"><u>[New] In 2024, Top Vlog Concepts for Daily Engagement</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-how-to-optimize-microphone-use-on-windows-11-for-best-results-for-2024/"><u>[Updated] How to Optimize Microphone Use on Windows 11 for Best Results for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-prime-audio-solutions-for-creators/"><u>[Updated] Prime Audio Solutions for Creators</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-permanently-stop-the-ring-of-elysium-from-freezing-during-play-a-detailed-fix-guide/"><u>How to Permanently Stop the Ring of Elysium From Freezing During Play - A Detailed Fix Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/identify-the-exact-model-of-your-android-smartphone-a-step-by-step-guide/"><u>Identify the Exact Model of Your Android Smartphone - A Step-by-Step Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-g24-power-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola G24 Power Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-pros-and-cons-of-onyx-boox-tab-ultra-a-comprehensive-guide-to-the-premier-e-paper-tablet/"><u>Inside the Pros and Cons of Onyx Boox Tab Ultra: A Comprehensive Guide to the Premier E-Paper Tablet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/keep-your-android-display-on-a-comprehensive-guide-to-managing-sleep-settings/"><u>Keep Your Android Display On: A Comprehensive Guide to Managing Sleep Settings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-single-finger-navigation-unlocking-the-secrets-of-androids-handicap-accessibility/"><u>Mastering Single-Finger Navigation: Unlocking the Secrets of Android's Handicap Accessibility</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/meet-the-game-changer-in-smartphones-the-new-google-pixel-fold/"><u>Meet the Game-Changer in Smartphones: The New Google Pixel Fold</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/meet-your-next-smartphone-companer-the-amazing-entry-level-google-pixel-7a-arrives-now/"><u>Meet Your Next Smartphone Companer: The Amazing Entry-Level Google Pixel 7a Arrives Now!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/monster-hunter-rise-stuck-on-loading-screen-heres-the-solution/"><u>Monster Hunter Rise Stuck on Loading Screen? Here's the Solution!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ultimate-guide-to-valheim-sowing-seeds/"><u>[New] Ultimate Guide to Valheim Sowing Seeds</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ai-assisted-creativity-the-best-name-makers-for-pods/"><u>[Updated] 2024 Approved AI-Assisted Creativity The Best Name Makers for Pods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-or-huggingchat-exploring-which-language-model-takes-the-lead-in-performance/"><u>ChatGPT or HuggingChat? Exploring Which Language Model Takes the Lead in Performance</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-real-time-audio-recording-techniques-for-web-broadcasts/"><u>In 2024, Real-Time Audio Recording Techniques for Web Broadcasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-nanoleafs-innovative-smart-led-enclosures-officially-launched/"><u>Introducing Nanoleaf's Innovative Smart LED Enclosures: Officially Launched!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-wds-newly-released-nvme-ssd-the-perfect-choice-for-future-creatives/"><u>Introducing WD's Newly Released NVMe SSD: The Perfect Choice for Future Creatives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/is-your-gpu-on-its-last-leg-spot-these-6-critical-warnings-early-on/"><u>Is Your GPU on Its Last Leg? Spot These 6 Critical Warnings Early On!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-your-home-internet-leveraging-prime-day-deals-for-enhanced-wireless-connectivity/"><u>Maximizing Your Home Internet: Leveraging Prime Day Deals for Enhanced Wireless Connectivity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/metas-horizon-os-powers-new-virtual-reality-devices-by-asus-and-lenovo/"><u>Meta's Horizon OS Powers New Virtual Reality Devices by ASUS & Lenovo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-security-running-as-administrator/"><u>Navigating Windows Security: Running As Administrator</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/now-accessible-the-latest-smart-led-containers-by-nanoleaf-hit-the-market/"><u>Now Accessible: The Latest Smart LED Containers by Nanoleaf Hit the Market.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revamped-rebranding-how-the-samsung-galaxy-fe-is-essentially-the-previous-model-in-disguise/"><u>Revamped Rebranding: How the Samsung Galaxy FE Is Essentially the Previous Model in Disguise</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/texting-mastery-learn-how-to-send-and-receive-smses-on-the-ipad-easily/"><u>Texting Mastery: Learn How to Send and Receive SMSes on the iPad Easily</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-tecno-by-drfone-android/"><u>Three Ways to Sim Unlock Tecno</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-reviving-your-unresponsive-macbook-pro-keyboard/"><u>Troubleshooting Guide: Reviving Your Unresponsive MacBook Pro Keyboard</u></a></li>
 </ul></div>
 

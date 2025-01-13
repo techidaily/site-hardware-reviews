@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Score a Steep Discount on Lenovo ThinkPad X1 Extreme Gen 4 - Now Under $500 | ZDNet"
-date: 2025-01-02T08:18:30.404Z
-updated: 2025-01-06T04:50:20.315Z
+date: 2025-01-07T18:56:41.530Z
+updated: 2025-01-13T00:28:33.569Z
 tags:
   - laptops
 categories:
@@ -24,7 +24,7 @@ The model on offer here runs on Intel's 11th-generation [Core i7-11850H](https:/
 **Also:** [**Best Black Friday laptop deals 2022**](https://www.zdnet.com/article/black-friday-laptop-deals-november-23-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -67,20 +67,19 @@ At $1,699 -- 53% off Lenovo's list price -- the [ThinkPad X1 Extreme](https://bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-open-and-play-srt-on-different-platforms/"><u>[New] 2024 Approved Open and Play SRT on Different Platforms</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-ultimate-guide-to-saving-memories-as-videos-on-iphone-for-2024/"><u>[New] Ultimate Guide to Saving Memories as Videos on iPhone for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-tycoon-titans-the-12-game-series-for-budding-business-masters/"><u>[Updated] In 2024, Tycoon Titans The #12 Game Series for Budding Business Masters</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-xiaomi-redmi-note-13-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Xiaomi Redmi Note 13 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/chinas-telecom-giants-overhaul-infrastructure-switching-to-native-processor-platforms-for-servers/"><u>China's Telecom Giants Overhaul Infrastructure: Switching to Native Processor Platforms for Servers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/compact-crownote-analysis-app-your-guide-to-portable-electrified-diy-projects/"><u>Compact CrowNote Analysis App: Your Guide to Portable Electrified DIY Projects</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/compact-innovation-on-the-go-hackberry-pi-zero-empowers-hands-on-creators-in-a-pocket-sized-package/"><u>Compact Innovation on the Go - Hackberry Pi Zero Empowers Hands-On Creators in a Pocket-Sized Package</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-sunfounder-pironman-5-bicycle-assessment-necessity-of-precise-construction-steps/"><u>Comprehensive SunFounder Pironman 5 Bicycle Assessment: Necessity of Precise Construction Steps</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discovering-family-fun-with-maistos-remote-control-rock-crawler-an-expert-review/"><u>Discovering Family Fun with Maisto's Remote Control Rock Crawler - An Expert Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exclusive-geekworm-x1011-revealed-unboxing-the-next-gen-network-attached-storage-creator/"><u>Exclusive Geekworm X1011 Revealed: Unboxing the Next-Gen Network Attached Storage Creator</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-retro-gaming-with-raspberry-pi-introducing-the-dual-player-picade-max-from-pimoroni/"><u>Experience Retro Gaming with Raspberry Pi: Introducing the Dual Player Picade MAX From Pimoroni</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-revolutionary-raspberry-pi-pico-discovering-its-armplusrisc-v-core-capabilities-for-just-5/"><u>Exploring the Revolutionary Raspberry Pi Pico: Discovering Its ARM+RISC-V Core Capabilities for Just $5</u></a></li>
-<li><a href="https://techtrends.techidaily.com/instagram-verification-unveiled-top-strategies-for-getting-that-all-important-badge/"><u>Instagram Verification Unveiled: Top Strategies for Getting That All-Important Badge</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-raspberry-pi-link-up-seamlessly-run-your-pi-from-anywhere-through-a-web-interface/"><u>Introducing Raspberry Pi Link-Up: Seamlessly Run Your Pi From Anywhere Through a Web Interface</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/reversal-strategies-moving-from-latest-sierra-to-el-capitan-for-2024/"><u>Reversal Strategies Moving From Latest Sierra to El Capitan for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-harness-the-power-of-instagram-best-free-video-converter-apps-for-windowsmacos/"><u>[Updated] In 2024, Harness the Power of Instagram Best Free Video Converter Apps for Windows/macOS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-celebrating-beauty-innovators-youtubes-elite-list/"><u>2024 Approved Celebrating Beauty Innovators YouTube's Elite List</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-guide-unlocking-200-savings-on-latest-samsung-gadgets-launching-soon/"><u>Exclusive Guide: Unlocking $200 Savings on Latest Samsung Gadgets Launching Soon!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-high-quality-sound-the-new-pixel-tablet-at-just-499-features-built-in-speaker-docking-system/"><u>Experience High-Quality Sound: The New Pixel Tablet at Just $499 Features Built-In Speaker Docking System</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-eye-catching-aesthetics-of-the-new-galaxy-tab-s9-series-are-they-worth-their-cost/"><u>Exploring the Eye-Catching Aesthetics of the New Galaxy Tab S9 Series - Are They Worth Their Cost?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/f-droid-vs-play-store-what-sets-them-apart-and-why-you-should-consider-the-alternative-app-repository/"><u>F-Droid Vs. Play Store: What Sets Them Apart and Why You Should Consider the Alternative App Repository</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/guide-setting-up-song-crossfading-feature-on-apple-music/"><u>Guide: Setting Up Song Crossfading Feature on Apple Music</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/harmonizing-different-footage-sources-on-ios-device/"><u>Harmonizing Different Footage Sources on iOS Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-to-fix-google-messages-when-it-continuously-fails/"><u>How to Fix Google Messages When It Continuously Fails</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-zte-axon-40-lite-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked ZTE Axon 40 Lite Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-secure-your-shots-in-the-cloud-unlimited-free-space-plus-charged-premium-solutions/"><u>In 2024, Secure Your Shots in the Cloud Unlimited Free Space + Charged Premium Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-midland-gxt1000vp4-a-pathway-to-impeccable-audio-quality/"><u>In-Depth Analysis of Midland GXT1000VP4 - A Pathway to Impeccable Audio Quality</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-updates-for-intel-integrated-graphics-on-windows-1011-download-and-installation-instructions/"><u>Latest Updates for Intel Integrated Graphics on Windows 10/11: Download & Installation Instructions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/0-music-reactions-on-yt-a-year-end-review-for-2024/"><u>Top 10 Music Reactions on YT A Year-End Review for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the New Releases at Microsoft's October Surface Launch: A Comprehensive Breakdown"
-date: 2024-12-06T21:22:21.147Z
-updated: 2024-12-12T16:28:18.441Z
+date: 2025-01-08T02:24:50.364Z
+updated: 2025-01-12T16:29:17.542Z
 tags:
   - laptops
 categories:
@@ -40,11 +40,11 @@ For a recap of all the products unveiled during Apple's "Scary Fast" event -- an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What products did get announced
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## M3 chips in all sizes
 
@@ -67,7 +67,7 @@ Much like the M2 processors that classify Apple's latest Mac computers by perfor
 * M3 Max: Starting at 16 main processing cores (12 performance and four efficiency) and 40 graphics cores, and now supports up to 128GB of unified memory
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. 14-inch and 16-inch MacBook Pro
@@ -87,7 +87,7 @@ What hasn't changed is the form factors of the new MacBook Pros, with Liquid Ret
 The 14- and 16-inch MacBook Pros are available for preorder right now, starting at $1,599 and $2,499, respectively, with the M3 and M3 Pro models seeing earlier ship times (as soon as next week), and the M3 Max models being slated for late November.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. iMac with M3
@@ -103,13 +103,13 @@ Apple says the M3 chip allows the new 24-inch iMac to perform at twice the speed
 The 24-inch iMac is now available for preorder starting at $1,299 and will begin shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What products didn't get announced
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. 13-inch MacBook Pro
@@ -166,21 +166,18 @@ The keynote presentation began on Monday, Oct. 30, 2023, at 5 p.m. PT (8 p.m. ET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-most-crucial-info-for-new-youtube-tv-users/"><u>[New] 2024 Approved The Most Crucial Info for New YouTube TV Users</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-simplifying-the-screen-recording-process-for-dell-users/"><u>[Updated] Simplifying the Screen-Recording Process for Dell Users</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-obs-playbook-for-twitch-and-youtube-streaming/"><u>[Updated] The Ultimate OBS Playbook for Twitch & YouTube Streaming</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-optimizing-facebook-ads-with-a-structured-triple-layered-copywriting-approach/"><u>2024 Approved Optimizing Facebook Ads with a Structured, Triple-Layered Copywriting Approach</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/global-youtube-rich-list-pinnacle/"><u>Global YouTube Rich List Pinnacle</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/hardware-evaluation-and-expert-advice-from-toms-hardware/"><u>Hardware Evaluation & Expert Advice From Tom's Hardware</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-a05s-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy A05s</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-nord-3-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus Nord 3 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-with-toms-comprehensive-review-site/"><u>Mastering Hardware Choices with Tom's Comprehensive Review Site</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/maxsun-terminator-z790m-d5-ice-review-of-the-high-performance-white-atx-board-with-five-m2-connectors/"><u>Maxsun Terminator Z790M D5 Ice - Review of the High-Performance White ATX Board with Five M.2 Connectors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mu-board-from-lattepanda-a-speedier-alternative-to-raspberry-pi-5-with-higher-price-tag/"><u>Mu Board From LattePanda: A Speedier Alternative to Raspberry Pi 5 with Higher Price Tag</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/partner-with-local-organizations-for-community-projects-that-align-with-your-corporate-social-responsibility-goals-and-can-improve-the-lives-of-those-affect25/"><u>Partner with Local Organizations for Community Projects that Align with Your Corporate Social Responsibility Goals and Can Improve the Lives of Those Affected by Environmental Issues</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-guide-elevating-your-fb-video-content-game-for-2024/"><u>The Ultimate Guide Elevating Your FB Video Content Game for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computer-components-by-tom/"><u>The Ultimate Guide to Computer Components by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-the-asus-rog-azoth-extreme-is-a-game-changer-at-just-500-expert-insights/"><u>Why the Asus ROG Azoth Extreme Is a Game-Changer at Just $500 - Expert Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/jp2/"><u>텍스트에서 JP2 격리하기: 원활한 온라인 소품 자동화</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-amplifying-audio-and-visual-quality-in-your-youtube-videos/"><u>[Updated] In 2024, Amplifying Audio and Visual Quality in Your YouTube Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-ultimate-no-cost-voice-modifier-transform-your-valorant-gameplay/"><u>[Updated] Ultimate No-Cost Voice Modifier Transform Your Valorant Gameplay</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-realme-11x-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Realme 11X 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-chromebook-shutter-mastery-in-four-steps-only/"><u>2024 Approved Chromebook Shutter Mastery in Four Steps Only</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-asus-rog-phone-8-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Asus ROG Phone 8 Pro?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dev-creates-portable-e-ink-monitor-using-kindle-jailbreak-process-unveiled/"><u>Dev Creates Portable E Ink Monitor Using Kindle - Jailbreak Process Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-computing-at-toms-hardware-review-hub/"><u>Discover Cutting-Edge Computing at Tom's Hardware Review Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-performance-tips-from-toms-computer-guide/"><u>Discover Top Performance Tips From Tom's Computer Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-with-acers-three-premium-oled-displays-spotlight-on-27-480-hz-predator-x27u-f3-monitor/"><u>Elevate Your Gaming Experience with Acer's Three Premium OLED Displays: Spotlight on 27” 480 Hz Predator X27U F3 Monitor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-setup-the-sale-of-a-lifetime-acer-nitros-24-curved-monitor-at-an-unbeatable-price-of-81/"><u>Elevate Your Gaming Setup: The Sale of a Lifetime - Acer Nitro's 24 Curved Monitor at an Unbeatable Price of $81</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-advanced-screen-tech-samsung-revamps-odyssey-and-launches-ai-smart-supported-viewflex-series/"><u>Experience Advanced Screen Tech: Samsung Revamps Odyssey & Launches AI Smart Supported ViewFlex Series</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-conquering-low-light-challenges-in-filming/"><u>In 2024, Conquering Low-Light Challenges in Filming</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/shing-your-musical-voice-a-compree-play-by-play-guide-for-youtube-playlist-crafting/"><u>Unleashing Your Musical Voice A Compree Play-by-Play Guide for YouTube Playlist Crafting</u></a></li>
 </ul></div>
 

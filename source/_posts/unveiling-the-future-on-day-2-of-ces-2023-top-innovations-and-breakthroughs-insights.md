@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Future on Day 2 of CES 2023: Top Innovations and Breakthroughs - Insights"
-date: 2024-12-20T19:39:21.221Z
-updated: 2024-12-27T23:12:40.066Z
+date: 2025-01-08T22:04:56.553Z
+updated: 2025-01-12T16:18:07.258Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ Over the past 12 months, this relentless pursuit of technological innovation has
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI will be a win for everyone
@@ -47,7 +47,7 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -63,7 +63,7 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -81,7 +81,7 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -97,7 +97,7 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -142,18 +142,18 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-top-nine-game-streaming-haven-explored/"><u>2024 Approved Top Nine Game Streaming Haven Explored</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722973515755-acer-wireless-connectivity-made-easy-get-your-bluetooth-driver-today/"><u>Acer Wireless Connectivity Made Easy: Get Your Bluetooth Driver Today!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/diving-into-the-details-of-the-patriot-viper-vp4300-lite-4tb-ssd-a-review-of-its-speedy-performance-and-cost-efficiency/"><u>Diving Into the Details of the Patriot Viper VP4300 Lite 4TB SSD: A Review of Its Speedy Performance and Cost-Efficiency</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/elevate-your-chat-with-discord-recording-techniques-for-2024/"><u>Elevate Your Chat with Discord Recording Techniques for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-elite-gamertime-with-titan-armys-p27a2r-a-no-nonsense-high-performance-180hz-review/"><u>Experience Elite Gamertime with Titan Army's P27A2R - A No Nonsense, High-Performance 180Hz Review</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-respond-if-your-iphone-lights-up-but-shows-liquid-damage/"><u>How to Respond If Your iPhone Lights Up but Shows Liquid Damage</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-demystifying-vimeos-triplet-plans-for-content-creators/"><u>In 2024, Demystifying Vimeo's Triplet Plans for Content Creators</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-trends-with-toms-hardware-reviews-and-analysis/"><u>Mastering Tech Trends with Tom's Hardware Reviews and Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pros-only-review-discover-the-pinnacle-of-gaming-excellence-with-dough-spectrums-elite-27-inch-oled-monitor-a-visual-masterpiece/"><u>Pros Only Review: Discover the Pinnacle of Gaming Excellence with Dough Spectrum's Elite 27-Inch OLED Monitor - A Visual Masterpiece</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-resolving-mic-issues-with-your-laptop-now-fixed/"><u>Step-by-Step Guide to Resolving Mic Issues with Your Laptop - Now Fixed!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights/"><u>Tom's Tech Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-repairing-a-non-functional-logitech-mouse-scroll-wheel/"><u>Troubleshooting Guide: Repairing a Non-Functional Logitech Mouse Scroll Wheel</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-power-with-toms-guide-to-hardware/"><u>Unveiling the Latest in Computing Power with Tom's Guide to Hardware</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-beyond-adjustments-the-influence-of-luts-on-art/"><u>[Updated] Beyond Adjustments The Influence of LUTs on Art</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-elite-editing-experts-snapscape-magic-unveiled/"><u>[Updated] Elite Editing Experts SnapScape Magic Unveiled</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-skype-soundtrack-hub-finding-the-right-tones-online-for-2024/"><u>[Updated] Skype Soundtrack Hub Finding the Right Tones Online for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminating-dsounddll-errors-techniques-and-tips-for-windows-users/"><u>Eliminating dsound.dll Errors: Techniques and Tips for Windows Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computing-power-at-toms-hardware-hub-discover-top-gear/"><u>Exploring Computing Power at Tom's Hardware Hub - Discover Top Gear!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gaming-experience-in-the-gigabyte-g6x-good-performance-but-unremarkable-features-explored/"><u>Gaming Experience in the Gigabyte G6X: Good Performance but Unremarkable Features Explored</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-end-gaming-powerhouse-the-new-razer-blade-18-with-amd-ryzen-9-14900hx-and-top-of-the-line-nvidia-rtx/"><u>High-End Gaming Powerhouse - The New Razer Blade 18 with AMD Ryzen 9-14900HX and Top of the Line Nvidia RTX</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/highlighting-the-finest-video-grabbers-in-windows-10-for-2024/"><u>Highlighting the Finest Video Grabbers in Windows 10 for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-microsofts-copilotplus-technology-overrides-old-school-ai-pcs-and-redefines-the-future-of-computing-models/"><u>How Microsoft's Copilot+ Technology Overrides Old-School AI PCs and Redefines the Future of Computing Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-the-world-of-romance-smarter-with-help-from-chatgpt/"><u>Navigate the World of Romance Smarter with Help From ChatGPT</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadget-trends-discovering-new-horizons-at-toms-hardware-hub/"><u>Navigating Gadget Trends: Discovering New Horizons at Tom's Hardware Hub</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012900107-troubleshoot-apex-legends-loading-problems-in-a-jiffy/"><u>Troubleshoot Apex Legends Loading Problems in a Jiffy!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-ad-free-watching-chromefirefoxandroidios-tutorial-for-2024/"><u>YouTube Ad-Free Watching Chrome/Firefox/Android/iOS Tutorial for 2024</u></a></li>
 </ul></div>
 

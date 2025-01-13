@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Lenovo's Ultraportable Marvel: Exploring Its Hidden Trackpoint Capability and Beyond | Tech Spotlight"
-date: 2024-12-26T18:28:19.648Z
-updated: 2024-12-27T21:20:06.401Z
+date: 2025-01-11T19:35:05.334Z
+updated: 2025-01-12T23:46:33.092Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,22 +116,20 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-how-to-reactivate-your-photo-viewer-in-win-11-proactively/"><u>[New] In 2024, How to Reactivate Your Photo Viewer in Win 11 Proactively</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-smart-eco-friendly-screen-tech-compilation/"><u>[New] In 2024, Smart, Eco-Friendly Screen Tech Compilation</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-audiophiles-choice-premium-asmr-recording-mics/"><u>[Updated] 2024 Approved Audiophiles' Choice Premium ASMR Recording Mics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/crucial-insights-evaluating-maxsuns-newest-micro-atx-marvel-the-z79astern-d5-ice-motherboard-with-5x-m2-support/"><u>Crucial Insights: Evaluating Maxsun's Newest Micro ATX Marvel, The Z79astern D5 Ice Motherboard With 5X M.2 Support</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-gadgets-with-toms-technology-review-platform/"><u>Dive Into Gadgets with Tom's Technology Review Platform</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-hostgators-cloud-and-shared-hosting-options-what-you-need-to-know/"><u>Expert Insights on HostGator's Cloud & Shared Hosting Options - What You Need to Know</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-hardware-guided-by-toms-expertise/"><u>Exploring Computer Hardware - Guided by Tom's Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-value-of-cytrons-uno-rp2040-board-for-cost-conscious-makers/"><u>Exploring the Value of Cytron's Uno RP2040 Board for Cost-Conscious Makers</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-reactivating-and-fixing-secure-boot-grayout-issue-in-bios/"><u>Guide to Reactivating and Fixing Secure Boot Grayout Issue in BIOS</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-versus-polaroid-editing-faces-vs-cameras-that-shoot-them/"><u>In 2024, GoPro Versus Polaroid Editing Faces Vs. Cameras That Shoot Them</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-and-insights-asus-rog-swift-oled-pg32ucdp-approaching-flawless-gaming-visuals/"><u>In-Depth Analysis & Insights: Asus ROG Swift OLED PG32UCDP - Approaching Flawless Gaming Visuals</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-voice-chat-fixes-for-a-flawless-gameplay-experience-in-apex-legends/"><u>Mastering Voice Chat Fixes for a Flawless Gameplay Experience in Apex Legends</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-razr-40-ultra-music-recovery-recover-deleted-music-from-motorola-razr-40-ultra-by-fonelab-android-recover-music/"><u>Motorola Razr 40 Ultra Music Recovery - Recover Deleted Music from Motorola Razr 40 Ultra</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/samsung-8tb-t5-nvme-ssd-steal-a-huge-discount-of-36-now-on-amazon-shop-smart-with-tech-insights/"><u>Samsung 8TB T5 NVMe SSD: Steal a Huge Discount of 36% Now on Amazon - Shop Smart with Tech Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-revolutionary-m2-hatplus-addition-for-raspberry-pi-unveiling-a-new-era-of-cost-effective-lightning-fast-data-handling/"><u>The Revolutionary M.2 HAT+ Addition for Raspberry Pi: Unveiling a New Era of Cost-Effective, Lightning Fast Data Handling</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-insights-from-toms-computer-gear-exploration/"><u>Unveiling the Insights From Tom's Computer Gear Exploration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ffmpeg-and-its-role-in-preserving-natural-auditory-formats/"><u>[New] FFmpeg and Its Role in Preserving Natural Auditory Formats</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-ideation-to-implementation-a-comprehensive-approach-for-quality-edu-videos/"><u>[Updated] From Ideation to Implementation A Comprehensive Approach for Quality Edu-Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1099-launch-of-snapdragon-x-windows-copilotplus-pcs-by-acer-dell-hp-and-lenovo-featuring-multi-day-battery-life/"><u>$1,099: Launch of Snapdragon X Windows Copilot+ PCs by Acer, Dell, HP, and Lenovo Featuring 'Multi-Day Battery Life'</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862657349-acers-exclusive-gamers-deal-unmatched-performance-with-rtx-4070-and-amd-cpu-in-the-nitro-16-laptop-available-now-for-just-1129/"><u>Acer's Exclusive Gamers Deal: Unmatched Performance with RTX 4070 and AMD CPU in the Nitro 16 Laptop - Available Now for Just $1,129</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/adaptive-speaking-methods-in-free-fire-for-2024/"><u>Adaptive Speaking Methods in Free Fire for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/approach-identify-the-legal-documents-function-in-land-division/"><u>Approach: Identify the Legal Document's Function in Land Division.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/corsairs-latest-gem-the-ultimate-review-for-the-superior-mp600-mini-1tb-m2-2230e2t-ssd-your-perfect-storage-solution/"><u>Corsair's Latest Gem: The Ultimate Review for the Superior MP600 Mini 1TB (M.2 2230/E2^T) SSD - Your Perfect Storage Solution!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-innovation-with-the-hp-omnibook-x-featuring-an-impressive-snapdragon-x-for-up-to-(imsep)4-performance-peak-the-hp-omnibook-x-delivers-5/"><u>Experience Next-Level Innovation with the HP OmniBook X - Featuring an Impressive Snapdragon X for Up to <|Im_sep|>4. Performance Peak: The HP OmniBook X Delivers on Its Promises of a Powerful Snapdragon X and 16-Hour Battery Life</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-started-with-video-editing-a-microsoft-tutorial-for-windows-10-8-and-7/"><u>Get Started with Video Editing A Microsoft Tutorial for Windows 10, 8, and 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-xr-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone XR without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x-flip-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo X Flip Phone without PIN</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-choices-inside-tips-from-toms-hardware-experts/"><u>Mastering Technology Choices - Inside Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide/"><u>Tom's Tech Insights: The Ultimate Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-night-light-malfunction-solutions-and-tips/"><u>Windows 11 Night Light Malfunction: Solutions and Tips</u></a></li>
 </ul></div>
 

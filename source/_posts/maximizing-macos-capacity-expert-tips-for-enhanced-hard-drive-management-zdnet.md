@@ -1,7 +1,7 @@
 ---
 title: "Maximizing MacOS Capacity: Expert Tips for Enhanced Hard Drive Management | ZDNet"
-date: 2024-12-25T23:25:20.127Z
-updated: 2024-12-27T18:57:09.980Z
+date: 2025-01-05T18:03:27.600Z
+updated: 2025-01-13T01:18:56.607Z
 tags:
   - laptops
 categories:
@@ -49,7 +49,7 @@ Let me show you how to enable the Optimize Storage feature on your MacOS device.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Optimize Storage
@@ -57,7 +57,7 @@ Let me show you how to enable the Optimize Storage feature on your MacOS device.
 **What you'll need:** The only thing you'll need for this is a device running MacOS. I'll demonstrate the process on a MacBook Pro, running MacOS Ventura 13.5.2\. Make sure your OS is updated so you have all the most recent security patches and any new features Apple has added.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open System Settings
@@ -73,7 +73,7 @@ To access System Settings, you can either go through this menu or open it from t
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open Storage settings
@@ -85,7 +85,7 @@ You'll see the General option in the left-side navigation.
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable Optimize Storage
@@ -134,17 +134,21 @@ And that's all there is to optimizing the storage of your MacOS device. If you p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ultimate-10-video-editors-webcams-reimagined/"><u>[New] 2024 Approved Ultimate 10 Video Editors Webcams Reimagined</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-key-tools-every-new-youtuber-needs/"><u>[Updated] Key Tools Every New YouTuber Needs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-masterclass-in-effortless-video-acquisition/"><u>[Updated] Masterclass in Effortless Video Acquisition</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-get-audio-working-in-avidemux-proven-solutions/"><u>2024 Approved Get Audio Working in Avidemux Proven Solutions</u></a></li>
-<li><a href="https://article-tips.techidaily.com/best-10-blu-ray-players-of-2024/"><u>Best 10 Blu-Ray Players of 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-no-battery-detected-fast-and-simple-steps-to-get-you-back-online/"><u>Fixing 'No Battery Detected': Fast & Simple Steps to Get You Back Online</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a25-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Samsung Galaxy A25 5G Phone Without Password?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-simplifying-the-process-of-mp3-download-from-pinterest/"><u>In 2024, Simplifying the Process of MP3 Download From Pinterest</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-tech-insights-at-toms-hardware/"><u>In-Depth Reviews & Tech Insights at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-sabrent-rocket-nano-2242-1tb-ssd-evaluation-the-ultimate-m2-pcie-gen3-x4-storage-solution/"><u>In-Depth Sabrent Rocket Nano 2242 1TB SSD Evaluation – The Ultimate M.2 PCIe Gen3 X4 Storage Solution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-chronicles-in-depth-analysis-of-cutting-edge-hardware/"><u>Tom's Computer Chronicles: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-performance-showdown-gskill-trident-z5-rgb-ddr5-6400mhz-c3248gb-memory-kit-review-compatible-with-dual-channel-motherboards/"><u>Ultimate Performance Showdown: G.SKILL Trident Z5 RGB DDR5 6400MHz C32/48GB Memory Kit Review - Compatible with Dual-Channel Motherboards</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-bypassing-youtube-previews-the-invisible-button-hack/"><u>[Updated] Bypassing YouTube Previews The Invisible Button Hack</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/canine-camera-club-multi-generational-playtime-watch/"><u>Canine Camera Club: Multi-Generational Playtime Watch</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/converti-file-vob-in-formato-jpeggratuito-online-movavi/"><u>Converti File VOB in Formato JPEGGratuito Online - Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-power-and-capabilities-of-the-new-asus-zenbook-s16-through-our-rigorous-testing-and-detailed-analysis-of-the-amd-ryzen-ai-9-hx-370-cpu/"><u>Discover the Power and Capabilities of the New Asus Zenbook S16 Through Our Rigorous Testing and Detailed Analysis of the AMD Ryzen AI 9 HX 370 CPU.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-top-pick-for-affordable-yet-powerful-gaming-laptops-up-to-1500/"><u>Discover the Top Pick for Affordable Yet Powerful Gaming Laptops Up To $1,500</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-offer-300-off-asus-rog-zephyrus-g14-for-gamers-features-oled-nvidia-rtx-graphics/"><u>Exclusive Offer: $300 Off Asus ROG Zephyrus G14 for Gamers - Features OLED, Nvidia RTX Graphics!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-with-the-affordable-lenovo-legion-slim-ebranded-as-a-high-quality-gaming-laptop-under-1100-on-newegg/"><u>Experience Next-Level Gaming with the Affordable Lenovo Legion Slim Ebranded as a High-Quality Gaming Laptop Under $1,100 on Newegg</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-cutting-edge-technology-of-asus-expertbook-p5-featuring-intels-next-level-lunar-lake-processors-for-ultimate-performance/"><u>Explore the Cutting-Edge Technology of ASUS ExpertBook P5 Featuring Intel’s Next-Level Lunar Lake Processors for Ultimate Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-undetected-headphones-problems-for-playback-devices-in-windows-11/"><u>How to Resolve Undetected Headphones Problems for Playback Devices in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/leading-ultrabooks-and-luxury-laptop-picks-for-the-modern-tech-enthusiast/"><u>Leading Ultrabooks and Luxury Laptop Picks for the Modern Tech Enthusiast</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-toms-guide-to-choosing-and-reviewing-essential-tech-tools/"><u>Mastering Gadgets: Tom's Guide to Choosing and Reviewing Essential Tech Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/next-gen-vr-engines-the-2023-rundown/"><u>Next-Gen VR Engines The 2023 Rundown</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/overcoming-activation-count-hit-maximum-your-essential-resetting-manual-for-effective-manycam-use/"><u>Overcoming 'Activation Count Hit Maximum': Your Essential Resetting Manual for Effective ManyCam Use</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-realme-c33-2023-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme C33 2023 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
 

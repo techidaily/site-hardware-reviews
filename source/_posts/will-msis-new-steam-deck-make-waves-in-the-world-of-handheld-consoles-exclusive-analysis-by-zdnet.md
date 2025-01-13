@@ -1,7 +1,7 @@
 ---
 title: Will MSI's New Steam Deck Make Waves in the World of Handheld Consoles? | Exclusive Analysis by ZDNET
-date: 2025-01-02T04:29:51.751Z
-updated: 2025-01-06T08:37:49.242Z
+date: 2025-01-11T18:44:26.267Z
+updated: 2025-01-12T20:37:17.351Z
 tags:
   - laptops
 categories:
@@ -30,7 +30,7 @@ Along with 512GB of internal storage, the [Quest 3](https://buy.geni.us/Proxy.as
 The integrated battery gives you just over 2 hours of use on a full charge, but with the included 18W adapter, you can stay plugged in for near-infinite use during a long day of meetings or do a quick recharge between VR games. The included controllers use haptic feedback for more immersive reactions to your in-program tasks, bringing your games closer to life. With support for over 600 types of games and apps, you'll never run out of ways to entertain yourself or integrate the Quest 3 into your home office. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -67,17 +67,20 @@ Meta announced the $150 price drop during their Meta Connect event on September 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-digital-video-capturing-for-professionals-stepwise-process/"><u>[New] In 2024, Digital Video Capturing for Professionals - Stepwise Process</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-easy-steps-for-srt-files-into-xml-ssa-ttml-for-2024/"><u>[Updated] Easy Steps for SRT Files Into XML, SSA, TTML for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-expert-strategies-for-backdrop-displacement-in-photoshops-offspring-affinity-photo/"><u>[Updated] In 2024, Expert Strategies for Backdrop Displacement in Photoshop's Offspring, Affinity Photo</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/elite-screen-recording-apps-of-2023-expert-picks/"><u>Elite Screen Recording Apps of 2023 - Expert Picks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-tech-insights-on-tome-hardware-hub/"><u>Navigating Advanced Tech Insights on Tom'e Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-choices-insights-from-toms-hardware-hub/"><u>Navigating Technology Choices: Insights From Tom's Hardware Hub</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-transferring-your-entire-dvd-library-to-amazons-secure-cloud-storage/"><u>Step-by-Step Guide: Transferring Your Entire DVD Library to Amazon's Secure Cloud Storage</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-pulse-of-processors-updates-straight-from-toms-computer-lab/"><u>The Pulse of Processors: Updates Straight From Tom's Computer Lab</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-unveiled-your-source-for-cutting-edge-tech-analysis/"><u>Tom's Hardware Unveiled: Your Source for Cutting-Edge Tech Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-avi-video-converters-for-iphone-best-pc-and-web-based-tools/"><u>Top AVI Video Converters for iPhone: Best PC & Web-Based Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-your-aol-email-troubles-is-there-a-service-outage-or-an-individual-glitch/"><u>Understanding Your AOL Email Troubles - Is There a Service Outage or an Individual Glitch?</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-unlocking-advanced-visuals-how-to-use-picture-in-picture-in-final-cut-pro/"><u>Updated Unlocking Advanced Visuals How to Use Picture-in-Picture in Final Cut Pro</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-communitys-take-on-vllo-performance/"><u>[New] 2024 Approved The Community's Take on VLLO Performance</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-from-lurk-to-leader-a-guide-to-impactful-reddit-interaction/"><u>[New] From Lurk to Leader A Guide to Impactful Reddit Interaction</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-triumph-over-triviality-amass-a-million-ish-followers-on-ig/"><u>[New] In 2024, Triumph Over Triviality Amass a Million-Ish Followers on IG</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-superior-methods-for-silent-video-production-for-2024/"><u>[New] Superior Methods for Silent Video Production for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-elevate-your-gaming-experience-discovering-kinemasters-potential/"><u>2024 Approved Elevate Your Gaming Experience - Discovering KineMaster's Potential</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-tiny-film-plot-proposal/"><u>2024 Approved Tiny Film Plot Proposal</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-breakdown-top-picks-and-reviews-from-toms-experts/"><u>Advanced Gadget Breakdown: Top Picks and Reviews From Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341687948-dominate-your-pc-builds-in-depth-test-of-gskill-trident-z5-rgb-ddr5-ram-at-6400clk-pairs-perfectly-for-2x48gb-on-quadruple-channel-boards/"><u>Dominate Your PC Builds: In-Depth Test of G.SKILL Trident Z5 RGB DDR5 RAM at 6400CLK, Pairs Perfectly for 2X48GB on Quadruple-Channel Boards!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-y100-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo Y100 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-gigabyte-g6x-gaming-laptop-solid-execution-lacks-exceptional-qualities/"><u>In-Depth Analysis of the Gigabyte G6X Gaming Laptop: Solid Execution Lacks Exceptional Qualities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-keychron-k2-he-special-edition-retro-charm-meets-modern-tech/"><u>In-Depth Analysis of the Keychron K2 HE Special Edition: Retro Charm Meets Modern Tech</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/land-division-must-comply-with-local-zoning-laws-and-land-use-regulations/"><u>Land Division Must Comply with Local Zoning Laws and Land Use Regulations.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-components-with-toms-technology-reviews/"><u>Navigating the World of Components with Tom’s Technology Reviews</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unlock-the-world-of-mobile-gaming-on-desktop-how-to-enjoy-iphone-games-on-pc-and-mac-devices/"><u>Unlock the World of Mobile Gaming on Desktop: How to Enjoy iPhone Games on PC and Mac Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-powerhouse-a-comprehensive-review-of-asuss-latest-tri-band-7-ghz-wireless-router-rt-be96u/"><u>Unveiling the Powerhouse: A Comprehensive Review of Asus's Latest Tri-Band 7 GHz Wireless Router - RT-BE96U</u></a></li>
 </ul></div>
 

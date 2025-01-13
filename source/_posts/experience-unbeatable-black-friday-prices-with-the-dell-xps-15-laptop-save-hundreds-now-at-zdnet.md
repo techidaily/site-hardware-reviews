@@ -1,7 +1,7 @@
 ---
 title: Experience Unbeatable Black Friday Prices with the Dell XPS 15 Laptop | Save Hundreds Now at ZDNET
-date: 2024-12-09T20:07:03.580Z
-updated: 2024-12-12T21:33:00.584Z
+date: 2025-01-05T17:32:46.123Z
+updated: 2025-01-13T01:11:49.155Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ You can pick up a new [MSI Stealth 14 Studio gaming laptop](https://shop-links.c
 **Also:** [**The best gaming laptops**](https://www.zdnet.com/article/best-gaming-laptop/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended:
@@ -65,7 +65,7 @@ Speaking of which: I absolutely adore the MUX switch, which is what lets you cho
 Taylor Clemons/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## My only real complaint
@@ -81,7 +81,7 @@ Taylor Clemons/ZDNET
 The laptop also has a decently fast charging time, taking about an hour to reach full charge from completely dead. This is perfect for situations when you forget to charge overnight or need to quickly top up the laptop during a lunch break or meeting. As with all fast-charging devices, you'll notice a slowdown in power transfer as the battery approaches full charge. This helps prevent damage from overcharging, which can shorten the overall life and performance of the battery.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it handles gaming
@@ -95,7 +95,7 @@ Taylor Clemons/ZDNET
 The laptop even was able to handle the [ARMA III](https://store.steampowered.com/app/107410/Arma%5F3/) base game, which is notorious for requiring Herculean efforts from graphics cards and CPUs to even be able to load you into a server. I'd bought ARMA III years ago to play with friends over Discord, and this was the first time I'd been able to just load into the lobby and mess around with controls, settings, and mods before _finally_ being able to play a match after all this time. So the Stealth 14 Studio gets extra points in my book for letting me spend time with and stay connected to friends I don't get to see very often in-person. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A worthy investment
@@ -140,16 +140,18 @@ _Correction: This review has been edited to reflect accurate information as prov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-reviews.techidaily.com/1-quick-and-easy-methods-for-recording-audio-on-your-android-device/"><u>1. Quick and Easy Methods for Recording Audio on Your Android Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/best-practices-for-picking-your-perfect-wireless-phone-charger/"><u>Best Practices for Picking Your Perfect Wireless Phone Charger</u></a></li>
-<li><a href="https://os-tips.techidaily.com/californians-can-now-use-iphones-as-official-digital-identification/"><u>Californians Can Now Use iPhones as Official Digital Identification</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi Note 13 Pro 5G</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-zte-blade-a73-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premier-playwrights-lair/"><u>In 2024, Premier Playwright's Lair</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premium-caller-id-changers-the-magic-app-series/"><u>Premium Caller ID Changers The Magic App Series</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pugilism-vs-players-battle-for-supremacy/"><u>Pugilism vs Players Battle for Supremacy</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlock-productivity-with-androids-built-in-focus-feature-step-by-step-setup-for-enhanced-focus-mode/"><u>Unlock Productivity with Android's Built-In Focus Feature: Step-by-Step Setup for Enhanced Focus Mode</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upcoming-samsung-devices-with-built-in-galaxy-ai-features/"><u>Upcoming Samsung Devices with Built-In Galaxy AI Features</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-zero-to-hero-your-first-time-streaming-to-youtube/"><u>[Updated] From Zero to Hero Your First Time Streaming to Youtube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unleash-youtube-potential-with-smart-tags-and-titles-for-2024/"><u>[Updated] Unleash YouTube Potential with Smart Tags and Titles for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enduring-power-played-out-in-asus-tuf-gaming-a14-an-in-depth-review/"><u>Enduring Power Played Out in Asus TUF Gaming A14: An In-Depth Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/epic-savings-alert-the-mighty-16-inch-dell-g16-gaming-laptop-now-at-a-steal-949/"><u>Epic Savings Alert: The Mighty 16-Inch Dell G16 Gaming Laptop Now at a Steal ($949)!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-with-tom-your-comprehensive-resource/"><u>Exploring Hardware with Tom - Your Comprehensive Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-depths-of-digital-gadgets-at-toms-equipment-emporium/"><u>Exploring the Depths of Digital Gadgets at Tom’s Equipment Emporium</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-edge-with-acemagics-upcoming-dual-display-laptop-reserve-now-before-release-date/"><u>Get the Edge with AceMagic's Upcoming Dual-Display Laptop – Reserve Now Before Release Date</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/gtx-1650-super-graphics-card-driver-download-compatible-with-windows-10-and-11/"><u>GTX 1650 Super Graphics Card Driver Download: Compatible with Windows 10 and 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-nokia-c22-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Nokia C22?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-comprehensive-list-of-instagram-tracking-tools-for-better-decisions/"><u>In 2024, The Comprehensive List of Instagram Tracking Tools for Better Decisions</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-windows-the-ultimate-5-optimization-aids/"><u>Maximize Windows: The Ultimate 5 Optimization Aids</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/e-havens-for-sponsorship-initiatives-on-youtube-for-2024/"><u>Online Havens for Sponsorship Initiatives on YouTube for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-repairing-common-werfaultexe-windows-issues-with-minimal-hassle/"><u>Step-by-Step Guide: Repairing Common werFault.exe Windows Issues with Minimal Hassle</u></a></li>
 </ul></div>
 

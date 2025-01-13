@@ -1,7 +1,7 @@
 ---
 title: Adapting Office Tech for the Age of Artificial Intelligence - Insights
-date: 2024-12-11T02:01:18.659Z
-updated: 2024-12-12T16:37:30.314Z
+date: 2025-01-07T16:23:50.884Z
+updated: 2025-01-13T01:10:30.722Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,15 +134,20 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-leverage-loops-for-stirring-instagram-engagement-and-likes/"><u>[New] In 2024, Leverage Loops for Stirring Instagram Engagement & Likes</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/explore-15-essential-skills-for-recording-digital-music/"><u>Explore 15 Essential Skills for Recording Digital Music</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/getting-started-with-blinks-outdoor-security-cameras-a-hands-on-approach/"><u>Getting Started with Blink's Outdoor Security Cameras: A Hands-On Approach</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/maximize-productivity-with-minimal-spend-the-ultimate-guide-to-choosing-the-perfect-office-chair-steelcase-series-1-reviewed/"><u>Maximize Productivity with Minimal Spend: The Ultimate Guide to Choosing the Perfect Office Chair - Steelcase Series 1 Reviewed!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mega-discounts-on-ecovacs-robot-vacuums-and-mopping-units-save-up-to-850-during-exclusive-prime-day-offer/"><u>Mega Discounts on ECOVACS Robot Vacuums & Mopping Units - Save Up to $850 During Exclusive Prime Day Offer!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/nba-2k24-error-resolution-tackling-issue-727e66ac-with-proven-strategies/"><u>NBA 2K24 Error Resolution: Tackling Issue 727E66AC with Proven Strategies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/over-20-amazing-visual-masterpieces-available-on-your-homemade-potato-console/"><u>Over 20 Amazing Visual Masterpieces Available on Your Homemade Potato Console</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/safe-methods-for-non-warranty-voiding-overclocking-of-an-nvidia-graphics-card/"><u>Safe Methods for Non-Warranty Voiding Overclocking of an NVIDIA Graphics Card</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unpacking-the-lenovo-ideapad-130s-delivering-surprising-ease-of-use-on-a-budget-laptop/"><u>Unpacking the Lenovo IdeaPad 130S: Delivering Surprising Ease-of-Use on a Budget Laptop</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-ryans-revenue-revolution-from-childhood-to-youtube-riches/"><u>[New] 2024 Approved Ryan’s Revenue Revolution From Childhood to YouTube Riches</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-peak-meme-smile-crafting-program/"><u>[New] Peak Meme Smile Crafting Program</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-dictionary-the-definitive-guide-to-tech-terms/"><u>AI Dictionary: The Definitive Guide to Tech Terms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/breaking-barriers-download-and-store-your-fmb-conversations/"><u>Breaking Barriers Download & Store Your FMB Conversations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-notch-hardware-tips-with-toms-hardware-hub/"><u>Discover Top-Notch Hardware Tips with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-the-lenovo-legion-pro-5i-gen-9-a-game-changer-in-affordable-high-end-gaming-computers/"><u>Discovering the Lenovo Legion Pro 5I Gen 9: A Game Changer in Affordable High-End Gaming Computers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elite-performance-meets-eye-popping-price-explore-the-razer-blade-18-featuring-rtx-4090-graphics-card-and-amd-ryzen-processor-for-4799/"><u>Elite Performance Meets Eye-Popping Price: Explore the Razer Blade 18 Featuring RTX 4090 Graphics Card & AMD Ryzen Processor for $4,799</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-computing-with-amds-latest-in-the-asus-zenbook-s1/"><u>Experience Next-Level Computing with AMD's Latest in the Asus Zenbook S1</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-top-tier-gaming-with-the-compact-acer-predator-helios-14/"><u>Experience Top-Tier Gaming with the Compact Acer Predator Helios 14</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-technology-showdowns/"><u>Expert Insights From Tom's Technology Showdowns</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-hardware-from-tomtechguide/"><u>Expert Insights on Hardware From TomTechGuide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-c67-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme C67 5Gwith/without a PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-fix-computer-starting-but-showing-no-image-on-monitors/"><u>How to Fix Computer Starting but Showing No Image on Monitors</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-honor-play-8t-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Honor Play 8T? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/probing-into-the-integration-of-real-and-digital-in-mixed-reality/"><u>Probing Into the Integration of Real and Digital in Mixed Reality</u></a></li>
 </ul></div>
 

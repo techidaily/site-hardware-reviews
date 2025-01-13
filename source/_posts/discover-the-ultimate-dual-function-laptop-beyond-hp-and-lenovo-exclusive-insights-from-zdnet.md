@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Dual-Function Laptop Beyond HP and Lenovo - Exclusive Insights From ZDNet
-date: 2025-01-04T11:56:48.011Z
-updated: 2025-01-05T23:13:42.199Z
+date: 2025-01-09T17:18:36.369Z
+updated: 2025-01-13T00:37:20.353Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,16 +116,16 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-how-to-record-minecraft-on-mac/"><u>[New] 2024 Approved How to Record Minecraft on Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-guide-to-repairing-windows-10-0x80072efd-error-easy-fixes-inside/"><u>Complete Guide to Repairing Windows 10 '0X80072EFD' Error - Easy Fixes Inside</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discovering-the-tricks-of-finding-vanished-airtags-and-invisible-bluetooth-tracks-easily/"><u>Discovering the Tricks of Finding Vanished Airtags & Invisible Bluetooth Tracks Easily</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-evaluation-the-how-to-geek-guide-to-thoroughly-assessing-tech-gadgets/"><u>Expert Evaluation: The How-To Geek Guide to Thoroughly Assessing Tech Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/first-glance-at-the-sonos-roam-2-opening-exploration-and-early-reactions/"><u>First Glance at the Sonos Roam 2: Opening, Exploration, and Early Reactions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-qualcomms-snapdragon-x-challenges-the-dominance-of-apple-silicon-in-processor-performance/"><u>How Qualcomm's Snapdragon X Challenges the Dominance of Apple Silicon in Processor Performance</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Infinix Note 30i? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-chipolo-one-trustworthy-and-effective-bluetooth-monitoring-gadget/"><u>In-Depth Review of the Chipolo One: Trustworthy and Effective Bluetooth Monitoring Gadget</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/learn-the-quick-fix-for-silencing-speaking-menus-on-your-smart-samsung-tv/"><u>Learn the Quick Fix for Silencing Speaking Menus on Your Smart Samsung TV</u></a></li>
-<li><a href="https://win-webster.techidaily.com/nikon-to-iphone-media-move-made-easy-3-steps-for-swift-video-and-photo-migration/"><u>Nikon-to-iPhone Media Move Made Easy: 3 Steps for Swift Video and Photo Migration</u></a></li>
-<li><a href="https://review-topics.techidaily.com/toms-tech-review-in-depth-analysis-of-computer-hardware/"><u>Tom's Tech Review: In-Depth Analysis of Computer Hardware</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unleash-creativity-best-snap-ideas-of-the-year/"><u>[Updated] Unleash Creativity Best Snap Ideas of the Year</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-spotify-application-is-not-responding-error-in-windows-10-and-11/"><u>How to Fix the “Spotify Application Is Not Responding” Error in Windows 10 & 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-tecno-spark-10-pro-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Tecno Spark 10 Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-unsteady-to-steady-tips-for-fixing-gopro-video-jitters/"><u>In 2024, From Unsteady to Steady Tips for Fixing GoPro Video Jitters</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-2024s-must-have-magsafe-gadgets-expert-tested-and-reviewed/"><u>Ultimate Guide to 2024'S Must-Have MagSafe Gadgets: Expert Tested and Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-exclusive-discounts-on-gadgets-ankers-mini-power-bank-latest-google-pixel-timepiece-and-secure-your-home-with-blink-cameras/"><u>Unlock Exclusive Discounts on Gadgets: Anker's Mini Power Bank, Latest Google Pixel Timepiece, and Secure Your Home with Blink Cameras!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-full-potential-effortlessly-operate-windows-with-your-new-steam-deck-oled-device/"><u>Unlocking Full Potential: Effortlessly Operate Windows with Your New Steam Deck OLED Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-seamless-connectivity-a-step-by-step-for-combining-various-mesh-network-systems/"><u>Unlocking Seamless Connectivity: A Step-by-Step for Combining Various Mesh Network Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-the-origin-whats-behind-the-name-bluetooth/"><u>Unraveling the Origin: What's Behind the Name 'Bluetooth'?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/wake-up-gently-with-philips-hue-transform-your-mornings-into-breathtaking-sunrises-by-your-bedside/"><u>Wake Up Gently with Philips Hue - Transform Your Mornings Into Breathtaking Sunrises by Your Bedside</u></a></li>
 </ul></div>
 

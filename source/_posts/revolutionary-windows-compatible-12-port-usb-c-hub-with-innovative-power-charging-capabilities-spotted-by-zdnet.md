@@ -1,7 +1,7 @@
 ---
 title: Revolutionary Windows-Compatible, 12-Port USB-C Hub with Innovative Power Charging Capabilities - Spotted by ZDNet
-date: 2024-12-07T00:24:45.158Z
-updated: 2024-12-12T23:05:22.667Z
+date: 2025-01-11T17:13:36.713Z
+updated: 2025-01-12T19:00:14.811Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Jack Wallen/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -45,7 +45,7 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 [ZDNET Recommends Baseus 140W Portable Charger This portable charger packs a 24000mAh battery for plenty of charges. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Portable-Charger-24000mAh-Charging%2Fdp%2FB0CH8D2YHZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3594bbf8-78b1-4bd7-99c3-66ac94315a67%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The specs
@@ -60,7 +60,7 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 * 18-month warranty.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## My experience
@@ -88,7 +88,7 @@ One thing to keep in mind is that I charged the tablet with the slower-charged U
 According to the specs, the power bank allows for fast charging of an iPhone 15 Pro Max to 56% and a MacBook Pro 16" laptop to 55% in just 30 minutes. My MacBook Pro is a 13" with an M1 chip and I was able to go from 63-100% in about 20 minutes. Of course, using the fast charge with the MacBook Pro alone consumed about 25% of the charge from the bank. It's pretty easy to conclude that if you're only charging phones, you'll get even more life from a full charge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -127,22 +127,20 @@ Although it took considerable time to get this bank to a full charge, the result
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-design-signature-symbols-use-free-templates-no-copyright/"><u>[New] Design Signature Symbols - Use Free Templates, No Copyright</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-reels-add-sound-for-impactful-storytelling/"><u>[Updated] Elevate Your Reels Add Sound for Impactful Storytelling</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-best-camera-stabilizers-for-youtubers/"><u>2024 Approved Best Camera Stabilizers for YouTubers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-ultimate-tutorial-on-designing-dynamic-facebook-slides/"><u>2024 Approved The Ultimate Tutorial on Designing Dynamic Facebook Slides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-powerful-asus-rog-rapture-gigabit-wifi-7-router-with-unmatched-performance-and-scalability/"><u>Comprehensive Analysis of the Powerful Asus ROG Rapture Gigabit WiFi 7 Router with Unmatched Performance and Scalability</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-asus-rog-rapture-gt-be98-pro-wi-fi-router-the-ultimate-review-on-performance-and-scalability/"><u>Dive Into the Asus ROG Rapture GT-BE98 Pro Wi-Fi Router - The Ultimate Review on Performance and Scalability</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/erase-your-digital-footprint-disabling-and-removing-a-chatgpt-account/"><u>Erase Your Digital Footprint: Disabling and Removing a ChatGPT Account</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/guide-to-podcast-cover-design-10-core-insights/"><u>Guide to Podcast Cover Design 10 Core Insights</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-motorola-moto-g84-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Motorola Moto G84 5G Phones with/without a PC</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-gadgets-with-tom-your-guide-to-computer-components/"><u>Navigating Gadgets with Tom: Your Guide to Computer Components</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidia-4060-ti-rivals-best-gpu-alternatives/"><u>Nvidia 4060 Ti Rivals: Best GPU Alternatives</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/phonedatamender-for-missing-files/"><u>PhoneDataMender for Missing Files</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-pc-performance-a-deep-dive-into-teamgroup-t-force-dark-airflow-i-ssd-cooler-capabilities/"><u>Revolutionize Your PC Performance: A Deep Dive Into TeamGroup T-Force Dark AirFlow I SSD Cooler Capabilities</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-toms-innovation-blog-cutting-edge-insights-on-hardware-solutions/"><u>The Tom's Innovation Blog: Cutting-Edge Insights on Hardware Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guide/"><u>Tom's Tech Review: Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-picks-in-pc-components-by-tech-savvy-tom/"><u>Top Picks in PC Components by Tech Savvy Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-asus-rog-azoth-extreme-top-review-for-your-money-saving-search/"><u>Unboxing the Asus ROG Azoth Extreme: Top Review for Your Money-Saving Search</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-joining-friends-showtime-on-tiktok-with-ease/"><u>[Updated] Joining Friends’ Showtime on TikTok with Ease</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a1x-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-explore-the-full-potential-of-picsart-a-comprehensive-review/"><u>2024 Approved Explore the Full Potential of PicsArt - A Comprehensive Review</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-audio-assimilation-for-inshot-projects/"><u>In 2024, Audio Assimilation for InShot Projects</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-apple-iphone-6-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your Apple iPhone 6 Plus and iPad</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastery-in-tech-professional-reviews-and-insights-by-toms-circuitry/"><u>Mastery in Tech: Professional Reviews & Insights by Tom's Circuitry</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/movavis-free-tool-for-transforming-wtv-files-into-efficient-mpeg-format-online/"><u>Movavi's Free Tool for Transforming WTV Files Into Efficient MPEG Format Online</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-hardware-choices-wisdom-from-toms-technology-blog/"><u>Navigating Hardware Choices - Wisdom From Tom's Technology Blog</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-advanced-hardware-solutions-at-toms-electronics-guide/"><u>Navigating Through Advanced Hardware Solutions at Tom's Electronics Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-high-tech-equipment-guidance-from-toms-hardware-hub/"><u>Navigating Through High-Tech Equipment: Guidance From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pro-hardware-rundown-expert-analysis-of-the-latest-computing-innovations/"><u>Pro Hardware Rundown: Expert Analysis of the Latest Computing Innovations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-y17s-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo Y17s</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-viewing-experience-premium-quality-156-1080p-ips-monitor-never-seen-such-a-low-price-before-at-just-6599/"><u>Revolutionize Your Viewing Experience: Premium Quality 15.6 1080P IPS Monitor - Never Seen Such a Low Price Before at Just $65.99!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-y27s-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo Y27s Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
 

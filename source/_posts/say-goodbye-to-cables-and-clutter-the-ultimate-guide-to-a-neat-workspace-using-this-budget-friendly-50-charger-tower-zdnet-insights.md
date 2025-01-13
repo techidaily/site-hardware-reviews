@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Cables and Clutter: The Ultimate Guide to a Neat Workspace Using This Budget-Friendly $50 Charger Tower | ZDNET Insights"
-date: 2024-09-18 12:48:59
-updated: 2024-09-20 11:28:26
+date: 2025-01-08T18:15:39.890Z
+updated: 2025-01-13T00:06:59.154Z
 tags:
   - mobile-accessories
 categories:
@@ -35,13 +35,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to transform a Flipper Zero into an Apple AirTag
 
 **What you'll** **need**: A Flipper Zero, an Apple AirTag (or [tracker from another brand](https://www.zdnet.com/article/best-bluetooth-tracker/)), an [iPhone](https://www.zdnet.com/article/best-iphone/) and an [Android phone](https://www.zdnet.com/article/best-android-phone/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install Momentum firmware
 
 First, install the Momentum firmware on your Flipper Zero. The most straightforward method is to use the web installer, but rest assured, you can revert to the stock firmware at any point [using the desktop or mobile app](https://flipperzero.one/downloads). Simply navigate to the [Momentum web installer page](https://momentum-fw.dev/update/), connect your Flipper Zero, and follow the prompts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Downloading FindMy Flipper
 
@@ -50,6 +62,10 @@ Once installed, you'll discover a host of new applications on your Flipper Zero,
 **Also: [Flipper Zero: 'Can you really hack Wi-Fi networks?' and other questions answered](https://www.zdnet.com/home-and-office/flipper-zero-can-you-really-hack-wi-fi-networks-and-other-questions-answered/)**
 
 The app leverages the Flipper Zero's Bluetooth capabilities to act as an Apple AirTag, (or if you prefer, a Samsung SmartTag or Tile tag, but that process is even more cumbersome). It uses the Flipper Zero Bluetooth low energy (BLE) beacon to broadcast a signal that can be picked up by iPhones and sent back to Apple for viewing in the FindMy app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Setting up the Flipper Zero
 
@@ -60,6 +76,10 @@ You'll need an AirTag, an iPhone, and an Android smartphone to follow along.
 **Also: [How to unlock the Flipper Zero's true power](https://www.zdnet.com/article/how-to-unlock-the-flipper-zero-true-power/)**
 
 I've personally gone through these steps multiple times and can confirm their effectiveness. But precision is key -- make sure to follow each step meticulously. A single misstep is enough to stop this from working and leave you scratching your head.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Using custom Python scripts (and why you should)
 
@@ -90,11 +110,25 @@ This brings me to one of the things that I really like about the [Flipper Zero](
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-insiders-choice-the-ultimate-list-of-screen-recorders-for-2024/"><u>[New] Insider's Choice The Ultimate List of Screen Recorders for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-breakthrough-tactics-for-optimal-iptv-screening/"><u>[Updated] 2024 Approved Breakthrough Tactics for Optimal IPTV Screening</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-silence-to-symphony-adding-audio-elements-to-instareels/"><u>[Updated] From Silence to Symphony Adding Audio Elements to InstaReels</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-rapid-tiktok-downloads-flawless-mp4-format-conversions/"><u>[Updated] In 2024, Rapid TikTok Downloads Flawless MP4 Format Conversions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-tech-insights-from-toms-comprehensive-equipment-reviews/"><u>Cutting-Edge Tech Insights From Tom's Comprehensive Equipment Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-technology-unveiling-the-secrets-of-high-performance-systems-by-toms-circuitry/"><u>Dive Into Technology: Unveiling the Secrets of High-Performance Systems by Tom's Circuitry</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dont-miss-out-get-the-2024-asus-tuf-gaming-a15-laptop-this-memorial-day-for-an-exclusive-price-of-658/"><u>Don't Miss Out - Get the 2024 Asus TUF Gaming A15 Laptop This Memorial Day for an Exclusive Price of $658</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/emergency-evacuation-how-a-laptop-fired-up-an-american-airlines-flight/"><u>Emergency Evacuation: How a Laptop Fired Up an American Airlines Flight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-new-scented-way-to-compute-with-asus-adol-book-laptop-combining-technology-and-aromatherapy/"><u>Experience the New Scented Way to Compute With Asus' Adol Book Laptop: Combining Technology and Aromatherapy</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-huawei-p60-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Huawei P60 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-steps-unveiled-navigating-disks-in-w10-and-w11-systems/"><u>Key Steps Unveiled: Navigating Disks in W10 & W11 Systems</u></a></li>
+</ul></div>
+

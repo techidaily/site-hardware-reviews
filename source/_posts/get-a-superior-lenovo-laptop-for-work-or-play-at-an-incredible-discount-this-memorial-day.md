@@ -1,7 +1,7 @@
 ---
 title: Get a Superior Lenovo Laptop for Work or Play at an Incredible Discount This Memorial Day
-date: 2025-01-01T16:05:02.285Z
-updated: 2025-01-06T09:13:22.121Z
+date: 2025-01-07T03:10:16.137Z
+updated: 2025-01-12T18:51:13.288Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is the deal?
@@ -31,7 +31,7 @@ The [Lenovo Legion Pro 5i](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=h
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,7 +73,7 @@ The power cable has an extensive power supply; it's a little bit larger than my 
 The [Lenovo Legion Pro 5i](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-pro-series%2Flegion-pro-5i-gen-8-%2816-inch-intel%29%2Flen101g0024&publisher_slug=itechdaily19598&exclusive=1) base configuration starts at $1,260, while the top configuration retails for $1,800\. The configuration I was sent for testing will cost you around $1,450, which is a very decent value for the components and performance you'll get.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -110,18 +110,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/reedom-from-popups-discover-the-top-7-android-adblock-apps-for-2024/"><u>[New] Freedom From Popups? Discover the Top 7 Android AdBlock Apps for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-the-craft-of-digital-cinematography-with-ipad/"><u>[New] In 2024, Mastering the Craft of Digital Cinematography with iPad</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-integrate-youtube-playlists-into-your-site-for-2024/"><u>[Updated] How to Integrate YouTube Playlists Into Your Site for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-of-sunfounders-pironman-n-model-5-with-noteworthy-assembling-steps/"><u>A Comprehensive Review of SunFounder's Pironman N Model 5 with Noteworthy Assembling Steps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-gadgets-by-tom-a-detailed-look-at-latest-tech/"><u>Advanced Gadgets by Tom: A Detailed Look at Latest Tech</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhancing-audio-experience-on-your-computer-with-easy-windows-11-settings/"><u>Enhancing Audio Experience on Your Computer with Easy Windows 11 Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-browsing-speeds-with-microsoft-edge-win10w11/"><u>Enhancing Browsing Speeds with Microsoft Edge, Win10/W11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/id-cooling-fx360-pro-reviewed-exceptional-cpu-cooling-under-budget-at-just-60/"><u>ID-Cooling FX360 Pro Reviewed! Exceptional CPU Cooling Under Budget At Just $60</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-change-location-on-yik-yak-for-your-tecno-spark-10c-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Tecno Spark 10C to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-electronics-with-toms-hardware-wisdom/"><u>Navigate the World of Electronics with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://driver-error.techidaily.com/samsung-system-files-windows-download/"><u>Samsung System Files - Windows Download</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-tier-hardware-secrets-at-toms-expert-platform/"><u>Unveiling Top-Tier Hardware Secrets at Tom's Expert Platform</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ensuring-compliance-in-zoom-meetings-a-recording-guide-for-2024/"><u>[Updated] Ensuring Compliance in Zoom Meetings A Recording Guide for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-design-youtube-introductory-videos-two-pathways/"><u>[Updated] How to Design YouTube Introductory Videos Two Pathways</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-sony-bdp-s3700-review-for-2024/"><u>[Updated] Sony BDP- S3700 Review for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-tvs-to-accompany-your-highest-rated-consoles/"><u>2024 Approved Best TVs to Accompany Your Highest Rated Consoles</u></a></li>
+<li><a href="https://win11.techidaily.com/a-journey-into-the-new-era-of-laptops-at-ifa-2023/"><u>A Journey Into the New Era of Laptops at IFA 2023</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341707175-approach-recall-the-initial-stage-of-planning-for-land-division/"><u>Approach: Recall the Initial Stage of Planning for Land Division.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-tuf-gaming-a14-laptop-analysis-unveiling-quiet-durability/"><u>Asus TUF Gaming A14 Laptop Analysis: Unveiling Quiet Durability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-digital-worlds-with-insights-from-tom-hardware-haven/"><u>Exploring Digital Worlds with Insights From Tom Hardware Haven</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-the-ultimate-guide-to-computer-components/"><u>Exploring Tom's Tech: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-add-instagram-filter-to-existing-photos-and-videos-for-2024/"><u>How to Add Instagram Filter to Existing Photos and Videos for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-6s-plus-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On iPhone 6s Plus?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/incremental-introduction-for-2024/"><u>Incremental Introduction for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-game-with-asus-rog-strix-xg27acs-qhd-gaming-monitor-a-comprehensive-review-of-its-sharp-performance-and-versatility/"><u>Mastering the Game with Asus ROG Strix XG27ACS QHD Gaming Monitor – A Comprehensive Review of Its Sharp Performance and Versatility</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341750233-psychological-support-can-play-a-significant-role-in-recovery-addressing-the-mental-health-impacts-of-ocular-trauma/"><u>Psychological Support Can Play a Significant Role in Recovery, Addressing the Mental Health Impacts of Ocular Trauma</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Hub: Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-top-computer-components/"><u>Tom's Tech Review: In-Depth Analysis of Top Computer Components</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wireless-play-integrating-your-nintendo-switch-with-your-television/"><u>Wireless Play: Integrating Your Nintendo Switch with Your Television</u></a></li>
 </ul></div>
 

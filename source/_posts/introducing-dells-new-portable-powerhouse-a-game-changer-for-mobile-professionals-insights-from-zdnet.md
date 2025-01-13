@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Portable Powerhouse: A Game Changer for Mobile Professionals - Insights From ZDNet"
-date: 2025-01-03T04:01:56.708Z
-updated: 2025-01-06T08:38:03.433Z
+date: 2025-01-07T17:52:03.832Z
+updated: 2025-01-12T20:35:31.103Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,17 +114,17 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-exciting-possibilities-the-best-12-clickers-for-pc-gamers/"><u>[New] Exciting Possibilities The Best 12 Clickers for PC Gamers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-supercharge-your-social-sagas-free-seamless-online-integration/"><u>2024 Approved Supercharge Your Social Sagas FREE, Seamless Online Integration</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asrock-z790i-lightning-wireless-networking-board-review-harnessing-the-power-of-lightning-in-miniature/"><u>ASRock Z790I Lightning Wireless Networking Board Review: Harnessing the Power of Lightning in Miniature</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-tcl-50-inch-4k-smart-tv-a-balanced-blend-of-features-and-budget-on-the-50s425-roku-series-review/"><u>Discover the TCL 50-Inch 4K Smart TV: A Balanced Blend of Features and Budget on the 50S425 Roku Series (Review)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-latest-1535-wi-fi-card-driver-for-ultimate-internet-connectivity/"><u>Download the Latest 1535 Wi-Fi Card Driver for Ultimate Internet Connectivity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-restore-functionality-of-your-laptops-built-in-camera-on-lenovo/"><u>Expert Tips to Restore Functionality of Your Laptop's Built-In Camera on Lenovo</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-essentials-toms-guide-to-computer-hardware/"><u>Exploring Technology Essentials: Tom’s Guide to Computer Hardware</u></a></li>
-<li><a href="https://some-tips.techidaily.com/foodpanda-enhances-partnerships-revolutionary-restaurant-management-solutions-launched/"><u>Foodpanda Enhances Partnerships: Revolutionary Restaurant Management Solutions Launched</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-tecno-phantom-v-fold-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Phantom V Fold Without Password | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mid-century-designed-cutting-edge-performance-unveiling-the-keychron-k2-he-special-edition-review/"><u>Mid-Century Designed, Cutting-Edge Performance: Unveiling the Keychron K2 HE Special Edition Review</u></a></li>
-<li><a href="https://win-dash.techidaily.com/top-7-free-singing-voice-recorders-compatible-with-pc-mac-iphone-and-android/"><u>Top 7 Free Singing Voice Recorders: Compatible with PC, Mac, iPhone & Android</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-sovol-sv08-review-a-tribute-speed-machine-inspired-by-voron/"><u>Unveiling Sovol SV08 Review: A Tribute Speed Machine Inspired by Voron</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-charting-a-course-to-a-million-fans-with-this-tutorial-for-2024/"><u>[New] Charting a Course to a Million Fans with This Tutorial for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-overcoming-uneven-sound-in-fb-video-playback-for-2024/"><u>[Updated] Overcoming Uneven Sound in FB Video Playback for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-screen-recording-face-off-bandicam-vs-camtasias-features/"><u>[Updated] Screen Recording Face-Off Bandicam vs Camtasia's Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-closer-look-at-gigabyes-premium-b650-aorus-elite-ax-ice-motherboard-evaluating-cost-vs-quality-and-usb-capabilities/"><u>A Closer Look at Gigabye's Premium B650 Aorus Elite AX Ice Motherboard: Evaluating Cost Vs. Quality and USB Capabilities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuite-des-fichiers-avi-avec-la-meilleure-solution-de-conversion-video-movavi/"><u>Conversion Gratuite Des Fichiers AVI Avec La Meilleure Solution De Conversion Vidéo: Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-world-of-computer-components-with-expert-guidance-from-toms-hardware/"><u>Dive Into the World of Computer Components with Expert Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-hub-your-ultimate-guide/"><u>Exploring Tom's Tech Hub: Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-create-a-gmail-alias/"><u>How to Create a Gmail Alias</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-deskjet-3050-compatible-printer-driver-download-for-windows-operating-system/"><u>HP Deskjet 3050 - Compatible Printer Driver Download for Windows Operating System</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-pimoroni-nvme-solid-state-drive-ssd-dual-base-unit-review/"><u>In-Depth Analysis: Pimoroni NVMe Solid State Drive (SSD) Dual Base Unit Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlocking-creative-expression-tips-for-sharing-gifs-on-snapchat-for-2024/"><u>Unlocking Creative Expression Tips for Sharing GIFs on Snapchat for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlocking-fix-for-video-glitch-0xc10100be/"><u>Unlocking Fix for Video Glitch 0XC10100be</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: A Week with an Ergonomic Split Keyboard - My Transformed Tech Experience | ZDNet
-date: 2024-12-08T22:20:41.193Z
-updated: 2024-12-13T03:41:00.608Z
+date: 2025-01-11T16:31:51.719Z
+updated: 2025-01-12T21:36:01.422Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://www.zdnet.com/a/img/resize/b25db0a5e0e02074d08a797f57ffab39b0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -113,7 +113,7 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -152,22 +152,24 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-hot-tiktok-gadgets-and-goodies-available-at-amazon/"><u>[New] In 2024, Hot TikTok Gadgets & Goodies Available at Amazon</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-archive-everyday-moments-seamlessly-by-using-vlcs-webcam-function/"><u>[Updated] 2024 Approved Archive Everyday Moments Seamlessly by Using VLC's Webcam Function</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-youtubes-rules-the-creators-perspective/"><u>[Updated] 2024 Approved YouTube’s Rules The Creator's Perspective</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-innovative-ways-to-record-youtube-videos/"><u>[Updated] Innovative Ways to Record YouTube Videos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/choosing-your-perfect-smartphone-a-comparison-between-samsung-galaxy-and-google-pixel/"><u>Choosing Your Perfect Smartphone: A Comparison Between Samsung Galaxy and Google Pixel</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/determine-the-total-number-of-vehicles-passed-through-texas-in-june-which-is-given-as-8-times-106/"><u>Determine the Total Number of Vehicles Passed Through Texas in June, Which Is Given as $8 Times 10^6$.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-advanced-artificial-intelligence-cameras-of-google-pixel-7-series-starting-at-599/"><u>Discover the Advanced Artificial Intelligence Cameras of Google Pixel 7 Series, Starting at $599</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/easy-guide-to-transferring-tunes-onto-your-android-device/"><u>Easy Guide to Transferring Tunes Onto Your Android Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expanding-connectivity-android-file-transfer-now-compatible-with-windows-systems/"><u>Expanding Connectivity: Android File Transfer Now Compatible with Windows Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-concept-of-reverse-inductive-charging-technology/"><u>Exploring the Concept of Reverse Inductive Charging Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-unique-ways-to-personalize-your-phones-physical-appearance-why-stop-at-just-the-screen/"><u>Exploring Unique Ways to Personalize Your Phone’s Physical Appearance: Why Stop at Just the Screen?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-the-latest-android-beta-update-even-if-you-dont-have-a-pixel-phone/"><u>Get Your Hands on the Latest Android #Beta Update Even If You Don't Have a Pixel Phone!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/het-aanstaande-allerwelste-top-15-gratis-schermopnamestools-moovavis-voorbeelden-en-gevarieerd-functionaaliteitspeil/"><u>Het Aanstaande Allerwelste Top 15 Gratis Schermopnamestools - Moovavis Voorbeelden En Gevarieerd Functionaaliteitspeil</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/in-ear-apple-gadget-revealed-speculations-on-cost-launch-timeline-and-features/"><u>In-Ear Apple Gadget Revealed: Speculations on Cost, Launch Timeline, and Features</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/new-controversy-arises-with-microsofts-latest-os-windows-11-does-it-deserve-its-detractors/"><u>New Controversy Arises with Microsoft's Latest OS, Windows 11 – Does It Deserve Its Detractors?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-catching-live-footage-webcam-hd-video-and-sound-by-movavi-recorder/"><u>Ultimate Guide to Catching Live Footage: Webcam HD Video & Sound by Movavi Recorder</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-the-full-potential-of-spatial-recording-with-the-iphone-15-pro-expert-tips-inside/"><u>Unlock the Full Potential of Spatial Recording with the iPhone 15 Pro - Expert Tips Inside!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ideal-fullscreen-recorder-with-macpc-support/"><u>[New] 2024 Approved Ideal Fullscreen Recorder with Mac/PC Support</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-excellent-envoys-top-laptops-to-edit-videos-in-4k/"><u>[Updated] In 2024, Excellent Envoys Top Laptops to Edit Videos in 4K</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-in-depth-exploration-of-final-cut-pros-powerful-tools-and-features/"><u>[Updated] In 2024, In-Depth Exploration of Final Cut Pro’s Powerful Tools and Features</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-setting-up-snapchat-on-apple-computers-step-by-step-for-2024/"><u>[Updated] Setting Up Snapchat on Apple Computers Step by Step for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/300-savings-available-now-hp-omen-transcend-laptop-featuring-rtx-graphics-and-stunning-oled-screen/"><u>$300 Savings Available Now: HP Omen Transcend Laptop Featuring RTX Graphics and Stunning OLED Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862737205-experience-top-tier-performance-with-the-discounted-dell-16-inch-g16-laptop-only-949/"><u>Experience Top-Tier Performance with the Discounted Dell 16-Inch G16 Laptop - Only $949</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-call-of-duty-world-at-war-ii-code-4128-gaming-glitch/"><u>How to Resolve Call of Duty: World at War II Code 4128 Gaming Glitch</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-retrieve-classic-file-management/"><u>How to Retrieve Classic File Management</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-a-straightforward-path-to-iphone-screen-capture/"><u>In 2024, A Straightforward Path to iPhone Screen Capture</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-time-to-switch-to-iphone-ex-expert-advice-and-considerations-editors/"><u>Is It Time to Switch to iPhone eX? Expert Advice and Considerations Editors</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-navigating-to-windows-control-panel-options-expert-advice-by-yl-computing/"><u>Step-by-Step Guide: Navigating to Windows Control Panel Options - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-causes-behind-corporate-restrictions-on-chatgpt-usage/"><u>Top 5 Causes Behind Corporate Restrictions on ChatGPT Usage</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-buyers-guide-to-the-best-gaming-laptops-real-world-benchmarks-and-evaluations/"><u>Ultimate Buyer's Guide to the Best Gaming Laptops : Real-World Benchmarks and Evaluations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862654706-unbeatable-deal-m3-macbook-air-with-16gb-ram-and-13-display-at-just-1149/"><u>Unbeatable Deal: M3 MacBook Air with 16GB RAM & 13 Display at Just $1,149</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-toms-hardware-reviews/"><u>Unveiling the Latest in Computing - Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-tips-from-tom/"><u>Unveiling the Latest in Computing: Tips From Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-toms-techpicks/"><u>Unveiling the Latest in Computing: Tom's TechPicks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-tech-toms-pioneering-hardware-guides-and-analysis/"><u>Unveiling the Latest in Tech: Tom's Pioneering Hardware Guides and Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-technology-through-toms-hardware-guides/"><u>Unveiling the Latest in Technology Through Tom's Hardware Guides</u></a></li>
 </ul></div>
 
