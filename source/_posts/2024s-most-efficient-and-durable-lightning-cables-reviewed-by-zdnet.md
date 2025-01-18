@@ -1,7 +1,7 @@
 ---
 title: 2024'S Most Efficient and Durable Lightning Cables Reviewed by ZDNet
-date: 2024-09-18 14:38:54
-updated: 2024-09-20 10:58:49
+date: 2025-01-16T17:35:36.201Z
+updated: 2025-01-18T18:28:21.450Z
 tags:
   - mobile-accessories
 categories:
@@ -16,6 +16,10 @@ The new generation of iPhones are here and features a new action button, more AI
 **Also:** [**Preorder the iPhone 16 now (and even get one for free) - here's how**](https://www.zdnet.com/article/preorder-the-iphone-16-now-and-even-get-one-for-free-heres-how/)
 
 It's no secret that iPhones aren't the most rugged devices, sometimes yielding screen cracks and camera damage from simple drops. Luckily, ZDNET editors have gone hands-on with iPhone 16 cases to see how they match up. No matter your needs -- drop protection, style _with_ durability, or functionality -- we've got you covered. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case right now?
 
@@ -196,6 +200,10 @@ Cons
 * Not too much protection
 * Pricey for low protection
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Moft Snap Case Movas
 
 #### Best vegan-leather iPhone 16 case
@@ -224,6 +232,10 @@ Cons
 * Unsure on sustainability
 * Only for Pro models
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Nomad Modern Leather Case
 
 #### Best leather case for iPhone 16
@@ -238,6 +250,10 @@ That being said, leather is not everybody's thing. But, if you are in the market
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone 16 case?
 
 Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek design and solid protection. Check out how the other options stack up below.
@@ -249,6 +265,10 @@ Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek desig
 | Latercase for iPhone 16    | $60       | No                  | Yes         |
 | Incase Icon case           | $60       | Yes                 | Yes         |
 | Nomad Modern Leather case  | $70       | Yes                 | Yes         |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which is the right iPhone 16 case for you?
 
@@ -289,9 +309,17 @@ Unfortunately, there isn't such a thing as the best phone case brand. Many sourc
 
 Materials like plastic or polycarbonate usually offer the best price and durability. Other cases made from leather or metal can be pricier and may not offer the best protection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is the iPhone 16 available?
 
 The iPhone 16 is available for preorder now, and will arrive in stores on September 20.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best phone case to avoid overheating?
 
@@ -338,11 +366,29 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-breaking-the-mold-pushing-a-video-into-hot-water-for-2024/"><u>[Updated] Breaking the Mold Pushing a Video Into Hot Water for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-crafting-captivating-thumbnails-a-comprehensive-guide-for-youtube-creators/"><u>[Updated] Crafting Captivating Thumbnails A Comprehensive Guide for YouTube Creators</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1728499632667-sd/"><u>最新的免費網上程式：克隆 SD 存儲卡並升級到更高階 - 全部免費指南</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-70-lite-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor 70 Lite 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-methods-for-converting-between-mpeg-and-webm-video-files-in-windows-environments/"><u>Easy Methods for Converting Between MPEG and WebM Video Files in Windows Environments</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-find-x6-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-securely-pining-conversations-on-instagram/"><u>Step-by-Step Guide: Securely Pining Conversations on Instagram</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-iphone-16-and-pro-protective-covers-of-2024-comprehensive-reviews-by-tech-specialists-zdnet/"><u>Top-Rated iPhone 16 & Pro Protective Covers of 2024: Comprehensive Reviews by Tech Specialists | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformez-un-fichier-flv-en-format-ogg-gratuitement-en-ligne-avec-movavi/"><u>Transformez Un Fichier FLV en Format OGG Gratuitement - en Ligne Avec Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transforming-compact-pc-building-with-maxsuns-newly-engineered-backside-slot-mini-itx-board/"><u>Transforming Compact PC Building with Maxsun's Newly Engineered Backside Slot Mini-ITX Board</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-computer-components-by-toms-hardware-experts/"><u>Ultimate Guide to Computer Components by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-the-power-of-hardware-with-toms-wisdom/"><u>Unleash the Power of Hardware with Tom's Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gigabytes-new-ice-themed-z790-aorus-xtreme-x-golden-cpu-socket-and-dazzling-giant-m2-cooling/"><u>Unveiling Gigabyte's New Ice-Themed Z790 Aorus XTreme X: Golden CPU Socket & Dazzling Giant M.2 Cooling</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-with-tom-a-journey-through-modern-technology/"><u>Unveiling New Gadgets with Tom - A Journey Through Modern Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-pc-hardware-with-toms-computing-experts/"><u>Unveiling the Best in PC Hardware with Tom's Computing Experts</u></a></li>
+</ul></div>
+

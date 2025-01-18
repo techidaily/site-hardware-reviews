@@ -1,7 +1,7 @@
 ---
 title: Explore the Enhancements in Lenovo's Revamped ThinkPad X1 Ultrabook - Insights From ZDNet
-date: 2025-01-11T16:35:14.417Z
-updated: 2025-01-12T23:04:35.568Z
+date: 2025-01-17T16:17:13.520Z
+updated: 2025-01-18T16:59:51.039Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,17 +218,22 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unveiling-six-techniques-to-screen-record-your-streamed-movies-on-macos/"><u>[Updated] 2024 Approved Unveiling Six Techniques to Screen Record Your Streamed Movies on MacOS</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-speech-recognition-powered-by-free-software/"><u>[Updated] In 2024, Speech Recognition Powered by Free Software</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-navigating-screen-magnification-in-ms-teams/"><u>2024 Approved Navigating Screen Magnification in MS Teams</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rog-strix-xg27acs-monitor-review-unmatched-precision-and-high-speed-performance-for-gamers/"><u>Asus ROG Strix XG27ACS Monitor Review: Unmatched Precision and High-Speed Performance for Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/boost-your-system-with-the-powerful-p31n-nvme-ssd-a-comprehensive-review/"><u>Boost Your System with the Powerful P31n NVMe SSD: A Comprehensive Review</u></a></li>
-<li><a href="https://win-dash.techidaily.com/comprehensive-guide-to-resolving-asus-pce-ac56-driver-challenges-in-different-windows-editions/"><u>Comprehensive Guide to Resolving ASUS PCE-AC56 Driver Challenges in Different Windows Editions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-maximizing-impact-on-insta-story-with-multiple-images/"><u>In 2024, Maximizing Impact on Insta Story with Multiple Images</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/limited-budget-unlimited-breeze-a-comprehensive-look-at-under-20-uphere-cooler-models/"><u>Limited Budget, Unlimited Breeze - A Comprehensive Look at Under $20 UpHere Cooler Models!</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-ultimate-list-of-ios-tools-for-erasing-intrusive-images/"><u>The Ultimate List of iOS Tools for Erasing Intrusive Images</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-trick-to-free-up-space-by-cleaning-android-cache/"><u>The Ultimate Trick to Free Up Space by Cleaning Android Cache</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-with-asuss-pro-b760m-ct-csm-mainboard-detailed-insights-and-reviews/"><u>Unlocking Performance with Asus's Pro B760M-CT CSM Mainboard - Detailed Insights and Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-performance-of-patriots-vp4300-lite-ssd-the-4tb-storage-solution-for-budget-seekers/"><u>Unveiling Performance of Patriot's VP4ˈ300 Lite SSD - The 4TB Storage Solution for Budget Seekers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-a-lens-on-innovation-how-hdri-redefines-video-production-standards/"><u>[New] In 2024, A Lens on Innovation How HDRI Redefines Video Production Standards</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-soaring-strengths-top-10-industrial-drones/"><u>[New] In 2024, Soaring Strengths Top 10 Industrial Drones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tune-and-time-lapses-creating-music-videos-with-your-phone/"><u>[Updated] Tune & Time Lapses Creating Music Videos with Your Phone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-honor-90-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/mkvmp4-8/"><u>高品質に劣化しない方法として、MKVからMP4へのフリー変換手段をご紹介: 8つのスキルフルガイド</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-essential-cooling-at-just-5-uphere-m201-ssd-heatsink-unveiled/"><u>Affordable Essential Cooling at Just $5 - UpHere M201 SSD Heatsink Unveiled!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rt-be96u-review-mastering-seamless-performance-with-new-age-dual-band-speed-king/"><u>ASUS RT-BE96U Review: Mastering Seamless Performance with New Age Dual-Band Speed King</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-tech-detailed-analyses-from-toms-hardware-experts/"><u>Discover the Latest in Tech: Detailed Analyses From Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-tech-analysis-by-toms-hardware-experts/"><u>In-Depth Tech Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-setup-with-tips-and-tricks-from-toms-hardware-pros/"><u>Mastering Your PC Setup with Tips and Tricks From Tom's Hardware Pros</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-technology-insights-with-toms-hardware-hub/"><u>Pioneering Technology Insights with Tom’s Hardware Hub</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/premium-4k-resolution-visual-themes-and-design-backgrounds-yl-computing-collection/"><u>Premium 4K Resolution Visual Themes & Design Backgrounds - YL Computing Collection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformez-votre-fichier-m4r-en-format-aiff-sans-frais-avec-laide-de-movavi/"><u>Transformez Votre Fichier M4R en Format AIFF Sans Frais - Avec L'Aide De Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-isnt-my-elden-ring-co-op-functional/"><u>Troubleshooting Guide: Why Isn't My Elden Ring Co-Op Functional?</u></a></li>
+<li><a href="https://win-info.techidaily.com/troubleshooting-tips-overcoming-common-issues-with-plugging-in-a-usb-flash-drive/"><u>Troubleshooting Tips: Overcoming Common Issues with Plugging in a USB Flash Drive</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-the-gigabyte-g6x-adequate-for-play-yet-lacking-in-impressive-features/"><u>Unboxing & Testing the Gigabyte G6X: Adequate for Play, Yet Lacking in Impressive Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-tech-trends-tips-and-reviews-by-toms-hardware-team/"><u>Unveiling Top Tech Trends: Tips and Reviews by Tom's Hardware Team</u></a></li>
 </ul></div>
 

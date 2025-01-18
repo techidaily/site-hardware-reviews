@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Productivity with Lenovo's Innovative Dual-Screen Laptop - A Game Changer for Professionals | ZDNet
-date: 2025-01-06T23:34:44.031Z
-updated: 2025-01-12T21:31:52.496Z
+date: 2025-01-17T19:26:03.829Z
+updated: 2025-01-18T16:10:51.990Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -44,6 +44,10 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -59,7 +63,7 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -82,10 +86,6 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How does it perform?
 
 The twin 13.3-inch OLED displays look exceptional with deep black levels, vibrant colors, and 400 nits of brightness (a.k.a. enough for most lighting situations). They each sport 2.8K resolutions, so everything looks crisp, and Lenovo even includes 16:10 aspect ratios so you get a bit extra vertical room. They're also Dolby Vision certified. I have zero complaints about these screens, besides the fact they only have 60Hz refresh rates.
@@ -107,7 +107,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -141,7 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -182,19 +182,18 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-essential-guide-broadcast-360-videos-on-facebook/"><u>[Updated] Essential Guide Broadcast 360 Videos on Facebook</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-windows-media-creator-alternatives/"><u>[Updated] In 2024, Windows Media Creator Alternatives</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/deep-dive-into-electronics-with-tom-an-authority-on-hardware/"><u>Deep Dive Into Electronics with Tom - An Authority on Hardware</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-lenovo-thinkphone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-more-bang-for-your-buck-with-the-acer-predator-orion-5000-review-elite-performance-without-breaking-the-bank/"><u>Get More Bang for Your Buck with the Acer Predator Orion 5000 Review: Elite Performance Without Breaking the Bank</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-oneplus-nord-n30-se-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your OnePlus Nord N30 SE Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fix-continuous-flatulence-issues-with-your-amazon-echo-alexa/"><u>How to Fix Continuous Flatulence Issues with Your Amazon Echo (Alexa)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-iphone-6-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On iPhone 6 Smoothly</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-gt-5-240w-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-computers-and-electronics-with-tom/"><u>Inside the World of Computers and Electronics with Tom</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-amazing-savings-top-picks-for-4k-and-gaming-displays/"><u>Score Amazing Savings: Top Picks for 4K & Gaming Displays</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-secrets-of-aether-revealed-what-it-is-and-how-you-can-join/"><u>The Secrets of Aether Revealed: What It Is & How You Can Join</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/"><u>Tom's Tech Insights: Exploring the Latest in Hardware Innovation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/your-guide-to-high-performance-pcs-with-toms-hardware-insights/"><u>Your Guide to High-Performance PCs with Tom's Hardware Insights</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-mastering-the-download-of-your-youtube-playlist-today/"><u>[New] 2024 Approved Mastering the Download of Your YouTube Playlist Today</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-desktop-image-blending-techniques/"><u>[New] In 2024, Mastering Desktop Image Blending Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-content-protection-can-you-record-playbacks/"><u>[Updated] In 2024, YouTube Content Protection Can You Record Playbacks?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-subdivision-plat-which-records-new-lot-boundaries-and-other-details-must-be-created-and-approved/"><u>A Subdivision Plat, Which Records New Lot Boundaries and Other Details, Must Be Created and Approved.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/civilization-vi-overcoming-the-compatibility-problems-between-game-and-gpu/"><u>Civilization VI: Overcoming the Compatibility Problems Between Game and GPU</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-asus-zenbook-s16s-performance-an-in-depth-test-of-its-built-in-amd-ryzen-ai-nine-series-cpu/"><u>Dive Into the Asus Zenbook S16's Performance: An In-Depth Test of Its Built-In AMD RYZEN AI Nine Series CPU</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-logitech-g-hub-failures-tips-for-windows-users/"><u>Fixing Logitech G Hub Failures – Tips for Windows Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-asus-proart-pa32ucxr-unmatched-color-precision-in-a-compact-form/"><u>In-Depth Analysis of the Asus ProArt PA32UCXR - Unmatched Color Precision in a Compact Form</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-creation-with-elegoo-the-all-new-saturn-4-ultra-review/"><u>Mastering Modern Creation with Elegoo - The All-New Saturn 4 Ultra Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-video-file-processing-movs-in-windows-11-edition/"><u>Mastering Video File Processing MOVs in Windows 11 Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-performer-showdown-in-depth-review-of-gigabytes-high-end-aorus-fo32u2p-monitor-with-ultra-4k-240hz-visual-splendor/"><u>Top-Performer Showdown: In-Depth Review of Gigabyte's High-End Aorus FO32U2P Monitor with Ultra 4K, 240Hz Visual Splendor</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Will the iPogo Get You Banned and How to Solve It On Apple iPhone X | Dr.fone</u></a></li>
 </ul></div>
 

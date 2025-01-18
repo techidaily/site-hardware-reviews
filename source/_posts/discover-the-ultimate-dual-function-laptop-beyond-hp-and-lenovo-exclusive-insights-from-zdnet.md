@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Dual-Function Laptop Beyond HP and Lenovo - Exclusive Insights From ZDNet
-date: 2025-01-09T17:18:36.369Z
-updated: 2025-01-13T00:37:20.353Z
+date: 2025-01-17T16:51:01.304Z
+updated: 2025-01-18T18:18:33.223Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,16 +116,24 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unleash-creativity-best-snap-ideas-of-the-year/"><u>[Updated] Unleash Creativity Best Snap Ideas of the Year</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-spotify-application-is-not-responding-error-in-windows-10-and-11/"><u>How to Fix the “Spotify Application Is Not Responding” Error in Windows 10 & 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-tecno-spark-10-pro-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Tecno Spark 10 Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-unsteady-to-steady-tips-for-fixing-gopro-video-jitters/"><u>In 2024, From Unsteady to Steady Tips for Fixing GoPro Video Jitters</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-2024s-must-have-magsafe-gadgets-expert-tested-and-reviewed/"><u>Ultimate Guide to 2024'S Must-Have MagSafe Gadgets: Expert Tested and Reviewed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlock-exclusive-discounts-on-gadgets-ankers-mini-power-bank-latest-google-pixel-timepiece-and-secure-your-home-with-blink-cameras/"><u>Unlock Exclusive Discounts on Gadgets: Anker's Mini Power Bank, Latest Google Pixel Timepiece, and Secure Your Home with Blink Cameras!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-full-potential-effortlessly-operate-windows-with-your-new-steam-deck-oled-device/"><u>Unlocking Full Potential: Effortlessly Operate Windows with Your New Steam Deck OLED Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-seamless-connectivity-a-step-by-step-for-combining-various-mesh-network-systems/"><u>Unlocking Seamless Connectivity: A Step-by-Step for Combining Various Mesh Network Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unraveling-the-origin-whats-behind-the-name-bluetooth/"><u>Unraveling the Origin: What's Behind the Name 'Bluetooth'?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/wake-up-gently-with-philips-hue-transform-your-mornings-into-breathtaking-sunrises-by-your-bedside/"><u>Wake Up Gently with Philips Hue - Transform Your Mornings Into Breathtaking Sunrises by Your Bedside</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-detailed-review-and-comparison-with-vlc-successors/"><u>[New] Detailed Review and Comparison with VLC Successors</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-latest-techniques-for-ios-iphoneipad-screen-capture-2023-update/"><u>[New] Latest Techniques for iOS (iPhone/iPad) Screen Capture - 2023 Update</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-top-5-ios-apps-for-seamless-psp-gaming-experience/"><u>[Updated] 2024 Approved Top 5 iOS Apps For Seamless PSP Gaming Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-ultimate-guide-how-to-combine-mp3s-efficiently-on-windows-11/"><u>1. Ultimate Guide: How to Combine MP3s Efficiently on Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-become-a-selfie-pro-10-premium-free-ios-camera-apps/"><u>2024 Approved Become a Selfie Pro 10 Premium, Free iOS Camera Apps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-turning-your-old-photos-into-snaps-with-camera-roll/"><u>2024 Approved Turning Your Old Photos Into Snaps with Camera Roll</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-14-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 14 to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/activating-or-deactivating-user-feedback-on-videos/"><u>Activating or Deactivating User Feedback on Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-nuphy-halo75-v2-analysis-a-perfect-choice-for-gaming-enthusiasts/"><u>Budget-Friendly Nuphy Halo75 V2 Analysis: A Perfect Choice for Gaming Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-valkyrie-syn-aio-240l-robust-cooling-with-interface-improvement-needed/"><u>Comprehensive Analysis of the Valkyrie Syn AIO 240L - Robust Cooling with Interface Improvement Needed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-brilliance-with-viewsonics-oled-gaming-display-xg272-2k-240-hz-reviewed/"><u>Experience Brilliance with ViewSonic's OLED Gaming Display: XG272-2K, 240 Hz Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-tom-the-ultimate-hardware-resource/"><u>Exploring Gadgets with Tom: The Ultimate Hardware Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-computer-equipment-in-depth-reviews-and-insights/"><u>Exploring Tom's Computer Equipment - In-Depth Reviews & Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-superior-speed-on-a-budget-with-the-hatdrive-nano-for-your-raspberry-pi-projects/"><u>Get Superior Speed on a Budget with the HatDrive! Nano for Your Raspberry Pi Projects</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-flagship-microsoft-surface-pro-impressive-looks-yet-disappointing-smart-tech-features/"><u>In-Depth Analysis of the Flagship Microsoft Surface Pro - Impressive Looks, Yet Disappointing Smart Tech Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ntegrating-the-ebook-format-since-space-may-be-limited-for-physical-books-in-urban-areas-offering-an-e-book-version-could-appeal-to-tech-savvy-city-dwellers23/"><u>Ntegrating the eBook Format: Since Space May Be Limited for Physical Books in Urban Areas, Offering an E-Book Version Could Appeal to Tech-Savvy City Dwellers Who Prefer Digital over Paper Copies.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-windows-icon-clashing-dilemnas/"><u>Overcome Window's Icon Clashing Dilemnas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-errors-in-new-windows-11-os/"><u>Overcoming Device Errors in New Windows 11 OS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-hardware-with-tom/"><u>Understanding Hardware with Tom</u></a></li>
 </ul></div>
 

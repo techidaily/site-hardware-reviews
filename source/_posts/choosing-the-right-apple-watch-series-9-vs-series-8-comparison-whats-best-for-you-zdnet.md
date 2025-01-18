@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Right Apple Watch: Series 9 Vs. Series 8 Comparison - What's Best for You? | ZDNet"
-date: 2024-09-17 23:38:15
-updated: 2024-09-20 12:30:45
+date: 2025-01-17T16:55:07.256Z
+updated: 2025-01-18T16:02:41.207Z
 tags:
   - mobile-accessories
 categories:
@@ -20,6 +20,10 @@ It's no secret that iPhones aren't the most rugged devices, sometimes yielding s
 ## What is the best iPhone 16 case right now?
 
 Our pick for the best iPhone 16 case right now is the [Nomad Sport Case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNOMAD%2Fpage%2F6927BCAB-A05E-40FA-ADA7-1E37C46F23E5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1b7570ec-4eb5-4b81-b155-113b9708aa83%7Cdtp&dtb=1) case. This brand has been a longtime ZDNET favorite for its sleek form factor, [MagSafe capabilities](https://www.zdnet.com/article/best-magsafe-wallets/), and drop protection without a bulky form factor. Keep reading for more of our iPhone 16 case picks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best iPhone 16 cases of 2024
 
@@ -115,6 +119,10 @@ Pros
 Cons 
 * Low drop protection
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Smartish Gripmunk case
 
 #### Best cheap iPhone 16 case
@@ -196,6 +204,10 @@ Cons
 * Not too much protection
 * Pricey for low protection
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Moft Snap Case Movas
 
 #### Best vegan-leather iPhone 16 case
@@ -223,6 +235,10 @@ Pros
 Cons 
 * Unsure on sustainability
 * Only for Pro models
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Nomad Modern Leather Case
 
@@ -262,6 +278,10 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Incase Icon case                | A unique and stylish case with protection and MagSafe capabilities.                                     |
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing the best iPhone 16 case
 
 We kept in mind the most important factors when choosing the best iPhone 16 cases. The most relevant aspects are:
@@ -280,6 +300,10 @@ To choose these iPhone 16 cases, we performed extensive research over every corn
 On this list, the Nomad Sport case and the Torras Ostand MagSafe Case are the most protective for their drop protection and protective features. 
 
 However, if you stray from the list, the best options are those with a solid bumper and durable material. Before purchasing a case, make sure to check its drop protection and other safety features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best phone case brand?
 
@@ -300,6 +324,10 @@ If your phone has the problem of overheating, it may be best to look into specia
 ## What is the best iPhone for a 16 year old?
 
 This is a good question, and if we had to chime in, we would say something more durable. A study by tech protection service Asurion in 2013 that [3 out of 10 teenagers have dropped](https://www.prnewswire.com/news-releases/3-out-of-10-teens-damaged-cell-phones-in-the-last-18-months-mainly-at-school-218494391.html#:~:text=A%20back%2Dto%2Dschool%20survey,most%20accidents%20happening%20at%20school.) and/or damaged their cell phones in the past 18 months. Ten years later, many phones are even less durable. Therefore, that number may be higher, especially if teenagers have more phones than ever. To prevent damage to your teen's phone, it may be wise to invest in a durable case that protects the device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 16 cases worth considering?
 
@@ -338,11 +366,33 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-illuminating-the-sensor-rich-world-of-iphone-x-photos/"><u>[New] Illuminating the Sensor-Rich World of iPhone X Photos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-linguistic-edge-influential-expressions-for-leaders/"><u>[New] The Linguistic Edge Influential Expressions for Leaders</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-stream-like-never-before-turning-on-youtubes-av1/"><u>[Updated] 2024 Approved Stream Like Never Before Turning On YouTube's AV1</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-guide-to-accurate-transfer-of-camera-photos-to-social-media-apps-for-2024/"><u>[Updated] Guide to Accurate Transfer of Camera Photos to Social Media Apps for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-8-elite-applications-to-extract-mp3-audio/"><u>2024 Approved 8 Elite Applications to Extract MP3 Audio</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-premier-video-cutting-software-recommendations-for-windows-users/"><u>2024 Approved Premier Video Cutting Software Recommendations for Windows Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862822842-amazing-value-249-asus-tuf-curved-monitor-34-display-available-at-amazon/"><u>Amazing Value: $249 ASUS TUF Curved Monitor, 34 Display Available at Amazon!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862821283-amazon-drops-price-immerse-yourself-in-gaming-with-a-giant-39-inch-lg-ultragear-wqhd-curved-monitor-for-999/"><u>Amazon Drops Price: Immerse Yourself in Gaming with a Giant 39-Inch LG Ultragear WQHD Curved Monitor for $999!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862816787-elevate-your-gaming-setup-the-sale-of-a-lifetime-acer-nitros-24-curved-monitor-at-an-unbeatable-price-of-81/"><u>Elevate Your Gaming Setup: The Sale of a Lifetime - Acer Nitro's 24 Curved Monitor at an Unbeatable Price of $81!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862805004-experience-next-level-gaming-on-a-budget-the-gigabyte-gs3gs32qhttpswwwgigabytecomusmonitorplus-plusgraphics-32-qhd-monitor-now-at-199/"><u>Experience Next-Level Gaming on a Budget: The Gigabyte GS3^[GS32Q](https://www.gigabyte.com/us/Monitor+-+Graphics) 32'' QHD Monitor Now at $199</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-oppo-a38-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Oppo A38</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-premium-lineup-essential-bd-software-free-to-pay-on-windows-macos/"><u>In 2024, Premium Lineup Essential BD Software (Free to Pay) on Windows, macOS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862771438-title-elevate-your-gaming-with-the-asus-rog-strix-xg27acs-a-review-of-its-dynamic-qhd-display-and-robust-accuracy/"><u>Title: Elevate Your Gaming with the Asus ROG Strix XG27ACS: A Review of Its Dynamic QHD Display and Robust Accuracy.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-creating-gifs-the-14-leading-online-editors-and-apps/"><u>Ultimate Guide to Creating GIFs: The 14 Leading Online Editors and Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862790686-unbeatable-dell-gaming-screen-at-an-amazing-price-199/"><u>Unbeatable Dell Gaming Screen at an Amazing Price: $199</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/understanding-the-anatomy-of-a-website-the-role-of-pages-in-search-engine-optimization/"><u>Understanding the Anatomy of a Website: The Role of Pages in Search Engine Optimization</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/urgent-alert-displayport-21-faces-critical-problems-with-uhbr-compatible-cables-why-nvidia-prefers-dp-14-for-rtx-40-series/"><u>Urgent Alert: DisplayPort 2.1 Faces Critical Problems With UHBR-Compatible Cables – Why NVIDIA Prefers DP 1.4 for RTX 40 Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/vaio-unveils-visionplus14-the-largest-and-lightest-portable-display-in-the-market/"><u>Vaio Unveils Vision+14: The Largest and Lightest Portable Display in the Market</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/viewsonic-va1nte-portable-monitor-evaluation-expected-performance-across-the-board/"><u>ViewSonic VA1nte Portable Monitor Evaluation: Expected Performance Across the Board</u></a></li>
+</ul></div>
+

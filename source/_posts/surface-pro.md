@@ -1,7 +1,7 @@
 ---
 title: Surface Pro
-date: 2025-01-11T01:09:22.176Z
-updated: 2025-01-13T00:58:16.813Z
+date: 2025-01-14T16:08:08.101Z
+updated: 2025-01-18T16:09:30.031Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -49,7 +49,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -65,7 +65,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -85,7 +85,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -124,6 +124,10 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -143,10 +147,6 @@ The Paint and Photos apps are also loaded with AI-based features for creating an
 The real question is whether those features are powerful enough to make you switch from your current image-processing tool to one of Microsoft's built-in options. History says that's a pretty big ask.
 
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -192,19 +192,18 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-essential-top-8-video-collage-apps-balancing-android-costs-for-2024/"><u>[New] Essential Top 8 Video Collage Apps Balancing Android Costs for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-your-selection-of-affordable-iosandroid-live-streamers/"><u>[Updated] 2024 Approved Your Selection of Affordable iOS/Android Live Streamers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-comprehensive-look-at-youtubes-adsense-mechanisms/"><u>[Updated] In 2024, A Comprehensive Look at YouTube's AdSense Mechanisms</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-simplify-your-tech-life-capture-and-store-youtube-streaming-effortlessly-for-2024/"><u>[Updated] Simplify Your Tech Life Capture and Store YouTube Streaming Effortlessly for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-bios-related-hard-drive-errors/"><u>Demystifying BIOS-Related Hard Drive Errors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/high-end-gaming-monitor-showdown-the-titan-army-p27a2r-180hz-review/"><u>High-End Gaming Monitor Showdown: The Titan Army P27A2R 180Hz Review</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-role-of-voice-in-visual-content/"><u>In 2024, The Essential Role of Voice in Visual Content</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-top-10-ps5-external-hard-drives-you-can-find/"><u>In 2024, Top 10 Ps5 External Hard Drives You Can Find</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-acer-predator-orion-5000-unbeatable-performance-meets-cost-efficiency/"><u>In-Depth Analysis of the Acer Predator Orion 5000: Unbeatable Performance Meets Cost-Efficiency</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-fastest-storage-devices-lexar-sl500-and-sl600-delivering-up-to-20-gbps-bandwidth/"><u>In-Depth Review of the Fastest Storage Devices: Lexar SL500 and SL600, Delivering Up to 20 Gbps Bandwidth</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-cutting-edge-devices-guided-by-toms-expertise/"><u>Inside Look at Cutting-Edge Devices - Guided by Tom's Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/insightful-breakdown-of-technology-at-toms-hardware-blog/"><u>Insightful Breakdown of Technology at Tom's Hardware Blog</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-building-with-toms-hardware/"><u>Navigating the World of PC Building with Tom's Hardware</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728498536793-office-365/"><u>Office 365共有メールボックス：迅速かつ容易な配信完了アイテムのバックアップ技術</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-fast-forward-to-flawless-windows-11-photography/"><u>[New] Fast Forward to Flawless Windows 11 Photography</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-mastering-graphics-a-guide-to-a-flourishing-career/"><u>[New] In 2024, Mastering Graphics A Guide to a Flourishing Career</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/5-and-you-get-professional-grade-ssd-cooler-in-depth-review-of-the-uphere-m201/"><u>$5 and You Get Professional-Grade SSD Cooler: In-Depth Review of the UpHere M201</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-nzxt-c1500-platinum-psu-evaluation/"><u>Comprehensive NZXT C1500 Platinum PSU Evaluation</u></a></li>
+<li><a href="https://facebook.techidaily.com/embrace-the-change-guidance-to-rename-yourself-on-social-networks/"><u>Embrace the Change: Guidance to Rename Yourself on Social Networks</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 6s Plus</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-0xc000003e-application-startup-troubleshooting/"><u>Mastering 0xC000003E Application Startup Troubleshooting</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-choices-the-toms-system-specs-showdown/"><u>Mastering Tech Choices: The Tom's System Specs Showdown</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-gadget-galaxy-with-toms-hardware-reviews/"><u>Navigating the Gadget Galaxy with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rx-570-graphics-update-for-multi-windows-os-download-links/"><u>RX 570 Graphics Update for Multi-Windows OS Download Links</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gear-in-depth-guide-by-toms-hardware-hub/"><u>Unveiling the Latest Gear: In-Depth Guide by Tom's Hardware Hub</u></a></li>
 </ul></div>
 

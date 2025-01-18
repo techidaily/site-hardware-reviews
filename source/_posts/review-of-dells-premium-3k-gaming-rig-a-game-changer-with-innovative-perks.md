@@ -1,7 +1,7 @@
 ---
 title: Review of Dell's Premium $3K Gaming Rig - A Game Changer with Innovative Perks
-date: 2025-01-09T20:16:37.745Z
-updated: 2025-01-12T22:34:29.202Z
+date: 2025-01-16T18:42:19.032Z
+updated: 2025-01-18T16:52:30.566Z
 tags:
   - laptops
 categories:
@@ -34,10 +34,6 @@ When Chromebooks first arrived, it took a while for everyone to understand a dev
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best Chromebooks in 2022 These Chromebook laptops feature low prices and long battery lives.  Read now](https://www.zdnet.com/article/best-chromebook-laptop/)
@@ -53,7 +49,7 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 **Also:** [**The 5 best Chromebooks for students**](https://www.zdnet.com/article/best-chromebook-for-students/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -68,6 +64,10 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 | Connectivity          | Wi-Fi 6E, 2.5G Ethernet, Bluetooth 5.2                                                                                           |
 | Ports                 | 2 x USB-C 3.2 Gen 2 (supporting DisplayPort over USB-C), 1 x USB-A 3.2 Gen 2, 1 x HDMI, 1 x Ethernet, 1 x 3.5mm combo audio port |
 | Dimensions and weight | 356.58 (W) x 249.67 (D) x 21.3 (H) mm (14.04 x 9.83 x 0.84 inches) \| 3.75lbs                                                    |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Build and ports
 
@@ -102,7 +102,7 @@ Michael Gariffo/ZDNET
 While everything else about the Chromebook felt premium, the charger was contrastingly generic. It did its job of topping up the 65Wh, 9-hour battery well and quickly, but it's larger than you'd expect, and looked a bit dated compared with most other high-end Chromebook models. I opted to use a more compact 140W entry in the [Ugreen GaN charger line](https://www.zdnet.com/home-and-office/smart-office/ugreens-gan-chargers-are-smaller-mightier-and-cooler-than-yours/) during most of my testing. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance
@@ -150,7 +150,7 @@ Hopefully future updates will bring the performance of Xbox cloud gaming closer 
 [Acer Chromebook 516 GE $559.95 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1414639532&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -166,7 +166,7 @@ Just like all Chromebooks, gaming Chromebooks live or die on the quality of clou
 The saving grace here is that Acer and Nvidia have proven that cloud-based gaming is at the point where relatively inexpensive devices, like a high-end Chromebook, can compete with $1,000-plus machines, at least for just about everyone aside from ultra-competitive, first-person shooter fans. Now we just have to see how long it takes everyone else to catch up or surpass them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -213,22 +213,18 @@ Perhaps an odd fit as an alternative, but Valve's Steam Deck is a different take
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-top-fun-girl-games-for-kids/"><u>[New] 2024 Approved Top Fun Girl Games for Kids</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-comprehensive-examination-gopro-hero4-silver-version/"><u>[New] In 2024, Comprehensive Examination GoPro HERO4 Silver Version</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-rectification-of-injustice/"><u>[New] In 2024, Rectification of Injustice</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-convert-and-store-webcam-footage-in-vlc-media/"><u>[Updated] 2024 Approved Convert & Store Webcam Footage in VLC Media</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-new-frontiers-with-vr-game-engines/"><u>[Updated] Exploring New Frontiers with VR Game Engines</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-asus-rog-rapture-gt-be98-pro-wireless-router-top-tier-speed-and-unmatched-upgrade-potential/"><u>Comprehensive Analysis of the Asus ROG Rapture GT-BE98 Pro Wireless Router: Top Tier Speed & Unmatched Upgrade Potential</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-test-and-evaluation-of-pimoronis-nvme-ssd-base-duo/"><u>Comprehensive Test and Evaluation of Pimoroni's NVMe SSD Base Duo</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effective-strategies-for-data-retrieval-on-a-damaged-hard-drive-guidance-by-yl-software/"><u>Effective Strategies for Data Retrieval on a Damaged Hard Drive - Guidance by YL Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-permanently-close-gpt-account/"><u>How to Permanently Close GPT Account</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovations-and-reviews-on-top-tech-products-by-toms-hardware-experts/"><u>Innovations and Reviews on Top Tech Products by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-nzxt-h7-flow-reliability-over-innovation/"><u>Inside the NZXT H7 Flow: Reliability Over Innovation?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-pc-parts-and-devices-a-look-with-toms-hardware/"><u>Inside the World of PC Parts & Devices – A Look with Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-tech-expert-reviews-from-toms-hardware/"><u>Navigate the World of Tech: Expert Reviews From Tom's Hardware</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ranking-of-leading-game-devices-2024-edition/"><u>Ranking of Leading Game Devices - 2024 Edition</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/resolving-iphones-endless-data-recovery-attempt-cycle-a-step-by-step-guide/"><u>Resolving iPhone's Endless 'Data Recovery Attempt' Cycle: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/solution-a-subdivision-plat-records-new-lot-boundaries-and-relevant-details-for-official-use-providing-a-legally-binding-representation-of-the-divided-prope16/"><u>Solution: A Subdivision Plat Records New Lot Boundaries and Relevant Details for Official Use, Providing a Legally Binding Representation of the Divided Property</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-maximizing-your-microcontroller-experience-with-the-budget-friendly-cytron-maker-uno-rp2040/"><u>The Ultimate Guide to Maximizing Your Microcontroller Experience with the Budget-Friendly Cytron Maker Uno RP2040</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamline-creative-processes-efficiently-adding-text-to-videos-with-microsoft-photos/"><u>[New] Streamline Creative Processes Efficiently Adding Text to Videos with Microsoft Photos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-ignite-your-screenplay-essential-wins11-apps-and-games-for-2024/"><u>[Updated] Ignite Your Screenplay Essential Wins11 Apps & Games for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-punpixel-patterner/"><u>2024 Approved PunPixel Patterner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-cost-effective-nvme-cooling-discover-the-power-of-the-uphere-m201-heatsink-under-5/"><u>Cutting-Edge, Cost-Effective NVMe Cooling - Discover the Power of the UpHere M201 Heatsink Under $5!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-computing-dive-into-toms-hardware-universe/"><u>Discover the Latest in Computing - Dive Into Tom's Hardware Universe</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-unmatched-performance-with-the-titan-army-p27a2r-gaming-display-at-180-hz/"><u>Experience Unmatched Performance with the Titan Army P27A2R Gaming Display at 180 Hz</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-picks-the-most-accurate-residential-weather-gadgets-of-2024/"><u>Expert Picks: The Most Accurate Residential Weather Gadgets of 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/expert-tutorial-on-utilizing-googles-automatic-speech-transcription/"><u>Expert Tutorial on Utilizing Google's Automatic Speech Transcription</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-typing-experience-with-the-keychron-q1-he-a-comprehensive-review-of-the-ultimate-wireless-mechanical-keyboard/"><u>Revolutionize Your Typing Experience with the Keychron Q1-HE: A Comprehensive Review of the Ultimate Wireless Mechanical Keyboard</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/snap-share-repeat-the-ultimate-ps4-screenshot-sharing-guide-for-2024/"><u>Snap, Share, Repeat The Ultimate PS4 Screenshot Sharing Guide for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-leading-free-converters-for-optimal-srt-files/"><u>The Leading Free Converters for Optimal SRT Files</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/travel-companion-analysis-asus-rt-ax52018-a-comprehensive-look-at-the-ultra-portable-wireless-nano-router/"><u>Travel Companion Analysis: Asus RT-AX5^2018 - A Comprehensive Look at the Ultra-Portable Wireless Nano Router</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-pc-upgrades-insights-from-toms-hardware-experts/"><u>Unveiling the Best PC Upgrades: Insights From Tom's Hardware Experts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Score Big Savings with the Almost Perfect Security Camera, Arlo Pro # User
-date: 2024-09-19 13:30:43
-updated: 2024-09-20 11:23:46
+date: 2025-01-16T19:13:40.576Z
+updated: 2025-01-18T17:43:02.077Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,29 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unlocking-the-power-of-capturing-facetime-calls/"><u>[New] Unlocking the Power of Capturing FaceTime Calls</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-beyond-reality-the-future-of-virtual-experiences/"><u>2024 Approved Beyond Reality The Future of Virtual Experiences</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-efficient-tools-seamless-extraction-of-vimeo-media/"><u>2024 Approved Efficient Tools Seamless Extraction of Vimeo Media</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-find-n3-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/expedited-pathway-to-turkeys-language-a-comprehensible-alphabet-and-pronunciation-guide/"><u>Expedited Pathway to Turkey's Language: A Comprehensible Alphabet & Pronunciation Guide</u></a></li>
+<li><a href="https://win-special.techidaily.com/finde-din-nye-vidensmed-pa-windows-top-9-final-cut-pro-ersatningar/"><u>Finde Din Nye Vidensmed På Windows: Top 9 Final Cut Pro-Ersatningar</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-all-about-it-understanding-googles-podcast-service/"><u>In 2024, All About It Understanding Google's Podcast Service</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-miracast-functionality-restored-after-fixing-graphics-driver-issue/"><u>Resolved: Miracast Functionality Restored After Fixing Graphics Driver Issue</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transparent-brilliance-unveiled-the-second-look-at-the-nothing-phone/"><u>Transparent Brilliance Unveiled: The Second Look at the Nothing Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-next-gen-foldable-samsung-galaxy-z-flip-4-pros-and-innovations-compared/"><u>Unboxing the Next Gen Foldable: Samsung Galaxy Z Flip 4 Pros and Innovations Compared</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-the-causes-behind-your-phones-unexpected-reboots-a-comprehensive-guide/"><u>Understanding the Causes Behind Your Phone's Unexpected Reboots: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-the-functionality-of-the-android-systems-webview-component/"><u>Understanding the Functionality of the Android System's WebView Component</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-next-level-features-on-a-budget-the-best-deals-in-tech-700-samsung-galaxy-s21-fe-5g/"><u>Unlock Next-Level Features on a Budget: The Best Deals in Tech - $700 Samsung Galaxy S21 FE 5G</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-androids-full-potential-with-these-5-ingenious-screen-grab-techniques/"><u>Unlocking Android's Full Potential with These 5 Ingenious Screen Grab Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-guide-final-opportunity-to-access-your-lg-smartphone-securely/"><u>Unlocking Guide: Final Opportunity to Access Your LG Smartphone Securely</u></a></li>
+</ul></div>
+

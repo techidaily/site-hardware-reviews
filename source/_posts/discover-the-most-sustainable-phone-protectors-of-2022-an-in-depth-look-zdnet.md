@@ -1,7 +1,7 @@
 ---
 title: "Discover the Most Sustainable Phone Protectors of 2022: An In-Depth Look | ZDNET"
-date: 2024-09-19 19:42:34
-updated: 2024-09-20 12:20:28
+date: 2025-01-15T16:15:27.349Z
+updated: 2025-01-18T17:27:40.367Z
 tags:
   - mobile-accessories
 categories:
@@ -17,9 +17,17 @@ The new generation of iPhones are here and features a new action button, more AI
 
 It's no secret that iPhones aren't the most rugged devices, sometimes yielding screen cracks and camera damage from simple drops. Luckily, ZDNET editors have gone hands-on with iPhone 16 cases to see how they match up. No matter your needs -- drop protection, style _with_ durability, or functionality -- we've got you covered. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone 16 case right now?
 
 Our pick for the best iPhone 16 case right now is the [Nomad Sport Case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNOMAD%2Fpage%2F6927BCAB-A05E-40FA-ADA7-1E37C46F23E5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1b7570ec-4eb5-4b81-b155-113b9708aa83%7Cdtp&dtb=1) case. This brand has been a longtime ZDNET favorite for its sleek form factor, [MagSafe capabilities](https://www.zdnet.com/article/best-magsafe-wallets/), and drop protection without a bulky form factor. Keep reading for more of our iPhone 16 case picks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best iPhone 16 cases of 2024
 
@@ -35,6 +43,10 @@ Pros
 
 Cons 
 * Only available for iPhone 16 Pro models
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Nomad Sport Case
 
@@ -62,6 +74,10 @@ Pros
 Cons 
 * Kickstand durability
 * Not many color options
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Torras 360-degree OStand
 
@@ -167,6 +183,10 @@ Pros
 Cons 
 * Pricier
 * No camera protection
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Incase Icon
 
@@ -289,6 +309,10 @@ Unfortunately, there isn't such a thing as the best phone case brand. Many sourc
 
 Materials like plastic or polycarbonate usually offer the best price and durability. Other cases made from leather or metal can be pricier and may not offer the best protection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is the iPhone 16 available?
 
 The iPhone 16 is available for preorder now, and will arrive in stores on September 20.
@@ -296,6 +320,10 @@ The iPhone 16 is available for preorder now, and will arrive in stores on Septem
 ## What is the best phone case to avoid overheating?
 
 If your phone has the problem of overheating, it may be best to look into specialty cases called heat dissipation cases. These cases are made of heat-wicking material that regulates heat and allows airflow to cool your phone down.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best iPhone for a 16 year old?
 
@@ -338,11 +366,29 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-first-time-furnishings-minimalist-house-plans-in-mc-for-2024/"><u>[New] First-Time Furnishings Minimalist House Plans in MC for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-concealed-chorus-capturers-6-discreet-audio-recorders-for-devices-for-2024/"><u>[Updated] Concealed Chorus Capturers 6 Discreet Audio Recorders for Devices for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-how-to-add-subtitles-to-igtv-videos-for-2024/"><u>[Updated] How to Add Subtitles to IGTV Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/5-ways-to-fix-the-access-denied-error-on-windows-11/"><u>5 Ways to Fix the “Access Denied” Error on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-updates-for-hp-officejet-pro-6970-on-windows-systems/"><u>Download & Install Updates for HP OfficeJet Pro 6970 on Windows Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elite-selection-of-curved-and-high-fps-4k-monitors-for-pc-gamers-the-latest-picks-for-202e/"><u>Elite Selection of Curved and High FPS 4K Monitors for PC Gamers: The Latest Picks for 202E</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-unparalleled-gaming-visuals-at-a-discount-100-off-the-alienware-aw3225qf-curved-4k-monitor-featuring-qd-oled-tech-and-240-hz-refresh-rate/"><u>Experience Unparalleled Gaming Visuals at a Discount: $100 Off the Alienware AW3225QF Curved 4K Monitor, Featuring QD-OLED Tech & 240 Hz Refresh Rate</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-computing-toms-hardware-analysis/"><u>Expert Insights Into Computing - Tom’s Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experts-take-on-the-affordable-giant-monoprice-40-inch-crystal-pro-gaming-monitor-44394-with-high-fps-and-stealthy-cost/"><u>Experts' Take on the Affordable Giant - Monoprice 40 Inch Crystal Pro Gaming Monitor (44394) with High FPS and Stealthy Cost!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-new-gadgets-with-toms-hardware-insights/"><u>Exploring New Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-technology-with-toms-hardware-guides-t172386288018310/"><u>Exploring the Latest in Technology with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-on-epic-memorial-day-offer-32-inch-dell-gaming-monitor-at-an-unbeatable-price-of-279/"><u>Game On! Epic Memorial Day Offer - 32-Inch Dell Gaming Monitor at an Unbeatable Price of $279</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-cost-effective-alcatel-joy-tab-2-with-lte-connectivity/"><u>In-Depth Analysis of the Cost-Effective Alcatel Joy Tab 2 with LTE Connectivity</u></a></li>
+<li><a href="https://common-error.techidaily.com/regain-your-batterypower-gauge-on-windows-11-effective-solutions-unveiled/"><u>Regain Your Battery/Power Gauge on Windows 11 - Effective Solutions Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlinked-chats-engaging-with-messenger-messages-even-if-you-dont-have-a-facebook-profile/"><u>Unlinked Chats: Engaging with Messenger Messages Even If You Don’t Have a Facebook Profile</u></a></li>
+</ul></div>
+

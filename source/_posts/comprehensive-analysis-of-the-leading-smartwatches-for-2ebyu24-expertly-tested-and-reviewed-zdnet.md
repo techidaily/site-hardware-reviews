@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Analysis of the Leading Smartwatches for 2Ebyu24: Expertly Tested and Reviewed | ZDNet"
-date: 2024-09-18 13:17:37
-updated: 2024-09-20 12:10:21
+date: 2025-01-17T18:07:35.409Z
+updated: 2025-01-18T16:02:37.779Z
 tags:
   - mobile-accessories
 categories:
@@ -35,13 +35,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to transform a Flipper Zero into an Apple AirTag
 
 **What you'll** **need**: A Flipper Zero, an Apple AirTag (or [tracker from another brand](https://www.zdnet.com/article/best-bluetooth-tracker/)), an [iPhone](https://www.zdnet.com/article/best-iphone/) and an [Android phone](https://www.zdnet.com/article/best-android-phone/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install Momentum firmware
 
 First, install the Momentum firmware on your Flipper Zero. The most straightforward method is to use the web installer, but rest assured, you can revert to the stock firmware at any point [using the desktop or mobile app](https://flipperzero.one/downloads). Simply navigate to the [Momentum web installer page](https://momentum-fw.dev/update/), connect your Flipper Zero, and follow the prompts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Downloading FindMy Flipper
 
@@ -50,6 +62,10 @@ Once installed, you'll discover a host of new applications on your Flipper Zero,
 **Also: [Flipper Zero: 'Can you really hack Wi-Fi networks?' and other questions answered](https://www.zdnet.com/home-and-office/flipper-zero-can-you-really-hack-wi-fi-networks-and-other-questions-answered/)**
 
 The app leverages the Flipper Zero's Bluetooth capabilities to act as an Apple AirTag, (or if you prefer, a Samsung SmartTag or Tile tag, but that process is even more cumbersome). It uses the Flipper Zero Bluetooth low energy (BLE) beacon to broadcast a signal that can be picked up by iPhones and sent back to Apple for viewing in the FindMy app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Setting up the Flipper Zero
 
@@ -60,6 +76,10 @@ You'll need an AirTag, an iPhone, and an Android smartphone to follow along.
 **Also: [How to unlock the Flipper Zero's true power](https://www.zdnet.com/article/how-to-unlock-the-flipper-zero-true-power/)**
 
 I've personally gone through these steps multiple times and can confirm their effectiveness. But precision is key -- make sure to follow each step meticulously. A single misstep is enough to stop this from working and leave you scratching your head.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Using custom Python scripts (and why you should)
 
@@ -90,11 +110,28 @@ This brings me to one of the things that I really like about the [Flipper Zero](
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-top-15-tips-for-accessing-nba-games-online-for-2024/"><u>[New] Top 15 Tips for Accessing NBA Games Online for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-enhancing-your-game-time-with-youtube-live-broadcasts/"><u>[Updated] 2024 Approved Enhancing Your Game Time with YouTube Live Broadcasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-news-amd-patches-zen-2-vulnerability-dont-delay-apply-msis-updated-agesa-120-bios/"><u>Breaking News: AMD Patches Zen 2 Vulnerability - Don’t Delay! Apply MSI's Updated AGESA 1.2.0 BIOS</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-magic-6-lite-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor Magic 6 Lite Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-asus-pro-b760m-ct-csm-motherboard-why-choose-a-certified-supermom/"><u>Comprehensive Guide to Asus Pro B760M-CT CSM Motherboard - Why Choose a Certified Supermom?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-itel-p55plus-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oppo-a78-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Oppo A78 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-solutions-and-reviews-discovering-tech-secrets-at-toms-hardware/"><u>Innovative Solutions and Reviews: Discovering Tech Secrets at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-analysis-and-reviews-the-toms-hardware-collection/"><u>Innovative Tech Analysis and Reviews - The Tom's Hardware Collection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/professional-display-revolutionized-aoc-launches-its-cutting-edge-trio-of-graphic-pro-series-monitors-model-u3/"><u>Professional Display Revolutionized: AOC Launches Its Cutting-Edge Trio of Graphic Pro Series Monitors, Model U3</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-unmissable-eyoy-em105-review-exceptional-value-meets-miniaturization-at-105-inches/"><u>The Unmissable EYOY EM105 Review – Exceptional Value Meets Miniaturization at 10.5 Inches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-overclocking-an-easy-to-follow-guide-for-enhancing-cpu-performance/"><u>Unlock the Power of Overclocking: An Easy-to-Follow Guide for Enhancing CPU Performance</u></a></li>
+<li><a href="https://win-popular.techidaily.com/windows-server-2011-compatible-top-system-and-hard-drive-imaging-tools/"><u>Windows Server 2011 Compatible: Top System & Hard Drive Imaging Tools</u></a></li>
+</ul></div>
+

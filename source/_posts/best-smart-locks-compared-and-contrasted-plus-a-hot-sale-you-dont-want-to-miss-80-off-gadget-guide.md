@@ -1,7 +1,7 @@
 ---
 title: Best Smart Locks Compared & Contrasted, Plus a Hot Sale You Don't Want to Miss ($80 Off!) | Gadget Guide
-date: 2024-09-19 22:36:47
-updated: 2024-09-20 12:16:35
+date: 2025-01-15T16:40:47.719Z
+updated: 2025-01-18T17:35:32.408Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,27 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-youtube-time-rewind-mastery-in-media-refreshes/"><u>[New] 2024 Approved YouTube Time Rewind Mastery in Media Refreshes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-earning-equations-decoding-the-mathematics-behind-youtube-income-monitoring/"><u>[New] In 2024, Earning Equations Decoding the Mathematics Behind YouTube Income Monitoring</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-directory-free-visual-content-oasis-online/"><u>[Updated] Exclusive Directory Free Visual Content Oasis Online</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-visual-storytelling-power-up-gopros-15-best-color-look-ups-explained/"><u>[Updated] In 2024, Visual Storytelling Power-Up GoPro's 15 Best Color Look-Ups Explained</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-success-stories-adopting-viral-techniques-from-tiktok/"><u>2024 Approved Instagram Success Stories Adopting Viral Techniques From TikTok</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harnessing-the-full-potential-of-luts-in-adobe-premiere-pro-for-2024/"><u>Harnessing the Full Potential of LUTs in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-pros-and-cons-of-onyx-boox-tab-ultra-a-comprehensive-guide-to-the-premier-e-paper-tablet/"><u>Inside the Pros and Cons of Onyx Boox Tab Ultra: A Comprehensive Guide to the Premier E-Paper Tablet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/keep-your-android-display-on-a-comprehensive-guide-to-managing-sleep-settings/"><u>Keep Your Android Display On: A Comprehensive Guide to Managing Sleep Settings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-single-finger-navigation-unlocking-the-secrets-of-androids-handicap-accessibility/"><u>Mastering Single-Finger Navigation: Unlocking the Secrets of Android's Handicap Accessibility</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/meet-the-game-changer-in-smartphones-the-new-google-pixel-fold/"><u>Meet the Game-Changer in Smartphones: The New Google Pixel Fold</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-transform-your-footage-pro-quality-movies-made-easy-for-2024/"><u>New Transform Your Footage Pro-Quality Movies Made Easy for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-s18e-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from S18e</u></a></li>
+</ul></div>
+

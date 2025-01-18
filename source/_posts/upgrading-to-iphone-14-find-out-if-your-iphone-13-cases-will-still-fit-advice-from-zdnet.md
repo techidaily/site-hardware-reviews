@@ -1,7 +1,7 @@
 ---
 title: Upgrading to iPhone 14? Find Out If Your iPhone 13 Cases Will Still Fit – Advice From ZDNET
-date: 2024-09-17 23:18:40
-updated: 2024-09-20 11:39:12
+date: 2025-01-15T18:30:12.585Z
+updated: 2025-01-18T17:01:39.034Z
 tags:
   - mobile-accessories
 categories:
@@ -20,6 +20,10 @@ It's no secret that iPhones aren't the most rugged devices, sometimes yielding s
 ## What is the best iPhone 16 case right now?
 
 Our pick for the best iPhone 16 case right now is the [Nomad Sport Case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNOMAD%2Fpage%2F6927BCAB-A05E-40FA-ADA7-1E37C46F23E5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1b7570ec-4eb5-4b81-b155-113b9708aa83%7Cdtp&dtb=1) case. This brand has been a longtime ZDNET favorite for its sleek form factor, [MagSafe capabilities](https://www.zdnet.com/article/best-magsafe-wallets/), and drop protection without a bulky form factor. Keep reading for more of our iPhone 16 case picks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best iPhone 16 cases of 2024
 
@@ -115,6 +119,10 @@ Pros
 Cons 
 * Low drop protection
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Smartish Gripmunk case
 
 #### Best cheap iPhone 16 case
@@ -167,6 +175,10 @@ Pros
 Cons 
 * Pricier
 * No camera protection
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Incase Icon
 
@@ -238,6 +250,10 @@ That being said, leather is not everybody's thing. But, if you are in the market
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone 16 case?
 
 Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek design and solid protection. Check out how the other options stack up below.
@@ -275,6 +291,10 @@ We kept in mind the most important factors when choosing the best iPhone 16 case
 
 To choose these iPhone 16 cases, we performed extensive research over every corner of the internet, like Reddit forums and customer reviews, to find the best picks at the time of this writing. When we can't test a product, we rely on opinions from real people over company promises. We also receive recommendations from ZDNET experts like reviews editor Kerry Wan and editor-in-chief Jason Hiner, who have years of experience in the tech journalism field. Our picks are meant to leave the reader happy and their device healthy. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What iPhone case is most protective?
 
 On this list, the Nomad Sport case and the Torras Ostand MagSafe Case are the most protective for their drop protection and protective features. 
@@ -285,9 +305,17 @@ However, if you stray from the list, the best options are those with a solid bum
 
 Unfortunately, there isn't such a thing as the best phone case brand. Many sources point to Spigen and Otterbox as the most popular phone case brands with the most units sold. That, however, does not necessarily mean they are the best brands. It is ultimately up to you and your lived experience and opinion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What case material is best for iPhone?
 
 Materials like plastic or polycarbonate usually offer the best price and durability. Other cases made from leather or metal can be pricier and may not offer the best protection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When is the iPhone 16 available?
 
@@ -338,11 +366,31 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-guide-syncing-images-and-movies-between-iphones/"><u>[New] Quick Guide Syncing Images & Movies Between iPhones</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-quick-tips-for-iphone-7-video-saving/"><u>[New] Quick Tips for iPhone 7 Video Saving</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-zenithbgfreeze-top-background-elimination-solution/"><u>[Updated] 2024 Approved ZenithBgFreeze Top Background Elimination Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversor-de-video-vob-para-mp3-livre-e-gratuito-no-movavi-guia-passo-a-passo/"><u>Conversor De Vídeo VOB Para MP3 Livre E Gratuito No Movavi - Guia Passo a Passo</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-exploring-toms-comprehensive-guide-to-pc-components/"><u>Mastering Gadgets: Exploring Tom's Comprehensive Guide to PC Components</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-the-art-of-christmas-dvd-extraction-for-windows-11-users-a-comprehensive-tutorial/"><u>Mastering the Art of Christmas DVD Extraction for Windows 11 Users: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-performance-with-an-overclocked-intel-pentium-gold-g74e-cpu-alder-lake-series-hits-58-ghz/"><u>Maximizing Performance with an Overclocked Intel Pentium Gold G74e CPU - Alder Lake Series Hits 5.8 GHz</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g-stylus-5g-2023-wont-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Motorola Moto G Stylus 5G (2023) won’t play MP4 files</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-market-with-toms-computer-insights/"><u>Navigating the Market with Tom's Computer Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-world-with-tom-expert-insights-into-hardware-advancements/"><u>Navigating the Tech World with Tom: Expert Insights Into Hardware Advancements</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/overclocking-and-modding-guide-enhancing-intel-core-i7-7700k-with-a-de-lidded-design/"><u>Overclocking & Modding Guide: Enhancing Intel Core I7-7700K with a De-Lidded Design</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-motorola-defy-2-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Motorola Defy 2 Screen | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-update-by-asrock-allows-locked-comet-lake-s-cpus-to-overclock-on-non-z-motherboards/"><u>Revolutionary Update by ASRock Allows Locked Comet Lake-S CPUs to Overclock on Non-Z Motherboards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ryzen-4000-series-sets-new-standards-the-renoir-chip-achieves-world-record-at-6666-mhz/"><u>Ryzen 4000 Series Sets New Standards: The Renoir Chip Achieves World Record at 6666 MHz</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/stay-ahead-with-chatgpt-learn-about-their-freshly-introduced-innovative-tools-and-capabilities/"><u>Stay Ahead with ChatGPT – Learn About Their Freshly Introduced Innovative Tools and Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-components-t17239718671242/"><u>Tom's Tech Review: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-7-ultimate-tools-with-artificial-intelligence-for-smart-presenting/"><u>Unveiling The 7 Ultimate Tools with Artificial Intelligence for Smart Presenting</u></a></li>
+</ul></div>
+

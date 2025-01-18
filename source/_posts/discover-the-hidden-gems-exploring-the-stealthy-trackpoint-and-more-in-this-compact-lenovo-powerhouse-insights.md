@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: Exploring the Stealthy TrackPoint and More in This Compact Lenovo Powerhouse - Insights"
-date: 2025-01-10T01:11:03.247Z
-updated: 2025-01-13T03:06:27.270Z
+date: 2025-01-12T17:31:25.647Z
+updated: 2025-01-18T17:49:28.183Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cce20b3bd-264e-4243-8b2f-de2b540f1dec%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -110,7 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,17 +149,19 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-flash-vids-unpacked-whats-inside/"><u>[Updated] 2024 Approved Flash Vids Unpacked What's Inside?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/best-slogan-generator-for-virtual-events/"><u>Best Slogan Generator for Virtual Events</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-the-corsair-m75-mechanical-keyboard-with-bi-directional-buttons-reviewed/"><u>Comprehensive Evaluation of the Corsair M75 Mechanical Keyboard with Bi-Directional Buttons Reviewed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-raspberry-pi-artificial-intelligence-starter-pack-an-in-depth-analysis/"><u>Exploring the Raspberry Pi Artificial Intelligence Starter Pack: An In-Depth Analysis</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-11-proplus-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 11 Pro+ in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-11-pro-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 11 Pro Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964499541-include-at-least-three-rhetorical-questions-to-engage-the-audience/"><u>Include at Least Three Rhetorical Questions to Engage the Audience.</u></a></li>
-<li><a href="https://win-webster.techidaily.com/iphone-unrecognized-by-itunes-solutions-for-windows-1011-users/"><u>IPhone Unrecognized by iTunes: Solutions for Windows 10/11 Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/kioxia-unveils-breakthrough-solid-state-drives-with-ultra-fast-optical-link-capable-of-transmitting-data-beyond-40-meters-away-from-cpus/"><u>Kioxia Unveils Breakthrough Solid State Drives with Ultra-Fast Optical Link Capable of Transmitting Data Beyond 40 Meters Away From CPUs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/latest-insights-into-12vhpwr-connection-issues-melting-reports-coming-from-psu-side/"><u>Latest Insights Into 12VHPWR Connection Issues - Melting Reports Coming From PSU Side</u></a></li>
-<li><a href="https://extra-support.techidaily.com/macos-slideshow-creator-unite-images-and-videos-for-2024/"><u>MacOS SlideShow Creator Unite Images & Videos for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/redesigned-planet-keeps-icy-encounters-at-bay-fixed-edition-now-available/"><u>Redesigned Planet Keeps Icy Encounters at Bay – Fixed Edition Now Available</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-streamlining-your-tweets-with-video-upload-rules/"><u>[New] In 2024, Streamlining Your Tweets with Video Upload Rules</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-facebooks-fresh-features-and-changes-for-2024/"><u>[New] Navigating Facebook's Fresh Features & Changes for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-cleaner-frames-with-advanced-webcam-tech/"><u>[Updated] 2024 Approved Cleaner Frames with Advanced Webcam Tech</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-enhance-team-engagement-through-zoom-recording/"><u>[Updated] How to Enhance Team Engagement Through Zoom Recording</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-windows-1011-grab-your-desk-view/"><u>[Updated] In 2024, Windows 10/11 Grab Your Desk View</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-untangling-veiled-feedback-mechanisms-in-video-sites/"><u>[Updated] Untangling Veiled Feedback Mechanisms in Video Sites</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-enhancing-profile-clips-for-impact/"><u>2024 Approved Enhancing Profile Clips for Impact</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-nuc-970-mini-pc-assessment-high-performance-powerhouse-in-a-small-form-factor/"><u>Asus ROG NUC 970 Mini PC Assessment: High-Performance Powerhouse in a Small Form Factor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-the-potential-of-the-geekworm-x1011-nas-appliance-a-detailed-review/"><u>Discovering the Potential of the Geekworm X1011 NAS Appliance - A Detailed Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-with-tom-the-definitive-resource-on-pc-gear/"><u>Exploring Hardware with Tom: The Definitive Resource on PC Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-more-storage-on-a-budget-with-asrocks-m2-b760-motherboard-review/"><u>Get More Storage on a Budget with ASRock's M.2 B760 Motherboard Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-hp-omnibook-x-experience-a-comprehensive-dive-into-its-16-hour-battery-life-and-xpower-technology/"><u>Inside the HP OmniBook X Experience: A Comprehensive Dive Into Its 16-Hour Battery Life and XPower Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-components-at-toms-tech-hub/"><u>Navigating the World of PC Components at Tom's Tech Hub</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oneplus-12r-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your OnePlus 12R Phone? Unlock It Now</u></a></li>
 </ul></div>
 

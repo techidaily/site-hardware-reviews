@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Secrets of Lomi's Magic: A Thorough Review and Analysis for Sustainable Living Enthusiasts | ZDNET"
-date: 2024-09-18 23:53:42
-updated: 2024-09-20 12:17:48
+date: 2025-01-13T18:27:07.067Z
+updated: 2025-01-18T18:47:50.572Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,29 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-tweeted-timelines-a-complete-guide-to-video-backups-for-2024/"><u>[New] Tweeted Timelines A Complete Guide to Video Backups for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-master-the-art-of-video-annotation-using-markers-with-ease/"><u>[Updated] 2024 Approved Master the Art of Video Annotation Using Markers with Ease</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-share-your-latest-audio-exploration/"><u>[Updated] Share Your Latest Audio Exploration</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-motorola-moto-g23-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Moto G23 Without Password | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-focus-sharpening-a-selective-approach-to-photos/"><u>In 2024, Focus Sharpening A Selective Approach to Photos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nubia-z50-ultra-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nubia Z50 Ultra Phone FRP Lock</u></a></li>
+<li><a href="https://blog-min.techidaily.com/introducing-the-latest-upgrade-microsofts-revamped-sticky-notes-in-windows-11/"><u>Introducing the Latest Upgrade: Microsoft's Revamped Sticky Notes in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-nubia-red-magic-8s-pro-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Nubia Red Magic 8S Pro Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-cooking-apps-for-android-devices-find-your-perfect-match/"><u>Top Rated Cooking Apps for Android Devices: Find Your Perfect Match</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transform-your-android-lockscreen-into-an-iphone-inspired-display/"><u>Transform Your Android Lockscreen Into an iPhone-Inspired Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transform-your-web-surfing-experience-easily-changing-to-a-new-browser-on-android-phones-and-tablets/"><u>Transform Your Web Surfing Experience: Easily Changing to a New Browser on Android Phones and Tablets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/troubleshooting-play-store-connectivity-issues-on-your-amazon-fire-device/"><u>Troubleshooting: Play Store Connectivity Issues on Your Amazon Fire Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-disabling-mobile-data-usage-for-specific-apps-on-android-devices/"><u>Ultimate Guide: Disabling Mobile Data Usage for Specific Apps on Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-apk-files-are-they-secure-for-downloads/"><u>Understanding APK Files: Are They Secure for Downloads?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-how-androids-healthconnect-function-enhances-wellness-management-worth-using-or-not/"><u>Understanding How Android's HealthConnect Function Enhances Wellness Management - Worth Using or Not?</u></a></li>
+</ul></div>
+

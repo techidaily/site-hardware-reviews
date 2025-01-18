@@ -1,7 +1,7 @@
 ---
 title: "Huge Cyber Monday Savings: Save 77%% on Lenovo ThinkPad L14 Gen 3 - Limited Time Offer!"
-date: 2025-01-12T01:38:02.020Z
-updated: 2025-01-12T17:49:31.237Z
+date: 2025-01-11T17:34:05.002Z
+updated: 2025-01-18T16:44:01.541Z
 tags:
   - laptops
 categories:
@@ -56,7 +56,7 @@ If you're at all familiar with the previous ThinkPad X1 computers, you'll notice
 Another consequence of the limited space is the lack of ports. You have four inputs in total: two Thunderbolt 4 ports, an 3.5mm headphone/mic combo, and a slot for a Nano SIM, although the last one is optional. It's as barebones as you can get. To be honest, I am pleasantly surprised that there is a headphone jack. With how simple the [third-generation ThinkPad X1 Nano](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-nano-gen-3-%2813-inch-intel%29%2Flen101t0054&publisher_slug=itechdaily19598&exclusive=1) is, I was a little shocked it made the cut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -97,19 +97,16 @@ Prices [start at $1,043](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-smile-stashers-the-ultimate-list-of-meme-makers-for-2024/"><u>[New] Smile Stashers The Ultimate List of Meme Makers for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comparing-top-ereader-gadgets-your-go-to-guide-s-best-picks/"><u>Comparing Top eReader Gadgets: Your Go-To Guide 'S Best Picks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-switchbot-remote-overview-does-it-truly-merge-all-your-needs/"><u>Comprehensive SwitchBot Remote Overview: Does It Truly Merge All Your Needs?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-revolutionary-compact-tracker-by-nomad-a-credit-card-sized-solution-for-precise-location-tracking/"><u>Discover the Revolutionary Compact Tracker by Nomad – A Credit Card-Sized Solution for Precise Location Tracking</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/embrace-the-future-of-safety-swap-out-your-old-ring-doorbell-today/"><u>Embrace the Future of Safety - Swap Out Your Old Ring Doorbell Today!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhanced-artificial-intelligence-performance-with-intels-ultra-pc-the-new-era-of-optimized-model-integration/"><u>Enhanced Artificial Intelligence Performance with Intel's Ultra PC: The New Era of Optimized Model Integration</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/extending-the-lifespan-of-your-smartphone-understanding-android-device-endurance/"><u>Extending the Lifespan of Your Smartphone: Understanding Android Device Endurance</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-price-tracker-finding-the-best-cloud-services/"><u>In 2024, Price Tracker Finding the Best Cloud Services</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tailor-screen-size-for-optimal-windows-11-use/"><u>Tailor Screen Size for Optimal Windows 11 Use</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-troubleshooting-steps-addressing-missing-d3dx9n41dll-files/"><u>The Ultimate Troubleshooting Steps: Addressing Missing d3dx9_n41.dll Files</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-essential-apple-watch-sleep-monitoring-applications/"><u>Top 5 Essential Apple Watch Sleep Monitoring Applications</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-skyrocketing-your-contents-view-count-title-and-tag-mastery/"><u>[New] 2024 Approved Skyrocketing Your Content's View Count Title & Tag Mastery</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-learn-the-low-cost-way-of-designing-winning-youtube-ad-campaigns/"><u>[Updated] In 2024, Learn the Low-Cost Way of Designing Winning YouTube Ad Campaigns</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-graphics-legacy-radeon-reloaded/"><u>2024 Approved Graphics Legacy Radeon Reloaded</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tial-android-ad-blocking-the-top-7-app-list-for-2024/"><u>Essential Android Ad Blocking The Top 7 App List for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-modern-gear-from-your-go-to-source-toms-hardware/"><u>Expert Advice on Modern Gear From Your Go-To Source, Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-testing-the-nzxt-c1500-platinum-unit/"><u>Expert Analysis: Testing the NZXT C1500 Platinum Unit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341746651-experts-rating-in-depth-analysis-of-dough-spectrum-black-the-ultimate-27-oled-gaming-display-with-superior-color-fidelity-and-exceptional-responsiveness/"><u>Experts' Rating: In-Depth Analysis of Dough Spectrum Black - The Ultimate 27 OLED Gaming Display with Superior Color Fidelity & Exceptional Responsiveness!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-and-master-evil-genius-2-why-wont-it-boot-up/"><u>Fix and Master Evil Genius 2: Why Won't It Boot Up?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oneplus-nord-n30-se-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on OnePlus Nord N30 SE Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lattepandas-mu-board-review-outpacing-the-raspberry-pi-5-but-with-a-steeper-cost/"><u>LattePanda's Mu Board Review: Outpacing the Raspberry Pi 5 but with a Steeper Cost</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-with-toms-electronics-analysis/"><u>Unveiling the Latest Gadgets with Tom's Electronics Analysis</u></a></li>
 </ul></div>
 

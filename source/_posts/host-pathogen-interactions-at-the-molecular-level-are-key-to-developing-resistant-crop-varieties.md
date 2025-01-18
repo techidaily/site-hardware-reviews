@@ -1,7 +1,7 @@
 ---
 title: Host-Pathogen Interactions at the Molecular Level Are Key to Developing Resistant Crop Varieties.
-date: 2024-09-19 20:34:10
-updated: 2024-09-20 12:29:26
+date: 2025-01-12T16:44:29.518Z
+updated: 2025-01-18T16:09:10.365Z
 tags:
   - mobile-accessories
 categories:
@@ -16,6 +16,10 @@ The new generation of iPhones are here and features a new action button, more AI
 **Also:** [**Preorder the iPhone 16 now (and even get one for free) - here's how**](https://www.zdnet.com/article/preorder-the-iphone-16-now-and-even-get-one-for-free-heres-how/)
 
 It's no secret that iPhones aren't the most rugged devices, sometimes yielding screen cracks and camera damage from simple drops. Luckily, ZDNET editors have gone hands-on with iPhone 16 cases to see how they match up. No matter your needs -- drop protection, style _with_ durability, or functionality -- we've got you covered. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case right now?
 
@@ -35,6 +39,10 @@ Pros
 
 Cons 
 * Only available for iPhone 16 Pro models
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Nomad Sport Case
 
@@ -224,6 +232,10 @@ Cons
 * Unsure on sustainability
 * Only for Pro models
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Nomad Modern Leather Case
 
 #### Best leather case for iPhone 16
@@ -238,6 +250,10 @@ That being said, leather is not everybody's thing. But, if you are in the market
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone 16 case?
 
 Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek design and solid protection. Check out how the other options stack up below.
@@ -249,6 +265,10 @@ Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek desig
 | Latercase for iPhone 16    | $60       | No                  | Yes         |
 | Incase Icon case           | $60       | Yes                 | Yes         |
 | Nomad Modern Leather case  | $70       | Yes                 | Yes         |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which is the right iPhone 16 case for you?
 
@@ -297,9 +317,17 @@ The iPhone 16 is available for preorder now, and will arrive in stores on Septem
 
 If your phone has the problem of overheating, it may be best to look into specialty cases called heat dissipation cases. These cases are made of heat-wicking material that regulates heat and allows airflow to cool your phone down.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone for a 16 year old?
 
 This is a good question, and if we had to chime in, we would say something more durable. A study by tech protection service Asurion in 2013 that [3 out of 10 teenagers have dropped](https://www.prnewswire.com/news-releases/3-out-of-10-teens-damaged-cell-phones-in-the-last-18-months-mainly-at-school-218494391.html#:~:text=A%20back%2Dto%2Dschool%20survey,most%20accidents%20happening%20at%20school.) and/or damaged their cell phones in the past 18 months. Ten years later, many phones are even less durable. Therefore, that number may be higher, especially if teenagers have more phones than ever. To prevent damage to your teen's phone, it may be wise to invest in a durable case that protects the device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 16 cases worth considering?
 
@@ -338,11 +366,25 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-assembling-an-original-identification-alphanumeric/"><u>[Updated] 2024 Approved Assembling an Original Identification Alphanumeric</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-image-fusion-merging-photos-into-one-masterpiece-for-2024/"><u>[Updated] Image Fusion Merging Photos Into One Masterpiece for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-mastering-podcast-entrances-eye-catching-scripts/"><u>[Updated] In 2024, Mastering Podcast Entrances Eye-Catching Scripts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-the-art-of-persuasion-in-marketing/"><u>2024 Approved Mastering the Art of Persuasion in Marketing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-new-wave-of-performance-with-asrocks-amd-ryzen-9000-motherboards/"><u>Discover the New Wave of Performance with ASRock's AMD Ryzen 9000 Motherboards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-digital-realms-with-toms-gadget-analysis/"><u>Dive Into Digital Realms with Tom's Gadget Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/early-bird-access-to-msi-z890-and-b860-motherboards-prepare-your-rig-ahead-of-computex-2024-with-the-latest-arrow-lake-s-supported-kits/"><u>Early Bird Access to MSI Z890 & B860 Motherboards - Prepare Your Rig Ahead of Computex 2024 with the Latest Arrow Lake-S Supported Kits</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-rigs-the-cutting-edge-features-of-gigabytes-new-aorus-xtreme-and-xtreme-ice-mobos-gpu-lines-revealed-at-computex/"><u>Experience Next-Level Gaming Rigs: The Cutting-Edge Features of Gigabyte’s New Aorus Xtreme and Xtreme Ice Mobos, GPU Lines Revealed at Computex</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-at-toms-pc-parts-store-find-what-you-need-here/"><u>Expert Reviews at Tom's PC Parts Store - Find What You Need Here!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-to-correctly-handle-directinput-and-directx-dll-faults-in-windows/"><u>Expert Tips to Correctly Handle Directinput and DirectX Dll Faults in Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-the-distinctions-between-fb-pages-and-unames/"><u>Unveiling the Distinctions Between FB Pages & UNAMES</u></a></li>
+</ul></div>
+

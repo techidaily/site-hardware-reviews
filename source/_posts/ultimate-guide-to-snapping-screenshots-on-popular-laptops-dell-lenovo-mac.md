@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Snapping Screenshots on Popular Laptops - Dell, Lenovo, Mac
-date: 2025-01-10T23:10:13.277Z
-updated: 2025-01-13T02:58:49.834Z
+date: 2025-01-17T19:22:27.424Z
+updated: 2025-01-18T17:43:48.029Z
 tags:
   - laptops
 categories:
@@ -26,19 +26,23 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to take screenshots on any laptop
 
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 1: The old fashioned way**
 
@@ -52,6 +56,10 @@ The button can be just about anywhere, so just look for something that looks as 
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Paste your screenshot
 
 Once you've captured your display, the easiest way to edit and save it is by pasting it into an image editing app. If you've got Photoshop, that'll work, but since most people don't have access to such pro software, a much easier, free option works, too: Microsoft Paint.
@@ -63,10 +71,6 @@ From here, you can edit the image, resize it, crop it, and save it. You've now g
 An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
@@ -96,26 +100,22 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
@@ -157,24 +157,22 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-time-lapses-with-iphone/"><u>[New] 2024 Approved The Ultimate Guide to Time-Lapses with iPhone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-digital-dollars-crafting-an-online-wealth-journey/"><u>[New] In 2024, Digital Dollars Crafting an Online Wealth Journey</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-android-lens-mastery-techniques-and-apps/"><u>[Updated] Android Lens Mastery Techniques & Apps</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-enhancing-social-media-with-vimeo-content-on-instagram/"><u>2024 Approved Enhancing Social Media with Vimeo Content on Instagram</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/bigo-live-intro-video-details-area-px-format-run-for-2024/"><u>Bigo Live Intro Video Details Area (Px²), Format, Run for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/chinese-semiconductor-firm-cxmt-targets-ai-market-with-innovative-hbm-memory-solutions-paving-the-path-to-independence/"><u>Chinese Semiconductor Firm CXMT Targets AI Market with Innovative HBM Memory Solutions, Paving the Path to Independence</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/detailed-analysis-performance-metrics-of-toms-computer-components/"><u>Detailed Analysis: Performance Metrics of Tom's Computer Components</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevating-video-visibility-through-thumbnails-for-2024/"><u>Elevating Video Visibility Through Thumbnails for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo Y02T? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-hardware-analysis-with-tom-the-ultimate-gadget-guide/"><u>In-Depth Hardware Analysis with Tom - The Ultimate Gadget Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gadget-hub-a-deep-dive-into-latest-hardware-technology-and-reviews/"><u>Inside Tom's Gadget Hub: A Deep Dive Into Latest Hardware Technology & Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-samsungs-game-changing-32gb-ddr5-ic-technology-for-next-gen-1tb-memory-devices/"><u>Introducing Samsung's Game-Changing 32GB DDR5 IC Technology for Next-Gen 1TB Memory Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-gadgetry-with-tom-in-depth-reviews-and-tips-on-pc-components/"><u>Navigating Gadgetry with Tom: In-Depth Reviews and Tips on PC Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computing-with-toms-technology-insights/"><u>Navigating the World of Computing with Tom's Technology Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/optimize-your-pc-crucial-ddr5-ram-updates-for-gigabyte-motherboards/"><u>Optimize Your PC: Crucial DDR5 RAM Updates for Gigabyte Motherboards</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/real-time-recording-rivals-obs-and-shadowtoolkit/"><u>Real-Time Recording Rivals OBS & ShadowToolKit</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/safe-mp3-extraction-three-methods-for-youtube-audio-conversion-for-2024/"><u>Safe MP3 Extraction Three Methods for YouTube Audio Conversion for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-china-based-semiconductor-producer-pursues-enhanced-funding-for-195-billion-goal-ipo-deferred/"><u>Top China-Based Semiconductor Producer Pursues Enhanced Funding for $19.5 Billion Goal, IPO Deferred</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-10-premier-websites-to-access-high-quality-bgm-libraries/"><u>Updated 2024 Approved 10 Premier Websites to Access High-Quality BGM Libraries</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-essential-guides-to-the-top-10-student-focused-history-vlogs/"><u>[New] In 2024, Essential Guides to the Top 10 Student-Focused History Vlogs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-strategies-for-incorporating-secondary-shots-in-filmmaking/"><u>[New] Strategies for Incorporating Secondary Shots in Filmmaking</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-elite-group-of-high-speed-video-snapshot-apps/"><u>[Updated] In 2024, Elite Group of High-Speed Video Snapshot Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-the-secrets-of-your-lost-iphone-x/"><u>2024 Approved Unlock the Secrets of Your Lost iPhone X</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-reviews-and-comparisons-by-toms-gear-experts/"><u>Advanced Reviews & Comparisons by Tom's Gear Experts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/economical-aerial-aviators-affordable-drones-guide-(500-for-2024/"><u>Economical Aerial Aviators Affordable Drones Guide <$500 for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-a-comprehensive-gadget-guide/"><u>Inside Tom's Hardware: A Comprehensive Gadget Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/is-the-asus-rog-keris-ii-ace-a-worthy-successor-to-the-legendary-ragedeathadder-v3-pro-full-review-inside/"><u>Is the Asus ROG Keris II Ace a Worthy Successor to the Legendary RageDeathAdder V3 Pro? Full Review Inside</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-gen-processors-faceoff-the-ryzen-5-9600x-vs-ryzen-n-7-9700x-review-for-ultimate-gaming-experience-on-zen-5-architecture/"><u>Next-Gen Processors Faceoff: The Ryzen 5 9600X Vs. Ryzen N 7 9700X Review for Ultimate Gaming Experience on Zen 5 Architecture</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pnyrp60review-great-performance-or-just-good-enough-for-a-1tb-flash-drive/"><u>PNY_RP60_Review - Great Performance or Just Good Enough for a 1TB Flash Drive?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solid-reliability-meets-space-saving-in-our-6tb-my-passport-review/"><u>Solid Reliability Meets Space Saving in Our 6TB My Passport Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-and-hardware-analysis/"><u>Tom's Tech Reviews: Comprehensive Insights and Hardware Analysis</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-honor-x8b-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Honor X8b Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-vivo-by-fonelab-android-recover-data/"><u>Undelete lost data from Vivo</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-tech-secrets-with-toms-hardware-insights/"><u>Unlocking Tech Secrets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-take-your-videos-to-the-next-level-adding-effects-in-fcp-x-3-steps/"><u>Updated Take Your Videos to the Next Level Adding Effects in FCP X (3 Steps)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-11-compatible-how-to-download-and-update-your-amd-radeon-hd-7870-graphics-card-drivers/"><u>Windows 11 Compatible - How to Download & Update Your AMD Radeon HD 7870 Graphics Card Drivers</u></a></li>
 </ul></div>
 

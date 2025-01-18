@@ -1,7 +1,7 @@
 ---
 title: $20 Anker Charger Review - The Ultimate Solution to Portable Power Woes!
-date: 2024-09-18 11:18:37
-updated: 2024-09-20 11:32:37
+date: 2025-01-15T17:20:23.043Z
+updated: 2025-01-18T18:57:16.286Z
 tags:
   - mobile-accessories
 categories:
@@ -16,6 +16,10 @@ The new generation of iPhones are here and features a new action button, more AI
 **Also:** [**Preorder the iPhone 16 now (and even get one for free) - here's how**](https://www.zdnet.com/article/preorder-the-iphone-16-now-and-even-get-one-for-free-heres-how/)
 
 It's no secret that iPhones aren't the most rugged devices, sometimes yielding screen cracks and camera damage from simple drops. Luckily, ZDNET editors have gone hands-on with iPhone 16 cases to see how they match up. No matter your needs -- drop protection, style _with_ durability, or functionality -- we've got you covered. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case right now?
 
@@ -88,6 +92,10 @@ Pros
 Cons 
 * Minimal drop protection
 * Heftier price
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pitaka Ultra Slim case
 
@@ -224,6 +232,10 @@ Cons
 * Unsure on sustainability
 * Only for Pro models
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Nomad Modern Leather Case
 
 #### Best leather case for iPhone 16
@@ -285,13 +297,25 @@ However, if you stray from the list, the best options are those with a solid bum
 
 Unfortunately, there isn't such a thing as the best phone case brand. Many sources point to Spigen and Otterbox as the most popular phone case brands with the most units sold. That, however, does not necessarily mean they are the best brands. It is ultimately up to you and your lived experience and opinion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What case material is best for iPhone?
 
 Materials like plastic or polycarbonate usually offer the best price and durability. Other cases made from leather or metal can be pricier and may not offer the best protection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is the iPhone 16 available?
 
 The iPhone 16 is available for preorder now, and will arrive in stores on September 20.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best phone case to avoid overheating?
 
@@ -300,6 +324,10 @@ If your phone has the problem of overheating, it may be best to look into specia
 ## What is the best iPhone for a 16 year old?
 
 This is a good question, and if we had to chime in, we would say something more durable. A study by tech protection service Asurion in 2013 that [3 out of 10 teenagers have dropped](https://www.prnewswire.com/news-releases/3-out-of-10-teens-damaged-cell-phones-in-the-last-18-months-mainly-at-school-218494391.html#:~:text=A%20back%2Dto%2Dschool%20survey,most%20accidents%20happening%20at%20school.) and/or damaged their cell phones in the past 18 months. Ten years later, many phones are even less durable. Therefore, that number may be higher, especially if teenagers have more phones than ever. To prevent damage to your teen's phone, it may be wise to invest in a durable case that protects the device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 16 cases worth considering?
 
@@ -338,11 +366,33 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-decreasing-obs-stream-quality/"><u>[New] Decreasing OBS Stream Quality</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-which-screen-recorder-prevails-bandicam-vs-camtasia-in-2024/"><u>[New] Which Screen Recorder Prevails Bandicam vs Camtasia, In 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-deciphering-the-divergent-aspects-of-youtubes-and-dailymentions/"><u>[Updated] Deciphering the Divergent Aspects of YouTubes & DailyMentions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtubes-flawless-beauty-masterclass-skincare-hairdos-and-cosmetics/"><u>[Updated] YouTube's Flawless Beauty Masterclass Skincare, Hairdos & Cosmetics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-nfts-with-minimal-hassle-an-introductory-handbook/"><u>2024 Approved Crafting NFTs with Minimal Hassle An Introductory Handbook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-leading-8-multimedia-apps-for-creative-phones-android-ios/"><u>2024 Approved The Leading 8 Multimedia Apps for Creative Phones (Android, iOS)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-electronics-with-toms-review-comprehensive-hardware-guides/"><u>Dive Into Electronics with Tom’s Review: Comprehensive Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-guide-to-ram-overclocking-on-asus-rog-strix-x399-evo-how-fast-should-you-go/"><u>Essential Guide to RAM Overclocking on ASUS ROG Strix X399-EVO: How Fast Should You Go?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computing-with-tom-a-guide-by-toms-hardware-experts/"><u>Exploring the World of Computing with Tom - A Guide by Tom's Hardware Experts</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-itel-p40-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Itel P40 Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964462380-introducing-galaxs-new-high-performance-motherboards-with-ddr5-powerful-vrm-and-pmic-features/"><u>Introducing Galax's New High-Performance Motherboards with DDR5, Powerful VRM & PMIC Features!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-circuitry-expert-insights-from-toms-electronics-hub/"><u>Navigating the Circuitry: Expert Insights From Tom's Electronics Hub</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/step-by-step-process-to-record-movies-on-multiple-platforms-for-2024/"><u>Step-By-Step Process to Record Movies on Multiple Platforms for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-hardware-insights/"><u>Tom's Tech Reviews: Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-gadget-insights-and-performance-analysis/"><u>Tom's Tech Reviews: Expert Gadget Insights and Performance Analysis</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-10-must-play-titles-on-the-steam-deck/"><u>Top 10 Must-Play Titles on the Steam Deck</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleashing-the-power-of-intels-core-i9-11900k-achieving-7ghz-overclock-with-advanced-ln2-techniques/"><u>Unleashing the Power of Intel's Core I9-11900K: Achieving 7GHz Overclock with Advanced LN2 Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-tom-the-ultimate-guide-to-modern-electronics/"><u>Unveiling Gadgets with Tom: The Ultimate Guide to Modern Electronics</u></a></li>
+</ul></div>
+

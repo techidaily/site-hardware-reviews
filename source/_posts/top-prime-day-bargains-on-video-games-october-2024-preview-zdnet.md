@@ -1,7 +1,7 @@
 ---
 title: Top Prime Day Bargains on Video Games - October 2024 Preview | ZDNet
-date: 2025-01-06T16:00:48.987Z
-updated: 2025-01-12T19:11:05.745Z
+date: 2025-01-13T18:16:54.041Z
+updated: 2025-01-18T18:40:38.276Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ Brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-day-sam
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite early Amazon October Prime Day gaming deals
 
@@ -107,6 +103,10 @@ ZDNET
 * [MSI Claw 512GB for $642 (save $108)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Claw-Gaming-Handheld-Thunderbolt%2Fdp%2FB0CXG3DBQV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbc1f7edf-81a4-4534-9303-556e2681d1c0%7Cdtp&dtb=1): Built with an Intel Core Ultra 7 CPU, 16GB of RAM, a 512GB SSD, and a 7-inch display, the MSI Claw rivals the Steam Deck handheld gaming PC in power and performance.
 * [Amazon eero Pro 6E mesh Wi-Fi router 3-pack for $350 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-eero-Wi-Fi-router-newest%2Fdp%2FB091G64GVK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbc1f7edf-81a4-4534-9303-556e2681d1c0%7Cdtp&dtb=1): This mesh Wi-Fi system is rated for up to 2,000 square feet of coverage and supports both wireless and hardwired Ethernet connectivity at 1.6 Gbps and 2.5Gbps, respectively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day PlayStation 5 deals
 
 ZDNET
@@ -144,7 +144,7 @@ ZDNET
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $195 (save $75 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbc1f7edf-81a4-4534-9303-556e2681d1c0%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
@@ -173,7 +173,7 @@ Nintendo/ZDNET
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals
@@ -226,23 +226,23 @@ Samsung/ZDNET
 * [Asus Nvidia GeForce RTX 4070 Overclock for $580 (save $100 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6540002.p%3FskuId%3D6540002&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This Nvidia-based GPU offers 12GB of DDR6 VRAM, a base clock speed of 2.55GHz that can be overclocked to 2.58GHz, 8K video output support, and support for up to 4 displays.
 * [Asus TUF Nvidia GeForce RTX 3080 Ti for $925 (save $472 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FTUF-NVIDIA-GeForce-RTX-3080-TI-Graphic-Card-12-GB-GDDR6-384-bit-Bus-Width-PCI-Express-4-0-DisplayPort-HDMI%2F994157887%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) Nvidia's high-end 30 Series graphics card offers 12GB of VRAM, military-grade capacitors for better power efficiency, and support for up to 4 displays.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -313,18 +313,16 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-mini-2-and-air-2s-luts-free-trial-then-paid-upgrade/"><u>[New] In 2024, Mini 2 & Air 2S LUTS - Free Trial, Then Paid Upgrade</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-achieving-instagram-recognition-swiftly-for-2024/"><u>[Updated] Achieving Instagram Recognition Swiftly for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-simply-save-your-streamed-content-with-these-premium-tools/"><u>[Updated] Simply Save Your Streamed Content with These Premium Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-step-by-step-instructions-for-crafting-and-installing-whatsapp-alerts/"><u>[Updated] Step-By-Step Instructions for Crafting & Installing WhatsApp Alerts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/hasty-handlings-of-slideshow-documentation-for-2024/"><u>Hasty Handlings of Slideshow Documentation for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-infinix-smart-8-plus-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Infinix Smart 8 Plus Screen | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/subtlety-savvy-sound-settings-for-garageband-for-2024/"><u>Subtlety Savvy Sound Settings for Garageband for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-4-techniques-for-resolving-video-graininess-issues/"><u>Top 4 Techniques for Resolving Video Graininess Issues</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/transform-your-android-lockscreen-into-an-iphone-inspired-display/"><u>Transform Your Android Lockscreen Into an iPhone-Inspired Display</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/transform-your-web-surfing-experience-easily-changing-to-a-new-browser-on-android-phones-and-tablets/"><u>Transform Your Web Surfing Experience: Easily Changing to a New Browser on Android Phones and Tablets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/troubleshooting-play-store-connectivity-issues-on-your-amazon-fire-device/"><u>Troubleshooting: Play Store Connectivity Issues on Your Amazon Fire Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-disabling-mobile-data-usage-for-specific-apps-on-android-devices/"><u>Ultimate Guide: Disabling Mobile Data Usage for Specific Apps on Android Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-t-mobiles-intra-network-roaming-guidelines/"><u>Understanding T-Mobile's Intra-Network Roaming Guidelines</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-pro-screen-recorder-battle-top-selections-unveiled/"><u>[New] 2024 Approved Pro Screen Recorder Battle Top Selections Unveiled</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-top-tips-on-selecting-free-audio-tracks-for-your-yt-clips-for-2024/"><u>[Updated] Top Tips on Selecting Free Audio Tracks for Your YT Clips for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-captivating-cinematic-experiences-exploring-top-6-genres/"><u>2024 Approved Captivating Cinematic Experiences Exploring Top 6 Genres</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deep-dive-into-electronics-with-tom-an-authority-on-hardware/"><u>Deep Dive Into Electronics with Tom - An Authority on Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-more-bang-for-your-buck-with-the-acer-predator-orion-5000-review-elite-performance-without-breaking-the-bank/"><u>Get More Bang for Your Buck with the Acer Predator Orion 5000 Review: Elite Performance Without Breaking the Bank</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-community-shared-music-collections-copyright-free/"><u>In 2024, Community-Shared Music Collections (Copyright-Free)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pny-rp60-1tb-usb-flash-drive-assessment-solid-performance-with-no-distinct-advantages/"><u>PNY RP60 1TB USB Flash Drive Assessment: Solid Performance with No Distinct Advantages</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/"><u>Tom's Tech Insights: Exploring the Latest in Hardware Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-presidents-day-savings-unbeatable-discounts-on-amazon-walmart-and-best-buy-exclusive-list/"><u>Top President's Day Savings: Unbeatable Discounts on Amazon, Walmart & Best Buy - Exclusive List</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-move-over-virtualdub-exploring-the-latest-video-editing-innovations-for-2024/"><u>Updated Move Over Virtualdub Exploring the Latest Video Editing Innovations for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-guide-to-high-performance-pcs-with-toms-hardware-insights/"><u>Your Guide to High-Performance PCs with Tom's Hardware Insights</u></a></li>
 </ul></div>
 

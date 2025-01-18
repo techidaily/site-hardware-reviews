@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to iPhone 15 Cases : Features and Reviews Tested by Professionals | ZDNet"
-date: 2024-09-18 22:44:38
-updated: 2024-09-20 11:25:28
+date: 2025-01-12T17:53:22.679Z
+updated: 2025-01-18T16:43:30.210Z
 tags:
   - mobile-accessories
 categories:
@@ -35,13 +35,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to transform a Flipper Zero into an Apple AirTag
 
 **What you'll** **need**: A Flipper Zero, an Apple AirTag (or [tracker from another brand](https://www.zdnet.com/article/best-bluetooth-tracker/)), an [iPhone](https://www.zdnet.com/article/best-iphone/) and an [Android phone](https://www.zdnet.com/article/best-android-phone/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install Momentum firmware
 
 First, install the Momentum firmware on your Flipper Zero. The most straightforward method is to use the web installer, but rest assured, you can revert to the stock firmware at any point [using the desktop or mobile app](https://flipperzero.one/downloads). Simply navigate to the [Momentum web installer page](https://momentum-fw.dev/update/), connect your Flipper Zero, and follow the prompts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Downloading FindMy Flipper
 
@@ -50,6 +62,10 @@ Once installed, you'll discover a host of new applications on your Flipper Zero,
 **Also: [Flipper Zero: 'Can you really hack Wi-Fi networks?' and other questions answered](https://www.zdnet.com/home-and-office/flipper-zero-can-you-really-hack-wi-fi-networks-and-other-questions-answered/)**
 
 The app leverages the Flipper Zero's Bluetooth capabilities to act as an Apple AirTag, (or if you prefer, a Samsung SmartTag or Tile tag, but that process is even more cumbersome). It uses the Flipper Zero Bluetooth low energy (BLE) beacon to broadcast a signal that can be picked up by iPhones and sent back to Apple for viewing in the FindMy app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Setting up the Flipper Zero
 
@@ -60,6 +76,10 @@ You'll need an AirTag, an iPhone, and an Android smartphone to follow along.
 **Also: [How to unlock the Flipper Zero's true power](https://www.zdnet.com/article/how-to-unlock-the-flipper-zero-true-power/)**
 
 I've personally gone through these steps multiple times and can confirm their effectiveness. But precision is key -- make sure to follow each step meticulously. A single misstep is enough to stop this from working and leave you scratching your head.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Using custom Python scripts (and why you should)
 
@@ -90,11 +110,31 @@ This brings me to one of the things that I really like about the [Flipper Zero](
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-seamless-integration-of-phone-and-pc-timelines-with-zoom-meetings/"><u>[New] Seamless Integration of Phone & PC Timelines with Zoom Meetings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-vlc-utility-guide-for-mp4-to-multiple-file-types-transformation/"><u>[New] VLC Utility Guide for MP4 to Multiple File Types Transformation</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-bridging-the-gap-between-social-platform-and-streaming-devices-for-2024/"><u>[Updated] Bridging the Gap Between Social Platform and Streaming Devices for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-innovative-facebook-enhancement-using-letterbox-technique/"><u>2024 Approved Innovative Facebook Enhancement Using Letterbox Technique</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-quick-tips-for-capturing-gotomeeting-conversations/"><u>2024 Approved Quick Tips for Capturing GoToMeeting Conversations</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driverless-woes-in-windows-1187-heres-how-you-can-resolve-it-easily/"><u>Driverless Woes in Windows 11/8/7? Here's How You Can Resolve It Easily</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862743546-experience-enhanced-productivity-top-tier-lg-34-curved-display-awaits-for-an-unbeatable-price-of-499/"><u>Experience Enhanced Productivity: Top-Tier LG 34 Curved Display Awaits for an Unbeatable Price of $499!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-on-your-mac-heres-how-you-can-resolve-this-common-issue/"><u>No Sound on Your Mac? Here's How You Can Resolve This Common Issue</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oneplus-nord-ce-3-lite-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass OnePlus Nord CE 3 Lite 5G FRP</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-x50i-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor X50i</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-guide-to-the-latest-hardware/"><u>Tom's Tech Review: In-Depth Guide to the Latest Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-insights-from-the-leading-hardware-experts/"><u>Tom's Tech Reviews: Insights From the Leading Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transform-your-workstation-the-highly-rated-samsung-pixel-dense-viewfinity-s9-monitor-27-ips-display-and-integrated-4k-camera-at-an-unmatchable-899-price-se39/"><u>Transform Your Workstation: The Highly Rated Samsung Pixel-Dense ViewFinity S9 Monitor - 27 IPS Display & Integrated 4K Camera at an Unmatchable $899 Price – Secure 44% Off Today!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-of-value-priced-4k-monitors/"><u>Ultimate Selection of Value-Priced 4K Monitors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-tech-the-ultimate-resource-hub-by-toms-experts/"><u>Unveiling New Tech: The Ultimate Resource Hub by Tom’s Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-guided-by-toms-expertise/"><u>Unveiling the Latest in Hardware - Guided by Tom's Expertise</u></a></li>
+</ul></div>
+

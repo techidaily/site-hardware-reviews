@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Decision Alert: Comparing the New M2 to M3 MacBook Air From Apple | Tech Insights"
-date: 2025-01-08T02:17:00.036Z
-updated: 2025-01-12T18:28:03.488Z
+date: 2025-01-17T18:09:21.425Z
+updated: 2025-01-18T17:17:49.914Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple is _officially_ in the AI PC race
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -67,7 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -110,20 +110,20 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-a-tweet-to-snap-showcase-video-posting-techniques/"><u>[Updated] A Tweet-to-Snap Showcase Video Posting Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-sound-transformation-tools-magic-edition-included/"><u>[Updated] Leading Sound Transformation Tools, Magic Edition Included</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/android-device-longevities-forecasting-update-support-duration/"><u>Android Device Longevities: Forecasting Update Support Duration</u></a></li>
-<li><a href="https://techtrends.techidaily.com/defeating-the-blue-screen-expert-tips-for-fixing-critical-errors/"><u>Defeating the Blue Screen: Expert Tips for Fixing Critical Errors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/educational-transformation-the-vr-revolution/"><u>Educational Transformation The VR Revolution</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-team-error-80080300-in-windows-11/"><u>Eliminating Team Error 80080300 in Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-latest-realtek-rtl81er-wi-fi-driver-for-windows-11-and-7-free-download/"><u>Install Latest Realtek RTL81er Wi-Fi Driver for Windows 11 & 7 - Free Download</u></a></li>
-<li><a href="https://win-premium.techidaily.com/mastering-the-basics-of-blockchain-a-beginners-guide-by-yl-computing/"><u>Mastering the Basics of Blockchain: A Beginner's Guide by YL Computing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-lenovo-chromebox-mini-a-new-compact-powerhouse-for-diy-enthusiasts-and-tech-explorers/"><u>The Lenovo Chromebox Mini: A New Compact Powerhouse for DIY Enthusiasts and Tech Explorers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-keychron-q1eron-max-perfectly-balanced-for-every-user/"><u>The Ultimate Guide to the Keychron Q1eron Max - Perfectly Balanced for Every User!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-6-indicators-of-poor-pc-cable-organization-avoid-the-chaos/"><u>Top 6 Indicators of Poor PC Cable Organization – Avoid the Chaos!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-rated-2024-outdoor-surveillance-cameras-a-comprehensive-guide/"><u>Top Rated 2024 Outdoor Surveillance Cameras: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-electronics-sale-exclusive-offers-on-beats-solo-headphones-djis-premium-quadcopter-drone-plus-immersive-bose-television-soundbars/"><u>Ultimate Electronics Sale: Exclusive Offers on Beats Solo Headphones, DJI's Premium Quadcopter Drone, Plus Immersive Bose Television Soundbars!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-choosing-the-ideal-bluetooth-speaker-in-2e24/"><u>Ultimate Guide to Choosing the Ideal Bluetooth Speaker in 2E24</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-a-thunderous-sound-discover-sonys-revolutionary-ult-lineup-for-superior-bass-quality-in-speakers-and-headsets/"><u>Unleash a Thunderous Sound: Discover Sony's Revolutionary ULT Lineup for Superior Bass Quality in Speakers and Headsets</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-camera-to-canvas-getting-started-with-lunapic/"><u>[New] From Camera to Canvas Getting Started with LunaPic</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-precise-practices-streamlined-capturing-for-dell-devices/"><u>[Updated] Precise Practices Streamlined Capturing for Dell Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premiere-pro-vanishing-art/"><u>2024 Approved Premiere Pro Vanishing Art</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-beginners-guide-to-indonesian-social-etiquette/"><u>A Beginner's Guide to Indonesian Social Etiquette</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-pg2/"><u>ASRock PG2</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-evaluation-how-the-bookarc-flex-by-twelve-south-stands-up-to-competition-as-a-macbook-accessory/"><u>Comprehensive Evaluation: How the BookArc Flex by Twelve South Stands Up to Competition as a MacBook Accessory</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-hp-laserjet-1018-printer-software/"><u>Download the Latest HP LaserJet 1018 Printer Software</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-tech-insights-at-toms-hardware/"><u>In-Depth Reviews & Tech Insights at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-sabrent-rocket-nano-2242-1tb-ssd-evaluation-the-ultimate-m2-pcie-gen3-x4-storage-solution/"><u>In-Depth Sabrent Rocket Nano 2242 1TB SSD Evaluation – The Ultimate M.2 PCIe Gen3 X4 Storage Solution</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-s23-ultra-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy S23 Ultra Screen | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-launch-issues-with-division-2-updated-tips-for-players/"><u>Solving Launch Issues with Division #2 - Updated Tips for Players</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-chronicles-in-depth-analysis-of-cutting-edge-hardware/"><u>Tom's Computer Chronicles: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-performance-showdown-gskill-trident-z5-rgb-ddr5-6400mhz-c3248gb-memory-kit-review-compatible-with-dual-channel-motherboards/"><u>Ultimate Performance Showdown: G.SKILL Trident Z5 RGB DDR5 6400MHz C32/48GB Memory Kit Review - Compatible with Dual-Channel Motherboards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-with-toms-technology-insights/"><u>Unveiling the Latest in Hardware with Tom's Technology Insights</u></a></li>
 </ul></div>
 

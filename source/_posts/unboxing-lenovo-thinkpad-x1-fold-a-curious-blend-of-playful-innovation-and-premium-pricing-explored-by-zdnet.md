@@ -1,7 +1,7 @@
 ---
 title: "Unboxing Lenovo ThinkPad X1 Fold: A Curious Blend of Playful Innovation & Premium Pricing Explored by ZDNet"
-date: 2025-01-06T18:53:31.574Z
-updated: 2025-01-12T19:58:32.021Z
+date: 2025-01-15T19:20:05.832Z
+updated: 2025-01-18T16:16:37.395Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Max Buondonno/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ The new version has an improved design, upgraded specs, and a similarly high ask
 [ZDNET RECOMMENDS Lenovo ThinkPad X1 Fold With a huge 16.3-inch foldable screen and a durable design, the ThinkPad X1 Fold is an interesting look at the future of laptops. View at Bhphotovideo](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1795356-REG%2Flenovo%5F21es001wus%5F16%5F3%5Fthinkpad%5Fx1%5Ffold.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -122,7 +122,7 @@ Surprisingly, Windows 11 runs well on the ThinkPad X1 Fold, with one huge except
 It's usable, sure, but it's a very weird bug that's likely caused by the weird form factor of the X1 Fold. It's hard for Windows to figure out when you want to use it as a tablet and when you want to use it as a laptop. The only time it gets it right is when you use the device in clamshell mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -161,24 +161,24 @@ I'm not going to lie, I'll miss the X1 Fold when I send my review unit back. Hav
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-navigating-close-shots-avoiding-distortion-in-videoleap-videos/"><u>[New] 2024 Approved Navigating Close Shots Avoiding Distortion in Videoleap Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-affordable-asmr-capturing-selecting-premium-gear-for-budget-conscious-users/"><u>[New] Affordable ASMR Capturing Selecting Premium Gear for Budget-Conscious Users</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-cutting-edge-graphic-amendments-for-2024/"><u>[New] Cutting-Edge Graphic Amendments for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjust-network-settings-a-guide-for-win11/"><u>Adjust Network Settings: A Guide for Win11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/aocs-game-changer-in-depth-analysis-of-the-agon-pro-ag456uczd-a-stunning-45-ultra-wide-oled-gaming-monitor-with-extremely-curved-edges-for-optimal-immersion19/"><u>AOC's Game Changer: In-Depth Analysis of the Agon Pro AG456UCZD - A Stunning 45 Ultra-Wide OLED Gaming Monitor With Extremely Curved Edges for Optimal Immersion and Unmatched Speed!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-look-at-the-innovative-lian-li-hydroshift-lcd-case-for-pcs/"><u>Comprehensive Look at the Innovative Lian Li Hydroshift LCD Case for PCs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-asus-rog-rapture-gt-be98-pro-wi-fi-router-the-ultimate-review-on-performance-and-scalability/"><u>Dive Into the Asus ROG Rapture GT-BE98 Pro Wi-Fi Router - The Ultimate Review on Performance and Scalability</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elegoo-saturn-4-ultra-pioneering-progress-and-breakthroughs-in-the-realm-of-high-quality-resin-printing/"><u>Elegoo Saturn 4 Ultra: Pioneering Progress and Breakthroughs in the Realm of High-Quality Resin Printing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-pc-components-with-toms-hardware-experts/"><u>Exploring the Latest in PC Components with Tom's Hardware Experts</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-latest-dell-xps-amoeba-9345-classic-style-enhanced-by-snapdragon-x-elite-chipset/"><u>In-Depth Analysis of the Latest Dell XPS Amoeba (9345): Classic Style Enhanced by Snapdragon X Elite Chipset</u></a></li>
-<li><a href="https://techtrends.techidaily.com/learn-languages-easily-our-pick-of-the-best-five-free-apps-2024-edition/"><u>Learn Languages Easily: Our Pick of the Best Five Free Apps - 2024 Edition</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/mastering-file-conversions-with-convertio-top-four-must-know-facts/"><u>Mastering File Conversions with Convertio: Top Four Must-Know Facts</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/procedura-tworzenia-kopii-dyskow-zapasowych-dla-systemow-windows-111087-jak-biegnie-to/"><u>Procedura Tworzenia Kopii Dysków Zapasowych Dla Systemów Windows 11/10/8/7 - Jak Biegnie To</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-pc-performance-a-deep-dive-into-teamgroup-t-force-dark-airflow-i-ssd-cooler-capabilities/"><u>Revolutionize Your PC Performance: A Deep Dive Into TeamGroup T-Force Dark AirFlow I SSD Cooler Capabilities</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-affordable-gaming-mice-find-your-match-below-60-techradar/"><u>Top Affordable Gaming Mice - Find Your Match Below $60 | TechRadar</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-picks-in-pc-components-by-tech-savvy-tom/"><u>Top Picks in PC Components by Tech Savvy Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-asus-rog-azoth-extreme-top-review-for-your-money-saving-search/"><u>Unboxing the Asus ROG Azoth Extreme: Top Review for Your Money-Saving Search</u></a></li>
-<li><a href="https://win-docs.techidaily.com/upgrade-your-game-asus-tuf-gaming-a15-series-solid-state-drive-enhancement-options/"><u>Upgrade Your Game: ASUS TUF Gaming A15 Series Solid-State Drive Enhancement Options</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discover-youtubes-frame-advantage-five-free-tools/"><u>[New] 2024 Approved Discover YouTube's Frame Advantage - Five Free Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-innovative-interface-intensity/"><u>[New] In 2024, Innovative Interface Intensity</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-secrets-of-professional-level-iptv-capturing/"><u>[Updated] Secrets of Professional-Level IPTV Capturing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-mp4mpl2s-creation-from-twitter-videos/"><u>2024 Approved MP4/MPL2S Creation From Twitter Videos</u></a></li>
+<li><a href="https://app-tips.techidaily.com/apple-unveils-revolutionary-passkey-at-wwdc-2022-a-new-era-of-authentication-begins-tech-news/"><u>Apple Unveils Revolutionary Passkey at WWDC 2022 - A New Era of Authentication Begins | Tech News</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-the-latest-atx-board-from-maxsun-the-stylish-high-capacity-z790m-d5-ice-with-5x-m2-options/"><u>Comprehensive Guide to The Latest ATX Board From Maxsun: The Stylish, High-Capacity Z790M D5 Ice with 5X M.2 Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-the-new-apple-m3-pro-and-max-chipsets-insights-for-savvy-shoppers/"><u>Comprehensive Guide to the New Apple M3, Pro, and Max Chipsets: Insights for Savvy Shoppers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-id-cooling-fx360-pro-cpu-cooler-great-performance-at-only-60/"><u>Expert Analysis of ID-Cooling FX360 Pro Cpu Cooler - Great Performance at Only $60!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-computer-hardware-from-toms-resource-hub/"><u>Expert Insights Into Computer Hardware From Tom's Resource Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-top-hardware-solutions-discover-insights-at-toms-tech-hub/"><u>Exploring Top Hardware Solutions – Discover Insights at Tom's Tech Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-changer-in-depth-analysis-and-testing-of-the-lightning-fast-logiteche-g-pro-x-2-keyboard-perfect-for-hardcore-players/"><u>Game Changer: In-Depth Analysis and Testing of the Lightning-Fast Logiteche G Pro X 2 Keyboard - Perfect for Hardcore Players</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-3d-creations-with-elegoo-saturn-4-ultra-an-in-depth-assessment/"><u>Mastering the Art of 3D Creations with Elegoo Saturn 4 Ultra: An In-Depth Assessment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-malfunctions-on-hp-computers-with-windows-11-solutions/"><u>Resolving Audio Malfunctions on HP Computers with Windows 11 Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-iphones-silent-mode-a-step-by-step-guide/"><u>Solving iPhone's Silent Mode: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-in-depth-tech-reviews/"><u>Tom's Computer Components | In-Depth Tech Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-your-ultimate-guide-to-computer-components/"><u>Tom's Tech Reviews: Your Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-corsair-mp600-mini-1tb-ssd-top-pick-for-e27t-m2-drives/"><u>Ultimate Guide to Corsair MP600 Mini 1TB SSD - Top Pick for E27T M.2 Drives</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unlocking-your-channels-potential-the-cost-analysis-for-2024/"><u>Unlocking Your Channel's Potential The Cost Analysis for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-gadgets-a-dive-into-toms-hardware-analyses/"><u>Unveiling Cutting-Edge Gadgets - A Dive Into Tom's Hardware Analyses</u></a></li>
 </ul></div>
 

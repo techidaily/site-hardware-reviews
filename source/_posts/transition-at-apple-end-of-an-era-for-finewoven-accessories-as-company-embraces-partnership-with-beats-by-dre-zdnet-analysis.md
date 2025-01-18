@@ -1,7 +1,7 @@
 ---
 title: "Transition at Apple: End of an Era for FineWoven Accessories as Company Embraces Partnership with Beats by Dre | ZDNET Analysis"
-date: 2024-09-19 14:36:52
-updated: 2024-09-20 12:59:15
+date: 2025-01-13T18:46:10.031Z
+updated: 2025-01-18T16:07:54.219Z
 tags:
   - mobile-accessories
 categories:
@@ -16,6 +16,10 @@ The new generation of iPhones are here and features a new action button, more AI
 **Also:** [**Preorder the iPhone 16 now (and even get one for free) - here's how**](https://www.zdnet.com/article/preorder-the-iphone-16-now-and-even-get-one-for-free-heres-how/)
 
 It's no secret that iPhones aren't the most rugged devices, sometimes yielding screen cracks and camera damage from simple drops. Luckily, ZDNET editors have gone hands-on with iPhone 16 cases to see how they match up. No matter your needs -- drop protection, style _with_ durability, or functionality -- we've got you covered. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case right now?
 
@@ -62,6 +66,10 @@ Pros
 Cons 
 * Kickstand durability
 * Not many color options
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Torras 360-degree OStand
 
@@ -115,6 +123,10 @@ Pros
 Cons 
 * Low drop protection
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Smartish Gripmunk case
 
 #### Best cheap iPhone 16 case
@@ -140,6 +152,10 @@ Pros
 
 Cons 
 * Pricier
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mous Limitless 6.0
 
@@ -271,15 +287,27 @@ We kept in mind the most important factors when choosing the best iPhone 16 case
 * **Cost:** iPhones are expensive, and spending a lot on a phone case just adds to the bill. Therefore, we consider price an important factor in our selections.
 * **Special Features:** Many cases have added features like MagSafe capabilities and a kickstand. We include these products to appease those who may prefer wireless charging or other necessary features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these iPhone 16 cases?
 
 To choose these iPhone 16 cases, we performed extensive research over every corner of the internet, like Reddit forums and customer reviews, to find the best picks at the time of this writing. When we can't test a product, we rely on opinions from real people over company promises. We also receive recommendations from ZDNET experts like reviews editor Kerry Wan and editor-in-chief Jason Hiner, who have years of experience in the tech journalism field. Our picks are meant to leave the reader happy and their device healthy. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What iPhone case is most protective?
 
 On this list, the Nomad Sport case and the Torras Ostand MagSafe Case are the most protective for their drop protection and protective features. 
 
 However, if you stray from the list, the best options are those with a solid bumper and durable material. Before purchasing a case, make sure to check its drop protection and other safety features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best phone case brand?
 
@@ -338,11 +366,33 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-best-wearable-action-cameras-for-extreme-sport/"><u>[New] Best Wearable Action Cameras For Extreme Sport</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-earths-premier-online-income-tycoon/"><u>[New] In 2024, Earth’s Premier Online Income Tycoon</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-the-ins-and-outs-of-earning-from-youtube/"><u>[New] In 2024, The Ins and Outs of Earning From YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-elevate-your-digital-footprint-crafting-compelling-shorts-thumbnails/"><u>[Updated] 2024 Approved Elevate Your Digital Footprint Crafting Compelling Shorts Thumbnails</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-rhythm-for-rings-how-to-download-and-cut-tamil-melodies/"><u>[Updated] Rhythm for Rings How To Download and Cut Tamil Melodies</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-steps-for-retrieving-personal-hidden-snapchat-photos-for-2024/"><u>[Updated] Steps for Retrieving Personal, Hidden Snapchat Photos for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unlock-the-full-potential-of-pixiz-in-video-making-for-2024/"><u>[Updated] Unlock the Full Potential of Pixiz in Video Making for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-preferred-applications-vtubers-sonic-transformation-journey/"><u>2024 Approved Guide to Preferred Applications Vtuber's Sonic Transformation Journey</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-water-damage-indicators-a-guide-to-removing-liquid-alerts-from-iphones/"><u>Dealing with Water Damage Indicators: A Guide to Removing Liquid Alerts From iPhones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862766355-nice-price-drop-acers-34-curved-qhd-monitor-now-just-200-on-newegg/"><u>Nice Price Drop: Acer's 34 Curved QHD Monitor Now Just $200 on Newegg</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/silent-story-consumers-leading-anonymity-apps/"><u>Silent Story Consumers Leading Anonymity Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-new-technology-by-toms-experts/"><u>The Ultimate Guide to New Technology by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-advanced-hardware-insights-and-reviews/"><u>Tom's Tech Hub: Advanced Hardware Insights and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-ranking-round-screen-gaming-displays-of-2024/"><u>Top-Ranking Round Screen Gaming Displays of 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultra-lightweight-laptop-accessory-meet-vaios-revolutionary-visionplus-14-display-at-just-072lbs/"><u>Ultra-Lightweight Laptop Accessory: Meet Vaio's Revolutionary Vision+ 14 Display at Just 0.72Lbs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbeatable-deal-alert-gaming-powerhouse-dells-32-inch-monitor-for-just-279-on-memorial-day-weekend/"><u>Unbeatable Deal Alert! Gaming Powerhouse - Dell's 32-Inch Monitor for Just $279 on Memorial Day Weekend</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-and-pc-parts-on-toms-gear-hub/"><u>Unveiling the Latest Gadgets and PC Parts on Tom's Gear Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-pro-gamers-dream-the-27-oled-masterpiece-by-dough-spectrum-an-ultimate-review-on-precision-and-premium-gaming-experience/"><u>Unveiling the Pro Gamers' Dream - The 27 OLED Masterpiece by Dough Spectrum: An Ultimate Review on Precision & Premium Gaming Experience!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/vintage-crt-technology-hits-700hz-refresh-rate-with-reduced-display-of-only-120p/"><u>Vintage CRT Technology Hits 700Hz Refresh Rate with Reduced Display of Only 120P</u></a></li>
+</ul></div>
+

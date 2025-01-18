@@ -1,7 +1,7 @@
 ---
 title: Top-Rated iPhone 15 Protective Covers - Thoroughly Reviewed by Tech Experts | ZDNet
-date: 2024-09-17 22:40:51
-updated: 2024-09-20 10:44:45
+date: 2025-01-16T19:00:45.859Z
+updated: 2025-01-18T17:11:01.466Z
 tags:
   - mobile-accessories
 categories:
@@ -20,6 +20,10 @@ It's no secret that iPhones aren't the most rugged devices, sometimes yielding s
 ## What is the best iPhone 16 case right now?
 
 Our pick for the best iPhone 16 case right now is the [Nomad Sport Case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNOMAD%2Fpage%2F6927BCAB-A05E-40FA-ADA7-1E37C46F23E5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1b7570ec-4eb5-4b81-b155-113b9708aa83%7Cdtp&dtb=1) case. This brand has been a longtime ZDNET favorite for its sleek form factor, [MagSafe capabilities](https://www.zdnet.com/article/best-magsafe-wallets/), and drop protection without a bulky form factor. Keep reading for more of our iPhone 16 case picks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best iPhone 16 cases of 2024
 
@@ -88,6 +92,10 @@ Pros
 Cons 
 * Minimal drop protection
 * Heftier price
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pitaka Ultra Slim case
 
@@ -224,6 +232,10 @@ Cons
 * Unsure on sustainability
 * Only for Pro models
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Nomad Modern Leather Case
 
 #### Best leather case for iPhone 16
@@ -238,6 +250,10 @@ That being said, leather is not everybody's thing. But, if you are in the market
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone 16 case?
 
 Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek design and solid protection. Check out how the other options stack up below.
@@ -249,6 +265,10 @@ Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek desig
 | Latercase for iPhone 16    | $60       | No                  | Yes         |
 | Incase Icon case           | $60       | Yes                 | Yes         |
 | Nomad Modern Leather case  | $70       | Yes                 | Yes         |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which is the right iPhone 16 case for you?
 
@@ -262,6 +282,10 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Incase Icon case                | A unique and stylish case with protection and MagSafe capabilities.                                     |
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing the best iPhone 16 case
 
 We kept in mind the most important factors when choosing the best iPhone 16 cases. The most relevant aspects are:
@@ -274,6 +298,10 @@ We kept in mind the most important factors when choosing the best iPhone 16 case
 ## How did we choose these iPhone 16 cases?
 
 To choose these iPhone 16 cases, we performed extensive research over every corner of the internet, like Reddit forums and customer reviews, to find the best picks at the time of this writing. When we can't test a product, we rely on opinions from real people over company promises. We also receive recommendations from ZDNET experts like reviews editor Kerry Wan and editor-in-chief Jason Hiner, who have years of experience in the tech journalism field. Our picks are meant to leave the reader happy and their device healthy. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What iPhone case is most protective?
 
@@ -338,11 +366,29 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-spotlight-on-zdsoft-screen-capture-for-pros-for-2024/"><u>[New] Spotlight on ZDSoft Screen Capture for Pros for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-detailed-study-of-frozen-delights-playback-gadgets/"><u>[Updated] 2024 Approved Detailed Study of Frozen Delights Playback Gadgets</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ten-essential-cam-covers-to-upgrade-your-security/"><u>[Updated] 2024 Approved Ten Essential Cam Covers to Upgrade Your Security</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-final-cut-pro-unlocked-how-to-edit-for-free/"><u>2024 Approved Final Cut Pro Unlocked How to Edit for Free</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/download-premium-films-for-free-discover-the-leading-15-sites-with-ultra-hd-and-full-hd-quality-in-mp4-format/"><u>Download Premium Films for Free - Discover the Leading 15 Sites with Ultra HD and Full HD Quality in MP4 Format</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-components-insights-from-toms-hardware-team/"><u>Navigating the World of PC Components: Insights From Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-your-next-purchase-on-toms-comprehensive-hardware-guides/"><u>Navigating Your Next Purchase on Tom's Comprehensive Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/new-high-speed-z791-wifi-board-powers-splaves-record-breaking-overclocking-feats/"><u>New High-Speed Z79^1 Wifi Board Powers Splave's Record-Breaking Overclocking Feats</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/newly-launched-budget-friendly-am5-mini-itx-motherboard-with-pcie-gen-4-by-sapphire-in-china/"><u>Newly-Launched Budget-Friendly AM5 Mini ITX Motherboard with PCIe Gen 4 by Sapphire in China</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfect-your-mobile-photography-with-targeted-blurs-for-2024/"><u>Perfect Your Mobile Photography with Targeted Blurs for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protect-your-linksys-device-unlocking-the-july-2024-default-password-guide/"><u>Protect Your Linksys Device: Unlocking the July 2024 Default Password Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revealed-the-powerhouse-of-a-board-unboxing-the-declassified-evgas-amd-motherboard/"><u>Revealed: The Powerhouse of a Board - Unboxing the Declassified EVGA's AMD Motherboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sapphire-unveils-affordable-pcie-gen-4-mini-itx-am5-board-for-chinese-market/"><u>Sapphire Unveils Affordable PCIe Gen 4 Mini ITX AM5 Board for Chinese Market</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-essential-hardware-handbook-by-tom-make-informed-tech-decisions/"><u>The Essential Hardware Handbook by Tom: Make Informed Tech Decisions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/1723262427075-unbeatable-deal-purchase-the-powerful-nvidia-rtx-hemloveno-legion-desktop-for-just-2091-and-save-1058-today/"><u>Unbeatable Deal: Purchase the Powerful NVIDIA RTX Hemloveno Legion Desktop for Just $2,091 and Save $1,058 Today!</u></a></li>
+</ul></div>
+

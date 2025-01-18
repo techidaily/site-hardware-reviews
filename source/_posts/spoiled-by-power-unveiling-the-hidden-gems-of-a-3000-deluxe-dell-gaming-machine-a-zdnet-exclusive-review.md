@@ -1,7 +1,7 @@
 ---
 title: "Spoiled by Power: Unveiling the Hidden Gems of a $3,000 Deluxe Dell Gaming Machine - A ZDNET Exclusive Review"
-date: 2025-01-06T16:18:09.606Z
-updated: 2025-01-12T23:08:56.238Z
+date: 2025-01-14T16:46:33.144Z
+updated: 2025-01-18T18:48:34.380Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -99,7 +99,7 @@ There are a total of five vents on the m18 R2, allowing for maximum internal air
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,18 +138,19 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-strategies-for-effective-digital-video-photo-alteration/"><u>[New] 2024 Approved Strategies for Effective Digital Video Photo Alteration</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-dreamcolor-spectrum-redefined-insight-into-the-z32x-monitor/"><u>[Updated] The DreamColor Spectrum Redefined Insight Into the Z32X Monitor</u></a></li>
-<li><a href="https://discover-data.techidaily.com/easy-guide-to-retrieving-your-videos-on-yourupload-website/"><u>Easy Guide to Retrieving Your Videos on YourUpload Website</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-why-does-my-gas-station-simulator-keep-freezing-on-desktop/"><u>Fixing the Issue: Why Does My Gas Station Simulator Keep Freezing on Desktop?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/hostgator-review-comparative-study-on-vps-and-shared-hosting-solutions/"><u>HostGator Review: Comparative Study on VPS and Shared Hosting Solutions</u></a></li>
-<li><a href="https://fox-info.techidaily.com/how-to-engage-listeners-through-instagram-and-podcasts-for-2024/"><u>How To Engage Listeners Through Instagram & Podcasts for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-record-video-with-quick-video-recorder/"><u>In 2024, How to Record Video with Quick Video Recorder</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-modern-electronics-a-deep-dive-by-toms-hardware-experts/"><u>Navigating Modern Electronics - A Deep Dive by Tom's Hardware Experts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nto-tagging-techniques-for-6kplus-youtube-vistas-for-2024/"><u>Tap Into #Tagging Techniques for $6K+ YouTube Vistas for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-netgear-orbi-770-router-a-balance-between-value-and-wireless-speed/"><u>The Netgear Orbi 770 Router - A Balance Between Value and Wireless Speed?</u></a></li>
-<li><a href="https://fox-place.techidaily.com/the-ultimate-trio-of-techniques-for-saving-hotmail-emails-directly-to-your-hard-disk/"><u>The Ultimate Trio of Techniques for Saving Hotmail Emails Directly to Your Hard Disk</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/tips-for-sharper-images-during-zoom-calls/"><u>Tips for Sharper Images During Zoom Calls</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-gear-expert-reviews-and-comparisons/"><u>Tom's Computer Gear: Expert Reviews and Comparisons</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-break-boundaries-get-free-vob-handling-toolset-pc-and-mac/"><u>[New] 2024 Approved Break Boundaries Get Free VOB Handling Toolset (PC & Mac)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-resolving-obs-fullscreen-not-functional/"><u>[New] 2024 Approved Resolving OBS Fullscreen Not Functional</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-essential-guide-to-the-best-8-no-cost-videoconferencing-platforms/"><u>[Updated] 2024 Approved Essential Guide to the Best 8 No-Cost Videoconferencing Platforms</u></a></li>
+<li><a href="https://fox-info.techidaily.com/digital-artistry-perfecting-your-photoshop-skills-for-2024/"><u>Digital Artistry Perfecting Your Photoshop Skills for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-gear-and-updates-from-toms-pc-hardware-reviews/"><u>Essential Gear and Updates From Tom's PC Hardware Reviews</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-infinix-smart-8-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Infinix Smart 8 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-performance-gaming-unleashed-detailed-analysis-of-the-asus-rog-swift-pg34wcdm-monitors-stunning-240hz-oled-screen-and-superior-graphics-fidelity/"><u>High-Performance Gaming Unleashed: Detailed Analysis of the Asus ROG Swift PG34WCDM Monitor's Stunning 240Hz OLED Screen and Superior Graphics Fidelity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-d3dx939dll-is-missing-or-not-found-errors/"><u>How to Fix D3dx9_39.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-film-capture-in-your-pocket-top-ois-enabled-devices/"><u>In 2024, Expert Film Capture in Your Pocket Top OIS-Enabled Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-tech-world-expert-analysis-on-electronics-and-pc-components/"><u>Inside Tom’s Tech World: Expert Analysis on Electronics and PC Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pixel-perfect-gaming-display/"><u>Pixel-Perfect Gaming Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-insights-on-top-notch-electronic-devices/"><u>Tom’s Insights on Top-Notch Electronic Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-definitive-guide/"><u>Tom's Tech Reviews: The Definitive Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/ultimate-7-private-film-access-tools-for-2024/"><u>Ultimate 7 Private Film Access Tools for 2024</u></a></li>
 </ul></div>
 

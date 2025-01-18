@@ -1,7 +1,7 @@
 ---
 title: Save Big with On Son's Robotic Vacuum Mower at a Steal Price of $98 From Walmart – Expert Insights & Comparison | ZDNET
-date: 2024-09-19 18:41:39
-updated: 2024-09-20 11:21:13
+date: 2025-01-17T17:41:39.443Z
+updated: 2025-01-18T16:45:24.692Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,28 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-personalizing-windows-11-backgrounds-easily/"><u>[New] Personalizing Windows 11 Backgrounds Easily</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-creativity-ios-and-android-writing-apps-roundup/"><u>[Updated] Capture Creativity IOS & Android Writing Apps Roundup</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-simple-way-to-blur-faces-in-picsart-for-2024/"><u>[Updated] Simple Way To Blur Faces in Picsart for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1728502525118-aomei-backupper/"><u>如何使用AOMEI Backupper進行無複雜性備份？買後功能指南</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-guidance-with-tom-the-hardware-specialists/"><u>Advanced Gadget Guidance with Tom – The Hardware Specialists</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-cutting-edge-features-of-lian-lis-hydroshift-lcd-tube-with-360-s/"><u>Exploring the Cutting-Edge Features of Lian Li's Hydroshift LCD Tube with 360 S</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/from-slow-to-speedy-elevate-your-macbook-pro/"><u>From Slow to Speedy: Elevate Your MacBook Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-microsofts-print-to-pdf-problem-in-windows-11-environment/"><u>How to Resolve Microsoft's Print-to-PDF Problem in Windows 11 Environment</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-great-debate-final-cut-pro-vs-lumafusion-for-video-editing/"><u>New 2024 Approved The Great Debate Final Cut Pro vs LumaFusion for Video Editing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-correcting-lameencdll-errors-in-audacity-for-mp3-playback-and-conversion/"><u>Step-by-Step Guide to Correcting lame_enc.dll Errors in Audacity for MP3 Playback & Conversion</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-more-drive-potential-the-definitive-review-of-highpoints-rocket-1608a-usb-expansion-card/"><u>Unleash More Drive Potential: The Definitive Review of HighPoint's Rocket 1608A USB Expansion Card</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-details-a-thorough-review-of-hostingers-virtual-private-servers-and-shared-hosting/"><u>Unveiling the Details: A Thorough Review of Hostinger’s Virtual Private Servers & Shared Hosting</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-potential-of-sabrent-rocket-nano-1tb-2242-ssd-the-quintessential-choice-for-ultra-compact-storage-needs/"><u>Unveiling the Potential of Sabrent Rocket Nano 1TB 2242 SSD: The Quintessential Choice for Ultra-Compact Storage Needs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/your-personalized-top-10-playlist/"><u>Your Personalized Top 10 Playlist</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Hands-On Analysis of the Smartish Wallet Slayer Case + Charger Setup for Galaxy S22 Ultra | ZDNET Insights
-date: 2024-09-17 19:53:41
-updated: 2024-09-20 11:51:12
+date: 2025-01-11T17:01:27.393Z
+updated: 2025-01-18T18:36:29.466Z
 tags:
   - mobile-accessories
 categories:
@@ -21,6 +21,10 @@ It's no secret that iPhones aren't the most rugged devices, sometimes yielding s
 
 Our pick for the best iPhone 16 case right now is the [Nomad Sport Case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNOMAD%2Fpage%2F6927BCAB-A05E-40FA-ADA7-1E37C46F23E5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1b7570ec-4eb5-4b81-b155-113b9708aa83%7Cdtp&dtb=1) case. This brand has been a longtime ZDNET favorite for its sleek form factor, [MagSafe capabilities](https://www.zdnet.com/article/best-magsafe-wallets/), and drop protection without a bulky form factor. Keep reading for more of our iPhone 16 case picks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best iPhone 16 cases of 2024
 
 Show less 
@@ -35,6 +39,10 @@ Pros
 
 Cons 
 * Only available for iPhone 16 Pro models
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Nomad Sport Case
 
@@ -168,6 +176,10 @@ Cons
 * Pricier
 * No camera protection
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Incase Icon
 
 #### Best stylish iPhone 16 case
@@ -262,6 +274,10 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Incase Icon case                | A unique and stylish case with protection and MagSafe capabilities.                                     |
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing the best iPhone 16 case
 
 We kept in mind the most important factors when choosing the best iPhone 16 cases. The most relevant aspects are:
@@ -274,6 +290,10 @@ We kept in mind the most important factors when choosing the best iPhone 16 case
 ## How did we choose these iPhone 16 cases?
 
 To choose these iPhone 16 cases, we performed extensive research over every corner of the internet, like Reddit forums and customer reviews, to find the best picks at the time of this writing. When we can't test a product, we rely on opinions from real people over company promises. We also receive recommendations from ZDNET experts like reviews editor Kerry Wan and editor-in-chief Jason Hiner, who have years of experience in the tech journalism field. Our picks are meant to leave the reader happy and their device healthy. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What iPhone case is most protective?
 
@@ -297,9 +317,17 @@ The iPhone 16 is available for preorder now, and will arrive in stores on Septem
 
 If your phone has the problem of overheating, it may be best to look into specialty cases called heat dissipation cases. These cases are made of heat-wicking material that regulates heat and allows airflow to cool your phone down.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone for a 16 year old?
 
 This is a good question, and if we had to chime in, we would say something more durable. A study by tech protection service Asurion in 2013 that [3 out of 10 teenagers have dropped](https://www.prnewswire.com/news-releases/3-out-of-10-teens-damaged-cell-phones-in-the-last-18-months-mainly-at-school-218494391.html#:~:text=A%20back%2Dto%2Dschool%20survey,most%20accidents%20happening%20at%20school.) and/or damaged their cell phones in the past 18 months. Ten years later, many phones are even less durable. Therefore, that number may be higher, especially if teenagers have more phones than ever. To prevent damage to your teen's phone, it may be wise to invest in a durable case that protects the device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 16 cases worth considering?
 
@@ -338,11 +366,31 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-top-10-online-photo-editing-tools-to-unblur-photos-effectively/"><u>[New] In 2024, Top 10 Online Photo Editing Tools to Unblur Photos Effectively</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-windows-11-photo-app-stability-troubleshooting/"><u>[New] Mastering Windows 11 Photo App Stability Troubleshooting</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-co-marketing-brands-and-youtubes-dynamic-duo/"><u>[Updated] Co-Marketing Brands and YouTube's Dynamic Duo</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-your-text-based-kingdom-harnessing-the-power-of-chatgpt-rpgs/"><u>Building Your Text-Based Kingdom: Harnessing the Power of ChatGPT RPGs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ess-beginnings-easier-than-ever-top-10-youtube-channel-ideas/"><u>Business Beginnings Easier Than Ever Top 10 YouTube Channel Ideas</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/expert-guide-to-reactivate-your-broken-alienware-command-center/"><u>Expert Guide to Reactivate Your Broken Alienware Command Center</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gamers-delight-capture-the-elite-dell-s3222dgm-monitor-for-a-bargain-at-just-229/"><u>Gamers' Delight: Capture the Elite Dell S3222DGM Monitor for a Bargain at Just $229</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-ultimate-deal-this-memorial-day-with-a-gaming-monitor-at-just-279-the-dell-s3222dgm-32-inch-model/"><u>Get the Ultimate Deal This Memorial Day with a Gaming Monitor at Just $279 – The Dell S3222DGM 32-Inch Model</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leading-software-solutions-for-healing-and-repairing-ruined-pictures/"><u>Leading Software Solutions for Healing and Repairing Ruined Pictures</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-with-toms-expert-reviews/"><u>Mastering Hardware with Tom's Expert Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-tech-toms-essential-guide-to-cutting-edge-hardware/"><u>Mastering Modern Tech: Tom's Essential Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-trends-with-insights-from-toms-hardware/"><u>Mastering Tech Trends with Insights From Tom's Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fn-key-configuration-for-windows-os/"><u>Mastering the Art of FN Key Configuration for Windows OS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/memorial-day-special-unlock-epic-savings-on-dells-32-inch-gaming-display-for-only-279/"><u>Memorial Day Special: Unlock Epic Savings on Dell's 32-Inch Gaming Display for Only $279!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/minisforum-unveils-portable-gaming-device-a-budget-friendly-option-at-189-with-a-15ninch-display-and-144-hz-refresh-rate/"><u>Minisforum Unveils Portable Gaming Device: A Budget-Friendly Option at $189 - with a 15.nInch Display and 144 Hz Refresh Rate</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-latest-in-computing-with-toms-hardware-analysis/"><u>Navigate the Latest in Computing with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimizing-display-on-new-windows-11-os/"><u>Optimizing Display on New Windows 11 OS</u></a></li>
+</ul></div>
+

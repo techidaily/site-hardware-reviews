@@ -1,7 +1,7 @@
 ---
 title: "Garmin Epix 2Nd Generation Evaluation: The Ultimate Contemporary GPS Fitness Tracker for Athletes - TechInsights"
-date: 2024-09-18 21:46:51
-updated: 2024-09-20 12:36:14
+date: 2025-01-12T18:49:42.402Z
+updated: 2025-01-18T17:03:31.074Z
 tags:
   - mobile-accessories
 categories:
@@ -35,13 +35,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to transform a Flipper Zero into an Apple AirTag
 
 **What you'll** **need**: A Flipper Zero, an Apple AirTag (or [tracker from another brand](https://www.zdnet.com/article/best-bluetooth-tracker/)), an [iPhone](https://www.zdnet.com/article/best-iphone/) and an [Android phone](https://www.zdnet.com/article/best-android-phone/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install Momentum firmware
 
 First, install the Momentum firmware on your Flipper Zero. The most straightforward method is to use the web installer, but rest assured, you can revert to the stock firmware at any point [using the desktop or mobile app](https://flipperzero.one/downloads). Simply navigate to the [Momentum web installer page](https://momentum-fw.dev/update/), connect your Flipper Zero, and follow the prompts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Downloading FindMy Flipper
 
@@ -50,6 +62,10 @@ Once installed, you'll discover a host of new applications on your Flipper Zero,
 **Also: [Flipper Zero: 'Can you really hack Wi-Fi networks?' and other questions answered](https://www.zdnet.com/home-and-office/flipper-zero-can-you-really-hack-wi-fi-networks-and-other-questions-answered/)**
 
 The app leverages the Flipper Zero's Bluetooth capabilities to act as an Apple AirTag, (or if you prefer, a Samsung SmartTag or Tile tag, but that process is even more cumbersome). It uses the Flipper Zero Bluetooth low energy (BLE) beacon to broadcast a signal that can be picked up by iPhones and sent back to Apple for viewing in the FindMy app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Setting up the Flipper Zero
 
@@ -60,6 +76,10 @@ You'll need an AirTag, an iPhone, and an Android smartphone to follow along.
 **Also: [How to unlock the Flipper Zero's true power](https://www.zdnet.com/article/how-to-unlock-the-flipper-zero-true-power/)**
 
 I've personally gone through these steps multiple times and can confirm their effectiveness. But precision is key -- make sure to follow each step meticulously. A single misstep is enough to stop this from working and leave you scratching your head.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Using custom Python scripts (and why you should)
 
@@ -90,11 +110,28 @@ This brings me to one of the things that I really like about the [Flipper Zero](
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-pixel-perfect-viewing-comparing-worlds-top-8k-televisions/"><u>[New] In 2024, Pixel-Perfect Viewing Comparing World's Top 8K Televisions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-crafting-a-seamless-social-journey-from-instaplustik/"><u>[Updated] In 2024, Crafting a Seamless Social Journey From Insta+Tik</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-navigating-android-video-calls-effortlessly-for-2024/"><u>[Updated] Navigating Android Video Calls Effortlessly for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-reimagining-game-logging-with-no-fbx-technology-for-2024/"><u>[Updated] Reimagining Game Logging with No-FBX Technology for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-a-swift-18-boost-ryzen-9-9950x-surpasses-the-core-i9-14900k-at-comparable-wattage/"><u>Experience a Swift 18% Boost: Ryzen ^9 9950X Surpasses the Core I9-14900K at Comparable Wattage</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-distinguishing-between-youtube-policies-and-cc-clauses/"><u>In 2024, Distinguishing Between YouTube Policies and CC Clauses</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-14-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 14 With or Without Password</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/launching-a-vlog-essential-equipmentapps/"><u>Launching a Vlog Essential Equipment/Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nextgen-gear-insights-deciphering-todays-cutting-edge-hardware-choices/"><u>NextGen Gear Insights: Deciphering Today's Cutting-Edge Hardware Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/optimize-your-system-expert-advice-from-the-tech-vault-of-toms-hardware/"><u>Optimize Your System: Expert Advice From the Tech Vault of Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-discussions-with-toms-tech-analysis/"><u>Pioneering Hardware Discussions with Tom's Tech Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/portable-powerhouse-a-comprehensive-eyoyo-em105-105-screen-value-assessment/"><u>Portable Powerhouse: A Comprehensive EYOYO EM105 10.5” Screen Value Assessment</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/time-engagement-tracker/"><u>Real-Time Engagement Tracker</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-visual-experience-shop-the-cutting-edge-pixel-dense-viewfinity-s9-monitor-by-samsung-for-just-899-with-a-built-in-4k-webcam-grab-your-dis52/"><u>Revolutionize Your Visual Experience - Shop the Cutting-Edge Pixel-Dense ViewFinity S9 Monitor by Samsung for Just $899 with a Built-In 4K Webcam – Grab Your Discounted Deal Now, Save 44%!</u></a></li>
+</ul></div>
+

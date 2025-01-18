@@ -1,7 +1,7 @@
 ---
 title: Regular Feedback Mechanisms
-date: 2024-09-19 19:21:23
-updated: 2024-09-20 12:31:49
+date: 2025-01-14T16:29:55.879Z
+updated: 2025-01-18T17:09:01.722Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,31 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-an-in-depth-look-at-video-apps-for-iphone-and-android-users/"><u>[New] 2024 Approved An In-Depth Look at Video Apps for iPhone & Android Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-dictate-your-destiny-free-logo-creation-from-template-files-for-2024/"><u>[New] Dictate Your Destiny - Free Logo Creation From Template Files for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-pixelated-panoramas-instaslideshow/"><u>[New] In 2024, Pixelated Panoramas InstaSlideShow</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-ultimate-tutorial-for-posting-pics-on-ig/"><u>[New] The Ultimate Tutorial for Posting Pics on IG</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-magic-of-govee-glide-hexa-light-panels-a-detailed-analysis-for-wall-mounted-ambiance/"><u>Experience the Magic of Govee Glide Hexa Light Panels - A Detailed Analysis for Wall-Mounted Ambiance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insight-on-brother-hl-l2460dw-perfect-fit/"><u>Expert Insight on Brother HL-L2460DW: Perfect Fit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-picks-leading-photo-scanner-models-for-enthusiasts/"><u>Expert Picks: Leading Photo Scanner Models for Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-wps-insights-into-its-purpose-and-easy-implementation-steps/"><u>Exploring the World of WPS: Insights Into Its Purpose & Easy Implementation Steps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-spotifys-innovation-could-disrupt-car-infotainment-options/"><u>How Spotify's Innovation Could Disrupt Car Infotainment Options.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-sony-bravia-soundbar-theatre-experience-surprisingly-enjoyable-audio-immersion/"><u>In-Depth Sony Bravia Soundbar Theatre Experience: Surprisingly Enjoyable Audio Immersion</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-acer-vero-range-combining-elegant-design-with-user-friendly-technology-for-laser-projectors/"><u>Introducing the Acer Vero Range - Combining Elegant Design with User-Friendly Technology for Laser Projectors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-yeedis-cutting-edge-m12-proplus-robovac-now-available-for-american-households/"><u>Introducing Yeedi's Cutting-Edge M12 Pro+ RoboVac: Now Available for American Households</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-stutters-optimizing-mass-effect-legendary-edition-performance/"><u>No More Stutters: Optimizing Mass Effect Legendary Edition Performance</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pivotal-moments-in-video-edits-and-their-significance-for-2024/"><u>Pivotal Moments in Video Edits and Their Significance for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-essential-role-of-voice-in-visual-content-for-2024/"><u>The Essential Role of Voice in Visual Content for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-how-to-for-running-the-check-disk-chkdsk-tool-on-your-pc/"><u>The Ultimate How-To for Running the Check Disk (Chkdsk) Tool on Your PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/top-hd-cameras-for-wildlife-enthusiasts/"><u>Top HD Cameras For Wildlife Enthusiasts</u></a></li>
+</ul></div>
+

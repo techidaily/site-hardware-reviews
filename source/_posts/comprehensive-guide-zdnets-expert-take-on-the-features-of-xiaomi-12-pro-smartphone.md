@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: ZDNet's Expert Take on the Features of Xiaomi 12 Pro Smartphone"
-date: 2024-09-17 14:22:57
-updated: 2024-09-20 11:41:45
+date: 2025-01-14T17:10:22.415Z
+updated: 2025-01-18T18:01:37.014Z
 tags:
   - mobile-accessories
 categories:
@@ -17,9 +17,17 @@ The new generation of iPhones are here and features a new action button, more AI
 
 It's no secret that iPhones aren't the most rugged devices, sometimes yielding screen cracks and camera damage from simple drops. Luckily, ZDNET editors have gone hands-on with iPhone 16 cases to see how they match up. No matter your needs -- drop protection, style _with_ durability, or functionality -- we've got you covered. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone 16 case right now?
 
 Our pick for the best iPhone 16 case right now is the [Nomad Sport Case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNOMAD%2Fpage%2F6927BCAB-A05E-40FA-ADA7-1E37C46F23E5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1b7570ec-4eb5-4b81-b155-113b9708aa83%7Cdtp&dtb=1) case. This brand has been a longtime ZDNET favorite for its sleek form factor, [MagSafe capabilities](https://www.zdnet.com/article/best-magsafe-wallets/), and drop protection without a bulky form factor. Keep reading for more of our iPhone 16 case picks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best iPhone 16 cases of 2024
 
@@ -62,6 +70,10 @@ Pros
 Cons 
 * Kickstand durability
 * Not many color options
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Torras 360-degree OStand
 
@@ -140,6 +152,10 @@ Pros
 
 Cons 
 * Pricier
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mous Limitless 6.0
 
@@ -238,6 +254,10 @@ That being said, leather is not everybody's thing. But, if you are in the market
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone 16 case?
 
 Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek design and solid protection. Check out how the other options stack up below.
@@ -250,6 +270,10 @@ Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek desig
 | Incase Icon case           | $60       | Yes                 | Yes         |
 | Nomad Modern Leather case  | $70       | Yes                 | Yes         |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which is the right iPhone 16 case for you?
 
 The best iPhone 16 case option for you differs depending on your needs. For one, you may require an extremely protective case if you are clumsy with your device. Maybe you're lucky with great phone handling skills and want a stylish case. There are options for everyone.
@@ -261,6 +285,10 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Latercase for iPhone 16         | A super thin case to stick your large phone in your small pocket.                                       |
 | Incase Icon case                | A unique and stylish case with protection and MagSafe capabilities.                                     |
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best iPhone 16 case
 
@@ -338,11 +366,33 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-how-to-add-timestamps-youtube-video/"><u>[New] In 2024, How to Add Timestamps YouTube Video?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-automate-calendar-events-to-zoom-on-mobile-devices/"><u>[Updated] 2024 Approved Automate Calendar Events to Zoom on Mobile Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-budget-friendly-multiview-cameras-for-professional-use-for-2024/"><u>[Updated] Budget-Friendly Multiview Cameras for Professional Use for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-harmonizing-cityscapes-and-nature-the-role-of-green-spaces/"><u>[Updated] Harmonizing Cityscapes and Nature The Role of Green Spaces</u></a></li>
+<li><a href="https://win-answers.techidaily.com/brighten-up-your-gaming-with-these-fixes-for-halo-infinites-black-screen-glitches/"><u>Brighten Up Your Gaming with These Fixes for Halo Infinite's Black Screen Glitches</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/easy-routine-reverse-playback-on-vlc-platform-for-2024/"><u>Easy Routine Reverse Playback on VLC Platform for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-s23-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy S23 FRP Bypass</u></a></li>
+<li><a href="https://win-docs.techidaily.com/massmailer-software-a-comprehensive-analysis-of-email-campaigns-predictions-and-stats-from-2cuatries-to-quinceaneras-2010-2014/"><u>MassMailer Software: A Comprehensive Analysis of Email Campaigns, Predictions & Stats From 2Cuatries to Quinceañeras (2010-2014)</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-making-triggered-memes-with-filmora-video-editor-for-2024/"><u>New Making Triggered Memes with Filmora Video Editor for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/revolutionizing-video-revenue-a-conducive-guide-to-youtube-profits-for-2024/"><u>Revolutionizing Video Revenue A Conducive Guide to Youtube Profits for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-into-latest-computer-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights Into Latest Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-insightful-hardware-evaluations/"><u>Tom's Tech Reviews: Insightful Hardware Evaluations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-computer-components-t17238642572184/"><u>Tom's Tech Reviews: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-the-ultimate-guide-to-computer-components/"><u>Tom's Tech: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-the-ultimate-guide-to-cutting-edge-hardware-t17238642572195/"><u>Tom's Tech: The Ultimate Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-portable-hard-drives-of-2024-the-ultimate-buying-guide/"><u>Top-Rated Portable Hard Drives of 2024: The Ultimate Buying Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-tech-insights-with-toms-hardware-in-depth-analysis-and-buying-guides/"><u>Ultimate Tech Insights with Tom’s Hardware - In-Depth Analysis & Buying Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbeatable-deal-on-high-performance-4tb-samsung-990-pro-pcie-40-ssds-only-7-cents-per-gigabyte/"><u>Unbeatable Deal on High-Performance 4TB Samsung 990 Pro PCIe 4.0 SSDs: Only 7 Cents per Gigabyte</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-secrets-of-hardware-with-tom-a-comprehensive-review/"><u>Unlocking the Secrets of Hardware with Tom - A Comprehensive Review</u></a></li>
+</ul></div>
+

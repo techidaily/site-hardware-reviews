@@ -1,7 +1,7 @@
 ---
 title: Scorching Deal Alert! Secure Your Home with a Blink Outdoor 4 Camera & Floodlight for Only $80 During the Labor Day Sale – Exclusive Offer Inside ZDNet.
-date: 2024-09-19 11:40:22
-updated: 2024-09-20 12:28:43
+date: 2025-01-12T16:53:53.221Z
+updated: 2025-01-18T16:35:17.715Z
 tags:
   - kitchen-household
 categories:
@@ -15,11 +15,19 @@ thumbnail: https://www.zdnet.com/a/img/resize/28e2f07d302051a22a951327875c6bea70
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the deal?
 
 The [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C779dbc92-ca1e-42d4-ac18-3c3ec18b0c7b%7Cdtp&dtb=1) is $30 off, available for $200 through [Labor Day](https://www.zdnet.com/article/best-labor-day-deals-2024-8-29/).
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -79,6 +87,10 @@ Maria Diaz/ZDNET
 
 The Ring Protect plan ranges from $5-$20 monthly, and aside from the mentioned features, it includes person alerts, the ability to arm and disarm the Ring system digitally, rich notifications, snapshot capture, and video history stored in the cloud for up to six months.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After using the [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C779dbc92-ca1e-42d4-ac18-3c3ec18b0c7b%7Cdtp&dtb=1) for a few weeks, I found it to be a reliable home security camera with all the extra features worth the price. The two-way talk audio quality was the most impressive I've ever tried, delivering crystal clear audio without echo. 
@@ -90,6 +102,10 @@ However, I was slightly disappointed by the video quality, which only goes up to
 A security camera of that resolution is not disappointing on its own, but it's a noticeable difference compared to the 2K-resolution Arlo Pro 5S that I previously had overlooking that area of my yard, though the Arlo is a little pricier, at $250\. To top it off, the [floodlight camera](https://www.zdnet.com/home-and-office/smart-home/eufys-new-floodlight-cam-e340-is-the-hardest-working-security-camera-ive-tested/) on the other side of my yard can go up to 3K resolution and is $10 cheaper than this Ring camera. 
 
 Additionally, many smart home users aren't prepared to pay monthly subscription fees to access plan-exclusive features, but plenty of users prefer the convenience of not having to worry about local storage and enjoy the extra perks a paid plan offers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -116,11 +132,27 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-innovative-zooid-conceptual-models/"><u>[New] 2024 Approved Innovative Zooid Conceptual Models</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-elevate-your-mobile-game-skills-a-deep-dive-into-kinemaster-review/"><u>[Updated] 2024 Approved Elevate Your Mobile Game Skills A Deep Dive Into KineMaster Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-cheatsheet-for-stunning-collage-art/"><u>[Updated] Step-by-Step Cheatsheet for Stunning Collage Art</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/44cm6ieq55sx44gn44gz44ki77yb44ot44oh44kq44k144km44oz44oj44ks44ki44od44ox44gx44gplus44gp44kk44gf44ge77yf5oml6lu944gq44oc44oq44ol44o844og44ob44kn44oz44k444ks418/"><u>「自由ですよ！ビデオサウンドをアップしまくりたい？手軽なボリュームチェンジガイド」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-user-feedback-valuable-for-ai-learning-processes/"><u>Are User Feedback Valuable for AI Learning Processes?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/browser-based-remote-access-mastering-your-raspberry-pi-through-raspberry-pi-connect/"><u>Browser-Based Remote Access: Mastering Your Raspberry Pi Through Raspberry Pi Connect</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-revolutionary-raspberry-pi-pico-discovering-its-armplusrisc-v-core-capabilities-for-just-5/"><u>Exploring the Revolutionary Raspberry Pi Pico: Discovering Its ARM+RISC-V Core Capabilities for Just $5</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-14-plus-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 14 Plus? Learn All 4 Methods</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-easily-transform-vob-video-files-to-avi-for-free-a-complete-guide/"><u>How to Easily Transform VOB Video Files to AVI for Free - A Complete Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-xiaomi-redmi-note-13-proplus-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Xiaomi Redmi Note 13 Pro+ 5G FRP Bypass</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-raspberry-pi-link-up-seamlessly-run-your-pi-from-anywhere-through-a-web-interface/"><u>Introducing Raspberry Pi Link-Up: Seamlessly Run Your Pi From Anywhere Through a Web Interface</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-create-epic-trailers-top-movie-maker-software-for-mac-and-pc/"><u>New 2024 Approved Create Epic Trailers Top Movie Maker Software for Mac and PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-review-of-the-latest-raspberry-pi-pico-a-deep-dive-into-its-new-arm-plus-risc-v-cores-at-an-affordable-price/"><u>Unboxing Review of the Latest Raspberry Pi Pico: A Deep Dive Into Its New Arm + RISC-V Cores at an Affordable Price</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: What's New in Matter Version 1.3? Dive Into Improved Support and Functionality | Tech Insights - ZDNet
-date: 2024-09-18 16:15:56
-updated: 2024-09-20 12:52:44
+date: 2025-01-15T17:50:01.847Z
+updated: 2025-01-18T16:25:02.032Z
 tags:
   - kitchen-household
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/topic/kitchen-household/    https://www.zdnet.c
 ![EcoFlow Delta Pro 3 portable battery](https://www.zdnet.com/a/img/resize/493a0e14c2076aa82dd15d43be4c51552702595c/2024/06/20/9d465ec0-9e8c-4fee-b2aa-d5b5ce343244/2.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -77,6 +81,10 @@ How did it fare? The power returned about three hours later, and the Delta Pro 3
 
 Aside from this power outage, [we've tested](https://www.zdnet.com/home-and-office/energy/how-we-test-portable-power-stations/) the Delta Pro 3 as a standalone battery to power a home office setup, keeping consumption between 50W and 120W. The DP3 powered an LCD monitor, a Dell XPS laptop, a phone charger, and a USB-C tablet charger for four days. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Accessories-Emergencies%2Fdp%2FB0D14FMFZD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1) is an excellent option for anyone looking for a higher-capacity portable battery for camping or as an emergency home backup, as long as you're willing to pay the price, literally. It's not a cheap option among portable batteries, priced at $3199, which is about $400 less than the price of a [Delta Pro and Dual fuel inverter generator bundle](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Generator-High-Power-Appliances%2Fdp%2FB0BKGLCVRR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1).
@@ -106,11 +114,29 @@ Though priced high, the Delta Pro 3 seamlessly integrates into an EcoFlow home b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unlocking-the-secrets-of-successful-instagram-posts-through-hashtags/"><u>[Updated] In 2024, Unlocking the Secrets of Successful Instagram Posts Through Hashtags</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-navigating-overwatch-audio-capture-settings-for-2024/"><u>[Updated] Navigating Overwatch Audio Capture Settings for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-in-depth-strategies-for-organizing-your-windows-mov-collection/"><u>2024 Approved In-Depth Strategies for Organizing Your Windows .mov Collection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benchmarking-akasa-gecko-blower-cooler-efficacy-a-definitive-guide-to-superior-ssd-thermal-management/"><u>Benchmarking Akasa Gecko Blower Cooler Efficacy: A Definitive Guide to Superior SSD Thermal Management</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-12-pro-max-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 12 Pro Max & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/innovative-advanced-gaming-monitoring-tools-for-a-better-experience-for-2024/"><u>Innovative, Advanced Gaming Monitoring Tools for a Better Experience for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-insightful-hardware-analysis-and-tips/"><u>Mastering Gadgets with Tom: Insightful Hardware Analysis & Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-guides/"><u>Navigating the World of Technology with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nzxt-h7-flow-assessment-a-secure-gaming-choice/"><u>NZXT H7 Flow Assessment: A Secure Gaming Choice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-guide/"><u>Tom's Tech Insights: Comprehensive Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/transform-your-screen-recording-process-using-aiseesoft-tools-for-2024/"><u>Transform Your Screen Recording Process Using Aiseesoft Tools for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-the-notorious-ce-34878-0-glitch-in-playstation-4-consoles/"><u>Troubleshooting and Correcting the Notorious CE-34878-0 Glitch in PlayStation 4 Consoles</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/troubleshooting-tips-why-cant-i-find-my-recycle-bin-in-file-explorer/"><u>Troubleshooting Tips: Why Can't I Find My Recycle Bin in File Explorer?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-secrets-of-computers-at-toms-hardware-sanctuary/"><u>Unlocking the Secrets of Computers at Tom's Hardware Sanctuary</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-strengths-and-gameplay-potential-of-the-asus-tuf-gaming-a14/"><u>Unveiling the Strengths and Gameplay Potential of the Asus TUF Gaming A14</u></a></li>
+</ul></div>
+

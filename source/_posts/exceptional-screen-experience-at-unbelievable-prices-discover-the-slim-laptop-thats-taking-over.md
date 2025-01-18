@@ -1,7 +1,7 @@
 ---
 title: Exceptional Screen Experience at Unbelievable Prices! Discover the Slim Laptop That's Taking Over
-date: 2025-01-08T01:14:46.795Z
-updated: 2025-01-12T16:44:48.851Z
+date: 2025-01-12T16:01:51.963Z
+updated: 2025-01-18T18:23:30.727Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the Amazon Prime Day deal?
@@ -33,7 +33,7 @@ Ahead of the Prime Big Deal Days sale, the [LG Gram Pro 16 2-in-1](https://buy.g
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -101,7 +101,7 @@ For most users, this is not much of an issue, but during exceptionally heavy loa
 Finally, the battery life on this machine was about what you'd expect from a 2-in-1 with an OLED screen. This is a laptop that can last a full day of work, but only barely. Depending on how hard you're pushing it, expect to see 7-8 hours on a single charge. I got around that during my testing. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,7 +111,7 @@ In a market of dozens of 2-in-1 laptops that were released this year, the [LG Gr
 If you're looking for more budget-friendly options, the [Acer Swift Edge 16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-swift-edge-16-16-3-2k-120hz-oled-laptop-amd-ryzen-7-7840u-with-16gb-lpddr5-memory-1tb-pcie-gen-4-ssd-olivine-black%2F6546242.p&publisher_slug=itechdaily19598&exclusive=1) features the same sized OLED screen and weighs slightly more at 2.73 pounds, but will only cost you $1,300.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,15 +148,17 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-online-tutorial-adding-youtube-playlists-to-your-site/"><u>[New] 2024 Approved Online Tutorial Adding YouTube Playlists to Your Site</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-leading-brands-offering-the-best-steadicams-for-dslr-users/"><u>[New] In 2024, Leading Brands Offering the Best Steadicams for DSLR Users</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-cyber-cracked-joke-creator/"><u>[Updated] 2024 Approved Cyber Cracked Joke Creator</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725285699260-dvddvd/"><u>「DVDのバックアップやコピーに必要な方法：パソコンでDVDを書き込み・増設するためのユーティリティソフト紹介」</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-fairphone-5-the-ultimate-in-sustainable-tech-with-a-lifetime-of-software-support/"><u>Introducing Fairphone 5: The Ultimate in Sustainable Tech with a Lifetime of Software Support</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-android-privacy-how-to-prevent-random-mac-address-alteration/"><u>Mastering Android Privacy: How To Prevent Random MAC Address Alteration</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/oneplus-unveils-model-11-with-challenges-at-its-debut-what-to-know-about-this-latest-release/"><u>OnePlus Unveils Model 11 with Challenges at Its Debut – What to Know About This Latest Release</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/optimize-your-android-phones-haptic-feedback-a-users-manual-for-customizing-vibration-strength/"><u>Optimize Your Android Phone’s Haptic Feedback: A User's Manual for Customizing Vibration Strength</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-five-protocols-to-record-your-youtube-live-video/"><u>Top Five Protocols to Record Your YouTube LIVE Video</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-mastering-the-art-of-zip-to-srt-conversion/"><u>2024 Approved Mastering the Art of Zip to Srt Conversion</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/avid-gamers-rejoice-the-ultimate-review-of-the-philips-evonia-49m2c8900-featuring-dynamic-color-and-high-speed-performance-at-240hz-qd-oled/"><u>Avid Gamers Rejoice: The Ultimate Review of the Philips Evonia 49M2C8900, Featuring Dynamic Color & High-Speed Performance at 240Hz QD OLED</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-cinema-in-editing-10-snippet-selections/"><u>In 2024, Cinema in Editing 10 Snippet Selections</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/logitech-k400-plus-compatibility-and-downloadable-software-package/"><u>Logitech K400 Plus Compatibility & Downloadable Software Package</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-market-tips-and-reviews-by-tom/"><u>Navigating Technology Market: Tips and Reviews by Tom</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-non-printing-in-canon-printers-windows-edition/"><u>Overcome Non-Printing in Canon Printers, Windows Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-process-for-seamlessly-rejuvenating-lenovo-power-management-modules/"><u>Step-by-Step Process for Seamlessly Rejuvenating Lenovo Power Management Modules</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-afterlife-of-internet-chats-exploring-who-you-might-be-messaging-from-afar/"><u>The Afterlife of Internet Chats: Exploring Who You Might Be Messaging From Afar</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-unbiased-insights-into-computer-components-and-gadgets/"><u>Tom's Tech Reviews: Unbiased Insights Into Computer Components and Gadgets</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-iphone-7-plus-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile iPhone 7 Plus Before the Plan Expires</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-secret-to-a-low-profile-wallet-friendly-gaming-experience-the-logitech-g51e-lightspeed-tkl-analysis/"><u>Unveiling the Secret to a Low Profile, Wallet-Friendly Gaming Experience: The Logitech G51e Lightspeed TKL Analysis</u></a></li>
 </ul></div>
 

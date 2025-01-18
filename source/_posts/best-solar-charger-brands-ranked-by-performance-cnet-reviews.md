@@ -1,7 +1,7 @@
 ---
 title: Best Solar Charger Brands Ranked by Performance - CNET Reviews
-date: 2024-09-17 10:17:28
-updated: 2024-09-20 10:39:21
+date: 2025-01-16T18:28:21.108Z
+updated: 2025-01-18T18:24:23.086Z
 tags:
   - mobile-accessories
 categories:
@@ -35,13 +35,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to transform a Flipper Zero into an Apple AirTag
 
 **What you'll** **need**: A Flipper Zero, an Apple AirTag (or [tracker from another brand](https://www.zdnet.com/article/best-bluetooth-tracker/)), an [iPhone](https://www.zdnet.com/article/best-iphone/) and an [Android phone](https://www.zdnet.com/article/best-android-phone/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install Momentum firmware
 
 First, install the Momentum firmware on your Flipper Zero. The most straightforward method is to use the web installer, but rest assured, you can revert to the stock firmware at any point [using the desktop or mobile app](https://flipperzero.one/downloads). Simply navigate to the [Momentum web installer page](https://momentum-fw.dev/update/), connect your Flipper Zero, and follow the prompts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Downloading FindMy Flipper
 
@@ -50,6 +62,10 @@ Once installed, you'll discover a host of new applications on your Flipper Zero,
 **Also: [Flipper Zero: 'Can you really hack Wi-Fi networks?' and other questions answered](https://www.zdnet.com/home-and-office/flipper-zero-can-you-really-hack-wi-fi-networks-and-other-questions-answered/)**
 
 The app leverages the Flipper Zero's Bluetooth capabilities to act as an Apple AirTag, (or if you prefer, a Samsung SmartTag or Tile tag, but that process is even more cumbersome). It uses the Flipper Zero Bluetooth low energy (BLE) beacon to broadcast a signal that can be picked up by iPhones and sent back to Apple for viewing in the FindMy app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Setting up the Flipper Zero
 
@@ -60,6 +76,10 @@ You'll need an AirTag, an iPhone, and an Android smartphone to follow along.
 **Also: [How to unlock the Flipper Zero's true power](https://www.zdnet.com/article/how-to-unlock-the-flipper-zero-true-power/)**
 
 I've personally gone through these steps multiple times and can confirm their effectiveness. But precision is key -- make sure to follow each step meticulously. A single misstep is enough to stop this from working and leave you scratching your head.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Using custom Python scripts (and why you should)
 
@@ -90,11 +110,26 @@ This brings me to one of the things that I really like about the [Flipper Zero](
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-seamless-mp4-file-saving-and-insight/"><u>[Updated] Seamless MP4 File Saving & Insight</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ideal-pc-recording-software-for-windows-enthusiasts/"><u>2024 Approved Ideal PC Recording Software for Windows Enthusiasts</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-razr-40-ultra-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-pigments-and-palettes-the-artists-guidebook/"><u>In 2024, Pigments & Palettes The Artist's Guidebook</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-quickcapture-stop-and-save-screenshot-command/"><u>In 2024, QuickCapture Stop & Save Screenshot Command</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-efficient-guide-downloading-and-installing-the-epson-et-4550-printer-driver-on-windows/"><u>Quick and Efficient Guide: Downloading & Installing the Epson ET-4550 Printer Driver on Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/shop-high-performance-motherboards-and-boards-with-longsun-cpus-beginning-at-just-373-available-in-the-us/"><u>Shop High-Performance Motherboards & Boards with Longsun CPUs: Beginning at Just $373 - Available in the U.S</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/snag-your-asus-x670-p-wifi-am5-mobo-now-unbelievable-sale-135/"><u>Snag Your Asus X670-P WiFi AM5 Mobo Now - Unbelievable Sale @$135</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-asrock-z790i-lightning-wi-fi-board-review-packed-potency-in-a-petite-package/"><u>The ASROCK Z790I Lightning Wi-Fi Board Review - Packed Potency in a Petite Package</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-complete-guide-to-computers-and-peripherals-by-toms-technology-hub/"><u>The Complete Guide to Computers and Peripherals by Tom's Technology Hub</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-xiaomi-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Xiaomi Pattern Lock Screen Everything You Need to Know</u></a></li>
+</ul></div>
+

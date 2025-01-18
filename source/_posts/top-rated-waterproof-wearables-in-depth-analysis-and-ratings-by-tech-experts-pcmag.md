@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Waterproof Wearables - In-Depth Analysis & Ratings by Tech Experts | PCMag
-date: 2024-09-18 17:43:13
-updated: 2024-09-20 12:57:31
+date: 2025-01-11T18:03:26.543Z
+updated: 2025-01-18T18:54:08.886Z
 tags:
   - mobile-accessories
 categories:
@@ -35,13 +35,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to transform a Flipper Zero into an Apple AirTag
 
 **What you'll** **need**: A Flipper Zero, an Apple AirTag (or [tracker from another brand](https://www.zdnet.com/article/best-bluetooth-tracker/)), an [iPhone](https://www.zdnet.com/article/best-iphone/) and an [Android phone](https://www.zdnet.com/article/best-android-phone/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install Momentum firmware
 
 First, install the Momentum firmware on your Flipper Zero. The most straightforward method is to use the web installer, but rest assured, you can revert to the stock firmware at any point [using the desktop or mobile app](https://flipperzero.one/downloads). Simply navigate to the [Momentum web installer page](https://momentum-fw.dev/update/), connect your Flipper Zero, and follow the prompts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Downloading FindMy Flipper
 
@@ -50,6 +62,10 @@ Once installed, you'll discover a host of new applications on your Flipper Zero,
 **Also: [Flipper Zero: 'Can you really hack Wi-Fi networks?' and other questions answered](https://www.zdnet.com/home-and-office/flipper-zero-can-you-really-hack-wi-fi-networks-and-other-questions-answered/)**
 
 The app leverages the Flipper Zero's Bluetooth capabilities to act as an Apple AirTag, (or if you prefer, a Samsung SmartTag or Tile tag, but that process is even more cumbersome). It uses the Flipper Zero Bluetooth low energy (BLE) beacon to broadcast a signal that can be picked up by iPhones and sent back to Apple for viewing in the FindMy app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Setting up the Flipper Zero
 
@@ -60,6 +76,10 @@ You'll need an AirTag, an iPhone, and an Android smartphone to follow along.
 **Also: [How to unlock the Flipper Zero's true power](https://www.zdnet.com/article/how-to-unlock-the-flipper-zero-true-power/)**
 
 I've personally gone through these steps multiple times and can confirm their effectiveness. But precision is key -- make sure to follow each step meticulously. A single misstep is enough to stop this from working and leave you scratching your head.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Using custom Python scripts (and why you should)
 
@@ -90,11 +110,28 @@ This brings me to one of the things that I really like about the [Flipper Zero](
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-practices-for-boosting-views-on-freefire-gaming-channels/"><u>[New] 2024 Approved Best Practices for Boosting Views on FreeFire Gaming Channels</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ffortless-audio-downloads-these-24-tools-split-youtube-sounds-for-2024/"><u>[New] Effortless Audio Downloads These 24 Tools Split YouTube Sounds for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-a-bundle-of-nine-premium-holiday-treasures-watch-for-free-on-youtube/"><u>[New] In 2024, A Bundle of Nine Premium Holiday Treasures Watch for Free on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-synthetic-worlds-the-future-of-gaming-with-vr/"><u>[New] Synthetic Worlds The Future of Gaming with VR</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-snapshots-of-sound-characters-short-musical-roles/"><u>[Updated] Snapshots of Sound Characters Short Musical Roles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/best-tricks-to-resolve-war-thunder-game-crashes-for-a-smooth-2024-experience/"><u>Best Tricks to Resolve War Thunder Game Crashes for a Smooth 2024 Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-setup-with-the-aoc-agon-pro-ag45nucg-an-in-depth-look-at-the-45-ultrawide-oled-gaming-screen-sharp-performance-meets-stylish-extreme-curv68/"><u>Revolutionize Your Setup with The AOC Agon Pro AG45nUCG - An In-Depth Look at the 45 Ultrawide OLED Gaming Screen: Sharp Performance Meets Stylish Extreme Curve!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-visual-experience-with-the-incredible-deal-lgs-34-curved-monitor-for-only-499-upgrade-now/"><u>Revolutionize Your Visual Experience with the Incredible Deal: LG's 34 Curved Monitor for Only $499 - Upgrade Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/save-big-with-a-premium-24-dell-freesync-screen-at-an-unbeatable-price-of-99/"><u>Save Big with a Premium 24 Dell FreeSync Screen at an Unbeatable Price of $99</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-big-savings-on-the-ultrawide-aorus-oled-monitor-from-gigabyte-limited-offer-at-969/"><u>Score Big Savings on the Ultrawide, Aorus OLED Monitor From Gigabyte - Limited Offer at $969!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/shop-the-best-gaming-monitor-of-the-year-for-a-steal-asus-tufs-34-curve-now-at-just-under-250/"><u>Shop the Best Gaming Monitor of The Year for a Steal - ASUS TUF's 34 Curve Now At Just Under $250!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-180hz-titan-army-p27a2r-a-top-contender-for-gamers-performance-needs/"><u>The Ultimate Guide to the 180Hz Titan Army P27A2R - A Top Contender for Gamers' Performance Needs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-troubleshooting-how-to-hard-reset-problematic-software-in-windows-11/"><u>Ultimate Troubleshooting: How to Hard Reset Problematic Software in Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/unlocking-gaming-performance-a-step-by-step-guide-to-activatingdeactivating-the-xbox-game-bar-in-windows-11/"><u>Unlocking Gaming Performance: A Step-by-Step Guide to Activating/Deactivating the Xbox Game Bar in Windows 11</u></a></li>
+</ul></div>
+

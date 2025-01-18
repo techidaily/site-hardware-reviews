@@ -1,7 +1,7 @@
 ---
 title: Discover Why This Lenovo Laptop Captivates Tech Savvy Users with Its Exceptional Duo Features | Exclusive Review by ZDNET
-date: 2025-01-06T22:55:48.900Z
-updated: 2025-01-12T17:14:17.071Z
+date: 2025-01-14T18:54:23.106Z
+updated: 2025-01-18T16:03:23.067Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,22 +134,20 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-license-free-minecraft-banner-pack/"><u>[New] License-Free Minecraft Banner Pack</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-exceptional-sound-value-for-aspiring-asmr-artists/"><u>[Updated] 2024 Approved Exceptional Sound Value for Aspiring ASMR Artists</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-become-an-insta-celebrity-overnight-top-15-strategies-from-social-media-experts/"><u>[Updated] Become an Insta Celebrity Overnight Top 15 Strategies From Social Media Experts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-ps5xbox-x-visuals-the-leading-game-screens-ranked/"><u>[Updated] PS5/Xbox X Visuals The Leading Game Screens Ranked</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adapting-fn-key-operations-in-the-latest-windows-os/"><u>Adapting FN Key Operations in the Latest Windows OS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-methods-to-expand-your-icloud-storage-for-seamless-photo-backups/"><u>Free Methods to Expand Your iCloud Storage for Seamless Photo Backups</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-nokia-c22-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Nokia C22?</u></a></li>
-<li><a href="https://fox-place.techidaily.com/master-remote-controlling-android-with-iphone-top-techniques-unveiled/"><u>Master Remote Controlling Android with iPhone – Top Techniques Unveiled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pre-order-your-atandt-and-verizon-pixel-fold-available-now/"><u>Pre-Order Your AT&T & Verizon Pixel Fold - Available Now!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/preventing-damage-from-cellphone-shakes-protecting-your-smartphones-lens-a-guide-for-iphone-and-android-users/"><u>Preventing Damage From Cellphone Shakes: Protecting Your Smartphone's Lens - A Guide for iPhone & Android Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/preventing-nuisance-automated-calls-tips-for-android-users/"><u>Preventing Nuisance Automated Calls: Tips for Android Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/seamless-integration-of-windows-and-android-in-lenovos-innovative-thinkbook-plus-nhybrid/"><u>Seamless Integration of Windows & Android in Lenovo's Innovative ThinkBook Plus Nhybrid.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/seamlessly-transfer-website-links-from-your-android-smartphone-to-your-pc-running-windows/"><u>Seamlessly Transfer Website Links From Your Android Smartphone to Your PC Running Windows</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/smart-savings-high-quality-phones-available-for-less-than-1000/"><u>Smart Savings: High-Quality Phones Available for Less Than $1,000</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/smartphone-screen-protectors-are-they-necessary-or-just-extra-expense/"><u>Smartphone Screen Protectors: Are They Necessary or Just Extra Expense?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-how-to-empty-your-android-devices-cache/"><u>Step-by-Step Guide: How To Empty Your Android Device's Cache</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/ultimate-trailer-treasure-chest/"><u>Ultimate Trailer Treasure Chest</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-screen-selection-dilemma-ultrawide-monitors-versus-uhd-4k-for-2024/"><u>[Updated] Screen Selection Dilemma UltraWide Monitors versus UHD 4K for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unmatched-tech-elevation-through-srs-enhancement-for-2024/"><u>[Updated] Unmatched Tech Elevation Through SRS Enhancement for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-visuals-enhancing-pictures-with-words/"><u>2024 Approved Expertise in Visuals Enhancing Pictures with Words</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-breakdown-of-asus-rog-keris-ii-ace-vs-deathadder-v3-pro-battle-for-gaming-supremacy-begins/"><u>Comprehensive Breakdown of Asus ROG Keris II Ace vs DeathAdder V3 Pro: Battle for Gaming Supremacy Begins</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-bluetooth-30-driver-update-compatible-with-qualcomm-atheros-ar3011-chips/"><u>Download Bluetooth 3.0 Driver Update: [Compatible with] Qualcomm Atheros AR3011 Chips</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-guidance-navigating-and-fixing-issues-with-file-explorer-in-windows-11/"><u>Effortless Guidance: Navigating and Fixing Issues with File Explorer in Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-review-of-the-hp-omnibook-x-long-lasting-on-a-single-charge/"><u>Expert Review of the HP OmniBook X: Long-Lasting on a Single Charge</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gaming-at-its-best-with-the-aorus-z69ueh-an-in-depth-look-at-the-gigabyte-gaming-monitors-high-performance-and-elegant-design-features/"><u>Gaming at Its Best with the Aorus Z69UEH: An In-Depth Look at the Gigabyte Gaming Monitor's High Performance and Elegant Design Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-nvidia-turned-a-legacy-april-fools-hoax-into-reality-with-groundbreaking-g-assist-technology/"><u>How NVIDIA Turned a Legacy April Fool's Hoax Into Reality with Groundbreaking G-Assist Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-computing-solutions-a-guide-by-technology-virtuoso-tom/"><u>Innovative Computing Solutions - A Guide by Technology Virtuoso, Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-tech-knowledge-with-expert-advice-from-tome-hardware/"><u>Master Your Tech Knowledge with Expert Advice From Tom'e Hardware</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/one-click-wonder-livestream-your-podcast-for-2024/"><u>One Click Wonder Livestream Your Podcast for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tackling-tech-deep-dives-into-toms-world-of-hardware-solutions/"><u>Tackling Tech: Deep Dives Into Tom's World of Hardware Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-fixing-pdhdll-errors-and-missing-files/"><u>The Ultimate Guide to Fixing Pdh.dll Errors and Missing Files</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-xiaomi-redmi-a2-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Xiaomi Redmi A2 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

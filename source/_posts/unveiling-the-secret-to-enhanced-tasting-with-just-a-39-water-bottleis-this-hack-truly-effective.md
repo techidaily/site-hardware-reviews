@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Secret to Enhanced Tasting with Just a $39 Water Bottle![Is This Hack Truly Effective?]
-date: 2024-09-17 12:15:57
-updated: 2024-09-20 11:20:28
+date: 2025-01-13T18:48:14.863Z
+updated: 2025-01-18T19:02:11.375Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,28 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-take-your-online-presence-to-new-heights-with-youtube-edits-in-sony-vegas/"><u>[New] 2024 Approved Take Your Online Presence to New Heights with YouTube Edits in Sony Vegas</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-comprehensive-introduction-to-quantum-hdr-principles/"><u>[New] A Comprehensive Introduction to Quantum HDR Principles</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-elevate-tiktok-videography-with-zooming-expertise-for-2024/"><u>[New] Elevate TikTok Videography with Zooming Expertise for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-swift-solution-for-clownfish-vocal-alteration-on-pc-systems/"><u>[New] In 2024, Swift Solution for Clownfish Vocal Alteration on PC Systems</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-insiders-guide-to-overwatch-game-recording-for-2024/"><u>[Updated] The Insider's Guide to Overwatch Game Recording for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-pro-video-editing-selections-for-social-media/"><u>2024 Approved Pro Video Editing Selections for Social Media</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-your-guide-to-cutting-edge-technology/"><u>Exploring Gadgets with Tom's Hardware - Your Guide to Cutting-Edge Technology</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-v29-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted V29 Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-years-biggest-beauty-influencers-on-youtube/"><u>In 2024, Year's Biggest Beauty Influencers on YouTube</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-patriot-viper-vp4300-lite-affordable-4tb-performance-tested/"><u>In-Depth Analysis of the Patriot Viper VP4300 Lite: Affordable 4TB Performance Tested</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/intel-versus-amd-an-in-depth-look-at-which-cpu-outperforms/"><u>Intel Versus AMD: An In-Depth Look at Which CPU Outperforms?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-cpu-speed-checks-quick-easy-insights-for-peak-computing-performance/"><u>Master the Art of CPU Speed Checks - Quick, Easy Insights for Peak Computing Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-gadgets-with-tom-an-authoritative-source-on-cutting-edge-computer-hardware/"><u>Navigating New Gadgets with Tom: An Authoritative Source on Cutting-Edge Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-guides-on-hardware/"><u>Tom's Tech Insights: Comprehensive Guides on Hardware</u></a></li>
+</ul></div>
+

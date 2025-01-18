@@ -1,7 +1,7 @@
 ---
 title: Exclusive Oct '24 Game Deals on Amazon Prime Day! Unveiling the Hottest Discounts & Steals for Gamers | Digital Trends
-date: 2025-01-09T03:19:30.836Z
-updated: 2025-01-13T00:49:21.930Z
+date: 2025-01-13T17:37:24.880Z
+updated: 2025-01-18T18:36:31.714Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ Brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-day-sam
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Our favorite early Amazon October Prime Day gaming deals
 
@@ -164,6 +168,10 @@ Nintendo/ZDNET
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -179,10 +187,6 @@ Kyle Kucharski/ZDNET
 * [HP Victus 15L desktop for $480 (save $370 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0325m-59a32av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-level gaming desktop built with an AMD Ryzen 5 5600G processor, AMD Radeon RX 6400 GPU, 8GB of RAM, and a 256GB SSD.
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming laptop deals
 
 Lenovo
@@ -195,10 +199,6 @@ Lenovo
 * [HP Victus 16 laptop for $850 (save $450 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-gaming-laptop-16t-r100-161-91c59av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-grade gamign laptop with a 16-inch 1080p IPS display, 144Hz refresh rate, 14th gen Intel Core i5 CPU, 16GB of RAM, GeForce RTX 4050 GPU, and a 512GB SSD.
 * [Alienware m18 R2 for $3,200 (save $800 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming monitor deals
 
 Samsung/ZDNET
@@ -210,7 +210,7 @@ Samsung/ZDNET
 * [Acer Predator X27U for $680 (save $320 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1772478-REG%2Facer%5Fum%5Fhxxaa%5F001%5Fpredator%5Fx27u%5F27%5Fgaming.html%2Fspecs): A 27-inch gaming monitor with a 240Hz refresh rate, 1440p resolution, a 0.03ms response time, and support for AMD FreeSync Premium Pro VRR.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals
@@ -219,10 +219,6 @@ Samsung/ZDNET
 * [WD EasyStore 20TB external HDD for $330 (save $119)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fwd-easystore-20tb-external-usb-3-0-hard-drive-black%2F6500985.p%3FskuId%3D6500985&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An external traditional HDD with 20TB of storage for backing up your entire desktop, storing raw video and picture files, and downloading large game files.
 * [Razer DeathStalker V2 Pro TKL wireless keybaord for $145 (save $75 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-deathstalker-v2-pro-tkl-wireless-optical-linear-switch-gaming-keyboard-with-low-profile-design-black%2F6512382.p%3FskuId%3D6512382&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less keyboard with optical linear switches and a low-profile design.
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals
 
@@ -233,12 +229,16 @@ Samsung/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
@@ -313,24 +313,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-flip-photo-trail-on-fb-3-techniques-explored/"><u>[New] In 2024, Flip Photo Trail on FB - 3 Techniques Explored</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-leveraging-instagrams-capabilities-for-podcast-promotion/"><u>[New] In 2024, Leveraging Instagram's Capabilities for Podcast Promotion</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-android-audio-alchemy-selecting-the-top-free-downloader-apps-from-youtube-for-2024/"><u>[Updated] Android Audio Alchemy Selecting the Top Free Downloader Apps From YouTube for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-instant-screener-chromeos-edition-for-2024/"><u>[Updated] Instant Screener ChromeOS Edition for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-spotting-instagram-followers-lost-for-2024/"><u>[Updated] Spotting Instagram Followers Lost for 2024</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1-quatro-estrategias-simples-para-restaurar-informacoes-apagadas-de-seu-hd-sem-custo/"><u>1. Quatro Estratégias Simples Para Restaurar Informações Apagadas De Seu HD Sem Custo</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-cameras-that-complement-best-hats-for-capturing-motorcycle-adventures/"><u>2024 Approved Cameras That Complement Best Hats for Capturing Motorcycle Adventures</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-gigabyte-b76eb-ds3h-ax-matrix-an-in-depth-look-at-the-affordable-entry-level-micro-atx-motherboard/"><u>Comprehensive Gigabyte B76eb DS3H AX MATRIX - An In-Depth Look at the Affordable Entry-Level Micro ATX Motherboard</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/big-on-youtube-via-cp2024-step-by-step-approach/"><u>Earn Big on YouTube via CP2024 Step-by-Step Approach</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-the-logitech-g-pro-x-2-lightspeed-a-must-have-for-serious-gamers/"><u>Expert Analysis of the Logitech G Pro X 2 Lightspeed - A Must-Have for Serious Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-opinions-on-next-gen-tech-devices-the-toms-hardware-perspective/"><u>Expert Opinions on Next-Gen Tech Devices: The Tom's Hardware Perspective</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-v29-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo V29 Pro Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovations-in-electronics-discovered-at-the-workshop-of-toms-hardware-experts/"><u>Innovations in Electronics Discovered at the Workshop of Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-toms-hardware-gadgets-and-geekery/"><u>Inside the World of Tom’s Hardware: Gadgets and Geekery</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-wisdom/"><u>Navigating the World of Electronics with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/premium-performance-expert-insights-on-corsairs-mp600-1tb-ssd-for-e27t-enthusiasts/"><u>Premium Performance: Expert Insights on Corsair's MP600 1TB SSD for E27T Enthusiasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/psychological-support-can-play-a-significant-role-in-recovery-addressing-the-mental-health-impacts-of-ocular-trauma/"><u>Psychological Support Can Play a Significant Role in Recovery, Addressing the Mental Health Impacts of Ocular Trauma.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-world-of-components-with-toms-hardware-explorations/"><u>The World of Components with Tom's Hardware Explorations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-iphone-vr-videos-unveiled-a-quick-how-to-for-2024/"><u>[New] IPhone VR Videos Unveiled A Quick How-To for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-quick-guide-to-modifying-your-vocal-characteristics-in-pubg/"><u>[New] The Quick Guide to Modifying Your Vocal Characteristics in PUBG</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-ultimate-song-guide-for-newbies/"><u>2024 Approved The Ultimate Song Guide for Newbies</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/achieve-rejuvenating-mornings-using-the-ihome-zenergy-a-breakthrough-in-bedside-sleep-technology-reviewed/"><u>Achieve Rejuvenating Mornings Using the iHome Zenergy – A Breakthrough in Bedside Sleep Technology Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-hostingers-services-virtual-private-servers-cloud-solutions-and-shared-hosting/"><u>Comprehensive Analysis of Hostinger's Services: Virtual Private Servers, Cloud Solutions & Shared Hosting</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-future-of-computing-on-toms-hardware-showcase/"><u>Discover the Future of Computing on Tom's Hardware Showcase</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/emergency-tech-fixes-dealing-with-macos-crashes/"><u>Emergency Tech Fixes: Dealing with MacOS Crashes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976773728-enhance-your-gaming-experience-with-newly-released-steelseries-arctis-5-drivers-download-here/"><u>Enhance Your Gaming Experience with Newly Released SteelSeries Arctis 5 Drivers – Download Here</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-electronics-with-tom-your-guide-to-cutting-edge-hardware/"><u>Inside Electronics with Tom: Your Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-maze-toms-authoritative-guide-to-computer-components/"><u>Navigating the Tech Maze: Tom's Authoritative Guide to Computer Components</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printing-resumed-in-hp-all-in-one-after-network-fix/"><u>Printing Resumed in HP All-in-One After Network Fix</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-anycub-(datetime)kobra-3-revolutionizing-3d-printing-with-multicolor-capabilities/"><u>Review of Anycub <DateTime>Kobra 3 - Revolutionizing 3D Printing with Multicolor Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-hardware/"><u>Tom's Tech Hub - The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-ultimate-guide-to-cutting-edge-hardware-solutions/"><u>Tom's Ultimate Guide to Cutting-Edge Hardware Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-secrets-toms-authoritative-hardware-reviews/"><u>Unlocking Performance Secrets: Tom's Authoritative Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-digital-tools-top-picks-from-toms-comprehensive-hardware-guide/"><u>Unveiling Digital Tools: Top Picks From Tom’s Comprehensive Hardware Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Regaining Access and Retrieving Files From Your Pre-Owned Laptop Without a Password - Tips & Tricks"
-date: 2025-01-05T16:20:35.211Z
-updated: 2025-01-12T19:41:59.889Z
+date: 2025-01-12T17:27:36.038Z
+updated: 2025-01-18T17:23:18.263Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,16 +118,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-immersive-editing-unveiling-the-top-15-cine-luts-for-action-cam/"><u>[New] Immersive Editing Unveiling the Top 15 Cine LUTs for Action Cam</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-13-pro-max-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 13 Pro Max? How to Fix it?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-computer-reviews-the-ultimate-guide/"><u>Exploring Tom's Computer Reviews: The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-emporium-comprehensive-guides-and-reviews/"><u>Exploring Tom's Tech Emporium: Comprehensive Guides & Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-reviews-top-picks-and-insights/"><u>Exploring Tom's Tech Reviews: Top Picks & Insights</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-vivo-y28-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Vivo Y28 5G</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-pro-drone-experience-a-thorough-look-at-dji-phantom-4/"><u>In 2024, The Pro Drone Experience A Thorough Look at DJI Phantom 4</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-the-latest-computer-hardware/"><u>Tom's Tech Review: In-Depth Analysis of the Latest Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-performance-showdown-in-depth-adata-xpg-lancer-rgb-ddr5-6000-c40-dual-channel-memory-kit-review-featuring-exceptional-samsung-b-die-technology/"><u>Ultimate Performance Showdown: In-Depth Adata XPG Lancer RGB DDR5-6000 C40 Dual Channel Memory Kit Review - Featuring Exceptional Samsung B-Die Technology</u></a></li>
-<li><a href="https://fox-info.techidaily.com/unboxing-the-power-of-yis-high-definition-cam/"><u>Unboxing the Power of YI's High Definition Cam</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-instagram-engage-obs-live-streaming/"><u>[New] Instagram Engage OBS Live Streaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-asus-display-a-journey-through-precision-and-color/"><u>[New] The Ultimate ASUS Display A Journey Through Precision and Color</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-5-online-titler-pros-unveiled/"><u>[New] Top 5 Online Titler Pros Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-proart-pa32ucxr-mini-led-monitor-evaluation-exceptional-color-fidelity-for-professional-creatives/"><u>Asus ProArt PA32UCXR Mini LED Monitor Evaluation: Exceptional Color Fidelity for Professional Creatives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-power-an-experts-take-on-the-value-packed-gigabyte-b760m-ds3h-ax-motherboard-for-multi-screen-enthusiasts/"><u>Discover the Power: An Expert's Take on the Value-Packed Gigabyte B760M DS3H AX Motherboard for Multi-Screen Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-your-new-favorite-powerhouse-the-hp-victus-15-for-only-515-on-best-buys-antidote-to-prime-day-featured/"><u>Discover Your New Favorite Powerhouse: The HP Victus 15 for Only $515 on Best Buy's Antidote to Prime Day – Featured</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/dive-deep-into-google-meet-a-free-host-and-participants-guide/"><u>Dive Deep Into Google Meet A Free Host & Participant's Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-wartime-velocity-the-unconventional-flsun-s1-solar-charger-reviewed/"><u>Exploring Wartime Velocity - The Unconventional FLSun S1 Solar Charger Reviewed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-windows-speaker-sound-distortion-issue/"><u>How to Fix Window's Speaker Sound Distortion Issue</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-samsung-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Samsung using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transformative-tactics-for-impeccable-hue-correction/"><u>In 2024, Transformative Tactics for Impeccable Hue Correction</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-with-toms-hardware-insights-and-in-depth-analysis/"><u>Master Your PC with Tom's Hardware Insights and In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-tech-the-toms-hardware-chronicles/"><u>Navigating Through Tech: The Tom's Hardware Chronicles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-pc-reviews-and-hardware-analysis-toms-digital-chronicles/"><u>Pioneering PC Reviews and Hardware Analysis - Tom's Digital Chronicles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341683423-surgical-intervention-may-be-necessary-for-certain-types-of-eye-injuries-to-preserve-vision-and-prevent-further-damage/"><u>Surgical Intervention May Be Necessary for Certain Types of Eye Injuries to Preserve Vision and Prevent Further Damage</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-key-to-successful-collaborations-in-the-digital-age-for-2024/"><u>The Key to Successful Collaborations in the Digital Age for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-unmatched-potential-of-the-pixio-px277-a-masterclass-on-an-exceptional-oled-gaming-screen/"><u>The Unmatched Potential of the Pixio PX277: A Masterclass on an Exceptional OLED Gaming Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-a-comprehensive-guide-to-cutting-edge-gadgets/"><u>Tom's Tech: A Comprehensive Guide to Cutting-Edge Gadgets</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
 </ul></div>
 

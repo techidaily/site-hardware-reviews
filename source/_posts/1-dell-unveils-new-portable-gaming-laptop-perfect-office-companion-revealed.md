@@ -1,7 +1,7 @@
 ---
 title: "1. Dell Unveils New Portable Gaming Laptop: Perfect Office Companion Revealed !"
-date: 2025-01-11T21:53:47.765Z
-updated: 2025-01-12T19:18:44.773Z
+date: 2025-01-14T16:47:48.314Z
+updated: 2025-01-18T18:38:40.583Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,21 +114,19 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-inside-the-studio-world-xvideo-studio-breakdown/"><u>[New] Inside the Studio World XVideo Studio Breakdown</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-essential-guide-to-youtube-video-resolutions-and-aspects-for-2024/"><u>[Updated] Essential Guide to YouTube Video Resolutions & Aspects for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-elite-stealth-vids-downloader-guide-1-to-8/"><u>[Updated] In 2024, Elite Stealth Vids Downloader Guide - #1 to #8</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-mystery-behind-professional-looking-time-lapses-in-gopro/"><u>2024 Approved Unveiling the Mystery Behind Professional-Looking Time Lapses in GoPro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-infinix-smart-8-hd-unlock-without-password-by-drfone-android/"><u>5 Solutions For Infinix Smart 8 HD Unlock Without Password</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-asus-rog-azoth-extreme-at-just-500-reviews-inside/"><u>Expert Analysis on Asus ROG Azoth Extreme at Just $500 - Reviews Inside!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gear-with-toms-hardware-insights/"><u>Exploring Computer Gear with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/fast-and-powerful-how-mu-stacks-up-against-raspberry-pi-4-in-speed-though-costs-more/"><u>Fast and Powerful: How Mu Stacks Up Against Raspberry Pi 4 in Speed, Though Costs More</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-xiaomi-redmi-note-13-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-visualslice-software/"><u>In 2024, VisualSlice Software</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-unbeatable-corsair-1tb-m2-slim-e2-t-reviewed/"><u>In-Depth Analysis of the Unbeatable Corsair 1TB M.2 Slim (E2# T) Reviewed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-digital-space-with-tips-from-toms-hardware-hub/"><u>Mastering Your Digital Space with Tips From Tom's Hardware Hub</u></a></li>
-<li><a href="https://howto.techidaily.com/realme-c51-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme C51 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-of-the-curve-top-picks-in-hardware-from-toms-authoritative-reviews/"><u>Stay Ahead of the Curve: Top Picks in Hardware From Tom's Authoritative Reviews</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209840731-9781935214090-the-new-power-of-face-reading/"><u>The NEW Power of Face Reading | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-reviews-and-advice/"><u>Tom's Tech Insights: Comprehensive Reviews and Advice</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-foremost-techniques-for-transforming-seminars-into-videos/"><u>[New] The Foremost Techniques for Transforming Seminars Into Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-stream-titling-service/"><u>[Updated] In 2024, Stream Titling Service</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-technology-toms-detailed-evaluations-on-hardware/"><u>Decoding Technology: Tom's Detailed Evaluations on Hardware</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-multi-user-android-calls-the-top-8-tools/"><u>In 2024, Multi-User Android Calls The Top 8 Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/insights-into-the-pny-rp60-1tb-ssd-review-acceptably-efficient-but-not-particularly-memorable/"><u>Insights Into the PNY RP60 1TB SSD Review - Acceptably Efficient, But Not Particularly Memorable</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/iphone-showdown-how-the-new-iphone-15-pro-stands-up-against-the-pro-max/"><u>IPhone Showdown: How the New iPhone 15 Pro Stands Up Against the Pro Max</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-cropping-and-resizing-images-in-final-cut-pro-x-made-easy/"><u>New Cropping and Resizing Images in Final Cut Pro X Made Easy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-technology-reviews-unveiling-the-latest-in-hardware-with-toms-insights/"><u>Pioneering Technology Reviews: Unveiling the Latest in Hardware with Tom's Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sovol-sv08-evaluation-reviving-the-spirit-of-voron-on-two-wheels/"><u>Sovol SV08 Evaluation: Reviving the Spirit of Voron on Two Wheels</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-kingston-fury-beast-ddr5-memory-module-reviewed-testing-its-c40-technology-across-dual-32gb-channels/"><u>The Kingston Fury Beast DDR5 Memory Module Reviewed - Testing Its C40 Technology Across Dual 32GB Channels</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unpacking-the-ultrabook-an-in-depth-review-of-microsofts-budget-friendly-laptop-go/"><u>Unpacking the Ultrabook: An In-Depth Review of Microsoft's Budget-Friendly Laptop Go</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-converting-sounds-to-words-the-ultimate-free-guide-with-top-3-strategies/"><u>Updated Converting Sounds to Words The Ultimate Free Guide with Top 3 Strategies</u></a></li>
 </ul></div>
 

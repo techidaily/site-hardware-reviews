@@ -1,7 +1,7 @@
 ---
 title: College Comeback? Score Top Discounts on Laptops & Tablets From Samsung
-date: 2025-01-08T18:48:56.768Z
-updated: 2025-01-12T20:03:36.087Z
+date: 2025-01-14T18:40:20.452Z
+updated: 2025-01-18T16:50:52.384Z
 tags:
   - laptops
 categories:
@@ -51,7 +51,7 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -90,18 +90,15 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-titans-of-transportation-in-drone-tech/"><u>[New] 2024 Approved Top Titans of Transportation in Drone Tech</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-budget-friendly-sponsorship-blueprint-for-youtube-enthusiasts/"><u>[New] Budget-Friendly Sponsorship Blueprint for YouTube Enthusiasts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-swiftly-uncover-unfollowers-on-instagram-for-2024/"><u>[New] Swiftly Uncover Unfollowers on Instagram for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-minecraft-geometries-circular-and-spherical-designs/"><u>[Updated] Mastering Minecraft Geometries Circular & Spherical Designs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-maximizing-video-channels-earning-with-new-policies/"><u>[Updated] Maximizing Video Channels Earning with New Policies</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/innovative-strategies-for-captivating-handc-fb-campaigns/"><u>Innovative Strategies for Captivating H&C FB Campaigns</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/revolutionize-your-sales-approach-with-the-best-15-social-media-analyzers/"><u>Revolutionize Your Sales Approach with the Best 15 Social Media Analyzers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-nubia-red-magic-8s-proplus-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Nubia Red Magic 8S Pro+ FRP</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlock-next-level-features-on-a-budget-the-best-deals-in-tech-700-samsung-galaxy-s21-fe-5g/"><u>Unlock Next-Level Features on a Budget: The Best Deals in Tech - $700 Samsung Galaxy S21 FE 5G</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-androids-full-potential-with-these-5-ingenious-screen-grab-techniques/"><u>Unlocking Android's Full Potential with These 5 Ingenious Screen Grab Techniques</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-guide-final-opportunity-to-access-your-lg-smartphone-securely/"><u>Unlocking Guide: Final Opportunity to Access Your LG Smartphone Securely</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-of-the-full-specs-anticipate-the-google-pixel-7s-grand-release-in-october/"><u>Unveiling of the Full Specs: Anticipate the Google Pixel 7'S Grand Release in October</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upcoming-solutions-for-pixel-6-pro-when-will-that-persistent-screen-flicker-stop/"><u>Upcoming Solutions for Pixel 6 Pro: When Will That Persistent Screen Flicker Stop?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-best-of-the-best-top-12-tycoon-games-for-epic-victories/"><u>[New] 2024 Approved Best of the Best Top 12 Tycoon Games for Epic Victories</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/levating-your-videos-reach-top-8-youtube-ranks-unveiled/"><u>[New] Elevating Your Video's Reach - Top 8 YouTube Ranks Unveiled</u></a></li>
+<li><a href="https://fox-that.techidaily.com/4-ways-to-fix-standby-not-working-on-your-iphone/"><u>4 Ways to Fix StandBy Not Working on Your iPhone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-current-vr-devices-explored/"><u>In 2024, Current VR Devices Explored</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-acer-predator-orion-5000-unbeatable-performance-meets-cost-efficiency/"><u>In-Depth Analysis of the Acer Predator Orion 5000: Unbeatable Performance Meets Cost-Efficiency</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210696054-9780645206456-my-way-my-truthful-way/"><u>My Way, my Truthful Way | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-trends-at-toms-computer-resource/"><u>Navigating Technology Trends at Tom's Computer Resource</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-make-a-meme-step-by-step/"><u>New How to Make a Meme (Step by Step)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-newly-updated-dell-xps-13-where-style-meets-speed-with-snapdragon-x-elite-tech/"><u>The Ultimate Guide to the Newly Updated Dell XPS 13 - Where Style Meets Speed with Snapdragon X Elite Tech</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-efficiency-a-closer-look-at-nzxts-c1500-platinum-psu/"><u>Unveiling Efficiency: A Closer Look at NZXT's C1500 Platinum PSU</u></a></li>
 </ul></div>
 

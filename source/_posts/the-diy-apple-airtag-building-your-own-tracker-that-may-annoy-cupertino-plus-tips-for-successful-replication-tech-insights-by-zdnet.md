@@ -1,7 +1,7 @@
 ---
 title: "The DIY Apple AirTag: Building Your Own Tracker That May Annoy Cupertino, Plus Tips for Successful Replication | Tech Insights by ZDNET"
-date: 2024-09-19 11:58:22
-updated: 2024-09-20 11:16:13
+date: 2025-01-11T19:10:19.984Z
+updated: 2025-01-18T18:46:28.054Z
 tags:
   - mobile-accessories
 categories:
@@ -16,6 +16,10 @@ The new generation of iPhones are here and features a new action button, more AI
 **Also:** [**Preorder the iPhone 16 now (and even get one for free) - here's how**](https://www.zdnet.com/article/preorder-the-iphone-16-now-and-even-get-one-for-free-heres-how/)
 
 It's no secret that iPhones aren't the most rugged devices, sometimes yielding screen cracks and camera damage from simple drops. Luckily, ZDNET editors have gone hands-on with iPhone 16 cases to see how they match up. No matter your needs -- drop protection, style _with_ durability, or functionality -- we've got you covered. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case right now?
 
@@ -89,6 +93,10 @@ Cons
 * Minimal drop protection
 * Heftier price
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pitaka Ultra Slim case
 
 #### Best thin iPhone 16 case
@@ -140,6 +148,10 @@ Pros
 
 Cons 
 * Pricier
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mous Limitless 6.0
 
@@ -195,6 +207,10 @@ Pros
 Cons 
 * Not too much protection
 * Pricey for low protection
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Moft Snap Case Movas
 
@@ -262,6 +278,10 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Incase Icon case                | A unique and stylish case with protection and MagSafe capabilities.                                     |
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing the best iPhone 16 case
 
 We kept in mind the most important factors when choosing the best iPhone 16 cases. The most relevant aspects are:
@@ -270,6 +290,10 @@ We kept in mind the most important factors when choosing the best iPhone 16 case
 * **Style:** iPhone cases go beyond just protecting the device. Like most people, you may want a phone case that matches your personal style and is pleasing to the eye.
 * **Cost:** iPhones are expensive, and spending a lot on a phone case just adds to the bill. Therefore, we consider price an important factor in our selections.
 * **Special Features:** Many cases have added features like MagSafe capabilities and a kickstand. We include these products to appease those who may prefer wireless charging or other necessary features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these iPhone 16 cases?
 
@@ -280,6 +304,10 @@ To choose these iPhone 16 cases, we performed extensive research over every corn
 On this list, the Nomad Sport case and the Torras Ostand MagSafe Case are the most protective for their drop protection and protective features. 
 
 However, if you stray from the list, the best options are those with a solid bumper and durable material. Before purchasing a case, make sure to check its drop protection and other safety features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best phone case brand?
 
@@ -338,11 +366,27 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techno-recovery.techidaily.com/12-must-try-no-fee-typing-tutorials-perfect-for-adults-and-kids-alike/"><u>12 Must-Try No-Fee Typing Tutorials: Perfect for Adults & Kids Alike</u></a></li>
+<li><a href="https://win11.techidaily.com/configure-your-sandbox-a-win-11-guide/"><u>Configure Your Sandbox: A Win 11 Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-computers-and-accessories-curated-by-toms-hardware/"><u>Cutting-Edge Computers and Accessories Curated by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/easy-diy-motherboard-selection-for-hassle-free-pc-construction/"><u>Easy DIY Motherboard Selection for Hassle-Free PC Construction</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-hardware-by-tom-your-guide-to-tech-choices/"><u>Expert Analysis of Hardware by Tom - Your Guide to Tech Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-systems-with-toms-hardware-analysis/"><u>Exploring Advanced Systems with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-hardware-with-toms-guide/"><u>Exploring Computer Hardware with Tom's Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/full-draft-of-the-upcoming-pcie-generation-7-specs-moving-ahead-to-official-release/"><u>Full Draft of the Upcoming PCIe Generation 7 Specs - Moving Ahead to Official Release</u></a></li>
+<li><a href="https://games-able.techidaily.com/ios-18-unleashed-at-apples-wwdc-event-the-hidden-delight-that-outshines-ai/"><u>IOS 18 Unleashed at Apple's WWDC Event – The Hidden Delight That Outshines AI!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/review-alert-unleashing-the-power-of-nvidia-shield-tv-pro-for-streaming-gamers/"><u>Review Alert: Unleashing the Power of Nvidia Shield TV Pro for Streaming Gamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-comprehensive-tutorial-on-assessing-monthly-bandwidth-expenditure/"><u>The Comprehensive Tutorial on Assessing Monthly Bandwidth Expenditure</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essence-of-e-story-creation-techniques/"><u>The Essence of E-Story Creation Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-mouse-fixing-right-click-issues-on-windows-11/"><u>Troubleshooting the Mouse: Fixing Right-Click Issues on Windows 11</u></a></li>
+</ul></div>
+

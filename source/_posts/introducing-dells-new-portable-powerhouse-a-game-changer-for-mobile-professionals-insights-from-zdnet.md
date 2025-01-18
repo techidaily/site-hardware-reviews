@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Portable Powerhouse: A Game Changer for Mobile Professionals - Insights From ZDNet"
-date: 2025-01-07T17:52:03.832Z
-updated: 2025-01-12T20:35:31.103Z
+date: 2025-01-11T17:27:21.294Z
+updated: 2025-01-18T18:12:34.933Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,17 +114,20 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-charting-a-course-to-a-million-fans-with-this-tutorial-for-2024/"><u>[New] Charting a Course to a Million Fans with This Tutorial for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-overcoming-uneven-sound-in-fb-video-playback-for-2024/"><u>[Updated] Overcoming Uneven Sound in FB Video Playback for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-screen-recording-face-off-bandicam-vs-camtasias-features/"><u>[Updated] Screen Recording Face-Off Bandicam vs Camtasia's Features</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-closer-look-at-gigabyes-premium-b650-aorus-elite-ax-ice-motherboard-evaluating-cost-vs-quality-and-usb-capabilities/"><u>A Closer Look at Gigabye's Premium B650 Aorus Elite AX Ice Motherboard: Evaluating Cost Vs. Quality and USB Capabilities</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuite-des-fichiers-avi-avec-la-meilleure-solution-de-conversion-video-movavi/"><u>Conversion Gratuite Des Fichiers AVI Avec La Meilleure Solution De Conversion Vidéo: Movavi</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-world-of-computer-components-with-expert-guidance-from-toms-hardware/"><u>Dive Into the World of Computer Components with Expert Guidance From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-hub-your-ultimate-guide/"><u>Exploring Tom's Tech Hub: Your Ultimate Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-create-a-gmail-alias/"><u>How to Create a Gmail Alias</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-deskjet-3050-compatible-printer-driver-download-for-windows-operating-system/"><u>HP Deskjet 3050 - Compatible Printer Driver Download for Windows Operating System</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-pimoroni-nvme-solid-state-drive-ssd-dual-base-unit-review/"><u>In-Depth Analysis: Pimoroni NVMe Solid State Drive (SSD) Dual Base Unit Review</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/unlocking-creative-expression-tips-for-sharing-gifs-on-snapchat-for-2024/"><u>Unlocking Creative Expression Tips for Sharing GIFs on Snapchat for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unlocking-fix-for-video-glitch-0xc10100be/"><u>Unlocking Fix for Video Glitch 0XC10100be</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-boosting-your-zoom-meetings-chromebook-edition-for-2024/"><u>[New] Boosting Your Zoom Meetings Chromebook Edition for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-pictomixer-dynamic-media-player-for-macos/"><u>[New] PictoMixer Dynamic Media Player for macOS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-immediate-access-future-legacy-preserving-your-digital-moments/"><u>[Updated] 2024 Approved Immediate Access, Future Legacy Preserving Your Digital Moments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-top-8-free-and-paid-videomosaic-apps-on-android-platforms/"><u>[Updated] Exploring the Top 8 Free & Paid Videomosaic Apps on Android Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-complete-walkthrough-of-managing-rar-packages-on-macos-systems/"><u>A Complete Walkthrough of Managing RAR Packages on macOS Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordability-meets-quality-in-the-nuphy-halo75-v2-mechanical-keyboard-review/"><u>Affordability Meets Quality in the Nuphy Halo75 V2 Mechanical Keyboard Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-keris-ii-ace-the-gamers-choice-over-deathadder-v3-pro-in-depth-review/"><u>Asus ROG Keris II Ace: The Gamer's Choice Over DeathAdder V3 Pro - In-Depth Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-bluehost-services-insights-into-cloud-vps-and-shared-hosting-performance/"><u>Evaluating Bluehost Services: Insights Into Cloud, VPS & Shared Hosting Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-lenovo-yoga-pro-9i-evaluation-thin-design-with-responsive-keyboard/"><u>Expert Lenovo Yoga Pro 9I Evaluation: Thin Design with Responsive Keyboard</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-jokes-just-a-click-away-iphone/"><u>In 2024, Jokes Just a Click Away (iPhone)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y56-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y56 5G Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/professional-gaming-unleashed-a-comprehensive-review-of-logitechs-lightspeed-powerhouse-the-g-pro-x-2/"><u>Professional Gaming Unleashed: A Comprehensive Review of Logitech's Lightspeed Powerhouse, The G Pro X 2</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-deep-dive-into-cutting-edge-hardware/"><u>Tom's Tech Insights: A Deep Dive Into Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-insights-on-latest-hardware/"><u>Tom's Tech Review: In-Depth Insights on Latest Hardware</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-laptop-has-no-audio-output-problem/"><u>Troubleshooting and Solving 'Laptop Has No Audio Output' Problem</u></a></li>
 </ul></div>
 

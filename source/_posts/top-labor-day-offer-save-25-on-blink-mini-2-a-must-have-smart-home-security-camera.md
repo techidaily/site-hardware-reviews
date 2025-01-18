@@ -1,7 +1,7 @@
 ---
 title: "Top Labor Day Offer: Save 25%% on Blink Mini 2 - A Must-Have Smart Home Security Camera"
-date: 2024-09-18 10:35:24
-updated: 2024-09-20 11:55:52
+date: 2025-01-17T18:51:17.988Z
+updated: 2025-01-18T16:11:05.890Z
 tags:
   - kitchen-household
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/81bdcc97eef551e0f3a9b3144d7c585e9e69ed512
 ![EcoFlow Delta Pro 3 portable battery](https://www.zdnet.com/a/img/resize/493a0e14c2076aa82dd15d43be4c51552702595c/2024/06/20/9d465ec0-9e8c-4fee-b2aa-d5b5ce343244/2.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -77,6 +81,10 @@ How did it fare? The power returned about three hours later, and the Delta Pro 3
 
 Aside from this power outage, [we've tested](https://www.zdnet.com/home-and-office/energy/how-we-test-portable-power-stations/) the Delta Pro 3 as a standalone battery to power a home office setup, keeping consumption between 50W and 120W. The DP3 powered an LCD monitor, a Dell XPS laptop, a phone charger, and a USB-C tablet charger for four days. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Accessories-Emergencies%2Fdp%2FB0D14FMFZD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1) is an excellent option for anyone looking for a higher-capacity portable battery for camping or as an emergency home backup, as long as you're willing to pay the price, literally. It's not a cheap option among portable batteries, priced at $3199, which is about $400 less than the price of a [Delta Pro and Dual fuel inverter generator bundle](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Generator-High-Power-Appliances%2Fdp%2FB0BKGLCVRR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1).
@@ -106,11 +114,24 @@ Though priced high, the Delta Pro 3 seamlessly integrates into an EcoFlow home b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-ace-your-phone-the-ios-podcast-downloading-guidebook/"><u>[New] In 2024, Ace Your Phone The iOS Podcast Downloading Guidebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-prime-day-deals-continue-score-the-latest-offers-with-36-off-on-a-high-capacity-8tb-samsung-t5-ssd-featured/"><u>Amazon's Prime Day Deals Continue! Score the Latest Offers with 36% Off on a High-Capacity 8TB Samsung T5 SSD - Featured</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dell-xps-13-review-consistent-elegance-upgraded-with-the-latest-snapdragon-x-elite-processor/"><u>Dell XPS 13 Review - Consistent Elegance, Upgraded with the Latest Snapdragon X Elite Processor</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/dynamic-dividends-boosting-social-media-roi-with-fb-ad-animations/"><u>Dynamic Dividends Boosting Social Media ROI with FB Ad Animations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-powerful-symphony-with-blueants-soundblade-vibrant-sounds-and-style-combined/"><u>Experience the Powerful Symphony with BlueAnt's Soundblade - Vibrant Sounds & Style Combined</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-from-toms-equipment-hub-for-savvy-gamers-and-pros/"><u>Expert Advice From Tom's Equipment Hub for Savvy Gamers and Pros</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leveraging-azures-speech-to-text-for-enterprise-solutions-for-2024/"><u>Leveraging Azure's Speech-to-Text for Enterprise Solutions for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solution-overcoming-can-not-connect-to-projector-windows-troubleshooting/"><u>Quick Solution: Overcoming 'Can Not Connect To Projector' Windows Troubleshooting</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphone-cant-sendreceive-texts-with-these-7-tips/"><u>Solve 'iPhone Can't Send/Receive Texts' With These 7 Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-hidden-secrets-revealed-in-our-test-of-the-geekworm-x1011-nas-maker/"><u>The Hidden Secrets Revealed in Our Test of the Geekworm X1011 NAS Maker</u></a></li>
+</ul></div>
+

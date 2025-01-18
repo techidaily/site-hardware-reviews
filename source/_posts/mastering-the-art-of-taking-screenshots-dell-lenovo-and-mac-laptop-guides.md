@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Taking Screenshots: Dell, Lenovo & Mac Laptop Guides"
-date: 2025-01-09T17:28:34.897Z
-updated: 2025-01-13T02:08:13.449Z
+date: 2025-01-11T18:22:56.120Z
+updated: 2025-01-18T16:28:41.275Z
 tags:
   - laptops
 categories:
@@ -26,19 +26,19 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to take screenshots on any laptop
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Screenshotting on Windows-based laptops
 
@@ -56,6 +56,10 @@ The button can be just about anywhere, so just look for something that looks as 
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Paste your screenshot
 
 Once you've captured your display, the easiest way to edit and save it is by pasting it into an image editing app. If you've got Photoshop, that'll work, but since most people don't have access to such pro software, a much easier, free option works, too: Microsoft Paint.
@@ -69,6 +73,10 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 Michael Gariffo/ZDNET
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
@@ -96,15 +104,7 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Is there an easy way to record video of my laptop screen too?
 
@@ -115,7 +115,7 @@ There sure is. For Mac users, we've already covered [how to capture recordings o
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
@@ -157,19 +157,20 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ompile-of-the-most-beautiful-wedding-videos-youtube-and-vimeo-edition-for-2024/"><u>[New] Compile of the Most Beautiful Wedding Videos - Youtube & Vimeo Edition for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-iphone-and-samsung-faces-examining-their-biometric-security/"><u>[Updated] 2024 Approved IPhone & Samsung Faces Examining Their Biometric Security</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-innovative-youtube-titles-crafting-a-standout-brand/"><u>[Updated] In 2024, Innovative YouTube Titles Crafting a Standout Brand</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winx-dvd-ripper-and-video-converter/"><u>線上 WinX DVD Ripper & Video Converter 最新指南：操作與解決最常見的技術問題</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-breakdown-of-asus-rog-keris-ii-ace-vs-deathadder-v3-pro-battle-for-gaming-supremacy-begins/"><u>Comprehensive Breakdown of Asus ROG Keris II Ace vs DeathAdder V3 Pro: Battle for Gaming Supremacy Begins</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-testing-of-asrocks-z79-bios-guide/"><u>Comprehensive Testing of ASRock's Z79지킨트 라이트니늄 와일드플로우 모바일 BIOS Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-review-of-the-hp-omnibook-x-long-lasting-on-a-single-charge/"><u>Expert Review of the HP OmniBook X: Long-Lasting on a Single Charge</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gaming-at-its-best-with-the-aorus-z69ueh-an-in-depth-look-at-the-gigabyte-gaming-monitors-high-performance-and-elegant-design-features/"><u>Gaming at Its Best with the Aorus Z69UEH: An In-Depth Look at the Gigabyte Gaming Monitor's High Performance and Elegant Design Features</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-inverting-screen-time-with-android-videos/"><u>In 2024, Inverting Screen Time with Android Videos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-tech-knowledge-with-expert-advice-from-tome-hardware/"><u>Master Your Tech Knowledge with Expert Advice From Tom'e Hardware</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/metaversal-journey-versus-omniverse-quest-for-2024/"><u>Metaversal Journey Versus Omniverse Quest for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-resolving-non-functional-keyboard-issue-during-system-startup/"><u>Solved! Resolving Non-Functional Keyboard Issue During System Startup</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-review-the-ultimate-guide-to-buying-an-asus-rog-azoth-extreme-extreme-at-half-a-grand/"><u>Top Review: The Ultimate Guide to Buying an Asus ROG Azoth Extreme (Extreme) at Half a Grand</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-bridging-the-gap-between-social-platform-and-streaming-devices-for-2024/"><u>[New] Bridging the Gap Between Social Platform and Streaming Devices for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-space-to-nature-yts-guide-for-dynamic-green-screen-filmmaking-for-2024/"><u>[New] From Space to Nature YT's Guide for Dynamic Green Screen Filmmaking for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-final-cut-pro-for-beginners-the-definitive-starter-pack/"><u>2024 Approved Final Cut Pro for Beginners The Definitive Starter Pack</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-reviews-and-advice-on-gadgets-trust-in-toms-hardware/"><u>Comprehensive Reviews and Advice on Gadgets - Trust in Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-in-depth-analysis-of-latest-hardware-gadgets/"><u>Expert Reviews by Tom: In-Depth Analysis of Latest Hardware Gadgets</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-13-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 13 Data Completely | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-pixelmaster-elite-os-xwin-edition/"><u>In 2024, PixelMaster Elite OS X/Win Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-keychron-k2-he-special-edition-retro-charm-meets-modern-tech/"><u>In-Depth Analysis of the Keychron K2 HE Special Edition: Retro Charm Meets Modern Tech</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/investing-in-quality-the-path-to-top-tier-fb-video-ads-for-2024/"><u>Investing in Quality The Path to Top-Tier FB Video Ads for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-top-gains-on-social-media-secure-and-scalable-tactics/"><u>The Top Gains on Social Media - Secure & Scalable Tactics</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-choosing-a-superior-key-tracker-for-the-year-2n24/"><u>The Ultimate Guide to Choosing a Superior Key Tracker for the Year 2N24</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-all-things-hardware-by-tom/"><u>The Ultimate Resource for All Things Hardware by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-choosing-quality-components-by-tom/"><u>The Ultimate Resource for Choosing Quality Components by Tom</u></a></li>
+<li><a href="https://win-webster.techidaily.com/tiga-langkah-gratis-untuk-mengenali-dan-menemukan-file-yang-hapus-abad-ke-3/"><u>Tiga Langkah Gratis Untuk Mengenali Dan Menemukan File Yang Hapus Abad Ke-3</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-tom-in-depth-reviews-of-pc-hardware/"><u>Unveiling Gadgets with Tom: In-Depth Reviews of PC Hardware</u></a></li>
 </ul></div>
 

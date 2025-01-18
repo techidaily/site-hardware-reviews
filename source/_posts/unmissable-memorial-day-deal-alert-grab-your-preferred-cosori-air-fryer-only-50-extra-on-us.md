@@ -1,7 +1,7 @@
 ---
 title: "Unmissable Memorial Day Deal Alert: Grab Your Preferred Cosori Air Fryer Only $50 Extra on Us!"
-date: 2024-09-18 22:35:52
-updated: 2024-09-20 11:48:16
+date: 2025-01-12T17:29:17.670Z
+updated: 2025-01-18T17:03:29.118Z
 tags:
   - kitchen-household
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/33904527a6e1718a50027f53fe767c2c1eedacdbd
 ![EcoFlow Delta Pro 3 portable battery](https://www.zdnet.com/a/img/resize/493a0e14c2076aa82dd15d43be4c51552702595c/2024/06/20/9d465ec0-9e8c-4fee-b2aa-d5b5ce343244/2.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -77,6 +81,10 @@ How did it fare? The power returned about three hours later, and the Delta Pro 3
 
 Aside from this power outage, [we've tested](https://www.zdnet.com/home-and-office/energy/how-we-test-portable-power-stations/) the Delta Pro 3 as a standalone battery to power a home office setup, keeping consumption between 50W and 120W. The DP3 powered an LCD monitor, a Dell XPS laptop, a phone charger, and a USB-C tablet charger for four days. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Accessories-Emergencies%2Fdp%2FB0D14FMFZD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1) is an excellent option for anyone looking for a higher-capacity portable battery for camping or as an emergency home backup, as long as you're willing to pay the price, literally. It's not a cheap option among portable batteries, priced at $3199, which is about $400 less than the price of a [Delta Pro and Dual fuel inverter generator bundle](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Generator-High-Power-Appliances%2Fdp%2FB0BKGLCVRR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1).
@@ -106,11 +114,29 @@ Though priced high, the Delta Pro 3 seamlessly integrates into an EcoFlow home b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-premier-iphone-x8-series-gif-apps-reviewed/"><u>[New] 2024 Approved Premier iPhone X/8 Series GIF Apps Reviewed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-memorable-announcements-the-key-to-successful-facebook-giving-posts/"><u>[Updated] Crafting Memorable Announcements The Key to Successful Facebook Giving Posts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-resolving-frame-rate-puzzle-which-fps-brings-sharper-videos/"><u>[Updated] Resolving Frame Rate Puzzle Which FPS Brings Sharper Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725286065424-ai/"><u>最新AI解像機能で動画を美しく―高画質再生可能な無料ソフトウェアのお勧め！</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-guide-to-navigating-t-mobiles-domestic-roaming-agreements/"><u>A Guide to Navigating T-Mobile's Domestic Roaming Agreements</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversione-webm-a-mp3-free-online-metodi-di-esperti-e-tutorial-di-movavi/"><u>Conversione Webm a MP3 Free Online: Metodi Di Esperti E Tutorial Di Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cooler-master-powerful-energy-solutions-unveiled-a-deep-dive-into-the-versatile-v-sfx-with-a-quiet-750w-option/"><u>Cooler Master Powerful Energy Solutions Unveiled: A Deep Dive Into the Versatile V SFX with a Quiet 750W Option</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/hashtag-wisdom-uncovering-the-best-tags-to-dominate-on-instagram-for-2024/"><u>Hashtag Wisdom Uncovering the Best Tags to Dominate on Instagram for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-performance-2800w-atx-psu-with-dual-12v-rails-suitable-for-intensive-ai-workloads-featuring-four-6a-power-connectors-perfect-for-quad-gpu-configuration23/"><u>High-Performance 2800W ATX PSU with Dual 12V Rails Suitable for Intensive AI Workloads: Featuring Four 6A Power Connectors Perfect for Quad GPU Configurations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-evaluating-the-performance-of-the-corsair-cx550f-led-rgb-power-supply/"><u>In-Depth Analysis: Evaluating the Performance of the Corsair CX550F LED-RGB Power Supply</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-seasonics-new-power-supplies-with-cutting-edge-12vhpwr-interface-priced-at-230-and-above/"><u>Introducing Seasonic's New Power Supplies with Cutting-Edge 12VHPWR Interface Priced at $230 and Above</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nvidia-connection-controversy-unveiled-corsair-power-unit-specialist-jonny-gurus-insights/"><u>NVIDIA Connection Controversy Unveiled: Corsair Power Unit Specialist Jonny Guru's Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-amazing-discounts-on-amazon-august-2024-specials-unveiled-by-zdnet/"><u>Top Amazing Discounts on Amazon - August 2024 Specials Unveiled by ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-review-xpg-cybercore-1000-platinum-high-performance-psu/"><u>Ultimate Review: XPG Cybercore 1000 Platinum High-Performance PSU</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-google-pixel-fold-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Google Pixel Fold Phone Network-Ready</u></a></li>
+</ul></div>
+

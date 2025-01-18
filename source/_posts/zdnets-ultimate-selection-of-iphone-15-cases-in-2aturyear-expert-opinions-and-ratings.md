@@ -1,7 +1,7 @@
 ---
 title: "ZDNET's Ultimate Selection of iPhone 15 Cases in 2Aturyear: Expert Opinions and Ratings"
-date: 2024-09-18 10:12:42
-updated: 2024-09-20 11:56:40
+date: 2025-01-14T19:08:10.167Z
+updated: 2025-01-18T16:54:55.409Z
 tags:
   - mobile-accessories
 categories:
@@ -16,6 +16,10 @@ The new generation of iPhones are here and features a new action button, more AI
 **Also:** [**Preorder the iPhone 16 now (and even get one for free) - here's how**](https://www.zdnet.com/article/preorder-the-iphone-16-now-and-even-get-one-for-free-heres-how/)
 
 It's no secret that iPhones aren't the most rugged devices, sometimes yielding screen cracks and camera damage from simple drops. Luckily, ZDNET editors have gone hands-on with iPhone 16 cases to see how they match up. No matter your needs -- drop protection, style _with_ durability, or functionality -- we've got you covered. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case right now?
 
@@ -62,6 +66,10 @@ Pros
 Cons 
 * Kickstand durability
 * Not many color options
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Torras 360-degree OStand
 
@@ -168,6 +176,10 @@ Cons
 * Pricier
 * No camera protection
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Incase Icon
 
 #### Best stylish iPhone 16 case
@@ -196,6 +208,10 @@ Cons
 * Not too much protection
 * Pricey for low protection
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Moft Snap Case Movas
 
 #### Best vegan-leather iPhone 16 case
@@ -223,6 +239,10 @@ Pros
 Cons 
 * Unsure on sustainability
 * Only for Pro models
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Nomad Modern Leather Case
 
@@ -281,6 +301,10 @@ On this list, the Nomad Sport case and the Torras Ostand MagSafe Case are the mo
 
 However, if you stray from the list, the best options are those with a solid bumper and durable material. Before purchasing a case, make sure to check its drop protection and other safety features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best phone case brand?
 
 Unfortunately, there isn't such a thing as the best phone case brand. Many sources point to Spigen and Otterbox as the most popular phone case brands with the most units sold. That, however, does not necessarily mean they are the best brands. It is ultimately up to you and your lived experience and opinion.
@@ -288,6 +312,10 @@ Unfortunately, there isn't such a thing as the best phone case brand. Many sourc
 ## What case material is best for iPhone?
 
 Materials like plastic or polycarbonate usually offer the best price and durability. Other cases made from leather or metal can be pricier and may not offer the best protection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When is the iPhone 16 available?
 
@@ -338,11 +366,31 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-maximizing-audience-reach-sharing-twitch-live/"><u>[New] 2024 Approved Maximizing Audience Reach Sharing Twitch Live</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-discovering-the-top-10-invisible-story-lovers-for-2024/"><u>[New] Discovering the Top 10 Invisible Story Lovers for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-moment-of-glory-snapshots-in-win-os-for-2024/"><u>[New] Moment of Glory Snapshots in Win OS for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leveraging-fb-media-speeds-up-strategies/"><u>2024 Approved Leveraging FB Media Speeds Up Strategies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-xiaomi-redmi-note-12-pro-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Xiaomi Redmi Note 12 Pro 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/decoding-the-secrets-of-compelling-gif-designs/"><u>Decoding the Secrets of Compelling GIF Designs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-setup-with-the-latest-asus-innovation-rog-strix-xg227-wcs-a-superior-27-va-panel-at-a-whopping-180hz/"><u>Elevate Your Gaming Setup with the Latest Asus Innovation: ROG Strix XG2^27 WCS – A Superior 27 VA Panel at a Whopping 180Hz!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/epic-price-drop-for-the-ultrawide-samsung-oled-odyssey-g9-49-of-stunning-visuals-at-bargain-prices/"><u>Epic Price Drop for the Ultrawide Samsung OLED Odyssey G9 - 49 of Stunning Visuals at Bargain Prices!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-deal-alert-samsungs-cutting-edge-odyssey-g9-monitor-drops-to-record-lows/"><u>Exclusive Deal Alert: Samsung's Cutting-Edge Odyssey G9 Monitor Drops to Record Lows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-computing-equipment-toms-hardware-wisdom/"><u>Expert Guidance on Computing Equipment - Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-toms-hardware-products/"><u>Expert Insights on Tom's Hardware Products</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-world-of-computers-with-toms-hardware-insights/"><u>Explore the World of Computers with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-innovations-with-toms-technology-insights/"><u>Exploring Hardware Innovations with Tom's Technology Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-new-hardware-reviews-with-toms-gear-insights/"><u>Exploring New Hardware Reviews with Tom's Gear Insights</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/flashback-to-fame-vimeo-glimpse/"><u>Flashback to Fame Vimeo Glimpse</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-movie-enjoyment-on-your-kindle-fire-a-comprehensive-guide-to-supported-formats-and-easy-to-follow-conversion-methods/"><u>Seamless Movie Enjoyment on Your Kindle Fire: A Comprehensive Guide to Supported Formats and Easy-to-Follow Conversion Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlocking-the-secrets-to-easy-metaverse-character-creation-for-2024/"><u>Unlocking the Secrets to Easy Metaverse Character Creation for 2024</u></a></li>
+</ul></div>
+

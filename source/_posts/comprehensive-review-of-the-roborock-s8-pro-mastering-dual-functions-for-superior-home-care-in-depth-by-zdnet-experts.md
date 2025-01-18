@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review of the Roborock S8 Pro: Mastering Dual Functions for Superior Home Care | In-Depth by ZDNET Experts"
-date: 2024-09-17 19:34:53
-updated: 2024-09-20 10:13:50
+date: 2025-01-17T16:19:09.640Z
+updated: 2025-01-18T16:23:03.549Z
 tags:
   - kitchen-household
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d
 ![EcoFlow Delta Pro 3 portable battery](https://www.zdnet.com/a/img/resize/493a0e14c2076aa82dd15d43be4c51552702595c/2024/06/20/9d465ec0-9e8c-4fee-b2aa-d5b5ce343244/2.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -77,6 +81,10 @@ How did it fare? The power returned about three hours later, and the Delta Pro 3
 
 Aside from this power outage, [we've tested](https://www.zdnet.com/home-and-office/energy/how-we-test-portable-power-stations/) the Delta Pro 3 as a standalone battery to power a home office setup, keeping consumption between 50W and 120W. The DP3 powered an LCD monitor, a Dell XPS laptop, a phone charger, and a USB-C tablet charger for four days. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Accessories-Emergencies%2Fdp%2FB0D14FMFZD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1) is an excellent option for anyone looking for a higher-capacity portable battery for camping or as an emergency home backup, as long as you're willing to pay the price, literally. It's not a cheap option among portable batteries, priced at $3199, which is about $400 less than the price of a [Delta Pro and Dual fuel inverter generator bundle](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Generator-High-Power-Appliances%2Fdp%2FB0BKGLCVRR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1).
@@ -106,11 +114,26 @@ Though priced high, the Delta Pro 3 seamlessly integrates into an EcoFlow home b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-deciphering-the-archive-reviewing-past-facebook-updates-on-pc-and-phone-for-2024/"><u>[New] Deciphering the Archive Reviewing Past Facebook Updates on PC & Phone for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-harnessing-the-power-of-free-windows-video-tools/"><u>[New] Harnessing the Power of Free Windows Video Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-how-to-turn-a-minute-into-millions-maximizing-viewership-for-youtubers/"><u>[Updated] 2024 Approved How to Turn a Minute Into Millions Maximizing Viewership for YouTubers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-youtube-skip-the-top-8-novice-missteps/"><u>2024 Approved Navigating YouTube Skip the Top 8 Novice Missteps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-oppo-a2-unlock-without-password-by-drfone-android/"><u>5 Solutions For Oppo A2 Unlock Without Password</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-analysis-performance-metrics-of-toms-computer-components/"><u>Detailed Analysis: Performance Metrics of Tom's Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-hardware-analysis-with-tom-the-ultimate-gadget-guide/"><u>In-Depth Hardware Analysis with Tom - The Ultimate Gadget Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gadget-hub-a-deep-dive-into-latest-hardware-technology-and-reviews/"><u>Inside Tom's Gadget Hub: A Deep Dive Into Latest Hardware Technology & Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-samsungs-game-changing-32gb-ddr5-ic-technology-for-next-gen-1tb-memory-devices/"><u>Introducing Samsung's Game-Changing 32GB DDR5 IC Technology for Next-Gen 1TB Memory Devices</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/master-urdu-quickly-every-day/"><u>Master Urdu Quickly, Every Day</u></a></li>
+<li><a href="https://fox-info.techidaily.com/web-based-gag-generator/"><u>Web-Based Gag Generator</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-you-need-to-know-about-microsofts-creators-updates-diving-into-kb4103429-and-kb4013418-changes/"><u>What You Need to Know About Microsoft's Creators Updates: Diving Into KB4103429 and KB4013418 Changes</u></a></li>
+</ul></div>
+

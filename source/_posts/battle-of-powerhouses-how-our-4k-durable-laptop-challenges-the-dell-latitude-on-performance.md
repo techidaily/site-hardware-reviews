@@ -1,7 +1,7 @@
 ---
 title: "Battle of Powerhouses: How Our $4K Durable Laptop Challenges the Dell Latitude on Performance"
-date: 2025-01-10T16:10:52.968Z
-updated: 2025-01-13T00:26:48.507Z
+date: 2025-01-16T17:13:26.248Z
+updated: 2025-01-18T17:15:32.995Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ I spent a good hour and a half moving from station to station, from 240Hz ultraw
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. The numbers don't lie
@@ -47,7 +47,7 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -61,7 +61,7 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -75,7 +75,7 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,22 +114,20 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-halt-predicted-posts-no-more-suggests-on-insta/"><u>[New] Halt Predicted Posts No More Suggests on Insta</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-the-creators-route-to-riches-on-vimeo/"><u>[New] The Creator's Route to Riches on Vimeo</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flipping-scripts-generating-parody-content/"><u>[Updated] In 2024, Flipping Scripts Generating Parody Content</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/decoding-windows-11-error-messages-a-complete-reference-and-fixes-for-common-problems/"><u>Decoding Windows 11 Error Messages: A Complete Reference & Fixes for Common Problems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/demand-surge-drives-up-memory-market-supply-shrinks-contribute-to-price-recovery/"><u>Demand Surge Drives Up Memory Market; Supply Shrinks Contribute to Price Recovery</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/eradicating-warped-imagery-a-complete-guide-to-fixing-gopro-fish-eye/"><u>Eradicating Warped Imagery A Complete Guide to Fixing GoPro Fish Eye</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gear-with-tom-a-deep-dive-into-hardware-solutions/"><u>Exploring Computer Gear with Tom: A Deep Dive Into Hardware Solutions</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/free-premium-h264h265-media-viewer-enjoy-crisp-playback-of-4k-videos-at-no-charge/"><u>Free Premium H.264/H.265 Media Viewer - Enjoy Crisp Playback of 4K Videos at No Charge</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/government-allocates-2-billion-in-funding-boost-for-chinese-memory-technology-firm/"><u>Government Allocates $2 Billion in Funding Boost for Chinese Memory Technology Firm</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/include-at-least-three-rhetorical-questions-to-engage-the-audience/"><u>Include at Least Three Rhetorical Questions to Engage the Audience</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/professional-gamers-and-developers-must-try-the-corsair-vengeance-ddr5-5200-c38-4x48gb-memory-module-in-depth-review/"><u>Professional Gamers & Developers Must Try the Corsair Vengeance DDR5-5200 C38 4X48GB Memory Module: In-Depth Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/rising-memory-chip-costs-as-output-drops-and-consumer-demand-soars/"><u>Rising Memory Chip Costs as Output Drops and Consumer Demand Soars</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-performance-analysis/"><u>Tom's Tech Insights: Expert Reviews and Performance Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-t17239724903076/"><u>Tom's Tech Insights: The Ultimate Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ultimate-guide-to-resolving-lg-screen-issues-via-driver-upgrades-in-windows/"><u>Ultimate Guide to Resolving LG Screen Issues via Driver Upgrades in Windows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-a-list-top-desktops-for-enthusiasts/"><u>[New] In 2024, A-List Top Desktops for Enthusiasts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-livestreaming-facebook-made-simple-for-all-tech-users-for-2024/"><u>[New] Livestreaming Facebook Made Simple for All Tech Users for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-proactive-measures-for-managing-comments-on-educational-videos/"><u>[Updated] 2024 Approved Proactive Measures for Managing Comments on Educational Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/60-cpu-cooler-powerhouse-in-depth-review-of-the-id-cooling-fx360-pro/"><u>$60 CPU Cooler Powerhouse: In-Depth Review of the ID-Cooling FX360 Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-highpoint-rocket-1608a-expansion-unit-amplified-drive-capacity-and-enhanced-performance/"><u>Comprehensive Analysis of HighPoint Rocket 1608A Expansion Unit: Amplified Drive Capacity & Enhanced Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-bluehost-analysis-testing-cloud-vps-and-shared-solutions/"><u>Comprehensive Bluehost Analysis: Testing Cloud, VPS & Shared Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/download-ios-18-now-compatible-iphone-models-revealed-a-step-by-step-guide-techsavvy/"><u>Download IOS 18 Now: Compatible iPhone Models Revealed - A Step-by-Step Guide | TechSavvy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-cost-savings-in-electronics-projects-a-detailed-review-of-the-cytron-maker-uno-rp2040-board/"><u>Exploring Cost Savings in Electronics Projects: A Detailed Review of the Cytron Maker Uno RP2040 Board</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341739768-exploring-wartime-velocity-the-unconventional-flsun-s1-solar-charger-reviewed/"><u>Exploring Wartime Velocity - The Unconventional FLSun S1 Solar Charger Reviewed!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nokia-c02-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nokia C02 Through Google Earth?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-pairing-of-podcast-apps-and-android-top-6-recommendations/"><u>In 2024, Perfect Pairing of Podcast Apps & Android Top 6 Recommendations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadget-performance-explore-toms-hardware-analysis/"><u>Mastering Gadget Performance: Explore Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-components-through-toms-hardware-reviews/"><u>Mastering Gadgets and Components Through Tom's Hardware Reviews</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-elusive-footage-the-systematic-guide-to-youtube-secrets-for-2024/"><u>Unlocking Elusive Footage The Systematic Guide to YouTube Secrets for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy S23 | Dr.fone</u></a></li>
 </ul></div>
 

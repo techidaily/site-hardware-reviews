@@ -1,7 +1,7 @@
 ---
 title: "Experience the Depths with Naenka Runner Diver Headset: ZDNet Reviews Its Exceptional Sound Performance Underwater & Onshore"
-date: 2024-09-17 19:51:53
-updated: 2024-09-20 10:33:19
+date: 2025-01-17T17:50:57.128Z
+updated: 2025-01-18T17:28:44.833Z
 tags:
   - mobile-accessories
 categories:
@@ -17,9 +17,17 @@ The new generation of iPhones are here and features a new action button, more AI
 
 It's no secret that iPhones aren't the most rugged devices, sometimes yielding screen cracks and camera damage from simple drops. Luckily, ZDNET editors have gone hands-on with iPhone 16 cases to see how they match up. No matter your needs -- drop protection, style _with_ durability, or functionality -- we've got you covered. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone 16 case right now?
 
 Our pick for the best iPhone 16 case right now is the [Nomad Sport Case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNOMAD%2Fpage%2F6927BCAB-A05E-40FA-ADA7-1E37C46F23E5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1b7570ec-4eb5-4b81-b155-113b9708aa83%7Cdtp&dtb=1) case. This brand has been a longtime ZDNET favorite for its sleek form factor, [MagSafe capabilities](https://www.zdnet.com/article/best-magsafe-wallets/), and drop protection without a bulky form factor. Keep reading for more of our iPhone 16 case picks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best iPhone 16 cases of 2024
 
@@ -35,6 +43,10 @@ Pros
 
 Cons 
 * Only available for iPhone 16 Pro models
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Nomad Sport Case
 
@@ -114,6 +126,10 @@ Pros
 
 Cons 
 * Low drop protection
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Smartish Gripmunk case
 
@@ -196,6 +212,10 @@ Cons
 * Not too much protection
 * Pricey for low protection
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Moft Snap Case Movas
 
 #### Best vegan-leather iPhone 16 case
@@ -262,6 +282,10 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Incase Icon case                | A unique and stylish case with protection and MagSafe capabilities.                                     |
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing the best iPhone 16 case
 
 We kept in mind the most important factors when choosing the best iPhone 16 cases. The most relevant aspects are:
@@ -301,6 +325,10 @@ If your phone has the problem of overheating, it may be best to look into specia
 
 This is a good question, and if we had to chime in, we would say something more durable. A study by tech protection service Asurion in 2013 that [3 out of 10 teenagers have dropped](https://www.prnewswire.com/news-releases/3-out-of-10-teens-damaged-cell-phones-in-the-last-18-months-mainly-at-school-218494391.html#:~:text=A%20back%2Dto%2Dschool%20survey,most%20accidents%20happening%20at%20school.) and/or damaged their cell phones in the past 18 months. Ten years later, many phones are even less durable. Therefore, that number may be higher, especially if teenagers have more phones than ever. To prevent damage to your teen's phone, it may be wise to invest in a durable case that protects the device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Are there alternative iPhone 16 cases worth considering?
 
 The internet is filled with many options, so it's no surprise that some products are just as good as the ones on this list. Here are some alternatives that may suit your needs better.
@@ -338,11 +366,31 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mac-to-snapchat-creating-compact-shareable-content/"><u>[New] In 2024, Mac to Snapchat Creating Compact, Shareable Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-instantgrabbed-extendedcapture/"><u>[New] InstantGrabbed ExtendedCapture</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-mastery-of-digital-recording-step-by-step-insight/"><u>[Updated] 2024 Approved Mastery of Digital Recording - Step-by-Step Insight</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-from-laughter-to-devices-downloading-twitters-animated-fun/"><u>2024 Approved From Laughter to Devices Downloading Twitter's Animated Fun</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026294858-dvd/"><u>一般的DVDバックアップにおけるエラー解析とトラブルシューティング</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-desktop-screenshotting-a-beginners-walkthrough-for-windows-and-mac-users/"><u>Effortless Desktop Screenshotting: A Beginner's Walkthrough for Windows and Mac Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209956370-9781989838105-guided-meditations-for-anxiety-depression-and-self-healing/"><u>Guided Meditations for Anxiety, Depression, and Self-Healing | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hassle-free-diy-motherboard-kits-for-seamless-personal-computing-endeavors/"><u>Hassle-Free DIY Motherboard Kits for Seamless Personal Computing Endeavors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-software-guide-to-gamers-broadcast/"><u>In 2024, Ultimate Software Guide to Gamers' Broadcast</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-maxsun-terminator-z790m-d5-ice-motherboard-pcie-testing-premium-white-atx-design-featuring-5-m2-slots/"><u>In-Depth Maxsun Terminator Z790M D5 Ice Motherboard PCIe Testing - Premium White ATX Design Featuring 5 M.2 Slots</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-camm2-an-overview-of-the-latest-smaller-swift-and-upgradeable-memory-standard/"><u>Introducing CAMM2: An Overview of the Latest Smaller, Swift, and Upgradeable Memory Standard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-loongson-powered-dtx-boards-and-pcs-in-the-us-market-for-only-373-begin-your-high-performance-journey-today/"><u>Introducing Loongson Powered DTX Boards and PCs in the US Market for Only $373, Begin Your High-Performance Journey Today!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-wisdom-from-toms-tech-vault/"><u>Mastering Hardware Choices: Wisdom From Tom's Tech Vault</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-insights-from-toms-hardware-experts/"><u>Mastering Technology Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/motherboard-industry-soars-projected-sales-of-39-million-units-matching-pre-crisis-delivery-numbers/"><u>Motherboard Industry Soars: Projected Sales of 39 Million Units Matching Pre-Crisis Delivery Numbers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ongezichtsvrije-videokonvertiering-rmvbflv-profielbewijs-movavi-netwerk/"><u>Ongezichtsvrije Videokonvertiering RMVB/FLV - Profielbewijs Movavi Netwerk</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/overcome-raptor-lake-chips-crashing-woes-how-asus-introduces-baseline-profile-update-for-optimal-performance/"><u>Overcome Raptor Lake Chips' Crashing Woes: How Asus Introduces Baseline Profile Update for Optimal Performance</u></a></li>
+</ul></div>
+

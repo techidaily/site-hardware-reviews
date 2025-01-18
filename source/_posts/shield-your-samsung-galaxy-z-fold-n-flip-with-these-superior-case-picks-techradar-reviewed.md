@@ -1,7 +1,7 @@
 ---
 title: Shield Your Samsung Galaxy Z Fold N Flip with These Superior Case Picks | TechRadar Reviewed
-date: 2024-09-17 21:46:50
-updated: 2024-09-20 10:23:37
+date: 2025-01-11T16:43:44.415Z
+updated: 2025-01-18T17:24:37.349Z
 tags:
   - mobile-accessories
 categories:
@@ -35,13 +35,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to transform a Flipper Zero into an Apple AirTag
 
 **What you'll** **need**: A Flipper Zero, an Apple AirTag (or [tracker from another brand](https://www.zdnet.com/article/best-bluetooth-tracker/)), an [iPhone](https://www.zdnet.com/article/best-iphone/) and an [Android phone](https://www.zdnet.com/article/best-android-phone/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install Momentum firmware
 
 First, install the Momentum firmware on your Flipper Zero. The most straightforward method is to use the web installer, but rest assured, you can revert to the stock firmware at any point [using the desktop or mobile app](https://flipperzero.one/downloads). Simply navigate to the [Momentum web installer page](https://momentum-fw.dev/update/), connect your Flipper Zero, and follow the prompts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Downloading FindMy Flipper
 
@@ -50,6 +62,10 @@ Once installed, you'll discover a host of new applications on your Flipper Zero,
 **Also: [Flipper Zero: 'Can you really hack Wi-Fi networks?' and other questions answered](https://www.zdnet.com/home-and-office/flipper-zero-can-you-really-hack-wi-fi-networks-and-other-questions-answered/)**
 
 The app leverages the Flipper Zero's Bluetooth capabilities to act as an Apple AirTag, (or if you prefer, a Samsung SmartTag or Tile tag, but that process is even more cumbersome). It uses the Flipper Zero Bluetooth low energy (BLE) beacon to broadcast a signal that can be picked up by iPhones and sent back to Apple for viewing in the FindMy app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Setting up the Flipper Zero
 
@@ -60,6 +76,10 @@ You'll need an AirTag, an iPhone, and an Android smartphone to follow along.
 **Also: [How to unlock the Flipper Zero's true power](https://www.zdnet.com/article/how-to-unlock-the-flipper-zero-true-power/)**
 
 I've personally gone through these steps multiple times and can confirm their effectiveness. But precision is key -- make sure to follow each step meticulously. A single misstep is enough to stop this from working and leave you scratching your head.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Using custom Python scripts (and why you should)
 
@@ -90,11 +110,25 @@ This brings me to one of the things that I really like about the [Flipper Zero](
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-best-green-screen-recorders-how-to-use-them/"><u>[New] 2024 Approved Best Green Screen Recorders How to Use Them?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweet-to-tune-video-to-audible-file/"><u>[New] 2024 Approved Tweet-to-Tune Video to Audible File</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-innovations-in-portraying-chrono-displacement-on-screen/"><u>[New] In 2024, Innovations in Portraying Chrono-Displacement on Screen</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/crucial-aspects-when-elevating-your-4k-cinematography/"><u>Crucial Aspects When Elevating Your 4K Cinematography</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevating-your-patio-entertainment-with-sealocs-4k-outdoor-tv-a-sleek-silver-marvel-at-55-inches/"><u>Elevating Your Patio Entertainment with Sealoc's 4K Outdoor TV, A Sleek Silver Marvel at 55 Inches</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhanced-amd-fabric-tuning-now-compatible-with-active-and-passive-x570-boards-post-update/"><u>Enhanced AMD Fabric Tuning: Now Compatible with Active and Passive X570 Boards Post-Update</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-cutting-edge-gadgets-with-toms-hardware-insights/"><u>Exploring Cutting-Edge Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximize-your-skylake-processors-potential-with-the-perfect-overclocking-compatible-motherboard/"><u>Maximize Your Skylake Processor's Potential with the Perfect Overclocking-Compatible Motherboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-analysis-and-guides-on-hardware/"><u>Tom's Tech Review: Comprehensive Analysis and Guides on Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guides-and-expert-insights/"><u>Tom's Tech Review: Comprehensive Guides & Expert Insights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/understanding-instagrams-max-video-length-guide/"><u>Understanding Instagram's Max Video Length Guide</u></a></li>
+</ul></div>
+

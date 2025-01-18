@@ -1,7 +1,7 @@
 ---
 title: "Discover Ultimate Paperless Journals: Our Exhaustive Testing of Leading Digital Notebook Options | ZDNet"
-date: 2025-01-10T01:30:41.138Z
-updated: 2025-01-12T18:55:03.884Z
+date: 2025-01-14T16:10:44.084Z
+updated: 2025-01-18T18:44:54.470Z
 tags:
   - laptops
 categories:
@@ -40,10 +40,14 @@ Pros
 Cons 
 * Screen can lag when browsing web or watching videos
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Boox Note Air 3 C
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best smart notebook overall
@@ -75,13 +79,13 @@ Cons
 * No hardcover option
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Rocketbook Fusion Smart Notebook
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best budget smart notebook
@@ -112,7 +116,7 @@ Cons
 * Does not support note-taking on magazines or newspapers
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Kindle Scribe
@@ -148,10 +152,6 @@ Cons
 
 ## Moleskine Pen+ Smart Writing Set
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best stylish smart notebook
 
 If you appreciate the look and feel of Moleskine notebooks, then the company's Pen+ Smart Writing set could be the right smart notebook for you. The notebook features the signature dotted Moleskine page in a "paper tablet" format, so the pages are tucked in between a sturdy tablet-like design. Ncoded technology is embedded within each page, which enables the accompanying smart pen to recognize where it is within the notebook and to transfer all your freehand notes from page to screen in real time.
@@ -180,6 +180,10 @@ Pros
 Cons 
 * Expensive option
 * Have to buy the marker separately
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## reMarkable 2
 
@@ -222,10 +226,6 @@ A tablet, usually runs on a mobile operating system and offers a wider range of 
 3. **Is a digital notebook worth it?**  
 You can find a digital notebook for well under $20, making it a pretty budget-friendly option for students or anyone looking to organize their notes without breaking the bank. But, if you like for all your devices to be consistent in terms of software, then you might be better off spending a little more for a tablet.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which smart notebook is right for you?
 
 While any of these smart notebooks are great options, it ultimately comes down to what size notebook you want, what kind of notes you will take, and what price you're willing to spend. 
@@ -247,10 +247,6 @@ When you're deciding which smart notebook to buy, think about the following impo
 * **Price:** Smart notebooks range in price points from $10 all the way up to $450\. The lower price points will get you real paper notebooks you can convert to digital notes, while the higher price points are more tablet-like notebooks.
 * **Special features:** You may not need special features in a smart notebook, but they are nice to have. These include audio notes, page templates, cloud compatibility, etc.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test tablet devices
 
 A lot of these digital notebooks can also be categorized as tablets. When we test different kinds of tablets, we typically follow the same routine for each one to see which performs best when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
@@ -260,6 +256,10 @@ A lot of these digital notebooks can also be categorized as tablets. When we tes
 * **Battery life**: We test different scenarios for battery life, including measuring how long the battery lasts while streaming, web browsing, using productivity apps, and playing games.
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Frequently Asked Questions:
 
@@ -271,10 +271,6 @@ Our best pick for smart pens would have to be the [Apple Pencil](https://www.zdn
 
 [Wacom Bamboo Ink $41.6 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB081LKC91V%2Fref%3Dasc%5Fdf%5FB081LKC91V1727694000000%3Fcreative%3D395261%26creativeASIN%3DB081LKC91V%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C08f8670e-b5a5-4980-9707-c1729b5cbf22%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do they come with a smart pen or are those sold separate?
 
 Most smart notebooks already include a smart pen, but it will also depend on the manufacturer and specific model. Smart notebooks such as reMarkable 2 and Wacom Bamboo Slate include the smart pen with their notebook. 
@@ -284,6 +280,10 @@ Most smart notebooks already include a smart pen, but it will also depend on the
 Keeping your notes and reminders organized on a single device for school is the best way to improve your productivity in and outside of class. That is why we recommend all students look into our best list of smart notebooks and find which is right for their needs. The Boox is a great option since you can connect it to many third-party apps through the Android store and transfer any files onto it, like essays or notes from class. 
 
 **Also: [The best tablets for students](https://www.zdnet.com/article/best-tablets-for-students/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Do smart notebooks feel like paper?
 
@@ -339,17 +339,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/alancing-creativity-and-monetization-in-youtube-shorts-for-2024/"><u>[New] Balancing Creativity and Monetization in YouTube Shorts for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-earn-big-with-little-experience-discover-the-top-13-reddit-money-ways/"><u>[Updated] In 2024, Earn Big with Little Experience - Discover the Top 13 Reddit Money Ways</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-gadgets-and-gizmos-covered-at-toms-hardware-hub/"><u>Advanced Gadgets and Gizmos Covered at Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/best-value-for-gamers-in-depth-look-at-acer-predator-orion-5000-egpus-exceptional-capabilities/"><u>Best Value for Gamers: In-Depth Look at Acer Predator Orion 5000 eGPU's Exceptional Capabilities</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/building-a-gradual-audio-fade-out-feature-in-multimedia-projects/"><u>Building a Gradual Audio Fade-Out Feature in Multimedia Projects</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-toms-comprehensive-computer-hardware-reviews-and-insights/"><u>Discover Tom's Comprehensive Computer Hardware Reviews & Insights</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/simplifying-sticker-setup-addressing-the-most-frequent-issues/"><u>Simplifying Sticker Setup: Addressing the Most Frequent Issues</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/swirling-shadows-adding-realistic-motion-to-photoshop-images-for-2024/"><u>Swirling Shadows Adding Realistic Motion to Photoshop Images for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/taking-on-modern-workloads-the-gigabyte-b760m-ds3h-ax-revealed-entry-level-motherboard-for-three-monitor-setups/"><u>Taking on Modern Workloads - The Gigabyte B760M DS3H AX Revealed: Entry-Level Motherboard for Three Monitor Setups</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-top-notch-pc-components-toms-guide-to-hardware/"><u>The Ultimate Resource for Top-Notch PC Components - Tom’s Guide to Hardware</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-18-best-free-video-compression-tools-of-2e24-windows-and-mac-compatible/"><u>Top 18 Best Free Video Compression Tools of 2E24 - Windows & Mac Compatible</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unleashing-creative-potential-making-youtube-trailers-in-filmora-for-2024/"><u>Unleashing Creative Potential Making YouTube Trailers in Filmora for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-practical-steps-in-mastering-telegram-web-services/"><u>[New] 2024 Approved Practical Steps in Mastering Telegram Web Services</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-record-speech-review-content/"><u>[Updated] 2024 Approved Record Speech, Review Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-does-t-series-generate-revenue/"><u>[Updated] In 2024, How Does T-Series Generate Revenue?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-small-companys-guide-to-the-safest-online-chat-services/"><u>2024 Approved Small Company's Guide to the Safest Online Chat Services</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-raspberry-pi-performance-boost-with-the-new-m2-hatplus-an-in-depth-review/"><u>Affordable Raspberry Pi Performance Boost with the New M.2 HAT+ - An In-Depth Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deep-dive-with-tom-into-modern-computing-equipment/"><u>Deep Dive with Tom Into Modern Computing Equipment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-in-computing-with-toms-hardware-experts/"><u>Discover the Best in Computing with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-with-our-comprehensive-review-of-id-coolings-frozn-a620-pro-se/"><u>Elevate Your Gaming Experience with Our Comprehensive Review of ID-Cooling's Frozn A620 PRO SE</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-assessment-of-the-clevetura-clvx-1-bluetooth-keyboard-with-a-focus-on-touch-response/"><u>Expert Assessment of the Clevetura CLVX-1 Bluetooth Keyboard with a Focus on Touch Response</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-voice-activation-failures-in-the-latest-windows-os/"><u>Fixing Voice Activation Failures in the Latest Windows OS</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-zero-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-circuitry-world-the-ultimate-insights-into-modern-hardware/"><u>Inside Tom's Circuitry World: The Ultimate Insights Into Modern Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-insights-into-computer-components-from-toms-hardware/"><u>Mastering Technology: Insights Into Computer Components From Tom’s Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-your-panel-management-u-ban-and-block-users-on-twitch/"><u>Perfect Your Panel Management: U-Ban & Block Users on Twitch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pixel-10-unveiled-anticipated-costs-launch-timeline-and-tech-insights/"><u>Pixel 10 Unveiled: Anticipated Costs, Launch Timeline & Tech Insights</u></a></li>
 </ul></div>
 

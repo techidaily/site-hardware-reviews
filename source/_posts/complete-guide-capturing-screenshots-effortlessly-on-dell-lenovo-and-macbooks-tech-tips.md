@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Capturing Screenshots Effortlessly on Dell, Lenovo & MacBooks | Tech Tips"
-date: 2025-01-08T00:50:30.730Z
-updated: 2025-01-12T18:00:50.742Z
+date: 2025-01-15T18:45:42.599Z
+updated: 2025-01-18T16:23:56.240Z
 tags:
   - laptops
 categories:
@@ -28,19 +28,27 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 
 ## How to take screenshots on any laptop
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 1: The old fashioned way**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
 
@@ -53,7 +61,7 @@ The button can be just about anywhere, so just look for something that looks as 
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
@@ -67,10 +75,6 @@ From here, you can edit the image, resize it, crop it, and save it. You've now g
 An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
@@ -102,21 +106,17 @@ Michael Gariffo/ZDNET
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,17 +157,22 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-enhancing-presentations-with-vo-techniques-in-ppt/"><u>[Updated] Enhancing Presentations with VO Techniques in PPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-ai-black-boxes-insights-into-their-purpose-and-functionality/"><u>Demystifying AI Black Boxes: Insights Into Their Purpose and Functionality</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/efficient-methods-for-tracking-screen-activity-on-android-phones/"><u>Efficient Methods for Tracking Screen Activity on Android Phones</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/effortless-android-mastery-6-key-techniques-for-enhanced-usability/"><u>Effortless Android Mastery: 6 Key Techniques for Enhanced Usability</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/effortless-changeover-debunking-the-myths-of-moving-from-apples-ios-to-android-platforms/"><u>Effortless Changeover: Debunking the Myths of Moving From Apple's iOS to Android Platforms</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exciting-updates-enhanced-functions-coming-soon-to-samsungs-galaxy-watch-series-and-innovative-foldable-devices/"><u>Exciting Updates: Enhanced Functions Coming Soon to Samsung's Galaxy Watch Series & Innovative Foldable Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-advantages-and-disadvantages-of-purchasing-mobile-devices-through-network-operators/"><u>Exploring the Advantages & Disadvantages of Purchasing Mobile Devices Through Network Operators</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-honor-x50i-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Honor X50i Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-the-best-translator-to-translate-videos-online/"><u>New In 2024, The Best Translator to Translate Videos Online</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-lore-of-roguelites-amidst-classic-rpgs/"><u>The Lore of Roguelites Amidst Classic RPGs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-destiny-2-get-your-game-up-and-running-again/"><u>Troubleshooting Destiny 2: Get Your Game Up and Running Again!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-keep-your-linkedin-videos-at-the-fingertips-top-6-professional-downloader-apps/"><u>[Updated] Keep Your LinkedIn Videos at the Fingertips Top 6 Professional Downloader Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-rated-screen-recorders-on-windows-and-macos-unveiled/"><u>[Updated] Top-Rated Screen Recorders on Windows & macOS Unveiled</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-melodic-mastery-for-game-dominance-in-free-fire/"><u>2024 Approved Melodic Mastery for Game Dominance in Free Fire</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-confirms-on-schedule-release-the-ryzen-5000xt-series-arrives-this-month/"><u>AMD Confirms On-Schedule Release: The Ryzen 5000XT Series Arrives This Month</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/approach/"><u>Approach:</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-computer-tech-evaluations-by-toms-hardware-experts/"><u>Comprehensive Computer Tech Evaluations by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-advice-from-tom/"><u>Expert Hardware Advice From Tom</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-game-changing-screens-and-tvs-discover-the-best-for-your-xbox-series-x/"><u>In 2024, Game-Changing Screens & TVs - Discover the Best For Your Xbox Series X</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-workshop-your-go-to-source-for-hardware-insight/"><u>Inside Tom’s Workshop: Your Go-To Source for Hardware Insight</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/insta-video-backup-two-methods-for-seamless-access-for-2024/"><u>Insta Video Backup Two Methods for Seamless Access for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-frontiers-toms-hardware-evaluations-and-reviews/"><u>Navigating New Tech Frontiers: Tom's Hardware Evaluations and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-tech-a-tour-of-toms-hardware-corner/"><u>Navigating the Latest Tech: A Tour of Tom's Hardware Corner</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-connecting-your-ipad-to-a-hard-to-find-printer/"><u>Solving the Mystery: Connecting Your iPad to a Hard-to-Find Printer</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210199532-9781631599057-the-complete-grimoire/"><u>The Complete Grimoire | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-gadgets-by-toms-hardware-experts/"><u>The Ultimate Guide to Gadgets by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-potential-in-depth-review-of-highpoints-rocket-1608a-card-upgraded-storage-superior-power/"><u>Unveiling the Potential: In-Depth Review of HighPoint's Rocket 1608A Card - Upgraded Storage, Superior Power</u></a></li>
 </ul></div>
 

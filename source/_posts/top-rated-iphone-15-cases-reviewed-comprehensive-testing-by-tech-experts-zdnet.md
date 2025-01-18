@@ -1,7 +1,7 @@
 ---
 title: Top-Rated iPhone 15 Cases Reviewed - Comprehensive Testing by Tech Experts | ZDNet
-date: 2024-09-19 13:46:13
-updated: 2024-09-20 12:49:22
+date: 2025-01-17T18:17:39.049Z
+updated: 2025-01-18T17:38:05.592Z
 tags:
   - mobile-accessories
 categories:
@@ -20,6 +20,10 @@ It's no secret that iPhones aren't the most rugged devices, sometimes yielding s
 ## What is the best iPhone 16 case right now?
 
 Our pick for the best iPhone 16 case right now is the [Nomad Sport Case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNOMAD%2Fpage%2F6927BCAB-A05E-40FA-ADA7-1E37C46F23E5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1b7570ec-4eb5-4b81-b155-113b9708aa83%7Cdtp&dtb=1) case. This brand has been a longtime ZDNET favorite for its sleek form factor, [MagSafe capabilities](https://www.zdnet.com/article/best-magsafe-wallets/), and drop protection without a bulky form factor. Keep reading for more of our iPhone 16 case picks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best iPhone 16 cases of 2024
 
@@ -141,6 +145,10 @@ Pros
 Cons 
 * Pricier
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mous Limitless 6.0
 
 #### Best protective iPhone 16 case
@@ -167,6 +175,10 @@ Pros
 Cons 
 * Pricier
 * No camera protection
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Incase Icon
 
@@ -195,6 +207,10 @@ Pros
 Cons 
 * Not too much protection
 * Pricey for low protection
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Moft Snap Case Movas
 
@@ -238,6 +254,10 @@ That being said, leather is not everybody's thing. But, if you are in the market
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone 16 case?
 
 Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek design and solid protection. Check out how the other options stack up below.
@@ -249,6 +269,10 @@ Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek desig
 | Latercase for iPhone 16    | $60       | No                  | Yes         |
 | Incase Icon case           | $60       | Yes                 | Yes         |
 | Nomad Modern Leather case  | $70       | Yes                 | Yes         |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which is the right iPhone 16 case for you?
 
@@ -284,6 +308,10 @@ However, if you stray from the list, the best options are those with a solid bum
 ## What is the best phone case brand?
 
 Unfortunately, there isn't such a thing as the best phone case brand. Many sources point to Spigen and Otterbox as the most popular phone case brands with the most units sold. That, however, does not necessarily mean they are the best brands. It is ultimately up to you and your lived experience and opinion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What case material is best for iPhone?
 
@@ -338,11 +366,33 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-interactive-av-media-collective-for-2024/"><u>[New] Interactive AV Media Collective for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-xsplit-versus-obs-ultimate-livestream-guide/"><u>[Updated] XSplit versus OBS – Ultimate Livestream Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/1-successfully-streaming-mkv-files-on-xbox-series-xs-a-comprehensive-guide/"><u>1. Successfully Streaming MKV Files on Xbox Series X|S: A Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-transition-which-professions-will-adapt-best/"><u>AI Transition: Which Professions Will Adapt Best?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-on-downloading-realtek-alc-audio-drivers-compatible-with-windows-10/"><u>Easy Guide on Downloading Realtek ALC Audio Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-v27-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo V27 Pro Devices</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/master-the-art-of-creating-and-programming-a-comprehensive-look-at-the-innovative-makeblock-mbot-diy-robotic-kit/"><u>Master the Art of Creating & Programming: A Comprehensive Look at the Innovative Makeblock mBot DIY Robotic Kit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-hardware-solutions-with-toms-reviews/"><u>Navigating Hardware Solutions with Tom's Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-innovations-in-computing-a-guide-by-toms-hardware/"><u>Navigating New Innovations in Computing - A Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-todays-tech-landscape-a-tour-of-tomn-hardware-world/"><u>Navigating Today's Tech Landscape: A Tour of Tom'n Hardware World</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/observe-changes-in-behavior-look-for-any-changes-in-behavior-that-could-indicate-substance-abuse-such-as-mood-swings-withdrawal-from-family-activities-decli81/"><u>Observe Changes in Behavior: Look for Any Changes in Behavior that Could Indicate Substance Abuse, Such as Mood Swings, Withdrawal From Family Activities, Declining Academic Performance, or a Sudden Disinterest in Hobbies and Friends.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pcie-gen-7-specs-finalized-on-the-verge-of-official-market-release/"><u>PCIe Gen 7 Specs Finalized - On the Verge of Official Market Release</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pcie-gen-amoled-with-new-generation-7-standard-comprehensive-draft-unveiled/"><u>PCIe Gen Amoled with New Generation 7 Standard - Comprehensive Draft Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-technology-insights-from-toms-digital-workshop/"><u>Pioneering Technology Insights From Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/proactive-replacement-effort-for-flawed-cooling-units-by-msi-amidst-rising-concerns-over-z7n-motherboard-series/"><u>Proactive Replacement Effort for Flawed Cooling Units by MSI Amidst Rising Concerns Over Z7n Motherboard Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/rare-maximus-xiii-frankenboard-by-asus-mutant-pc-boards-featuring-so-dimm-memory-slots-and-exclusive-kingston-fury-branding/"><u>Rare Maximus XIII Frankenboard by Asus: Mutant Pc Boards Featuring So-DiMM Memory Slots & Exclusive Kingston Fury Branding</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sketching-success-a-guide-to-industrys-best-10-vector-apps/"><u>Sketching Success A Guide to Industry's Best 10 Vector Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-3-cutting-edge-features-of-the-new-iphone-16-that-make-upgrades-worth-it/"><u>Top 3 Cutting-Edge Features of the New iPhone 16 That Make Upgrades Worth It</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Get a Superior Lenovo Laptop for Work or Play at an Incredible Discount This Memorial Day
-date: 2025-01-07T03:10:16.137Z
-updated: 2025-01-12T18:51:13.288Z
+date: 2025-01-15T16:43:30.776Z
+updated: 2025-01-18T16:57:10.776Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is the deal?
@@ -31,7 +31,7 @@ The [Lenovo Legion Pro 5i](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=h
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,7 +73,7 @@ The power cable has an extensive power supply; it's a little bit larger than my 
 The [Lenovo Legion Pro 5i](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-pro-series%2Flegion-pro-5i-gen-8-%2816-inch-intel%29%2Flen101g0024&publisher_slug=itechdaily19598&exclusive=1) base configuration starts at $1,260, while the top configuration retails for $1,800\. The configuration I was sent for testing will cost you around $1,450, which is a very decent value for the components and performance you'll get.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -110,22 +110,14 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ensuring-compliance-in-zoom-meetings-a-recording-guide-for-2024/"><u>[Updated] Ensuring Compliance in Zoom Meetings A Recording Guide for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-design-youtube-introductory-videos-two-pathways/"><u>[Updated] How to Design YouTube Introductory Videos Two Pathways</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-sony-bdp-s3700-review-for-2024/"><u>[Updated] Sony BDP- S3700 Review for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-tvs-to-accompany-your-highest-rated-consoles/"><u>2024 Approved Best TVs to Accompany Your Highest Rated Consoles</u></a></li>
-<li><a href="https://win11.techidaily.com/a-journey-into-the-new-era-of-laptops-at-ifa-2023/"><u>A Journey Into the New Era of Laptops at IFA 2023</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341707175-approach-recall-the-initial-stage-of-planning-for-land-division/"><u>Approach: Recall the Initial Stage of Planning for Land Division.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-tuf-gaming-a14-laptop-analysis-unveiling-quiet-durability/"><u>Asus TUF Gaming A14 Laptop Analysis: Unveiling Quiet Durability</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-digital-worlds-with-insights-from-tom-hardware-haven/"><u>Exploring Digital Worlds with Insights From Tom Hardware Haven</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-the-ultimate-guide-to-computer-components/"><u>Exploring Tom's Tech: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-add-instagram-filter-to-existing-photos-and-videos-for-2024/"><u>How to Add Instagram Filter to Existing Photos and Videos for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-6s-plus-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On iPhone 6s Plus?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/incremental-introduction-for-2024/"><u>Incremental Introduction for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-the-game-with-asus-rog-strix-xg27acs-qhd-gaming-monitor-a-comprehensive-review-of-its-sharp-performance-and-versatility/"><u>Mastering the Game with Asus ROG Strix XG27ACS QHD Gaming Monitor – A Comprehensive Review of Its Sharp Performance and Versatility</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341750233-psychological-support-can-play-a-significant-role-in-recovery-addressing-the-mental-health-impacts-of-ocular-trauma/"><u>Psychological Support Can Play a Significant Role in Recovery, Addressing the Mental Health Impacts of Ocular Trauma</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Hub: Comprehensive Guide to Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-top-computer-components/"><u>Tom's Tech Review: In-Depth Analysis of Top Computer Components</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/wireless-play-integrating-your-nintendo-switch-with-your-television/"><u>Wireless Play: Integrating Your Nintendo Switch with Your Television</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-secure-survival-housing-in-minecraft/"><u>[New] Secure Survival Housing in Minecraft</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-imovies-power-to-transform-ordinary-openers-into-epic/"><u>[Updated] IMovie's Power to Transform Ordinary Openers Into Epic</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-smooth-operation-file-transfer-between-different-os-phones/"><u>[Updated] Smooth Operation File Transfer Between Different OS Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-meta-quest-3-and-apple-vision-pro-is-mark-zuckerbergs-analysis-spot-on-tech-insights/"><u>Comparing Meta Quest 3 and Apple Vision Pro: Is Mark Zuckerberg's Analysis Spot-On? Tech Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-uphere-m201-ssd-heatsink-evaluation-at-just-5-enhancing-your-nvme-drives-performance/"><u>Essential UpHere M201 SSD Heatsink Evaluation at Just $5 - Enhancing Your NVMe Drive's Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-graphics-a-comprehensive-review-of-pixios-game-changer-the-oled-max-monitor-px277/"><u>Mastering Graphics: A Comprehensive Review of Pixio's Game Changer - The OLED Max Monitor (PX277)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/syncing-melodies-with-video-in-premiere-pro-for-2024/"><u>Syncing Melodies with Video in Premiere Pro for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/thrilling-review-alert-maximize-your-setup-with-the-gskill-trident-z5-rgb-dual-dimm-ddr5-memory-sticks-at-a-sizzling-6400mhz/"><u>Thrilling Review Alert! Maximize Your Setup with the G.SKILL Trident Z5 RGB - Dual-DIMM DDR5 Memory Sticks at a Sizzling 6400MHz</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-dive-into-computer-components-and-hardware/"><u>Tom's Tech Hub: Dive Into Computer Components and Hardware</u></a></li>
 </ul></div>
 

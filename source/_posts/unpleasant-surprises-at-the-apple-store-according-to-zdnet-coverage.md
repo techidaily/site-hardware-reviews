@@ -1,7 +1,7 @@
 ---
 title: Unpleasant Surprises at the Apple Store, According to ZDNet Coverage
-date: 2025-01-06T21:42:12.069Z
-updated: 2025-01-12T16:15:54.909Z
+date: 2025-01-14T17:39:58.645Z
+updated: 2025-01-18T16:37:02.760Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Furthermore, there are very few ports. You get three in total: two USB-C inputs 
 My last critique is admittedly a nitpick. I would've appreciated a free stylus in the overall package. Microsoft's 11th-gen Surface Pro had one when I got it, and I thoroughly enjoyed it. So unless you already have a pen, you'll have to buy one for the PZ13, which isn't a big issue since the laptop is fairly cheap.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ Prices for the Asus ProArt PZ13 start at [$1,100 on Best Buy](https://shop-links
 Other than that, they're the same device. Get the Hexagon version only if you are expecting heavy workloads.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -140,22 +140,22 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-7-best-zero-cost-web-based-film-makers/"><u>[Updated] 2024 Approved 7 Best Zero-Cost Web-Based Film Makers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-transformative-grading-3-simplified-photoshop-routines-for-2024/"><u>[Updated] Transformative Grading 3 Simplified Photoshop Routines for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-lenovos-latest-innovation-the-ultraportable-yoga-pro-surveying-its-sleek-build-and-satisfying-key-travel/"><u>Comprehensive Review of Lenovo's Latest Innovation – The Ultraportable Yoga Pro Surveying Its Sleek Build and Satisfying Key Travel</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341755981-cutting-edge-resin-3d-printing-with-the-new-elegoo-saturn-4-ultra-expert-review-inside/"><u>Cutting-Edge Resin 3D Printing with the New Elegoo Saturn 4 Ultra - Expert Review Inside</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/detailed-test-and-analysis-of-levelplay-combat-air-ca4-cpu-cooler-achieving-silent-high-performance/"><u>Detailed Test & Analysis of Levelplay Combat Air CA4 CPU Cooler: Achieving Silent High-Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-and-buying-guides-for-all-things-electronics-toms-hardware/"><u>Expert Analysis & Buying Guides for All Things Electronics - Tom's Hardware</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-realme-narzo-60-pro-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Realme Narzo 60 Pro 5G Phones</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-raspberry-pi-artificial-intelligence-starter-set-brainiac-edition/"><u>In-Depth Analysis of the Raspberry Pi Artificial Intelligence Starter Set - 'Brainiac' Edition</u></a></li>
-<li><a href="https://win-top.techidaily.com/iphone-whatsapp/"><u>IPhone WhatsAppメッセージキャプチャ機能 - 空き容量を最大化する方法</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-tech-with-toms-detailed-review-hub/"><u>Navigate the World of Tech with Tom's Detailed Review Hub</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/optimism-awaits-how-ordering-the-new-apple-vision-pro-provides-hopeful-signals-for-upcoming-innovations-zdnet/"><u>Optimism Awaits: How Ordering the New Apple Vision Pro Provides Hopeful Signals for Upcoming Innovations | ZDNet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-of-flsun-s1-high-speed-performance-in-a-quirky-design/"><u>Review of FLSun S1: High-Speed Performance in a Quirky Design</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-asrocks-z79-1-lightning-wi-fi-features-review-a-surprising-blend-of-miniaturization-and-power/"><u>The Ultimate Guide to ASRock's Z79 1 Lightning Wi-Fi Features Review: A Surprising Blend of Miniaturization and Power</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unveiling-this-years-premier-trivia-broadcasting-titles/"><u>Unveiling This Year's Premier Trivia Broadcasting Titles</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/vimeo-revenue-rise-how-to-harness-the-power-of-ads/"><u>Vimeo Revenue Rise How to Harness the Power of Ads</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-ultimate-guide-to-podcast-outros-and-examples/"><u>[Updated] 2024 Approved The Ultimate Guide to Podcast Outros & Examples</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-insta-reels-with-tiktok-techniques-for-massive-shares/"><u>2024 Approved Mastering Insta Reels with TikTok Techniques for Massive Shares</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-expansion-solutions-with-the-highpoint-rocket-1608a-a-comprehensive-evaluation-of-added-storage-and-increased-power/"><u>Advanced Expansion Solutions with the HighPoint Rocket 1608A: A Comprehensive Evaluation of Added Storage and Increased Power</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-pro-b760m-ct-csm-unveiled-comprehensive-review-for-serious-gamers-and-builders/"><u>ASUS Pro B760M-CT CSM Unveiled: Comprehensive Review for Serious Gamers and Builders</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-breakdown-by-tom-your-trusted-source/"><u>Expert Hardware Breakdown by Tom - Your Trusted Source</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-electronics-with-toms-wisdom/"><u>Exploring the World of Electronics with Tom's Wisdom</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-shutter-speed-supreme-the-ultimate-camera-guide-for-slow-videos/"><u>In 2024, Shutter Speed Supreme The Ultimate Camera Guide for Slow Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-going-unseen-during-instagram-live-events/"><u>In 2024, The Art of Going Unseen During Instagram Live Events</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-infinix-smart-8-plus-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Infinix Smart 8 Plus Android SIM Unlock APK</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-horizons-in-computing-a-look-at-toms-hardware-discoveries/"><u>Navigating New Horizons in Computing - A Look at Tom's Hardware Discoveries</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-circuitry-maze-with-toms-hardware-wisdom/"><u>Navigating the Circuitry Maze with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-level-paperless-solutions-harnessing-the-power-of-abbyy-intelligent-document-processing-and-pegasystems-ai-technology/"><u>Next-Level Paperless Solutions: Harnessing the Power of ABBYY Intelligent Document Processing and Pegasystem's AI Technology</u></a></li>
+<li><a href="https://fox-links.techidaily.com/precision-editing-picarts-techniques-for-background-subtraction-for-2024/"><u>Precision Editing PicArt's Techniques for Background Subtraction for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-repairing-windows-10-file-system-errors/"><u>Step-by-Step Guide: Repairing Windows 10 File System Errors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-computing-new-intel-chip-drivers/"><u>Streamlined Computing: New Intel Chip Drivers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncovering-the-potential-of-the-latest-geekworm-x1/"><u>Uncovering the Potential of the Latest GeekWorm X1</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-the-power-of-technology-the-ultimate-guide-to-toms-hardware-selection/"><u>Unlock the Power of Technology: The Ultimate Guide to Tom's Hardware Selection</u></a></li>
 </ul></div>
 

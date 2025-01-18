@@ -1,7 +1,7 @@
 ---
 title: "Xiaomi Book S (Windows on Arm) 2-in-1 Tablet & Laptop Revealed: Is It Worth Your Money? - ZDNET Review"
-date: 2024-09-17 15:37:22
-updated: 2024-09-20 11:33:10
+date: 2025-01-12T16:45:00.413Z
+updated: 2025-01-18T16:46:29.887Z
 tags:
   - mobile-accessories
 categories:
@@ -35,6 +35,10 @@ Pros
 
 Cons 
 * Only available for iPhone 16 Pro models
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Nomad Sport Case
 
@@ -238,6 +242,10 @@ That being said, leather is not everybody's thing. But, if you are in the market
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone 16 case?
 
 Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek design and solid protection. Check out how the other options stack up below.
@@ -249,6 +257,10 @@ Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek desig
 | Latercase for iPhone 16    | $60       | No                  | Yes         |
 | Incase Icon case           | $60       | Yes                 | Yes         |
 | Nomad Modern Leather case  | $70       | Yes                 | Yes         |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which is the right iPhone 16 case for you?
 
@@ -271,15 +283,27 @@ We kept in mind the most important factors when choosing the best iPhone 16 case
 * **Cost:** iPhones are expensive, and spending a lot on a phone case just adds to the bill. Therefore, we consider price an important factor in our selections.
 * **Special Features:** Many cases have added features like MagSafe capabilities and a kickstand. We include these products to appease those who may prefer wireless charging or other necessary features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these iPhone 16 cases?
 
 To choose these iPhone 16 cases, we performed extensive research over every corner of the internet, like Reddit forums and customer reviews, to find the best picks at the time of this writing. When we can't test a product, we rely on opinions from real people over company promises. We also receive recommendations from ZDNET experts like reviews editor Kerry Wan and editor-in-chief Jason Hiner, who have years of experience in the tech journalism field. Our picks are meant to leave the reader happy and their device healthy. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What iPhone case is most protective?
 
 On this list, the Nomad Sport case and the Torras Ostand MagSafe Case are the most protective for their drop protection and protective features. 
 
 However, if you stray from the list, the best options are those with a solid bumper and durable material. Before purchasing a case, make sure to check its drop protection and other safety features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best phone case brand?
 
@@ -300,6 +324,10 @@ If your phone has the problem of overheating, it may be best to look into specia
 ## What is the best iPhone for a 16 year old?
 
 This is a good question, and if we had to chime in, we would say something more durable. A study by tech protection service Asurion in 2013 that [3 out of 10 teenagers have dropped](https://www.prnewswire.com/news-releases/3-out-of-10-teens-damaged-cell-phones-in-the-last-18-months-mainly-at-school-218494391.html#:~:text=A%20back%2Dto%2Dschool%20survey,most%20accidents%20happening%20at%20school.) and/or damaged their cell phones in the past 18 months. Ten years later, many phones are even less durable. Therefore, that number may be higher, especially if teenagers have more phones than ever. To prevent damage to your teen's phone, it may be wise to invest in a durable case that protects the device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 16 cases worth considering?
 
@@ -338,11 +366,25 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/1-2024/"><u>1. 2024 동영상 타임랩스 변환에 대한 최신 기술: 시각화 및 수학적 기술을 사용한 두 가지 유명한 방법</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-advanced-equipment-with-toms-gadgets-a-deep-dive-into-modern-technology/"><u>Discovering Advanced Equipment with Tom's Gadgets: A Deep Dive Into Modern Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-insights-into-palworld/"><u>Essential Insights Into PalWorld</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/full-disclosure-unpacking-the-dji-inspire-1-for-2024/"><u>Full Disclosure Unpacking the DJI Inspire 1 for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-lian-li-o11-vision-case-analysis-insights-with-tempered-glass/"><u>In-Depth Lian Li O11 Vision Case Analysis: Insights with Tempered Glass</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pen-to-pixel-best-photography-caption-apps-iosandroid-for-2024/"><u>Pen to Pixel Best Photography Caption Apps (iOS/Android) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-overcoming-the-error-the-definitive-guide-to-fixed-xbox-game-passwindows-11/"><u>Swiftly Overcoming the Error: The Definitive Guide to Fixed Xbox Game Pass/Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-innovative-reviews-and-insights/"><u>Tom's Tech Hub: Innovative Reviews & Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-guides-on-computer-hardware/"><u>Tom's Tech Insights: Expert Guides on Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-hardware/"><u>Tom's Tech Insights: The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/understanding-legal-implications-for-sharing-video-content-online-for-2024/"><u>Understanding Legal Implications for Sharing Video Content Online for 2024</u></a></li>
+</ul></div>
+

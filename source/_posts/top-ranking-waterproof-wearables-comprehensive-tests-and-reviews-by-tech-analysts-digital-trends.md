@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranking Waterproof Wearables : Comprehensive Tests and Reviews by Tech Analysts | Digital Trends"
-date: 2024-09-18 10:10:21
-updated: 2024-09-20 11:52:29
+date: 2025-01-11T16:46:59.492Z
+updated: 2025-01-18T17:12:24.369Z
 tags:
   - mobile-accessories
 categories:
@@ -21,6 +21,10 @@ It's no secret that iPhones aren't the most rugged devices, sometimes yielding s
 
 Our pick for the best iPhone 16 case right now is the [Nomad Sport Case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNOMAD%2Fpage%2F6927BCAB-A05E-40FA-ADA7-1E37C46F23E5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1b7570ec-4eb5-4b81-b155-113b9708aa83%7Cdtp&dtb=1) case. This brand has been a longtime ZDNET favorite for its sleek form factor, [MagSafe capabilities](https://www.zdnet.com/article/best-magsafe-wallets/), and drop protection without a bulky form factor. Keep reading for more of our iPhone 16 case picks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best iPhone 16 cases of 2024
 
 Show less 
@@ -35,6 +39,10 @@ Pros
 
 Cons 
 * Only available for iPhone 16 Pro models
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Nomad Sport Case
 
@@ -196,6 +204,10 @@ Cons
 * Not too much protection
 * Pricey for low protection
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Moft Snap Case Movas
 
 #### Best vegan-leather iPhone 16 case
@@ -238,6 +250,10 @@ That being said, leather is not everybody's thing. But, if you are in the market
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone 16 case?
 
 Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek design and solid protection. Check out how the other options stack up below.
@@ -261,6 +277,10 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Latercase for iPhone 16         | A super thin case to stick your large phone in your small pocket.                                       |
 | Incase Icon case                | A unique and stylish case with protection and MagSafe capabilities.                                     |
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best iPhone 16 case
 
@@ -297,9 +317,17 @@ The iPhone 16 is available for preorder now, and will arrive in stores on Septem
 
 If your phone has the problem of overheating, it may be best to look into specialty cases called heat dissipation cases. These cases are made of heat-wicking material that regulates heat and allows airflow to cool your phone down.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone for a 16 year old?
 
 This is a good question, and if we had to chime in, we would say something more durable. A study by tech protection service Asurion in 2013 that [3 out of 10 teenagers have dropped](https://www.prnewswire.com/news-releases/3-out-of-10-teens-damaged-cell-phones-in-the-last-18-months-mainly-at-school-218494391.html#:~:text=A%20back%2Dto%2Dschool%20survey,most%20accidents%20happening%20at%20school.) and/or damaged their cell phones in the past 18 months. Ten years later, many phones are even less durable. Therefore, that number may be higher, especially if teenagers have more phones than ever. To prevent damage to your teen's phone, it may be wise to invest in a durable case that protects the device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 16 cases worth considering?
 
@@ -338,11 +366,33 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-an-exclusive-list-of-heartwarming-weddings-youtube-and-vimeo-edition/"><u>[New] 2024 Approved An Exclusive List of Heartwarming Weddings - Youtube & Vimeo Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ultimate-list-of-window-screenshot-utilities-for-2024/"><u>[New] Ultimate List of Window Screenshot Utilities for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-liberating-your-media-experience-free-movplay-software-for-2024/"><u>[Updated] Liberating Your Media Experience Free MOV/PLAY Software for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-your-daily-dose-of-humor-and-heartbreak-from-instagram-memes-for-2024/"><u>[Updated] Your Daily Dose of Humor & Heartbreak From Instagram Memes for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/achieve-peak-efficiency-with-ideal-memory-settings-on-your-amd-ryzen-3000-processors-in-depth-review-from-toms-hardware/"><u>Achieve Peak Efficiency with Ideal Memory Settings on Your AMD Ryzen 3000 Processors - In-Depth Review From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-analysis-by-tom-in-depth-hardware-reviews/"><u>Advanced Gadget Analysis by Tom: In-Depth Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ddr5-pushes-past-limits-achieving-9058mhz-overclock-on-amds-ryzen-7000-series-using-new-firmware/"><u>DDR5 Pushes Past Limits: Achieving 9058MHz Overclock on AMD's Ryzen 7000 Series Using New Firmware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-hardware-with-tom-your-go-to-source-for-gadget-reviews/"><u>Decoding Hardware with Tom: Your Go-To Source for Gadget Reviews</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/enhancing-accessibility-documenting-computer-audio-in-audacity-for-2024/"><u>Enhancing Accessibility Documenting Computer Audio in Audacity for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-12-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 12 to Android | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-with-tom-comprehensive-gadget-analysis-and-advice/"><u>Mastering Tech with Tom: Comprehensive Gadget Analysis & Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964464340-new-overclocking-milestone-rtx-3nce-3080-smashes-speed-limit-at-234ghz/"><u>New Overclocking Milestone: RTX 3Nce 3080 Smashes Speed Limit at 2.34GHz</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862805204-pick-up-the-massive-lg-ultragear-39-curved-qhd-gaming-screen-for-just-999-on-amazon/"><u>Pick Up the Massive LG Ultragear 39 Curved QHD Gaming Screen for Just $999 on Amazon!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tech-insights-by-tom-exploring-advanced-computer-and-electronics-equipment/"><u>Tech Insights by Tom: Exploring Advanced Computer and Electronics Equipment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/thrilling-breakthrough-in-pc-performance-ddr5-memory-hit-9058mhz-with-ryzen-clockwork-latest-bios-update-secrets-revealed/"><u>Thrilling Breakthrough in PC Performance: DDR5 Memory Hit 9058MHz with Ryzen Clockwork - Latest BIOS Update Secrets Revealed!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-gear-your-ultimate-guide-to-high-performance-components/"><u>Tom's Tech Gear: Your Ultimate Guide to High-Performance Components</u></a></li>
+<li><a href="https://games-able.techidaily.com/trimming-unwanted-ui-in-discord-games/"><u>Trimming Unwanted UI in Discord Games</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-realme-c53-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Realme C53 Phones</u></a></li>
+</ul></div>
+

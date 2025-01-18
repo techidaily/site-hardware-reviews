@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Expert Review on Compact Earbuds From Jabra – A Game-Changer for Sufferers of Mild Hearing Loss
-date: 2024-09-17 23:14:37
-updated: 2024-09-20 11:39:33
+date: 2025-01-11T16:06:10.419Z
+updated: 2025-01-18T19:13:16.834Z
 tags:
   - mobile-accessories
 categories:
@@ -16,6 +16,10 @@ The new generation of iPhones are here and features a new action button, more AI
 **Also:** [**Preorder the iPhone 16 now (and even get one for free) - here's how**](https://www.zdnet.com/article/preorder-the-iphone-16-now-and-even-get-one-for-free-heres-how/)
 
 It's no secret that iPhones aren't the most rugged devices, sometimes yielding screen cracks and camera damage from simple drops. Luckily, ZDNET editors have gone hands-on with iPhone 16 cases to see how they match up. No matter your needs -- drop protection, style _with_ durability, or functionality -- we've got you covered. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case right now?
 
@@ -62,6 +66,10 @@ Pros
 Cons 
 * Kickstand durability
 * Not many color options
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Torras 360-degree OStand
 
@@ -224,6 +232,10 @@ Cons
 * Unsure on sustainability
 * Only for Pro models
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Nomad Modern Leather Case
 
 #### Best leather case for iPhone 16
@@ -262,6 +274,10 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Incase Icon case                | A unique and stylish case with protection and MagSafe capabilities.                                     |
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing the best iPhone 16 case
 
 We kept in mind the most important factors when choosing the best iPhone 16 cases. The most relevant aspects are:
@@ -274,6 +290,10 @@ We kept in mind the most important factors when choosing the best iPhone 16 case
 ## How did we choose these iPhone 16 cases?
 
 To choose these iPhone 16 cases, we performed extensive research over every corner of the internet, like Reddit forums and customer reviews, to find the best picks at the time of this writing. When we can't test a product, we rely on opinions from real people over company promises. We also receive recommendations from ZDNET experts like reviews editor Kerry Wan and editor-in-chief Jason Hiner, who have years of experience in the tech journalism field. Our picks are meant to leave the reader happy and their device healthy. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What iPhone case is most protective?
 
@@ -289,6 +309,10 @@ Unfortunately, there isn't such a thing as the best phone case brand. Many sourc
 
 Materials like plastic or polycarbonate usually offer the best price and durability. Other cases made from leather or metal can be pricier and may not offer the best protection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is the iPhone 16 available?
 
 The iPhone 16 is available for preorder now, and will arrive in stores on September 20.
@@ -300,6 +324,10 @@ If your phone has the problem of overheating, it may be best to look into specia
 ## What is the best iPhone for a 16 year old?
 
 This is a good question, and if we had to chime in, we would say something more durable. A study by tech protection service Asurion in 2013 that [3 out of 10 teenagers have dropped](https://www.prnewswire.com/news-releases/3-out-of-10-teens-damaged-cell-phones-in-the-last-18-months-mainly-at-school-218494391.html#:~:text=A%20back%2Dto%2Dschool%20survey,most%20accidents%20happening%20at%20school.) and/or damaged their cell phones in the past 18 months. Ten years later, many phones are even less durable. Therefore, that number may be higher, especially if teenagers have more phones than ever. To prevent damage to your teen's phone, it may be wise to invest in a durable case that protects the device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 16 cases worth considering?
 
@@ -338,11 +366,33 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-avoid-delays-swift-time-lapse-recording-on-iphone/"><u>[New] Avoid Delays Swift Time-Lapse Recording on iPhone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rom-chaos-to-clarity-professional-tools-for-youtube-cuts/"><u>[New] From Chaos to Clarity Professional Tools for Youtube Cuts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-az-video-logger-full-application-scrutiny/"><u>[Updated] In 2024, AZ Video Logger - Full Application Scrutiny</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-formula-for-fast-tracking-to-a-thousand-subscribers/"><u>[Updated] In 2024, The Formula for Fast-Tracking to a Thousand Subscribers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862873135-1300plus-bidding-war-for-exclusive-evga-classified-x67-prototype-motherboard/"><u>$1,300+ Bidding War for Exclusive EVGA Classified X67# Prototype Motherboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-computing-tips-from-toms-hardware-experts/"><u>Advanced Computing Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-breakthroughs-on-the-horizon-holding-knowledge-in-your-palm-with-predictions-zdnet-exclusive/"><u>AI Breakthroughs on the Horizon: Holding Knowledge in Your Palm with Predictions | ZDNET Exclusive</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/fraps-as-a-video-recorder-what-you-need-to-know/"><u>Fraps as a Video Recorder What You Need To Know</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-turn-mess-into-mastery-efficient-edits-on-bulky-tiktok-drafts/"><u>In 2024, Turn Mess Into Mastery Efficient Edits on Bulky TikTok Drafts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-computer-components-t17238628805809/"><u>Tom's Tech Insights: Your Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-guide-t172386288058010/"><u>Tom's Tech Reviews: Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-of-2024s-best-gaming-mobos-compared-by-key-sockets-and-processor-support/"><u>Ultimate Selection of 2024'S Best Gaming Mobos: Compared by Key Sockets and Processor Support</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unlock-your-potential-with-expert-picked-video-stabilization-tools-for-2024/"><u>Unlock Your Potential with Expert-Picked Video Stabilization Tools for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-asus-latest-bios-update-for-seamless-integration-of-microsofts-dynamic-light-control-a-step-beyond-armory-crate/"><u>Unveiling Asus' Latest BIOS Update for Seamless Integration of Microsoft's Dynamic Light Control - A Step Beyond Armory Crate</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-at-toms-electronic-forum/"><u>Unveiling the Latest Gadgets at Tom's Electronic Forum</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computers-your-guide-to-toms-hardware/"><u>Unveiling the Latest in Computers - Your Guide to Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-performance-a-comprehensive-guide-to-asus-rog-z790-formulas-advanced-cooling-and-elite-hardware/"><u>Unveiling the Performance: A Comprehensive Guide to Asus ROG Z790 Formula's Advanced Cooling and Elite Hardware</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-simplest-tone-adjustments-in-pubg-for-2024/"><u>Unveiling the Simplest Tone Adjustments in PUBG for 2024</u></a></li>
+</ul></div>
+

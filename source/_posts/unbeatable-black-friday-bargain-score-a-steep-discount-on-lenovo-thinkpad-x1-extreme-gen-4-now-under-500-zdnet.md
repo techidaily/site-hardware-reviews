@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Score a Steep Discount on Lenovo ThinkPad X1 Extreme Gen 4 - Now Under $500 | ZDNet"
-date: 2025-01-07T18:56:41.530Z
-updated: 2025-01-13T00:28:33.569Z
+date: 2025-01-14T16:42:51.665Z
+updated: 2025-01-18T16:37:47.756Z
 tags:
   - laptops
 categories:
@@ -24,7 +24,7 @@ The model on offer here runs on Intel's 11th-generation [Core i7-11850H](https:/
 **Also:** [**Best Black Friday laptop deals 2022**](https://www.zdnet.com/article/black-friday-laptop-deals-november-23-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -67,19 +67,24 @@ At $1,699 -- 53% off Lenovo's list price -- the [ThinkPad X1 Extreme](https://bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-harness-the-power-of-instagram-best-free-video-converter-apps-for-windowsmacos/"><u>[Updated] In 2024, Harness the Power of Instagram Best Free Video Converter Apps for Windows/macOS</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-celebrating-beauty-innovators-youtubes-elite-list/"><u>2024 Approved Celebrating Beauty Innovators YouTube's Elite List</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exclusive-guide-unlocking-200-savings-on-latest-samsung-gadgets-launching-soon/"><u>Exclusive Guide: Unlocking $200 Savings on Latest Samsung Gadgets Launching Soon!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-high-quality-sound-the-new-pixel-tablet-at-just-499-features-built-in-speaker-docking-system/"><u>Experience High-Quality Sound: The New Pixel Tablet at Just $499 Features Built-In Speaker Docking System</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-eye-catching-aesthetics-of-the-new-galaxy-tab-s9-series-are-they-worth-their-cost/"><u>Exploring the Eye-Catching Aesthetics of the New Galaxy Tab S9 Series - Are They Worth Their Cost?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/f-droid-vs-play-store-what-sets-them-apart-and-why-you-should-consider-the-alternative-app-repository/"><u>F-Droid Vs. Play Store: What Sets Them Apart and Why You Should Consider the Alternative App Repository</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/guide-setting-up-song-crossfading-feature-on-apple-music/"><u>Guide: Setting Up Song Crossfading Feature on Apple Music</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/harmonizing-different-footage-sources-on-ios-device/"><u>Harmonizing Different Footage Sources on iOS Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-to-fix-google-messages-when-it-continuously-fails/"><u>How to Fix Google Messages When It Continuously Fails</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-zte-axon-40-lite-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked ZTE Axon 40 Lite Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-secure-your-shots-in-the-cloud-unlimited-free-space-plus-charged-premium-solutions/"><u>In 2024, Secure Your Shots in the Cloud Unlimited Free Space + Charged Premium Solutions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-midland-gxt1000vp4-a-pathway-to-impeccable-audio-quality/"><u>In-Depth Analysis of Midland GXT1000VP4 - A Pathway to Impeccable Audio Quality</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-updates-for-intel-integrated-graphics-on-windows-1011-download-and-installation-instructions/"><u>Latest Updates for Intel Integrated Graphics on Windows 10/11: Download & Installation Instructions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/0-music-reactions-on-yt-a-year-end-review-for-2024/"><u>Top 10 Music Reactions on YT A Year-End Review for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-high-definition-video-refiner-for-pcmacos/"><u>[Updated] High Definition Video Refiner for PC/MacOS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-chortlecraft-funny-visuals-for-social-engagement/"><u>[Updated] In 2024, ChortleCraft Funny Visuals for Social Engagement</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-the-comprehensible-handbook-for-tiktok-emoji-usage/"><u>[Updated] In 2024, The Comprehensible Handbook for TikTok Emoji Usage</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unveiling-hidden-techniques-for-clear-ppt-transcriptions/"><u>2024 Approved Unveiling Hidden Techniques for Clear PPT Transcriptions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341723202-cutting-edge-cost-effective-nvme-cooling-discover-the-power-of-the-uphere-m201-heatsink-under-5/"><u>Cutting-Edge, Cost-Effective NVMe Cooling - Discover the Power of the UpHere M201 Heatsink Under $5</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/efficiently-manage-invoices-integrating-abbyy-technology-with-m-files-systems/"><u>Efficiently Manage Invoices: Integrating ABBYY Technology with M-Files Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-computing-from-tomntech-space/"><u>Expert Advice on Computing From Tom'nTech Space</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-login-issues-resolve-them-fast-and-effortlessly/"><u>Fortnite Login Issues? Resolve Them Fast and Effortlessly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-speed-computing-on-lattepanda-mu-is-it-worth-more-than-raspberry-pi-5/"><u>High-Speed Computing on LattePanda Mu - Is It Worth More Than Raspberry Pi 5?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-s23-tactical-edition-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy S23 Tactical Edition FRP</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-6-fiscal-sensible-options-in-high-res-projection-for-2024/"><u>Leading 6 Fiscal Sensible Options in High-Res Projection for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/logitecs-g515-lightspeed-tkl-showcase-high-quality-economic-price-tag-for-gamers-and-typists-alike/"><u>Logitec's G515 Lightspeed TKL Showcase - High Quality, Economic Price Tag for Gamers and Typists Alike</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-cloud-data-costs-comparison-and-best-price-paths/"><u>Navigating Cloud Data Costs Comparison & Best Price Paths</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computer-hardware-by-toms-team/"><u>The Ultimate Guide to Computer Hardware by Tom's Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-guide-to-latest-gadgets/"><u>Tom's Tech Hub - Comprehensive Guide to Latest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-hardware-and-software/"><u>Tom's Tech Review: Expert Insights on Hardware and Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-computing/"><u>Tom's Tech Reviews: Expert Insights on Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-picks-for-novice-gopro-enthusiasts-for-2024/"><u>Top Picks for Novice GoPro Enthusiasts for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/valkyrie-vind-sl125-when-style-overshadows-subpar-effectiveness-in-our-detailed-review/"><u>Valkyrie Vind SL125 - When Style Overshadows Subpar Effectiveness in Our Detailed Review</u></a></li>
 </ul></div>
 

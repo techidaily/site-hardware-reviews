@@ -1,7 +1,7 @@
 ---
 title: "Complete Your Kit: Expertly Curated Accessories and Cases for the Newest Samsung Galaxy Z Flip Cups - In-Depth Analysis by MobileGuru"
-date: 2024-09-18 23:34:10
-updated: 2024-09-20 11:20:43
+date: 2025-01-14T16:46:00.069Z
+updated: 2025-01-18T16:46:01.317Z
 tags:
   - mobile-accessories
 categories:
@@ -35,13 +35,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to transform a Flipper Zero into an Apple AirTag
 
 **What you'll** **need**: A Flipper Zero, an Apple AirTag (or [tracker from another brand](https://www.zdnet.com/article/best-bluetooth-tracker/)), an [iPhone](https://www.zdnet.com/article/best-iphone/) and an [Android phone](https://www.zdnet.com/article/best-android-phone/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install Momentum firmware
 
 First, install the Momentum firmware on your Flipper Zero. The most straightforward method is to use the web installer, but rest assured, you can revert to the stock firmware at any point [using the desktop or mobile app](https://flipperzero.one/downloads). Simply navigate to the [Momentum web installer page](https://momentum-fw.dev/update/), connect your Flipper Zero, and follow the prompts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Downloading FindMy Flipper
 
@@ -50,6 +62,10 @@ Once installed, you'll discover a host of new applications on your Flipper Zero,
 **Also: [Flipper Zero: 'Can you really hack Wi-Fi networks?' and other questions answered](https://www.zdnet.com/home-and-office/flipper-zero-can-you-really-hack-wi-fi-networks-and-other-questions-answered/)**
 
 The app leverages the Flipper Zero's Bluetooth capabilities to act as an Apple AirTag, (or if you prefer, a Samsung SmartTag or Tile tag, but that process is even more cumbersome). It uses the Flipper Zero Bluetooth low energy (BLE) beacon to broadcast a signal that can be picked up by iPhones and sent back to Apple for viewing in the FindMy app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Setting up the Flipper Zero
 
@@ -60,6 +76,10 @@ You'll need an AirTag, an iPhone, and an Android smartphone to follow along.
 **Also: [How to unlock the Flipper Zero's true power](https://www.zdnet.com/article/how-to-unlock-the-flipper-zero-true-power/)**
 
 I've personally gone through these steps multiple times and can confirm their effectiveness. But precision is key -- make sure to follow each step meticulously. A single misstep is enough to stop this from working and leave you scratching your head.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Using custom Python scripts (and why you should)
 
@@ -90,11 +110,30 @@ This brings me to one of the things that I really like about the [Flipper Zero](
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-most-innovative-and-easy-to-use-mobile-photo-layers-top-10/"><u>[New] 2024 Approved The Most Innovative & Easy-to-Use Mobile Photo Layers (Top 10)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-comparing-magix-graphics-software-variants/"><u>[New] Comparing MAGIX Graphics Software Variants</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-acclaimed-selections-outstanding-iphone-tone-specialists/"><u>[Updated] Acclaimed Selections Outstanding iPhone Tone Specialists</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-get-your-tweets-right-comply-with-aspect-ratio-standards/"><u>[Updated] Get Your Tweets Right Comply with Aspect Ratio Standards</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-mastering-file-saving-on-windows-11-a-compendium-of-six-techniques/"><u>[Updated] In 2024, Mastering File Saving on Windows 11 A Compendium of Six Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-plot-pointers-institute-quintessential-quotient/"><u>[Updated] Plot Pointers Institute - Quintessential Quotient</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862749259-amazons-exclusive-get-lg-34qhd-ultragear-monitor-with-g-sync-tech-for-a-steal-at-549/"><u>Amazon's Exclusive: Get LG 34QHD Ultragear Monitor with G-Sync Tech for a Steal at $549!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-stunning-clarity-with-our-portable-1080p-156-inch-ips-display-priced-at-a-record-6599/"><u>Experience Stunning Clarity with Our Portable 1080P 15.6-Inch IPS Display - Priced at a Record $65.99</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-tom-hardware-insights/"><u>Exploring Technology with Tom: Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gamers-alert-enjoy-the-cutting-edge-technology-with-a-sceptre-curved-monitor-at-an-incredible-discounted-rate-of-79/"><u>Gamers Alert! Enjoy the Cutting-Edge Technology with a Sceptre Curved Monitor at an Incredible Discounted Rate of $79</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-galaxy-a15-4g-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Galaxy A15 4G</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862836975-transform-your-gaming-experience-with-the-alienware-curved-34-inch-oled-available-for-749-at-best-buy/"><u>Transform Your Gaming Experience with the Alienware Curved 34 Inch OLED - Available for $749 at Best Buy!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turning-off-smartscreen-protection-in-win11-and-11/"><u>Turning Off SmartScreen Protection in Win11 & 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862802096-vaio-takes-portability-to-new-heights-the-worlds-lightest-screen-the-visionplus-n/"><u>Vaio Takes Portability to New Heights: The World’s Lightest Screen, the Vision+ N.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-guide-to-gadgets-and-gear-in-depth-reviews-by-toms-hardware-experts/"><u>Your Guide to Gadgets and Gear: In-Depth Reviews by Tom's Hardware Experts</u></a></li>
+</ul></div>
+

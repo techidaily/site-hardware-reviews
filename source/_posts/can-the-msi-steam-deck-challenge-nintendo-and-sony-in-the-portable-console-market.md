@@ -1,7 +1,7 @@
 ---
 title: Can the MSI Steam Deck Challenge Nintendo and Sony in the Portable Console Market?
-date: 2025-01-09T21:37:44.019Z
-updated: 2025-01-12T21:36:56.864Z
+date: 2025-01-11T16:07:40.932Z
+updated: 2025-01-18T17:53:57.740Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Furthermore, there are very few ports. You get three in total: two USB-C inputs 
 My last critique is admittedly a nitpick. I would've appreciated a free stylus in the overall package. Microsoft's 11th-gen Surface Pro had one when I got it, and I thoroughly enjoyed it. So unless you already have a pen, you'll have to buy one for the PZ13, which isn't a big issue since the laptop is fairly cheap.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ Prices for the Asus ProArt PZ13 start at [$1,100 on Best Buy](https://shop-links
 Other than that, they're the same device. Get the Hexagon version only if you are expecting heavy workloads.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -140,18 +140,19 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-perfecting-online-photos-the-cropping-guide/"><u>[Updated] In 2024, Perfecting Online Photos The Cropping Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/crafting-illusions-simulating-time-jumps-and-space-hopping/"><u>Crafting Illusions Simulating Time Jumps & Space Hopping</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-oppo-a2-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Oppo A2</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/giggle-guild-undead-humor-bots-for-2024/"><u>Giggle Guild Undead Humor Bots for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-assignments-in-windows-enhancing-productivity/"><u>Key Assignments in Windows: Enhancing Productivity</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revive-the-odd-a-collection-of-the-most-bizarre-desktop-tower-cabinets/"><u>Revive the Odd: A Collection of the Most Bizarre Desktop Tower Cabinets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/reviving-retro-tech-the-impressive-similarities-of-8bitdos-latest-mechanical-keyboard-to-the-iconic-ibm-model-m/"><u>Reviving Retro Tech: The Impressive Similarities of 8BitDo's Latest Mechanical Keyboard to the Iconic IBM Model M</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionary-enhancements-exploring-the-features-of-the-latest-apple-pencil-pro/"><u>Revolutionary Enhancements: Exploring the Features of the Latest Apple Pencil Pro</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/story-2-the-cohort-confusion/"><u>Story 2: The Cohort Confusion</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-decline-of-light-gun-video-gaming-how-current-televisions-have-impacted-the-genre/"><u>The Decline of Light Gun Video Gaming: How Current Televisions Have Impacted the Genre</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-step-by-step-process-for-perfecting-screencast-video-quality/"><u>[New] 2024 Approved The Step-by-Step Process for Perfecting Screencast Video Quality</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-snappy-movement-capturing-blur-with-iphone-photos/"><u>[New] In 2024, Snappy Movement Capturing Blur with iPhone Photos</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-10t-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breakdown-and-examination-of-the-groundbreaking-4tb-wd-blue-sn50e-drive-by-western-digital/"><u>Breakdown and Examination of the Groundbreaking 4TB WD Blue SN50e Drive by Western Digital</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/effective-solutions-for-resolving-windows-driver-issues-insights-by-yl-computing/"><u>Effective Solutions for Resolving Windows Driver Issues - Insights by YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ensuring-a-forced-startup-into-safe-mode-essential-steps-for-windows-systems/"><u>Ensuring a Forced Startup Into Safe Mode: Essential Steps for Windows Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to share/fake gps on Uber for Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-and-reviews-toms-hardware-for-savvy-shoppers/"><u>In-Depth Analysis & Reviews | Tom's Hardware for Savvy Shoppers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-unboxing-and-testing-the-raspberry-pi-ai-learning-set/"><u>In-Depth Review: Unboxing and Testing the Raspberry Pi AI Learning Set</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-tech-world-tips-and-tricks-by-toms-hardware/"><u>Navigate the Tech World: Tips & Tricks by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-trusty-reviews-at-toms-hardware/"><u>Navigating the World of Electronics with Trusty Reviews at Tom's Hardware</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-repeat-repeat-repeat-10-free-video-loopers-for-endless-fun/"><u>New 2024 Approved Repeat, Repeat, Repeat 10 Free Video Loopers for Endless Fun</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unique-choir-compositions-as-your-smartphone-tones-for-2024/"><u>Unique Choir Compositions as Your Smartphone Tones for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/yl-softwares-blueprint-for-thriving-in-the-cryptomarket-as-a-skilled-trader/"><u>YL Software's Blueprint for Thriving in the Cryptomarket as a Skilled Trader</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How LG's Innovative Gram Pro Laptop Triumphs Over the MacBook Air in Performance, Battery Life & Portability | GadgetGuru
-date: 2025-01-10T23:44:45.085Z
-updated: 2025-01-13T00:53:44.418Z
+date: 2025-01-17T16:46:36.125Z
+updated: 2025-01-18T18:22:54.502Z
 tags:
   - laptops
 categories:
@@ -56,7 +56,7 @@ If you're at all familiar with the previous ThinkPad X1 computers, you'll notice
 Another consequence of the limited space is the lack of ports. You have four inputs in total: two Thunderbolt 4 ports, an 3.5mm headphone/mic combo, and a slot for a Nano SIM, although the last one is optional. It's as barebones as you can get. To be honest, I am pleasantly surprised that there is a headphone jack. With how simple the [third-generation ThinkPad X1 Nano](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-nano-gen-3-%2813-inch-intel%29%2Flen101t0054&publisher_slug=itechdaily19598&exclusive=1) is, I was a little shocked it made the cut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -97,16 +97,22 @@ Prices [start at $1,043](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-audioadventurers-venturing-without-dacast/"><u>[New] 2024 Approved AudioAdventurers Venturing Without DaCast</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-formulating-a-seamless-subscription-hyperlink-to-youtube/"><u>[New] Formulating a Seamless Subscription Hyperlink to YouTube</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/building-a-vimeo-portfolio-from-the-ground-up/"><u>Building a Vimeo Portfolio From the Ground Up</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-tom-the-ultimate-hardware-resource/"><u>Exploring Gadgets with Tom: The Ultimate Hardware Resource</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-superior-speed-on-a-budget-with-the-hatdrive-nano-for-your-raspberry-pi-projects/"><u>Get Superior Speed on a Budget with the HatDrive! Nano for Your Raspberry Pi Projects</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/hps-visionary-color-display-dissecting-the-z32x-monitor/"><u>HP’s Visionary Color Display Dissecting the Z32X Monitor</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-navigating-filmoras-fcc-initiative-a-guide/"><u>In 2024, Navigating Filmora's FCC Initiative A Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-flagship-microsoft-surface-pro-impressive-looks-yet-disappointing-smart-tech-features/"><u>In-Depth Analysis of the Flagship Microsoft Surface Pro - Impressive Looks, Yet Disappointing Smart Tech Features</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ntegrating-the-ebook-format-since-space-may-be-limited-for-physical-books-in-urban-areas-offering-an-e-book-version-could-appeal-to-tech-savvy-city-dwellers23/"><u>Ntegrating the eBook Format: Since Space May Be Limited for Physical Books in Urban Areas, Offering an E-Book Version Could Appeal to Tech-Savvy City Dwellers Who Prefer Digital over Paper Copies.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-hardware-with-tom/"><u>Understanding Hardware with Tom</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-bypass-automated-systems-for-win-11-key-generation-safety/"><u>Why Bypass Automated Systems for Win 11 Key Generation Safety?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-cutting-edge-imagery-iphones-photo-cropping-techniques/"><u>[New] Cutting Edge Imagery IPhone's Photo Cropping Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-action-camera-faceoff-whos-winning-in-gopro-vs-yi-4k-battle/"><u>[Updated] Action Camera Faceoff Who's Winning in GoPro Vs. Yi 4K Battle?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-integrating-voices-into-videos-effectively/"><u>[Updated] In 2024, Integrating Voices Into Videos Effectively</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fine-tune-your-videos-mood-with-custom-sound-design/"><u>2024 Approved Fine-Tune Your Video's Mood with Custom Sound Design</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/comment-recuperer-des-donnees-sans-perdre-aucune-donnee-sur-un-disque-dur-non-initialise/"><u>Comment Récupérer Des Données Sans Perdre Aucune Donnée Sur Un Disque Dur Non Initialisé ?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-hp-laserjet-5200-printer-drivers-for-windows-11-10-and-8-fast-and-easy/"><u>Download the Latest HP LaserJet 5200 Printer Drivers for Windows 11, 10 & 8 - Fast and Easy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-sessions-with-asus-rog-swift-a-comprehensive-review-of-its-breathtaking-240hz-oled-display-and-unmatched-visual-clarity-for-competitive-1/"><u>Elevate Your Gaming Sessions with ASUS ROG Swift - A Comprehensive Review of Its Breathtaking 240Hz OLED Display & Unmatched Visual Clarity for Competitive Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-analysis-by-tom-stay-ahead-of-technology-trends/"><u>Expert Hardware Analysis by Tom - Stay Ahead of Technology Trends</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-stream-like-a-pro-3-key-strategies-for-lol-gamers/"><u>In 2024, Stream Like a Pro 3 Key Strategies for LOL Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-processors-and-peripherals-a-tour-by-toms-hardware/"><u>Inside the World of Processors and Peripherals - A Tour by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-technology-review-your-source-for-pc-hardware-analysis/"><u>Inside Tom's Technology Review: Your Source for PC Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-the-future-of-home-networking-in-depth-analysis-and-insights-on-the-revolutionary-asus-wifi-7-router-rt-be96u/"><u>Pioneering the Future of Home Networking: In-Depth Analysis and Insights on the Revolutionary Asus WiFi 7 Router - RT-BE96U</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/rapid-routines-for-presentation-saving/"><u>Rapid Routines for Presentation Saving</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-insights-on-computer-hardware/"><u>Tom's Tech Review: In-Depth Insights on Computer Hardware</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-quantum-hdr-essentials/"><u>Unveiling Quantum HDR Essentials</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-at-toms-hardware-hub/"><u>Unveiling the Latest in Computing at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/wirelessly-dominate-your-productivity-with-the-keychron-q1-he-the-wireless-version-youve-been-dreaming-of/"><u>Wirelessly Dominate Your Productivity with the Keychron Q1 HE - The Wireless Version You've Been Dreaming Of</u></a></li>
 </ul></div>
 
