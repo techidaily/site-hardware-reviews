@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Solo Stove Pi Grill Examined: A Pizza Oven That Surprises and Delights Hard-to-Impress Foodies | TechRadar"
-date: 2024-09-19 19:49:41
-updated: 2024-09-20 11:33:43
+date: 2025-01-18T17:20:35.095Z
+updated: 2025-01-24T18:03:15.299Z
 tags:
   - kitchen-household
 categories:
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/08c04182a5370a9894bbb7d5aedb620a94eb3a5d1
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the deal?
 
 The [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cef9944e9-dd2a-4b32-a173-4b37aa6e0a76%7Cdtp&dtb=1) is $30 off, available for $200 through [Labor Day](https://www.zdnet.com/article/best-labor-day-deals-2024-8-29/).
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -79,6 +87,10 @@ Maria Diaz/ZDNET
 
 The Ring Protect plan ranges from $5-$20 monthly, and aside from the mentioned features, it includes person alerts, the ability to arm and disarm the Ring system digitally, rich notifications, snapshot capture, and video history stored in the cloud for up to six months.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After using the [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cef9944e9-dd2a-4b32-a173-4b37aa6e0a76%7Cdtp&dtb=1) for a few weeks, I found it to be a reliable home security camera with all the extra features worth the price. The two-way talk audio quality was the most impressive I've ever tried, delivering crystal clear audio without echo. 
@@ -90,6 +102,10 @@ However, I was slightly disappointed by the video quality, which only goes up to
 A security camera of that resolution is not disappointing on its own, but it's a noticeable difference compared to the 2K-resolution Arlo Pro 5S that I previously had overlooking that area of my yard, though the Arlo is a little pricier, at $250\. To top it off, the [floodlight camera](https://www.zdnet.com/home-and-office/smart-home/eufys-new-floodlight-cam-e340-is-the-hardest-working-security-camera-ive-tested/) on the other side of my yard can go up to 3K resolution and is $10 cheaper than this Ring camera. 
 
 Additionally, many smart home users aren't prepared to pay monthly subscription fees to access plan-exclusive features, but plenty of users prefer the convenience of not having to worry about local storage and enjoy the extra perks a paid plan offers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -116,11 +132,28 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-crafting-clear-accessible-podcast-xml-files-for-listeners/"><u>[New] 2024 Approved Crafting Clear, Accessible Podcast XML Files for Listeners</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unlock-joy-behind-the-walls-20-funniest-fb-detainment-scenarios/"><u>[New] 2024 Approved Unlock Joy Behind the Walls 20 Funniest Fb Detainment Scenarios</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-optimizing-youtube-performance-crafting-perfect-titles-and-tags/"><u>[Updated] 2024 Approved Optimizing YouTube Performance Crafting Perfect Titles and Tags</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-elevate-photography-crafting-exceptional-time-lapses-with-black-hero5/"><u>[Updated] Elevate Photography Crafting Exceptional Time-Lapses with Black Hero5</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-screen-capture-tips-for-mi-11-users/"><u>2024 Approved Essential Screen Capture Tips for Mi 11 Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-samsung-galaxy-m34-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Samsung Galaxy M34 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/get-macx-dvd-ripper-pro-at-a-steal-secure-your-discounted-purchase-today/"><u>Get MacX DVD Ripper Pro at a Steal: Secure Your Discounted Purchase Today!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovate-your-setup-tips-from-toms-hardware-reviews/"><u>Innovate Your Setup: Tips From Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-build-advanced-insights-from-toms-hardware-experts/"><u>Master Your Build: Advanced Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-new-technology-insights-and-reviews-straight-from-toms-lab/"><u>Mastering New Technology: Insights and Reviews Straight From Tom's Lab</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-gear-a-deep-dive-into-toms-hardware-selection/"><u>Mastering Tech Gear: A Deep Dive Into Tom's Hardware Selection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-detailed-hardware-breakdowns-from-toms-team/"><u>Mastering Technology: Detailed Hardware Breakdowns From Tom's Team</u></a></li>
+<li><a href="https://apple-account.techidaily.com/no-more-quiet-tunes-resolving-firefoxs-sound-malfunction-successfully/"><u>No More Quiet Tunes: Resolving Firefox's Sound Malfunction Successfully</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-guide-to-modifying-your-computers-mouse-configuration-via-the-control-panel-expert-tips-from-yl-computing/"><u>Step-by-Step Guide to Modifying Your Computer's Mouse Configuration via the Control Panel - Expert Tips From YL Computing</u></a></li>
+</ul></div>
+

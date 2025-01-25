@@ -1,7 +1,7 @@
 ---
 title: "On Sale: Discover Why the Arlo Pro 5S Might Just Be Your Ideal Home Security Solution! - ZDNet"
-date: 2024-09-17 16:41:39
-updated: 2024-09-20 12:58:22
+date: 2025-01-21T00:23:12.412Z
+updated: 2025-01-24T16:14:19.692Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,31 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-educational-transformation-the-vr-revolution-for-2024/"><u>[New] Educational Transformation The VR Revolution for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitter-treatment-creating-gifs-without-spending-a-dime/"><u>[Updated] In 2024, Twitter Treatment Creating GIFs Without Spending a Dime</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-mac-guide-to-saving-roblox-adventures-for-2024/"><u>[Updated] Ultimate Mac Guide to Saving Roblox Adventures for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-latest-x-plane-version-top-notch-realism-and-global-capabilities/"><u>Comprehensive Review of the Latest X-Plane Version - Top-Notch Realism & Global Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-latest-in-computing-with-toms-hardware-review/"><u>Explore the Latest in Computing with Tom's Hardware Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-expert-choice-leading-tools-for-online-ytvideo-conversion/"><u>In 2024, Expert Choice Leading Tools for Online YTVideo Conversion</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-no-cost-yield-assessment-apps-for-videos/"><u>In 2024, No-Cost Yield Assessment Apps for Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-depth-analysis-the-vida-video-editor-experience/"><u>In-Depth Analysis The Vida Video Editor Experience</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/key-trigger-behind-1989s-tiananmen-square-uprising-an-in-depth-analysis-yl-tech-insights/"><u>Key Trigger Behind 1989'S Tiananmen Square Uprising: An In-Depth Analysis - YL Tech Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-technology-with-toms-gear-guides/"><u>Navigating Through Technology with Tom's Gear Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviews-of-the-viewsonic-xg2eon-oled-stunning-240hz-performance-for-gamers/"><u>Reviews of the ViewSonic XG2eon OLED: Stunning 240Hz Performance for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-keychron-q1-he-released-experience-the-ultimate-in-wireless-keyboards/"><u>Revolutionary Keychron Q1 HE Released: Experience the Ultimate in Wireless Keyboards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/teamgroups-eco-ddr5-revolution-the-vulcan-memory-kit-ddr5-6000-c30-2x16gb-reviewed/"><u>TeamGroup's Eco-DDR5 Revolution: The Vulcan Memory Kit - DDR5-6000 C30, 2X16GB Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-in-depth-reviews-and-advice/"><u>Tom's Computer Components - In-Depth Reviews and Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-hub-expert-reviews-and-innovative-pc-building-tips/"><u>Tom's Computer Hub: Expert Reviews & Innovative PC Building Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-insights/"><u>Tom's Tech Review: In-Depth Analysis and Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/virtual-breakdown-gaming-giant-hacked/"><u>Virtual Breakdown: Gaming Giant Hacked</u></a></li>
+</ul></div>
+

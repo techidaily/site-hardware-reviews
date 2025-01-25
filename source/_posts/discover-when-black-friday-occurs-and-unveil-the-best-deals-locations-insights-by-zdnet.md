@@ -1,7 +1,7 @@
 ---
 title: Discover When Black Friday Occurs & Unveil the Best Deals Locations | Insights by ZDNET
-date: 2025-01-10T01:33:15.016Z
-updated: 2025-01-12T16:32:17.099Z
+date: 2025-01-22T23:08:25.818Z
+updated: 2025-01-25T01:11:56.594Z
 tags:
   - laptops
 categories:
@@ -21,6 +21,10 @@ I've scoured the site to find the best deals on everything from gaming PCs and S
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best holiday 2023 Newegg deals
 
@@ -71,7 +75,7 @@ Dell/ZDNET
 * [Acer Nitro 5:](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fobsidian-black-acer-nitro-5-an515-58-73rs-gaming%252Fp%252F2WC-000K-027V4) $860 (save $320)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Newegg Holiday PC component deals
@@ -95,7 +99,7 @@ Dell/ZDNET
 * [MSI Immerse GV60 streaming mic](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fmsi-immersegv60-output-usb-c-headphone-3-5mm-connector-black%252Fp%252F1V9-00KS-00013): $85 (save $45)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Newegg holiday monitor deals
@@ -105,15 +109,15 @@ Dell/ZDNET
 * [Samsung Odyssey G9 OLED 49-inch curved smart gaming monitor](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsilver-metal-samsung-ls49cg954snxza-49%252Fp%252FN82E16824027256): $1300 (save $500)
 * [Acer Predator X45 45-inch curved monitor](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16824011463): $1200 (save $400)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is Black Friday 2023?
 
 In the United States, the popular shopping day known as Black Friday takes place the day after Thanksgiving. This year, Black Friday will be November 24\. And if you aren't able to keep an eye on digital sales events or make it to a store in person: many retailers like [Amazon](https://www.zdnet.com/home-and-office/the-best-early-black-friday-2023-amazon-deals/), [Best Buy](https://www.zdnet.com/home-and-office/the-best-early-best-buy-black-friday-2023-deals/), and Walmart extend sales and deals events through the weekend and into the Monday or even Tuesday after Thanksgiving. This is typically known as the Cyber 5 event, with each day having a loose theme for sales purposes: Black Friday, Small Business Saturday (for shopping at local stores), Cyber Sunday/Monday (focusing on internet retailers like Amazon), and Giving Tuesday (focusing on charitable donations). 
 
 Newegg is running their Black Friday sales event through November 25th, backed by their Black Friday price guarantee to automatically refund you the difference if the price drops on what you bought before the 25th.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these early Black Friday deals?
 
@@ -121,21 +125,17 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best gaming PC?
 
  My choice for the [best gaming PC](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-pc/) is the Alienware Aurora R15 for its liquid cooling system, dual storage drives, and range of configuration options. You can create your own build with either an Intel or AMD-based chipset, and with up to an RTX 4080 graphics card for all the power you need to play the latest triple-A PC games. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does Newegg have a Black Friday price guarantee?
 
 Newegg launched their [Black Friday price guarantee](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Fpromotions%2Fnepro%2F23-1613%2Findex.html%23%3A%7E%3Atext%3DThe%2520Program%2520guarantees%2520that%2520our%2Cthrough%2520Nov.%252016%252C%25202023.) policy back in 2021, which applies to products sold and shipped by Newegg themselves. Products that are eligible for the program have a special badge on their store page, guaranteeing that you're getting the best price. And if the price drops before Black Friday, Newegg will automatically refund you the difference. No claim ticket or price tracking necessary. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best early Black Friday deals right now?
 
@@ -203,20 +203,24 @@ ZDNET's experts have been searching for early Black Friday deals across sites li
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastering-photo-capture-techniques-of-smart-hdr-3-and-4-modules/"><u>[Updated] 2024 Approved Mastering Photo Capture Techniques of Smart HDR 3 & 4 Modules</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-optimized-approach-to-delete-unwanted-youtube-posts-for-2024/"><u>[Updated] Optimized Approach to Delete Unwanted YouTube Posts for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-unveiling-vsdcs-potential-and-top-alternatives/"><u>[Updated] Unveiling VSDC’s Potential & Top Alternatives</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-speed-demon-with-style-in-depth-evaluation-of-flsun-s1-model/"><u>A Speed Demon with Style – In-Depth Evaluation of FLSun S1 Model</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-buddies-games-top-metagame-escapades/"><u>Best Buddies Games Top Metagame Escapades</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-technology-products-according-to-toms-experts/"><u>Comprehensive Guide to Technology Products According to Tom's Experts</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-poco-x6-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Poco X6 Pattern Lock Screen</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-electronics-by-toms-expert-team/"><u>In-Depth Analysis of Electronics by Tom's Expert Team</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-computer-setup-advanced-reviews-by-toms-hardware-experts/"><u>Master Your Computer Setup: Advanced Reviews by Tom’s Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-the-tom-approach/"><u>Mastering Gadgets: The Tom Approach</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/reviewing-the-premium-class-leader-asus-rog-rapture-gt-be98-pro-wifi-7-superior-functionality-and-upgradable-features/"><u>Reviewing the Premium Class-Leader, Asus ROG Rapture GT-BE98 Pro WIFI 7: Superior Functionality & Upgradable Features</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-id-cooling-frozn-a620-pro-se-revolutionizing-value-with-advanced-cooling-innovation-for-pc-enthusiasts/"><u>The ID-Cooling Frozn A620 Pro SE: Revolutionizing Value with Advanced Cooling Innovation for PC Enthusiasts</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/the-ultimate-selection-7-premier-screen-reflector-applications-for-smartphones-and-tablets-iosandroid/"><u>The Ultimate Selection: 7 Premier Screen Reflector Applications for Smartphones and Tablets (iOS/Android)</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-art-of-audio-conjunction-preparing-sounds-for-video-production-for-2024/"><u>Updated The Art of Audio Conjunction Preparing Sounds for Video Production for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-getting-started-with-itunes-podcasts-on-ios-devices/"><u>[Updated] 2024 Approved Getting Started with iTunes Podcasts on iOS Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-ultimate-guide-to-blurring-iphone-pics-at-zero-cost/"><u>[Updated] In 2024, The Ultimate Guide to Blurring iPhone Pics at Zero Cost</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-10-online-subtitle-converters-for-free-convert-srt-files/"><u>[Updated] In 2024, Top 10 Online Subtitle Converters for FREE Convert SRT Files</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-key-to-more-views-expert-backlink-methods-for-youtubers/"><u>[Updated] The Key to More Views Expert Backlink Methods for YouTubers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unlock-video-brilliance-through-advanced-chroma-techniques-11-steps/"><u>[Updated] Unlock Video Brilliance Through Advanced Chroma Techniques (11 Steps)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-free-toolkit-for-unrestricted-story-archiving/"><u>2024 Approved FREE Toolkit for Unrestricted Story Archiving</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-voice-to-text-programs/"><u>2024 Approved Leading Voice to Text Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-dots-top-8-window-friendly-note-apps/"><u>Digital Dots: Top 8 Window-Friendly Note Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-advanced-computer-components-with-toms-technology-hub/"><u>Discover Advanced Computer Components with Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-latest-in-computing-with-toms-hardware-review/"><u>Explore the Latest in Computing with Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-testing-the-responsiveness-and-comfort-of-cleveturas-clvx-1-wireless-keyboard-design/"><u>In-Depth Review: Testing the Responsiveness and Comfort of Clevetura's CLVX 1 Wireless Keyboard Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-speeds-with-the-latest-crucial-p310-a-comprehensive-guide-to-m2-2230-drives/"><u>Maximizing Speeds with the Latest Crucial P310: A Comprehensive Guide to M.2 2230 Drives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-tech-with-toms-hardware-in-hand/"><u>Navigating the World of Tech with Tom's Hardware in Hand</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-technology-with-toms-gear-guides/"><u>Navigating Through Technology with Tom's Gear Guides</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/prepare-for-macos-sonoma-144-upgrade-comprehensive-bug-overview-and-update-readiness-guide/"><u>Prepare for MacOS Sonoma 14.4 Upgrade: Comprehensive Bug Overview & Update Readiness Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-keychron-q1-he-released-experience-the-ultimate-in-wireless-keyboards/"><u>Revolutionary Keychron Q1 HE Released: Experience the Ultimate in Wireless Keyboards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-in-depth-reviews-and-advice/"><u>Tom's Computer Components - In-Depth Reviews and Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-hub-expert-reviews-and-innovative-pc-building-tips/"><u>Tom's Computer Hub: Expert Reviews & Innovative PC Building Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-postponement-of-alan-wake-2-release/"><u>Troubleshooting the Postponement of Alan Wake 2 Release</u></a></li>
 </ul></div>
 

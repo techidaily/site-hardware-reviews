@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Score a Steep Discount on Lenovo ThinkPad X1 Extreme Gen 4 - Now Under $500 | ZDNet"
-date: 2025-01-14T16:42:51.665Z
-updated: 2025-01-18T16:37:47.756Z
+date: 2025-01-20T19:53:37.682Z
+updated: 2025-01-24T18:33:19.935Z
 tags:
   - laptops
 categories:
@@ -24,7 +24,7 @@ The model on offer here runs on Intel's 11th-generation [Core i7-11850H](https:/
 **Also:** [**Best Black Friday laptop deals 2022**](https://www.zdnet.com/article/black-friday-laptop-deals-november-23-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -67,24 +67,24 @@ At $1,699 -- 53% off Lenovo's list price -- the [ThinkPad X1 Extreme](https://bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-high-definition-video-refiner-for-pcmacos/"><u>[Updated] High Definition Video Refiner for PC/MacOS</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-chortlecraft-funny-visuals-for-social-engagement/"><u>[Updated] In 2024, ChortleCraft Funny Visuals for Social Engagement</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-the-comprehensible-handbook-for-tiktok-emoji-usage/"><u>[Updated] In 2024, The Comprehensible Handbook for TikTok Emoji Usage</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unveiling-hidden-techniques-for-clear-ppt-transcriptions/"><u>2024 Approved Unveiling Hidden Techniques for Clear PPT Transcriptions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341723202-cutting-edge-cost-effective-nvme-cooling-discover-the-power-of-the-uphere-m201-heatsink-under-5/"><u>Cutting-Edge, Cost-Effective NVMe Cooling - Discover the Power of the UpHere M201 Heatsink Under $5</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/efficiently-manage-invoices-integrating-abbyy-technology-with-m-files-systems/"><u>Efficiently Manage Invoices: Integrating ABBYY Technology with M-Files Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-computing-from-tomntech-space/"><u>Expert Advice on Computing From Tom'nTech Space</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fortnite-login-issues-resolve-them-fast-and-effortlessly/"><u>Fortnite Login Issues? Resolve Them Fast and Effortlessly</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/high-speed-computing-on-lattepanda-mu-is-it-worth-more-than-raspberry-pi-5/"><u>High-Speed Computing on LattePanda Mu - Is It Worth More Than Raspberry Pi 5?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-s23-tactical-edition-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy S23 Tactical Edition FRP</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-6-fiscal-sensible-options-in-high-res-projection-for-2024/"><u>Leading 6 Fiscal Sensible Options in High-Res Projection for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/logitecs-g515-lightspeed-tkl-showcase-high-quality-economic-price-tag-for-gamers-and-typists-alike/"><u>Logitec's G515 Lightspeed TKL Showcase - High Quality, Economic Price Tag for Gamers and Typists Alike</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-cloud-data-costs-comparison-and-best-price-paths/"><u>Navigating Cloud Data Costs Comparison & Best Price Paths</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computer-hardware-by-toms-team/"><u>The Ultimate Guide to Computer Hardware by Tom's Team</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-guide-to-latest-gadgets/"><u>Tom's Tech Hub - Comprehensive Guide to Latest Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-hardware-and-software/"><u>Tom's Tech Review: Expert Insights on Hardware and Software</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-computing/"><u>Tom's Tech Reviews: Expert Insights on Computing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-picks-for-novice-gopro-enthusiasts-for-2024/"><u>Top Picks for Novice GoPro Enthusiasts for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/valkyrie-vind-sl125-when-style-overshadows-subpar-effectiveness-in-our-detailed-review/"><u>Valkyrie Vind SL125 - When Style Overshadows Subpar Effectiveness in Our Detailed Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-small-company-writers-guide-to-protected-video-chats/"><u>[Updated] 2024 Approved Small Company' Writers’ Guide to Protected Video Chats</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-hashtags-that-work-in-gaming-vlogs/"><u>[Updated] The Ultimate Guide Hashtags That Work in Gaming Vlogs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-iphone-photos-discover-prime-angles-for-perfect-shots/"><u>2024 Approved Mastering iPhone Photos Discover Prime Angles for Perfect Shots</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-traditionalists-dream-unpacking-the-features-of-nzxt-h7-flow/"><u>A Traditionalist's Dream: Unpacking the Features of NZXT H7 Flow</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-the-nzxt-c1500-platinum-high-performance-psu/"><u>Comprehensive Evaluation of the NZXT C1500 Platinum High-Performance PSU</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-components-with-toms-hardware-your-ultimate-guide/"><u>Exploring Computer Components with Tom's Hardware - Your Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computing-equipment-with-tom-a-detailed-guide/"><u>Exploring Computing Equipment with Tom - A Detailed Guide</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-8-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 8 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-officejet-pro-8620-get-the-latest-windows-drivers-for-flawless-printing/"><u>HP OfficeJet Pro 8620: Get the Latest Windows Drivers for Flawless Printing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-analyze-youtube-data-efficiently-with-social-blade-tools/"><u>In 2024, Analyze YouTube Data Efficiently with Social Blade Tools</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-apple-iphone-14-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or Apple iPhone 14 without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-ios-meets-android-an-in-depth-look-at-facial-tech/"><u>In 2024, IOS Meets Android An In-Depth Look at Facial Tech</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-navigating-through-this-years-top-ten-budget-friendly-browser-based-daw-solutions/"><u>In 2024, Navigating Through This Years Top Ten Budget-Friendly Browser-Based DAW Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-newly-released-lenovo-yoga-pro-9i-slim-profile-and-high-quality-keys/"><u>In-Depth Analysis of the Newly Released Lenovo Yoga Pro 9I - Slim Profile & High-Quality Keys</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-the-ultimate-hardware-resource/"><u>Mastering Gadgets with Tom: The Ultimate Hardware Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-gadgets-with-toms-equipment-advice-and-analysis/"><u>Navigating New Gadgets with Tom's Equipment Advice and Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: Your Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-hardware-advice-unveiling-secrets-on-toms-gear-insights/"><u>Ultimate Hardware Advice: Unveiling Secrets on Tom's Gear Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341655665-why-youll-love-the-newly-launched-keychron-q1-he-the-ultimate-wireless-gaming-and-productivity-companion/"><u>Why You'll Love the Newly Launched Keychron Q1 HE - The Ultimate Wireless Gaming & Productivity Companion</u></a></li>
 </ul></div>
 

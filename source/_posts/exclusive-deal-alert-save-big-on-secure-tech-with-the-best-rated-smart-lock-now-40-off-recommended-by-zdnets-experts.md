@@ -1,7 +1,7 @@
 ---
 title: Exclusive Deal Alert! Save Big on Secure Tech with the Best Rated Smart Lock Now 40%% Off | Recommended by ZDNET's Experts
-date: 2024-09-19 16:17:11
-updated: 2024-09-20 11:40:25
+date: 2025-01-21T00:54:21.647Z
+updated: 2025-01-24T22:16:13.941Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,31 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-dive-into-dynamic-footage-the-review-of-polaroid-cubeplus/"><u>[New] 2024 Approved Dive Into Dynamic Footage The Review of Polaroid Cube+</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-maximizing-online-exposure-on-youtube-by-keeping-up-creative-commons-usage/"><u>[New] 2024 Approved Maximizing Online Exposure on YouTube by Keeping Up Creative Commons Usage</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-tecno-pova-5-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Pova 5 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/immediate-techniques-for-instagram-video-audio-extraction-mp3/"><u>Immediate Techniques for Instagram Video Audio Extraction (MP3)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-s23-ultra-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy S23 Ultra Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-ultra-rich-viewable-ventures/"><u>In 2024, Ultra-Rich Viewable Ventures</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/latest-biwin-14-gbs-nvme-m2-ssd-awaiting-launch-of-revolutionary-non-phison-pcie-50-x4-storage/"><u>Latest Biwin 14.# Gb/S NVMe M.2 SSD: Awaiting Launch of Revolutionary Non-Phison PCIe 5.0 X4 Storage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/layering-and-shifting-photo-letters/"><u>Layering & Shifting Photo Letters</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/level-up-your-rigs-with-wds-new-8tb-nvme-ssd-for-enthusiastic-gamers/"><u>Level Up Your Rigs with WD's New 8TB NVMe SSD for Enthusiastic Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/level-up-your-gaming-rigs-nextorage-debuts-pcie-40-m2-2230-ssd-with-record-breaking-speed-hit-7400-mbs/"><u>Level-Up Your Gaming Rigs: Nextorage Debuts PCIe 4.0 M.2 2230 SSD with Record-Breaking Speed - Hit 7,400 MB/S</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-toms-technology-guides/"><u>Mastering Gadgets with Tom's Technology Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-toms-essential-tech-wisdom-for-gamers-and-professionals/"><u>Mastering Hardware Choices: Tom's Essential Tech Wisdom for Gamers and Professionals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-with-toms-hq-expert-tips-on-hardware-and-software/"><u>Mastering Your PC with Tom's HQ: Expert Tips on Hardware and Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximize-system-performance-raid-cards-achieve-up-to-56gbs-speeds-using-four-pcie-gen-5-ssds-or-eight-pcie-gen-ve-4-ssds/"><u>Maximize System Performance: RAID Cards Achieve Up to 56GB/S Speeds Using Four PCIe Gen 5 SSDs or Eight PCIe Gen Ve 4 SSDs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-through-advanced-electronics-explore-toms-hardware-hub/"><u>Navigate Through Advanced Electronics - Explore Tom's Hardware Hub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-your-routine-chatgpt-for-total-improvement/"><u>Revolutionizing Your Routine: ChatGPT for Total Improvement</u></a></li>
+</ul></div>
+

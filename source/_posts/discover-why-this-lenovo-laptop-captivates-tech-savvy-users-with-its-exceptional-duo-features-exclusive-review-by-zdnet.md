@@ -1,7 +1,7 @@
 ---
 title: Discover Why This Lenovo Laptop Captivates Tech Savvy Users with Its Exceptional Duo Features | Exclusive Review by ZDNET
-date: 2025-01-14T18:54:23.106Z
-updated: 2025-01-18T16:03:23.067Z
+date: 2025-01-22T18:52:46.053Z
+updated: 2025-01-24T22:50:55.695Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,20 +134,20 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-screen-selection-dilemma-ultrawide-monitors-versus-uhd-4k-for-2024/"><u>[Updated] Screen Selection Dilemma UltraWide Monitors versus UHD 4K for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-unmatched-tech-elevation-through-srs-enhancement-for-2024/"><u>[Updated] Unmatched Tech Elevation Through SRS Enhancement for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-visuals-enhancing-pictures-with-words/"><u>2024 Approved Expertise in Visuals Enhancing Pictures with Words</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-breakdown-of-asus-rog-keris-ii-ace-vs-deathadder-v3-pro-battle-for-gaming-supremacy-begins/"><u>Comprehensive Breakdown of Asus ROG Keris II Ace vs DeathAdder V3 Pro: Battle for Gaming Supremacy Begins</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-bluetooth-30-driver-update-compatible-with-qualcomm-atheros-ar3011-chips/"><u>Download Bluetooth 3.0 Driver Update: [Compatible with] Qualcomm Atheros AR3011 Chips</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-guidance-navigating-and-fixing-issues-with-file-explorer-in-windows-11/"><u>Effortless Guidance: Navigating and Fixing Issues with File Explorer in Windows 11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-review-of-the-hp-omnibook-x-long-lasting-on-a-single-charge/"><u>Expert Review of the HP OmniBook X: Long-Lasting on a Single Charge</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gaming-at-its-best-with-the-aorus-z69ueh-an-in-depth-look-at-the-gigabyte-gaming-monitors-high-performance-and-elegant-design-features/"><u>Gaming at Its Best with the Aorus Z69UEH: An In-Depth Look at the Gigabyte Gaming Monitor's High Performance and Elegant Design Features</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/how-nvidia-turned-a-legacy-april-fools-hoax-into-reality-with-groundbreaking-g-assist-technology/"><u>How NVIDIA Turned a Legacy April Fool's Hoax Into Reality with Groundbreaking G-Assist Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-computing-solutions-a-guide-by-technology-virtuoso-tom/"><u>Innovative Computing Solutions - A Guide by Technology Virtuoso, Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-tech-knowledge-with-expert-advice-from-tome-hardware/"><u>Master Your Tech Knowledge with Expert Advice From Tom'e Hardware</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/one-click-wonder-livestream-your-podcast-for-2024/"><u>One Click Wonder Livestream Your Podcast for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/tackling-tech-deep-dives-into-toms-world-of-hardware-solutions/"><u>Tackling Tech: Deep Dives Into Tom's World of Hardware Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-fixing-pdhdll-errors-and-missing-files/"><u>The Ultimate Guide to Fixing Pdh.dll Errors and Missing Files</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-xiaomi-redmi-a2-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Xiaomi Redmi A2 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-from-video-conference-to-youtube-broadcast-google-meet-explained/"><u>[New] 2024 Approved From Video Conference to Youtube Broadcast Google Meet Explained</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-hacks-to-dodge-digital-lessons-at-home/"><u>[New] In 2024, Hacks to Dodge Digital Lessons at Home</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-instantaneously-showcasing-archived-video-sessions-via-facebook-live/"><u>[New] Instantaneously Showcasing Archived Video Sessions via Facebook Live</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-tackling-facebook-message-video-not-sending-issue-androidiphone/"><u>2024 Approved Tackling Facebook Message Video Not Sending Issue (Android/iPhone)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/50plus-british-phrases-and-slangs-to-impress-your-british-mates/"><u>50+ British Phrases and Slangs to Impress Your British Mates</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-a15-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-the-gigabyte-g6x-game-machine-reliable-fun-with-missing-highlights/"><u>Inside Look at the Gigabyte G6X Game Machine: Reliable Fun with Missing Highlights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/living-your-best-life-with-insights-from-chatgpt-expertise/"><u>Living Your Best Life with Insights From ChatGPT Expertise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-invoice-automation-with-low-code-and-no-code-techniques-a-complete-manual/"><u>Mastering Invoice Automation with Low-Code and No-Code Techniques: A Complete Manual</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/microsoft-surface-pro-assessment-navigating-the-allure-of-design-and-the-underwhelming-ai-capabilities/"><u>Microsoft Surface Pro Assessment: Navigating the Allure of Design and the Underwhelming AI Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadgets-with-ease-toms-hardware-wisdom/"><u>Navigating Gadgets with Ease - Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/pro-touch-showdown-the-comprehensive-differences-between-ipad-pro-and-surface-pro/"><u>Pro Touch Showdown: The Comprehensive Differences Between iPad Pro & Surface Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-of-eco-performance-dissecting-the-power-of-teamgroups-ddr5-6000-t-force-vulcan-c30-memory-kit/"><u>The Future of Eco Performance: Dissecting the Power of TeamGroup's DDR5-6000 T-Force Vulcan C30 Memory Kit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-picks-for-gadgets-in-depth-analysis-from-toms-hardware-blog/"><u>Top Picks for Gadgets: In-Depth Analysis From Tom's Hardware Blog</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-asus-rog-keris-ii-ace-the-real-competitor-to-deathadder-v3-pro/"><u>Unboxing and Testing Asus ROG Keris II Ace - The Real Competitor to DeathAdder V3 Pro?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Keeping the Lights On: A Firsthand Account of a Futuristic Portable Battery Saving Your Home From Power Outages"
-date: 2024-09-18 20:10:22
-updated: 2024-09-20 11:26:31
+date: 2025-01-17T19:41:25.264Z
+updated: 2025-01-24T16:22:04.729Z
 tags:
   - kitchen-household
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/dd4233ccec15666d6d616a1b1df2dfb0cda2d2ae2
 ![EcoFlow Delta Pro 3 portable battery](https://www.zdnet.com/a/img/resize/493a0e14c2076aa82dd15d43be4c51552702595c/2024/06/20/9d465ec0-9e8c-4fee-b2aa-d5b5ce343244/2.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -77,6 +81,10 @@ How did it fare? The power returned about three hours later, and the Delta Pro 3
 
 Aside from this power outage, [we've tested](https://www.zdnet.com/home-and-office/energy/how-we-test-portable-power-stations/) the Delta Pro 3 as a standalone battery to power a home office setup, keeping consumption between 50W and 120W. The DP3 powered an LCD monitor, a Dell XPS laptop, a phone charger, and a USB-C tablet charger for four days. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Accessories-Emergencies%2Fdp%2FB0D14FMFZD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1) is an excellent option for anyone looking for a higher-capacity portable battery for camping or as an emergency home backup, as long as you're willing to pay the price, literally. It's not a cheap option among portable batteries, priced at $3199, which is about $400 less than the price of a [Delta Pro and Dual fuel inverter generator bundle](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Generator-High-Power-Appliances%2Fdp%2FB0BKGLCVRR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1).
@@ -106,11 +114,33 @@ Though priced high, the Delta Pro 3 seamlessly integrates into an EcoFlow home b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-personalized-video-setups-a-beginners-guide-to-selfies-on-youtube/"><u>[New] 2024 Approved Personalized Video Setups A Beginner's Guide to Selfies on YouTube</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-prioritize-these-5-facts-when-tiktoking-on-macos/"><u>[Updated] 2024 Approved Prioritize These 5 Facts When TikToking on macOS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-discover-the-premier-screen-recording-tools-for-mac/"><u>[Updated] Discover the Premier Screen Recording Tools for Mac</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-bidding-adieu-to-instagram-your-complete-deletion-manual/"><u>[Updated] In 2024, Bidding Adieu to Instagram Your Complete Deletion Manual</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-elevating-your-youtube-experience-tips-on-channel-art-and-sizes/"><u>[Updated] In 2024, Elevating Your YouTube Experience Tips on Channel Art and Sizes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-full-guide-streamlining-your-files-in-the-digital-age-with-adobe-and-beyond/"><u>[Updated] In 2024, Full Guide Streamlining Your Files in the Digital Age with Adobe & Beyond</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-risc-v-computer-revolution-engineers-new-choice-from-china-at-just-300/"><u>Budget-Friendly RISC-V Computer Revolution: Engineers' New Choice From China at Just $300</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-preview-dells-latest-tech-unleashed-xps-and-inspiron-laptops-powered-by-qualcomm-snapdragon-ready-for-q3-launch/"><u>Exclusive Preview: Dell's Latest Tech Unleashed – XPS and Inspiron Laptops Powered by Qualcomm Snapdragon Ready for Q3 Launch!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-computer-and-hardware-analysis/"><u>Expert Insights From Tom’s Computer & Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-computer-hardware-with-tom/"><u>Exploring the Latest in Computer Hardware with Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/fly-high-with-flying-lotus-the-all-in-one-desktop-crafted-from-framework-laptop-and-advanced-3d-components-powered-by-battery/"><u>Fly High with Flying Lotus: The All-in-One Desktop Crafted From Framework Laptop & Advanced 3D Components, Powered by Battery</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-modern-electronics-by-toms-expertise/"><u>In-Depth Analysis of Modern Electronics by Tom's Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-hps-omnibook-ultra-14-the-power-duo-of-amd-ryzen-ai-300-chipset-and-next-gen-thunderbolt-4-for-unmatched-productivity/"><u>Introducing HP's OmniBook Ultra 14: The Power Duo of AMD Ryzen AI 300 Chipset & Next-Gen Thunderbolt 4 for Unmatched Productivity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/land-a-steady-bargain-on-high-performance-laptop-save-250-on-asuss-rog-zephyrus-g16-with-advanced-cpu-and-graphics/"><u>Land a Steady Bargain on High-Performance Laptop - Save $250 on ASUS's RoG Zephyrus G16 with Advanced CPU & Graphics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-trends-through-insightful-articles-by-toms-hardware/"><u>Mastering Tech Trends Through Insightful Articles by Tom's Hardware</u></a></li>
+<li><a href="https://win-latest.techidaily.com/reviving-your-pc-a-step-by-step-guide-on-reinstalling-windows-post-system-failure-expert-advice-from-yl-computing/"><u>Reviving Your PC: A Step-by-Step Guide on Reinstalling Windows Post-System Failure - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/transforming-horizontal-footage-into-vertical-video-gold-on-igtv-for-2024/"><u>Transforming Horizontal Footage Into Vertical Video Gold on IGTV for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-camouflaged-commentary-on-yt-content/"><u>Unveiling Camouflaged Commentary on YT Content</u></a></li>
+</ul></div>
+

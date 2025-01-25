@@ -1,7 +1,7 @@
 ---
 title: Unpleasant Surprises at the Apple Store, According to ZDNet Coverage
-date: 2025-01-14T17:39:58.645Z
-updated: 2025-01-18T16:37:02.760Z
+date: 2025-01-23T17:06:50.865Z
+updated: 2025-01-24T21:19:43.807Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Furthermore, there are very few ports. You get three in total: two USB-C inputs 
 My last critique is admittedly a nitpick. I would've appreciated a free stylus in the overall package. Microsoft's 11th-gen Surface Pro had one when I got it, and I thoroughly enjoyed it. So unless you already have a pen, you'll have to buy one for the PZ13, which isn't a big issue since the laptop is fairly cheap.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ Prices for the Asus ProArt PZ13 start at [$1,100 on Best Buy](https://shop-links
 Other than that, they're the same device. Get the Hexagon version only if you are expecting heavy workloads.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -140,22 +140,15 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-ultimate-guide-to-podcast-outros-and-examples/"><u>[Updated] 2024 Approved The Ultimate Guide to Podcast Outros & Examples</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-insta-reels-with-tiktok-techniques-for-massive-shares/"><u>2024 Approved Mastering Insta Reels with TikTok Techniques for Massive Shares</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-expansion-solutions-with-the-highpoint-rocket-1608a-a-comprehensive-evaluation-of-added-storage-and-increased-power/"><u>Advanced Expansion Solutions with the HighPoint Rocket 1608A: A Comprehensive Evaluation of Added Storage and Increased Power</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-pro-b760m-ct-csm-unveiled-comprehensive-review-for-serious-gamers-and-builders/"><u>ASUS Pro B760M-CT CSM Unveiled: Comprehensive Review for Serious Gamers and Builders</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-breakdown-by-tom-your-trusted-source/"><u>Expert Hardware Breakdown by Tom - Your Trusted Source</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-electronics-with-toms-wisdom/"><u>Exploring the World of Electronics with Tom's Wisdom</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-shutter-speed-supreme-the-ultimate-camera-guide-for-slow-videos/"><u>In 2024, Shutter Speed Supreme The Ultimate Camera Guide for Slow Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-going-unseen-during-instagram-live-events/"><u>In 2024, The Art of Going Unseen During Instagram Live Events</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-infinix-smart-8-plus-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Infinix Smart 8 Plus Android SIM Unlock APK</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-new-horizons-in-computing-a-look-at-toms-hardware-discoveries/"><u>Navigating New Horizons in Computing - A Look at Tom's Hardware Discoveries</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-circuitry-maze-with-toms-hardware-wisdom/"><u>Navigating the Circuitry Maze with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-level-paperless-solutions-harnessing-the-power-of-abbyy-intelligent-document-processing-and-pegasystems-ai-technology/"><u>Next-Level Paperless Solutions: Harnessing the Power of ABBYY Intelligent Document Processing and Pegasystem's AI Technology</u></a></li>
-<li><a href="https://fox-links.techidaily.com/precision-editing-picarts-techniques-for-background-subtraction-for-2024/"><u>Precision Editing PicArt's Techniques for Background Subtraction for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-repairing-windows-10-file-system-errors/"><u>Step-by-Step Guide: Repairing Windows 10 File System Errors</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-computing-new-intel-chip-drivers/"><u>Streamlined Computing: New Intel Chip Drivers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/uncovering-the-potential-of-the-latest-geekworm-x1/"><u>Uncovering the Potential of the Latest GeekWorm X1</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlock-the-power-of-technology-the-ultimate-guide-to-toms-hardware-selection/"><u>Unlock the Power of Technology: The Ultimate Guide to Tom's Hardware Selection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/adherence-to-prescribed-medications-such-as-antibiotics-and-anti-inflammatory-eye-drops-is-essential-to-prevent-complications/"><u>Adherence to Prescribed Medications, Such as Antibiotics and Anti-Inflammatory Eye Drops, Is Essential to Prevent Complications</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-the-cosmos-mastering-editing-techniques-for-starry-images/"><u>Capturing the Cosmos Mastering Editing Techniques for Starry Images</u></a></li>
+<li><a href="https://discover-great.techidaily.com/dvditunes-for-windows-and-mac/"><u>DVDをiTunesに統合して遊ぶ方法：ワンステップガイド for Windows & Mac</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-delving-into-the-pros-and-cons-of-using-itop/"><u>In 2024, Delving Into the Pros and Cons of Using ITop</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-beyerdynamic-mmx-300-pro-superior-acoustics-meets-fundamental-design/"><u>In-Depth Analysis of the Beyerdynamic MMX 300 Pro: Superior Acoustics Meets Fundamental Design</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/is-the-microsoft-surface-pro-9-the-answer-how-it-stacks-up-to-macbook-for-windows-fans-reviewed-by-tech-experts-at-zdnet/"><u>Is the Microsoft Surface Pro 9 the Answer? How It Stacks Up to MacBook for Windows Fans, Reviewed by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastering-canvass-skin-removal-an-experts-handbook/"><u>Mastering Canvas's Skin Removal An Expert's Handbook</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-hardware-with-tom-insights-and-reviews-by-toms-gear/"><u>Navigating Hardware with Tom: Insights & Reviews by Tom's Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-acer-predator-orion-n5010-premium-gaming-laptop-at-a-bargain-price/"><u>The Ultimate Guide to the Acer Predator Orion N5010: Premium Gaming Laptop at a Bargain Price</u></a></li>
 </ul></div>
 

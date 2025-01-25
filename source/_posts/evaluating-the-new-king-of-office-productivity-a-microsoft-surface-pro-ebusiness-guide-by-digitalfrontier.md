@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the New King of Office Productivity: A Microsoft Surface Pro Ebusiness Guide by DigitalFrontier"
-date: 2025-01-10T18:18:37.717Z
-updated: 2025-01-13T02:11:13.985Z
+date: 2025-01-19T17:08:28.829Z
+updated: 2025-01-24T23:28:23.295Z
 tags:
   - laptops
 categories:
@@ -42,6 +42,10 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
@@ -70,10 +74,6 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -97,6 +97,10 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -124,7 +128,7 @@ The ability to connect a tablet to an external display and have it actually work
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -136,10 +140,6 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -154,7 +154,7 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -169,11 +169,11 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -212,18 +212,22 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-frame-by-frame-screen-capturer/"><u>[New] Frame-by-Frame Screen Capturer</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-fine-tuning-zoom-visuals-top-techniques/"><u>[Updated] Fine-Tuning Zoom Visuals Top Techniques</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-infinix-smart-8-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Infinix Smart 8 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-digital-frontiers-with-toms-hardware-innovations/"><u>Exploring Digital Frontiers with Tom's Hardware Innovations</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-6s-plus-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 6s Plus (4 Methods) | Stellar</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-x90s-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo X90S Phone FRP Lock</u></a></li>
-<li><a href="https://facebook.techidaily.com/investing-in-your-segment-of-the-725-million-facebook-payout/"><u>Investing in Your Segment of the $725 Million Facebook Payout</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/lofree-edge-assessment-slim-design-and-higher-cost-compared-with-apples-magic-keyboard/"><u>Lofree Edge Assessment: Slim Design & Higher Cost - Compared with Apple's Magic Keyboard</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-digital-life-with-toms-hardware-advice/"><u>Mastering Your Digital Life with Tom's Hardware Advice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/power-and-precision-combined-an-expert-review-of-kingstons-c40-ddr5-6000-beast-the-reliable-force-in-dual-32gb-memory-sticks/"><u>Power and Precision Combined: An Expert Review of Kingston's C40 DDR5-6000 Beast - The Reliable Force in Dual 32GB Memory Sticks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/sustainable-food-choices/"><u>Sustainable Food Choices</u></a></li>
-<li><a href="https://games-able.techidaily.com/syncing-success-an-xbox-one-control-guide/"><u>Syncing Success: An Xbox One Control Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-latest-computer-reviews-from-toms-hardware-insights/"><u>Unveiling Latest Computer Reviews From Tom's Hardware Insights</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-mastering-the-art-of-screen-sharing-in-zoom/"><u>[Updated] 2024 Approved Mastering the Art of Screen Sharing in Zoom</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-how-to-get-more-views-and-likes-on-tik-tok/"><u>[Updated] How to Get More Views and Likes on Tik Tok</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>4 solution to get rid of pokemon fail to detect location On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/erase-with-ease-the-top-rated-stellar-file-remover-for-windows-users/"><u>Erase with Ease: The Top-Rated Stellar File Remover for Windows Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/generative-ai-enabler-or-echo-chamber/"><u>Generative AI: Enabler or Echo Chamber?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-a38-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo A38 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-step-by-step-instructions-on-chromes-pip-across-all-platforms/"><u>In 2024, Step-by-Step Instructions on Chrome’s PIP Across All Platforms</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-updates-to-laptop-frameworks-now-offer-new-intel-amd-zen-4-options-for-enthusiasts/"><u>Innovative Updates to Laptop Frameworks Now Offer New Intel, AMD Zen 4 Options for Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-circuitry-insightful-guidance-from-toms-tech-domain/"><u>Inside the Circuitry: Insightful Guidance From Tom's Tech Domain</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lenovo-thinkpad-t14s-launches-with-stunning-features-qualcomm-snapdragon-x-elite-processor-impressive-32gb-ram-and-a-whopping-1tb-ssd/"><u>Lenovo ThinkPad T14s Launches with Stunning Features: Qualcomm Snapdragon X Elite Processor, Impressive 32GB RAM & a Whopping 1TB SSD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/level-up-your-game-with-discounted-lenovo-legion-immersive-experience-rtx-graphics-and-crystal-clear-240-hz-visuals-at-unbeatable-prices/"><u>Level Up Your Game with Discounted Lenovo Legion: Immersive Experience, RTX Graphics & Crystal-Clear 240 Hz Visuals at Unbeatable Prices!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-the-latest-in-pc-and-components-expert-advice-from-toms-digital-world/"><u>Master the Latest in PC and Components - Expert Advice From Tom’s Digital World</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/morse-coding-laptop-accessory-master-typing-with-just-a-dash-of-hinge-slamming-beware-of-potential-wear-and-tear/"><u>Morse-Coding Laptop Accessory: Master Typing with Just a Dash of Hinge Slamming - Beware of Potential Wear and Tear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-tech-innovations-with-toms-authoritative-hardware-reviews/"><u>Navigating Tech Innovations with Tom's Authoritative Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-guides/"><u>Navigating the World of Electronics with Tom's Hardware Guides</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/recover-disappearing-watch-icon-for-fb-users-for-2024/"><u>Recover Disappearing Watch Icon for FB Users for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-tips-for-integrating-chatgpt-into-your-vs-code-workflow/"><u>Top 10 Tips for Integrating ChatGPT Into Your VS Code Workflow</u></a></li>
 </ul></div>
 

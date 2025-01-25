@@ -1,7 +1,7 @@
 ---
 title: Slash $150 From Your Next Game Setup with the Best Immersive Audio System Available at Discounted Rates on Amazon | Review
-date: 2025-01-10T22:34:04.503Z
-updated: 2025-01-12T23:25:57.461Z
+date: 2025-01-22T18:40:07.924Z
+updated: 2025-01-24T21:30:44.157Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,17 +128,22 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-unrivaled-script-authority-place/"><u>[New] In 2024, Unrivaled Script Authority Place</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-premium-podcast-partners-in-academia/"><u>[New] Premium Podcast Partners in Academia</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-building-your-own-studiopc-an-all-inclusive-guide-for-4k-editors-for-2024/"><u>[Updated] Building Your Own StudioPC An All-Inclusive Guide for 4K Editors for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-mastering-fb-video-promos-access-free-video-toolkit/"><u>2024 Approved Mastering FB Video Promos Access Free Video Toolkit</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-designing-striking-youtube-thumbnails-with-macos/"><u>2024 Approved Step-by-Step Designing Striking Youtube Thumbnails with macOS</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-pro-b760m-ct-revolutionizing-pc-building-with-the-csm-mainboard-feature-explained/"><u>Asus Pro B760M-CT: Revolutionizing PC Building with the CSM Mainboard Feature Explained</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-pineboard-hatdrive-ultimate-nano-ssd-for-raspberry-pi-4pi-5/"><u>Budget-Friendly Pineboard HatDrive: Ultimate Nano SSD for Raspberry Pi 4/Pi 5</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-essentials-with-toms-hardware-reviews/"><u>Mastering Technology Essentials with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-whatsapp-solutions-when-your-chats-arent-syncing-with-icloud/"><u>Troubleshooting WhatsApp: Solutions When Your Chats Aren't Syncing with iCloud</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-asus-rt-ax57-go-wi-fi-6-mini-router-perfect-companion-for-on-the-go-internet-access/"><u>Ultimate Guide to Asus RT-AX57 Go Wi-Fi 6 Mini Router: Perfect Companion for On-The-Go Internet Access</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-hardware-with-toms-technology-showcase/"><u>Unveiling the Latest Hardware with Tom's Technology Showcase</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-oneplus-nord-n30-se-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your OnePlus Nord N30 SE Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-chromebook-audio-revamp-guide-selecting-the-leading-speech-converters-online/"><u>[New] 2024 Approved Chromebook Audio Revamp Guide Selecting the Leading Speech Converters Online</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-how-to-custom-your-youtube-channel-url-super-easy/"><u>[New] In 2024, How to Custom Your YouTube Channel URL – Super Easy!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-streamlining-your-youtube-presence-with-best-video-formats/"><u>[Updated] In 2024, Streamlining Your YouTube Presence with Best Video Formats</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-crafted-perfection-ranking-the-best-7-stardew-mods-7/"><u>2024 Approved Crafted Perfection Ranking the Best 7 Stardew Mods (#7)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-display-match-top-6-hdmi-21-monitors-compared/"><u>2024 Approved The Ultimate Display Match Top 6 HDMI 2.1 Monitors Compared</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974122519-easy-installation-instructions-for-hp-officejet-vee-3830-printer-driver-on-windows-pcs/"><u>Easy Installation Instructions for HP Officejet Vee 3830 Printer Driver on Windows PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-innovations-with-toms-guide/"><u>Exploring Hardware Innovations with Tom's Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-crucials-powerful-pro-ddr5-c36-modules-2x1geb-unleashing-the-full-potential-for-enhanced-performance/"><u>In-Depth Analysis of Crucial's Powerful Pro DDR5 C36 Modules (2X1geb): Unleashing the Full Potential for Enhanced Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-depth-analysis-apple-tv-4k-series-third-gen-model-evaluation/"><u>In-Depth Analysis: Apple TV 4K Series - Third Gen Model Evaluation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-maze-with-tomns-hardware-experts/"><u>Navigating the Tech Maze with Tom'n's Hardware Experts</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-picture-to-cartoon-transformation-made-easy/"><u>New 2024 Approved Picture to Cartoon Transformation Made Easy</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/schnelligkeit-maximieren-mit-bootfahigem-booten-von-laptop-hdd-auf-lenovo-ssd-clone/"><u>Schnelligkeit Maximieren Mit Bootfähigem Booten Von Laptop HDD Auf Lenovo SSD Clone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seeing-is-believing-the-ultimate-review-of-viewsonics-xg272-2k-gaming-display-with-240hz-refresh-rate/"><u>Seeing Is Believing: The Ultimate Review of ViewSonic's XG272-2K Gaming Display with 240Hz Refresh Rate</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-choosing-the-best-solid-state-drive-exclusive-review-on-corsairs-mp60mini-1tb-e27t/"><u>The Definitive Guide to Choosing the Best Solid-State Drive: Exclusive Review on Corsair's MP60^Mini 1TB (E27T)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-comprehensive-insights-into-computer-hardware/"><u>Tom's Tech: Comprehensive Insights Into Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-with-toms-technology-blog/"><u>Unveiling the Latest Gadgets with Tom's Technology Blog</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-electronics-toms-expert-insights/"><u>Unveiling the Latest in Electronics - Tom's Expert Insights</u></a></li>
 </ul></div>
 

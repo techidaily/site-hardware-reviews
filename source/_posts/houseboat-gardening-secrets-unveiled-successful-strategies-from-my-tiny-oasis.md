@@ -1,7 +1,7 @@
 ---
 title: Houseboat Gardening Secrets Unveiled - Successful Strategies From My Tiny Oasis
-date: 2024-09-18 20:27:48
-updated: 2024-09-20 10:39:37
+date: 2025-01-21T16:12:43.450Z
+updated: 2025-01-24T22:44:40.686Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,30 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-streamline-your-projects-expert-techniques-for-mac-dvd-creation/"><u>[New] In 2024, Streamline Your Projects Expert Techniques for Mac DVD Creation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-art-of-auditory-alchemy-does-the-magic-voice-modifier-work-seek-alternates/"><u>[New] In 2024, The Art of Auditory Alchemy Does the Magic Voice Modifier Work? Seek Alternates</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-starting-out-building-your-youtube-presence-and-earning-for-2024/"><u>[Updated] Starting Out Building Your YouTube Presence & Earning for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/erate-your-youtube-journey-achieve-the-essential-10k-vistas/"><u>Accelerate Your YouTube Journey - Achieve the Essential 10K Vistas</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/critical-overview-of-line-chatting-platform-performance/"><u>Critical Overview of Line Chatting Platform Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-for-checking-your-nvidia-drivers-a-step-by-score/"><u>Easy Methods for Checking Your NVIDIA Drivers – A Step-by-Score</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-dull-to-dynamic-adding-animated-effects-to-instagram-stories-for-2024/"><u>From Dull to Dynamic Adding Animated Effects to Instagram Stories for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-stretching-out-youtube-video-quality/"><u>In 2024, Stretching Out YouTube Video Quality</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/making-a-splash-how-to-improve-your-videos-with-instagram-edits-for-2024/"><u>Making a Splash How to Improve Your Videos with Instagram Edits for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/optimize-your-android-phones-haptic-feedback-a-users-manual-for-customizing-vibration-strength/"><u>Optimize Your Android Phone’s Haptic Feedback: A User's Manual for Customizing Vibration Strength</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pre-order-your-atandt-and-verizon-pixel-fold-available-now/"><u>Pre-Order Your AT&T & Verizon Pixel Fold - Available Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/preventing-damage-from-cellphone-shakes-protecting-your-smartphones-lens-a-guide-for-iphone-and-android-users/"><u>Preventing Damage From Cellphone Shakes: Protecting Your Smartphone's Lens - A Guide for iPhone & Android Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/preventing-nuisance-automated-calls-tips-for-android-users/"><u>Preventing Nuisance Automated Calls: Tips for Android Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seamless-integration-of-windows-and-android-in-lenovos-innovative-thinkbook-plus-nhybrid/"><u>Seamless Integration of Windows & Android in Lenovo's Innovative ThinkBook Plus Nhybrid.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seamlessly-transfer-website-links-from-your-android-smartphone-to-your-pc-running-windows/"><u>Seamlessly Transfer Website Links From Your Android Smartphone to Your PC Running Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/smart-savings-high-quality-phones-available-for-less-than-1000/"><u>Smart Savings: High-Quality Phones Available for Less Than $1,000</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Huge Cyber Monday Savings: Save 77%% on Lenovo ThinkPad L14 Gen 3 - Limited Time Offer!"
-date: 2025-01-11T17:34:05.002Z
-updated: 2025-01-18T16:44:01.541Z
+date: 2025-01-17T20:53:39.490Z
+updated: 2025-01-24T22:55:19.708Z
 tags:
   - laptops
 categories:
@@ -56,7 +56,7 @@ If you're at all familiar with the previous ThinkPad X1 computers, you'll notice
 Another consequence of the limited space is the lack of ports. You have four inputs in total: two Thunderbolt 4 ports, an 3.5mm headphone/mic combo, and a slot for a Nano SIM, although the last one is optional. It's as barebones as you can get. To be honest, I am pleasantly surprised that there is a headphone jack. With how simple the [third-generation ThinkPad X1 Nano](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-nano-gen-3-%2813-inch-intel%29%2Flen101t0054&publisher_slug=itechdaily19598&exclusive=1) is, I was a little shocked it made the cut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -97,16 +97,24 @@ Prices [start at $1,043](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-skyrocketing-your-contents-view-count-title-and-tag-mastery/"><u>[New] 2024 Approved Skyrocketing Your Content's View Count Title & Tag Mastery</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-learn-the-low-cost-way-of-designing-winning-youtube-ad-campaigns/"><u>[Updated] In 2024, Learn the Low-Cost Way of Designing Winning YouTube Ad Campaigns</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-graphics-legacy-radeon-reloaded/"><u>2024 Approved Graphics Legacy Radeon Reloaded</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tial-android-ad-blocking-the-top-7-app-list-for-2024/"><u>Essential Android Ad Blocking The Top 7 App List for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-modern-gear-from-your-go-to-source-toms-hardware/"><u>Expert Advice on Modern Gear From Your Go-To Source, Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-testing-the-nzxt-c1500-platinum-unit/"><u>Expert Analysis: Testing the NZXT C1500 Platinum Unit</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341746651-experts-rating-in-depth-analysis-of-dough-spectrum-black-the-ultimate-27-oled-gaming-display-with-superior-color-fidelity-and-exceptional-responsiveness/"><u>Experts' Rating: In-Depth Analysis of Dough Spectrum Black - The Ultimate 27 OLED Gaming Display with Superior Color Fidelity & Exceptional Responsiveness!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-and-master-evil-genius-2-why-wont-it-boot-up/"><u>Fix and Master Evil Genius 2: Why Won't It Boot Up?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oneplus-nord-n30-se-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on OnePlus Nord N30 SE Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/lattepandas-mu-board-review-outpacing-the-raspberry-pi-5-but-with-a-steeper-cost/"><u>LattePanda's Mu Board Review: Outpacing the Raspberry Pi 5 but with a Steeper Cost</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-with-toms-electronics-analysis/"><u>Unveiling the Latest Gadgets with Tom's Electronics Analysis</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rtisans-shaping-virtual-marvel-universes/"><u>[New] Artisans Shaping Virtual Marvel Universes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-dramatic-discourse-penning-powerful-narrative-dialogues/"><u>[Updated] 2024 Approved Dramatic Discourse Penning Powerful Narrative Dialogues</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-your-instant-offline-playlist-how-to-pull-youtube-videos-onto-idevices/"><u>[Updated] 2024 Approved Your Instant Offline Playlist How to Pull YouTube Videos Onto iDevices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-canonayers-guide-to-color-gratification-paid-and-no-cost-luts-for-2024/"><u>[Updated] Canon'ayer’s Guide to Color Gratification – Paid & No-Cost LUTs for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-tech-insights-navigating-the-world-of-modern-electronics-with-toms-experts/"><u>Advanced Tech Insights: Navigating the World of Modern Electronics with Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-tier-gadgets-and-computer-components-on-toms-hardware/"><u>Discover Top-Tier Gadgets and Computer Components on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-latest-computer-components-toms-tech-hub/"><u>Expert Insights on Latest Computer Components - Tom's Tech Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-hardware-guided-by-toms-expertise/"><u>Exploring Computer Hardware - Guided by Tom's Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-value-of-cytrons-uno-rp2040-board-for-cost-conscious-makers/"><u>Exploring the Value of Cytron's Uno RP2040 Board for Cost-Conscious Makers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-15-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone 15 Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/meet-the-groundbreaking-image-revival-solution-by-stellar-setting-new-global-standards-in-photography-recovery/"><u>Meet the Groundbreaking Image Revival Solution by Stellar, Setting New Global Standards in Photography Recovery</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-computer-components-with-toms-hardware-advice/"><u>Navigate the World of Computer Components with Tom’s Hardware Advice</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-light-on-the-sony-s3700-blu-ray-reader-review-for-2024/"><u>New Light on the Sony S3700 Blu-Ray Reader Review for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repair-corrupt-video-files-on-mac-best-methods/"><u>Repair Corrupt Video Files on Mac [Best Methods]</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-hardware-insights/"><u>Tom's Tech Hub: Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-6-essential-iphone-apps-for-restoring-lost-contact-information/"><u>Top 6 Essential iPhone Apps for Restoring Lost Contact Information</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-6-proven-artificial-intelligence-tools-for-enhancing-video-resolution/"><u>Top 6 Proven Artificial Intelligence Tools for Enhancing Video Resolution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveil-the-secrets-of-quality-hardware-through-toms-lens/"><u>Unveil the Secrets of Quality Hardware Through Tom's Lens</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-insights-from-toms-computer-gear-exploration/"><u>Unveiling the Insights From Tom's Computer Gear Exploration</u></a></li>
 </ul></div>
 

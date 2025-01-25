@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Sale: Save Big on Blink Outdoor's Four-Camera Security System With Lightning Floodlight Package, Only $80!"
-date: 2024-09-17 16:37:33
-updated: 2024-09-20 12:48:27
+date: 2025-01-17T19:01:11.014Z
+updated: 2025-01-24T23:47:17.757Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,27 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-first-steps-in-camera-selection-a-2023-starters-packet/"><u>[New] 2024 Approved First Steps in Camera Selection A 2023 Starter's Packet</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-connecting-twitter-videos-with-facebook-friends/"><u>[Updated] 2024 Approved Connecting Twitter Videos with Facebook Friends</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-pioneering-digital-realms-comparing-metaverse-and-omniverse/"><u>[Updated] 2024 Approved Pioneering Digital Realms Comparing Metaverse & Omniverse</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diy-troubleshooting-for-common-directdraw-problems-and-solutions/"><u>DIY Troubleshooting for Common DirectDraw Problems and Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-your-sluggish-downloads-a-guide-to-accelerating-utorrent-transfer-speeds/"><u>Fixing Your Sluggish Downloads: A Guide to Accelerating uTorrent Transfer Speeds</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/lens-and-light-essential-camera-movements-every-novice-needs/"><u>Lens & Light Essential Camera Movements Every Novice Needs</u></a></li>
+<li><a href="https://win-net.techidaily.com/overcoming-the-challenge-of-registry-update-during-system-restore-unveiling-three-solutions/"><u>Overcoming the Challenge of Registry Update During System Restore: Unveiling Three Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-laptop-printers-a-comprehensive-guide/"><u>Top Rated Laptop Printers : A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-ranking-dslr-photography-gear/"><u>Top-Ranking DSLR Photography Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-laptop-enhancements-the-ultimate-guide/"><u>Top-Rated Laptop Enhancements: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-nomad-65w-power-adapter-perfect-edition-companion-for-apple-watch-owners/"><u>Ultimate Guide to the Nomad 65W Power Adapter: Perfect Edition Companion for Apple Watch Owners</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-nomad-stand-one-max-opulent-triple-duty-mobile-charger-and-phone-holder-unveiled/"><u>Ultimate Guide to the Nomad Stand One Max: Opulent Triple Duty Mobile Charger and Phone Holder Unveiled</u></a></li>
+</ul></div>
+

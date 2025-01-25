@@ -1,7 +1,7 @@
 ---
 title: Discover What's New in Matter 1.3 – Features Update and Supported Gadgets | ZDNet
-date: 2024-09-17 18:29:52
-updated: 2024-09-20 11:33:20
+date: 2025-01-21T21:36:35.216Z
+updated: 2025-01-24T21:02:16.413Z
 tags:
   - kitchen-household
 categories:
@@ -45,11 +45,37 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-advanced-android-time-lapse-tips-for-professional-results/"><u>[New] Advanced Android Time-Lapse Tips for Professional Results</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-fuel-ambition-with-these-10-movie-masterpieces-for-2024/"><u>[New] Fuel Ambition with These 10 Movie Masterpieces for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-how-to-blur-background-of-your-youtube-video-2-easy-ways/"><u>[New] In 2024, How to Blur Background of Your YouTube Video - 2 Easy Ways</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ranking-the-best-mac-recording-alternatives-to-bandicam/"><u>[New] Ranking the Best Mac Recording Alternatives to Bandicam</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-50-essential-screen-savers-for-online-video-calls/"><u>[Updated] 2024 Approved 50 Essential Screen Savers for Online Video Calls</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchats-money-making-opportunities-exposed-for-2024/"><u>[Updated] Snapchat's Money-Making Opportunities Exposed for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-photos-using-adobes-power/"><u>2024 Approved Transform Your Photos Using Adobe's Power</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862653040-carbon-fiber-structural-battery-breakthroughs-lighter-and-stronger-tech-devices-ahead/"><u>Carbon Fiber Structural Battery Breakthroughs: Lighter and Stronger Tech Devices Ahead!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-mac-to-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share Mac to Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-blueprint-for-obtaining-premium-visuals-for-free/"><u>In 2024, The Essential Blueprint for Obtaining Premium Visuals for Free</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/select-selections-elite-mac-video-grabbers-reviewed-for-2024/"><u>Select Selections Elite Mac Video Grabbers Reviewed for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/snapdragon-laptop-series-unveiled-live-coverage-and-hands-on-copilotplus-review/"><u>Snapdragon Laptop Series Unveiled - Live Coverage & Hands-On Copilot+ Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-the-definitive-guide/"><u>Tom's Computer Components: The Definitive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-dive-into-hardware-exploration/"><u>Tom's Tech Reviews: Dive Into Hardware Exploration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-tech-analysis-navigating-new-innovations-at-toms-hardware/"><u>Top Tech Analysis: Navigating New Innovations at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862703895-transform-your-laptop-into-a-morse-code-input-device-just-hit-the-lid-with-precision-disclaimers-apply/"><u>Transform Your Laptop Into a Morse Code Input Device: Just Hit the Lid with Precision - Disclaimers Apply</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-gadget-analysis-by-toms-hardware-stay-informed/"><u>Ultimate Gadget Analysis by Tom's Hardware - Stay Informed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-your-inner-gamer-with-lenovo-legion-slim-5-a-steal-at-under-1100-from-newegg/"><u>Unleash Your Inner Gamer with Lenovo Legion Slim 5 – A Steal at Under $1,100 From Newegg</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-future-of-mac-gaming-apples-strategy-using-its-full-ecosystem-arsenal/"><u>Unveiling the Future of Mac Gaming – Apple's Strategy Using Its Full Ecosystem Arsenal</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

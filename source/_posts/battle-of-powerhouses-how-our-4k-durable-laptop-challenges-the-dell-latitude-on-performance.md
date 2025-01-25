@@ -1,7 +1,7 @@
 ---
 title: "Battle of Powerhouses: How Our $4K Durable Laptop Challenges the Dell Latitude on Performance"
-date: 2025-01-16T17:13:26.248Z
-updated: 2025-01-18T17:15:32.995Z
+date: 2025-01-23T00:56:54.181Z
+updated: 2025-01-24T23:08:27.932Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ I spent a good hour and a half moving from station to station, from 240Hz ultraw
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. The numbers don't lie
@@ -47,7 +47,7 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -61,7 +61,7 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -75,7 +75,7 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,20 +114,24 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-a-list-top-desktops-for-enthusiasts/"><u>[New] In 2024, A-List Top Desktops for Enthusiasts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-livestreaming-facebook-made-simple-for-all-tech-users-for-2024/"><u>[New] Livestreaming Facebook Made Simple for All Tech Users for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-proactive-measures-for-managing-comments-on-educational-videos/"><u>[Updated] 2024 Approved Proactive Measures for Managing Comments on Educational Videos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/60-cpu-cooler-powerhouse-in-depth-review-of-the-id-cooling-fx360-pro/"><u>$60 CPU Cooler Powerhouse: In-Depth Review of the ID-Cooling FX360 Pro</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-highpoint-rocket-1608a-expansion-unit-amplified-drive-capacity-and-enhanced-performance/"><u>Comprehensive Analysis of HighPoint Rocket 1608A Expansion Unit: Amplified Drive Capacity & Enhanced Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-bluehost-analysis-testing-cloud-vps-and-shared-solutions/"><u>Comprehensive Bluehost Analysis: Testing Cloud, VPS & Shared Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/download-ios-18-now-compatible-iphone-models-revealed-a-step-by-step-guide-techsavvy/"><u>Download IOS 18 Now: Compatible iPhone Models Revealed - A Step-by-Step Guide | TechSavvy</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-cost-savings-in-electronics-projects-a-detailed-review-of-the-cytron-maker-uno-rp2040-board/"><u>Exploring Cost Savings in Electronics Projects: A Detailed Review of the Cytron Maker Uno RP2040 Board</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341739768-exploring-wartime-velocity-the-unconventional-flsun-s1-solar-charger-reviewed/"><u>Exploring Wartime Velocity - The Unconventional FLSun S1 Solar Charger Reviewed!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nokia-c02-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nokia C02 Through Google Earth?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-pairing-of-podcast-apps-and-android-top-6-recommendations/"><u>In 2024, Perfect Pairing of Podcast Apps & Android Top 6 Recommendations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadget-performance-explore-toms-hardware-analysis/"><u>Mastering Gadget Performance: Explore Tom's Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-components-through-toms-hardware-reviews/"><u>Mastering Gadgets and Components Through Tom's Hardware Reviews</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unlocking-elusive-footage-the-systematic-guide-to-youtube-secrets-for-2024/"><u>Unlocking Elusive Footage The Systematic Guide to YouTube Secrets for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamline-screen-capturing-in-todays-remote-meetings/"><u>[New] Streamline Screen Capturing in Today’s Remote Meetings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-top-8-live-video-enhancers-for-online-broadcasts-for-2024/"><u>[New] Top 8 Live Video Enhancers for Online Broadcasts for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-elevated-engagement-awards-on-video-realms/"><u>[Updated] In 2024, Elevated Engagement Awards on Video Realms</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-turnout-videos-backwards-easily-on-android/"><u>2024 Approved Turnout Videos Backwards Easily on Android</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/accelerating-your-workflow-with-lexar-ssds-the-sl500-and-professional-sl600-breakdown-for-speeds-beyond-20gbps/"><u>Accelerating Your Workflow with Lexar SSDs: The SL500 & Professional SL600 Breakdown for Speeds Beyond 20Gbps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/analyzing-the-impact-the-role-of-akasas-blower-type-gecko-in-maintaining-optimal-ssd-temperatures/"><u>Analyzing the Impact: The Role of Akasa's Blower-Type Gecko in Maintaining Optimal SSD Temperatures</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/clonez-votre-ssd-seagate-sans-risques-et-a-zero-cout-avec-notre-guide-complet/"><u>Clonez Votre SSD Seagate Sans Risques Et À Zéro Coût Avec Notre Guide Complet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dell-xps-13-review-consistent-elegance-upgraded-with-the-latest-snapdragon-x-elite-processor/"><u>Dell XPS 13 Review - Consistent Elegance, Upgraded with the Latest Snapdragon X Elite Processor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-next-level-gaming-with-asuss-rog-swift-pg34wcdm-a-thorough-review-of-its-exquisite-240hz-oled-visual-experience-and-top-tier-gameplay-dynamics/"><u>Discover Next-Level Gaming with ASUS's ROG Swift PG34WCDM: A Thorough Review of Its Exquisite 240Hz OLED Visual Experience & Top-Tier Gameplay Dynamics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computer-components-with-toms-hardware/"><u>Exploring the World of Computer Components with Tom's Hardware</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-a54-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy A54 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-top-scripts-across-all-eight-film-categories/"><u>In 2024, Top Scripts Across All Eight Film Categories</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-asus-rog-azoth-extreme-at-500-value/"><u>In-Depth Analysis of the Asus ROG Azoth Extreme at $500 Value</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/kingstons-fury-beast-ddr5-ram-5000mhz-cas-latency-40-in-depth-2x32gb-memory-module-evaluation/"><u>Kingston's Fury Beast DDR5 RAM (5,000MHz CAS Latency 40) - In-Depth 2X32GB Memory Module Evaluation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-space-and-speed-detailed-insights-into-the-asus-rog-nuc-970-compact-desktop-system/"><u>Mastering Space and Speed: Detailed Insights Into the Asus ROG NUC 970 Compact Desktop System</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-pc-performance-the-toms-guide-to-tech-essentials/"><u>Pioneering PC Performance: The Tom's Guide to Tech Essentials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-of-premium-pc-displays-2024-edition/"><u>The Ultimate Selection of Premium PC Displays - 2024 Edition</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-online-video-rotators-rotate-your-videos-with-ease/"><u>Updated In 2024, Best Online Video Rotators Rotate Your Videos with Ease</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/wav-versus-mp3-comparing-audio-formats-determining-quality-and-compatibility/"><u>WAV versus MP3: Comparing Audio Formats - Determining Quality and Compatibility</u></a></li>
 </ul></div>
 

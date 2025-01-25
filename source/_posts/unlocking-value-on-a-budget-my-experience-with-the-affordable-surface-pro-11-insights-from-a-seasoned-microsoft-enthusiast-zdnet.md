@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Value on a Budget: My Experience with the Affordable Surface Pro 11 - Insights From a Seasoned Microsoft Enthusiast | ZDNet"
-date: 2025-01-14T16:30:25.893Z
-updated: 2025-01-18T18:42:00.830Z
+date: 2025-01-19T20:58:53.523Z
+updated: 2025-01-24T16:15:13.416Z
 tags:
   - laptops
 categories:
@@ -48,6 +48,10 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -71,7 +75,7 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -91,7 +95,7 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
@@ -101,10 +105,6 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -141,6 +141,10 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## There are still many things the iPad Pro does better
 
 Jason Cipriani/ZDNet
@@ -152,6 +156,10 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 **Also:** [**Want a touchscreen MacBook? This portable monitor makes it possible**](https://www.zdnet.com/home-and-office/smart-office/want-a-touchscreen-macbook-this-portable-monitor-makes-it-possible/)
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -165,15 +173,7 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -212,19 +212,18 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-cost-effective-techniques-in-text-animations/"><u>[New] Mastering Cost-Effective Techniques in Text Animations</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-pro-rated-apple-compreran-of-the-best-screen-recorders/"><u>[New] Pro-Rated Apple Compreran of the Best Screen Recorders</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-digital-diaries-reviewing-the-best-personal-devices/"><u>[Updated] 2024 Approved Digital Diaries Reviewing the Best Personal Devices</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-optimal-5-filters-for-deep-blue-cinematography/"><u>[Updated] Optimal 5 Filters for Deep Blue Cinematography</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-excellence-in-depth-analysis-of-the-uphere-m201-ssd-heatsink-your-guide-to-essential-nvme-thermal-management-at-only-5/"><u>Affordable Excellence: In-Depth Analysis of the UpHere M201 SSD Heatsink - Your Guide to Essential NVMe Thermal Management at Only $5</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-computer-guides-from-toms-digital-workshop/"><u>Comprehensive Computer Guides From Tom's Digital Workshop</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/oading-videos-directly-to-iphoneipad-youtubes-quick-guide/"><u>Downloading Videos Directly to iPhone/iPad - YouTube's Quick Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-driver-updates-on-windows-10-using-the-handy-device-manager-feature/"><u>Effortless Driver Updates on Windows 10 Using the Handy Device Manager Feature</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-blend-of-tradition-and-innovation-in-the-skagen-falster-3-smartwatch-review/"><u>Exploring the Blend of Tradition and Innovation in the Skagen Falster 3 Smartwatch Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/fast-flagship-and-funny-a-comprehensive-review-of-the-flsun-s1-device/"><u>Fast, Flagship & Funny: A Comprehensive Review of the FLSun S1 Device</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-make-lip-sync-video-without-installing-any-app-for-2024/"><u>How to Make Lip Sync Video Without Installing Any App for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-asus-rog-strix-xg27acs-the-ultimate-qhd-180hz-gamers-display/"><u>In-Depth Analysis of Asus ROG Strix XG27ACS - The Ultimate QHD 180Hz Gamer's Display</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-news-at-toms-computer-and-electronics-hub/"><u>In-Depth Reviews and News at Tom's Computer & Electronics Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computing-comprehensive-tech-reviews-and-advice/"><u>Tom's Computing: Comprehensive Tech Reviews and Advice</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-dynamic-ppt-leveraging-voice-for-effective-delivery/"><u>[New] 2024 Approved Dynamic PPT Leveraging Voice for Effective Delivery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unrivaled-gaming-monitors-at-4k-quality/"><u>[New] Unrivaled Gaming Monitors at 4K Quality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-trim-perfect-clearing-thin-lines-on-youtube/"><u>[Updated] Trim Perfect Clearing Thin Lines on YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/aesthetic-fusion-studio-ultimate-photo-alchemy/"><u>Aesthetic Fusion Studio Ultimate Photo Alchemy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/boost-your-raspberry-pi-speed-with-a-high-performance-low-cost-m2-hatplus-reveal/"><u>Boost Your Raspberry Pi Speed with a High-Performance, Low-Cost M.2 HAT+ Reveal</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-lexars-top-performing-ssd-models-sl500-vs-professional-sl600-with-speeds-up-to-20-gbs/"><u>Comprehensive Analysis of Lexar's Top-Performing SSD Models: SL500 Vs. Professional SL600 with Speeds up to 20 GB/S</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-electronics-with-toms-hardware-guides/"><u>Exploring Electronics with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-visuals-with-asus-rog-swift-pg32ucdp-oled-a-comprehensive-review/"><u>Mastering Visuals with Asus ROG Swift PG32UCDP OLED - A Comprehensive Review</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-lost-ark-boot-problems-top-tips-and-techniques-for-gamers/"><u>Overcoming Lost Ark Boot Problems: Top Tips and Techniques for Gamers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/peek-behind-ustreams-curtain-and-more/"><u>Peek Behind Ustream's Curtain and More</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/premier-list-of-affordable-virtual-meetings-and-live-desktop-sharing-for-2024/"><u>Premier List of Affordable Virtual Meetings & Live Desktop Sharing for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-download-hp-stream-printer-drivers-get-them-fast/"><u>Quick Download: HP Stream Printer Drivers - Get Them Fast</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-rode-streamer-x-revealed-can-this-device-transform-your-streaming-experience/"><u>The Rode Streamer X Revealed: Can This Device Transform Your Streaming Experience?</u></a></li>
 </ul></div>
 

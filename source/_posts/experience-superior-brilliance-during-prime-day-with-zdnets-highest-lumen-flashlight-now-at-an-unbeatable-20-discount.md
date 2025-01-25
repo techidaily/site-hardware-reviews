@@ -1,7 +1,7 @@
 ---
 title: Experience Superior Brilliance During Prime Day with ZDNet's Highest Lumen Flashlight Now at an Unbeatable 20%% Discount!
-date: 2024-09-17 17:33:35
-updated: 2024-09-20 11:58:39
+date: 2025-01-23T20:54:00.503Z
+updated: 2025-01-25T00:56:52.108Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,31 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-c-spans-fee-free-footage-access-a-compreayer-guide/"><u>[New] C-Span's Fee-Free Footage Access A Compreayer Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-adapting-to-diverse-candidate-personalities/"><u>[Updated] In 2024, Adapting to Diverse Candidate Personalities</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-laugh-labs-robotic-deadpan-devs/"><u>[Updated] Laugh Labs Robotic Deadpan Devs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-guides-by-tom-the-definitive-source/"><u>Advanced Hardware Guides by Tom - The Definitive Source</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-34-curved-asus-tuf-gaming-display-for-only-249-on-amazon/"><u>Affordable 34 Curved ASUS TUF Gaming Display for Only $249 on Amazon!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/aocs-new-premium-ultrawide-monitor-240hz-oled-technology-at-just-1399/"><u>AOC's New Premium Ultrawide Monitor - 240Hz OLED Technology at Just $1,399!</u></a></li>
+<li><a href="https://article-files.techidaily.com/create-a-video-anthology-for-listing-for-2024/"><u>Create a Video Anthology for Listing for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862840211-experience-crystal-clear-gaming-with-the-newly-discounted-samsung-odyssey-ark-now-cheaper-than-ever/"><u>Experience Crystal Clear Gaming with the Newly Discounted Samsung Odyssey Ark - Now Cheaper Than Ever.</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/lens-lineup-leaders-a-comprehensive-1-10-list/"><u>Lens Lineup Leaders A Comprehensive #1-10 List</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862799080-revolutionary-tech-unveiled-the-new-modos-paper-monitor-offers-an-open-source-solution-to-high-res-and-low-latency-needs/"><u>Revolutionary Tech Unveiled: The New Modos Paper Monitor Offers an Open-Source Solution to High Res and Low Latency Needs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862809061-score-big-savings-with-asus-tuf-34-curved-gaming-monitor-at-an-unbeatable-price-on-amazon/"><u>Score Big Savings with ASUS TUF 34 Curved Gaming Monitor at an Unbeatable Price on Amazon</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862812641-steal-the-show-with-the-low-cost-240hz-acer-nitro-gaming-monitor-just-pay-a-sweet-159/"><u>Steal the Show with the Low-Cost 240Hz Acer Nitro Gaming Monitor – Just Pay a Sweet $159</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/troubleshooting-tips-overcoming-challenges-with-inaccessible-backup-data/"><u>Troubleshooting Tips: Overcoming Challenges with Inaccessible Backup Data</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ultimate-tutorial-setting-up-an-expert-level-software-deployment-platform/"><u>Ultimate Tutorial: Setting Up an Expert-Level Software Deployment Platform</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862822436-unlock-crystal-clear-viewing-with-the-built-in-webcam-and-powerful-display-of-samsungs-pixel-dense-viewfinity-s9-now-only-899-save-up-to-44-today/"><u>Unlock Crystal Clear Viewing with the Built-In Webcam & Powerful Display of Samsung's Pixel-Dense ViewFinity S9 - Now Only $899, Save Up to 44% Today!</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/unraveling-the-mystery-why-do-ios-to-android-transferred-videos-come-out-blurry/"><u>Unraveling the Mystery: Why Do iOS-to-Android Transferred Videos Come Out Blurry?</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-hazards-of-keygen-virus-and-how-to-protect-your-systems/"><u>Unveiling the Hazards of Keygen Virus & How to Protect Your Systems</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Adapting Office Tech for the Age of Artificial Intelligence - Insights From ZDNet
-date: 2025-01-06T20:50:00.464Z
-updated: 2025-01-13T01:08:42.773Z
+date: 2025-01-18T20:51:16.478Z
+updated: 2025-01-24T20:09:03.612Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,18 +134,18 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-audio-overhaul-methods-for-content-creators-online/"><u>[New] Audio Overhaul Methods for Content Creators Online</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-comparing-augmented-reality-stickers-beyond-google-for-2024/"><u>[New] Comparing Augmented Reality Stickers Beyond Google for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-archive-gamers-best-runs-using-samsung-phones/"><u>[Updated] Archive Gamer's Best Runs Using Samsung Phones</u></a></li>
-<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-look-at-gigabytes-aorus-co49dq-monitor-exceptional-color-vibrancy-and-sharp-contrast-ratio-reviewed/"><u>A Comprehensive Look at Gigabyte's Aorus CO49DQ Monitor: Exceptional Color Vibrancy and Sharp Contrast Ratio Reviewed</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-lava-yuva-3-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Lava Yuva 3 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/massive-discount-grab-a-deal-at-1100-off-macbook-pro-m1-max-for-bandh-black-friday-extravaganza-insights-from-zdnet/"><u>Massive Discount: Grab a Deal at $1,100 Off MacBook Pro M1 Max for B&H Black Friday Extravaganza - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-with-tom-your-ultimate-guide-to-new-hardware/"><u>Navigating Technology with Tom - Your Ultimate Guide to New Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/netgears-value-proposition-with-the-orbi-770-mesh-router-balancing-price-point-and-performance/"><u>Netgear's Value Proposition with the Orbi 770 Mesh Router - Balancing Price Point and Performance</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/prime-picks-for-live-tv-access-and-streaming/"><u>Prime Picks for Live TV Access and Streaming</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-compute-module-4s-revolutionizing-industrial-automation-a-detailed-examination/"><u>Raspberry Pi Compute Module 4S: Revolutionizing Industrial Automation - A Detailed Examination</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-hardware/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/update-short-form-video-coverage-for-2024/"><u>Update Short-Form Video Coverage for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-bring-your-photos-to-life-adding-radial-focus-effects-ps/"><u>[Updated] Bring Your Photos to Life Adding Radial Focus Effects PS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-pro-tips-for-re-sharing-on-instagram/"><u>[Updated] In 2024, Pro Tips for Re-Sharing on Instagram</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-updated-guide-leading-camcorders-for-ocean-exploration/"><u>[Updated] In 2024, Updated Guide Leading Camcorders for Ocean Exploration</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-in-class-skype-recorders-ranked/"><u>Best-in-Class Skype Recorders Ranked</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210727317-9781454948650-elemental-healing/"><u>Elemental Healing | Free Book</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-trusted-download-of-tp-link-wi-fi-drivers-for-pcs/"><u>Free, Trusted Download of TP Link Wi-Fi Drivers for PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-gadgets-a-journey-through-toms-hardware-realm/"><u>Mastering Modern Gadgets: A Journey Through Tom's Hardware Realm</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/monoprices-game-changer-a-price-wise-high-performance-144-hz-40-gaming-display-revealed-in-our-exclusive-review/"><u>Monoprice's Game Changer: A Price-Wise, High-Performance, 144 Hz 40 Gaming Display Revealed in Our Exclusive Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msi-unveils-high-performance-gaming-displays-240hz-qd-oled-monitors-in-new-sizes/"><u>MSI Unveils High Performance Gaming Displays - 240Hz QD-OLED Monitors in New Sizes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-gadgets-insights-from-toms-technology-corner/"><u>Navigating Advanced Gadgets: Insights From Tom's Technology Corner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-high-tech-components-at-toms-system-analysis/"><u>Navigating High-Tech Components at Tom's System Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-tomhardware/"><u>Navigating the World of Electronics with TomHardware</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphones-messaging-feature-with-these-7-essential-fixes/"><u>Revive Your iPhone's Messaging Feature with These 7 Essential Fixes</u></a></li>
 </ul></div>
 

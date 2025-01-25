@@ -1,7 +1,7 @@
 ---
 title: ZDNet Unpacks the Must-Have Audio Player for Kids & Parents - Save $100 on Amazon's Prime Day!
-date: 2024-09-19 21:18:10
-updated: 2024-09-20 11:58:29
+date: 2025-01-23T01:14:11.851Z
+updated: 2025-01-24T17:16:42.570Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,27 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-expert-review-ricoh-theta-s-unveiled-in-detail/"><u>[New] Expert Review Ricoh Theta S Unveiled in Detail</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-revenue-revolution-unlocking-the-potential-of-your-youtube-channel-on-mobile/"><u>[New] Revenue Revolution Unlocking the Potential of Your YouTube Channel on Mobile</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-24-clever-tiktoks-the-comedy-goldmine/"><u>[Updated] In 2024, 24 Clever TikToks The Comedy Goldmine</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-community-cinema-collector-pro/"><u>2024 Approved Community Cinema Collector Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-guides-on-consumer-electronics-by-toms-hardware-experts/"><u>In-Depth Guides on Consumer Electronics by Tom's Hardware Experts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-iconography-gone-discover-effective-ways-to-reclaim-them/"><u>IPhone Iconography Gone? Discover Effective Ways to Reclaim Them!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-gadgets-with-tom-an-authoritative-source-on-cutting-edge-computer-hardware/"><u>Navigating New Gadgets with Tom: An Authoritative Source on Cutting-Edge Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-guides-on-hardware/"><u>Tom's Tech Insights: Comprehensive Guides on Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-analysis-of-the-latest-gadgets/"><u>Tom's Tech Reviews: Comprehensive Analysis of the Latest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-into-the-latest-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights Into the Latest Hardware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-amazing-offers-on-apples-airpods-during-the-festive-season-featured-by-zdnet/"><u>Top 7 Amazing Offers on Apple's AirPods During the Festive Season - Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-processor-performance-index-of-2024-comprehensive-cpu-ratings/"><u>Top Processor Performance Index of 2024: Comprehensive CPU Ratings</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unravel-gamers-secrets-a-hands-on-exploration-of-philips-49-oled-monitor-with-a-curved-design/"><u>Unravel Gamers' Secrets: A Hands-On Exploration of Philips' 49 OLED Monitor with a Curved Design</u></a></li>
+</ul></div>
+

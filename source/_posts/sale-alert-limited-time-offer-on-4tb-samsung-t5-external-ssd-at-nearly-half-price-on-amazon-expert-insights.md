@@ -1,7 +1,7 @@
 ---
 title: "Sale Alert: Limited-Time Offer on 4TB Samsung T5 External SSD at Nearly Half Price on Amazon | Expert Insights"
-date: 2025-01-14T17:10:10.810Z
-updated: 2025-01-18T18:58:25.027Z
+date: 2025-01-23T23:12:19.918Z
+updated: 2025-01-24T21:27:11.164Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,22 +128,21 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-ultimate-checklist-picking-the-best-gimbal-for-drones/"><u>[New] 2024 Approved The Ultimate Checklist Picking the Best Gimbal for Drones</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-elite-listing-top-10-windows-11-cam-capture-devices-for-2024/"><u>[New] Elite Listing Top 10 Windows 11 Cam Capture Devices for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-depth-guide-to-extracting-vimeo-media/"><u>[New] In-Depth Guide to Extracting Vimeo Media</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-mastering-the-craft-of-youtubers-music-reaction-videos-essentials-for-2024/"><u>[Updated] Mastering the Craft of Youtubers Music Reaction Videos Essentials for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/capturing-live-screens-webcam-setup-on-hp-devices-for-2024/"><u>Capturing Live Screens Webcam Setup on HP Devices for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-using-the-clevetura-clvx-wireless-keyboard-with-enhanced-keys/"><u>Comprehensive Guide to Using the Clevetura CLVX Wireless Keyboard with Enhanced Keys</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-review-exceptional-visual-quality-on-gigabytes-aorus-co4nedq-monitor-with-oled-technology/"><u>Expert Review: Exceptional Visual Quality on Gigabyte's Aorus CO4nEDq Monitor with OLED Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-asus-rog-strix-xg27acs-qhd-180hz-gaming-display-a-true-game-changer-in-visuals-and-response-times/"><u>Exploring the Asus ROG Strix XG27ACS QHD 180Hz Gaming Display - A True Game Changer in Visuals and Response Times</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-file-explorer-crash-in-windows-11-step-by-step-solutions/"><u>Fixing File Explorer Crash in Windows 11 – Step-by-Step Solutions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/full-tutorial-on-exploiting-googles-ai-driven-speech-transcription-service/"><u>Full Tutorial on Exploiting Google's AI-Driven Speech Transcription Service</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/s-guide-to-video-recording-for-2024/"><u>Gamer's Guide to Video Recording for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gear-room-a-deep-dive-into-cutting-edge-pc-components/"><u>Inside Tom's Gear Room: A Deep Dive Into Cutting-Edge PC Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-devices-with-expertise-from-toms-hardware-experts/"><u>Mastering Devices with Expertise From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-tech-insight-toms-hardware-essentials/"><u>Pioneering Tech Insight: Tom's Hardware Essentials</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-nuances-of-sharing-on-twitter-retweet-vs-re-tweet-explained/"><u>The Nuances of Sharing on Twitter: Retweet Vs. Re-Tweet Explained</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-technology-according-to-toms-hardware/"><u>The Ultimate Guide to Technology According to Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-technology-with-toms-hardware-guide/"><u>Unveiling the Latest in Technology with Tom's Hardware Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-incorporating-yt-playlists-into-web-design/"><u>[New] In 2024, Incorporating YT Playlists Into Web Design</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-pcs-prime-screen-capture-software-ranked-1-5/"><u>[Updated] In 2024, PC's Prime Screen Capture Software Ranked #1-#5</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-benqs-visionary-approach-to-4k-monitors-unraveled-by-the-bl2711u-review/"><u>2024 Approved BenQ's Visionary Approach to 4K Monitors, Unraveled by the BL2711U Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-blueprint-to-fullscreen-brilliance-in-adobe-premiere/"><u>2024 Approved The Ultimate Blueprint to Fullscreen Brilliance in Adobe Premiere</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/curved-and-fast-a-comprehensive-review-of-the-45-inch-aoc-agon-pro-ag456uczd-gaming-monitor-with-extreme-curve-display/"><u>Curved and Fast: A Comprehensive Review of the 45-Inch AOC Agon Pro AG456UCZD Gaming Monitor with Extreme Curve Display</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-ultimate-holiday-promotions-for-dell-computers-and-accessories-with-our-curated-guide-to-deals-at-retail-giants-like-best-buy-amazon-and-more-featu41/"><u>Discover Ultimate Holiday Promotions for Dell Computers and Accessories with Our Curated Guide to Deals at Retail Giants Like Best Buy, Amazon & More | Featured</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-motorola-moto-g04-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Motorola Moto G04 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/innovatives-tool-von-abbyy-finereader-perfekt-fur-die-universitat-innsbruck-und-mehr/"><u>Innovatives Tool Von ABBYY FineReader - Perfekt Für Die Universität Innsbruck Und Mehr!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-tech-insights-on-tome-hardware-hub/"><u>Navigating Advanced Tech Insights on Tom'e Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-choices-insights-from-toms-hardware-hub/"><u>Navigating Technology Choices: Insights From Tom's Hardware Hub</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-for-quick-recovery-from-werfaultexe-system-crashes/"><u>Simple Solutions for Quick Recovery From werFault.exe System Crashes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-pulse-of-processors-updates-straight-from-toms-computer-lab/"><u>The Pulse of Processors: Updates Straight From Tom's Computer Lab</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-unbeatable-deal-an-insightful-review-of-the-fx360-pro-from-id-cooling-for-just-60plusworth/"><u>The Unbeatable Deal: An Insightful Review of the FX360 Pro From ID-Cooling for Just $60+Worth</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/titans-top-performer-the-180hz-army-p27a2g-review-for-gamers/"><u>Titan's Top Performer: The 180Hz Army P27A2G Review for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-unveiled-your-source-for-cutting-edge-tech-analysis/"><u>Tom's Hardware Unveiled: Your Source for Cutting-Edge Tech Analysis</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/unlimited-sing-along-fun-dive-into-the-latest-from-party-time-karaoke-join-now-before-april-18th/"><u>Unlimited Sing-Along Fun: Dive Into the Latest From Party Time Karaoke - Join Now Before April 18Th!</u></a></li>
 </ul></div>
 

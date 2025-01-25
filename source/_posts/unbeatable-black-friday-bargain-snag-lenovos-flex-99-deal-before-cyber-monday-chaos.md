@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Snag Lenovo's Flex 지난에 $99 Deal Before Cyber Monday Chaos"
-date: 2025-01-06T02:49:48.397Z
-updated: 2025-01-12T18:51:59.403Z
+date: 2025-01-22T21:59:36.335Z
+updated: 2025-01-24T19:09:08.715Z
 tags:
   - laptops
 categories:
@@ -24,7 +24,7 @@ The model on offer here runs on Intel's 11th-generation [Core i7-11850H](https:/
 **Also:** [**Best Black Friday laptop deals 2022**](https://www.zdnet.com/article/black-friday-laptop-deals-november-23-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -67,17 +67,18 @@ At $1,699 -- 53% off Lenovo's list price -- the [ThinkPad X1 Extreme](https://bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-a-step-by-step-approach-to-discard-youtube-watch-later-items/"><u>[New] 2024 Approved A Step-by-Step Approach to Discard YouTube Watch Later Items</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-straightstreamerw11-ultra-simple-pc-screenshot-software/"><u>[New] 2024 Approved StraightStreamerW11 Ultra-Simple PC Screenshot Software</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-gecata-watchers-complete-appraisal/"><u>[New] GECATA Watcher's Complete Appraisal</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nlock-the-power-of-any-video-with-these-free-online-editors-for-2024/"><u>[New] Unlock the Power of Any Video With These Free Online Editors for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-editmasters-selecting-the-best-4k-screens-for-creatives/"><u>[Updated] 2024 Approved EditMasters Selecting the Best 4K Screens for Creatives</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-balancing-bandwidth-for-obs-streams/"><u>2024 Approved Balancing Bandwidth for OBS Streams</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210932933-9781855844667-concerning-the-affinity-of-the-living-and-the-dead/"><u>Concerning The Affinity of The Living And The Dead | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-mysteries-articles-and-guides-from-toms-hardware/"><u>Decoding Tech Mysteries: Articles and Guides From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-guide-mastering-memory-speeds-with-crucial-pro-ddr5-6000-2x16gb-sticks-ultimate-overclocking-review/"><u>Expert Guide: Mastering Memory Speeds with Crucial Pro DDR5-6000 2X16GB Sticks - Ultimate Overclocking Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-machines-toms-essential-wisdom-on-personal-technology/"><u>Mastering Machines: Tom's Essential Wisdom on Personal Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-gadget-analysis/"><u>Tom's Tech Review: Comprehensive Gadget Analysis</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/top-3-free-dvd-player-programs-compatible-with-windows-11-play-any-disc-easily/"><u>Top 3 Free DVD Player Programs Compatible with Windows 11 - Play Any Disc Easily</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-groundbreaking-feedback-vllo-review/"><u>2024 Approved Groundbreaking Feedback VLLO Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterpiece-dialogues-across-8-film-genres/"><u>2024 Approved Masterpiece Dialogues Across 8 Film Genres</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bold-transformation-of-the-worlds-premier-risc-v-laptop-deepcomputing-overhaul-introduces-eight-faster-cores-and-innovative-artificnial-intelligence-capabil35/"><u>Bold Transformation of the World's Premier RISC-V Laptop: DeepComputing Overhaul Introduces Eight Faster Cores & Innovative Artificnial Intelligence Capabilities for Enhanced Performance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-top-4-open-source-slack-substitutes-to-elevate-your-teams-communication-game-explore-the-options-on-zdnet/"><u>Discover Top 4 Open-Source Slack Substitutes to Elevate Your Team's Communication Game - Explore the Options on ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 14 Plus Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-poco-c51-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Poco C51? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/schritt-fur-schritt-anleitung-zum-schutz-einer-externen-speicherungseinheit/"><u>Schritt-Für-Schritt-Anleitung Zum Schutz Einer Externen Speicherungseinheit</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/understanding-the-impact-of-temperature-on-your-ev-tips-and-strategies/"><u>Understanding the Impact of Temperature on Your EV: Tips and Strategies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-computer-gear-expert-analysis-by-toms-hardware-hub/"><u>Unraveling Computer Gear: Expert Analysis by Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-toms-hardware-hub-t17238628794163/"><u>Unveiling Gadgets with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-technology-by-toms-experts/"><u>Unveiling the Best in Technology by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-hp-omnibook-x-powerful-efficiency-and-a-remarkable-16-hour-battery-life-achievement/"><u>Unveiling the HP OmniBook X: Powerful Efficiency and a Remarkable 16-Hour Battery Life Achievement</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-tech-reviews-and-insights-with-toms-hardware/"><u>Unveiling Top Tech Reviews & Insights with Tom's Hardware</u></a></li>
 </ul></div>
 

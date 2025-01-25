@@ -1,7 +1,7 @@
 ---
 title: "Top Pick: Why This Affordable Smart Lock at $80 Off Deserves a Spot in Your Home - Insights From ZDNet"
-date: 2024-09-18 11:12:14
-updated: 2024-09-20 10:45:57
+date: 2025-01-20T01:04:51.865Z
+updated: 2025-01-24T17:03:10.179Z
 tags:
   - kitchen-household
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 ![EcoFlow Delta Pro 3 portable battery](https://www.zdnet.com/a/img/resize/493a0e14c2076aa82dd15d43be4c51552702595c/2024/06/20/9d465ec0-9e8c-4fee-b2aa-d5b5ce343244/2.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -77,6 +81,10 @@ How did it fare? The power returned about three hours later, and the Delta Pro 3
 
 Aside from this power outage, [we've tested](https://www.zdnet.com/home-and-office/energy/how-we-test-portable-power-stations/) the Delta Pro 3 as a standalone battery to power a home office setup, keeping consumption between 50W and 120W. The DP3 powered an LCD monitor, a Dell XPS laptop, a phone charger, and a USB-C tablet charger for four days. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Accessories-Emergencies%2Fdp%2FB0D14FMFZD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1) is an excellent option for anyone looking for a higher-capacity portable battery for camping or as an emergency home backup, as long as you're willing to pay the price, literally. It's not a cheap option among portable batteries, priced at $3199, which is about $400 less than the price of a [Delta Pro and Dual fuel inverter generator bundle](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Generator-High-Power-Appliances%2Fdp%2FB0BKGLCVRR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1).
@@ -106,11 +114,24 @@ Though priced high, the Delta Pro 3 seamlessly integrates into an EcoFlow home b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-ultimate-smartphone-list-for-optimal-gear-vr-functionality-2-written-by-john-doe-mba-expert-in-strategic-business-planning-and-marketing/"><u>[New] In 2024, The Ultimate Smartphone List for Optimal Gear VR Functionality (2 Written By John Doe, MBA | Expert in Strategic Business Planning and Marketing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-vlogs-to-viral-jake-pauls-online-empire-expansion-for-2024/"><u>[Updated] From Vlogs to Viral Jake Paul’s Online Empire Expansion for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-samsung-galaxy-s23-ultra-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Samsung Galaxy S23 Ultra Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-qualcomms-snapdragon-x-challenges-the-dominance-of-apple-silicon-in-processor-performance/"><u>How Qualcomm's Snapdragon X Challenges the Dominance of Apple Silicon in Processor Performance</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-15windowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your Apple iPhone 15/Windows/Mac</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-a05-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy A05</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-chipolo-one-trustworthy-and-effective-bluetooth-monitoring-gadget/"><u>In-Depth Review of the Chipolo One: Trustworthy and Effective Bluetooth Monitoring Gadget</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-amd-ryzen-9000-lineup-high-performance-cpus-now-ready-for-purchase/"><u>Introducing AMD Ryzen 9000 Lineup: High-Performance CPUs Now Ready for Purchase!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/is-spotify-poised-to-take-over-in-vehicle-entertainment-systems/"><u>Is Spotify Poised to Take Over in Vehicle Entertainment Systems?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-correct-video-orientation-for-free-top-10-desktop-and-online-apps/"><u>Updated 2024 Approved Correct Video Orientation for Free Top 10 Desktop and Online Apps</u></a></li>
+</ul></div>
+

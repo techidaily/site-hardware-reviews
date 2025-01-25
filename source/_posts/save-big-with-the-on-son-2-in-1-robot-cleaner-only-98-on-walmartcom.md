@@ -1,7 +1,7 @@
 ---
 title: Save Big with the On Son 2 in 1 Robot Cleaner - Only $98 on Walmart.com!
-date: 2024-09-19 14:39:58
-updated: 2024-09-20 10:40:32
+date: 2025-01-20T21:18:42.395Z
+updated: 2025-01-24T23:41:08.009Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,29 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-digital-deck-changes-predicting-the-future-of-fb-ads-for-2024/"><u>[New] The Digital Deck Changes Predicting the Future of FB Ads for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-analyzing-audio-editing-tools-in-magix-producer-suite/"><u>2024 Approved Analyzing Audio Editing Tools in Magix Producer Suite</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-broadcast-your-games-with-professional-skill/"><u>2024 Approved Broadcast Your Games with Professional Skill</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-google-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Google Unlock Without Password</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-nord-n30-se-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus Nord N30 SE to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-action-cams-that-keep-moving-steady/"><u>Leading Action Cams That Keep Moving Steady</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-performance-crucial-hits-the-target-with-ddr5-6000-professional-memory-overclock-edition/"><u>Maximizing Performance: Crucial Hits the Target with DDR5-6000 Professional Memory Overclock Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-comeback-of-limewire-pioneering-a-new-era-in-music-by-introducing-nft-technology/"><u>The Comeback of LimeWire: Pioneering a New Era in Music by Introducing NFT Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-of-interactive-media-how-googles-new-pixel-tablet-transforms-into-an-advanced-smart-display/"><u>The Future of Interactive Media: How Google's New Pixel Tablet Transforms Into an Advanced Smart Display</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-secret-to-imovies-edge-cropping/"><u>The Secret to iMovie’s Edge Cropping</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/thrilling-benchmarks-of-the-first-edition-ddr5-7200-corsair-dominator-titanium-unleashing-ultra-high-performance-with-dual-24gb-modules/"><u>Thrilling Benchmarks of the First Edition DDR5-7200 Corsair Dominator Titanium: Unleashing Ultra High Performance with Dual 24GB Modules</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Reviews: The Ultimate Guide to Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-10-awesome-mobile-gaming-experiences-without-internet/"><u>Top 10 Awesome Mobile Gaming Experiences Without Internet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-hardware-mysteries-with-toms-expertise/"><u>Unraveling Hardware Mysteries with Tom's Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/us-microchip-leader-settles-dispute-over-ip-theft-accusations-with-chinese-state-chip-company-jinhua/"><u>US Microchip Leader Settles Dispute Over IP Theft Accusations With Chinese State Chip Company Jinhua</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Taking Screenshots: Dell, Lenovo & Mac Laptop Guides"
-date: 2025-01-11T18:22:56.120Z
-updated: 2025-01-18T16:28:41.275Z
+date: 2025-01-18T18:21:32.142Z
+updated: 2025-01-24T19:23:09.000Z
 tags:
   - laptops
 categories:
@@ -27,13 +27,13 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to take screenshots on any laptop
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements
@@ -46,6 +46,10 @@ While the process for taking a screenshot on every laptop varies somewhat, the b
 
 ### **Option 1: The old fashioned way**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use your Print Screen key
 
 The simplest and way to capture your entire screen at once is to use Windows' built in hotkey: the **Print Screen Key.** The non-standard nature of laptop keyboards mean this key might be in one of several places. Often its located near the top right, as it would be on a full-sized keyboard, but it can also be on the bottom, as it is on the Lenovo example below. 
@@ -55,10 +59,6 @@ In any case, it should be easy to find by looking for the key marked **Prt**, **
 The button can be just about anywhere, so just look for something that looks as similar as possible to the legend on this one.
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
 
@@ -73,10 +73,6 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 Michael Gariffo/ZDNET
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
@@ -94,6 +90,10 @@ Michael Gariffo/ZDNET
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Press Shift+Cmd+3
 
 To take a screenshot on any Mac, including MacBook laptops, just press Shift+Cmd+3\. Unlike Windows, this won't copy the screen to your clipboard, it will actually save the capture as an image file on your desktop using the format "Screen Shot \[date\] at \[time\].png."
@@ -110,13 +110,13 @@ Michael Gariffo/ZDNET
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,20 +157,24 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-bridging-the-gap-between-social-platform-and-streaming-devices-for-2024/"><u>[New] Bridging the Gap Between Social Platform and Streaming Devices for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-space-to-nature-yts-guide-for-dynamic-green-screen-filmmaking-for-2024/"><u>[New] From Space to Nature YT's Guide for Dynamic Green Screen Filmmaking for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-final-cut-pro-for-beginners-the-definitive-starter-pack/"><u>2024 Approved Final Cut Pro for Beginners The Definitive Starter Pack</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-reviews-and-advice-on-gadgets-trust-in-toms-hardware/"><u>Comprehensive Reviews and Advice on Gadgets - Trust in Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-in-depth-analysis-of-latest-hardware-gadgets/"><u>Expert Reviews by Tom: In-Depth Analysis of Latest Hardware Gadgets</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-13-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 13 Data Completely | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-pixelmaster-elite-os-xwin-edition/"><u>In 2024, PixelMaster Elite OS X/Win Edition</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-keychron-k2-he-special-edition-retro-charm-meets-modern-tech/"><u>In-Depth Analysis of the Keychron K2 HE Special Edition: Retro Charm Meets Modern Tech</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/investing-in-quality-the-path-to-top-tier-fb-video-ads-for-2024/"><u>Investing in Quality The Path to Top-Tier FB Video Ads for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-top-gains-on-social-media-secure-and-scalable-tactics/"><u>The Top Gains on Social Media - Secure & Scalable Tactics</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-choosing-a-superior-key-tracker-for-the-year-2n24/"><u>The Ultimate Guide to Choosing a Superior Key Tracker for the Year 2N24</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-all-things-hardware-by-tom/"><u>The Ultimate Resource for All Things Hardware by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-choosing-quality-components-by-tom/"><u>The Ultimate Resource for Choosing Quality Components by Tom</u></a></li>
-<li><a href="https://win-webster.techidaily.com/tiga-langkah-gratis-untuk-mengenali-dan-menemukan-file-yang-hapus-abad-ke-3/"><u>Tiga Langkah Gratis Untuk Mengenali Dan Menemukan File Yang Hapus Abad Ke-3</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-tom-in-depth-reviews-of-pc-hardware/"><u>Unveiling Gadgets with Tom: In-Depth Reviews of PC Hardware</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-leaders-in-learning-select-sci-yt-channels/"><u>[New] 2024 Approved Leaders in Learning Select Sci-YT Channels</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-clever-ways-to-neglect-edge-academy-vids/"><u>[New] Clever Ways to Neglect EDGE Academy Vids</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-step-by-step-screen-record-your-win10-game-log-for-2024/"><u>[New] Step-by-Step Screen Record Your Win10 Game Log for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-from-amateurs-to-pros-mastering-mac-audio-in-audacity-for-2024/"><u>[Updated] From Amateurs to Pros Mastering Mac Audio in Audacity for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-unraveling-windows-10-complexities-simplified/"><u>[Updated] In 2024, Unraveling Windows 10 Complexities Simplified</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-definitions-of-computer-hardware-and-peripherals-exploring-the-toms-hardware-glossary/"><u>Comprehensive Definitions of Computer Hardware & Peripherals: Exploring the Tom's Hardware Glossary</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-uphere-m201-ssd-heatsink-evaluation-at-just-5-enhancing-your-nvme-drives-performance/"><u>Essential UpHere M201 SSD Heatsink Evaluation at Just $5 - Enhancing Your NVMe Drive's Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hp-omnibook-x-performance-analysis-ultraportable-laptop-with-extended-battery-life/"><u>HP OmniBook X Performance Analysis - Ultraportable Laptop with Extended Battery Life</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-graphics-a-comprehensive-review-of-pixios-game-changer-the-oled-max-monitor-px277/"><u>Mastering Graphics: A Comprehensive Review of Pixio's Game Changer - The OLED Max Monitor (PX277)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-motherboard-compatibility-a-review-of-the-gskill-trident-z5-rgb-ddr5-640cu-c32-dual-channel-memory-solution/"><u>Maximizing Motherboard Compatibility: A Review of the G.SKILL Trident Z5 RGB DDR5-640cu C32 Dual-Channel Memory Solution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-tech-trends-the-toms-hardware-compendium/"><u>Navigating Tech Trends: The Tom's Hardware Compendium</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/never-attempt-to-remove-any-penetrating-objects-from-an-eye-injury-it-may-exacerbate-the-damage-or-introduce-infection/"><u>Never Attempt to Remove Any Penetrating Objects From an Eye Injury; It May Exacerbate the Damage or Introduce Infection.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-clevetura-clvx-1-a-detailed-look-at-its-touch-sensitivity-and-ergonomics-for-typists/"><u>The Ultimate Guide to Clevetura CLVX 1 - A Detailed Look at Its Touch Sensitivity & Ergonomics for Typists</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/thrilling-review-alert-maximize-your-setup-with-the-gskill-trident-z5-rgb-dual-dimm-ddr5-memory-sticks-at-a-sizzling-6400mhz/"><u>Thrilling Review Alert! Maximize Your Setup with the G.SKILL Trident Z5 RGB - Dual-DIMM DDR5 Memory Sticks at a Sizzling 6400MHz</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-dive-into-computer-components-and-hardware/"><u>Tom's Tech Hub: Dive Into Computer Components and Hardware</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-pop-8-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Tecno Pop 8 Users</u></a></li>
 </ul></div>
 

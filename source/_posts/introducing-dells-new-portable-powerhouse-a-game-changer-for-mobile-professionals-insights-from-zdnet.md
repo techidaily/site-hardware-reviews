@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Portable Powerhouse: A Game Changer for Mobile Professionals - Insights From ZDNet"
-date: 2025-01-11T17:27:21.294Z
-updated: 2025-01-18T18:12:34.933Z
+date: 2025-01-21T21:09:41.209Z
+updated: 2025-01-24T16:31:08.130Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,20 +114,22 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-boosting-your-zoom-meetings-chromebook-edition-for-2024/"><u>[New] Boosting Your Zoom Meetings Chromebook Edition for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-pictomixer-dynamic-media-player-for-macos/"><u>[New] PictoMixer Dynamic Media Player for macOS</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-immediate-access-future-legacy-preserving-your-digital-moments/"><u>[Updated] 2024 Approved Immediate Access, Future Legacy Preserving Your Digital Moments</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-top-8-free-and-paid-videomosaic-apps-on-android-platforms/"><u>[Updated] Exploring the Top 8 Free & Paid Videomosaic Apps on Android Platforms</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-complete-walkthrough-of-managing-rar-packages-on-macos-systems/"><u>A Complete Walkthrough of Managing RAR Packages on macOS Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordability-meets-quality-in-the-nuphy-halo75-v2-mechanical-keyboard-review/"><u>Affordability Meets Quality in the Nuphy Halo75 V2 Mechanical Keyboard Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rog-keris-ii-ace-the-gamers-choice-over-deathadder-v3-pro-in-depth-review/"><u>Asus ROG Keris II Ace: The Gamer's Choice Over DeathAdder V3 Pro - In-Depth Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-bluehost-services-insights-into-cloud-vps-and-shared-hosting-performance/"><u>Evaluating Bluehost Services: Insights Into Cloud, VPS & Shared Hosting Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-lenovo-yoga-pro-9i-evaluation-thin-design-with-responsive-keyboard/"><u>Expert Lenovo Yoga Pro 9I Evaluation: Thin Design with Responsive Keyboard</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-jokes-just-a-click-away-iphone/"><u>In 2024, Jokes Just a Click Away (iPhone)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y56-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y56 5G Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/professional-gaming-unleashed-a-comprehensive-review-of-logitechs-lightspeed-powerhouse-the-g-pro-x-2/"><u>Professional Gaming Unleashed: A Comprehensive Review of Logitech's Lightspeed Powerhouse, The G Pro X 2</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-deep-dive-into-cutting-edge-hardware/"><u>Tom's Tech Insights: A Deep Dive Into Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-insights-on-latest-hardware/"><u>Tom's Tech Review: In-Depth Insights on Latest Hardware</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-laptop-has-no-audio-output-problem/"><u>Troubleshooting and Solving 'Laptop Has No Audio Output' Problem</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-leapfrog-content-management-from-youtube-to-dailymotion-effortlessly/"><u>[New] Leapfrog Content Management From YouTube to Dailymotion Effortlessly</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-making-money-fast-the-pathway-to-success-in-youtube-shorts-for-2024/"><u>[Updated] Making Money Fast The Pathway to Success in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-comprehensive-look-at-the-gorgeous-multifaceted-dell-xps-13-convertible-laptop-7390/"><u>A Comprehensive Look at the Gorgeous, Multifaceted Dell XPS 13 Convertible Laptop 7390</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-expansion-solutions-with-the-highpoint-rocket-1608a-a-comprehensive-evaluation-of-added-storage-and-increased-power/"><u>Advanced Expansion Solutions with the HighPoint Rocket 1608A: A Comprehensive Evaluation of Added Storage and Increased Power</u></a></li>
+<li><a href="https://win-news.techidaily.com/alle-fotos-op-mijn-computer-vinden-in-windows-10/"><u>Alle Foto's Op Mijn Computer Vinden in Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-pro-b760m-ct-csm-unveiled-comprehensive-review-for-serious-gamers-and-builders/"><u>ASUS Pro B760M-CT CSM Unveiled: Comprehensive Review for Serious Gamers and Builders</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-breakdown-by-tom-your-trusted-source/"><u>Expert Hardware Breakdown by Tom - Your Trusted Source</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-electronics-with-toms-wisdom/"><u>Exploring the World of Electronics with Tom's Wisdom</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-motorola-razr-40-ultra-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Motorola Razr 40 Ultra Pattern Lock Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-news-at-toms-computer-and-electronics-hub/"><u>In-Depth Reviews and News at Tom's Computer & Electronics Hub</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leveraging-fb-platforms-for-public-health-initiatives-for-2024/"><u>Leveraging FB Platforms for Public Health Initiatives for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-horizons-in-computing-a-look-at-toms-hardware-discoveries/"><u>Navigating New Horizons in Computing - A Look at Tom's Hardware Discoveries</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-easy-guide-surface-driver-installation-and-updates/"><u>Quick and Easy Guide: Surface Driver Installation and Updates</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncovering-the-potential-of-the-latest-geekworm-x1/"><u>Uncovering the Potential of the Latest GeekWorm X1</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-the-power-of-technology-the-ultimate-guide-to-toms-hardware-selection/"><u>Unlock the Power of Technology: The Ultimate Guide to Tom's Hardware Selection</u></a></li>
 </ul></div>
 

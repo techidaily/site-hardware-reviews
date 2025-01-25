@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Snapping Screenshots on Popular Laptops - Dell, Lenovo, Mac
-date: 2025-01-17T19:22:27.424Z
-updated: 2025-01-18T17:43:48.029Z
+date: 2025-01-23T00:50:04.669Z
+updated: 2025-01-25T00:04:32.371Z
 tags:
   - laptops
 categories:
@@ -26,22 +26,26 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to take screenshots on any laptop
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 1: The old fashioned way**
@@ -55,10 +59,6 @@ In any case, it should be easy to find by looking for the key marked **Prt**, **
 The button can be just about anywhere, so just look for something that looks as similar as possible to the legend on this one.
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
 
@@ -90,6 +90,10 @@ Michael Gariffo/ZDNET
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Press Shift+Cmd+3
 
 To take a screenshot on any Mac, including MacBook laptops, just press Shift+Cmd+3\. Unlike Windows, this won't copy the screen to your clipboard, it will actually save the capture as an image file on your desktop using the format "Screen Shot \[date\] at \[time\].png."
@@ -100,11 +104,11 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Is there an easy way to record video of my laptop screen too?
 
@@ -113,10 +117,6 @@ There sure is. For Mac users, we've already covered [how to capture recordings o
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,22 +157,18 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-essential-guides-to-the-top-10-student-focused-history-vlogs/"><u>[New] In 2024, Essential Guides to the Top 10 Student-Focused History Vlogs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-strategies-for-incorporating-secondary-shots-in-filmmaking/"><u>[New] Strategies for Incorporating Secondary Shots in Filmmaking</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-elite-group-of-high-speed-video-snapshot-apps/"><u>[Updated] In 2024, Elite Group of High-Speed Video Snapshot Apps</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-the-secrets-of-your-lost-iphone-x/"><u>2024 Approved Unlock the Secrets of Your Lost iPhone X</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-reviews-and-comparisons-by-toms-gear-experts/"><u>Advanced Reviews & Comparisons by Tom's Gear Experts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/economical-aerial-aviators-affordable-drones-guide-(500-for-2024/"><u>Economical Aerial Aviators Affordable Drones Guide <$500 for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-a-comprehensive-gadget-guide/"><u>Inside Tom's Hardware: A Comprehensive Gadget Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/is-the-asus-rog-keris-ii-ace-a-worthy-successor-to-the-legendary-ragedeathadder-v3-pro-full-review-inside/"><u>Is the Asus ROG Keris II Ace a Worthy Successor to the Legendary RageDeathAdder V3 Pro? Full Review Inside</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/next-gen-processors-faceoff-the-ryzen-5-9600x-vs-ryzen-n-7-9700x-review-for-ultimate-gaming-experience-on-zen-5-architecture/"><u>Next-Gen Processors Faceoff: The Ryzen 5 9600X Vs. Ryzen N 7 9700X Review for Ultimate Gaming Experience on Zen 5 Architecture</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pnyrp60review-great-performance-or-just-good-enough-for-a-1tb-flash-drive/"><u>PNY_RP60_Review - Great Performance or Just Good Enough for a 1TB Flash Drive?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/solid-reliability-meets-space-saving-in-our-6tb-my-passport-review/"><u>Solid Reliability Meets Space Saving in Our 6TB My Passport Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-and-hardware-analysis/"><u>Tom's Tech Reviews: Comprehensive Insights and Hardware Analysis</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-honor-x8b-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Honor X8b Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-vivo-by-fonelab-android-recover-data/"><u>Undelete lost data from Vivo</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-tech-secrets-with-toms-hardware-insights/"><u>Unlocking Tech Secrets with Tom's Hardware Insights</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-take-your-videos-to-the-next-level-adding-effects-in-fcp-x-3-steps/"><u>Updated Take Your Videos to the Next Level Adding Effects in FCP X (3 Steps)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/windows-11-compatible-how-to-download-and-update-your-amd-radeon-hd-7870-graphics-card-drivers/"><u>Windows 11 Compatible - How to Download & Update Your AMD Radeon HD 7870 Graphics Card Drivers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-decoding-the-core-contrasts-between-youtube-and-dailymention/"><u>[New] Decoding the Core Contrasts Between YouTube and DailyMention</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-discovering-the-hidden-gems-in-asmr-creation-for-2024/"><u>[New] Discovering the Hidden Gems in ASMR Creation for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-video-excellence-mirrorless-cameras-vs-traditional-dslrs/"><u>[New] In 2024, Video Excellence Mirrorless Cameras vs Traditional DSLRs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-five-key-approaches-to-youtube-livestream-capture/"><u>[Updated] In 2024, Five Key Approaches to Youtube Livestream Capture</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-pc-world-a-comprehensive-resource/"><u>Exploring Tom's PC World: A Comprehensive Resource</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-pixio-px277-oled-the-hidden-gem-among-gaming-displays/"><u>In-Depth Analysis of the Pixio PX277 OLED - The Hidden Gem Among Gaming Displays</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-xiaomi-redmi-k70e-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Xiaomi Redmi K70E FRP Without Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/online-free-video-converter-transform-amv-into-mp4-with-movavis-solution/"><u>Online Free Video Converter - Transform AMV Into MP4 with Movavi's Solution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-gaming-displays-a-closer-look-at-the-speedy-performance-of-a-45-inch-oled-monitor-aoc-agon-pro-ag456uczd/"><u>Revolutionizing Gaming Displays – A Closer Look at the Speedy Performance of a 45-Inch OLED Monitor (AOC Agon Pro AG456UCZD)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-a-closer-look-performance-testing-and-review-for-raspberry-pi-intelligent-unit-kit/"><u>Taking a Closer Look: Performance Testing and Review for Raspberry Pi Intelligent Unit Kit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-stay-chilled-in-depth-analysis-of-the-silent-and-powerful-levelplay-combat-air-ca4-cpu-cooler/"><u>The Ultimate Guide to Stay Chilled: In-Depth Analysis of the Silent & Powerful Levelplay Combat Air CA4 CPU Cooler</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-review-of-the-logitech-g5s-tkl-compact-powerful-keyboard-at-an-attainable-price-point/"><u>The Ultimate Review of the Logitech G5s TKL - Compact, Powerful Keyboard at an Attainable Price Point</u></a></li>
 </ul></div>
 

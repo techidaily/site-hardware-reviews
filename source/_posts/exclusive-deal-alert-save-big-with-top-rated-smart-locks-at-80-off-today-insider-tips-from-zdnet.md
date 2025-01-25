@@ -1,7 +1,7 @@
 ---
 title: Exclusive Deal Alert! Save Big with Top-Rated Smart Locks at $80 Off Today - Insider Tips From ZDNet
-date: 2024-09-19 15:48:21
-updated: 2024-09-20 12:10:24
+date: 2025-01-21T16:34:10.113Z
+updated: 2025-01-24T21:20:57.290Z
 tags:
   - kitchen-household
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/61482eb5fb9879492912080a18d7b8e5d6
 ![EcoFlow Delta Pro 3 portable battery](https://www.zdnet.com/a/img/resize/493a0e14c2076aa82dd15d43be4c51552702595c/2024/06/20/9d465ec0-9e8c-4fee-b2aa-d5b5ce343244/2.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -77,6 +81,10 @@ How did it fare? The power returned about three hours later, and the Delta Pro 3
 
 Aside from this power outage, [we've tested](https://www.zdnet.com/home-and-office/energy/how-we-test-portable-power-stations/) the Delta Pro 3 as a standalone battery to power a home office setup, keeping consumption between 50W and 120W. The DP3 powered an LCD monitor, a Dell XPS laptop, a phone charger, and a USB-C tablet charger for four days. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Accessories-Emergencies%2Fdp%2FB0D14FMFZD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1) is an excellent option for anyone looking for a higher-capacity portable battery for camping or as an emergency home backup, as long as you're willing to pay the price, literally. It's not a cheap option among portable batteries, priced at $3199, which is about $400 less than the price of a [Delta Pro and Dual fuel inverter generator bundle](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Generator-High-Power-Appliances%2Fdp%2FB0BKGLCVRR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1).
@@ -106,11 +114,31 @@ Though priced high, the Delta Pro 3 seamlessly integrates into an EcoFlow home b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-list-of-the-best-marriage-videos-celebrations-captured-online-8/"><u>[New] In 2024, A List of the Best Marriage Videos - Celebrations Captured Online (8)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-best-vhs-80s-effects-to-use-in-video-editing/"><u>[New] In 2024, Best VHS 80S Effects to Use in Video Editing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-techniques-for-perfect-chroma-key-compositing/"><u>[New] In 2024, Techniques for Perfect Chroma Key Compositing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-windows-mac-owners-discover-top-8-no-cost-4k-viewers/"><u>2024 Approved Windows Mac Owners - Discover Top 8 No-Cost 4K Viewers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/capturing-victories-effective-strategies-with-w11-for-2024/"><u>Capturing Victories Effective Strategies with W11 for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-language-tips-birthday-compliments/"><u>Global Language Tips: Birthday Compliments</u></a></li>
+<li><a href="https://video-capture.techidaily.com/how-to-securely-destroy-digital-information-using-bitraser-enterprise-complete-visual-guide/"><u>How to Securely Destroy Digital Information Using BitRaser Enterprise - Complete Visual Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-geekworm-x1011-network-attached-storage-device/"><u>In-Depth Analysis of the Geekworm X1011 Network Attached Storage Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-meets-artificial-intelligence-comprehensive-insights-into-the-brainiac-learning-setup/"><u>Raspberry Pi Meets Artificial Intelligence: Comprehensive Insights Into the 'Brainiac' Learning Setup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/rigorous-testing-of-sabrent-rocket-nano-2242-a-1tb-ssd-review-for-m2-needs/"><u>Rigorous Testing of Sabrent Rocket Nano 2242: A 1TB SSD Review for M.2 Needs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamlessly-upgrading-epson-wf-7620-software-on-your-windows-system-tutorial/"><u>Seamlessly Upgrading Epson WF-7620 Software on Your Windows System: Tutorial</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seed-selection/"><u>Seed Selection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-insights-from-toms-hardware/"><u>The Ultimate Resource for Tech Enthusiasts - Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-newest-gadgets/"><u>Tom's Tech Reviews: In-Depth Analysis of Newest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-potential-a-comprehensive-review-of-the-gskill-trident-z5-rgb-for-advanced-ddr5-dual-dimm-systems/"><u>Unlocking Potential: A Comprehensive Review of the G.SKILL Trident Z5 RGB for Advanced DDR5 Dual-DIMM Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-performance-a-review-on-akasas-advanced-gecko-ssd-heatsink-and-airflow-enhancer/"><u>Unveiling the Performance: A Review on Akasa's Advanced Gecko SSD Heatsink and Airflow Enhancer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/venturing-into-new-realities-best-metaverse-headsets-guide-for-2024/"><u>Venturing Into New Realities Best Metaverse Headsets Guide for 2024</u></a></li>
+</ul></div>
+

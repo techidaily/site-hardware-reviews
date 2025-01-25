@@ -1,7 +1,7 @@
 ---
 title: "Unboxing Lenovo ThinkPad X1 Fold: A Curious Blend of Playful Innovation & Premium Pricing Explored by ZDNet"
-date: 2025-01-15T19:20:05.832Z
-updated: 2025-01-18T16:16:37.395Z
+date: 2025-01-21T17:12:15.556Z
+updated: 2025-01-24T18:25:53.938Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Max Buondonno/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ The new version has an improved design, upgraded specs, and a similarly high ask
 [ZDNET RECOMMENDS Lenovo ThinkPad X1 Fold With a huge 16.3-inch foldable screen and a durable design, the ThinkPad X1 Fold is an interesting look at the future of laptops. View at Bhphotovideo](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1795356-REG%2Flenovo%5F21es001wus%5F16%5F3%5Fthinkpad%5Fx1%5Ffold.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -122,7 +122,7 @@ Surprisingly, Windows 11 runs well on the ThinkPad X1 Fold, with one huge except
 It's usable, sure, but it's a very weird bug that's likely caused by the weird form factor of the X1 Fold. It's hard for Windows to figure out when you want to use it as a tablet and when you want to use it as a laptop. The only time it gets it right is when you use the device in clamshell mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -161,24 +161,24 @@ I'm not going to lie, I'll miss the X1 Fold when I send my review unit back. Hav
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discover-youtubes-frame-advantage-five-free-tools/"><u>[New] 2024 Approved Discover YouTube's Frame Advantage - Five Free Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-innovative-interface-intensity/"><u>[New] In 2024, Innovative Interface Intensity</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-secrets-of-professional-level-iptv-capturing/"><u>[Updated] Secrets of Professional-Level IPTV Capturing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-mp4mpl2s-creation-from-twitter-videos/"><u>2024 Approved MP4/MPL2S Creation From Twitter Videos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/apple-unveils-revolutionary-passkey-at-wwdc-2022-a-new-era-of-authentication-begins-tech-news/"><u>Apple Unveils Revolutionary Passkey at WWDC 2022 - A New Era of Authentication Begins | Tech News</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-the-latest-atx-board-from-maxsun-the-stylish-high-capacity-z790m-d5-ice-with-5x-m2-options/"><u>Comprehensive Guide to The Latest ATX Board From Maxsun: The Stylish, High-Capacity Z790M D5 Ice with 5X M.2 Options</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-the-new-apple-m3-pro-and-max-chipsets-insights-for-savvy-shoppers/"><u>Comprehensive Guide to the New Apple M3, Pro, and Max Chipsets: Insights for Savvy Shoppers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-id-cooling-fx360-pro-cpu-cooler-great-performance-at-only-60/"><u>Expert Analysis of ID-Cooling FX360 Pro Cpu Cooler - Great Performance at Only $60!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-computer-hardware-from-toms-resource-hub/"><u>Expert Insights Into Computer Hardware From Tom's Resource Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-top-hardware-solutions-discover-insights-at-toms-tech-hub/"><u>Exploring Top Hardware Solutions – Discover Insights at Tom's Tech Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/game-changer-in-depth-analysis-and-testing-of-the-lightning-fast-logiteche-g-pro-x-2-keyboard-perfect-for-hardcore-players/"><u>Game Changer: In-Depth Analysis and Testing of the Lightning-Fast Logiteche G Pro X 2 Keyboard - Perfect for Hardcore Players</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-3d-creations-with-elegoo-saturn-4-ultra-an-in-depth-assessment/"><u>Mastering the Art of 3D Creations with Elegoo Saturn 4 Ultra: An In-Depth Assessment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-audio-malfunctions-on-hp-computers-with-windows-11-solutions/"><u>Resolving Audio Malfunctions on HP Computers with Windows 11 Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-iphones-silent-mode-a-step-by-step-guide/"><u>Solving iPhone's Silent Mode: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-in-depth-tech-reviews/"><u>Tom's Computer Components | In-Depth Tech Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-your-ultimate-guide-to-computer-components/"><u>Tom's Tech Reviews: Your Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-corsair-mp600-mini-1tb-ssd-top-pick-for-e27t-m2-drives/"><u>Ultimate Guide to Corsair MP600 Mini 1TB SSD - Top Pick for E27T M.2 Drives</u></a></li>
-<li><a href="https://article-tips.techidaily.com/unlocking-your-channels-potential-the-cost-analysis-for-2024/"><u>Unlocking Your Channel's Potential The Cost Analysis for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-gadgets-a-dive-into-toms-hardware-analyses/"><u>Unveiling Cutting-Edge Gadgets - A Dive Into Tom's Hardware Analyses</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-essential-guide-to-making-top-tier-educational-videos-for-2024/"><u>[New] The Essential Guide to Making Top-Tier Educational Videos for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/"><u>[Updated] 4 Solutions for iPhone HDR Video Washed-Out in Premiere Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-premium-power-solutions-for-gopro-hero5-black-certified-and-imposters/"><u>[Updated] Premium Power Solutions for GoPro Hero5 Black - Certified & Imposters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-iphone-guide-for-free-downloaded-podcast-episodes/"><u>2024 Approved Step-by-Step iPhone Guide for Free Downloaded Podcast Episodes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726027370573-mkv/"><u>初学者向けMKVデコード：プレミアプロ上での失敗回避手引き</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-new-voice-a-new-world-top-ten-reasons-to-learn-a-language/"><u>A New Voice, A New World: Top Ten Reasons to Learn a Language</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breakdown-and-examination-of-the-groundbreaking-4tb-wd-blue-sn50e-drive-by-western-digital/"><u>Breakdown and Examination of the Groundbreaking 4TB WD Blue SN50e Drive by Western Digital</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/embellish-slides-with-sonic-elements-for-2024/"><u>Embellish Slides with Sonic Elements for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-overview-2024s-comprehensive-video-show-app/"><u>Expert Overview 2024'S Comprehensive Video Show App</u></a></li>
+<li><a href="https://blog-min.techidaily.com/filtrage-en-ligne-gratuit-convertissez-vos-images-jp2-vers-le-format-jpg-avec-movavi/"><u>Filtrage en Ligne Gratuit : Convertissez Vos Images JP2 Vers Le Format JPG Avec Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-motorola-moto-g04-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Motorola Moto G04 Through Google Earth?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-unboxing-and-testing-the-raspberry-pi-ai-learning-set/"><u>In-Depth Review: Unboxing and Testing the Raspberry Pi AI Learning Set</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-tech-insights-at-toms-hardware/"><u>In-Depth Reviews & Tech Insights at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-sabrent-rocket-nano-2242-1tb-ssd-evaluation-the-ultimate-m2-pcie-gen3-x4-storage-solution/"><u>In-Depth Sabrent Rocket Nano 2242 1TB SSD Evaluation – The Ultimate M.2 PCIe Gen3 X4 Storage Solution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-tech-world-tips-and-tricks-by-toms-hardware/"><u>Navigate the Tech World: Tips & Tricks by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-trusty-reviews-at-toms-hardware/"><u>Navigating the World of Electronics with Trusty Reviews at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-chronicles-in-depth-analysis-of-cutting-edge-hardware/"><u>Tom's Computer Chronicles: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-performance-showdown-gskill-trident-z5-rgb-ddr5-6400mhz-c3248gb-memory-kit-review-compatible-with-dual-channel-motherboards/"><u>Ultimate Performance Showdown: G.SKILL Trident Z5 RGB DDR5 6400MHz C32/48GB Memory Kit Review - Compatible with Dual-Channel Motherboards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-with-toms-technology-insights/"><u>Unveiling the Latest in Hardware with Tom's Technology Insights</u></a></li>
 </ul></div>
 

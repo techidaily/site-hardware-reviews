@@ -1,7 +1,7 @@
 ---
 title: "Anticipating Innovations at Apple's Event: The Revolutionary M4 Mac Mini, Redesigned iPads, and Cutting-Edge Apple Intelligence Unveiled"
-date: 2025-01-17T17:26:09.418Z
-updated: 2025-01-18T17:33:30.777Z
+date: 2025-01-19T23:41:45.831Z
+updated: 2025-01-24T17:12:12.648Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,18 +118,22 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-how-to-create-professional-gopro-vlogs/"><u>[New] 2024 Approved How to Create Professional Gopro Vlogs</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-elevate-your-package-prelude/"><u>[Updated] Elevate Your Package Prelude</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/crucial-insights-evaluating-maxsuns-newest-micro-atx-marvel-the-z79astern-d5-ice-motherboard-with-5x-m2-support/"><u>Crucial Insights: Evaluating Maxsun's Newest Micro ATX Marvel, The Z79astern D5 Ice Motherboard With 5X M.2 Support</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/enhance-workflow-the-essential-list-of-8-scheduling-apps-for-2024/"><u>Enhance Workflow The Essential List of 8 Scheduling Apps for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-hardware-guided-by-toms-expertise/"><u>Exploring Computer Hardware - Guided by Tom's Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-value-of-cytrons-uno-rp2040-board-for-cost-conscious-makers/"><u>Exploring the Value of Cytron's Uno RP2040 Board for Cost-Conscious Makers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-5-anticipating-its-arrival-whats-the-scheduled-timeline/"><u>GPT-5: Anticipating Its Arrival – What's the Scheduled Timeline?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratis-online-converter-de-rmvb-para-avi-pelo-movavi/"><u>Gratis Online Converter De RMVB Para AVI Pelo Movavi</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-google-pixel-8-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Google Pixel 8 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/mastering-upside-down-and-sideways-iphone-photos-for-2024/"><u>Mastering Upside-Down and Sideways iPhone Photos for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/saying-bonjour-the-elegant-way-to-express-happiness-and-goodwill/"><u>Saying 'Bonjour': The Elegant Way to Express Happiness & Goodwill</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-insights-from-toms-computer-gear-exploration/"><u>Unveiling the Insights From Tom's Computer Gear Exploration</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-of-the-best-top-vlog-video-editing-software-for-hot-platforms-for-2024/"><u>Updated The Best of the Best Top Vlog Video Editing Software for Hot Platforms for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audio-alchemy-mixing-techniques-for-sound-fusion-with-davinci-resolve/"><u>[Updated] Audio Alchemy Mixing Techniques for Sound Fusion with DaVinci Resolve</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-crafting-universal-streams-for-youtube-and-beyond-networks/"><u>[Updated] Crafting Universal Streams for YouTube & Beyond Networks</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-revolutionize-your-video-content-with-free-intro-designers/"><u>[Updated] Revolutionize Your Video Content with Free Intro Designers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-why-teamgroups-t-force-dark-airflow-i-is-a-game-changer-for-nvme-ssd-overheating-issues/"><u>Comprehensive Review: Why TeamGroup's T-Force Dark AirFlow I Is a Game-Changer for NVMe SSD Overheating Issues</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elevate-your-photographic-collection-with-top-cloud-services/"><u>Elevate Your Photographic Collection with Top Cloud Services</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-vibrant-colors-with-the-philips-evonia-49m2c8900-qd-oled-monitor-ultimate-gamers-guide-and-testing/"><u>Experience Vibrant Colors with the Philips Evonia 49M2C8900 QD-OLED Monitor: Ultimate Gamers' Guide and Testing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-cutting-edge-technology-with-toms-hardware-hub/"><u>Exploring Cutting-Edge Technology with Tom's Hardware Hub</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-comprehensive-tutorial-easy-ios-device-screen-capture/"><u>In 2024, Comprehensive Tutorial Easy iOS Device Screen Capture</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-best-way-to-record-a-powerpoint-presentation/"><u>In 2024, The Best Way to Record a PowerPoint Presentation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-the-world-easier-our-pick-of-8-essential-travel-planning-applications/"><u>Navigate the World Easier: Our Pick of 8 Essential Travel Planning Applications</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seek-immediate-medical-attention-for-all-significant-eye-injuries-to-prevent-complications-such-as-glaucoma-or-retinal-detachment/"><u>Seek Immediate Medical Attention for All Significant Eye Injuries to Prevent Complications Such as Glaucoma or Retinal Detachment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://win-studio.techidaily.com/troubleshooting-your-dead-screen-a-step-by-step-solution-by-yl-software-for-when-your-monitor-wont-turn-on/"><u>Troubleshooting Your Dead Screen: A Step-by-Step Solution by YL Software for When Your Monitor Won’t Turn On</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-power-of-raspberry-pi-cm4-a-tribute-to-industrial-innovation/"><u>Unboxing the Power of Raspberry Pi CM4 - A Tribute to Industrial Innovation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-features-and-performance-of-geekworm-x1-011-a-comprehensive-review/"><u>Unveiling the Features and Performance of Geekworm X1 0/1/1 - A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-modern-marvel-expert-analysis-of-the-lian-li-hydroshift-lcd-360s-case/"><u>Unveiling the Modern Marvel: Expert Analysis of the Lian Li Hydroshift LCD 360S Case</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wireless-wonders-how-to-set-up-a-bluetooth-device-with-your-pc-or-laptop/"><u>Wireless Wonders: How to Set Up a Bluetooth Device with Your PC or Laptop</u></a></li>
 </ul></div>
 

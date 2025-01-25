@@ -1,7 +1,7 @@
 ---
 title: Get a Powerhouse 15-Inch Asus Notebook at an Unbeatable Price of $2ˈ/ ZDNET's Inside Scoop on Walmart’s Latest Offer!
-date: 2025-01-17T16:04:57.958Z
-updated: 2025-01-18T17:32:17.443Z
+date: 2025-01-19T23:48:06.844Z
+updated: 2025-01-24T20:07:20.835Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,18 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-the-yuneec-typhoon-h-dive-professional-takeaways/"><u>[New] The Yuneec Typhoon H Dive Professional Takeaways</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-visual-power-in-gaming-channels-a-template-guidebook/"><u>[New] Visual Power in Gaming Channels A Template Guidebook</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultra-30-action-camera-by-garmin-detailed-reviews-and-features/"><u>[Updated] 2024 Approved Ultra 30 Action Camera by Garmin – Detailed Reviews & Features</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-turn-any-surface-into-a-broadcasting-space-with-vlcs-webcam-feature/"><u>2024 Approved Turn Any Surface Into a Broadcasting Space with VLC’s Webcam Feature</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/4-of-our-favorite-free-online-calendars/"><u>4 of Our Favorite Free Online Calendars</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gskill-memory-mastery-dive-into-our-comprehensive-review-of-the-stunning-trident-z5-rgb-perfectly-balanced-2x48gb-ddr5-duo/"><u>G.SKILL Memory Mastery! Dive Into Our Comprehensive Review of the Stunning Trident Z5 RGB - Perfectly Balanced 2X48GB DDR5 Duo</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-resurrect-old-facebook-ties-post-block/"><u>How to Resurrect Old Facebook Ties Post-Block</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-tech-insights-at-toms-hardware-hub/"><u>In-Depth Tech Insights at Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-device-choices-with-toms-hardware-wisdom/"><u>Mastering Your Device Choices with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-digital-world-top-reviews-from-toms-hardware-experts/"><u>Mastering Your Digital World: Top Reviews From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-new-tech-trends-with-guidance-from-toms-hardware-hub/"><u>Navigate New Tech Trends with Guidance From Tom's Hardware Hub</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/quickening-your-live-feed-on-periscope-platform-for-2024/"><u>Quickening Your Live Feed on Periscope Platform for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-comprehensive-guide-and-reviews/"><u>Tom's Tech: Comprehensive Guide and Reviews</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-optimal-tripod-setup-for-smooth-professional-videography/"><u>[New] 2024 Approved Optimal Tripod Setup for Smooth, Professional Videography</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-quick-and-free-ios-apps-to-convert-youtube-videos-to-mp3-files/"><u>[New] In 2024, Quick and Free IOS Apps to Convert YouTube Videos to MP3 Files</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-essential-seo-handbook-for-podcast-success/"><u>[New] The Essential Seo Handbook for Podcast Success</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-top-strategies-for-gamers-recording-with-windows-10-for-2024/"><u>[New] The Top Strategies for Gamers Recording with Windows 10 for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-launching-success-streamline-your-first-youtube-business-channels/"><u>[Updated] In 2024, Launching Success Streamline Your First YouTube Business Channels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audio-craftsmanship-weaving-voiceovers-into-visual-tapestries/"><u>2024 Approved Audio Craftsmanship Weaving Voiceovers Into Visual Tapestries</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341755592-2x48gb-powerhouse-unveiled-explore-the-might-of-gskills-trident-z5-rgb-ddr5-ram-for-ultimate-motherboard-pairing/"><u>2X48GB Powerhouse Unveiled: Explore the Might of G.SKILL's Trident Z5 RGB DDR5 RAM for Ultimate Motherboard Pairing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturing-continuity-a-detailed-manual-for-screen-recordings-on-windows-pcs-for-2024/"><u>Capturing Continuity A Detailed Manual for Screen Recordings on Windows PCs for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-electronics-with-toms-gear-advice/"><u>Expert Insights on Electronics with Tom's Gear Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-gadgets-with-toms-tech-hub/"><u>Exploring the Latest Gadgets with Tom's Tech Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-world-of-high-performance-technology-and-innovation/"><u>Inside Tom's World of High-Performance Technology and Innovation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-gear-with-toms-hardware-experts/"><u>Navigating the World of PC Gear with Tom's Hardware Experts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-split-wmv-videos-for-free-top-5-tools-of-the-year/"><u>New 2024 Approved Split WMV Videos for Free Top 5 Tools of the Year</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-up-to-date-tech-insights-from-toms-hardware/"><u>The Definitive Guide to Up-to-Date Tech: Insights From Tom’s Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-gadgets-the-guide-by-toms-hardware-team/"><u>Unveiling Cutting-Edge Gadgets - The Guide by Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-with-toms-hardware-reviews/"><u>Unveiling New Gadgets with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/virtual-horizon-8-best-metaverse-glasses-and-headsets/"><u>Virtual Horizon 8 Best Metaverse Glasses & Headsets</u></a></li>
 </ul></div>
 

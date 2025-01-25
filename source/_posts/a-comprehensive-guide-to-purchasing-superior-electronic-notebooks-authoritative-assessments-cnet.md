@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Guide to Purchasing Superior Electronic Notebooks – Authoritative Assessments | CNET
-date: 2025-01-11T00:46:10.047Z
-updated: 2025-01-12T23:02:02.746Z
+date: 2025-01-21T16:04:07.889Z
+updated: 2025-01-24T18:38:28.720Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,14 +112,22 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-chromatic-mastery-bridging-theory-and-art/"><u>[New] Chromatic Mastery Bridging Theory and Art</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/aesthetic-excellence-vs-underwhelming-ai-a-review-of-the-microsoft-surface-pro-with-copilotplus/"><u>Aesthetic Excellence Vs. Underwhelming AI: A Review of the Microsoft Surface Pro with Copilot+</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/avoiding-game-crashes-solving-severe-bugs-in-call-of-duty-black-ops-iv/"><u>Avoiding Game Crashes: Solving Severe Bugs in Call of Duty: Black Ops IV</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/facebooks-best-picture-enhancers-top-11-tools-ranked-for-2024/"><u>Facebook's Best Picture Enhancers Top 11 Tools Ranked for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-pova-5-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Pova 5 Pro Phone?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-cutting-edge-computer-components-from-toms-gear-guides/"><u>In-Depth Analysis of Cutting-Edge Computer Components From Tom's Gear Guides</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/secrets-unveiled-the-ultimate-pathway-to-landing-an-elite-job-at-a-top-technology-firm/"><u>Secrets Unveiled: The Ultimate Pathway to Landing an Elite Job at a Top Technology Firm</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-verdict-on-the-pnyrp60-is-this-portable-ssd-worth-your-investment/"><u>The Verdict on the #PNY_RP60 - Is This Portable SSD Worth Your Investment?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-review-top-tech-gadgets-of-2023/"><u>Tom's Hardware Review: Top Tech Gadgets of 2023</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-quintessential-scores-in-8-distinct-movie-spheres/"><u>[New] Quintessential Scores in 8 Distinct Movie Spheres</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unparalleled-hands-on-gear-in-the-vr-world/"><u>[New] Unparalleled Hands-On Gear in the VR World</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/conquering-windows-11s-blue-screen-errors-tutorial/"><u>Conquering Windows 11'S Blue Screen Errors: Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722897717620-explore-the-ultimate-film-guide-11-uplifting-cinema-hits-for-a-positive-vibe/"><u>Explore the Ultimate Film Guide: 11 Uplifting Cinema Hits for a Positive Vibe</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hostingers-web-hosting-offerings-from-vps-to-shared-services/"><u>Exploring Hostinger’s Web Hosting Offerings: From VPS to Shared Services</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-insightful-reviews-on-asus-rog-azoth-extreme-perfect-gaming-rig-under-500/"><u>Get Insightful Reviews on Asus ROG Azoth Extreme - Perfect Gaming Rig Under $500</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-x50iplus-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor X50i+</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From Apple iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mastering-ram-management-in-minecraft/"><u>Mastering RAM Management in Minecraft</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-knowledge-top-picks-from-toms-hardware/"><u>Mastering Your Tech Knowledge: Top Picks From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-reviews-by-tom-a-trusted-source-for-gadget-enthusiasts/"><u>Pioneering Reviews by Tom: A Trusted Source for Gadget Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-insights-on-levelplays-combat-air-ca4-cooler-efficient-and-noise-free-operation-for-your-pc/"><u>Review Insights on Levelplay's Combat Air CA4 Cooler - Efficient and Noise-Free Operation for Your PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-corner-unraveling-the-latest-in-computer-components/"><u>Tom's Tech Corner: Unraveling the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/triple-display-capabilities-expert-review-of-the-gigabyte-b760m-ds3h-ax-micro-atx-motherboard-for-budget-builds/"><u>Triple Display Capabilities: Expert Review of the Gigabyte B760M DS3H AX Micro ATX Motherboard for Budget Builds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-computer-wonders-at-toms-hardware-haven/"><u>Unveiling Computer Wonders at Tom's Hardware Haven</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-dvd-conversion-guide-from-disc-to-digital/"><u>Updated The Ultimate DVD Conversion Guide From Disc to Digital</u></a></li>
 </ul></div>
 

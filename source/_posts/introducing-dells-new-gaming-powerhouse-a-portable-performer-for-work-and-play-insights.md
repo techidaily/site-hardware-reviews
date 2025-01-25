@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights"
-date: 2025-01-11T22:09:21.433Z
-updated: 2025-01-12T17:53:40.844Z
+date: 2025-01-18T23:13:27.609Z
+updated: 2025-01-24T23:31:50.241Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,21 +114,19 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-decoding-the-perks-of-asmr/"><u>[New] Decoding the Perks of ASMR</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-ideal-6-screen-recorders-for-mac-users/"><u>[New] Ideal 6 Screen Recorders for Mac Users</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-decipher-youtubes-mysteries-with-advanced-insights-from-social-blade/"><u>[Updated] 2024 Approved Decipher YouTube's Mysteries with Advanced Insights From Social Blade</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-apowersoft-examined-a-full-review-of-its-capabilities/"><u>[Updated] Apowersoft Examined A Full Review of Its Capabilities</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-iphone-photography-top-angles-for-stunning-images/"><u>2024 Approved Unlock iPhone Photography Top Angles for Stunning Images</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-comparisons-and-reviews-by-toms-hardware-specialists/"><u>Advanced Gadget Comparisons and Reviews by Tom's Hardware Specialists</u></a></li>
-<li><a href="https://win-popular.techidaily.com/complete-tutorial-streaming-discovery-channels-original-programming-via-smart-tv-or-set-top-box/"><u>Complete Tutorial: Streaming Discovery Channel's Original Programming via Smart TV or Set-Top Box</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/detailed-assessment-asus-rog-azoth-extreme-for-gamers-under-500-usd/"><u>Detailed Assessment: Asus ROG Azoth Extreme for Gamers Under 500 USD</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-unique-world-of-flsun-s1-fast-and-fun-solar-gadget/"><u>Discover the Unique World of FLSun S1 - Fast and Fun Solar Gadget</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/high-performance-low-cost-storage-comprehensive-review-of-the-hatdrive-nano-ssd-for-pi-enthusiasts/"><u>High-Performance, Low-Cost Storage: Comprehensive Review of the HatDrive! Nano SSD for Pi Enthusiasts</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-lava-blaze-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Lava Blaze Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/m1-pro-vs-m1-max-delving-into-the-details-of-apples-latest-cpus/"><u>M1 Pro Vs. M1 Max Delving Into the Details of Apple's Latest CPUs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-gizmos-with-expertise-from-toms-hardware/"><u>Mastering Gadgets & Gizmos with Expertise From Tom's Hardware</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-secret-direct-x-glitch-in-league/"><u>Solved: Secret Direct X Glitch in League</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-top-tier-pc-parts-by-toms-technology-experts/"><u>The Ultimate Guide to Top-Tier PC Parts by Tom's Technology Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-essential-hardware-advice-for-smart-buying/"><u>Tom’s Essential Hardware Advice for Smart Buying</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hannel-branding-hacks-10-must-use-online-tools/"><u>[New] Channel Branding Hacks 10 Must-Use Online Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gently-lower-sound-amplitude-tutorial/"><u>[New] Gently Lower Sound Amplitude Tutorial</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-sky-storage-spectacle-unlimited-free-and-elite-premium-alternatives-for-your-pics/"><u>[Updated] In 2024, Sky Storage Spectacle Unlimited Free & Elite Premium Alternatives for Your Pics</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-crossing-platforms-upload-video-to-twittertumblr/"><u>2024 Approved Crossing Platforms Upload Video to Twitter/Tumblr</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-6-best-youtube-shorts-downloaders-free-and-online/"><u>In 2024, 6 Best YouTube Shorts Downloaders [Free & Online]</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-infinix-hot-30-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Infinix Hot 30 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-ultimate-guide-to-template-infused-yt-descriptions/"><u>In 2024, The Ultimate Guide to Template-Infused YT Descriptions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-machine-key-takeaways-from-toms-hardware-explorations/"><u>Mastering the Machine: Key Takeaways From Tom's Hardware Explorations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-a-world-of-videos-made-easy-with-vidas-aid-for-2024/"><u>Navigating a World of Videos Made Easy with Vida's Aid for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-future-of-computing-with-toms-hardware-analysis/"><u>Navigating the Future of Computing with Tom’s Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviews-of-the-viewsonic-xg2eon-oled-stunning-240hz-performance-for-gamers/"><u>Reviews of the ViewSonic XG2eon OLED: Stunning 240Hz Performance for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solution-easements-grant-rights-to-use-portions-of-a-property-for-specific-purposes-such-as-utilities-or-access-roads-impacting-where-structures-can-be-buil22/"><u>Solution: Easements Grant Rights to Use Portions of a Property for Specific Purposes, Such as Utilities or Access Roads, Impacting Where Structures Can Be Built and How Lots Are Developed.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/teamgroups-eco-ddr5-revolution-the-vulcan-memory-kit-ddr5-6000-c30-2x16gb-reviewed/"><u>TeamGroup's Eco-DDR5 Revolution: The Vulcan Memory Kit - DDR5-6000 C30, 2X16GB Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-insights/"><u>Tom's Tech Review: In-Depth Analysis and Insights</u></a></li>
 </ul></div>
 

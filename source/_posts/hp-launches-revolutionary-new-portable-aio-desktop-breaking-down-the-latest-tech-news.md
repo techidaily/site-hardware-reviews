@@ -1,7 +1,7 @@
 ---
 title: "HP Launches Revolutionary New Portable AIO Desktop: Breaking Down The Latest Tech News"
-date: 2025-01-17T16:18:24.976Z
-updated: 2025-01-18T18:54:32.629Z
+date: 2025-01-17T16:16:54.690Z
+updated: 2025-01-24T21:05:23.764Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ Over the past 12 months, this relentless pursuit of technological innovation has
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI will be a win for everyone
@@ -47,7 +47,7 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -63,7 +63,7 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -81,7 +81,7 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -97,7 +97,7 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -142,22 +142,20 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-focus-on-action-exclude-unwanted-surroundings/"><u>[New] In 2024, Focus on Action, Exclude Unwanted Surroundings</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/trategies-for-stumbling-upon-covert-youtube-videos/"><u>[New] Strategies for Stumbling Upon Covert YouTube Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-unlock-window-history-with-spring-screenrecorder/"><u>[New] Unlock Window History with Spring ScreenRecorder</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-unveiling-the-best-practices-for-timing-and-organizing-google-collaborations-for-2024/"><u>[Updated] Unveiling the Best Practices for Timing and Organizing Google Collaborations for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-abletons-soften-sound-strategies/"><u>2024 Approved Ableton's Soften Sound Strategies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/blueant-soundblade-testing-results-beautiful-design-robust-audio-capability/"><u>BlueAnt SoundBlade Testing Results: Beautiful Design, Robust Audio Capability</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-hardware-insights-by-toms-review/"><u>Comprehensive Hardware Insights by Tom's Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-toms-comprehensive-guide/"><u>Exploring the Latest in Tech: Tom's Comprehensive Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-note-12-proplus-5g-lock-screen-password-by-drfone-android/"><u>How To Change Xiaomi Redmi Note 12 Pro+ 5G Lock Screen Password?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-through-toms-hardware-reviews-and-updates/"><u>Navigating Through Tom's Hardware Reviews and Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/reconnecting-ethernet-on-windows-os/"><u>Reconnecting Ethernet on Windows OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-soundscape-in-world-of-warcraft-tips-and-solutions-for-muted-sound/"><u>Restoring Soundscape in World of Warcraft: Tips & Solutions for Muted Sound</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/reviewing-sovol-sv08-the-fast-and-nimble-homage-to-voron-series/"><u>Reviewing Sovol SV08: The Fast and Nimble Homage to Voron Series</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-face-off-how-does-the-newly-released-asus-rog-keris-ii-ace-stack-up-against-my-favorite-the-ragedeathadder-v3-pro/"><u>The Ultimate Face-Off: How Does the Newly Released Asus ROG Keris II Ace Stack Up Against My Favorite, the RageDeathAdder V3 Pro?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/transferir-contenido-de-disco-duro-a-unidad-ssd-sin-problemas-en-windows-10-dos-metodos-sencillos/"><u>Transferir Contenido De Disco Duro a Unidad SSD Sin Problemas en Windows 10 - Dos Métodos Sencillos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-with-toms-technology-hub/"><u>Unveiling the Latest in Hardware with Tom's Technology Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/zen-5-revolution-unveiling-the-power-of-amds-ryzen-5-9600x-and-ryzen-pressing-7-9700x/"><u>Zen 5 Revolution: Unveiling the Power of AMD's Ryzen 5 9600X & Ryzen Pressing 7 9700X</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-launchpad-logistics-streamlining-your-way-into-the-realm-of-reviews-channels/"><u>[Updated] 2024 Approved Launchpad Logistics Streamlining Your Way Into the Realm of Reviews Channels</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782995-9781594775956-animals-and-psychedelics/"><u>Animals and Psychedelics | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-western-digital-wd-blue-sn50n0-a-game-changing-4tb-ssd/"><u>Comprehensive Analysis of the Western Digital WD Blue SN50n0 - A Game-Changing 4TB SSD</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/full-disclosure-ricoh-theta-s-inside-and-out-for-2024/"><u>Full Disclosure Ricoh Theta S Inside & Out for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-poco-x6-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Poco X6 Face Lock?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-computer-reviews-by-toms-gear-hub/"><u>In-Depth Computer Reviews by Tom's Gear Hub</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/legal-implications-of-youtube-video-savings/"><u>Legal Implications of YouTube Video Savings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-digital-rights-management-seamless-solutions-for-unrestricted-music-access/"><u>Mastering Digital Rights Management: Seamless Solutions for Unrestricted Music Access</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-tips-and-reviews-by-tom-hardware-specialist/"><u>Navigating the World of Electronics: Tips & Reviews by Tom Hardware Specialist</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-your-bluetooth-connection-effective-solutions-for-the-unresponsive-issue/"><u>Restore Your Bluetooth Connection: Effective Solutions for the Unresponsive Issue</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-corner-in-depth-reviews-and-comparisons/"><u>Tom's Tech Corner: In-Depth Reviews and Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-huge-advancements-a-comprehensive-look-at-the-elegoo-saturn-4-ultra-resin-printer/"><u>Unveiling Huge Advancements: A Comprehensive Look at the Elegoo Saturn 4 Ultra Resin Printer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-benefits-of-the-uphere-m2ebd-m201-cooler-for-nvme-drives-a-complete-review-under-5/"><u>Unveiling the Benefits of the UpHere M2ebd M201 Cooler for NVMe Drives: A Complete Review Under $5</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-toms-latest-computer-components-inside-look-with-toms-hardware-the-gadget-guide/"><u>Unveiling Tom's Latest Computer Components: Inside Look with Tom's Hardware | The Gadget Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/xiaomi-redmi-note-13-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Xiaomi Redmi Note 13 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
 

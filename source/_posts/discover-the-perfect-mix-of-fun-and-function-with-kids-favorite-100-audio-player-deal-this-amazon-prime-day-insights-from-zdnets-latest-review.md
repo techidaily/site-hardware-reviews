@@ -1,7 +1,7 @@
 ---
 title: Discover the Perfect Mix of Fun and Function with Kids' Favorite $100 Audio Player Deal This Amazon Prime Day – Insights From ZDNet’s Latest Review
-date: 2024-09-18 20:14:26
-updated: 2024-09-20 12:29:49
+date: 2025-01-23T21:51:33.707Z
+updated: 2025-01-24T21:16:49.676Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,29 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-elite-lockpicking-games-for-thrill-seekers/"><u>[New] Elite Lockpicking Games for Thrill Seekers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-livemedia-app-assessment-guide-for-2024/"><u>[New] LiveMedia App Assessment Guide for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersive-tech-triumphs-upcoming-top-5-playstation-vr-games/"><u>[Updated] Immersive Tech Triumphs Upcoming Top 5 PlayStation VR Games</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-sabrents-speedy-rocket-5-ssds-pre-order-begins-at-an-affordable-price-of-190/"><u>Get Your Hands on Sabrent's Speedy Rocket 5 SSDs - Pre-Order Begins at an Affordable Price of $190!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-xiaomi-civi-3-disney-100th-anniversary-edition-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Xiaomi Civi 3 Disney 100th Anniversary Edition Quickly? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-pro-max-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 14 Pro Max Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-first-steps-to-faster-film-playback-in-snapchat/"><u>In 2024, First Steps to Faster Film Playback in Snapchat</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic5-ultimate-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic5 Ultimate Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-sabrent-rocket-5-2tb-ssd-performance-elevated/"><u>In-Depth Analysis of Sabrent Rocket 5 2TB SSD - Performance Elevated</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-sk-hynix-t31-ssd-in-m2-format-on-compact-usb-flash-drive/"><u>In-Depth Analysis of the SK Hynix T31 SSD in M.2 Format on Compact USB Flash Drive</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-unveiling-the-features-and-performance-of-western-digitals-latest-mainstream-4tb-wd-blue-sn5000-ssd/"><u>In-Depth Review: Unveiling the Features and Performance of Western Digital’s Latest Mainstream 4TB WD Blue SN5000 SSD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-milestone-chinese-memory-manufacturer-achieves-comparable-longevity-in-qlc-and-tlc-nand-technologies/"><u>Innovative Milestone: Chinese Memory Manufacturer Achieves Comparable Longevity in QLC & TLC NAND Technologies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-scoop-on-new-gadgets-and-performance-breakdowns-with-your-brand-name/"><u>Inside Scoop on New Gadgets and Performance Breakdowns with [Your Brand Name]</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-s23plus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy S23+ working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Tecno Phantom V Fold | Dr.fone</u></a></li>
+</ul></div>
+

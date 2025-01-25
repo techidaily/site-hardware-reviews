@@ -1,7 +1,7 @@
 ---
 title: "Unleash Powerhouse Performance for Less: Secure Your New HP Victus 15 Laptop Today for a Low Price of $515 with This Special Deal at Best Buy on Prime Day | ZDNET"
-date: 2025-01-08T02:23:44.546Z
-updated: 2025-01-12T20:07:06.719Z
+date: 2025-01-20T20:56:26.669Z
+updated: 2025-01-24T18:19:25.536Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,19 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-the-perfect-visual-identity-podcast-covers-unveiled/"><u>[New] Crafting the Perfect Visual Identity Podcast Covers Unveiled</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-noworrycapture-quick-and-easy-win11-recordings/"><u>[Updated] In 2024, NoWorryCapture - Quick and Easy Win11 Recordings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-testing-of-the-akasa-geckos-blower-cooler-designed-for-your-solid-state-drive/"><u>Comprehensive Testing of the Akasa Gecko's Blower Cooler Designed for Your Solid State Drive</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/cing-youtube-presence-with-custom-images-for-2024/"><u>Enhancing YouTube Presence with Custom Images for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leading-steadicam-choices-for-improved-dslr-footage-for-2024/"><u>Leading Steadicam Choices for Improved DSLR Footage for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-environment-top-picks-and-reviews-by-toms-equipment-digest/"><u>Mastering Your Tech Environment: Top Picks and Reviews by Tom's Equipment Digest</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolving-printer-halt-after-update-successfully/"><u>Resolving Printer Halt After Update Successfully</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-nuphy-halo7halo75-v2-affordable-excellence-in-gaming-keyboards/"><u>The Ultimate Guide to the Nuphy Halo7([[Halo75 V2]: Affordable Excellence in Gaming Keyboards</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-your-guide-to-the-latest-hardware/"><u>Tom's Tech Review: Your Guide to the Latest Hardware</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transcodage-mts-vers-mp4-sur-internet-gratuit-avec-movavi-un-guide-simple/"><u>Transcodage MTS Vers MP4 Sur Internet Gratuit Avec Movavi : Un Guide Simple</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-a05-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy A05 Screen | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/understanding-components-a-primer-on-game-pc-building/"><u>Understanding Components: A Primer on Game PC Building</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-western-digitals-latest-offering-the-4tb-wd-blue-sn5000-ssd-reviewed/"><u>Unveiling the Power of Western Digital's Latest Offering – The 4TB WD Blue SN5000 SSD Reviewed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/valkyrie-vind-sl125-review-how-a-captivating-anime-theme-fails-to-compensate-for-lackluster-efficiency/"><u>Valkyrie Vind SL125 Review: How a Captivating Anime Theme Fails to Compensate for Lackluster Efficiency</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-lightning-lens-work-efficiently-producing-google-collage-shots/"><u>[New] Lightning Lens Work Efficiently Producing Google Collage Shots</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/o-longer-a-mystery-shorts-now-showing-up-for-2024/"><u>[New] No Longer a Mystery Shorts Now Showing Up for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-battlebuddies-channel-over-a-hundred-friends-in-games/"><u>[Updated] BattleBuddies Channel Over a Hundred Friends in Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-cyberlink-screen-recorder-review/"><u>2024 Approved Cyberlink Screen Recorder Review</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-pioneering-your-path-to-viral-content-exquisite-templates-for-tiktok-videos/"><u>2024 Approved Pioneering Your Path to Viral Content Exquisite Templates for TikTok Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-rapid-reach-videos-that-immediately-amass-views/"><u>2024 Approved Rapid Reach Videos that Immediately Amass Views</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-swift-oled-pg32ucdp-expert-analysis-the-road-to-flawless-gaming/"><u>Asus ROG Swift OLED PG32UCDP Expert Analysis - The Road to Flawless Gaming</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-unveils-new-rog-strix-xg227-wcs-a-27-va-panel-monitor-with-blistering-180hz-performance-for-gamers/"><u>Asus Unveils New Rog Strix XG2^27 WCS: A 27 VA Panel Monitor with Blistering 180Hz Performance for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-by-tom-decoding-computer-hardware/"><u>Comprehensive Guide by Tom: Decoding Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/conquer-virtual-worlds-in-depth-analysis-of-alienwares-aw2725df-360-hz-oled-monitor-for-serious-gamers/"><u>Conquer Virtual Worlds: In-Depth Analysis of Alienware's AW2725DF 360 Hz OLED Monitor for Serious Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dells-affordable-24-inch-freesync-display-now-only-99-shop-today/"><u>Dell's Affordable 24-Inch FreeSync Display Now Only $99 - Shop Today!</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/erstellen-eines-bootfahigen-windows-11-systemabbilds-mit-drei-effizienten-methoden/"><u>Erstellen Eines Bootfähigen Windows 11 Systemabbilds Mit Drei Effizienten Methoden</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-new-technology-discover-toms-hardware/"><u>Expert Guidance on New Technology - Discover Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-hub-the-ultimate-guide/"><u>Exploring Technology with Tom's Hardware Hub - The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/first-portable-gaming-monitor-by-minisforum-high-performance-with-a-15ninch-display-and-144-hz-at-only-189/"><u>First Portable Gaming Monitor by Minisforum: High Performance with a 15.nInch Display and 144 Hz at only $189</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-final-cut-pros-top-10-must-have-plug-ins-for-professionals/"><u>In 2024, Final Cut Pro’s Top 10 Must-Have Plug-Ins for Professionals</u></a></li>
+<li><a href="https://win-studio.techidaily.com/is-it-possible-to-embed-video-content-into-your-softwares-ebook-format-with-flash-on-flipbuilder/"><u>Is It Possible to Embed Video Content Into Your Software’s eBook Format with Flash on FlipBuilder?</u></a></li>
 </ul></div>
 

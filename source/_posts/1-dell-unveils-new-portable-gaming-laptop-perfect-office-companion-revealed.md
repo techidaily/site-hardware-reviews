@@ -1,7 +1,7 @@
 ---
 title: "1. Dell Unveils New Portable Gaming Laptop: Perfect Office Companion Revealed !"
-date: 2025-01-14T16:47:48.314Z
-updated: 2025-01-18T18:38:40.583Z
+date: 2025-01-21T19:17:51.223Z
+updated: 2025-01-24T21:46:31.958Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,19 +114,15 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-foremost-techniques-for-transforming-seminars-into-videos/"><u>[New] The Foremost Techniques for Transforming Seminars Into Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-stream-titling-service/"><u>[Updated] In 2024, Stream Titling Service</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-technology-toms-detailed-evaluations-on-hardware/"><u>Decoding Technology: Tom's Detailed Evaluations on Hardware</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Xiaomi Redmi K70 Pro</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-multi-user-android-calls-the-top-8-tools/"><u>In 2024, Multi-User Android Calls The Top 8 Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/insights-into-the-pny-rp60-1tb-ssd-review-acceptably-efficient-but-not-particularly-memorable/"><u>Insights Into the PNY RP60 1TB SSD Review - Acceptably Efficient, But Not Particularly Memorable</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/iphone-showdown-how-the-new-iphone-15-pro-stands-up-against-the-pro-max/"><u>IPhone Showdown: How the New iPhone 15 Pro Stands Up Against the Pro Max</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-cropping-and-resizing-images-in-final-cut-pro-x-made-easy/"><u>New Cropping and Resizing Images in Final Cut Pro X Made Easy</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-technology-reviews-unveiling-the-latest-in-hardware-with-toms-insights/"><u>Pioneering Technology Reviews: Unveiling the Latest in Hardware with Tom's Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/sovol-sv08-evaluation-reviving-the-spirit-of-voron-on-two-wheels/"><u>Sovol SV08 Evaluation: Reviving the Spirit of Voron on Two Wheels</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-kingston-fury-beast-ddr5-memory-module-reviewed-testing-its-c40-technology-across-dual-32gb-channels/"><u>The Kingston Fury Beast DDR5 Memory Module Reviewed - Testing Its C40 Technology Across Dual 32GB Channels</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unpacking-the-ultrabook-an-in-depth-review-of-microsofts-budget-friendly-laptop-go/"><u>Unpacking the Ultrabook: An In-Depth Review of Microsoft's Budget-Friendly Laptop Go</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-converting-sounds-to-words-the-ultimate-free-guide-with-top-3-strategies/"><u>Updated Converting Sounds to Words The Ultimate Free Guide with Top 3 Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-begin-your-editing-journey-adopting-movie-maker-for-w11/"><u>[Updated] Begin Your Editing Journey Adopting Movie Maker for W11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-empowering-healing-with-vr-technology-for-2024/"><u>[Updated] Empowering Healing with VR Technology for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-strategies-for-capturing-starlit-self-portraits/"><u>[Updated] Essential Strategies for Capturing Starlit Self-Portraits</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-reverberation-artisan-collection-for-2024/"><u>[Updated] Reverberation Artisan Collection for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dampen-disruptive-desktop-scroll-dynamics/"><u>Dampen Disruptive Desktop Scroll Dynamics</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-paying-more-for-amazons-prime-reading-beneficial-compared-to-free-kindle-unlimited/"><u>Is Paying More for Amazon's Prime Reading Beneficial Compared to Free Kindle Unlimited?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-the-ultimate-resource-by-toms-hardware/"><u>Mastering Electronics: The Ultimate Resource by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solution-easements-grant-rights-to-use-portions-of-a-property-for-specific-purposes-such-as-utilities-or-access-roads-impacting-where-structures-can-be-buil6/"><u>Solution: Easements Grant Rights to Use Portions of a Property for Specific Purposes, Such as Utilities or Access Roads, Impacting Where Structures Can Be Built and How Lots Are Developed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-your-datas-new-home-western-digital-my-passport-6tb-revealed/"><u>The Ultimate Guide to Your Data's New Home - Western Digital My Passport 6TB Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveil-the-latest-in-hardware-at-toms-technical-blog-stay-ahead-of-innovations/"><u>Unveil the Latest in Hardware at Tom's Technical Blog – Stay Ahead of Innovations!</u></a></li>
 </ul></div>
 

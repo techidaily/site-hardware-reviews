@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's In-Depth Analysis of Microsoft Surface Pro 8: The Ultimate Office Companion"
-date: 2025-01-09T21:11:43.679Z
-updated: 2025-01-13T03:14:25.946Z
+date: 2025-01-20T00:26:26.633Z
+updated: 2025-01-25T01:46:41.880Z
 tags:
   - laptops
 categories:
@@ -22,13 +22,13 @@ We prioritized machines that scored well in durability, portability, and of cour
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the best laptop for college right now?
 
 At ZDNET, we've [thoroughly tested the best laptops for college](https://www.zdnet.com/article/how-we-test-laptops/) to help you pick the right one, no matter what you're studying. Our pick for the best laptop for college overall goes to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6c886657-35ab-4930-8089-40c4b0f4086b%7Cdtp&dtb=1). In terms of portability, sleek form factor, and a solid battery life, the MacBook Air M3 is as light as it is powerful, and is future-proofed to last the duration of a multi-year degree program. It might not be the best pick for you, however, so we included other options that round out the spectrum of most common use cases. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best laptop for college in 2024
 
@@ -46,7 +46,7 @@ Cons
 * Uninspiring speakers
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple MacBook Air M3
@@ -83,10 +83,6 @@ Cons
 
 ## HP Dragonfly Pro Chromebook
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best Chromebook for college
 
 Instead of going for a Mac or a Windows machine, [Chromebooks, powered by ChromeOS](https://www.zdnet.com/article/five-reasons-chromebooks-are-the-perfect-laptop/) are a solid third option, and the best one for college students is the HP Dragonfly Pro Chromebook.
@@ -117,11 +113,11 @@ Cons
 * Screen isn't very bright
 * A little bulky
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Acer Aspire Go 15
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best college laptop under $500
 
@@ -151,6 +147,10 @@ Cons
 * Has a tendency to run warm
 * Bloatware
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Asus ROG Zephyrus G14
 
 ### Best college laptop for gaming
@@ -178,7 +178,15 @@ Cons
 * Expensive
 * Comes with multiple supporting parts
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lenovo Yoga Book 9i
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best 2-in-1 convertible laptop for college
 
@@ -206,6 +214,10 @@ The best laptop for college in 2024 is the [Apple MacBook Air M3](https://www.zd
 | Asus ROG Zephyrus G14       | $1,600            | AMD Ryzen 9, GeForce RTX 4070        | 32GB, 1TB SSD               | 3.3              |
 | Lenovo YogaBook 9i          | $1,999            | Intel Core Ultra 155U, Intel Iris Xe | 16GB, 512GB                 | 3.15             |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which is the right laptop for college for you?
 
 The right college for laptop depends on first on what you want to get out of it, and second, what your budget looks like. The laptops on this list cover a broad range of prices, but I also included some common use-cases that applies to many users. 
@@ -217,10 +229,6 @@ The right college for laptop depends on first on what you want to get out of it,
 | Acer Aspire Go 15                   | An affordable laptop that can cover the basics, but don't need anything fancy.                        |
 | Asus ROG Zephyrus G14               | A laptop you can take to class, but can double as a gaming machine.                                   |
 | Lenovo Yoga Book 9i                 | A dual-screen laptop that works for art or design classes, or a laptop with versatile configurations. |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -238,10 +246,6 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing a laptop for college
 
 Different students are going to have different performance needs, and it's important to consider what exactly will be required in your courses before selecting a laptop. Students in media, design, animation, and production will likely need to opt for machines on the higher-end of hardware performance, while other students that will mainly be using their laptops for research and productivity apps may not need high-end GPUs or extensive memory. 
@@ -252,10 +256,6 @@ These are the factors that I weighed when selecting the best laptops for college
 * **Price:** Cost is an important factor, especially for students. I included laptops that cover a wide range of price points, from the inexpensive [Acer Aspire Go 15](https://www.zdnet.com/article/i-replaced-my-desktop-with-a-299-laptop-for-a-week-and-was-pleasantly-surprised/) at just $300 to the pricier [Lenovo Yoga Book 9i](https://www.zdnet.com/article/i-tested-lenovos-dual-screen-laptop-and-it-improved-my-productivity-in-profound-ways/) that will run closer to $2,000\. Keep in mind that most computer manufacturers offer student discounts, and their buying links are included in each laptop's section on this page.
 * **Portability:** Carrying around a heavy laptop all day while on campus is a tough ask. That's why all five of these laptops were considered to be light enough to be carried around a full day at school, the heaviest of which (the Acer Aspire Go 15) is only 3.7 pounds.
 * **Storage:** The amount of storage on your college laptop determines not only how much data your computer can hold but also how fast it can move. If you plan to use this laptop for all of your college classes, you will likely need a larger amount of storage if you plan to store all those papers and projects on the local drive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
 
@@ -317,21 +317,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-online-and-local-photos-how-to-unite-them/"><u>[New] Online and Local Photos How to Unite Them</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-taming-soundscapes-mastering-gradual-volume-increase-with-audition/"><u>[New] Taming Soundscapes Mastering Gradual Volume Increase with Audition</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-expert-tips-for-srt-enhanced-mp4-files/"><u>[Updated] Expert Tips for SRT-Enhanced MP4 Files</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-5-core-strategies-for-amplifying-your-digital-footprint-newbies-style/"><u>2024 Approved 5 Core Strategies for Amplifying Your Digital Footprint, Newbies Style</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lenovo-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lenovo</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-hardware-discoveries-from-toms-computer-chronicles/"><u>Dive Into Hardware: Discoveries From Tom's Computer Chronicles</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experts-rating-in-depth-analysis-of-dough-spectrum-black-the-ultimate-27-oled-gaming-display-with-superior-color-fidelity-and-exceptional-responsiveness/"><u>Experts' Rating: In-Depth Analysis of Dough Spectrum Black - The Ultimate 27 OLED Gaming Display with Superior Color Fidelity & Exceptional Responsiveness</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gear-with-toms-equipment-insights/"><u>Exploring Computer Gear with Tom's Equipment Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-fusion-of-anime-and-disappointment-in-the-valkyrie-vind-sl125/"><u>Exploring the Fusion of Anime and Disappointment in the Valkyrie Vind SL125</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-document-management-efficiency-officedoc-and-ai-dialogue/"><u>Maximizing Document Management Efficiency: OfficeDoc & AI Dialogue</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-high-tech-terrain-trusted-reviews-and-insights-by-toms-hardware-specialists/"><u>Navigating High-Tech Terrain: Trusted Reviews and Insights by Tom's Hardware Specialists</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/securing-your-system-expert-tips-to-defend-against-cyber-threats-from-yl-computing/"><u>Securing Your System: Expert Tips to Defend Against Cyber Threats From YL Computing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96476451-9780880504102-tantric-transformation/"><u>Tantric Transformation | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-pick-for-portable-power-players-in-depth-analysis-of-the-asus-rog-ally-x-handheld-console/"><u>Top Pick for Portable Power Players: In-Depth Analysis of the Asus ROG Ally X Handheld Console</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-differences-a-critical-review-of-hostgator-vps-and-shared-plans/"><u>Unveiling the Differences: A Critical Review of HostGator VPS and Shared Plans</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-boost-your-instagrams-accessibility-with-easy-caption-features/"><u>[New] 2024 Approved Boost Your Instagram's Accessibility with Easy Caption Features</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-facetime-call-recording-securing-your-conversations-for-2024/"><u>[Updated] FaceTime Call Recording Securing Your Conversations for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-for-implementing-look-up-tables-in-creative-suite/"><u>2024 Approved The Ultimate Guide for Implementing Look-Up Tables in Creative Suite</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevating-online-presence-through-image-overhaul-on-fb/"><u>Elevating Online Presence Through Image Overhaul on FB</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862817375-experience-unparalleled-gaming-with-dell-s3222dgm-now-at-an-amazing-price-only-229/"><u>Experience Unparalleled Gaming with Dell S3222DGM: Now at an Amazing Price - Only $229!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-engaging-stop-motion-content-for-instagram-a-step-by-step-guide/"><u>In 2024, Create Engaging Stop Motion Content for Instagram A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-top-15-funny-youtube-channels-to-watch-when-youre-bored/"><u>In 2024, Top 15 Funny YouTube Channels to Watch When You're Bored</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862799252-landing-a-bargain-enjoy-yourself-with-a-giant-high-definition-samsung-49-oled-screen-for-less-than-youd-think/"><u>Landing a Bargain: Enjoy Yourself with a Giant, High-Definition Samsung 49 OLED Screen for Less Than You'd Think</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-stabilize-your-videos-for-free-the-ultimate-online-guide-2024-edition/"><u>New Stabilize Your Videos for Free The Ultimate Online Guide (2024 Edition)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862820475-score-the-best-deal-on-a-high-quality-gaming-screen-get-the-sceptre-24-inch-curved-monitor-at-just-79/"><u>Score the Best Deal on a High-Quality Gaming Screen - Get the Sceptre 24 Inch Curved Monitor at Just $79</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-samsung-smart-tvs-remote-access-features/"><u>Ultimate Guide: Mastering Samsung Smart TV's Remote Access Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-electronics-mysteries-at-toms-hardware-haven/"><u>Unraveling Electronics Mysteries at Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unusual-find-alert-thor-vs-darth-vader-styled-monitor-under-150-by-a-retailer-in-china/"><u>Unusual Find Alert: 'Thor vs Darth Vader' Styled Monitor Under $150 by a Retailer in China</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-essential-utilities-of-feelworlds-compact-and-portable-dh101-display/"><u>Unveiling Essential Utilities of Feelworld’s Compact and Portable DH101 Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-pc-innovations-with-toms-hardware-experts/"><u>Unveiling New PC Innovations with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862835548-upgrade-to-a-sharp-27-display-get-the-built-in-webcam-and-pixel-dense-viewfinity-tech-with-samsungs-s9-monitor-for-899-discounted-by-44/"><u>Upgrade to a Sharp 27 Display - Get the Built-In Webcam & Pixel-Dense Viewfinity Tech with Samsung's S9 Monitor for $899, Discounted by 44%!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/windows-11-user-guide-for-professional-audio-recording/"><u>Windows 11 User Guide for Professional Audio Recording</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-guide-to-advanced-tech-the-expertise-of-toms-hardware/"><u>Your Guide to Advanced Tech: The Expertise of Tom's Hardware</u></a></li>
 </ul></div>
 

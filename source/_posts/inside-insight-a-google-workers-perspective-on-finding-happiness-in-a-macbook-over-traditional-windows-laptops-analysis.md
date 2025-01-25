@@ -1,7 +1,7 @@
 ---
 title: "Inside Insight: A Google Worker's Perspective on Finding Happiness in a MacBook Over Traditional Windows Laptops Analysis"
-date: 2025-01-16T18:18:28.260Z
-updated: 2025-01-18T17:05:18.696Z
+date: 2025-01-21T16:59:58.729Z
+updated: 2025-01-24T23:46:54.020Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,15 +218,24 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-video-editing-essentials-building-youtube-trailers-in-filmora/"><u>[New] In 2024, Video Editing Essentials Building YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://solve-help.techidaily.com/windows-10-dvd-9dvd-5/"><u>「Windows 10互換の無料ディスク圧縮ソフト！ DVD-9からDVD-5への最適な変換方法」</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-a-non-functional-corsair-void-mic-step-by-step-solution/"><u>Fixing a Non-Functional Corsair Void Mic: Step-by-Step Solution</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-iphone-6s-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From iPhone 6s?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/imaging-techniques-like-oct-may-be-used-postoperatively-to-confirm-the-success-of-surgical-interventions-such-as-retinal-detachment-repair/"><u>Imaging Techniques Like OCT May Be Used Postoperatively to Confirm the Success of Surgical Interventions Such as Retinal Detachment Repair.</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-poco-c50-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Poco C50 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/revive-your-malfunctioning-printer-a-step-by-step-guide-to-correcting-driver-issues-with-yl-software-solutions/"><u>Revive Your Malfunctioning Printer: A Step-by-Step Guide to Correcting Driver Issues with YL Software Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-ultimate-guide/"><u>Tom's Tech Reviews: Ultimate Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-comparison-guide-for-high-speed-ssds-exploring-the-lexar-professional-sl600-and-sl500-with-remarkable-20g-speed-capabilities/"><u>Ultimate Comparison Guide for High-Speed SSDs: Exploring the Lexar Professional SL600 & SL500 with Remarkable 20G Speed Capabilities</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-toms-gear-a-deep-dive-into-technology-and-hardware/"><u>Unveiling Tom's Gear: A Deep Dive Into Technology and Hardware</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-profit-peaks-techniques-to-maximize-revenue-from-mobile-youtube-content/"><u>2024 Approved Profit Peaks Techniques to Maximize Revenue From Mobile YouTube Content</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-technology-masterful-tips-from-toms-experts-in-hardware/"><u>Decoding Technology: Masterful Tips From Tom’s Experts in Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/diving-into-hardware-with-toms-technology-reviews/"><u>Diving Into Hardware with Tom's Technology Reviews</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminate-high-ping-expert-strategies-for-a-smoother-counter-strike-2-experience/"><u>Eliminate High Ping: Expert Strategies for a Smoother Counter-Strike 2 Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-tiktok-video-viewership-through-zoom/"><u>Enhancing TikTok Video Viewership Through Zoom</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expertly-curated-list-fastest-and-most-reliable-cable-modems-in-202n4/"><u>Expertly Curated List: Fastest and Most Reliable Cable Modems in 202N4</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-technology-with-toms-hardware-guides/"><u>Exploring the Latest in Technology with Tom's Hardware Guides</u></a></li>
+<li><a href="https://fox-links.techidaily.com/how-to-add-crop-and-edit-music-to-canva-video-in-2024/"><u>How To Add, Crop And Edit Music To Canva Video, In 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-xr-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone XR | Stellar</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/join-the-live-revolution-fb-streaming-tips/"><u>Join the Live Revolution FB Streaming Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Life360 Learn How Everything Works On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-a-non-responsive-microsoft-store/"><u>Resolved: How to Fix a Non-Responsive Microsoft Store</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-on-electronics-toms-hardware-insights/"><u>The Ultimate Resource on Electronics - Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-equipment-mastery-in-depth-analysis-for-savvy-gamers-and-builders/"><u>Tom's Equipment Mastery: In-Depth Analysis for Savvy Gamers and Builders</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-gadgets/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-features-gigabytes-b760m-ds3h-ax-micro-atx-motherboard-for-beginners-and-multi-screen-lovers/"><u>Unveiling the Features: Gigabyte's B760M DS3H AX Micro ATX Motherboard for Beginners and Multi-Screen Lovers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-hardware-with-toms-expertise/"><u>Unveiling the Latest in Computer Hardware with Tom's Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/valkyrie-syn-240-aio-pc-chiller-review-exceptional-heat-dispersion-compromised-by-unrefined-user-interface/"><u>Valkyrie Syn 240 AIO PC Chiller Review – Exceptional Heat Dispersion Compromised by Unrefined User Interface</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-tecno-spark-go-2023-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Tecno Spark Go (2023) Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

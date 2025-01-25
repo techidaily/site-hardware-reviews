@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Compatibility: Unveiling the Hidden Charging Capability of This Multi-Functional Thunderbolt Dock | ZDNet"
-date: 2025-01-12T00:01:28.007Z
-updated: 2025-01-12T22:41:59.179Z
+date: 2025-01-21T00:16:41.944Z
+updated: 2025-01-24T18:59:08.911Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C845c8ccf-ab05-4ea1-8ad3-f242b1b9fbbd%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -110,7 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,20 +149,16 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-amazing.techidaily.com/download-amd-rx-6900-xt-driver-for-windows-111087/"><u>[Download] AMD RX 6900 XT Driver for Windows 11/10/8/7</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/reating-impressive-video-tracks-with-a-newbie-mac-user-for-2024/"><u>[New] Creating Impressive Video Tracks with a Newbie Mac User for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-professional-pathway-setting-up-wm6/"><u>2024 Approved Professional Pathway Setting Up WM6</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-reviewed-how-zen-5-elevates-gaming-performance-with-the-ryzen-5-9600x-and-ryzen-7-9700x/"><u>AMD Ryzen Reviewed: How Zen 5 Elevates Gaming Performance with the Ryzen 5 9600X and Ryzen 7 9700X</u></a></li>
-<li><a href="https://blog-min.techidaily.com/backing-up-and-converting-the-worlds-end-a-step-by-step-guide-for-fans-of-the-iconic-blood-and-ice-cream-trilogy-finale/"><u>Backing Up & Converting 'The World's End': A Step-by-Step Guide for Fans of the Iconic Blood and Ice Cream Trilogy Finale</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/budget-nvme-overclocking-ready-check-out-the-premium-uphere-m201-heatsink-at-only-5/"><u>Budget NVMe Overclocking Ready? Check Out the Premium UpHere M201 Heatsink at Only $5</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/immersive-color-and-lightning-speed-an-insiders-look-at-the-unmatched-performance-of-philips-evonia-gaming-display-model-49m2c8900-240hz-oled/"><u>Immersive Color & Lightning Speed: An Insider's Look at the Unmatched Performance of Philips Evonia Gaming Display, Model 49M2C8900 (240Hz OLED)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-look-testing-the-capabilities-of-western-digitals-new-mainstream-giant-the-4tb-wd-blue-sn5000-ssd/"><u>Inside Look: Testing the Capabilities of Western Digital's New Mainstream Giant – The 4TB WD Blue SN5000 SSD</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-use-the-best-luts-for-lightroom/"><u>New In 2024, Use The Best LUTs for Lightroom</u></a></li>
-<li><a href="https://games-able.techidaily.com/shift-seasons-not-timezones-update-xbox-system/"><u>Shift Seasons, Not Timezones: Update Xbox System</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-8-best-video-cutting-apps-for-windows-11-and-11/"><u>The 8 Best Video Cutting Apps for Windows 11 & 11</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-ultimate-guide-to-extracting-youtube-subtitles-srt-for-2024/"><u>The Ultimate Guide to Extracting YouTube Subtitles (SRT) for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-p2nace-of-gaming-displays-the-titan-army-monitor-at-180-hz-a-comprehensive-review/"><u>Unboxing the P2nace of Gaming Displays: The Titan Army Monitor at 180 Hz - A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-tech-secrets-toms-authoritative-guide-to-computer-gear/"><u>Unveiling New Tech Secrets - Tom's Authoritative Guide to Computer Gear</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/be-mastery-elevating-your-channel-with-strategic-spotlight-techniques/"><u>YouTube Mastery Elevating Your Channel with Strategic Spotlight Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-strategies-for-effective-youtube-short-creation/"><u>[New] In 2024, Top Strategies for Effective YouTube Short Creation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-undercover-upscalers-guide-to-clear-visuals/"><u>[New] The Undercover Upscaler's Guide to Clear Visuals</u></a></li>
+<li><a href="https://article-tips.techidaily.com/delving-into-lgs-high-end-gaming-screen-27ud68-review-for-2024/"><u>Delving Into LG's High-End Gaming Screen 27UD68 Review for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computing-power-at-toms-hardware-hub-discover-top-gear/"><u>Exploring Computing Power at Tom's Hardware Hub - Discover Top Gear!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gaming-experience-in-the-gigabyte-g6x-good-performance-but-unremarkable-features-explored/"><u>Gaming Experience in the Gigabyte G6X: Good Performance but Unremarkable Features Explored</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-lava-blaze-2-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Lava Blaze 2 Pro Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-end-gaming-powerhouse-the-new-razer-blade-18-with-amd-ryzen-9-14900hx-and-top-of-the-line-nvidia-rtx/"><u>High-End Gaming Powerhouse - The New Razer Blade 18 with AMD Ryzen 9-14900HX and Top of the Line Nvidia RTX</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-microsofts-copilotplus-technology-overrides-old-school-ai-pcs-and-redefines-the-future-of-computing-models/"><u>How Microsoft's Copilot+ Technology Overrides Old-School AI PCs and Redefines the Future of Computing Models</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-12-mini-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone 12 mini - 4 Easy Ways</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone SE (2020)?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadget-trends-discovering-new-horizons-at-toms-hardware-hub/"><u>Navigating Gadget Trends: Discovering New Horizons at Tom's Hardware Hub</u></a></li>
 </ul></div>
 

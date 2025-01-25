@@ -1,7 +1,7 @@
 ---
 title: Preorder the Long-Lasting Bose SoundLink Max with 20 Hours of Playback at Only $399 - Availability Details on ZDNet
-date: 2024-09-18 21:44:31
-updated: 2024-09-20 11:19:45
+date: 2025-01-22T17:55:49.954Z
+updated: 2025-01-24T18:29:51.034Z
 tags:
   - kitchen-household
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/topic/kitchen-household/    https://www.zdnet.c
 ![EcoFlow Delta Pro 3 portable battery](https://www.zdnet.com/a/img/resize/493a0e14c2076aa82dd15d43be4c51552702595c/2024/06/20/9d465ec0-9e8c-4fee-b2aa-d5b5ce343244/2.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -77,6 +81,10 @@ How did it fare? The power returned about three hours later, and the Delta Pro 3
 
 Aside from this power outage, [we've tested](https://www.zdnet.com/home-and-office/energy/how-we-test-portable-power-stations/) the Delta Pro 3 as a standalone battery to power a home office setup, keeping consumption between 50W and 120W. The DP3 powered an LCD monitor, a Dell XPS laptop, a phone charger, and a USB-C tablet charger for four days. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Accessories-Emergencies%2Fdp%2FB0D14FMFZD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1) is an excellent option for anyone looking for a higher-capacity portable battery for camping or as an emergency home backup, as long as you're willing to pay the price, literally. It's not a cheap option among portable batteries, priced at $3199, which is about $400 less than the price of a [Delta Pro and Dual fuel inverter generator bundle](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Generator-High-Power-Appliances%2Fdp%2FB0BKGLCVRR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1).
@@ -106,11 +114,31 @@ Though priced high, the Delta Pro 3 seamlessly integrates into an EcoFlow home b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-the-art-of-engaging-facebook-video-ads-for-2024/"><u>[New] Mastering the Art of Engaging Facebook Video Ads for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-cutting-edge-in-camera-technology-2024-edition/"><u>[Updated] The Cutting Edge in Camera Technology - 2024 Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-evolution-of-audio-liberation-pazeras-advanced-techniques-2e/"><u>[Updated] The Evolution of Audio Liberation Pazera's Advanced Techniques (2E)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-revolutionize-your-video-output-top-10-apps-converting-flv-to-youtube/"><u>2024 Approved Revolutionize Your Video Output Top 10 Apps Converting FLV to YouTube</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-seamless-connectivity-download-intel-and-wi-fi-adapter-drivers-for-all-windows-versions-win11win10win7/"><u>Ensure Seamless Connectivity: Download Intel and Wi-Fi Adapter Drivers for All Windows Versions (Win11/Win10/Win7)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-guide-calculating-necessary-internal-storage-for-optimal-performance-on-android-smartphones/"><u>Essential Guide: Calculating Necessary Internal Storage for Optimal Performance on Android Smartphones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exciting-tech-alert-the-release-date-for-nothing-phone-2-set-for-july-11th-revealed/"><u>Exciting Tech Alert: The Release Date for Nothing Phone 2 Set for July 11Th Revealed!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/guide-how-to-input-critical-emergency-health-information-into-your-android-smartphone/"><u>Guide: How to Input Critical Emergency Health Information Into Your Android Smartphone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-nokia-c22-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Nokia C22 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-to-fix-amazon-fire-tablets-unresponsive-play-store/"><u>How to Fix Amazon Fire Tablet's Unresponsive Play Store</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-master-gpts-text-limit-bounds/"><u>How to Master GPT’s Text Limit Bounds?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ios-features-inspired-by-and-android/"><u>IOS, Features Inspired by, and Android.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/making-the-smart-choice-prioritizing-a-timeless-mobile-device-over-a-novelty-computer-accessory/"><u>Making the Smart Choice: Prioritizing a Timeless Mobile Device Over A Novelty Computer Accessory</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/perfect-every-moment-incorporating-captions-in-instagram-footage-for-2024/"><u>Perfect Every Moment Incorporating Captions in Instagram Footage for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/resolving-no-permissions-errors-for-activating-voice-input-on-gboard/"><u>Resolving 'No Permissions' Errors for Activating Voice Input on Gboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/simultaneous-multi-device-setup-a-step-by-step-guide-to-installing-android-apps-on-all-your-gadgets/"><u>Simultaneous Multi-Device Setup: A Step-by-Step Guide to Installing Android Apps on All Your Gadgets</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/synchronizing-sessions-obs-timer-integration-walkthrough-for-2024/"><u>Synchronizing Sessions OBS Timer Integration Walkthrough for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Personal Safety: The Facial Recognition Smart Lock That Outshines Traditional Devices | Insights From ZDNET Tech Editor"
-date: 2024-09-17 21:16:10
-updated: 2024-09-20 10:26:25
+date: 2025-01-24T00:20:48.954Z
+updated: 2025-01-25T00:15:21.185Z
 tags:
   - kitchen-household
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/f14d93751e019bfea4a977ac2ac9bc564b77ea9b7
 ![EcoFlow Delta Pro 3 portable battery](https://www.zdnet.com/a/img/resize/493a0e14c2076aa82dd15d43be4c51552702595c/2024/06/20/9d465ec0-9e8c-4fee-b2aa-d5b5ce343244/2.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -77,6 +81,10 @@ How did it fare? The power returned about three hours later, and the Delta Pro 3
 
 Aside from this power outage, [we've tested](https://www.zdnet.com/home-and-office/energy/how-we-test-portable-power-stations/) the Delta Pro 3 as a standalone battery to power a home office setup, keeping consumption between 50W and 120W. The DP3 powered an LCD monitor, a Dell XPS laptop, a phone charger, and a USB-C tablet charger for four days. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Accessories-Emergencies%2Fdp%2FB0D14FMFZD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1) is an excellent option for anyone looking for a higher-capacity portable battery for camping or as an emergency home backup, as long as you're willing to pay the price, literally. It's not a cheap option among portable batteries, priced at $3199, which is about $400 less than the price of a [Delta Pro and Dual fuel inverter generator bundle](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Generator-High-Power-Appliances%2Fdp%2FB0BKGLCVRR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1).
@@ -106,11 +114,26 @@ Though priced high, the Delta Pro 3 seamlessly integrates into an EcoFlow home b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-ace-video-acquisition-strategies-for-savvy-software-and-no-software-use/"><u>[New] Ace Video Acquisition Strategies for Savvy Software & No-Software Use</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-safeguarding-your-listening-pleasure-with-3-steps/"><u>[Updated] 2024 Approved Safeguarding Your Listening Pleasure with 3 Steps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-navigating-sony-vegas-for-professional-youtube-video-creation-for-2024/"><u>[Updated] Navigating Sony Vegas for Professional YouTube Video Creation for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-unleash-calmness-asmr-titles-to-try-out/"><u>[Updated] Unleash Calmness ASMR Titles to Try Out</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-honor-100-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Honor 100 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-electronics-with-toms-review-comprehensive-hardware-guides/"><u>Dive Into Electronics with Tom’s Review: Comprehensive Hardware Guides</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-visual-effects-on-a-budget-essential-tutorials-and-techniques-from-4-vfx-experts-videos-for-2024/"><u>Mastering Visual Effects on a Budget Essential Tutorials and Techniques From 4 VFX Experts' Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-svchostexe-high-cpu-consumption-issue-in-windows-11/"><u>Resolving the svchost.exe High CPU Consumption Issue in Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-update-by-asrock-allows-locked-comet-lake-s-cpus-to-overclock-on-non-z-motherboards/"><u>Revolutionary Update by ASRock Allows Locked Comet Lake-S CPUs to Overclock on Non-Z Motherboards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ryzen-4000-series-sets-new-standards-the-renoir-chip-achieves-world-record-at-6666-mhz/"><u>Ryzen 4000 Series Sets New Standards: The Renoir Chip Achieves World Record at 6666 MHz</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-components-t17239718671242/"><u>Tom's Tech Review: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-tom-the-ultimate-guide-to-modern-electronics/"><u>Unveiling Gadgets with Tom: The Ultimate Guide to Modern Electronics</u></a></li>
+</ul></div>
+

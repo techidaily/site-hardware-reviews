@@ -1,7 +1,7 @@
 ---
 title: College Comeback? Score Top Discounts on Laptops & Tablets From Samsung
-date: 2025-01-14T18:40:20.452Z
-updated: 2025-01-18T16:50:52.384Z
+date: 2025-01-20T00:11:49.202Z
+updated: 2025-01-24T21:12:05.787Z
 tags:
   - laptops
 categories:
@@ -51,7 +51,7 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -90,15 +90,22 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-best-of-the-best-top-12-tycoon-games-for-epic-victories/"><u>[New] 2024 Approved Best of the Best Top 12 Tycoon Games for Epic Victories</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/levating-your-videos-reach-top-8-youtube-ranks-unveiled/"><u>[New] Elevating Your Video's Reach - Top 8 YouTube Ranks Unveiled</u></a></li>
-<li><a href="https://fox-that.techidaily.com/4-ways-to-fix-standby-not-working-on-your-iphone/"><u>4 Ways to Fix StandBy Not Working on Your iPhone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-current-vr-devices-explored/"><u>In 2024, Current VR Devices Explored</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-acer-predator-orion-5000-unbeatable-performance-meets-cost-efficiency/"><u>In-Depth Analysis of the Acer Predator Orion 5000: Unbeatable Performance Meets Cost-Efficiency</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210696054-9780645206456-my-way-my-truthful-way/"><u>My Way, my Truthful Way | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-trends-at-toms-computer-resource/"><u>Navigating Technology Trends at Tom's Computer Resource</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-how-to-make-a-meme-step-by-step/"><u>New How to Make a Meme (Step by Step)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-newly-updated-dell-xps-13-where-style-meets-speed-with-snapdragon-x-elite-tech/"><u>The Ultimate Guide to the Newly Updated Dell XPS 13 - Where Style Meets Speed with Snapdragon X Elite Tech</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-efficiency-a-closer-look-at-nzxts-c1500-platinum-psu/"><u>Unveiling Efficiency: A Closer Look at NZXT's C1500 Platinum PSU</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-easy-ways-to-screen-record-instagram-story/"><u>[New] Easy Ways to Screen Record Instagram Story</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-framing-perfection-a-filmmakers-guide-to-cinematic-youtube-videos/"><u>[New] In 2024, Framing Perfection A Filmmaker's Guide to Cinematic YouTube Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-reposition-mac-picture-cache-destination-for-2024/"><u>[New] Reposition Mac Picture Cache Destination for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-uncover-the-secrets-of-your-off-facebook-life-with-us/"><u>[New] Uncover the Secrets of Your Off-Facebook Life with Us</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-set-up-grid-layout-for-google-meet-participants-viewing/"><u>[Updated] In 2024, Set Up Grid Layout for Google Meet Participants' Viewing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rt-be96u-6ghz-dual-band-mesh-wifi-system-evaluation-introducing-the-next-generation-of-high-speed-connectivity/"><u>Asus RT-BE96U 6GHz Dual-Band Mesh WiFi System Evaluation: Introducing the Next Generation of High-Speed Connectivity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-pioneering-insights-by-tom-on-hardware-solutions/"><u>Decoding Tech: Pioneering Insights by Tom on Hardware Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-standard-setter-a-thorough-review-of-sabrents-m2-22amo-1tb-rocket-nano-ssd/"><u>Evaluating the Standard Setter: A Thorough Review of Sabrent's M.2 22Amo 1TB Rocket Nano SSD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experiencing-the-speed-with-asus-zenbook-s16-and-its-integrated-amd-ryzen-ai9-hx-370-processor-reviewed-here/"><u>Experiencing the Speed with ASUS Zenbook S16 and Its Integrated AMD Ryzen AI9 HX-370 Processor Reviewed Here</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-evaluation-of-the-aoc-agon-pro-ag456uczd-a-detailed-look-at-its-45-ultra-wide-oled-gaming-display-with-extremely-curved-edges-and-fast-refresh-rates.3/"><u>Expert Evaluation of the AOC Agon Pro AG456UCZD – A Detailed Look at Its 45 Ultra-Wide OLED Gaming Display with Extremely Curved Edges and Fast Refresh Rates!</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-complete-your-windows-11-overcome-the-99-hurdle-with-these-simple-tricks/"><u>How to Complete Your Windows 지원 11 설치 - Overcome the 99% Hurdle with These Simple Tricks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lenovo-thinkphone-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lenovo ThinkPhone to New Android? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-13-mini-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 13 mini Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-gadget-analysis-from-toms-hardware-experts/"><u>In-Depth Gadget Analysis From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-valkyrie-syn-2naio-liquid-cooler-tested-top-notch-efficiency-and-a-call-for-software-enhancement/"><u>The Valkyrie Syn 2nAIO Liquid Cooler Tested: Top-Notch Efficiency and a Call for Software Enhancement</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-computer-hardware-reviews/"><u>Tom's Tech Insights: In-Depth Computer Hardware Reviews</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-mastering-the-art-of-audio-enhancement-in-digital-media-creation/"><u>Updated In 2024, Mastering the Art of Audio Enhancement in Digital Media Creation</u></a></li>
 </ul></div>
 

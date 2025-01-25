@@ -1,7 +1,7 @@
 ---
 title: "Unmissable Savings: Top 40 Active Costco Cyber Week Deals on Electronics Including Televisions and Computers – Shop Now!"
-date: 2025-01-14T16:43:30.688Z
-updated: 2025-01-18T16:42:05.702Z
+date: 2025-01-23T02:20:12.674Z
+updated: 2025-01-24T16:50:01.541Z
 tags:
   - laptops
 categories:
@@ -29,6 +29,10 @@ Keep in mind that you can only access these online deals and Costco's warehouse 
 * [Gold Star Members:](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/QuickMembershipApplicationView?catalogId=10701&langId=-1&storeId=10301&krypto=gfBAcwlW5XGaTu4MSo4kHXcIuBWfwIW6hToJURA1XLd4PoCsnroNXsBArenTZj6Qoy0e5hePJWyMu%2BXdDxt8mhS4t0sd9viyhjMEl%2FqXKv44SrdQDuZ6JdpluZDKiye8KhHVtzu4r1e2F9I9nzl6IVTvd8xc%2FWorB9E%2FH3gS6GO8R9OEKbmBQHsUvY9778ZdN5SmobCca5iIlwhAjkXA7dX37HmdMY0nWHmz%2FmU13gUuZ6WMC84SugcgviT28OyqJwjg6RpcvmnHVc51VAYPO57hhnTjnZ7eVtHbiEbXOlE%3D&ddkey=http%3AManageShoppingCartCmd?tag=zd-buy-button-20) $60 annual fee, valid at all Costco locations worldwide
 * [Business Members:](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/QuickMembershipApplicationView?catalogId=10701&langId=-1&storeId=10301&krypto=iSw8rvA%2BO68vwnffUq1fw6118Kv9v01BPPmnZMVK09G6tkaXWLcXEpSvkfbRQt5S31%2BwhQB31Mo54J428MsW2d61FqdxYj1Dz2ADTIscn7nRpSybZUryOHDKhcl6nOzlI6KqL%2BRpNphso7YD5rI76HsHHKviRtf34siQWdZ%2Bp61nY1m4YmQygRB7ia7M5pe1j6gUtdg3gsArTPRP88aPWuW7sf813GPLb1VIm9iUUyFM4o5jJgdYMnHNx7NQCulnwRw95Sdcs33%2Fi6zDq4QhOLf9IUtzaS%2FgXdlANVw%2FVlY%3D&ddkey=http%3AManageShoppingCartCmd) $60 annual fee, valid at all Costco locations worldwide, purchase for resale
 * [Executive Members:](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/QuickMembershipApplicationView?catalogId=10701&langId=-1&storeId=10301&krypto=h1OXv6tU3UkMLZWjDFxv%2FQCkaCGx65GC4BFsg8cXQfxkOkvgo6ALO%2Bl6ejb71sRxEBtFqB1SJq%2F1gW68DYBbGEzOo84201p4iK0Cyq%2FU3NaO%2BI0oWIsB%2B2v2xwjhURsu8Y0R2K685otVKnbYQ6fcPQNT%2FY1UhiqNBzuKDHglFjo7zSgvD8Yh6M%2F5J0XOECfkfaKZ%2FUphCOFrecBhX%2FrYipxztA0naD%2FeVuf9ykUqYl6grkgrx93XzMWi7Qs238bZK%2BgNSeyxdXBi0r18zamgB%2BAkpSuQQlNza4qXd3eJk7Q%3D&ddkey=http%3AManageShoppingCartCmd) $120 annual fee, valid at all Costco locations worldwide, annual 2% cash back on Costco purchases
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Latest Costco Cyber Monday deals still available**
 
@@ -101,6 +105,10 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Samsung 55-inch OLED S95B Series 4K TV for $1,700 (save $450) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-55%22-class---oled-s95b-series---4k-uhd-tv---allstate-3-year-protection-plan-bundle-included-for-5-years-of-total-coverage%2A.product.4000045530.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Costco Cyber Monday laptop & computer deals still available**
 
 [Acer Aspire Vero 14-inch Intel Core i5 for $450 (save $250) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/acer-aspire-vero-14%22-laptop---12th-gen-intel-core-i5-1235u---1080p---windows-11.product.4000055208.html)
@@ -124,7 +132,7 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 [Roku Ultra 4K + Roku Stick 4K for $90 (save $40) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/roku-ultra-4k-%282022%29-with-voice-remote-pro-&-roku-stick-4k-with-voice-remote.product.100839742.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Costco Cyber Monday tablet deals still available**
@@ -134,10 +142,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 [Samsung Galaxy 12.4" Tab S7 + Keyboard for $460 (Save $140) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-galaxy-12.4%22-tab-s7-fe-wi-fi-tablet-64gb---mystic-black---includes-keyboard.product.100792001.html)
 
 [Samsung Galaxy 10.4-inch S6 Lite Tab + Book cover for $260 (save $120) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-galaxy-10.4%22-tab-s6-lite-64gb---oxford-gray---includes-book-cover.product.100660228.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Costco Cyber Monday headphone deals still available**
 
@@ -149,9 +153,17 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Apple AirPods (2nd Gen) for $100 (save $20) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/apple-airpods-wireless-headphones-with-charging-case-%282nd-generation%29.product.100487204.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Costco Cyber Monday smartwatch deals still available**
 
 [Apple Watch Series 8 GPS (in Silver or Midnight) for $350 (Save $40) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/apple-watch-series-8-gps.product.100813018.html)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Costco Cyber Monday camera deals still available**
 
@@ -169,13 +181,13 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Ring Security 14-pc Kit for $230 (Save $120) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/ring-security-alarm-14-piece-kit-%28gen-2%29-with-stick-up-cam%2c-smokeco-listener-and-range-extender.product.100849368.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these Cyber Monday Costco deals?
 
 As a Costco member, I'm always on the lookout for the best deals and, thankfully, Costco makes this easy by consistently offering great deals on high-quality items. Here at ZDNET, we do the legwork for you and round up the best ones through research, experience, and our own expertise.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's the best Costco membership type?
 
@@ -191,7 +203,7 @@ Here's how the different memberships stack up:
 | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Additional benefits for Travel and Costco services                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What were Costco's holiday hours during Black Friday and Cyber Monday?
@@ -211,7 +223,7 @@ Cyber Monday takes place on the next Monday following the Thanksgiving holiday a
 Black Friday 2022 was on November 25th, 2022; the day after Thanksgiving.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals 2022?
@@ -221,10 +233,6 @@ ZDNET scoured holiday sales to find the best deals this year:
 * [The best holiday 2022 deals](https://www.zdnet.com/article/best-early-black-friday-deals-amazon-walmart-best-buy-and-more/)
 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Holiday deals by retailer**
 
@@ -241,10 +249,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best holiday 2022 Samsung deals](https://www.zdnet.com/article/samsung-best-holiday-deals-2022/)
 * [The best holiday 2022 Dell deals](http://zdnet.com/article/dell-best-holiday-deals-2022/)
 * [The best holiday 2022 HP deals](https://www.zdnet.com/home-and-office/hp-best-holiday-deals-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Holiday deals by category**
 
@@ -271,10 +275,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
  Here are some of the cheapest deals we found:
 
 * [The best holiday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-holiday-deals-under-30-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
 
@@ -324,22 +324,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-enhancing-your-aesthetic-vision-for-2024/"><u>[New] Enhancing Your Aesthetic Vision for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-greatest-20-open-source-copy-free-pubg/"><u>[Updated] In 2024, Greatest 20 Open Source, Copy-Free PUBG</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unpacking-video-editing-excellence-is-inshot-at-the-top/"><u>[Updated] Unpacking Video Editing Excellence Is InShot at the Top?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/bokeh-beauty-tips-for-engaging-instagram-stories/"><u>Bokeh Beauty Tips for Engaging Instagram Stories</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-t2x-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo T2x 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-11-pro-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 11 Pro Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-is-your-yt-channel-earning-as-it-should-tips-to-find-out/"><u>In 2024, Is Your YT Channel Earning as It Should? – Tips to Find Out</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovations-and-reviews-on-top-tech-products-by-toms-hardware-experts/"><u>Innovations and Reviews on Top Tech Products by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-nzxt-h7-flow-reliability-over-innovation/"><u>Inside the NZXT H7 Flow: Reliability Over Innovation?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-pc-parts-and-devices-a-look-with-toms-hardware/"><u>Inside the World of PC Parts & Devices – A Look with Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-tech-expert-reviews-from-toms-hardware/"><u>Navigate the World of Tech: Expert Reviews From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/powering-up-performance-a-detailed-look-at-lexars-20-gbps-storage-giants-sl500-and-sl600-models/"><u>Powering Up Performance: A Detailed Look at Lexar's 20 Gbps Storage Giants - SL500 and SL600 Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/retrieving-ransacked-chatgpt-records/"><u>Retrieving Ransacked ChatGPT Records</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/solution-a-subdivision-plat-records-new-lot-boundaries-and-relevant-details-for-official-use-providing-a-legally-binding-representation-of-the-divided-prope16/"><u>Solution: A Subdivision Plat Records New Lot Boundaries and Relevant Details for Official Use, Providing a Legally Binding Representation of the Divided Property</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-maximizing-your-microcontroller-experience-with-the-budget-friendly-cytron-maker-uno-rp2040/"><u>The Ultimate Guide to Maximizing Your Microcontroller Experience with the Budget-Friendly Cytron Maker Uno RP2040</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-laptop-and-mobile-roadmap-for-old-facebook-stories/"><u>The Ultimate Laptop & Mobile Roadmap for Old Facebook Stories</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-hardware/"><u>Tom's Tech Review: Expert Insights on Hardware</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-full-length-video-view-remove-youtube-preview/"><u>[New] 2024 Approved Full-Length Video View Remove YouTube Preview</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-high-end-cooling-solved-a-comprehensive-look-at-the-id-cooling-fx360-pro-for-60/"><u>Affordable High-End Cooling Solved: A Comprehensive Look at the ID-Cooling FX360 Pro for $60</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-raspberry-pi-5-enhanced-by-pi-52s-cooling-tower-speedy-performance-uncovered/"><u>Expert Analysis: Raspberry Pi 5 Enhanced by Pi 52'S Cooling Tower - Speedy Performance Uncovered</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-technology-hub-gadgets-and-hardware-insights/"><u>Exploring Tom's Technology Hub: Gadgets & Hardware Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-principles-of-net-neutrality-a-clear-explanation/"><u>Navigating the Principles of Net Neutrality: A Clear Explanation</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-pathways-to-profit-with-youtube-short-videos/"><u>Proven Pathways to Profit with YouTube Short Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-artisans-touch-skillfully-applying-face-centric-motion-blur-using-picsart-for-2024/"><u>The Artisan’s Touch Skillfully Applying Face-Centric Motion Blur Using Picsart for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95702351-9781608684489-the-leap/"><u>The Leap | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-race-for-excellence-in-solid-state-drives-unveiling-performance-secrets-of-lexars-elite-sl500-and-sl600-series-with-exceptional-20g-transfer-rates/"><u>The Race for Excellence in Solid State Drives: Unveiling Performance Secrets of Lexar's Elite SL500 and SL600 Series with Exceptional 20G Transfer Rates</u></a></li>
 </ul></div>
 

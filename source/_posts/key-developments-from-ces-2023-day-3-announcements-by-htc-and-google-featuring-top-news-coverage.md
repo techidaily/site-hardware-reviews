@@ -1,7 +1,7 @@
 ---
 title: "Key Developments From CES 2023 Day 3: Announcements by HTC and Google, Featuring Top News Coverage"
-date: 2025-01-07T20:56:09.826Z
-updated: 2025-01-13T01:02:02.427Z
+date: 2025-01-17T22:44:59.378Z
+updated: 2025-01-25T01:32:55.943Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Of course, I can't forget the speaker system. Dell's Inspiron 14 2-in-1 has a ni
 For the battery, I performed ZDNET's usual test of running a medium load on the laptop. This consists of playing a YouTube livestream nonstop at 720p and 50% brightness. I clocked the Inspiron 2-in-1 at about eight hours max while on Best Power Efficiency mode. Not too shabby; that's enough to last you a whole day, although it would've been nice if it lasted 10 or 12 hours. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,21 +114,21 @@ I also recommend picking Midnight Blue as your laptop color. The Ice Blue option
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-ace-the-art-of-tiktok-unboxing-more-likes-less-effort/"><u>[New] Ace the Art of TikTok Unboxing More Likes, Less Effort</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-how-to-make-reels-on-facebook/"><u>[New] How to Make Reels on Facebook?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asrock-z790i-lightning-wireless-review-unveiling-the-power-of-miniaturized-wi-fi/"><u>ASRock Z790I Lightning Wireless Review: Unveiling the Power of Miniaturized Wi-Fi</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-tips-to-sharpen-video-calls-with-zoom-in-teams/"><u>Expert Tips to Sharpen Video Calls with ZOOM in Teams</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-gear-hub/"><u>Exploring Technology with Tom's Gear Hub</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/484204-9780307555571-how-to-defend-yourself-against-alien-abduction/"><u>How to Defend Yourself Against Alien Abduction | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ifa-showcase-cutting-edge-laptops-of-2023/"><u>IFA Showcase: Cutting-Edge Laptops of 2023</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-lifecam-videoapp-quality-checkup/"><u>In 2024, LifeCam VideoApp Quality Checkup</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-in-depth-analysis-and-gear-reviews/"><u>Inside Tom's Hardware: In-Depth Analysis and Gear Reviews</u></a></li>
-<li><a href="https://techtrends.techidaily.com/leading-group-calls-and-video-messaging-services-reviewed/"><u>Leading Group Calls and Video Messaging Services Reviewed</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nalize-your-tune-list-a-step-by-step-guide-to-youtube-playlist-creation/"><u>Personalize Your Tune List A Step-by-Step Guide to YouTube Playlist Creation</u></a></li>
-<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-hardware-insights/"><u>Tom's Tech Review: In-Depth Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlock-the-secrets-of-gadgets-with-expert-guidance-from-toms-hardware/"><u>Unlock the Secrets of Gadgets with Expert Guidance From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-a-closer-look-at-components-with-toms-hardware/"><u>Unveiling Tech Secrets: A Closer Look at Components with Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-speed-reviewing-kingstons-high-performance-fury-beast-ddr5-at-6000mhz-with-latency-c40/"><u>Unveiling the Power of Speed: Reviewing Kingston's High-Performance Fury Beast - DDR5 at 6,000MHz with Latency C40</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-winning-9-gif-recorder-apps-master-your-animated-archive/"><u>[New] 2024 Approved Winning 9 GIF Recorder Apps Master Your Animated Archive</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-cost-effective-pc-video-capturing-essentials-checklist/"><u>[Updated] 2024 Approved Cost-Effective PC Video Capturing Essentials Checklist</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-enhance-audio-quality-get-high-quality-fx/"><u>2024 Approved Enhance Audio Quality, Get High-Quality FX!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-zombie-survival-quest-top-8-game-guide/"><u>2024 Approved Zombie Survival Quest - Top 8 Game Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-common-issues-top-10-solutions-for-non-functional-widgets-on-ios-devices/"><u>Fixing Common Issues: Top 10 Solutions for Non-Functional Widgets on iOS Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-x50-gt-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor X50 GT Phone?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-honor-magic-6-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Honor Magic 6 Pro to iPod | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamlining-dialogue-leveraging-siri-for-chatgpt-on-iphone/"><u>Streamlining Dialogue: Leveraging Siri for ChatGPT on iPhone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-insights-on-hardware-innovations/"><u>Tom's Tech Review: Insights on Hardware Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-hardware-t17238628801617/"><u>Tom's Tech Reviews: The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-tech-advice-on-computer-components-by-professionals-at-toms-hardware/"><u>Top Tech Advice on Computer Components by Professionals at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-toms-computer-and-electronics-store-pioneering-tech-solutions/"><u>Top Tom's Computer & Electronics Store: Pioneering Tech Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tower-of-fantasy-crashes-on-windows-discover-effective-fixes-here/"><u>Tower of Fantasy Crashes on Windows? Discover Effective Fixes Here</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transform-your-gaming-setup-with-innocns-budget-friendly-27-240hz-ips-display-purchase-now-at-only-1ebn/"><u>Transform Your Gaming Setup with Innocn's Budget-Friendly, 27 240Hz IPS Display - Purchase Now at Only $1Ebn!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-gaming-display-breakdown-asrock-pg2nqft2a-monitor-at-a-whopping-180hz-is-it-worth-it/"><u>Ultimate Gaming Display Breakdown: ASRock PG2nQFT2a Monitor at a Whopping 180Hz - Is It Worth It?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-your-gadget-potential-trustworthy-reviews-by-toms-experts/"><u>Unleash Your Gadget Potential: Trustworthy Reviews by Tom's Experts</u></a></li>
 </ul></div>
 

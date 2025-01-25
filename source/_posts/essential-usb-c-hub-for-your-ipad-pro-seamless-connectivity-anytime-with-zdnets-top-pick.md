@@ -1,7 +1,7 @@
 ---
 title: "Essential USB-C Hub for Your iPad Pro: Seamless Connectivity Anytime with ZDNet's Top Pick"
-date: 2025-01-17T16:22:36.144Z
-updated: 2025-01-18T18:32:20.213Z
+date: 2025-01-19T01:19:32.344Z
+updated: 2025-01-25T00:46:43.987Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -44,6 +40,10 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -59,7 +59,7 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -82,10 +82,6 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How does it perform?
 
 The twin 13.3-inch OLED displays look exceptional with deep black levels, vibrant colors, and 400 nits of brightness (a.k.a. enough for most lighting situations). They each sport 2.8K resolutions, so everything looks crisp, and Lenovo even includes 16:10 aspect ratios so you get a bit extra vertical room. They're also Dolby Vision certified. I have zero complaints about these screens, besides the fact they only have 60Hz refresh rates.
@@ -105,6 +101,10 @@ The verdict? It's a speedy machine. The Core Ultra processor feels snappier than
 To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about seven to eight hours of usage on a full charge. [In my testing](https://www.zdnet.com/article/how-we-test-laptops/), I was able to get to about seven hours of usage before it conked out, which is perfectly fine since 1.) this laptop has two screens and 2.) some pricier laptops like the [Surface Laptop Studio 2](https://www.zdnet.com/article/microsoft-surface-laptop-studio-2-review/) can't get anywhere near that.
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
 
@@ -127,7 +127,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -141,7 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -182,24 +182,16 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-webcam-selection-guide-the-10-best-picks-unveiled/"><u>[New] In 2024, Webcam Selection Guide The 10 Best Picks Unveiled</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-popcorn-predictions-apples-no1-free-and-paid-film-watchers-guide/"><u>[New] Popcorn Predictions Apple's No.1, Free & Paid Film Watchers Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-mastering-content-capture-5-must-have-social-apps/"><u>[Updated] In 2024, Mastering Content Capture 5 Must-Have Social Apps</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/before-you-decide-the-5-most-important-considerations-when-selecting-a-wearable-fitness-device/"><u>Before You Decide: The 5 Most Important Considerations When Selecting a Wearable Fitness Device</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-no-more-freezes-game-performance-improved/"><u>Cyberpunk 2077 No More Freezes - Game Performance Improved</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/discovering-if-quick-youtube-subscriptions-really-work/"><u>Discovering if Quick YouTube Subscriptions Really Work</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-electronic-innovations-top-reviews-for-hardcore-tech-enthusiasts/"><u>Exploring Tom's Electronic Innovations: Top Reviews for Hardcore Tech Enthusiasts</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/keychron-q1-he-unveiled-the-long-awaited-perfect-blend-of-speed-and-portability-for-your-wireless-needs/"><u>Keychron Q1 HE Unveiled: The Long-Awaited Perfect Blend of Speed and Portability for Your Wireless Needs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-pc-specs-tips-and-tricks-by-toms-system-experts/"><u>Navigating PC Specs: Tips and Tricks by Tom's System Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-computer-analysis-with-toms-hardware-chronicles/"><u>Pioneering Computer Analysis with Tom's Hardware Chronicles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restoring-your-wacom-tablets-power-a-step-by-step-guide-to-solving-common-issues/"><u>Restoring Your Wacom Tablet's Power: A Step-by-Step Guide to Solving Common Issues</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-portability-with-the-asrock-z790i-lightning-wi-fi-card-an-in-depth-review/"><u>Revolutionizing Portability with the ASRock Z790I Lightning Wi-Fi Card: An In-Depth Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341701667-seek-immediate-medical-attention-for-all-significant-eye-injuries-to-prevent-complications-such-as-glaucoma-or-retinal-detachment/"><u>Seek Immediate Medical Attention for All Significant Eye Injuries to Prevent Complications Such as Glaucoma or Retinal Detachment.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-art-of-perfection-an-in-depth-evaluation-of-the-asus-rog-swift-pg32ucdp-oled-monitor/"><u>The Art of Perfection: An In-Depth Evaluation of the Asus ROG Swift PG32UCDP OLED Monitor</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-gear-expert-insights-on-latest-hardware/"><u>Tom's Tech Gear: Expert Insights on Latest Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-guides-and-reviews/"><u>Tom's Tech Insights: Comprehensive Guides & Reviews</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/unleash-your-potential-with-snapchats-commerce-tools-for-2024/"><u>Unleash Your Potential with Snapchat's Commerce Tools for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/upgrading-minecraft-stability-via-ram-adjustment/"><u>Upgrading Minecraft Stability via RAM Adjustment</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-exploiting-slow-motion-magic-in-phantom/"><u>[New] 2024 Approved Exploiting Slow-Motion Magic in Phantom</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-essential-knowledge-recording-google-voice-calls/"><u>2024 Approved Essential Knowledge Recording Google Voice Calls</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-toms-comprehensive-computer-hardware-reviews-and-insights/"><u>Discover Tom's Comprehensive Computer Hardware Reviews & Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/from-basics-to-advanced-selecting-premium-components-with-toms-hardware-guidance/"><u>From Basics to Advanced: Selecting Premium Components with Tom's Hardware Guidance</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-best-screen-recorder-no-ads-for-android/"><u>In 2024, Best Screen Recorder No Ads for Android</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-realme-12-pro-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Realme 12 Pro 5G? Try These Fixes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-leading-5-display-choices-for-ps5-gamers/"><u>In 2024, Leading 5 Display Choices for PS5 Gamers</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/keine-panik-mehr-warum-ihr-gerat-nicht-migriert-anzeigt-10-schritte-zur-losung-mit-externen-speichern/"><u>Keine Panik Mehr: Warum Ihr Gerät 'Nicht Migriert' Anzeigt - 10 Schritte Zur Lösung Mit Externen Speichern.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-modern-electronics-wisdom-from-toms-hardware-gurus/"><u>Navigating Modern Electronics: Wisdom From Tom's Hardware Gurus</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/stop-the-mist-secrets-to-a-clean-gopro-shot/"><u>Stop the Mist Secrets to a Clean GoPro Shot</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-on-modern-workloads-the-gigabyte-b760m-ds3h-ax-revealed-entry-level-motherboard-for-three-monitor-setups/"><u>Taking on Modern Workloads - The Gigabyte B760M DS3H AX Revealed: Entry-Level Motherboard for Three Monitor Setups</u></a></li>
 </ul></div>
 

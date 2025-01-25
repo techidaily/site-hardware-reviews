@@ -1,7 +1,7 @@
 ---
 title: "Solar-Powered Irrigation Controllers:"
-date: 2024-09-18 15:36:11
-updated: 2024-09-20 11:26:38
+date: 2025-01-17T21:19:23.649Z
+updated: 2025-01-24T22:21:09.203Z
 tags:
   - kitchen-household
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
 ![EcoFlow Delta Pro 3 portable battery](https://www.zdnet.com/a/img/resize/493a0e14c2076aa82dd15d43be4c51552702595c/2024/06/20/9d465ec0-9e8c-4fee-b2aa-d5b5ce343244/2.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -77,6 +81,10 @@ How did it fare? The power returned about three hours later, and the Delta Pro 3
 
 Aside from this power outage, [we've tested](https://www.zdnet.com/home-and-office/energy/how-we-test-portable-power-stations/) the Delta Pro 3 as a standalone battery to power a home office setup, keeping consumption between 50W and 120W. The DP3 powered an LCD monitor, a Dell XPS laptop, a phone charger, and a USB-C tablet charger for four days. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Accessories-Emergencies%2Fdp%2FB0D14FMFZD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1) is an excellent option for anyone looking for a higher-capacity portable battery for camping or as an emergency home backup, as long as you're willing to pay the price, literally. It's not a cheap option among portable batteries, priced at $3199, which is about $400 less than the price of a [Delta Pro and Dual fuel inverter generator bundle](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Generator-High-Power-Appliances%2Fdp%2FB0BKGLCVRR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1).
@@ -106,11 +114,27 @@ Though priced high, the Delta Pro 3 seamlessly integrates into an EcoFlow home b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-night-time-captures-with-iphone/"><u>[Updated] Navigating Night-Time Captures with iPhone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/rw2-to-jpg-by-movavi/"><u>免費のオンライン画像変換：RW2 to JPG by Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-review-center/"><u>Exploring Gadgets with Tom's Hardware Review Center</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-with-toms-technology-insights/"><u>Exploring Hardware with Tom's Technology Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-gaming-laptop-excellence-for-less-acers-rtx-4070-and-amd-powered-nitro-16-just-1129/"><u>Get Gaming Laptop Excellence for Less: Acer's RTX 4070 & AMD-Powered Nitro 16 - Just $1,129</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hurry-exclusive-deal-on-the-rog-strix-g16-2024-just-1164-available-now-on-amazon/"><u>Hurry! Exclusive Deal on the ROG Strix G16 2024: Just $1,164 Available Now on Amazon!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-poco-m6-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Poco M6 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-essential-tools-for-youtube-live-broadcasting-reveal-the-7-key-apps/"><u>In 2024, Essential Tools for YouTube LIVE Broadcasting Reveal the 7 Key Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-updates-to-laptop-frameworks-now-offer-new-intel-amd-zen-4-options-for-enthusiasts/"><u>Innovative Updates to Laptop Frameworks Now Offer New Intel, AMD Zen 4 Options for Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-circuitry-insightful-guidance-from-toms-tech-domain/"><u>Inside the Circuitry: Insightful Guidance From Tom's Tech Domain</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tracing-back-to-the-roots-how-and-when-was-ai-born/"><u>Tracing Back to the Roots: How and When Was AI Born?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-new-s2-app-for-sonos-systems-enhanced-audio-at-a-cost-insights/"><u>Unveiling the New S2 App for Sonos Systems: Enhanced Audio at a Cost - Insights</u></a></li>
+</ul></div>
+

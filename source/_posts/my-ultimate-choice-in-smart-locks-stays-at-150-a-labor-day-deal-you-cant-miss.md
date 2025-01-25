@@ -1,7 +1,7 @@
 ---
 title: My Ultimate Choice in Smart Locks Stays at $150 - A Labor Day Deal You Can’t Miss!
-date: 2024-09-17 13:46:29
-updated: 2024-09-20 10:39:55
+date: 2025-01-17T23:04:11.997Z
+updated: 2025-01-25T01:21:08.488Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,29 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-reviews.techidaily.com/a-critical-look-at-displayport-21s-shortcomings-with-uhbr-certified-cables-and-how-it-influences-nvidia-to-continue-with-dp-14-for-the-rtx-40-series/"><u>A Critical Look at DisplayPort 2.1'S Shortcomings With UHBR Certified Cables - And How It Influences Nvidia to Continue with DP 1.4 for the RTX 40-Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amazons-exclusive-deal-top-of-the-line-asus-tuf-34-monitor-curved-display-lowest-price-at-249/"><u>Amazon's Exclusive Deal: Top-of-the-Line Asus TUF 34 Monitor, Curved Display – Lowest Price at $249</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/aoc-breaks-into-professional-sector-with-dynamic-u3-lineup-for-graphic-professionals/"><u>AOC Breaks Into Professional Sector with Dynamic U3 Lineup for Graphic Professionals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-1399-ultrawide-240-hz-oled-monitor-the-latest-launch-from-aocs-agon-pro-ag456uczd-series/"><u>Discover Cutting-Edge: $1,399 Ultrawide 240 Hz OLED Monitor - The Latest Launch From AOC's Agon Pro AG456UCZD Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-advanced-computing-at-toms-tech-store/"><u>Dive Into Advanced Computing at Tom's Tech Store</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-freebie-top-defrag-tools-revamped-for-july-2024/"><u>Essential Freebie: Top Defrag Tools Revamped for July 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/experience-a-seamless-journey-in-nier-replicant-your-ultimate-guide-to-stop-game-crashes/"><u>Experience a Seamless Journey in NieR: Replicant – Your Ultimate Guide to Stop Game Crashes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862834381-get-the-best-deal-just-249-for-a-stunning-34-inch-asus-tuf-curved-monitor-amazon-exclusive/"><u>Get the Best Deal: Just $249 for a Stunning 34-Inch Asus TUF Curved Monitor - Amazon Exclusive</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-poco-m6-pro-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Poco M6 Pro 5Gwith/without a PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-securely-download-and-install-amds-gpio-driver/"><u>How to Securely Download and Install AMD's GPIO Driver</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-mastering-windows-identifying-top-5-cutting-tools/"><u>In 2024, Mastering Windows Identifying Top 5 Cutting Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-7-strategies-to-resolve-persistent-icloud-sign-in-prompts-for-password/"><u>Top 7 Strategies to Resolve Persistent iCloud Sign-In Prompts for Password</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-resolve-multiversus-crashes-discover-the-eight-best-techniques/"><u>Troubleshoot & Resolve MultiVersus Crashes: Discover the Eight Best Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862829967-unbeatable-deal-alert-samsung-odyssey-g50a-27-inch-qhd-ips-monitor-drops-to-just-255-at-amazon/"><u>Unbeatable Deal Alert: Samsung Odyssey G50A 27-Inch QHD IPS Monitor Drops to Just $255 at Amazon</u></a></li>
+</ul></div>
+

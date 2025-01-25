@@ -1,7 +1,7 @@
 ---
 title: "Creating Your Own Floating Paradise: A Step-by-Step Guide to Building a Small Boat Garden with ZDNET"
-date: 2024-09-18 16:36:59
-updated: 2024-09-20 11:12:36
+date: 2025-01-17T16:00:16.311Z
+updated: 2025-01-24T22:06:13.744Z
 tags:
   - kitchen-household
 categories:
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/4e9a1c940b50724444178a8ca1ea00629e8b0a1b5
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the deal?
 
 The [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C779dbc92-ca1e-42d4-ac18-3c3ec18b0c7b%7Cdtp&dtb=1) is $30 off, available for $200 through [Labor Day](https://www.zdnet.com/article/best-labor-day-deals-2024-8-29/).
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -79,6 +87,10 @@ Maria Diaz/ZDNET
 
 The Ring Protect plan ranges from $5-$20 monthly, and aside from the mentioned features, it includes person alerts, the ability to arm and disarm the Ring system digitally, rich notifications, snapshot capture, and video history stored in the cloud for up to six months.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After using the [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C779dbc92-ca1e-42d4-ac18-3c3ec18b0c7b%7Cdtp&dtb=1) for a few weeks, I found it to be a reliable home security camera with all the extra features worth the price. The two-way talk audio quality was the most impressive I've ever tried, delivering crystal clear audio without echo. 
@@ -90,6 +102,10 @@ However, I was slightly disappointed by the video quality, which only goes up to
 A security camera of that resolution is not disappointing on its own, but it's a noticeable difference compared to the 2K-resolution Arlo Pro 5S that I previously had overlooking that area of my yard, though the Arlo is a little pricier, at $250\. To top it off, the [floodlight camera](https://www.zdnet.com/home-and-office/smart-home/eufys-new-floodlight-cam-e340-is-the-hardest-working-security-camera-ive-tested/) on the other side of my yard can go up to 3K resolution and is $10 cheaper than this Ring camera. 
 
 Additionally, many smart home users aren't prepared to pay monthly subscription fees to access plan-exclusive features, but plenty of users prefer the convenience of not having to worry about local storage and enjoy the extra perks a paid plan offers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -116,11 +132,33 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-audioadvisor-dacast-and-what-it-should-be/"><u>[New] In 2024, AudioAdvisor DaCast & What It Should Be</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-clever-circumventions-for-edgenuity-video-course-skipping/"><u>[New] In 2024, Clever Circumventions for Edgenuity Video Course Skipping</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-launch-fb-video-campaigns-utilize-the-gratis-creation-kit-for-2024/"><u>[New] Launch FB Video Campaigns Utilize the Gratis Creation Kit for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-anti-fog-gear-for-clear-shot-capture-in-cold-weather/"><u>[Updated] In 2024, Anti-Fog Gear for Clear Shot Capture in Cold Weather</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-easy-steps-to-screen-recording-across-oses-and-devices/"><u>[Updated] In 2024, Easy Steps to Screen Recording Across OSes & Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-quick-tips-for-capturing-online-video-conversations/"><u>[Updated] Quick Tips for Capturing Online Video Conversations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/all-about-video-frame-rates-essential-insights-and-facts/"><u>All About Video Frame Rates: Essential Insights and Facts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/portable-charging-with-a-twist-the-mophie-battery-includes-an-additional-ac-connection-for-versatile-use/"><u>Portable Charging with a Twist: The Mophie Battery Includes an Additional AC Connection for Versatile Use</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/quick-tips-for-flipping-and-adjusting-video-orientation-on-an-android-phone/"><u>Quick Tips for Flipping and Adjusting Video Orientation on an Android Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/recognizing-age-related-wear-and-tear-in-your-4-year-old-android-device/"><u>Recognizing Age-Related Wear and Tear in Your 4-Year-Old Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/say-goodbye-to-traditional-wallets-embracing-the-convenience-of-a-magnetic-phone-pouch/"><u>Say Goodbye to Traditional Wallets: Embracing the Convenience of a Magnetic Phone Pouch.</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/soluciones-efectivas-para-restaurar-fotografias-eliminadas-permanentemente-en-iphone-xrxsmax-modelos-11-13-and-14/"><u>Soluciones Efectivas Para Restaurar Fotografías Eliminadas Permanentemente en iPhone XR/XS/Max - Modelos 11, 13 & 14</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solve-these-prevalent-android-glitches-in-just-a-few-simple-steps/"><u>Solve These Prevalent Android Glitches in Just a Few Simple Steps!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-activating-safe-and-private-dns-settings-in-your-android-device/"><u>Step-by-Step Guide: Activating Safe & Private DNS Settings in Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-displaying-battery-status-in-percentage-on-your-android-device/"><u>Step-by-Step Guide: Displaying Battery Status in Percentage on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-dropping-markers-on-google-maps/"><u>Step-by-Step Guide: Dropping Markers on Google Maps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-switching-dns-settings-on-your-android-device/"><u>Step-by-Step Guide: Switching DNS Settings on Your Android Device</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/ultimate-kodi-masterclass-comprehensive-tutorials-and-essential-guides-for-users/"><u>Ultimate Kodi Masterclass: Comprehensive Tutorials & Essential Guides for Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-high-quality-portable-and-charger-enabled-usb-hubs-type-c/"><u>Ultimate Selection: High Quality Portable and Charger-Enabled USB Hubs (Type-C)</u></a></li>
+</ul></div>
+

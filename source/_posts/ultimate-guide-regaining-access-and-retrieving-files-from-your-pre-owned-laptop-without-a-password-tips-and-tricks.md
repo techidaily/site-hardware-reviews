@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Regaining Access and Retrieving Files From Your Pre-Owned Laptop Without a Password - Tips & Tricks"
-date: 2025-01-12T17:27:36.038Z
-updated: 2025-01-18T17:23:18.263Z
+date: 2025-01-23T22:43:12.886Z
+updated: 2025-01-25T01:46:19.846Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,24 +118,15 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-instagram-engage-obs-live-streaming/"><u>[New] Instagram Engage OBS Live Streaming</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-asus-display-a-journey-through-precision-and-color/"><u>[New] The Ultimate ASUS Display A Journey Through Precision and Color</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-5-online-titler-pros-unveiled/"><u>[New] Top 5 Online Titler Pros Unveiled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-proart-pa32ucxr-mini-led-monitor-evaluation-exceptional-color-fidelity-for-professional-creatives/"><u>Asus ProArt PA32UCXR Mini LED Monitor Evaluation: Exceptional Color Fidelity for Professional Creatives</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-power-an-experts-take-on-the-value-packed-gigabyte-b760m-ds3h-ax-motherboard-for-multi-screen-enthusiasts/"><u>Discover the Power: An Expert's Take on the Value-Packed Gigabyte B760M DS3H AX Motherboard for Multi-Screen Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-your-new-favorite-powerhouse-the-hp-victus-15-for-only-515-on-best-buys-antidote-to-prime-day-featured/"><u>Discover Your New Favorite Powerhouse: The HP Victus 15 for Only $515 on Best Buy's Antidote to Prime Day – Featured</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/dive-deep-into-google-meet-a-free-host-and-participants-guide/"><u>Dive Deep Into Google Meet A Free Host & Participant's Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-wartime-velocity-the-unconventional-flsun-s1-solar-charger-reviewed/"><u>Exploring Wartime Velocity - The Unconventional FLSun S1 Solar Charger Reviewed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-windows-speaker-sound-distortion-issue/"><u>How to Fix Window's Speaker Sound Distortion Issue</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-samsung-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Samsung using Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-transformative-tactics-for-impeccable-hue-correction/"><u>In 2024, Transformative Tactics for Impeccable Hue Correction</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-with-toms-hardware-insights-and-in-depth-analysis/"><u>Master Your PC with Tom's Hardware Insights and In-Depth Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-through-tech-the-toms-hardware-chronicles/"><u>Navigating Through Tech: The Tom's Hardware Chronicles</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-pc-reviews-and-hardware-analysis-toms-digital-chronicles/"><u>Pioneering PC Reviews and Hardware Analysis - Tom's Digital Chronicles</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341683423-surgical-intervention-may-be-necessary-for-certain-types-of-eye-injuries-to-preserve-vision-and-prevent-further-damage/"><u>Surgical Intervention May Be Necessary for Certain Types of Eye Injuries to Preserve Vision and Prevent Further Damage</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-key-to-successful-collaborations-in-the-digital-age-for-2024/"><u>The Key to Successful Collaborations in the Digital Age for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-unmatched-potential-of-the-pixio-px277-a-masterclass-on-an-exceptional-oled-gaming-screen/"><u>The Unmatched Potential of the Pixio PX277: A Masterclass on an Exceptional OLED Gaming Screen</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-a-comprehensive-guide-to-cutting-edge-gadgets/"><u>Tom's Tech: A Comprehensive Guide to Cutting-Edge Gadgets</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tracking-youtubes-signature-interactions/"><u>[New] Tracking YouTube's Signature Interactions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-silver-screen-to-verse-francophone-romance/"><u>From Silver Screen to Verse: Francophone Romance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-computer-world-a-deep-dive-into-the-latest-in-hardware-technology/"><u>Inside Tom’s Computer World: A Deep Dive Into the Latest in Hardware Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/insights-into-pc-hardware-by-experts-at-toms-hq/"><u>Insights Into PC Hardware by Experts at Tom's HQ</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-with-tom-insights-on-advanced-components-and-gadgets/"><u>Mastering Hardware with Tom: Insights on Advanced Components and Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-circuits-and-systems-at-toms-electronics-expo/"><u>Navigating Through Circuits and Systems at Tom's Electronics Expo</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/optimal-logitech-webcam-settings-for-professional-video-outputs-for-2024/"><u>Optimal Logitech Webcam Settings for Professional Video Outputs for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-adding-lines-in-microsoft-word/"><u>Step-by-Step Guide: Adding Lines in Microsoft Word</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-fundamentals-of-using-ffpm-in-firefox/"><u>The Fundamentals of Using FFPM in Firefox</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unleash-vibrant-canvas-cropping-adding-and-editing-sound-effectively-for-2024/"><u>Unleash Vibrant Canvas Cropping, Adding, & Editing Sound Effectively for 2024</u></a></li>
 </ul></div>
 

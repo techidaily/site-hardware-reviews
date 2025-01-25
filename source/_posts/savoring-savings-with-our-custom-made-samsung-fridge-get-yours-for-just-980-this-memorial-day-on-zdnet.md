@@ -1,7 +1,7 @@
 ---
 title: Savoring Savings with Our Custom-Made Samsung Fridge - Get Yours for Just $980 This Memorial Day on ZDNet
-date: 2024-09-17 21:22:35
-updated: 2024-09-20 11:46:57
+date: 2025-01-23T23:28:14.119Z
+updated: 2025-01-24T17:39:57.926Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,27 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-undetectable-volume-variations-in-garageband-artistry-for-2024/"><u>[Updated] Undetectable Volume Variations in Garageband Artistry for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-scansnap-s1100-software-swift-setup-and-compatibility-guide/"><u>Download the Latest Scansnap S1100 Software: Swift Setup & Compatibility Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovation-unleashed-in-chip-technology-as-intel-and-exxonmobil-develop-advanced-liquid-cooling-techniques-for-high-end-2cu-watts-tdp-xeon-processors/"><u>Innovation Unleashed in Chip Technology as Intel & ExxonMobil Develop Advanced Liquid Cooling Techniques for High-End 2Cu Watts TDP Xeon Processors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/magic-meets-machine-apples-groundbreaking-on-device-image-creator-eclipses-dall-e/"><u>Magic Meets Machine: Apple's Groundbreaking On-Device Image Creator Eclipses DALL-E</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/meet-your-next-smartphone-companer-the-amazing-entry-level-google-pixel-7a-arrives-now/"><u>Meet Your Next Smartphone Companer: The Amazing Entry-Level Google Pixel 7a Arrives Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/original-replacement-components-for-google-pixel-available-at-ifixit/"><u>Original Replacement Components for Google Pixel Available at iFixit</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/pioneering-easy-audio-alterations-for-competitive-play-for-2024/"><u>Pioneering Easy Audio Alterations for Competitive Play for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-adjusting-autofill-and-managing-passwords-in-android-devices/"><u>Step-by-Step Guide: Adjusting AutoFill & Managing Passwords in Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-how-to-send-your-text-messages-forward-from-an-android-device/"><u>Step-by-Step Guide: How to Send Your Text Messages Forward From an Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/steps-to-incorporate-vital-health-details-on-your-android-device/"><u>Steps to Incorporate Vital Health Details on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-secret-behind-exceptional-phone-experience-its-all-about-timeless-uncomplicated-design/"><u>The Secret Behind Exceptional Phone Experience: It's All About Timeless, Uncomplicated Design</u></a></li>
+<li><a href="https://win11.techidaily.com/top-windows-tools-to-maximize-webp-image-experience/"><u>Top Windows Tools to Maximize WebP Image Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-non-functional-lenovo-keyboard-solutions-explored/"><u>Troubleshooting a Non-Functional Lenovo Keyboard: Solutions Explored</u></a></li>
+</ul></div>
+

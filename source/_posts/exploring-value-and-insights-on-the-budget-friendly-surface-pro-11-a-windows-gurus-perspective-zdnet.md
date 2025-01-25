@@ -1,7 +1,7 @@
 ---
 title: "Exploring Value & Insights on the Budget-Friendly Surface Pro 11: A Windows Guru's Perspective - ZDNet"
-date: 2025-01-10T19:48:26.642Z
-updated: 2025-01-12T16:43:03.193Z
+date: 2025-01-17T22:46:20.020Z
+updated: 2025-01-24T23:14:44.221Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -49,7 +49,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -65,7 +65,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -121,7 +121,7 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,17 +192,22 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-dji-flying-series-fundamentals-advanced-features-high-res-vision/"><u>[New] 2024 Approved DJI Flying Series Fundamentals, Advanced Features, High-Res Vision</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-high-fidelity-viewing-at-home-with-eizos-4k-display/"><u>[New] High-Fidelity Viewing at Home with EIZO's 4K Display</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-catching-every-frame-leading-windows-10-capture-tools/"><u>[New] In 2024, Catching Every Frame Leading Windows 10 Capture Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-finns-funds-youtube-stars-weekly-take-home/"><u>[Updated] Finn's Funds YouTube Star’s Weekly Take-Home</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rt-ax57-go-wi-fi-6-mini-router-evaluation-the-ideal-travelers-internet-solution/"><u>Asus RT-AX57 Go Wi-Fi 6 Mini Router Evaluation: The Ideal Traveler's Internet Solution</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/innovative-high-definition-software-top-8-free-listings-for-2024/"><u>Innovative High Definition Software Top 8 FREE Listings for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-the-ultimate-resource-by-toms-hardware/"><u>Mastering Technology: The Ultimate Resource by Tom's Hardware</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/premium-high-definition-backdrops-and-banners-featuring-exquisite-jewels-from-yl-softwares-image-library/"><u>Premium High Definition Backdrops & Banners Featuring Exquisite Jewels From YL Software's Image Library</u></a></li>
-<li><a href="https://win11.techidaily.com/repair-restore-function-keys-in-windows-11/"><u>Repair: Restore Function Keys in Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/syncing-soundscape-and-scene-editing-tips-for-canva-videographers/"><u>Syncing Soundscape and Scene Editing Tips for Canva Videographers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/taking-pc-performance-to-the-next-level-with-crucials-pro-overclocking-ddr5-c36-ram-2x16gb-detailed-insights-and-benchmarks/"><u>Taking PC Performance to the Next Level with Crucial's Pro Overclocking DDR5 C36 RAM (2X16GB) - Detailed Insights & Benchmarks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Gadget Analysis</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-thumbnail-length-a-guide-to-captivating-audiences/"><u>[New] 2024 Approved Thumbnail Length A Guide to Captivating Audiences</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-game-changing-strategies-for-effective-video-capture/"><u>[New] Game-Changing Strategies for Effective Video Capture</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-youtube-on-facebook-the-art-of-video-creation-for-2024/"><u>[New] Mastering YouTube on Facebook The Art of Video Creation for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unlocking-the-full-potential-of-morphvox-alchemy/"><u>[Updated] In 2024, Unlocking the Full Potential of MorphVOX Alchemy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/efficient-techniques-for-app-management-and-removal-on-samsung-smart-tvs/"><u>Efficient Techniques for App Management & Removal on Samsung Smart TVs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-build-with-gskills-trident-z5-rgb-memory-sticks-an-ideal-choice-for-2x48gb-motherboard-setups/"><u>Elevate Your Build with G.SKILL's Trident Z5 RGB Memory Sticks - An Ideal Choice for 2X48GB Motherboard Setups</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341710933-experience-unmatched-precision-and-comfort-in-depth-look-at-the-keychron-q1-he-the-long-awaited-wireless-mx-version/"><u>Experience Unmatched Precision and Comfort - In-Depth Look at the Keychron Q1 HE, The Long-Awaited Wireless MX Version!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-11-pro-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone 11 Pro Smoothly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-tech-essentials-the-ultimate-guide-by-toms-hardware/"><u>Mastering Tech Essentials - The Ultimate Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-device-choices-with-toms-hardware-wisdom/"><u>Mastering Your Device Choices with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-digital-world-top-reviews-from-toms-hardware-experts/"><u>Mastering Your Digital World: Top Reviews From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-trends-on-toms-hardware-platform/"><u>Navigating Technology Trends on Tom's Hardware Platform</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-glitch-your-way-to-creativity-top-free-online-tools-for-2024/"><u>New Glitch Your Way to Creativity Top Free Online Tools for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/publique-e-compartilhe-seu-conteudo-no-google-promovendo-sua-postagem-nas-redes-sociais-para-aumentar-a-visibilidade/"><u>Publique E Compartilhe Seu Conteúdo No Google, Promovendo Sua Postagem Nas Redes Sociais Para Aumentar a Visibilidade.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-mu-reviewed-speedy-performance-that-surpasses-raspberry-pi-4-yet-comes-with-a-price-tag/"><u>The Mu Reviewed: Speedy Performance That Surpasses Raspberry Pi 4 Yet Comes With a Price Tag</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-comprehensive-guide-and-reviews/"><u>Tom's Tech: Comprehensive Guide and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-pick-for-portable-power-players-in-depth-analysis-of-the-asus-rog-ally-x-handheld-console/"><u>Top Pick for Portable Power Players: In-Depth Analysis of the Asus ROG Ally X Handheld Console</u></a></li>
 </ul></div>
 

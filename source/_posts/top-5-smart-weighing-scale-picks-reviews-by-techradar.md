@@ -1,7 +1,7 @@
 ---
 title: Top 5 Smart Weighing Scale Picks - Reviews by TechRadar
-date: 2024-09-17 17:34:57
-updated: 2024-09-20 10:55:20
+date: 2025-01-20T18:01:52.808Z
+updated: 2025-01-25T01:27:47.960Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,27 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-scripting-summative-stories/"><u>2024 Approved Scripting Summative Stories</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/carryminati-unmasked-the-monetary-milestones-for-2024/"><u>CarryMinati Unmasked The Monetary Milestones for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Hacks to do pokemon go trainer battles For Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-tecno-spark-20-proplus-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Tecno Spark 20 Pro+ Fingerprint Lock</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-elevate-your-video-conferencing-mastering-zoom-filters/"><u>In 2024, Elevate Your Video Conferencing Mastering Zoom Filters</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterclass-perfecting-home-theater-on-xbox-sx/"><u>Masterclass: Perfecting Home Theater on XBox SX</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solving-emergency-calls-only-on-your-android-device-a-comprehensive-guide/"><u>Solving 'Emergency Calls Only' On Your Android Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solving-connectivity-woes-understanding-why-your-smartphone-keeps-losing-wi-fi-connection/"><u>Solving Connectivity Woes: Understanding Why Your Smartphone Keeps Losing Wi-Fi Connection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-how-to-effortlessly-migrate-contacts-to-your-new-android-smartphone/"><u>Step-by-Step Guide: How to Effortlessly Migrate Contacts to Your New Android Smartphone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-turning-off-automatic-mac-address-generation-on-your-android-device/"><u>Step-by-Step Guide: Turning Off Automatic MAC Address Generation on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-instructions-for-adding-music-files-to-your-android-smartphone/"><u>Step-by-Step Instructions for Adding Music Files to Your Android Smartphone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-comprehensive-fix-guide-to-stop-fifa-21-from-freezing-and-crashing/"><u>The Comprehensive Fix Guide to Stop FIFA 21 From Freezing and Crashing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-revolutionize-your-videos-top-3d-animation-makers-revealed/"><u>Updated In 2024, Revolutionize Your Videos Top 3D Animation Makers Revealed</u></a></li>
+</ul></div>
+

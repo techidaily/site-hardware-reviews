@@ -1,7 +1,7 @@
 ---
 title: "Norbert's Approval: A Glowing Review of the Smart Wet Food Dispenser for Cats | ZDNET"
-date: 2024-09-17 23:49:54
-updated: 2024-09-20 10:16:16
+date: 2025-01-19T17:19:31.028Z
+updated: 2025-01-24T16:27:12.286Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,31 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-love-in-action-top-9-premium-wedding-films-on-youtube-and-vimeo/"><u>[New] 2024 Approved Love in Action Top 9 Premium Wedding Films on YouTube and Vimeo</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-precision-in-online-viewing-a-zoomers-handbook/"><u>[New] 2024 Approved Precision in Online Viewing A Zoomer's Handbook</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-dissecting-instagrams-maximum-video-duration-rule-for-2024/"><u>[New] Dissecting Instagram's Maximum Video Duration Rule for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-premium-apps-for-gaming-playback/"><u>[Updated] Premium Apps for Gaming Playback</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-upload-with-ease-instagram-and-vimeo-harmony/"><u>2024 Approved Upload with Ease Instagram and Vimeo Harmony</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-newcomers-path-in-the-world-of-original-diablo/"><u>A Newcomer's Path in the World of Original Diablo</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862716225-ace-gamers-deal-the-ultimate-combo-of-power-and-savings-msi-bravo-laptop-with-rtx-4060-under-1k/"><u>Ace Gamers’ Deal: The Ultimate Combo of Power and Savings - MSI Bravo Laptop with RTX 4060 Under $1K</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-zephyrus-g14-rtx-4060-steals-show-with-a-sizzling-1099-offer-only-at-best-buy/"><u>Asus ROG Zephyrus G14 RTX 4060 Steals Show with a Sizzling $1,099 Offer Only at Best Buy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862695736-cut-costs-on-high-tech-get-asus-2024-rog-zephyrus-g14-with-stunning-oled-and-nvidia-rtx/"><u>Cut Costs on High-Tech: Get Asus' 2024 ROG Zephyrus G14 with Stunning OLED & Nvidia RTX 지킬하세요</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862735316-experience-next-level-gaming-the-lenovo-legion-slim-5-boosted-by-the-powerful-rtx-4060-gpu-all-for-only-899/"><u>Experience Next-Level Gaming: The Lenovo Legion Slim 5, Boosted by the Powerful RTX 4060 GPU - All For Only $899</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-samsung-un6e-55un8000fxza-overpriced-and-underwhelming-smart-tv/"><u>Expert Analysis of Samsung UN6e 55UN8000FXZA - Overpriced and Underwhelming Smart TV</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-digital-creatives-screen-selection-best-photo-editing-views/"><u>In 2024, Digital Creatives' Screen Selection - Best Photo Editing Views</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-you-dont-necessarily-have-to-know-a-lot-about-photo-or-video-editing-process-in-order-to-add-a-vignette-to-a-picture-or-adjust-its-color-brightness-or-h/"><u>New You Dont Necessarily Have to Know a Lot About Photo or Video Editing Process in Order to Add a Vignette to a Picture or Adjust Its Color, Brightness or Highlights. In This Article We Are Going to Ta</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862736044-score-a-bargain-16-inch-macbook-pro-w-m3-chip-at-discounted-prices-pre-prime-day/"><u>Score a Bargain: 16-Inch MacBook Pro W/ M3 Chip at Discounted Prices Pre-Prime Day!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-performance-hps-new-omnibook-ultra-14-features-cutting-edge-amd-ryzen-ai-300-and-lightning-fast-thunderbolt-4/"><u>Ultimate Performance: HP's New OmniBook Ultra 14 Features Cutting-Edge AMD Ryzen AI 300 & Lightning Fast Thunderbolt 4</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-showdown-intel-core-i7-2580m-vs-amd-ryzen-phoenix-bapco-benchmark-revelations/"><u>Ultimate Showdown: Intel Core I7-2580M vs AMD Ryzen Phoenix - BAPCO Benchmark Revelations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-next-level-gaming-with-asus-rog-strix-g16-at-an-incredible-amazon-offer-of-just-1164/"><u>Unleash Next-Level Gaming with ASUS Rog Strix G16 at an Incredible Amazon Offer of Just $1,164</u></a></li>
+</ul></div>
+

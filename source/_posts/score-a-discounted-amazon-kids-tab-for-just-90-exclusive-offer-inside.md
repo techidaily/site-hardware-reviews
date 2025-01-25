@@ -1,7 +1,7 @@
 ---
 title: Score a Discounted Amazon Kid's Tab for Just $90 - Exclusive Offer Inside!
-date: 2024-09-17 16:37:42
-updated: 2024-09-20 12:43:36
+date: 2025-01-21T20:54:45.833Z
+updated: 2025-01-24T19:56:43.178Z
 tags:
   - kitchen-household
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 ![EcoFlow Delta Pro 3 portable battery](https://www.zdnet.com/a/img/resize/493a0e14c2076aa82dd15d43be4c51552702595c/2024/06/20/9d465ec0-9e8c-4fee-b2aa-d5b5ce343244/2.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -77,6 +81,10 @@ How did it fare? The power returned about three hours later, and the Delta Pro 3
 
 Aside from this power outage, [we've tested](https://www.zdnet.com/home-and-office/energy/how-we-test-portable-power-stations/) the Delta Pro 3 as a standalone battery to power a home office setup, keeping consumption between 50W and 120W. The DP3 powered an LCD monitor, a Dell XPS laptop, a phone charger, and a USB-C tablet charger for four days. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Accessories-Emergencies%2Fdp%2FB0D14FMFZD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1) is an excellent option for anyone looking for a higher-capacity portable battery for camping or as an emergency home backup, as long as you're willing to pay the price, literally. It's not a cheap option among portable batteries, priced at $3199, which is about $400 less than the price of a [Delta Pro and Dual fuel inverter generator bundle](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Generator-High-Power-Appliances%2Fdp%2FB0BKGLCVRR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1).
@@ -106,11 +114,30 @@ Though priced high, the Delta Pro 3 seamlessly integrates into an EcoFlow home b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-crafting-an-aural-experience-for-previews/"><u>[New] 2024 Approved Crafting an Aural Experience for Previews</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-dissecting-facebook-short-videos-a-comprehensive-overview/"><u>[Updated] 2024 Approved Dissecting Facebook Short Videos A Comprehensive Overview</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-hardware-breakthroughs-at-this-years-computex/"><u>AI Hardware Breakthroughs at This Year's Computex</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/becoming-an-insta-sleuth-strategies-to-find-out-whos-keeping-a-copy-of-your-post/"><u>Becoming an Insta-Sleuth: Strategies to Find Out Who's Keeping a Copy of Your Post</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cooler-master-powerful-energy-solutions-unveiled-a-deep-dive-into-the-versatile-v-sfx-with-a-quiet-750w-option/"><u>Cooler Master Powerful Energy Solutions Unveiled: A Deep Dive Into the Versatile V SFX with a Quiet 750W Option</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-for-handling-the-absent-mapi32dll-file-notification/"><u>Effective Strategies for Handling the Absent Mapi32.dll File Notification</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-non-functional-speakers-in-windows-11-step-by-step-solutions/"><u>Fixing Non-Functional Speakers in Windows 11: Step-by-Step Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-performance-2800w-atx-psu-with-dual-12v-rails-suitable-for-intensive-ai-workloads-featuring-four-6a-power-connectors-perfect-for-quad-gpu-configuration23/"><u>High-Performance 2800W ATX PSU with Dual 12V Rails Suitable for Intensive AI Workloads: Featuring Four 6A Power Connectors Perfect for Quad GPU Configurations</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13, Apples New iPhone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-infinix-hot-40-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Infinix Hot 40 Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-itel-p40plus-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-evaluating-the-performance-of-the-corsair-cx550f-led-rgb-power-supply/"><u>In-Depth Analysis: Evaluating the Performance of the Corsair CX550F LED-RGB Power Supply</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-seasonics-new-power-supplies-with-cutting-edge-12vhpwr-interface-priced-at-230-and-above/"><u>Introducing Seasonic's New Power Supplies with Cutting-Edge 12VHPWR Interface Priced at $230 and Above</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nvidia-connection-controversy-unveiled-corsair-power-unit-specialist-jonny-gurus-insights/"><u>NVIDIA Connection Controversy Unveiled: Corsair Power Unit Specialist Jonny Guru's Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/specifications-and-features/"><u>Specifications and Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-review-xpg-cybercore-1000-platinum-high-performance-psu/"><u>Ultimate Review: XPG Cybercore 1000 Platinum High-Performance PSU</u></a></li>
+</ul></div>
+

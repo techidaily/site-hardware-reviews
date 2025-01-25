@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Decision Alert: Comparing the New M2 to M3 MacBook Air From Apple | Tech Insights"
-date: 2025-01-17T18:09:21.425Z
-updated: 2025-01-18T17:17:49.914Z
+date: 2025-01-18T18:35:10.431Z
+updated: 2025-01-24T18:35:54.761Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple is _officially_ in the AI PC race
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -67,7 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -110,20 +110,15 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-camera-to-canvas-getting-started-with-lunapic/"><u>[New] From Camera to Canvas Getting Started with LunaPic</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-precise-practices-streamlined-capturing-for-dell-devices/"><u>[Updated] Precise Practices Streamlined Capturing for Dell Devices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premiere-pro-vanishing-art/"><u>2024 Approved Premiere Pro Vanishing Art</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/a-beginners-guide-to-indonesian-social-etiquette/"><u>A Beginner's Guide to Indonesian Social Etiquette</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asrock-pg2/"><u>ASRock PG2</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-evaluation-how-the-bookarc-flex-by-twelve-south-stands-up-to-competition-as-a-macbook-accessory/"><u>Comprehensive Evaluation: How the BookArc Flex by Twelve South Stands Up to Competition as a MacBook Accessory</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-latest-hp-laserjet-1018-printer-software/"><u>Download the Latest HP LaserJet 1018 Printer Software</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-tech-insights-at-toms-hardware/"><u>In-Depth Reviews & Tech Insights at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-sabrent-rocket-nano-2242-1tb-ssd-evaluation-the-ultimate-m2-pcie-gen3-x4-storage-solution/"><u>In-Depth Sabrent Rocket Nano 2242 1TB SSD Evaluation – The Ultimate M.2 PCIe Gen3 X4 Storage Solution</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-s23-ultra-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy S23 Ultra Screen | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-launch-issues-with-division-2-updated-tips-for-players/"><u>Solving Launch Issues with Division #2 - Updated Tips for Players</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-chronicles-in-depth-analysis-of-cutting-edge-hardware/"><u>Tom's Computer Chronicles: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-performance-showdown-gskill-trident-z5-rgb-ddr5-6400mhz-c3248gb-memory-kit-review-compatible-with-dual-channel-motherboards/"><u>Ultimate Performance Showdown: G.SKILL Trident Z5 RGB DDR5 6400MHz C32/48GB Memory Kit Review - Compatible with Dual-Channel Motherboards</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-with-toms-technology-insights/"><u>Unveiling the Latest in Hardware with Tom's Technology Insights</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-2023-strategy-easily-discovering-what-youve-lately-watched-on-fb/"><u>[New] In 2024, 2023 Strategy Easily Discovering What You've Lately Watched on Fb</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-efficiently-upload-and-render-youtube-videos-with-precision/"><u>[Updated] Efficiently Upload and Render YouTube Videos with Precision</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-superior-sd-card-compatible-with-a7s-ii/"><u>[Updated] In 2024, Superior SD Card Compatible with A7S II</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-slide-show-enable-voice-input-with-powerpoint/"><u>2024 Approved Streamline Your Slide Show Enable Voice Input with PowerPoint</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bluehost-reviewed-a-guide-to-their-cloud-vps-and-shared-plans-examined/"><u>Bluehost Reviewed: A Guide to Their Cloud, VPS, and Shared Plans Examined</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-power-of-a-dual-band-7ghz-wifi-beast-with-asus-rt-be96u/"><u>Exploring the Power of a Dual-Band 7GHz WiFi Beast with ASUS RT-BE96U</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-computer-gear-with-tom-a-trusted-source-for-hardware-enthusiasts/"><u>Navigating Computer Gear with Tom: A Trusted Source for Hardware Enthusiasts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-motorola-moto-g13-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Motorola Moto G13</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-emerging-trends-in-cybersecurity-future-forecasts-and-insights/"><u>Top 7 Emerging Trends in Cybersecurity: Future Forecasts & Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-review-of-logitech-g-pro-x-2-with-lightspeed-technology-a-must-have-for-serious-gamers/"><u>Ultimate Review of Logitech G Pro X 2 with Lightspeed Technology: A Must-Have for Serious Gamers</u></a></li>
 </ul></div>
 

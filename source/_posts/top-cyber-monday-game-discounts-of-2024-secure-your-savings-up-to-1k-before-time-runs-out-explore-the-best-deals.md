@@ -1,7 +1,7 @@
 ---
 title: "Top Cyber Monday Game Discounts of 2024: Secure Your Savings Up to $1K Before Time Runs Out! Explore the Best Deals"
-date: 2025-01-17T18:34:36.990Z
-updated: 2025-01-18T17:28:21.550Z
+date: 2025-01-23T00:22:47.770Z
+updated: 2025-01-25T00:05:17.446Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ Major brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day gaming deals still available
 
@@ -118,6 +122,10 @@ ZDNET
 * [Logitech G F710 wireless gamepad for $30 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Nano-Receiver-Controller-Vibration%2Fdp%2FB0041RR0TW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A basic gamepad for PC gaming that uses 2.4GHz connectivity and dual-motor vibration so you can feel feedback for every in-game action like punches in fighting games or crashes in racing sims.
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day PlayStation 5 deals still available
 
 ZDNET
@@ -133,7 +141,7 @@ ZDNET
 * [Metal Gear Solid: Master Collection Vol. 1 for $19 (save $21)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetal-Gear-Solid-Collection-PlayStation-5%2Fdp%2FB0C93LL82B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): Get all three of the original MGS games for the PS1 in a single collection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals still available
@@ -165,6 +173,10 @@ Nintendo/ZDNET
 * [Pokemon Scarlet/Violet dual pack for $103 (save $17 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Scarlet-Pokemon-Violet-Dual-Pack-Nintendo-Switch%2F1545999884%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This bundle includes copies of both Pokemon Scarlet and Violet, which is perfect for pokedex completionists and collectors alike.
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all-new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming PC deals still available
 
 Kyle Kucharski/ZDNET
@@ -185,10 +197,6 @@ Lenovo
 * [Acer Nitro 17 for $1,177 (save $222 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FOcta-Core-GeForce-Display-Backlit-AN17-41-R7G3%2Fdp%2FB0BTQ61Z6D%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): This gaming laptop boasts a wide 17-inch display with a 165Hz refresh rate and is built with an Nvidia GeForce RTX 4056 graphics card.
 * [Acer Predator Triton Neo 16 for $1,500 (save $400 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPredator-Verified-AI-Powered-processor-PTN16-51-932N%2Fdp%2FB0CZBVRSXT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): The 16-inch display is Calman Verified for color accuracy, and the laptop is built with both an Intel Core Ultra 9 CPU and Nvidia GeForce RTX 4070 GPU.
 * [Alienware m18 for $1,750 (save $800 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-m18-fhd-480hz-gaming-laptop-amd-ryzen-9-32gb-memory-nvidia-geforce-rtx-4070-1tb-ssd-windows-11-pro-dark-metallic-moon%2F6543535.p%3FskuId%3D6543535&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's high-end gaming laptop has an 18-inch display with an impressive 480Hz refresh rate. It's built with an AMD Ryzen 9 7000 series CPU, 32GB of RAM, a 1TB SSD, and Nvidia RTX 4070.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals still available
 
@@ -214,7 +222,7 @@ Samsung/ZDNET
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $770 (save $130 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -223,10 +231,6 @@ Samsung/ZDNET
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ran through October 8 and 9\. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) were running their own, rival sales at the same time. And even though the sale itself is over, you can still find lots of great deals and discounts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
@@ -234,10 +238,6 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -304,22 +304,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ritical-game-analysis-from-top-creators-for-2024/"><u>[New] Critical Game Analysis From Top Creators for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-superior-skills-for-video-preservation-devices/"><u>[Updated] Superior Skills for Video Preservation Devices</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/5-essential-fixes-for-overcoming-street-fighter-6-pc-malfunctions/"><u>5 Essential Fixes for Overcoming Street Fighter 6 PC Malfunctions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-testing-of-asrocks-z79-bios-guide/"><u>Comprehensive Testing of ASRock's Z79지킨트 라이트니늄 와일드플로우 모바일 BIOS Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/extra-bucks-maximizing-youtubes-mobile-revenue-opportunities-for-2024/"><u>Earn Extra Bucks Maximizing YouTube's Mobile Revenue Opportunities for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-computer-review-hub/"><u>Expert Insights From Tom's Computer Review Hub</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/id-coolings-frozn-a620-pro-se-review-unveiling-premium-efficiency-and-cost-effectiveness-in-cooling-solutions/"><u>ID-Cooling's Frozn A620 Pro SE Review - Unveiling Premium Efficiency and Cost-Effectiveness in Cooling Solutions</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-mastering-macs-green-screen-fix-for-youtube-videos/"><u>In 2024, Mastering Mac's Green Screen Fix for YouTube Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/key-fact-4-molecular-ion-peak-often-the-tallest-peak-in-the-spectrum-it-corresponds-to-the-molec/"><u>Key Fact #4: Molecular Ion Peak - Often the Tallest Peak in the Spectrum; It Corresponds to the Molec</u></a></li>
-<li><a href="https://techidaily.com/remove-nubia-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Nubia unlock screen</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-pc-parts-by-toms-hardware-experts/"><u>The Ultimate Guide to PC Parts by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-listening-experience-awaits-with-turtle-beachs-atlas-air-headphones-discover-the-difference/"><u>The Ultimate Listening Experience Awaits with Turtle Beach's Atlas Air Headphones – Discover the Difference</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-advice-unbiased-hardware-guidance/"><u>Tom's Tech Advice: Unbiased Hardware Guidance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-the-latest-computer-gear/"><u>Tom's Tech Reviews: Expert Insights on the Latest Computer Gear</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-review-the-ultimate-guide-to-buying-an-asus-rog-azoth-extreme-extreme-at-half-a-grand/"><u>Top Review: The Ultimate Guide to Buying an Asus ROG Azoth Extreme (Extreme) at Half a Grand</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-elevating-video-quality-sharing-imovie-work-via-youtube/"><u>[New] Elevating Video Quality Sharing iMovie Work via YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-how-to-seamlessly-incorporate-video-tracks-in-youtube-lists/"><u>[Updated] 2024 Approved How to Seamlessly Incorporate Video Tracks in YouTube Lists</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagrams-best-practices-for-sensational-video-loops/"><u>[Updated] 2024 Approved Instagram's Best Practices for Sensational Video Loops</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-efficient-techniques-to-snap-up-twitter-gifs-for-2024/"><u>[Updated] Efficient Techniques to Snap Up Twitter Gifs for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-empowering-visual-communication-integrating-s2t-into-your-powerpoint/"><u>[Updated] Empowering Visual Communication Integrating S2T Into Your Powerpoint</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-universal-strategy-to-preserve-your-favorite-youtube-broadcasts-on-all-devices/"><u>[Updated] Universal Strategy to Preserve Your Favorite YouTube Broadcasts on All Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/breaking-down-myths-linus-torvalds-confronts-evil-dev-tactics-hardware-flaws-and-ai-overhype/"><u>Breaking Down Myths: Linus Torvalds Confronts Evil Dev Tactics, Hardware Flaws & AI Overhype</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341723202-cutting-edge-cost-effective-nvme-cooling-discover-the-power-of-the-uphere-m201-heatsink-under-5/"><u>Cutting-Edge, Cost-Effective NVMe Cooling - Discover the Power of the UpHere M201 Heatsink Under $5</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-computing-from-tomntech-space/"><u>Expert Advice on Computing From Tom'nTech Space</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-speed-computing-on-lattepanda-mu-is-it-worth-more-than-raspberry-pi-5/"><u>High-Speed Computing on LattePanda Mu - Is It Worth More Than Raspberry Pi 5?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/logitecs-g515-lightspeed-tkl-showcase-high-quality-economic-price-tag-for-gamers-and-typists-alike/"><u>Logitec's G515 Lightspeed TKL Showcase - High Quality, Economic Price Tag for Gamers and Typists Alike</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/samsung-galaxy-s20-fe-5g-review-a-surefire-5g-fan-favorite/"><u>Samsung Galaxy S20 FE 5G Review: A Surefire 5G Fan-Favorite</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computer-hardware-by-toms-team/"><u>The Ultimate Guide to Computer Hardware by Tom's Team</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/tipps-zur-wiederherstellung-von-dateien-auf-verschiedenen-versionen-von-windows-xp-10-and-11-festplatte/"><u>Tipps Zur Wiederherstellung Von Dateien Auf Verschiedenen Versionen Von Windows: XP, 10 & 11-Festplatte</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-hardware-and-software/"><u>Tom's Tech Review: Expert Insights on Hardware and Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-computing/"><u>Tom's Tech Reviews: Expert Insights on Computing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/valkyrie-vind-sl125-when-style-overshadows-subpar-effectiveness-in-our-detailed-review/"><u>Valkyrie Vind SL125 - When Style Overshadows Subpar Effectiveness in Our Detailed Review</u></a></li>
 </ul></div>
 

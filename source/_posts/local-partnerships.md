@@ -1,7 +1,7 @@
 ---
 title: Local Partnerships
-date: 2024-09-18 21:55:40
-updated: 2024-09-20 12:32:51
+date: 2025-01-17T23:42:10.350Z
+updated: 2025-01-24T22:16:50.189Z
 tags:
   - kitchen-household
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/117c762093c6ec2c202ad2bb22eb597f08
 ![EcoFlow Delta Pro 3 portable battery](https://www.zdnet.com/a/img/resize/493a0e14c2076aa82dd15d43be4c51552702595c/2024/06/20/9d465ec0-9e8c-4fee-b2aa-d5b5ce343244/2.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -77,6 +81,10 @@ How did it fare? The power returned about three hours later, and the Delta Pro 3
 
 Aside from this power outage, [we've tested](https://www.zdnet.com/home-and-office/energy/how-we-test-portable-power-stations/) the Delta Pro 3 as a standalone battery to power a home office setup, keeping consumption between 50W and 120W. The DP3 powered an LCD monitor, a Dell XPS laptop, a phone charger, and a USB-C tablet charger for four days. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Accessories-Emergencies%2Fdp%2FB0D14FMFZD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1) is an excellent option for anyone looking for a higher-capacity portable battery for camping or as an emergency home backup, as long as you're willing to pay the price, literally. It's not a cheap option among portable batteries, priced at $3199, which is about $400 less than the price of a [Delta Pro and Dual fuel inverter generator bundle](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Generator-High-Power-Appliances%2Fdp%2FB0BKGLCVRR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1).
@@ -106,11 +114,31 @@ Though priced high, the Delta Pro 3 seamlessly integrates into an EcoFlow home b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-360-vision-showdown-samsung-and-lg-camera-face-off-for-2024/"><u>[New] 360 Vision Showdown Samsung & LG Camera Face Off for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-capturing-magic-essential-cinematographic-secrets-unveiled/"><u>[Updated] In 2024, Capturing Magic Essential Cinematographic Secrets Unveiled</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-new-era-for-mobile-photography-iphone-x-explored/"><u>[Updated] New Era for Mobile Photography IPhone X Explored</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-computer-components-from-toms-hardware-hub/"><u>Expert Advice on Computer Components From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-pc-gear-by-toms-electronics-hub/"><u>Expert Analysis on PC Gear by Tom's Electronics Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-powerhouse-performance-the-affordable-lenovo-legion-slim-pert-5-for-gamers-now-available-on-newegg-below-1k/"><u>Get the Powerhouse Performance: The Affordable Lenovo Legion Slim Pert-5 for Gamers Now Available on Newegg Below $1K</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-the-latest-asus-rog-strix-g16-2-now-a-steal-at-1164-on-amazon/"><u>Get Your Hands-On the Latest ASUS ROG Strix G16 2# - Now a Steal at $1,164 on Amazon</u></a></li>
+<li><a href="https://article-posts.techidaily.com/hues-in-harmony-applying-color-principles-for-2024/"><u>Hues in Harmony Applying Color Principles for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-embark-on-a-joyful-journey-downloading-tiktok-for-macbook/"><u>In 2024, Embark on a Joyful Journey Downloading TikTok for MacBook</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-s18e-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo S18e to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-on-demand-rhythm-sharing-on-xigua-video/"><u>In 2024, On-Demand Rhythm Sharing on Xigua Video</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-upgraded-framework-for-power-packed-13-inch-devices-with-top-tier-intel-and-amd-processors/"><u>Introducing the Upgraded Framework for Power-Packed 13-Inch Devices with Top-Tier Intel and AMD Processors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-knowledge-a-journey-through-toms-computing-world/"><u>Mastering Hardware Knowledge - A Journey Through Tom's Computing World</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadget-reviews-with-toms-electronics-insights/"><u>Navigating Gadget Reviews with Tom’s Electronics Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/powerhouse-gaming-in-a-portable-package-acers-predator-helios-neo-14-fusion-of-speed-and-sleekness/"><u>Powerhouse Gaming in a Portable Package: Acer's Predator Helios Neo 14 Fusion of Speed and Sleekness</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/er-edit-suites-linux-compatible-tools-for-2024/"><u>Premier Edit Suites Linux-Compatible Tools for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209667947-9781507211458-the-astrology-dictionary/"><u>The Astrology Dictionary | Free Book</u></a></li>
+</ul></div>
+

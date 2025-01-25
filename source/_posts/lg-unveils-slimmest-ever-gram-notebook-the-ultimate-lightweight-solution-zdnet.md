@@ -1,7 +1,7 @@
 ---
 title: "LG Unveils Slimmest Ever Gram Notebook: The Ultimate Lightweight Solution - ZDNet"
-date: 2025-01-16T18:28:18.356Z
-updated: 2025-01-18T16:21:16.784Z
+date: 2025-01-24T00:32:25.636Z
+updated: 2025-01-24T19:33:33.019Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ As a hybrid option for those who want the best of both worlds, a smart notebook 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best digital notebook right now?
 
 To help you decide which smart notebooks are worth the investment, we tested and researched the best ones on the market, considering notebook feel, storage capabilities and options, special features, and price. Based on our hands-on experience, our pick for the best smart notebook overall is the [Boox Note Air 3 C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBOOX-Tablet-Note-Air-ePaper%2Fdp%2FB0CHF423CP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C306c2685-cebe-4483-8dd6-dd368dc69850%7Cdtp&dtb=1) thanks to its note-taking and productivity features and smooth color display. We also included notebooks from brands like Kindle, Rocketbook, and others that ZDNET staff use and recommend. 
@@ -41,6 +45,10 @@ Cons
 * Screen can lag when browsing web or watching videos
 
 ## Boox Note Air 3 C
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best smart notebook overall
 
@@ -99,11 +107,11 @@ Cons
 * Premium pen upgrade will cost you more
 * Does not support note-taking on magazines or newspapers
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Kindle Scribe
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best smart notebook for reading
 
@@ -134,14 +142,10 @@ Cons
 * Pages can stick together
 * Sometimes slow transcription
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Moleskine Pen+ Smart Writing Set
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best stylish smart notebook
@@ -172,6 +176,10 @@ Pros
 Cons 
 * Expensive option
 * Have to buy the marker separately
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## reMarkable 2
 
@@ -226,10 +234,6 @@ While any of these smart notebooks are great options, it ultimately comes down t
 | Moleskine Pen+ Smart Writing Set  | A stylish smart notebook from a classic brand. You can even record audio notes.                                                                                      |
 | reMarkable 2                      | A smart notebook packed with plenty of features worth the splurge. You'll feel like you're writing on real paper thanks to the low-latency E-Ink writing experience. |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing the best smart notebook
 
 When you're deciding which smart notebook to buy, think about the following important factors: 
@@ -238,6 +242,10 @@ When you're deciding which smart notebook to buy, think about the following impo
 * **Storage capabilities:** While some of these smart notebooks use actual paper, others have digital storage options. I considered both page count and storage capacity so you have plenty of room to write notes.
 * **Price:** Smart notebooks range in price points from $10 all the way up to $450\. The lower price points will get you real paper notebooks you can convert to digital notes, while the higher price points are more tablet-like notebooks.
 * **Special features:** You may not need special features in a smart notebook, but they are nice to have. These include audio notes, page templates, cloud compatibility, etc.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test tablet devices
 
@@ -251,6 +259,10 @@ For a deeper look into our testing process, check out our comprehensive [tablet 
 
 ## Frequently Asked Questions:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the best smart pen for my electronic notebook?
 
 Our best pick for smart pens would have to be the [Apple Pencil](https://www.zdnet.com/article/apple-pencil-pro-vs-apple-pencil-2/) for Apple devices (but those only work strictly with Apple). For Windows users, the Wacom Bamboo is the next best option. but, as a general rule of thumb, you should use the pen designed for your notebook for software compatibility and functionality purposes. 
@@ -259,17 +271,9 @@ Our best pick for smart pens would have to be the [Apple Pencil](https://www.zdn
 
 [Wacom Bamboo Ink $41.6 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB081LKC91V%2Fref%3Dasc%5Fdf%5FB081LKC91V1727694000000%3Fcreative%3D395261%26creativeASIN%3DB081LKC91V%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C306c2685-cebe-4483-8dd6-dd368dc69850%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do they come with a smart pen or are those sold separate?
 
 Most smart notebooks already include a smart pen, but it will also depend on the manufacturer and specific model. Smart notebooks such as reMarkable 2 and Wacom Bamboo Slate include the smart pen with their notebook. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Would I recommend a smart notebook for students?
 
@@ -278,7 +282,7 @@ Keeping your notes and reminders organized on a single device for school is the 
 **Also: [The best tablets for students](https://www.zdnet.com/article/best-tablets-for-students/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do smart notebooks feel like paper?
@@ -288,10 +292,6 @@ That depends on the specific product. For example, Rocketbook's lineup of smart 
 ## Can you use an iPad as a smart notebook?
 
 While you won't get the "feel" of real paper with an iPad, you can use an iPad as a way to take notes digitally, especially if you have a quality stylus like the Apple Pencil. iOS apps like Noteflow allow you to take notes, annotate PDFs, sketch and doodle, and more while syncing to the cloud.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative smart notebooks to consider?
 
@@ -339,19 +339,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-list-best-no-cost-lut-downloads/"><u>[New] Ultimate List Best No-Cost LUT Downloads</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-avoiding-storage-woes-removing-youtube-media/"><u>[Updated] In 2024, Avoiding Storage Woes Removing YouTube Media</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unravel-the-mystery-of-reversed-videos-on-snapchat/"><u>[Updated] In 2024, Unravel the Mystery of Reversed Videos on Snapchat</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-building-profitable-collaborations-with-brands-on-youtube/"><u>2024 Approved Building Profitable Collaborations with Brands on Youtube</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-direct-transfer-of-youtube-playlists-stepwise-processing/"><u>2024 Approved Direct Transfer of YouTube Playlists - Stepwise Processing</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-pcs-premiere-selection-of-ps3-game-simulations/"><u>2024 Approved PC's Premiere Selection of PS3 Game Simulations</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-nubia-z50s-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Nubia Z50S Pro Devices</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-future-of-video-on-facebook-focusing-on-shorter-formats/"><u>In 2024, The Future of Video on Facebook Focusing on Shorter Formats</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-gadgets-with-toms-hardware-digest/"><u>Inside Look at Gadgets with Tom's Hardware Digest</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/taking-down-the-sunfounder-pironman-5-thorough-review-and-detailed-setup-instructions/"><u>Taking Down the SunFounder Pironman 5: Thorough Review and Detailed Setup Instructions</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-nokia-c12-pro-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Nokia C12 Pro without backup.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-world-of-toms-hardware-insights-into-cutting-edge-computing-tools/"><u>The World of Tom's Hardware: Insights Into Cutting-Edge Computing Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/turtle-beachs-atlas-air-earphones-surpassing-audio-expectations/"><u>Turtle Beach's ATLAS Air Earphones: Surpassing Audio Expectations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-components-with-toms-gear-guide/"><u>Unveiling the Latest in PC Components with Tom's Gear Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-5-best-live-stream-video-conference-recorders/"><u>[New] 2024 Approved Top 5 Best Live Stream Video Conference Recorders</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-instant-srt-to-txt-efficient-conversion-methods-revealed/"><u>[New] Instant SRT to TXT Efficient Conversion Methods Revealed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-quick-fix-guide-successful-transmission-of-videos-on-the-social-networking-app-messenger/"><u>[New] Quick Fix Guide Successful Transmission of Videos on the Social Networking App Messenger</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unlocking-the-potential-of-facetime-voice-logging/"><u>[Updated] 2024 Approved Unlocking the Potential of FaceTime Voice Logging</u></a></li>
+<li><a href="https://games-able.techidaily.com/adaptive-cpu-temperature-management-system-efficiency/"><u>Adaptive CPU Temperature Management System Efficiency</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bringing-color-to-your-gameplay-viewsonics-240hz-xg272-oled-monitor-reviewed-in-detail/"><u>Bringing Color to Your Gameplay: ViewSonic's 240Hz XG272 OLED Monitor Reviewed in Detail</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/community-gardens-and-cooperatives/"><u>Community Gardens and Cooperatives</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-100-pro-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of 100 Pro with Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-z-fold-5-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy Z Fold 5 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y17s-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y17s to iPad | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-explore-youtubes-finest-virtual-reality-content/"><u>In 2024, Explore YouTube's Finest Virtual Reality Content</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-insight-into-akasa-geckos-blower-cooler-performance-in-securing-enhanced-ssd-temperature-regulation/"><u>In-Depth Insight Into Akasa Gecko's Blower Cooler Performance in Securing Enhanced SSD Temperature Regulation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-6tb-capacity-and-sturdy-design-of-my-passport-by-western-digital/"><u>In-Depth Look at the 6TB Capacity and Sturdy Design of My Passport by Western Digital</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-best-8-chatgpt-crypto-upgrades-unveiled/"><u>Navigating the Best 8 ChatGPT Crypto Upgrades Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-hardware-with-toms-authority/"><u>Navigating the World of Computer Hardware with Tom's Authority</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-cooler-master-ion-360-aio-cooling-solution-stepping-forward-yet-facing-backtrack-moments/"><u>The Cooler Master ION 360 AIO Cooling Solution - Stepping Forward, Yet Facing Backtrack Moments</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-review-your-guide-to-the-latest-tech/"><u>Tom's Computer Review: Your Guide to the Latest Tech</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-innovative-gadgets-reviewed/"><u>Tom's Tech Hub: Innovative Gadgets Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-sabrent-rocket-nano-a-comprehensive-review-of-the-m2-2242-1tb-ssd-benchmark-king/"><u>Unboxing the Sabrent Rocket Nano: A Comprehensive Review of the M.2 2242 1TB SSD Benchmark King</u></a></li>
 </ul></div>
 

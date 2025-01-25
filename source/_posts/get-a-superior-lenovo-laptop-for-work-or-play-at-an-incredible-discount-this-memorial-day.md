@@ -1,7 +1,7 @@
 ---
 title: Get a Superior Lenovo Laptop for Work or Play at an Incredible Discount This Memorial Day
-date: 2025-01-15T16:43:30.776Z
-updated: 2025-01-18T16:57:10.776Z
+date: 2025-01-24T01:00:05.271Z
+updated: 2025-01-25T02:02:15.345Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is the deal?
@@ -31,7 +31,7 @@ The [Lenovo Legion Pro 5i](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=h
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,7 +73,7 @@ The power cable has an extensive power supply; it's a little bit larger than my 
 The [Lenovo Legion Pro 5i](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-pro-series%2Flegion-pro-5i-gen-8-%2816-inch-intel%29%2Flen101g0024&publisher_slug=itechdaily19598&exclusive=1) base configuration starts at $1,260, while the top configuration retails for $1,800\. The configuration I was sent for testing will cost you around $1,450, which is a very decent value for the components and performance you'll get.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -110,14 +110,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-secure-survival-housing-in-minecraft/"><u>[New] Secure Survival Housing in Minecraft</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-imovies-power-to-transform-ordinary-openers-into-epic/"><u>[Updated] IMovie's Power to Transform Ordinary Openers Into Epic</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-smooth-operation-file-transfer-between-different-os-phones/"><u>[Updated] Smooth Operation File Transfer Between Different OS Phones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comparing-meta-quest-3-and-apple-vision-pro-is-mark-zuckerbergs-analysis-spot-on-tech-insights/"><u>Comparing Meta Quest 3 and Apple Vision Pro: Is Mark Zuckerberg's Analysis Spot-On? Tech Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/essential-uphere-m201-ssd-heatsink-evaluation-at-just-5-enhancing-your-nvme-drives-performance/"><u>Essential UpHere M201 SSD Heatsink Evaluation at Just $5 - Enhancing Your NVMe Drive's Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-graphics-a-comprehensive-review-of-pixios-game-changer-the-oled-max-monitor-px277/"><u>Mastering Graphics: A Comprehensive Review of Pixio's Game Changer - The OLED Max Monitor (PX277)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/syncing-melodies-with-video-in-premiere-pro-for-2024/"><u>Syncing Melodies with Video in Premiere Pro for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/thrilling-review-alert-maximize-your-setup-with-the-gskill-trident-z5-rgb-dual-dimm-ddr5-memory-sticks-at-a-sizzling-6400mhz/"><u>Thrilling Review Alert! Maximize Your Setup with the G.SKILL Trident Z5 RGB - Dual-DIMM DDR5 Memory Sticks at a Sizzling 6400MHz</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-dive-into-computer-components-and-hardware/"><u>Tom's Tech Hub: Dive Into Computer Components and Hardware</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-recording-victory-techniques-to-transform-live-games-into-video-gold/"><u>[New] In 2024, Recording Victory Techniques to Transform Live Games Into Video Gold</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-premium-picks-best-win-11-webcams-for-clear-capture-for-2024/"><u>[New] Premium Picks Best Win 11 Webcams for Clear Capture for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-video-snippets-turn-into-dynamic-shareable-gifs/"><u>2024 Approved Vimeo Video Snippets Turn Into Dynamic, Shareable GIFs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-subdivision-plat-which-records-new-lot-boundaries-and-other-details-must-be-created-and-approved/"><u>A Subdivision Plat, Which Records New Lot Boundaries and Other Details, Must Be Created and Approved.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-gadgets-reviewed-by-toms-hardware-experts/"><u>Discover Top Gadgets Reviewed by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insight-on-sovol-sv08-reviving-classic-voron-performance/"><u>Expert Insight on Sovol SV08 - Reviving Classic Voron Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-unpacking-youtubes-income-distribution-from-1m-viewers/"><u>In 2024, Unpacking YouTube's Income Distribution From 1M Viewers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-insights-navigating-the-world-of-technology-gear/"><u>Tom's Hardware Insights: Navigating the World of Technology Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-guides-and-reviews/"><u>Tom's Tech Insights: In-Depth Guides and Reviews</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unravel-the-mysteries-of-efficient-story-connectivity-for-2024/"><u>Unravel the Mysteries of Efficient Story Connectivity for 2024</u></a></li>
 </ul></div>
 

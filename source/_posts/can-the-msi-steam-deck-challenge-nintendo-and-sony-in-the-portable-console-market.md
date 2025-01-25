@@ -1,7 +1,7 @@
 ---
 title: Can the MSI Steam Deck Challenge Nintendo and Sony in the Portable Console Market?
-date: 2025-01-11T16:07:40.932Z
-updated: 2025-01-18T17:53:57.740Z
+date: 2025-01-17T22:23:26.431Z
+updated: 2025-01-24T22:53:53.218Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Furthermore, there are very few ports. You get three in total: two USB-C inputs 
 My last critique is admittedly a nitpick. I would've appreciated a free stylus in the overall package. Microsoft's 11th-gen Surface Pro had one when I got it, and I thoroughly enjoyed it. So unless you already have a pen, you'll have to buy one for the PZ13, which isn't a big issue since the laptop is fairly cheap.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ Prices for the Asus ProArt PZ13 start at [$1,100 on Best Buy](https://shop-links
 Other than that, they're the same device. Get the Hexagon version only if you are expecting heavy workloads.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -140,19 +140,21 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-step-by-step-process-for-perfecting-screencast-video-quality/"><u>[New] 2024 Approved The Step-by-Step Process for Perfecting Screencast Video Quality</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-snappy-movement-capturing-blur-with-iphone-photos/"><u>[New] In 2024, Snappy Movement Capturing Blur with iPhone Photos</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-10t-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breakdown-and-examination-of-the-groundbreaking-4tb-wd-blue-sn50e-drive-by-western-digital/"><u>Breakdown and Examination of the Groundbreaking 4TB WD Blue SN50e Drive by Western Digital</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/effective-solutions-for-resolving-windows-driver-issues-insights-by-yl-computing/"><u>Effective Solutions for Resolving Windows Driver Issues - Insights by YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ensuring-a-forced-startup-into-safe-mode-essential-steps-for-windows-systems/"><u>Ensuring a Forced Startup Into Safe Mode: Essential Steps for Windows Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to share/fake gps on Uber for Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-and-reviews-toms-hardware-for-savvy-shoppers/"><u>In-Depth Analysis & Reviews | Tom's Hardware for Savvy Shoppers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-unboxing-and-testing-the-raspberry-pi-ai-learning-set/"><u>In-Depth Review: Unboxing and Testing the Raspberry Pi AI Learning Set</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-tech-world-tips-and-tricks-by-toms-hardware/"><u>Navigate the Tech World: Tips & Tricks by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-trusty-reviews-at-toms-hardware/"><u>Navigating the World of Electronics with Trusty Reviews at Tom's Hardware</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-repeat-repeat-repeat-10-free-video-loopers-for-endless-fun/"><u>New 2024 Approved Repeat, Repeat, Repeat 10 Free Video Loopers for Endless Fun</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unique-choir-compositions-as-your-smartphone-tones-for-2024/"><u>Unique Choir Compositions as Your Smartphone Tones for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/yl-softwares-blueprint-for-thriving-in-the-cryptomarket-as-a-skilled-trader/"><u>YL Software's Blueprint for Thriving in the Cryptomarket as a Skilled Trader</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pugilism-power-play-against-viewership-virtue/"><u>[New] Pugilism Power Play Against Viewership Virtue</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-prime-routines-for-mobile-game-screening/"><u>[Updated] Prime Routines for Mobile Game Screening</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-swiftly-slide-through-content-advanced-techniques-to-accelerate-video-viewing-on-tiktok-for-2024/"><u>[Updated] Swiftly Slide Through Content Advanced Techniques to Accelerate Video Viewing on TikTok for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-unleashing-the-power-of-the-aoc-agon-pro-ag456uczd-the-ultimate-45-ultra-wide-oled-gaming-monitor-for-enthusiasts-with-extreme-curvat10/"><u>A Comprehensive Review: Unleashing the Power of the AOC Agon Pro AG456UCZD - The Ultimate 45 Ultra-Wide OLED Gaming Monitor for Enthusiasts with Extreme Curvature and Lightning Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-free-mac-video-conversion-tool-try-movavi-for-hassle-free-download-and-use/"><u>Best Free Mac Video Conversion Tool - Try Movavi for Hassle-Free Download and Use</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breakdown-the-wonky-delta-design-and-swift-performance-of-flsun-s1-solar-panels/"><u>Breakdown: The Wonky Delta Design & Swift Performance of FLSun S1 Solar Panels</u></a></li>
+<li><a href="https://techidaily.com/discovering-the-features-of-samsung-galaxy-tab-s4-a-detailed-android-tablet-analysis/"><u>Discovering the Features of Samsung Galaxy Tab S4: A Detailed Android Tablet Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/halo75-v2-expert-analysis-budget-friendly-premium-mechanical-keyboard/"><u>Halo75 V2 Expert Analysis: Budget-Friendly Premium Mechanical Keyboard</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/how-to-make-360-videos-with-iphone-for-2024/"><u>How to Make 360 Videos with iPhone for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-6s-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 6s Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-poco-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Poco Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-your-gameplay-how-the-high-speed-high-style-gigabyte-aorus-fo32u2p-240hz-oled-monitor-elevates-gaming-performance/"><u>Maximizing Your Gameplay: How the High-Speed, High-Style Gigabyte Aorus FO32U2P 240Hz OLED Monitor Elevates Gaming Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solution-zoning-laws-ensure-that-the-divided-lots-are-used-appropriately-according-to-community-needs-and-environmental-considerations-maintaining-orderly-d11/"><u>Solution: Zoning Laws Ensure that the Divided Lots Are Used Appropriately According to Community Needs and Environmental Considerations, Maintaining Orderly Development Patterns.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-toms-hardware-comprehensive-tech-insights/"><u>The Ultimate Guide to Tom's Hardware: Comprehensive Tech Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Review: Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-xiaomi-redmi-note-12r-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Xiaomi Redmi Note 12R FRP Bypass</u></a></li>
 </ul></div>
 

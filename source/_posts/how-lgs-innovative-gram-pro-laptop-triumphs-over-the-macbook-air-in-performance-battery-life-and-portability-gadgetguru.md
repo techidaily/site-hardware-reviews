@@ -1,7 +1,7 @@
 ---
 title: How LG's Innovative Gram Pro Laptop Triumphs Over the MacBook Air in Performance, Battery Life & Portability | GadgetGuru
-date: 2025-01-17T16:46:36.125Z
-updated: 2025-01-18T18:22:54.502Z
+date: 2025-01-20T21:06:37.640Z
+updated: 2025-01-24T20:03:11.001Z
 tags:
   - laptops
 categories:
@@ -56,7 +56,7 @@ If you're at all familiar with the previous ThinkPad X1 computers, you'll notice
 Another consequence of the limited space is the lack of ports. You have four inputs in total: two Thunderbolt 4 ports, an 3.5mm headphone/mic combo, and a slot for a Nano SIM, although the last one is optional. It's as barebones as you can get. To be honest, I am pleasantly surprised that there is a headphone jack. With how simple the [third-generation ThinkPad X1 Nano](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-nano-gen-3-%2813-inch-intel%29%2Flen101t0054&publisher_slug=itechdaily19598&exclusive=1) is, I was a little shocked it made the cut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -97,22 +97,17 @@ Prices [start at $1,043](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-cutting-edge-imagery-iphones-photo-cropping-techniques/"><u>[New] Cutting Edge Imagery IPhone's Photo Cropping Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-action-camera-faceoff-whos-winning-in-gopro-vs-yi-4k-battle/"><u>[Updated] Action Camera Faceoff Who's Winning in GoPro Vs. Yi 4K Battle?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-integrating-voices-into-videos-effectively/"><u>[Updated] In 2024, Integrating Voices Into Videos Effectively</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fine-tune-your-videos-mood-with-custom-sound-design/"><u>2024 Approved Fine-Tune Your Video's Mood with Custom Sound Design</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/comment-recuperer-des-donnees-sans-perdre-aucune-donnee-sur-un-disque-dur-non-initialise/"><u>Comment Récupérer Des Données Sans Perdre Aucune Donnée Sur Un Disque Dur Non Initialisé ?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-hp-laserjet-5200-printer-drivers-for-windows-11-10-and-8-fast-and-easy/"><u>Download the Latest HP LaserJet 5200 Printer Drivers for Windows 11, 10 & 8 - Fast and Easy</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-sessions-with-asus-rog-swift-a-comprehensive-review-of-its-breathtaking-240hz-oled-display-and-unmatched-visual-clarity-for-competitive-1/"><u>Elevate Your Gaming Sessions with ASUS ROG Swift - A Comprehensive Review of Its Breathtaking 240Hz OLED Display & Unmatched Visual Clarity for Competitive Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-analysis-by-tom-stay-ahead-of-technology-trends/"><u>Expert Hardware Analysis by Tom - Stay Ahead of Technology Trends</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-stream-like-a-pro-3-key-strategies-for-lol-gamers/"><u>In 2024, Stream Like a Pro 3 Key Strategies for LOL Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-processors-and-peripherals-a-tour-by-toms-hardware/"><u>Inside the World of Processors and Peripherals - A Tour by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-technology-review-your-source-for-pc-hardware-analysis/"><u>Inside Tom's Technology Review: Your Source for PC Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-the-future-of-home-networking-in-depth-analysis-and-insights-on-the-revolutionary-asus-wifi-7-router-rt-be96u/"><u>Pioneering the Future of Home Networking: In-Depth Analysis and Insights on the Revolutionary Asus WiFi 7 Router - RT-BE96U</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/rapid-routines-for-presentation-saving/"><u>Rapid Routines for Presentation Saving</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-insights-on-computer-hardware/"><u>Tom's Tech Review: In-Depth Insights on Computer Hardware</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-quantum-hdr-essentials/"><u>Unveiling Quantum HDR Essentials</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-at-toms-hardware-hub/"><u>Unveiling the Latest in Computing at Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/wirelessly-dominate-your-productivity-with-the-keychron-q1-he-the-wireless-version-youve-been-dreaming-of/"><u>Wirelessly Dominate Your Productivity with the Keychron Q1 HE - The Wireless Version You've Been Dreaming Of</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-6-most-effective-artificial-intelligence-apps-for-enhanced-note-taking-skills/"><u>Discover the 6 Most Effective Artificial Intelligence Apps for Enhanced Note-Taking Skills</u></a></li>
+<li><a href="https://fox-links.techidaily.com/explore-meme-land-top-9-tools-to-make-your-creative-mark-with-gifs/"><u>Explore Meme Land Top 9 Tools to Make Your Creative Mark with GIFs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-basic-to-bold-installing-unique-customizable-ringtones-and-sounds-on-android-for-2024/"><u>From Basic to Bold Installing Unique, Customizable Ringtones & Sounds on Android for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-lava-blaze-pro-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Lava Blaze Pro 5G FRP Without Computer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-asus-rog-swift-pg3-similar-problem/"><u>In-Depth Asus ROG Swift PG3 # Similar Problem</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-your-gameplay-in-depth-review-of-the-45-inch-curved-oled-monitor-aoc-agon-pro-ag456uczd/"><u>Maximizing Your Gameplay: In-Depth Review of the 45-Inch Curved OLED Monitor AOC Agon Pro AG456UCZD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/multiple-lines/"><u>Multiple Lines</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-discoveries-the-world-of-toms-technology-insight/"><u>Pioneering Hardware Discoveries: The World of Tom's Technology Insight</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/premium-gopro-enhancements-guide-for-2024/"><u>Premium Gopro Enhancements Guide for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-in-computing-tips-and-reviews-from-toms-hardware-experts/"><u>Stay Ahead in Computing: Tips and Reviews From Tom's Hardware Experts</u></a></li>
+<li><a href="https://discover-best.techidaily.com/struggling-with-youtube-video-captures-unlock-effective-troubleshooting-techniques/"><u>Struggling with YouTube Video Captures? Unlock Effective Troubleshooting Techniques!</u></a></li>
 </ul></div>
 
