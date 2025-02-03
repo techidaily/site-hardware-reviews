@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Your Home Lighting: Why Smart Ceiling Lamps Are Essential Upgrades You Can't Miss | ZDNet"
-date: 2024-09-17 15:16:25
-updated: 2024-09-20 10:15:18
+date: 2025-01-25T17:05:40.766Z
+updated: 2025-02-01T16:36:15.076Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,31 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-top-10-ios-auditory-options/"><u>[Updated] Top 10 iOS Auditory Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-cutting-edge-features-make-the-latest-ipad-calculator-worth-investing-in-a-look-at-why-you-may-need-an-apple-pencil/"><u>1. Cutting-Edge Features Make the Latest iPad Calculator Worth Investing In: A Look at Why You May Need an Apple Pencil</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-crafting-the-perfect-anime-story-best-ideas-for-viral-videos/"><u>2024 Approved Crafting the Perfect Anime Story Best Ideas for Viral Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-from-raw-to-refined-the-ultimate-youtube-studio-editing-journey/"><u>2024 Approved From Raw to Refined The Ultimate YouTube Studio Editing Journey</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-leverage-slug-lines-in-articles/"><u>2024 Approved How to Leverage Slug Lines in Articles</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-creativity-with-free-audio-effects-online/"><u>Boost Creativity with Free Audio Effects Online</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/creating-image-slideshows-with-pop-up-windows-on-flipbooks-a-step-by-step-guide/"><u>Creating Image Slideshows with Pop-Up Windows on FlipBooks - A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-defrag-a-hard-disk-drive-in-windows-11/"><u>How to Defrag a Hard Disk Drive in Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovations-highlighted-in-s3700s-2023-review/"><u>In 2024, Innovations Highlighted in S3700's 2023 Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msi-implements-new-default-power-settings-based-on-intels-official-documentation-for-core-i9-motherboards-enhancing-stability-and-performance/"><u>MSI Implements New Default Power Settings Based on Intel's Official Documentation for Core I9 Motherboards, Enhancing Stability and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msi-z790-boards-under-scrutiny-as-cracked-pch-chipset-fault-emerges-manufacturing-oversight-blamed-for-affected-units/"><u>MSI Z790 Boards Under Scrutiny as Cracked PCH Chipset Fault Emerges – Manufacturing Oversight Blamed for Affected Units</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msis-response-to-z790-heatsink-failures-initiating-unit-replacements-for-affected-customers/"><u>MSI's Response to Z790 Heatsink Failures: Initiating Unit Replacements for Affected Customers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-innovations-a-journey-through-toms-tech-insights/"><u>Navigating Innovations: A Journey Through Tom's Tech Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-components-insights-from-toms-hardware-team/"><u>Navigating the World of PC Components: Insights From Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-your-next-purchase-on-toms-comprehensive-hardware-guides/"><u>Navigating Your Next Purchase on Tom's Comprehensive Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/new-high-speed-z791-wifi-board-powers-splaves-record-breaking-overclocking-feats/"><u>New High-Speed Z79^1 Wifi Board Powers Splave's Record-Breaking Overclocking Feats</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/newly-launched-budget-friendly-am5-mini-itx-motherboard-with-pcie-gen-4-by-sapphire-in-china/"><u>Newly-Launched Budget-Friendly AM5 Mini ITX Motherboard with PCIe Gen 4 by Sapphire in China</u></a></li>
+</ul></div>
+

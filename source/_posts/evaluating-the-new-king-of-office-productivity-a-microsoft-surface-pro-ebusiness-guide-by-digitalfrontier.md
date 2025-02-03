@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the New King of Office Productivity: A Microsoft Surface Pro Ebusiness Guide by DigitalFrontier"
-date: 2025-01-19T17:08:28.829Z
-updated: 2025-01-24T23:28:23.295Z
+date: 2025-01-28T17:06:35.911Z
+updated: 2025-02-01T18:24:56.260Z
 tags:
   - laptops
 categories:
@@ -43,7 +43,7 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A new-look Surface… kind of
@@ -51,6 +51,10 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -90,6 +94,10 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -99,7 +107,7 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -127,10 +135,6 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -140,6 +144,10 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -152,10 +160,6 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 **Also:** [**Want a touchscreen MacBook? This portable monitor makes it possible**](https://www.zdnet.com/home-and-office/smart-office/want-a-touchscreen-macbook-this-portable-monitor-makes-it-possible/)
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -170,10 +174,6 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 ## FAQ
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -212,22 +212,19 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-mastering-the-art-of-screen-sharing-in-zoom/"><u>[Updated] 2024 Approved Mastering the Art of Screen Sharing in Zoom</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-how-to-get-more-views-and-likes-on-tik-tok/"><u>[Updated] How to Get More Views and Likes on Tik Tok</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>4 solution to get rid of pokemon fail to detect location On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/erase-with-ease-the-top-rated-stellar-file-remover-for-windows-users/"><u>Erase with Ease: The Top-Rated Stellar File Remover for Windows Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/generative-ai-enabler-or-echo-chamber/"><u>Generative AI: Enabler or Echo Chamber?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-a38-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo A38 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-step-by-step-instructions-on-chromes-pip-across-all-platforms/"><u>In 2024, Step-by-Step Instructions on Chrome’s PIP Across All Platforms</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-updates-to-laptop-frameworks-now-offer-new-intel-amd-zen-4-options-for-enthusiasts/"><u>Innovative Updates to Laptop Frameworks Now Offer New Intel, AMD Zen 4 Options for Enthusiasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-circuitry-insightful-guidance-from-toms-tech-domain/"><u>Inside the Circuitry: Insightful Guidance From Tom's Tech Domain</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/lenovo-thinkpad-t14s-launches-with-stunning-features-qualcomm-snapdragon-x-elite-processor-impressive-32gb-ram-and-a-whopping-1tb-ssd/"><u>Lenovo ThinkPad T14s Launches with Stunning Features: Qualcomm Snapdragon X Elite Processor, Impressive 32GB RAM & a Whopping 1TB SSD</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/level-up-your-game-with-discounted-lenovo-legion-immersive-experience-rtx-graphics-and-crystal-clear-240-hz-visuals-at-unbeatable-prices/"><u>Level Up Your Game with Discounted Lenovo Legion: Immersive Experience, RTX Graphics & Crystal-Clear 240 Hz Visuals at Unbeatable Prices!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-the-latest-in-pc-and-components-expert-advice-from-toms-digital-world/"><u>Master the Latest in PC and Components - Expert Advice From Tom’s Digital World</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/morse-coding-laptop-accessory-master-typing-with-just-a-dash-of-hinge-slamming-beware-of-potential-wear-and-tear/"><u>Morse-Coding Laptop Accessory: Master Typing with Just a Dash of Hinge Slamming - Beware of Potential Wear and Tear</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-tech-innovations-with-toms-authoritative-hardware-reviews/"><u>Navigating Tech Innovations with Tom's Authoritative Hardware Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-guides/"><u>Navigating the World of Electronics with Tom's Hardware Guides</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/recover-disappearing-watch-icon-for-fb-users-for-2024/"><u>Recover Disappearing Watch Icon for FB Users for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-10-tips-for-integrating-chatgpt-into-your-vs-code-workflow/"><u>Top 10 Tips for Integrating ChatGPT Into Your VS Code Workflow</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-jumpstarting-instagram-celebrity-status-for-2024/"><u>[New] Jumpstarting Instagram Celebrity Status for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-ultimate-guide-to-tiktok-income-predictors-for-2024/"><u>[New] The Ultimate Guide to TikTok Income Predictors for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-much-do-podcasters-earn-on-average/"><u>[Updated] How Much Do Podcasters Earn on Average?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-artists-chromatic-companion/"><u>[Updated] In 2024, The Artist's Chromatic Companion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bring-back-sharpness-the-ultimate-choice-for-restoring-images/"><u>Bring Back Sharpness The Ultimate Choice for Restoring Images</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-solution-to-total-war-rome-remastered-crash-issues-step-by-step-tutorial/"><u>Complete Solution to Total War: Rome Remastered Crash Issues - Step by Step Tutorial</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-path-from-twitter-video-to-fb-sharing-for-2024/"><u>The Path From Twitter Video to FB Sharing for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-advisor-the-ultimate-guide/"><u>Tom's Tech Advisor: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-guide-to-the-latest-hardware/"><u>Tom's Tech Review: In-Depth Guide to the Latest Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-insights-from-the-leading-hardware-experts/"><u>Tom's Tech Reviews: Insights From the Leading Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transform-your-workstation-the-highly-rated-samsung-pixel-dense-viewfinity-s9-monitor-27-ips-display-and-integrated-4k-camera-at-an-unmatchable-899-price-se39/"><u>Transform Your Workstation: The Highly Rated Samsung Pixel-Dense ViewFinity S9 Monitor - 27 IPS Display & Integrated 4K Camera at an Unmatchable $899 Price – Secure 44% Off Today!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-of-value-priced-4k-monitors/"><u>Ultimate Selection of Value-Priced 4K Monitors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/which-360-camera-leads-in-quality-samsung-or-lg-for-2024/"><u>Which 360 Camera Leads in Quality? Samsung or LG for 2024</u></a></li>
 </ul></div>
 

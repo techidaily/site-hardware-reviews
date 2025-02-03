@@ -1,7 +1,7 @@
 ---
 title: Legal Research Tools
-date: 2024-09-18 20:13:16
-updated: 2024-09-20 10:15:48
+date: 2025-01-25T16:20:05.581Z
+updated: 2025-02-01T17:26:46.265Z
 tags:
   - kitchen-household
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/117c762093c6ec2c202ad2bb22eb597f08
 ![EcoFlow Delta Pro 3 portable battery](https://www.zdnet.com/a/img/resize/493a0e14c2076aa82dd15d43be4c51552702595c/2024/06/20/9d465ec0-9e8c-4fee-b2aa-d5b5ce343244/2.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -77,6 +81,10 @@ How did it fare? The power returned about three hours later, and the Delta Pro 3
 
 Aside from this power outage, [we've tested](https://www.zdnet.com/home-and-office/energy/how-we-test-portable-power-stations/) the Delta Pro 3 as a standalone battery to power a home office setup, keeping consumption between 50W and 120W. The DP3 powered an LCD monitor, a Dell XPS laptop, a phone charger, and a USB-C tablet charger for four days. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Accessories-Emergencies%2Fdp%2FB0D14FMFZD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1) is an excellent option for anyone looking for a higher-capacity portable battery for camping or as an emergency home backup, as long as you're willing to pay the price, literally. It's not a cheap option among portable batteries, priced at $3199, which is about $400 less than the price of a [Delta Pro and Dual fuel inverter generator bundle](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Generator-High-Power-Appliances%2Fdp%2FB0BKGLCVRR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1).
@@ -106,11 +114,33 @@ Though priced high, the Delta Pro 3 seamlessly integrates into an EcoFlow home b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-evaluating-the-efficacy-of-aurora-hdr-technology/"><u>[New] Evaluating the Efficacy of Aurora HDR Technology</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-making-a-buzz-aesthetic-strategies-for-podcast-brands/"><u>[New] Making a Buzz Aesthetic Strategies for Podcast Brands</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-fleeting-feed-of-fb-shorts-for-2024/"><u>[Updated] The Fleeting Feed of FB Shorts for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/canon-mx340-printer-driver-downloads-find-your-matching-version-for-windows-os-7810/"><u>Canon MX340 Printer Driver Downloads - Find Your Matching Version for Windows OS 7/8/10</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210708538-9781915393791-happy-birthday-love-elizabeth/"><u>Happy Birthday-Love, Elizabeth | Free Book</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-realme-v30t-devices-by-drfone-android/"><u>How to Reset Gmail Password on Realme V30T Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-x-flip-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo X Flip</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-innovations-in-computing-a-guide-by-toms-hardware/"><u>Navigating New Innovations in Computing - A Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-todays-tech-landscape-a-tour-of-tomn-hardware-world/"><u>Navigating Today's Tech Landscape: A Tour of Tom'n Hardware World</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/observe-changes-in-behavior-look-for-any-changes-in-behavior-that-could-indicate-substance-abuse-such-as-mood-swings-withdrawal-from-family-activities-decli81/"><u>Observe Changes in Behavior: Look for Any Changes in Behavior that Could Indicate Substance Abuse, Such as Mood Swings, Withdrawal From Family Activities, Declining Academic Performance, or a Sudden Disinterest in Hobbies and Friends.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pcie-gen-7-specs-finalized-on-the-verge-of-official-market-release/"><u>PCIe Gen 7 Specs Finalized - On the Verge of Official Market Release</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pcie-gen-amoled-with-new-generation-7-standard-comprehensive-draft-unveiled/"><u>PCIe Gen Amoled with New Generation 7 Standard - Comprehensive Draft Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-technology-insights-from-toms-digital-workshop/"><u>Pioneering Technology Insights From Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/proactive-replacement-effort-for-flawed-cooling-units-by-msi-amidst-rising-concerns-over-z7n-motherboard-series/"><u>Proactive Replacement Effort for Flawed Cooling Units by MSI Amidst Rising Concerns Over Z7n Motherboard Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/rare-maximus-xiii-frankenboard-by-asus-mutant-pc-boards-featuring-so-dimm-memory-slots-and-exclusive-kingston-fury-branding/"><u>Rare Maximus XIII Frankenboard by Asus: Mutant Pc Boards Featuring So-DiMM Memory Slots & Exclusive Kingston Fury Branding</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reaching-39-million-motherboards-remarkable-comeback-mirrors-pre-covid-shipping-rates/"><u>Reaching 39 Million: Motherboards' Remarkable Comeback Mirrors Pre-COVID Shipping Rates</u></a></li>
+<li><a href="https://blog-min.techidaily.com/resolved-why-arent-my-iphone-photos-appearing-on-my-mac-troubleshooting-steps/"><u>Resolved: Why Aren't My iPhone Photos Appearing on My Mac? Troubleshooting Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tips-and-tricks-for-crafting-top-notch-social-media-posts-using-chatgpt/"><u>Tips and Tricks for Crafting Top-Notch Social Media Posts Using ChatGPT</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-v29-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo V29 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+</ul></div>
+

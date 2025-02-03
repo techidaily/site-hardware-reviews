@@ -1,7 +1,7 @@
 ---
 title: "HP Launches Revolutionary New Portable AIO Desktop: Breaking Down The Latest Tech News"
-date: 2025-01-17T16:16:54.690Z
-updated: 2025-01-24T21:05:23.764Z
+date: 2025-01-31T16:07:42.845Z
+updated: 2025-02-01T16:15:59.729Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ Over the past 12 months, this relentless pursuit of technological innovation has
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI will be a win for everyone
@@ -47,7 +47,7 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -63,7 +63,7 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -81,7 +81,7 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -97,7 +97,7 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -142,20 +142,16 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-launchpad-logistics-streamlining-your-way-into-the-realm-of-reviews-channels/"><u>[Updated] 2024 Approved Launchpad Logistics Streamlining Your Way Into the Realm of Reviews Channels</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782995-9781594775956-animals-and-psychedelics/"><u>Animals and Psychedelics | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-western-digital-wd-blue-sn50n0-a-game-changing-4tb-ssd/"><u>Comprehensive Analysis of the Western Digital WD Blue SN50n0 - A Game-Changing 4TB SSD</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/full-disclosure-ricoh-theta-s-inside-and-out-for-2024/"><u>Full Disclosure Ricoh Theta S Inside & Out for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-poco-x6-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Poco X6 Face Lock?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-computer-reviews-by-toms-gear-hub/"><u>In-Depth Computer Reviews by Tom's Gear Hub</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/legal-implications-of-youtube-video-savings/"><u>Legal Implications of YouTube Video Savings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-digital-rights-management-seamless-solutions-for-unrestricted-music-access/"><u>Mastering Digital Rights Management: Seamless Solutions for Unrestricted Music Access</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-tips-and-reviews-by-tom-hardware-specialist/"><u>Navigating the World of Electronics: Tips & Reviews by Tom Hardware Specialist</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-your-bluetooth-connection-effective-solutions-for-the-unresponsive-issue/"><u>Restore Your Bluetooth Connection: Effective Solutions for the Unresponsive Issue</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-corner-in-depth-reviews-and-comparisons/"><u>Tom's Tech Corner: In-Depth Reviews and Comparisons</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-huge-advancements-a-comprehensive-look-at-the-elegoo-saturn-4-ultra-resin-printer/"><u>Unveiling Huge Advancements: A Comprehensive Look at the Elegoo Saturn 4 Ultra Resin Printer</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-benefits-of-the-uphere-m2ebd-m201-cooler-for-nvme-drives-a-complete-review-under-5/"><u>Unveiling the Benefits of the UpHere M2ebd M201 Cooler for NVMe Drives: A Complete Review Under $5</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-toms-latest-computer-components-inside-look-with-toms-hardware-the-gadget-guide/"><u>Unveiling Tom's Latest Computer Components: Inside Look with Tom's Hardware | The Gadget Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/xiaomi-redmi-note-13-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Xiaomi Redmi Note 13 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-dive-into-the-world-of-youtube-on-facebook-video-content/"><u>[Updated] 2024 Approved Dive Into the World of YouTube on Facebook Video Content</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-driver-package-which-typically-includes-a-setup-file-along-with-necessary-software-tools/"><u>Download the Driver Package, Which Typically Includes a Setup File Along with Necessary Software Tools</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-v-purse-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor V Purse to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-in-depth-analysis-and-gear-reviews/"><u>Inside Tom's Hardware: In-Depth Analysis and Gear Reviews</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-install-latest-logitech-mouse-drivers/"><u>Instantly Install Latest Logitech Mouse Drivers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/iphones-finest-photo-tools-for-objection-erasure/"><u>IPhone's Finest Photo Tools for Objection Erasure</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-hardware-insights/"><u>Tom's Tech Review: In-Depth Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-the-secrets-of-gadgets-with-expert-guidance-from-toms-hardware/"><u>Unlock the Secrets of Gadgets with Expert Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-a-closer-look-at-components-with-toms-hardware/"><u>Unveiling Tech Secrets: A Closer Look at Components with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-speed-reviewing-kingstons-high-performance-fury-beast-ddr5-at-6000mhz-with-latency-c40/"><u>Unveiling the Power of Speed: Reviewing Kingston's High-Performance Fury Beast - DDR5 at 6,000MHz with Latency C40</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-printer-works-driver-now-installed/"><u>Win Printer Works: Driver Now Installed</u></a></li>
 </ul></div>
 

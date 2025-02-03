@@ -1,7 +1,7 @@
 ---
 title: Get a Superior Lenovo Laptop for Work or Play at an Incredible Discount This Memorial Day
-date: 2025-01-24T01:00:05.271Z
-updated: 2025-01-25T02:02:15.345Z
+date: 2025-01-25T17:29:52.483Z
+updated: 2025-02-01T17:02:54.805Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is the deal?
@@ -31,7 +31,7 @@ The [Lenovo Legion Pro 5i](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=h
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,7 +73,7 @@ The power cable has an extensive power supply; it's a little bit larger than my 
 The [Lenovo Legion Pro 5i](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-pro-series%2Flegion-pro-5i-gen-8-%2816-inch-intel%29%2Flen101g0024&publisher_slug=itechdaily19598&exclusive=1) base configuration starts at $1,260, while the top configuration retails for $1,800\. The configuration I was sent for testing will cost you around $1,450, which is a very decent value for the components and performance you'll get.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -110,16 +110,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-recording-victory-techniques-to-transform-live-games-into-video-gold/"><u>[New] In 2024, Recording Victory Techniques to Transform Live Games Into Video Gold</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-premium-picks-best-win-11-webcams-for-clear-capture-for-2024/"><u>[New] Premium Picks Best Win 11 Webcams for Clear Capture for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-video-snippets-turn-into-dynamic-shareable-gifs/"><u>2024 Approved Vimeo Video Snippets Turn Into Dynamic, Shareable GIFs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-subdivision-plat-which-records-new-lot-boundaries-and-other-details-must-be-created-and-approved/"><u>A Subdivision Plat, Which Records New Lot Boundaries and Other Details, Must Be Created and Approved.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-top-gadgets-reviewed-by-toms-hardware-experts/"><u>Discover Top Gadgets Reviewed by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insight-on-sovol-sv08-reviving-classic-voron-performance/"><u>Expert Insight on Sovol SV08 - Reviving Classic Voron Performance</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-unpacking-youtubes-income-distribution-from-1m-viewers/"><u>In 2024, Unpacking YouTube's Income Distribution From 1M Viewers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-insights-navigating-the-world-of-technology-gear/"><u>Tom's Hardware Insights: Navigating the World of Technology Gear</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-guides-and-reviews/"><u>Tom's Tech Insights: In-Depth Guides and Reviews</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/unravel-the-mysteries-of-efficient-story-connectivity-for-2024/"><u>Unravel the Mysteries of Efficient Story Connectivity for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-step-by-step-to-effortless-iphone-screen-recording/"><u>[New] 2024 Approved Step-by-Step to Effortless IPhone Screen Recording</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-breaking-down-advanced-photographic-modes-for-enhanced-results-for-2024/"><u>[New] Breaking Down Advanced Photographic Modes for Enhanced Results for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-creative-curvature-enhancing-imagery-with-text-shaping/"><u>[New] In 2024, Creative Curvature Enhancing Imagery with Text Shaping</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-step-by-step-guide-to-optimizing-fb-in-stream-advertising/"><u>[Updated] In 2024, Step-by-Step Guide to Optimizing FB In-Stream Advertising</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-pro-b760m-ct-csm-mainboard-unveiled-a-comprehensive-analysis/"><u>Asus Pro B760M-CT CSM Mainboard Unveiled: A Comprehensive Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-analysis-of-the-anycubic-kobra-3-a-pioneering-multicolor-printer-review/"><u>Detailed Analysis of the Anycubic Kobra 3 - A Pioneering Multicolor Printer Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-pc-building-tips-from-toms-hardware-experts/"><u>Discover the Latest in PC Building - Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-tech-secrets-toms-expertise-on-modern-hardware/"><u>Discover Top Tech Secrets - Tom's Expertise on Modern Hardware</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/prime-selection-of-screen-capture-software-for-gaming/"><u>Prime Selection of Screen Capture Software for Gaming</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-driver-update-tutorial-for-asus-maximus-x-hero-board-of-honour-hassle-free-process/"><u>Quick Driver Update Tutorial for ASUS Maximus X Hero Board of Honour | Hassle-Free Process</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-12-pro-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 12 Pro Message Recovery Software | Stellar</u></a></li>
 </ul></div>
 

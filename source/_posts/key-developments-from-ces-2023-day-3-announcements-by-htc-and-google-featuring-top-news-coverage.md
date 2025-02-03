@@ -1,7 +1,7 @@
 ---
 title: "Key Developments From CES 2023 Day 3: Announcements by HTC and Google, Featuring Top News Coverage"
-date: 2025-01-17T22:44:59.378Z
-updated: 2025-01-25T01:32:55.943Z
+date: 2025-01-29T16:23:26.341Z
+updated: 2025-02-01T18:33:48.230Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Of course, I can't forget the speaker system. Dell's Inspiron 14 2-in-1 has a ni
 For the battery, I performed ZDNET's usual test of running a medium load on the laptop. This consists of playing a YouTube livestream nonstop at 720p and 50% brightness. I clocked the Inspiron 2-in-1 at about eight hours max while on Best Power Efficiency mode. Not too shabby; that's enough to last you a whole day, although it would've been nice if it lasted 10 or 12 hours. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,21 +114,22 @@ I also recommend picking Midnight Blue as your laptop color. The Ice Blue option
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-winning-9-gif-recorder-apps-master-your-animated-archive/"><u>[New] 2024 Approved Winning 9 GIF Recorder Apps Master Your Animated Archive</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-cost-effective-pc-video-capturing-essentials-checklist/"><u>[Updated] 2024 Approved Cost-Effective PC Video Capturing Essentials Checklist</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-enhance-audio-quality-get-high-quality-fx/"><u>2024 Approved Enhance Audio Quality, Get High-Quality FX!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-zombie-survival-quest-top-8-game-guide/"><u>2024 Approved Zombie Survival Quest - Top 8 Game Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-common-issues-top-10-solutions-for-non-functional-widgets-on-ios-devices/"><u>Fixing Common Issues: Top 10 Solutions for Non-Functional Widgets on iOS Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-x50-gt-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor X50 GT Phone?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-honor-magic-6-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Honor Magic 6 Pro to iPod | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamlining-dialogue-leveraging-siri-for-chatgpt-on-iphone/"><u>Streamlining Dialogue: Leveraging Siri for ChatGPT on iPhone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-insights-on-hardware-innovations/"><u>Tom's Tech Review: Insights on Hardware Innovations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-hardware-t17238628801617/"><u>Tom's Tech Reviews: The Ultimate Guide to Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-tech-advice-on-computer-components-by-professionals-at-toms-hardware/"><u>Top Tech Advice on Computer Components by Professionals at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-toms-computer-and-electronics-store-pioneering-tech-solutions/"><u>Top Tom's Computer & Electronics Store: Pioneering Tech Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/tower-of-fantasy-crashes-on-windows-discover-effective-fixes-here/"><u>Tower of Fantasy Crashes on Windows? Discover Effective Fixes Here</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/transform-your-gaming-setup-with-innocns-budget-friendly-27-240hz-ips-display-purchase-now-at-only-1ebn/"><u>Transform Your Gaming Setup with Innocn's Budget-Friendly, 27 240Hz IPS Display - Purchase Now at Only $1Ebn!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-gaming-display-breakdown-asrock-pg2nqft2a-monitor-at-a-whopping-180hz-is-it-worth-it/"><u>Ultimate Gaming Display Breakdown: ASRock PG2nQFT2a Monitor at a Whopping 180Hz - Is It Worth It?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-your-gadget-potential-trustworthy-reviews-by-toms-experts/"><u>Unleash Your Gadget Potential: Trustworthy Reviews by Tom's Experts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixed-troubleshooting-guide-making-iphone-recognizable-by-itunes-on-windows-11/"><u>[FIXED] Troubleshooting Guide: Making iPhone Recognizable by iTunes on Windows 11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-instantly-retire-your-digital-diaries-fb/"><u>[New] Instantly Retire Your Digital Diaries (FB)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-professionals-way-of-removing-backgrounds-for-2024/"><u>[New] The Professional's Way of Removing Backgrounds for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/all-about-creating-compelling-twitresponses/"><u>All About Creating Compelling TwitResponses</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/convertire-file-ts-in-mp4-senza-compromettere-la-quality-4-facili-strategie/"><u>Convertire File TS in MP4 Senza Compromettere La Quality: 4 Facili Strategie</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-novice-to-connoisseur-unveil-7-secrets-of-afrikaans-via-mondly/"><u>From Novice to Connoisseur: Unveil 7 Secrets of Afrikaans via Mondly</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-text-the-illustrator-3d-approach/"><u>In 2024, Transforming Text The Illustrator 3D Approach</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unlocking-the-potential-of-animation-in-your-screencasts/"><u>In 2024, Unlocking the Potential of Animation in Your Screencasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastery-of-machine-your-guide-to-computer-hardware-on-toms-hardware/"><u>Mastery of Machine: Your Guide to Computer Hardware on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-your-pc-upgrade-journey-with-guidance-from-toms-hardware/"><u>Navigate Your PC Upgrade Journey with Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadget-geekdom-with-toms-electronics-hub-top-picks-for-every-needs/"><u>Navigating Gadget Geekdom with Tom's Electronics Hub: Top Picks for Every Needs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-technology-the-toms-hardware-guide-to-pc-excellence/"><u>Navigating Through Technology: The Tom's Hardware Guide to PC Excellence</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/partnered-amd-motherboards-deploy-critical-bios-patch-to-resolve-emblematic-failure-issue/"><u>Partnered AMD Motherboards Deploy Critical BIOS Patch to Resolve Emblematic Failure Issue</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-tech-discovery-through-toms-hardware-reviews/"><u>Pioneering Tech Discovery Through Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-pc-setup-the-asrock-z89et-taichi-aqua-motherboard-comes-with-10x-usb-type-c-and-2x-lightning-fast-thunderbolt-ports/"><u>Revolutionize Your PC Setup: The ASRock Z89eT Taichi Aqua Motherboard Comes with 10X USB Type-C & 2X Lightning-Fast Thunderbolt Ports</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/shop-high-performance-motherboards-and-boards-with-longsun-cpus-beginning-at-just-373-available-in-the-us/"><u>Shop High-Performance Motherboards & Boards with Longsun CPUs: Beginning at Just $373 - Available in the U.S</u></a></li>
 </ul></div>
 

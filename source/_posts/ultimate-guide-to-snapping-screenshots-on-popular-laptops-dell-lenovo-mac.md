@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Snapping Screenshots on Popular Laptops - Dell, Lenovo, Mac
-date: 2025-01-23T00:50:04.669Z
-updated: 2025-01-25T00:04:32.371Z
+date: 2025-01-29T16:24:25.778Z
+updated: 2025-02-01T17:24:03.964Z
 tags:
   - laptops
 categories:
@@ -27,14 +27,10 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to take screenshots on any laptop
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Requirements
 
@@ -44,11 +40,11 @@ You'll need your laptop and, in some cases, basic image editing software. The en
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 1: The old fashioned way**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
 
@@ -59,6 +55,10 @@ In any case, it should be easy to find by looking for the key marked **Prt**, **
 The button can be just about anywhere, so just look for something that looks as similar as possible to the legend on this one.
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
 
@@ -73,6 +73,10 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 Michael Gariffo/ZDNET
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
@@ -90,10 +94,6 @@ Michael Gariffo/ZDNET
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Press Shift+Cmd+3
 
 To take a screenshot on any Mac, including MacBook laptops, just press Shift+Cmd+3\. Unlike Windows, this won't copy the screen to your clipboard, it will actually save the capture as an image file on your desktop using the format "Screen Shot \[date\] at \[time\].png."
@@ -107,7 +107,7 @@ Michael Gariffo/ZDNET
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Is there an easy way to record video of my laptop screen too?
@@ -157,18 +157,19 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-decoding-the-core-contrasts-between-youtube-and-dailymention/"><u>[New] Decoding the Core Contrasts Between YouTube and DailyMention</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-discovering-the-hidden-gems-in-asmr-creation-for-2024/"><u>[New] Discovering the Hidden Gems in ASMR Creation for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-video-excellence-mirrorless-cameras-vs-traditional-dslrs/"><u>[New] In 2024, Video Excellence Mirrorless Cameras vs Traditional DSLRs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-five-key-approaches-to-youtube-livestream-capture/"><u>[Updated] In 2024, Five Key Approaches to Youtube Livestream Capture</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-pc-world-a-comprehensive-resource/"><u>Exploring Tom's PC World: A Comprehensive Resource</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Poco F5 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-pixio-px277-oled-the-hidden-gem-among-gaming-displays/"><u>In-Depth Analysis of the Pixio PX277 OLED - The Hidden Gem Among Gaming Displays</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-xiaomi-redmi-k70e-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Xiaomi Redmi K70E FRP Without Computer</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/online-free-video-converter-transform-amv-into-mp4-with-movavis-solution/"><u>Online Free Video Converter - Transform AMV Into MP4 with Movavi's Solution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-gaming-displays-a-closer-look-at-the-speedy-performance-of-a-45-inch-oled-monitor-aoc-agon-pro-ag456uczd/"><u>Revolutionizing Gaming Displays – A Closer Look at the Speedy Performance of a 45-Inch OLED Monitor (AOC Agon Pro AG456UCZD)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/taking-a-closer-look-performance-testing-and-review-for-raspberry-pi-intelligent-unit-kit/"><u>Taking a Closer Look: Performance Testing and Review for Raspberry Pi Intelligent Unit Kit</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-stay-chilled-in-depth-analysis-of-the-silent-and-powerful-levelplay-combat-air-ca4-cpu-cooler/"><u>The Ultimate Guide to Stay Chilled: In-Depth Analysis of the Silent & Powerful Levelplay Combat Air CA4 CPU Cooler</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-review-of-the-logitech-g5s-tkl-compact-powerful-keyboard-at-an-attainable-price-point/"><u>The Ultimate Review of the Logitech G5s TKL - Compact, Powerful Keyboard at an Attainable Price Point</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-pro-quality-footage-selecting-the-ultimate-7-cameras/"><u>[Updated] 2024 Approved Pro Quality Footage Selecting the Ultimate 7 Cameras</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-achieving-million-sub-milestone-the-youtube-guide-for-2024/"><u>[Updated] Achieving Million-Sub Milestone The YouTube Guide for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-fog-no-more-secrets-for-crisp-clean-filming/"><u>2024 Approved Fog No More Secrets for Crisp, Clean Filming</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-asus-rog-azoth-gaming-laptop-extreme-evaluation-500-price-point/"><u>Comprehensive Asus ROG Azoth Gaming Laptop (Extreme) Evaluation - $500 Price Point</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-from-tomhardwareexperts-mastering-tech-and-gadget-performance/"><u>Expert Advice From TomHardwareExperts: Mastering Tech and Gadget Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-modern-gear-from-your-go-to-source-toms-hardware/"><u>Expert Advice on Modern Gear From Your Go-To Source, Tom's Hardware</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-m34-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-nokia-c12-plus-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Nokia C12 Plus has been deleted</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/191952-9780767910934-the-feng-shui-of-abundance/"><u>The Feng Shui of Abundance | Free Book</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nsider-guide-to-flourishing-on-youtube-games-included-for-2024/"><u>The Insider Guide to Flourishing on YouTube, Games Included for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-asus-rog-ally-x-a-revolutionary-gaming-laptop-for-gamers-on-the-move/"><u>The Ultimate Guide to the Asus ROG Ally X - A Revolutionary Gaming Laptop for Gamers on the Move</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/transfer-techniques-securely-moving-data-to-desktop-for-2024/"><u>Transfer Techniques Securely Moving Data to Desktop for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-top-10-solutions-when-your-iphone-wont-download-apps/"><u>Troubleshooting Guide: Top 10 Solutions When Your iPhone Won't Download Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-pros-and-cons-of-hostgators-vps-and-shared-hosting-services/"><u>Unveiling the Pros and Cons of HostGator's VPS and Shared Hosting Services</u></a></li>
 </ul></div>
 

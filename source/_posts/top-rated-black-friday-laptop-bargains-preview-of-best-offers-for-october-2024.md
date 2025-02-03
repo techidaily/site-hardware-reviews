@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Black Friday Laptop Bargains - Preview of Best Offers for October 2024
-date: 2025-01-23T16:40:51.128Z
-updated: 2025-01-24T21:53:52.203Z
+date: 2025-01-29T18:01:47.392Z
+updated: 2025-02-01T18:25:48.539Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ From Apple's [MacBook Pro M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FUR
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day laptop deals
@@ -80,10 +80,6 @@ Microsoft's 2024 Surface Laptop is a fast, lightweight laptop with a fantastic b
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07196d14-0ec8-40f7-b05f-cbfc092288f2%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best laptops for students
 
 Dell/ZDNET
@@ -92,6 +88,10 @@ Dell/ZDNET
 * [Lenovo IdeaPad Slim 3 Chromebook](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-IdeaPad-Slim-Chromebook-Lightweight%2Fdp%2FB0D5HZVQDL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07196d14-0ec8-40f7-b05f-cbfc092288f2%7Cdtp&dtb=1) for $209 ($10 off) - If you need a lightweight device with a good webcam, it doesn't get more affordable than Lenovo's IdeaPad Slim 3 Chromebook. Already at just a few hundred bucks, you can save some extra cash during Amazon's October Prime Day sale.
 * [Acer Chromebook 314](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CB314-4HT-32X6-i3-N305-Processor-Display%2Fdp%2FB0CMRRFGVN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07196d14-0ec8-40f7-b05f-cbfc092288f2%7Cdtp&dtb=1) for $339 ($110 off) - For a Chromebook with a little bit more storage and a full HD display, this 14-inch Acer machine is a solid campus companion.
 * [Lenovo V15 Essential Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Essential-Quad-core-Processor-Ethernet%2Fdp%2FB0D8524KVL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07196d14-0ec8-40f7-b05f-cbfc092288f2%7Cdtp&dtb=1) for $399 ($100 off) - Lenovo's V15 laptop is a well-rounded machine with a full 1TB of storage, which is enough for multiple years' worth of documents and files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best gaming laptops under $1,000
 
@@ -103,7 +103,7 @@ Asus/ZDNET
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07196d14-0ec8-40f7-b05f-cbfc092288f2%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best laptops for photo editing
@@ -136,21 +136,17 @@ Kyle Kucharski/ZDNET
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
 
@@ -163,6 +159,10 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -230,20 +230,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-seamlessly-upload-videos-onto-youtubes-platform/"><u>[New] 2024 Approved How to Seamlessly Upload Videos Onto YouTube's Platform</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-peeking-behind-the-curtain-of-virtual-reality-pros-and-cons/"><u>[New] Peeking Behind the Curtain of Virtual Reality Pros & Cons</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-instructions-clearing-stored-videos-on-youtubes-watchlater/"><u>[Updated] In 2024, Instructions Clearing Stored Videos on YouTube's Watchlater</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mastering-google-meets-grid-view-functionality-for-2024/"><u>[Updated] Mastering Google Meet's Grid View Functionality for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rog-strix-xg2-acq-an-180hz-marvel-in-accuracy-and-flexibility-the-ultimate-gamers-display-unveiled/"><u>Asus ROG Strix XG2^ ACQ: An 180Hz Marvel in Accuracy & Flexibility - The Ultimate Gamer's Display Unveiled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/blueant-soundblade-testing-results-beautiful-design-robust-audio-capability/"><u>BlueAnt SoundBlade Testing Results: Beautiful Design, Robust Audio Capability</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-raspberry-pis-speed-and-storage-with-our-exclusive-mcdn-hatplus-test-and-insights/"><u>Elevate Your Raspberry Pi's Speed and Storage With Our Exclusive M.CDN HAT+ Test & Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-toms-comprehensive-guide/"><u>Exploring the Latest in Tech: Tom's Comprehensive Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-online-gif-to-movie-converter-movavi/"><u>Free Online GIF to Movie Converter - Movavi</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guide-etape-par-etape-pour-recuperation-des-donnees-de-cartes-memoire-patriot/"><u>Guide Étape Par Étape Pour Récupération Des Données De Cartes Mémoire Patriot</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-lenovo-thinkphone-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Lenovo ThinkPhone to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-through-toms-hardware-reviews-and-updates/"><u>Navigating Through Tom's Hardware Reviews and Updates</u></a></li>
-<li><a href="https://win-tips.techidaily.com/test-your-browsers-with-emeditor-a-comprehensive-text-editor-for-macros/"><u>Test Your Browsers with EmEditor: A Comprehensive Text Editor for Macros</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-face-off-how-does-the-newly-released-asus-rog-keris-ii-ace-stack-up-against-my-favorite-the-ragedeathadder-v3-pro/"><u>The Ultimate Face-Off: How Does the Newly Released Asus ROG Keris II Ace Stack Up Against My Favorite, the RageDeathAdder V3 Pro?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-potency-of-akasa-geckos-ssd-cooler-an-elite-blower-heatsink-for-optimal-drive-performance/"><u>Unveiling the Potency of Akasa Gecko's SSD Cooler: An Elite Blower Heatsink for Optimal Drive Performance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-top-8-android-apps-to-change-slow-motion-videos-to-regular-speed-vide/"><u>[Updated] Top 8 Android Apps to Change Slow-Motion Videos to Regular-Speed Vide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-rhythmic-reels-how-to-pick-beats-for-ig-content/"><u>2024 Approved Rhythmic Reels How to Pick Beats for IG Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/a-comprehensive-guide-to-laptop-screen-recording-techniques-for-2024/"><u>A Comprehensive Guide to Laptop Screen Recording Techniques for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-user-account-control-uac-for-elevated-privileges-in-windows-7810/"><u>Bypassing User Account Control (UAC) for Elevated Privileges in Windows 7/8/10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-innovations-with-toms-guide/"><u>Exploring Hardware Innovations with Tom's Guide</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/get-dex-3-vs-four-free-download-of-200-songs-plus-buy-now-and-save/"><u>Get DEX 3 V/S Four - Free Download of 200 Songs, Plus Buy Now and Save!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-machine-key-takeaways-from-toms-hardware-explorations/"><u>Mastering the Machine: Key Takeaways From Tom's Hardware Explorations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/melding-melodies-with-memories-in-cyberspace-for-2024/"><u>Melding Melodies with Memories in Cyberspace for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-future-of-computing-with-toms-hardware-analysis/"><u>Navigating the Future of Computing with Tom’s Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-maze-with-tomns-hardware-experts/"><u>Navigating the Tech Maze with Tom'n's Hardware Experts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-gif-accelerators-online-and-mobile-solutions/"><u>New 2024 Approved Top GIF Accelerators Online and Mobile Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/permanent-deletion-of-a-yahoo-mail-account-easy-step-by-step-tutorial/"><u>Permanent Deletion of a Yahoo Mail Account - Easy Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/reviving-the-acoustic-experience-solving-minecrafts-soundless-plight-on-computer-systems/"><u>Reviving the Acoustic Experience: Solving Minecraft’s Soundless Plight on Computer Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seeing-is-believing-the-ultimate-review-of-viewsonics-xg272-2k-gaming-display-with-240hz-refresh-rate/"><u>Seeing Is Believing: The Ultimate Review of ViewSonic's XG272-2K Gaming Display with 240Hz Refresh Rate</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solution-easements-grant-rights-to-use-portions-of-a-property-for-specific-purposes-such-as-utilities-or-access-roads-impacting-where-structures-can-be-buil22/"><u>Solution: Easements Grant Rights to Use Portions of a Property for Specific Purposes, Such as Utilities or Access Roads, Impacting Where Structures Can Be Built and How Lots Are Developed.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-choosing-the-best-solid-state-drive-exclusive-review-on-corsairs-mp60mini-1tb-e27t/"><u>The Definitive Guide to Choosing the Best Solid-State Drive: Exclusive Review on Corsair's MP60^Mini 1TB (E27T)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-comprehensive-insights-into-computer-hardware/"><u>Tom's Tech: Comprehensive Insights Into Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-with-toms-technology-blog/"><u>Unveiling the Latest Gadgets with Tom's Technology Blog</u></a></li>
 </ul></div>
 

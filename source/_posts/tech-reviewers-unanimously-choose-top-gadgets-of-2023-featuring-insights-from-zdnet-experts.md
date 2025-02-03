@@ -1,7 +1,7 @@
 ---
 title: Tech Reviewers Unanimously Choose Top Gadgets of 2023 - Featuring Insights From ZDNet Experts
-date: 2024-09-18 21:48:32
-updated: 2024-09-20 10:36:43
+date: 2025-01-28T17:17:05.809Z
+updated: 2025-02-01T16:39:40.045Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,33 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-unveiling-the-secrets-to-a-successful-fb-giveaway/"><u>[New] In 2024, Unveiling the Secrets to a Successful FB Giveaway</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-journey-through-the-top-10-sites-offering-an-array-of-impressive-3d-texts/"><u>[New] Journey Through The Top 10 Sites Offering an Array of Impressive 3D Texts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-cut-the-chatter-capture-game-moments-easily-for-2024/"><u>[Updated] Cut the Chatter Capture Game Moments Easily for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pinnacle-article-hook-maker/"><u>2024 Approved Pinnacle Article Hook Maker</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/corrected-driver-verification-process-including-iomgr-regulations-compliance/"><u>Corrected Driver Verification Process Including IOmgr Regulations Compliance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-components-with-tom-a-guide-to-cutting-edge-hardware-technology/"><u>Exploring Computer Components with Tom - A Guide to Cutting-Edge Hardware Technology</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-xiaomi-civi-3-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Xiaomi Civi 3 Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-realme-11x-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Realme 11X 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/leak-alert-revolutionary-600w-pci-express-50-graphics-card-cable-unveiled/"><u>Leak Alert: Revolutionary 600W PCI Express 5.0 Graphics Card Cable Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-digital-realm-with-insights-from-toms-electronics/"><u>Mastering the Digital Realm with Insights From Tom's Electronics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-complete-guide-to-computer-equipment-by-tom-expert-insights-and-advice/"><u>The Complete Guide to Computer Equipment by Tom - Expert Insights and Advice</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-experts-guide-to-360-video-conversion-and-youtube-sharing/"><u>The Expert's Guide to 360 Video Conversion and YouTube Sharing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-review-comprehensive-analysis-and-latest-tech-insights/"><u>Tom's Hardware Review: Comprehensive Analysis & Latest Tech Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-in-depth-reviews-and-expert-insights/"><u>Tom's Tech Hub: In-Depth Reviews & Expert Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-gadget-comparisons-t17239718736551/"><u>Tom's Tech Insights: Expert Reviews & Gadget Comparisons</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshooting-guide-resolving-windows-movie-maker-problems-in-windows-11-including-no-sound-glitches/"><u>Troubleshooting Guide: Resolving Windows Movie Maker Problems in Windows 11, Including No Sound Glitches</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-choosing-the-best-bluetooth-gaming-headsets-budget-friendly-options-explored/"><u>Ultimate Guide to Choosing the Best Bluetooth Gaming Headsets : Budget-Friendly Options Explored</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-effortless-design-of-nzxts-lift-two-symmetry-gaming-rig-an-seo-optimized-appraisal/"><u>Unboxing the Effortless Design of NZXT's Lift ˈTwo Symmetry Gaming Rig: An SEO-Optimized Appraisal</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-creativity-with-these-10-ae-text-setups-for-2024/"><u>Unleash Creativity with These 10 AE Text Setups for 2024</u></a></li>
+</ul></div>
+

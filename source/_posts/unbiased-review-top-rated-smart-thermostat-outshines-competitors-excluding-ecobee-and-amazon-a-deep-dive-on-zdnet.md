@@ -1,7 +1,7 @@
 ---
 title: "Unbiased Review: Top-Rated Smart Thermostat Outshines Competitors, Excluding Ecobee & Amazon - A Deep Dive on ZDNet"
-date: 2024-09-19 10:51:28
-updated: 2024-09-20 10:49:36
+date: 2025-01-27T17:32:52.326Z
+updated: 2025-02-01T17:38:08.617Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,33 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-best-stabilized-gimbals-for-mobile-and-pro-cameras-unveiled/"><u>[New] Best Stabilized Gimbals for Mobile and Pro Cameras Unveiled</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-chuckle-fest-the-ultimate-list-of-hilarious-youtube-personalities-for-2024/"><u>[Updated] Chuckle Fest The Ultimate List of Hilarious YouTube Personalities for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-sprinkle-some-smiles-emojis-on-youtube/"><u>[Updated] In 2024, Sprinkle Some Smiles Emojis on YouTube</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-dual-mouse-mastery-my-top-tech-upgrade-of-the-year/"><u>1. 'Dual-Mouse Mastery: My Top Tech Upgrade of the Year'</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-enhancing-productivity-the-benefits-of-using-a-dual-monitor-setup-over-a-single-ultrawide/"><u>1. Enhancing Productivity: The Benefits of Using a Dual-Monitor Setup Over a Single UltraWide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-unbeatable-savings-on-top-electronics-grab-your-apple-pencil-samsungs-galaxy-s24-stunning-4k-televisions-and-more/"><u>1. Unbeatable Savings on Top Electronics: Grab Your Apple Pencil, Samsung's Galaxy S24, Stunning 4K Televisions & More!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/apple-watch-update-enables-ring-pausing-during-workouts/"><u>Apple Watch Update Enables Ring Pausing During Workouts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/art-safety-tactics-thwarting-copycat-ai-algorithms-from-duplicating-originals/"><u>Art Safety Tactics: Thwarting Copycat AI Algorithms From Duplicating Originals</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-the-good-old-days-using-emudeck-on-your-steam-deck/"><u>Playing the Good Old Days: Using EmuDeck on Your Steam Deck</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-upgrades-enabling-vintage-dvd-playback-on-the-latest-apple-m-series-mac-computers/"><u>Seamless Upgrades: Enabling Vintage DVD Playback on the Latest Apple M-Series Mac Computers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/solo-stream-triumph-strategies-for-clear-consistent-broadcasts/"><u>Solo Stream Triumph Strategies for Clear, Consistent Broadcasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-phone-dimensions-the-essential-role-of-the-camera-bump-a-non-negotiable-feature/"><u>Understanding Phone Dimensions: The Essential Role of the Camera Bump - A Non-Negotiable Feature</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-main-reasons-for-companies-implementing-chatgpt-restrictions/"><u>Understanding the Main Reasons for Companies Implementing ChatGPT Restrictions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-wi-fi-7-features-and-benefits-is-it-worth-the-upgrade/"><u>Understanding Wi-Fi 7: Features & Benefits - Is It Worth the Upgrade?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unleash-the-power-of-obs-in-live-gaming-streams/"><u>Unleash the Power of OBS in Live Gaming Streams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveil-the-easy-side-of-ai-dialogues-via-chrome-enhancement/"><u>Unveil the Easy Side of AI Dialogues via Chrome Enhancement</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-origins-of-enigmatic-tech-phrases-demonstrations-and-digital-eulogy/"><u>Unveiling the Origins of Enigmatic Tech Phrases - Demonstrations & Digital Eulogy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-the-classic-clamshell-computer-design-remains-forever-popular/"><u>Why the Classic Clamshell Computer Design Remains Forever Popular</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-thickness-isnt-everything-uncovering-the-top-3-features-to-consider-when-choosing-a-tv/"><u>Why Thickness Isn't Everything: Uncovering the Top 3 Features to Consider When Choosing a TV</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Unpleasant Surprises at the Apple Store, According to ZDNet Coverage
-date: 2025-01-23T17:06:50.865Z
-updated: 2025-01-24T21:19:43.807Z
+date: 2025-01-29T16:48:02.613Z
+updated: 2025-02-01T17:39:36.412Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Furthermore, there are very few ports. You get three in total: two USB-C inputs 
 My last critique is admittedly a nitpick. I would've appreciated a free stylus in the overall package. Microsoft's 11th-gen Surface Pro had one when I got it, and I thoroughly enjoyed it. So unless you already have a pen, you'll have to buy one for the PZ13, which isn't a big issue since the laptop is fairly cheap.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ Prices for the Asus ProArt PZ13 start at [$1,100 on Best Buy](https://shop-links
 Other than that, they're the same device. Get the Hexagon version only if you are expecting heavy workloads.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -140,15 +140,22 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-reviews.techidaily.com/adherence-to-prescribed-medications-such-as-antibiotics-and-anti-inflammatory-eye-drops-is-essential-to-prevent-complications/"><u>Adherence to Prescribed Medications, Such as Antibiotics and Anti-Inflammatory Eye Drops, Is Essential to Prevent Complications</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capturing-the-cosmos-mastering-editing-techniques-for-starry-images/"><u>Capturing the Cosmos Mastering Editing Techniques for Starry Images</u></a></li>
-<li><a href="https://discover-great.techidaily.com/dvditunes-for-windows-and-mac/"><u>DVDをiTunesに統合して遊ぶ方法：ワンステップガイド for Windows & Mac</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-delving-into-the-pros-and-cons-of-using-itop/"><u>In 2024, Delving Into the Pros and Cons of Using ITop</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-beyerdynamic-mmx-300-pro-superior-acoustics-meets-fundamental-design/"><u>In-Depth Analysis of the Beyerdynamic MMX 300 Pro: Superior Acoustics Meets Fundamental Design</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/is-the-microsoft-surface-pro-9-the-answer-how-it-stacks-up-to-macbook-for-windows-fans-reviewed-by-tech-experts-at-zdnet/"><u>Is the Microsoft Surface Pro 9 the Answer? How It Stacks Up to MacBook for Windows Fans, Reviewed by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/mastering-canvass-skin-removal-an-experts-handbook/"><u>Mastering Canvas's Skin Removal An Expert's Handbook</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-hardware-with-tom-insights-and-reviews-by-toms-gear/"><u>Navigating Hardware with Tom: Insights & Reviews by Tom's Gear</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-acer-predator-orion-n5010-premium-gaming-laptop-at-a-bargain-price/"><u>The Ultimate Guide to the Acer Predator Orion N5010: Premium Gaming Laptop at a Bargain Price</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comprehensive-list-audio-pace-modification-tools/"><u>[New] Comprehensive List Audio Pace Modification Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-navigating-youtube-triumphs-an-in-depth-guide-to-creator-studio/"><u>[New] Navigating YouTube Triumphs An In-Depth Guide to Creator Studio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-listeners-guide-to-gpodcs-best-shows/"><u>2024 Approved Prime Listeners Guide to GPodC's Best Shows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/battle-of-the-slates-google-pixel-tablet-against-apples-ipad-analyzed-in-depth-zdnet-exclusive-feature/"><u>Battle of the Slates: Google Pixel Tablet Against Apple's iPad Analyzed in Depth | ZDNet Exclusive Feature</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-asrocks-value-packed-b760m-pro-rs-affordable-and-feature-filled/"><u>Comprehensive Guide to ASRock's Value-Packed B760M Pro RS: Affordable & Feature-Filled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-gadgets-and-components-on-tomtechreviews-your-trusted-source-for-insights/"><u>Discover Top Gadgets and Components on TomTechReviews – Your Trusted Source for Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-computer-components-by-toms-hardware-hub/"><u>Expert Insights on Computer Components by Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-latest-hardware-from-toms-domain/"><u>Expert Insights on Latest Hardware From Tom's Domain</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-solid-reliability-of-the-asus-tuf-gaming-a14-unit/"><u>Exploring the Solid Reliability of the Asus TUF Gaming A14 Unit</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/visionary-to-victory-channel-command-school-for-2024/"><u>From Visionary to Victory Channel Command School for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-spreading-smiles-crafting-visual-jokes-for-fbinstagram-shares/"><u>In 2024, Spreading Smiles Crafting Visual Jokes for FB/Instagram Shares</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-western-digital-4tb-wd-blue-sn5000-the-new-era-for-large-capacity-ssds/"><u>In-Depth Look at the Western Digital 4TB WD Blue SN5000 - The New Era for Large Capacity SSDs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/is-asus-rog-keris-ii-ace-the-new-king-of-gamers-deathadder-v3-pro-vs-keris-ii-ace-reviewed/"><u>Is Asus ROG Keris II Ace the New King of Gamers? DeathAdder V3 Pro vs Keris II Ace Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/synching-release-timings-to-audience-trends-for-2024/"><u>Synching Release Timings to Audience Trends for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-essential-ipad-enhancers-as-reviewed/"><u>The Ultimate Guide to Essential iPad Enhancers as Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-performance-unleashed-teamgroup-t-force-dark-airflow-i-nvme-cooler-in-depth-review/"><u>Ultimate Performance Unleashed: TeamGroup T-Force Dark AirFlow I NVMe Cooler In-Depth Review</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-get-animated-top-10-software-for-2d-animation-enthusiasts-for-2024/"><u>Updated Get Animated Top 10 Software for 2D Animation Enthusiasts for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Section 4C: Q&As on Catalysis in Green Chemistry"
-date: 2024-09-18 21:44:24
-updated: 2024-09-20 12:24:17
+date: 2025-01-30T17:44:36.533Z
+updated: 2025-02-01T17:56:52.825Z
 tags:
   - kitchen-household
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc994
 ![EcoFlow Delta Pro 3 portable battery](https://www.zdnet.com/a/img/resize/493a0e14c2076aa82dd15d43be4c51552702595c/2024/06/20/9d465ec0-9e8c-4fee-b2aa-d5b5ce343244/2.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -77,6 +81,10 @@ How did it fare? The power returned about three hours later, and the Delta Pro 3
 
 Aside from this power outage, [we've tested](https://www.zdnet.com/home-and-office/energy/how-we-test-portable-power-stations/) the Delta Pro 3 as a standalone battery to power a home office setup, keeping consumption between 50W and 120W. The DP3 powered an LCD monitor, a Dell XPS laptop, a phone charger, and a USB-C tablet charger for four days. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Accessories-Emergencies%2Fdp%2FB0D14FMFZD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1) is an excellent option for anyone looking for a higher-capacity portable battery for camping or as an emergency home backup, as long as you're willing to pay the price, literally. It's not a cheap option among portable batteries, priced at $3199, which is about $400 less than the price of a [Delta Pro and Dual fuel inverter generator bundle](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Generator-High-Power-Appliances%2Fdp%2FB0BKGLCVRR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1).
@@ -106,11 +114,31 @@ Though priced high, the Delta Pro 3 seamlessly integrates into an EcoFlow home b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-kiddie-koala-race-relays/"><u>[New] 2024 Approved Kiddie Koala Race Relays</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-supreme-storytelling-through-soundscape/"><u>[Updated] In 2024, Supreme Storytelling Through Soundscape</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-brainiacs-raspberry-pi-smart-kit/"><u>Comprehensive Evaluation of Brainiac's Raspberry Pi Smart Kit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-devices-on-toms-hardware-hub-top-product-reviews-and-tips/"><u>Discover Cutting-Edge Devices on Tom's Hardware Hub: Top Product Reviews and Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-technology-insights-and-reviews-at-toms-hardware-hub/"><u>Dive Into Technology Insights and Reviews at Tom's Hardware Hub</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-desk-decorations-through-windows-11-techniques/"><u>Elevating Desk Decorations Through Windows 11 Techniques</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-gt-10-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix GT 10 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-brightening-tactics-for-android-video-enthusiasts/"><u>In 2024, Brightening Tactics for Android Video Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-sabrents-1tb-rocket-nano-ssd-m2-2242-setting-the-benchmark-in-miniaturized-memory-drives/"><u>In-Depth Analysis: Sabrent's 1TB Rocket Nano SSD (M.2 2242) - Setting the Benchmark in Miniaturized Memory Drives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-fastest-storage-devices-lexar-sl500-and-sl600-delivering-up-to-20-gbps-bandwidth/"><u>In-Depth Review of the Fastest Storage Devices: Lexar SL500 and SL600, Delivering Up to 20 Gbps Bandwidth</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-building-with-toms-hardware/"><u>Navigating the World of PC Building with Tom's Hardware</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-meizu-21-pro-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Meizu 21 Pro and Browser | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-remove-subtitles-from-your-amazon-prime-watch-party/"><u>Steps to Remove Subtitles From Your Amazon Prime Watch Party</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-hardware-reviews-and-guides/"><u>Tom's Computer Hardware Reviews & Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-guide/"><u>Tom's Tech Reviews: Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-how-to-remove-tiktok-watermarks-best-online-methods/"><u>Updated In 2024, How to Remove TikTok Watermarks Best Online Methods</u></a></li>
+</ul></div>
+

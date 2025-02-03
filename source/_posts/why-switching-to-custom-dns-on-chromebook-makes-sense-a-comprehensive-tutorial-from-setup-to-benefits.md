@@ -1,7 +1,7 @@
 ---
 title: Why Switching to Custom DNS on Chromebook Makes Sense - A Comprehensive Tutorial From Setup to Benefits
-date: 2025-01-20T01:30:33.566Z
-updated: 2025-01-24T18:58:00.942Z
+date: 2025-01-31T18:17:04.688Z
+updated: 2025-02-01T17:50:26.411Z
 tags:
   - laptops
 categories:
@@ -30,6 +30,10 @@ A Chromebook is a portable computer [running ChromeOS](https://www.zdnet.com/art
 
 David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the difference between a Chromebook and a laptop?
 
 A Chromebook is a portable computer running ChromeOS. They tend to have lower-powered processors, less RAM, and less local storage than their laptop counterparts. There are, however, some high-end Chromebooks that outstrip the specs of most contemporary laptops.
@@ -41,7 +45,7 @@ In this comparison, "laptop" refers to portable computers running traditional op
 For example, a person editing a photo on a standard laptop could use locally installed programs like Microsoft Paint, Adobe Photoshop, or GIMP, or photo-editing web apps like [Pixlr](https://pixlr.com/), [Imgur](https://imgur.com/edit?deletehash=TBFOmNPuPRoKQfh), or [Photoshop on the web (beta)](https://photoshop.adobe.com/). A user wanting to complete the same task on a Chromebook would need to rely on web apps, as locally installed options like Paint and Photoshop are not compatible with ChromeOS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can a Chromebook do everything a laptop can?
@@ -70,10 +74,6 @@ That said, you can get close to the ideal experience by sticking with lighter-we
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do Chromebooks need to be connected to the Internet?
 
 Ideally, yes, but some tasks can be completed offline. Because Chromebooks rely heavily on connected services like cloud-based storage and web apps, a lack of connectivity might leave you without access to important files or the software you need. 
@@ -85,10 +85,6 @@ However, some basic functions remain even when a Chromebook isn't connected to t
 To be clear, you shouldn't purchase a Chromebook if you don't intend to have it connected to the internet the vast majority of the time. While it can be used offline, its full functionality is dependent on access to an active internet connection.
 
 Google
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are Chromebooks expensive?
 
@@ -104,6 +100,10 @@ You could buy a very low-end laptop for around the same price, but the build qua
 
 As an exception, there are several more high-priced Chromebooks available. High-end models like [Google's Pixelbook Go](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixelbook-go-13-3-touch-screen-chromebook-intel-core-m3-8gb-memory-64gb-solid-state-drive-just-black%2F6382912.p&publisher_slug=itechdaily19598&exclusive=1) or [Samsung's Galaxy Chromebook](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Chromebook-Computer-Touchscreen-Processor%2Fdp%2FB088T2C912%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C777b66ed-2156-4aa3-aa69-881736030572%7Cdtp&dtb=1) incorporate premium materials, high-resolution displays, and internal components that would be at home in a high-end laptop. While these models are overkill for most Chromebook users, they could suit someone expecting their Chromebook to be their primary computing device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best Chromebook?
 
 The answer depends on your intended uses. Need a couch PC for basic browsing, maybe some social media, and the occasional streaming video? Then your priorities are very different from a student who wants a system with maximum portability and epic battery life. Because of this, ZDNET has best lists geared toward specific types of users, which you can find below.
@@ -116,15 +116,15 @@ If you want my quick picks for the best Chromebooks overall, I've included a few
 
 Getty
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### For mixed use:
 
 [Lenovo IdeaPad Flex 5i $290 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RNCN3YV%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C777b66ed-2156-4aa3-aa69-881736030572%7Cdtp&dtb=1)
 
 This is the Chromebook I've recommended to several family members and friends, all of whom reported excellent long-term satisfaction. Its touchscreen will let you play Android games, and its reliability and build quality will help you power through work or homework with equal ease. It's all the "laptop" most of us will ever need. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### For gaming:
 
@@ -132,15 +132,15 @@ This is the Chromebook I've recommended to several family members and friends, a
 
 I've reviewed two of the three Chromebooks included in the first wave of gaming-centric models, and the Acer 516 GE slightly edged out its competition due to the inclusion of an Ethernet port. If you're purely a Wi-Fi user with a great connection, the [Lenovo IdeaPad Gaming Chromebook](https://lenovo.vzew.net/c/5597632/218864/3808?sharedId=zdnet&u=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fideapad%2Fideapad-gaming-laptops%2Fideapad-5i-gaming-chromebook-gen-7-%2816-inch-intel%29%2Flen101i0062&subId1=zd-__COM_CLICK_ID__-dtp) could be a great option too. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### For the road warrior:
 
 [Google Pixelbook Go $699.99 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07YMGQYP6%2Fref%3Dasc%5Fdf%5FB07YMGQYP61728558000000%3Fcreative%3D395261%26creativeASIN%3DB07YMGQYP6%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C777b66ed-2156-4aa3-aa69-881736030572%7Cdtp&dtb=1)
 
 $650 might seem pricey when options like the great Lenovo model above exist. But, the exceptional build quality, 12-hour battery life, and laptop-class CPU all make a great case for this being the Chromebook to buy if you intend to be a one-computer traveler. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For young students:
 
@@ -178,22 +178,22 @@ I wouldn't call the Dell Chromebook 3100 disposable at $100, but it's as close a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-exclusive-guide-best-8-cameras-for-dynamic-livestreams-for-2024/"><u>[New] Exclusive Guide Best 8 Cameras for Dynamic Livestreams for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-audireview-listening-and-recording-evaluation/"><u>[Updated] Audireview Listening & Recording Evaluation</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-design-your-signature-discord-pfp-for-standout-presence/"><u>[Updated] Design Your Signature Discord PFP for Standout Presence</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-insights-on-modern-hardware-your-go-to-source-toms-tech-reviews/"><u>Advanced Insights on Modern Hardware - Your Go-To Source, Tom's Tech Reviews</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862798369-dell-xps-13-shines-with-lgs-newly-released-oled-display-successful-mass-production-achieved/"><u>Dell XPS 13 Shines with LG's Newly Released OLED Display – Successful Mass Production Achieved</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862820893-dells-affordable-24-inch-freesync-display-now-only-99-shop-today/"><u>Dell's Affordable 24-Inch FreeSync Display Now Only $99 - Shop Today</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862781576-experience-next-level-gaming-with-xiaomis-34-g34wqi-display-high-speed-refresh-rate-and-stunning-color-accuracy/"><u>Experience Next-Level Gaming with Xiaomi's 34 G34WQi Display - High-Speed Refresh Rate & Stunning Color Accuracy!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862824795-experience-ultraportability-with-vaios-newly-launched-visionplus-14-monitor-just-072-pounds/"><u>Experience Ultraportability with Vaio's Newly Launched Vision+ 14 Monitor - Just 0.72 Pounds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-mouse-features-10-easy-steps-in-win11/"><u>Explore Mouse Features: 10 Easy Steps in Win11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-infinix-zero-5g-2023-turbo-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Infinix Zero 5G 2023 Turbo? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Realme 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862800618-maximize-your-gameplay-high-refresh-rate-monitor-at-an-unbeatable-price-only-149/"><u>Maximize Your Gameplay: High Refresh Rate Monitor at an Unbeatable Price - Only $149</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/quick-and-easy-methods-for-including-emojis-into-discord-statements/"><u>Quick and Easy Methods for Including Emojis Into Discord Statements</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862816622-transform-your-gaming-experience-with-the-sale-priced-acer-nitro-a-stunning-24-curved-monitor-now-available-at-a-fantastic-price-of-only-81/"><u>Transform Your Gaming Experience with the Sale-Priced Acer Nitro: A Stunning 24 Curved Monitor Now Available at a Fantastic Price of Only $ 81</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/turn-your-kindle-into-a-customizable-e-ink-display-a-step-by-step-devrepo-guide/"><u>Turn Your Kindle Into a Customizable E-Ink Display: A Step-by-Step DevRepo Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/uniting-platforms-efficiently-share-fb-videos-to-whatsapp-for-2024/"><u>Uniting Platforms Efficiently Share FB Videos to WhatsApp for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-4-best-full-screen-recorder-for-pc-and-mac/"><u>[Updated] In 2024, 4 Best Full Screen Recorder for PC and Mac</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-visual-templates-free-eco-friendly-options/"><u>[Updated] Visual Templates Free Eco-Friendly Options</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-income-101-from-ideas-to-earnings-in-action/"><u>[Updated] YouTube Income 101 From Ideas to Earnings in Action</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-boost-your-broadcast-three-steps-to-successful-youtube-streaming/"><u>2024 Approved Boost Your Broadcast Three Steps to Successful YouTube Streaming</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-stunning-clarity-with-our-portable-1080p-156-inch-ips-display-priced-at-a-record-6599/"><u>Experience Stunning Clarity with Our Portable 1080P 15.6-Inch IPS Display - Priced at a Record $65.99</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-ultimate-game-sound-top-rated-gaming-speakers-on-sale-at-best-buy-exclusively-featured/"><u>Experience Ultimate Game Sound: Top-Rated Gaming Speakers On Sale At Best Buy - Exclusively Featured !</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-tom-hardware-insights/"><u>Exploring Technology with Tom: Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gamers-alert-enjoy-the-cutting-edge-technology-with-a-sceptre-curved-monitor-at-an-incredible-discounted-rate-of-79/"><u>Gamers Alert! Enjoy the Cutting-Edge Technology with a Sceptre Curved Monitor at an Incredible Discounted Rate of $79</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-motorola-moto-g24-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Motorola Moto G24 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-solutions-and-reviews-discovering-tech-secrets-at-toms-hardware/"><u>Innovative Solutions and Reviews: Discovering Tech Secrets at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-analysis-and-reviews-the-toms-hardware-collection/"><u>Innovative Tech Analysis and Reviews - The Tom's Hardware Collection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/professional-display-revolutionized-aoc-launches-its-cutting-edge-trio-of-graphic-pro-series-monitors-model-u3/"><u>Professional Display Revolutionized: AOC Launches Its Cutting-Edge Trio of Graphic Pro Series Monitors, Model U3</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/profound-analysis-of-morphvox-technology-and-its-role-in-audio-modification/"><u>Profound Analysis of MorphVOX Technology and Its Role in Audio Modification</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/proven-strategies-for-powerful-customer-success-stories-on-screen/"><u>Proven Strategies for Powerful Customer Success Stories on Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-unmissable-eyoy-em105-review-exceptional-value-meets-miniaturization-at-105-inches/"><u>The Unmissable EYOY EM105 Review – Exceptional Value Meets Miniaturization at 10.5 Inches</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862836975-transform-your-gaming-experience-with-the-alienware-curved-34-inch-oled-available-for-749-at-best-buy/"><u>Transform Your Gaming Experience with the Alienware Curved 34 Inch OLED - Available for $749 at Best Buy!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Pre-Black Friday Gaming Bargains: Exclusive Offers Available All October Long Insights"
-date: 2025-01-22T00:52:32.940Z
-updated: 2025-01-24T17:13:09.337Z
+date: 2025-01-26T16:24:23.775Z
+updated: 2025-02-01T17:57:20.730Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ Brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-day-sam
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day gaming deals
@@ -121,10 +121,6 @@ ZDNET
 * [AMD Ryzen 7 5800X for $121 (save $328)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5800X-16-Thread-Processor%2Fdp%2FB0815XFSGK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccd4c0283-57db-4425-bcec-8320c8addfcf%7Cdtp&dtb=1): This gaming PC processor has 8 cores, 16 threads, and a maximum clock speed of 4.7GHz.
 * [AMD Ryzen 9 5900X for $220 (save $350)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccd4c0283-57db-4425-bcec-8320c8addfcf%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day PlayStation 5 deals
 
 ZDNET
@@ -139,6 +135,10 @@ ZDNET
 * [Gran Turismo 7 standard edition for $41 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGran-Turismo-7-PlayStation-5%2F443954076%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The definitive racing sim is back on PS5 with an all-new solo campaign, over 420 cars to unlock, and over 90 tracks to master.
 * [Dead Island 2 standard edition for $20 (save $27 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDead-Island-2-PlayStation-5%2F5212541857%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Hack and slash your way through Hell-A as one of 6 characters as you fight to survive the hordes of zombies and escape the city with your friends alive.
 * [Madden NFL 25 for $48 (save $23)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMadden-NFL-25-PlayStation-5%2Fdp%2FB0D3PGHSM3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccd4c0283-57db-4425-bcec-8320c8addfcf%7Cdtp&dtb=1): The latest entry in the popular franchise features physics-based tackling, a rebalanced player system, and refreshed franchise mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
 
@@ -175,6 +175,10 @@ Nintendo/ZDNET
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $66 (save $14 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -209,10 +213,6 @@ Samsung/ZDNET
 * [Samsung Odyssey G8 OLED 34-inch curved monitor for $800 (save $400 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-DisplayHDR-FreeSync-Streaming-LS34DG856SNXZA%2Fdp%2FB0DB9L4KJZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccd4c0283-57db-4425-bcec-8320c8addfcf%7Cdtp&dtb=1): This ultrawide gaming monitor has an OLED panel for more accurate colors, detailing and contras as well as AMD FreeSync Premium Pro VRR and a 175Hz refresh rate.
 * [Asus ZenScreen for $279 (save $50 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-ZenScreen-portable-monitor-MQ16AHE%2Fdp%2FB0CXRSGZN5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccd4c0283-57db-4425-bcec-8320c8addfcf%7Cdtp&dtb=1): This portable display has a 16-inc OLED screen with HDR-10 support, USB-C and mini HDMI connectivity, 1080p resolution, and a 120Hz refresh rate.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day PC gaming accessories deals
 
 * [SanDisk Extreme Pro 4TB portable SSD for $340 (save $138 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsandisk-extreme-pro-portable-4tb-external-usb-c-nvme-ssd-black%2F6522095.p%3FskuId%3D6522095&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-07-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An ultra-tough portable SSD compatible with Windows and Mac computers and backed by a 5-year warranty.
@@ -221,7 +221,7 @@ Samsung/ZDNET
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-07-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals
@@ -233,7 +233,7 @@ Samsung/ZDNET
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $770 (save $177 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -315,16 +315,16 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-capture-the-past-with-your-camera-roll-snapchat-edition-for-2024/"><u>[New] Capture the Past with Your Camera Roll - Snapchat Edition for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-conquer-social-media-with-savvy-fb-video-choices/"><u>[New] In 2024, Conquer Social Media with Savvy FB Video Choices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-will-2023-see-an-increase-in-televising-video-content/"><u>[New] In 2024, Will 2023 See an Increase in Televising Video Content?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/communications-kings-in-asia-top-3-languages/"><u>Communication's Kings in Asia: Top 3 Languages</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-insights-on-tech-gear-at-toms-hardware-review/"><u>Discover Insights on Tech Gear at Tom's Hardware Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-msis-latest-innovation-the-aiplus-laptop-range-revolutionizing-gaming-and-creativity-with-up-to-542-tops/"><u>Discover MSI's Latest Innovation: The AI+ Laptop Range, Revolutionizing Gaming and Creativity with Up to 542 TOPS</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-top-notch-computer-hardware-with-toms-review-guide/"><u>Explore Top-Notch Computer Hardware with Tom's Review Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-cutting-edge-technology-at-toms-digital-workshop/"><u>Exploring Cutting-Edge Technology at Tom's Digital Workshop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-mastering-video-conversion-with-top-of-the-line-vob-editors/"><u>Ultimate Guide: Mastering Video Conversion with Top-of-the-Line VOB Editors</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-fcpx-essential-adding-a-countdown-timer-in-just-3-clicks/"><u>Updated 2024 Approved FCPX Essential Adding a Countdown Timer in Just 3 Clicks</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlock-efficient-video-editing-6-adobe-premiere-hacks-you-need-to-know/"><u>Updated In 2024, Unlock Efficient Video Editing 6 Adobe Premiere Hacks You Need to Know</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-addressing-distorted-media-on-youtube-platform/"><u>[New] Addressing Distorted Media on YouTube Platform</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-boosting-visual-appeal-in-tiktok-videos/"><u>[Updated] Boosting Visual Appeal in TikTok Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-foremost-equipment-in-round-the-clock-filming/"><u>2024 Approved Foremost Equipment in Round-The-Clock Filming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chatgpt-plus-evaluation-discover-if-its-a-valuable-addition-with-these-5-points/"><u>ChatGPT Plus Evaluation: Discover If It's a Valuable Addition with These 5 Points</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-m14-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy M14 4G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovating-your-setup-expert-advice-on-hardware-by-tom/"><u>Innovating Your Setup: Expert Advice on Hardware by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-solutions-for-enthusiasts-discover-what-toms-hardware-offers/"><u>Innovative Solutions for Enthusiasts – Discover What Tom's Hardware Offers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-middle-ground-with-viewsonic-va1655-a-balanced-review-of-its-capabilities/"><u>Mastering the Middle Ground with ViewSonic VA1655: A Balanced Review of Its Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-visual-excellence-the-asus-proart-pa32ucxr-review-a-leader-in-accurate-colors-and-precision-display-technology/"><u>Mastering Visual Excellence: The Asus ProArt PA32UCXR Review – A Leader in Accurate Colors and Precision Display Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximize-visual-impact-and-comfort-the-premium-34-curved-display-from-lg-available-for-just-499/"><u>Maximize Visual Impact and Comfort: The Premium 34 Curved Display From LG, Available for Just $499</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/maximizing-conversions-with-targeted-snapad-strategies-for-2024/"><u>Maximizing Conversions with Targeted SnapAd Strategies for 2024</u></a></li>
 </ul></div>
 

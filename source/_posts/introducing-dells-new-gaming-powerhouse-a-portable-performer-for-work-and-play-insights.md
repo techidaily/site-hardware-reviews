@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights"
-date: 2025-01-18T23:13:27.609Z
-updated: 2025-01-24T23:31:50.241Z
+date: 2025-01-25T16:26:45.442Z
+updated: 2025-02-01T16:24:23.410Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,19 +114,24 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/hannel-branding-hacks-10-must-use-online-tools/"><u>[New] Channel Branding Hacks 10 Must-Use Online Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gently-lower-sound-amplitude-tutorial/"><u>[New] Gently Lower Sound Amplitude Tutorial</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-sky-storage-spectacle-unlimited-free-and-elite-premium-alternatives-for-your-pics/"><u>[Updated] In 2024, Sky Storage Spectacle Unlimited Free & Elite Premium Alternatives for Your Pics</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-crossing-platforms-upload-video-to-twittertumblr/"><u>2024 Approved Crossing Platforms Upload Video to Twitter/Tumblr</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-6-best-youtube-shorts-downloaders-free-and-online/"><u>In 2024, 6 Best YouTube Shorts Downloaders [Free & Online]</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-infinix-hot-30-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Infinix Hot 30 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-the-ultimate-guide-to-template-infused-yt-descriptions/"><u>In 2024, The Ultimate Guide to Template-Infused YT Descriptions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-the-machine-key-takeaways-from-toms-hardware-explorations/"><u>Mastering the Machine: Key Takeaways From Tom's Hardware Explorations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-a-world-of-videos-made-easy-with-vidas-aid-for-2024/"><u>Navigating a World of Videos Made Easy with Vida's Aid for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-future-of-computing-with-toms-hardware-analysis/"><u>Navigating the Future of Computing with Tom’s Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/reviews-of-the-viewsonic-xg2eon-oled-stunning-240hz-performance-for-gamers/"><u>Reviews of the ViewSonic XG2eon OLED: Stunning 240Hz Performance for Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/solution-easements-grant-rights-to-use-portions-of-a-property-for-specific-purposes-such-as-utilities-or-access-roads-impacting-where-structures-can-be-buil22/"><u>Solution: Easements Grant Rights to Use Portions of a Property for Specific Purposes, Such as Utilities or Access Roads, Impacting Where Structures Can Be Built and How Lots Are Developed.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/teamgroups-eco-ddr5-revolution-the-vulcan-memory-kit-ddr5-6000-c30-2x16gb-reviewed/"><u>TeamGroup's Eco-DDR5 Revolution: The Vulcan Memory Kit - DDR5-6000 C30, 2X16GB Reviewed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-insights/"><u>Tom's Tech Review: In-Depth Analysis and Insights</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-learn-the-best-practices-for-capturing-instagram-live-feeds/"><u>[New] 2024 Approved Learn the Best Practices for Capturing Instagram Live Feeds</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-best-sniping-software-for-mac-users/"><u>[Updated] 2024 Approved Best Sniping Software for Mac Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-instant-luxury-iphones-extended-shutter-mastery/"><u>2024 Approved Instant Luxury IPhone's Extended Shutter Mastery</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-revolutionize-your-photo-taking-experience-a-guide-to-snapchats-editing-tools/"><u>2024 Approved Revolutionize Your Photo-Taking Experience A Guide to Snapchat's Editing Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-streamline-your-vlc-experience-best-practices-for-macos/"><u>2024 Approved Streamline Your VLC Experience Best Practices for MacOS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amazons-exclusive-deal-asus-rog-strix-g16-just-1164-for-the-ultimate-2024-gaming-experience/"><u>Amazon's Exclusive Deal: ASUS ROG Strix G16 - Just $1,164 for the Ultimate 2024 Gaming Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breakthrough-in-efficient-energy-storage-how-massless-carbon-hewn-batteries-are-changing-the-game-for-portable-tech/"><u>Breakthrough in Efficient Energy Storage: How Massless Carbon Hewn Batteries Are Changing the Game for Portable Tech</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-ultimate-gaming-setup-with-msis-titan-18-pro-ryzen-edition-featuring-the-cutting-edge-combo-of-amd-ryzen-9-and-nvidia-rtx-graphics/"><u>Discover the Ultimate Gaming Setup with MSI’s Titan 18 Pro Ryzen Edition: Featuring the Cutting-Edge Combo of AMD Ryzen 9 and Nvidia RTX Graphics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-innovation-with-toms-computing-insights/"><u>Discovering Innovation with Tom's Computing Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-top-tech-a-dive-into-toms-hardware-selection/"><u>Discovering Top Tech: A Dive Into Tom's Hardware Selection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/double-display-power-with-acemagics-intel-laptop-priced-at-899-and-below/"><u>Double Display Power with Acemagic's Intel Laptop - Priced at $899 and Below</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-next-level-in-ultrabooks-exploring-the-superior-features-and-design-of-the-updated-dell-xps-13-9345/"><u>Experience the Next Level in Ultrabooks: Exploring the Superior Features and Design of the Updated Dell XPS 13 (9345)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-top-5-exciting-features-of-apples-ios-18-preview-a-sneak-peek/"><u>Explore the Top 5 Exciting Features of Apple's iOS 18 Preview: A Sneak Peek</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-equipment-the-guide-by-toms-hardware/"><u>Exploring Advanced Equipment - The Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-review-center/"><u>Exploring Gadgets with Tom's Hardware Review Center</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-best-global-music-stream-service/"><u>In 2024, Best Global Music Stream Service</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-create-a-heartfelt-valentines-day-message-a-step-by-step-guide-for-2024/"><u>New Create a Heartfelt Valentines Day Message A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-resolution-excising-unwanted-apps-in-win11/"><u>Rapid Resolution: Excising Unwanted Apps in Win11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/survive-and-thrive-top-8-zombie-game-experiences-for-2024/"><u>Survive and Thrive Top 8 Zombie Game Experiences for 2024</u></a></li>
 </ul></div>
 

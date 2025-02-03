@@ -1,7 +1,7 @@
 ---
 title: "Huge Cyber Monday Savings: Save 77%% on Lenovo ThinkPad L14 Gen 3 - Limited Time Offer!"
-date: 2025-01-17T20:53:39.490Z
-updated: 2025-01-24T22:55:19.708Z
+date: 2025-01-31T16:41:13.321Z
+updated: 2025-02-01T16:33:49.470Z
 tags:
   - laptops
 categories:
@@ -56,7 +56,7 @@ If you're at all familiar with the previous ThinkPad X1 computers, you'll notice
 Another consequence of the limited space is the lack of ports. You have four inputs in total: two Thunderbolt 4 ports, an 3.5mm headphone/mic combo, and a slot for a Nano SIM, although the last one is optional. It's as barebones as you can get. To be honest, I am pleasantly surprised that there is a headphone jack. With how simple the [third-generation ThinkPad X1 Nano](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-nano-gen-3-%2813-inch-intel%29%2Flen101t0054&publisher_slug=itechdaily19598&exclusive=1) is, I was a little shocked it made the cut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -97,24 +97,21 @@ Prices [start at $1,043](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/rtisans-shaping-virtual-marvel-universes/"><u>[New] Artisans Shaping Virtual Marvel Universes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-dramatic-discourse-penning-powerful-narrative-dialogues/"><u>[Updated] 2024 Approved Dramatic Discourse Penning Powerful Narrative Dialogues</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-your-instant-offline-playlist-how-to-pull-youtube-videos-onto-idevices/"><u>[Updated] 2024 Approved Your Instant Offline Playlist How to Pull YouTube Videos Onto iDevices</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-canonayers-guide-to-color-gratification-paid-and-no-cost-luts-for-2024/"><u>[Updated] Canon'ayer’s Guide to Color Gratification – Paid & No-Cost LUTs for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-tech-insights-navigating-the-world-of-modern-electronics-with-toms-experts/"><u>Advanced Tech Insights: Navigating the World of Modern Electronics with Tom's Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-top-tier-gadgets-and-computer-components-on-toms-hardware/"><u>Discover Top-Tier Gadgets and Computer Components on Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-latest-computer-components-toms-tech-hub/"><u>Expert Insights on Latest Computer Components - Tom's Tech Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-hardware-guided-by-toms-expertise/"><u>Exploring Computer Hardware - Guided by Tom's Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-value-of-cytrons-uno-rp2040-board-for-cost-conscious-makers/"><u>Exploring the Value of Cytron's Uno RP2040 Board for Cost-Conscious Makers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-15-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone 15 Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/meet-the-groundbreaking-image-revival-solution-by-stellar-setting-new-global-standards-in-photography-recovery/"><u>Meet the Groundbreaking Image Revival Solution by Stellar, Setting New Global Standards in Photography Recovery</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-computer-components-with-toms-hardware-advice/"><u>Navigate the World of Computer Components with Tom’s Hardware Advice</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-light-on-the-sony-s3700-blu-ray-reader-review-for-2024/"><u>New Light on the Sony S3700 Blu-Ray Reader Review for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/repair-corrupt-video-files-on-mac-best-methods/"><u>Repair Corrupt Video Files on Mac [Best Methods]</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-hardware-insights/"><u>Tom's Tech Hub: Comprehensive Hardware Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-6-essential-iphone-apps-for-restoring-lost-contact-information/"><u>Top 6 Essential iPhone Apps for Restoring Lost Contact Information</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-6-proven-artificial-intelligence-tools-for-enhancing-video-resolution/"><u>Top 6 Proven Artificial Intelligence Tools for Enhancing Video Resolution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveil-the-secrets-of-quality-hardware-through-toms-lens/"><u>Unveil the Secrets of Quality Hardware Through Tom's Lens</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-insights-from-toms-computer-gear-exploration/"><u>Unveiling the Insights From Tom's Computer Gear Exploration</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-face-enhancement-integrating-motion-blur-in-photos/"><u>[New] Face Enhancement Integrating Motion Blur in Photos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-technology-toms-detailed-evaluations-on-hardware/"><u>Decoding Technology: Tom's Detailed Evaluations on Hardware</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/essential-tips-for-choosing-the-right-unlocked-phone-for-your-needs/"><u>Essential Tips for Choosing the Right Unlocked Phone for Your Needs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-accelerated-speeds-with-crucials-p310-ssd-review-for-m2-2280-cards/"><u>Experience Accelerated Speeds with Crucial's P310 SSD Review for M.2 2280 Cards</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/imovies-cropping-an-in-depth-look/"><u>IMovie's Cropping An In-Depth Look</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oppo-reno-8t-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Oppo Reno 8T 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gear-room-a-deep-dive-into-cutting-edge-pc-components/"><u>Inside Tom's Gear Room: A Deep Dive Into Cutting-Edge PC Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/insights-into-the-pny-rp60-1tb-ssd-review-acceptably-efficient-but-not-particularly-memorable/"><u>Insights Into the PNY RP60 1TB SSD Review - Acceptably Efficient, But Not Particularly Memorable</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/language-bridge-builders-top-18-tools-that-turn-videos-into-text-for-2024/"><u>Language Bridge Builders Top 18 Tools That Turn Videos Into Text for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-technology-reviews-unveiling-the-latest-in-hardware-with-toms-insights/"><u>Pioneering Technology Reviews: Unveiling the Latest in Hardware with Tom's Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sovol-sv08-evaluation-reviving-the-spirit-of-voron-on-two-wheels/"><u>Sovol SV08 Evaluation: Reviving the Spirit of Voron on Two Wheels</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speedy-guide-to-mastering-shader-optimization-in-star-wars-battlefront-ii/"><u>Speedy Guide to Mastering Shader Optimization in Star Wars Battlefront II</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-kingston-fury-beast-ddr5-memory-module-reviewed-testing-its-c40-technology-across-dual-32gb-channels/"><u>The Kingston Fury Beast DDR5 Memory Module Reviewed - Testing Its C40 Technology Across Dual 32GB Channels</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlocking-potential-with-instagram-videos-strategic-planning-insights/"><u>Unlocking Potential with Instagram Videos Strategic Planning Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo V30 Pro | Dr.fone</u></a></li>
 </ul></div>
 

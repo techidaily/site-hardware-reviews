@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Water Filtration Systems : A Comprehensive Review by ZDNet"
-date: 2024-09-18 11:10:33
-updated: 2024-09-20 11:31:21
+date: 2025-01-29T16:33:59.526Z
+updated: 2025-02-01T16:29:02.923Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,27 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-navigating-social-media-imitation-how-to-clone-yourself-with-finesse-on-tiktok/"><u>[Updated] In 2024, Navigating Social Media Imitation How to Clone Yourself with Finesse on TikTok</u></a></li>
+<li><a href="https://driver-download.techidaily.com/guide-to-fixing-compatibility-issues-with-realtek-wireless-adapters-on-pcs-windows-11107/"><u>Guide to Fixing Compatibility Issues with Realtek Wireless Adapters on PCs (Windows 11/10/7)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-perfect-shots-the-ultimate-list-of-zooming-editors/"><u>In 2024, Crafting Perfect Shots The Ultimate List of Zooming Editors</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-streamline-of-hindered-printer-jobs/"><u>Quick Streamline of Hindered Printer Jobs</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/step-by-step-guide-retrieving-your-lost-whatsapp-messages-on-an-iphone/"><u>Step-by-Step Guide: Retrieving Your Lost WhatsApp Messages on an iPhone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/streamlining-your-mobile-workspace-mastering-app-management-like-a-pro/"><u>Streamlining Your Mobile Workspace: Mastering App Management Like a Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-10-reader-favorites-highest-rated-blog-posts/"><u>Top 10 Reader Favorites: Highest Rated Blog Posts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-protective-covers-for-the-newest-samsung-galaxy-z-fold-5/"><u>Top-Rated Protective Covers for the Newest Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/turning-onoff-your-android-devices-bluetooth-connection/"><u>Turning On/Off Your Android Device's Bluetooth Connection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-the-most-sought-after-miniature-mobile-devices-of-2024-unveiled/"><u>Ultimate Selection: The Most Sought-After Miniature Mobile Devices of 2024 Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-secrets-of-android-privacy-monitoring-app-access-to-your-clipboard/"><u>Unlocking the Secrets of Android Privacy: Monitoring App Access to Your Clipboard</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-10-event-tracing-identifying-and-solving-critical-failures-successfully/"><u>Windows 10 Event Tracing: Identifying & Solving Critical Failures Successfully</u></a></li>
+</ul></div>
+

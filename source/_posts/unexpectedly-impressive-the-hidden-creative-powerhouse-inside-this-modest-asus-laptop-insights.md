@@ -1,7 +1,7 @@
 ---
 title: "Unexpectedly Impressive: The Hidden Creative Powerhouse Inside This Modest Asus Laptop - Insights"
-date: 2025-01-20T00:34:59.309Z
-updated: 2025-01-24T18:43:25.231Z
+date: 2025-01-31T16:27:42.063Z
+updated: 2025-02-01T16:52:02.374Z
 tags:
   - laptops
 categories:
@@ -48,7 +48,7 @@ While Framework previously sold models with Windows 11 and BYOOS (bring your own
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -67,6 +67,10 @@ While Framework previously sold models with Windows 11 and BYOOS (bring your own
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How's the design?
 
 If you've seen a Framework laptop before, then the Chromebook edition's design shouldn't come as a surprise. In fact, the hardware on the ChromeOS model is practically the same as the other two that the company sells, and I'm not complaining. It's got a sleek, unibody appearance with silver brushed throughout. The matte treatment is sufficient enough to hide fingerprints and smudges while still feeling soft and polished like that of other $1,000+ laptops. 
@@ -76,10 +80,6 @@ The only differentiator between this and other Framework models is the standard 
 Not a lot to complain about with the Framework laptop's look. Maybe a matte black option?
 
 June Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -105,6 +105,10 @@ June Wan/ZDNET
 Lastly, the 3:2, 2256x1504 display on the Framework Chromebook is color-vibrant, remarkably bright, and pixel sharp, which I was pleased to see given all the other aspects that were on my product checklist going into this particular review. The viewing angles on the glossy panel are surprisingly adequate, too. I'd compare the color reproduction on the Framework display to that of the [HP Elite Dragonfly](https://www.awin1.com/cread.php?awinmid=7168&awinaffid=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-elite-dragonfly-135-inch-chromebook-p-6k057ut-aba-1%3F), another Chromebook that I reviewed just a few months ago, and one that I praised very highly. The only thing that keeps the former a tier below is the lack of touchscreen support.
 
 **Review: [The HP Elite Dragonfly Chromebook has no business being this good](https://www.zdnet.com/article/hp-elite-dragonfly-chromebook-review/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Customizing the Framework
 
@@ -133,7 +137,7 @@ The company makes it easy to find the exact component that you need by labeling 
 **Also: [With Samsung's Self-Repair program, you can fix your broken screen at will](https://www.zdnet.com/article/samsung-launches-self-repair-program-so-you-can-fix-that-broken-screen-at-will/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it handle daily tasks?
@@ -164,10 +168,6 @@ Framework bundles a modular (surprise, surprise) 60W charger in the box that use
 
 [Buy the Framework Chromebook $963 at Frame](https://frame.work/products/laptop-chromebook-12-gen-intel/configuration/edit)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 I love the Framework Chromebook. It's one of the few tech products that I've reviewed this year that truly feels like a consumer-first gadget and is made by a company that truly cares about the environment. I also happen to fall under the "non-professional" userbase which makes the ChromeOS experience more than adequate for my day-to-day.
@@ -175,7 +175,7 @@ I love the Framework Chromebook. It's one of the few tech products that I've rev
 With a [starting price of $963](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMac-Book-Pro-Charger-Compatible%2Fdp%2FB09GFR7NSK%2Fref%3Dsxts%5Fb2b%5Fsx%5Freorder%5Fv3%5Fbusiness%3Fcontent-id%3Damzn1.sym.3ff8510d-e0d4-4cf7-beed-93a0c9d332a5%3Aamzn1.sym.3ff8510d-e0d4-4cf7-beed-93a0c9d332a5%26cv%5Fct%5Fcx%3Dapple%2Bmac%2Bbook%2Bpro%2Bcharger%26gclid%3DEAIaIQobChMIs5Pt35LC-wIVUTizAB1ACgGFEAAYAiAAEgIy2%5FD%5FBwE%26hvadid%3D177325628310%26hvdev%3Dc%26hvlocphy%3D9005779%26hvnetw%3Dg%26hvqmt%3De%26hvrand%3D2145686270052462161%26hvtargid%3Dkwd-13812963869%26hydadcr%3D19137%5F9664167%26keywords%3Dapple%2Bmac%2Bbook%2Bpro%2Bcharger%26pd%5Frd%5Fi%3DB09GFR7NSK%26pd%5Frd%5Fr%3D129fb8fb-f662-4d8a-8ba5-3c33bf2785fd%26pd%5Frd%5Fw%3DH19HD%26pd%5Frd%5Fwg%3DJAz8D%26pf%5Frd%5Fp%3D3ff8510d-e0d4-4cf7-beed-93a0c9d332a5%26pf%5Frd%5Fr%3D5CG3412G8ZQ8YRYVN7GE%26qid%3D1669132408%26sr%3D1-1-722db4e4-77fc-4fb6-8cee-654ad16ce1d5%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C072696e5-0cae-486b-9cee-48548f1af7b6%7Cdtp&dtb=1), the Framework Chromebook is competing in rough waters, especially going into the holiday season when every manufacturer (including Apple) is [discounting laptops](https://www.zdnet.com/article/early-black-friday-laptop-deals-november-22-2022/) left and right. But if you want a machine that will free you of dongles, hubs, and visits to your local tech support, receive software updates for years down the line, and represents a movement that effectively betters the planet, then the Framework Chromebook is the best option available.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -216,20 +216,19 @@ With a [starting price of $963](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-dramatic-lighting-in-hdr-portrait-photography-for-2024/"><u>[New] Dramatic Lighting in HDR Portrait Photography for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-leading-8-tools-for-subtitle-srt-format-switching-for-2024/"><u>[Updated] Leading 8 Tools for Subtitle-SRT Format Switching for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1-stream-youtube-content-to-your-television-without-cost-a-simple-guide/"><u>1. Stream YouTube Content to Your Television Without Cost - A Simple Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-quick-steps-to-clear-the-exterior-of-your-photos-in-affinity/"><u>2024 Approved Quick Steps to Clear the Exterior of Your Photos in Affinity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-system-solutions-with-toms-hardware-your-trusted-guide/"><u>Expert System Solutions with Tom's Hardware - Your Trusted Guide</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-nokia-c02-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nokia C02 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/online-aiff-en-mp4-konvertiseren-vrije-ldv-tool-via-movavi/"><u>Online AIFF en MP4 Konvertiseren - Vrije LDV-Tool via Movavi</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/powering-up-performance-a-detailed-look-at-lexars-20-gbps-storage-giants-sl500-and-sl600-models/"><u>Powering Up Performance: A Detailed Look at Lexar's 20 Gbps Storage Giants - SL500 and SL600 Models</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oppo-f25-pro-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Oppo F25 Pro 5G ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/sunfounder-piromann-5-assessment-fulfilling-assembly-needed/"><u>SunFounder Piromann 5 Assessment - Fulfilling Assembly Needed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-hardware/"><u>Tom's Tech Review: Expert Insights on Hardware</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-screensaver-ultimate-guide-2023-zdnet/"><u>Top Rated Apple Watch Screensaver - Ultimate Guide 2023 (Zdnet)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-tier-gaming-display-tested-asrocks-pg27qft2a-offers-powerful-speed-for-a-competitive-price/"><u>Top-Tier Gaming Display Tested: ASRock's PG27QFT2A Offers Powerful Speed for a Competitive Price</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-secrets-of-gadgets-with-toms-guides/"><u>Unveiling the Secrets of Gadgets with Tom's Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/valkyrie-syn-2naio-liquid-cooling-system-evaluation-excellent-thermal-management-yet-unpolished-ui/"><u>Valkyrie Syn 2nAIO Liquid Cooling System Evaluation: Excellent Thermal Management, Yet Unpolished UI</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-focus-on-voice-not-background-with-skype/"><u>[New] In 2024, Focus on Voice, Not Background with Skype</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-tips-for-xbox-live-streaming-setup/"><u>2024 Approved Essential Tips for Xbox Live Streaming Setup</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-ps3-game-viewers-guide-filming-your-playtime/"><u>2024 Approved The PS3 Game Viewer's Guide Filming Your Playtime</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-lenovo-yoga-pro-9i-a-detailed-look-at-resilient-buttons-and-compact-frame/"><u>Exploring the Lenovo Yoga Pro 9I - A Detailed Look at Resilient Buttons and Compact Frame</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-insta-vid-techniques-scaling-videos-to-perfect-size-in-fcpx/"><u>In 2024, Insta-Vid Techniques Scaling Videos to Perfect Size in FCPX</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-gadgets-with-toms-hardware-digest/"><u>Inside Look at Gadgets with Tom's Hardware Digest</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-down-the-sunfounder-pironman-5-thorough-review-and-detailed-setup-instructions/"><u>Taking Down the SunFounder Pironman 5: Thorough Review and Detailed Setup Instructions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computing-chronicles-expert-analysis-on-modern-tech-hardware/"><u>Tom's Computing Chronicles: Expert Analysis on Modern Tech Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/turtle-beachs-atlas-air-earphones-surpassing-audio-expectations/"><u>Turtle Beach's ATLAS Air Earphones: Surpassing Audio Expectations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-gamers-guide-to-choosing-a-vpn-insights-and-comparisons-pcmag/"><u>Ultimate Gamers' Guide to Choosing a VPN: Insights & Comparisons - PCMag</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/thing-popular-user-generated-speeches/"><u>Unearthing Popular User-Generated Speeches</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-components-with-toms-gear-guide/"><u>Unveiling the Latest in PC Components with Tom's Gear Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 65 Prime Day 2024 Bargains on Video Games - Exclusive Deals You Can't Miss!
-date: 2025-01-21T17:46:38.243Z
-updated: 2025-01-24T23:31:20.684Z
+date: 2025-01-30T17:15:28.548Z
+updated: 2025-02-01T18:31:48.983Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ Brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-day-sam
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite early Amazon October Prime Day gaming deals
 
@@ -92,10 +88,6 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More October Prime Day 2024 gaming deals
 
 ZDNET
@@ -124,6 +116,10 @@ ZDNET
 * [Razer quick charging station for PS5 controllers in blue for $25 (save $15 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-quick-charging-stand-for-ps5-controllers-blue%2F6520072.p%3FskuId%3D6520072&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A USB-C charging stand for keeping your extra controllers powered up and at-the-ready.
 * [God of War Ragnarok standard edition for $40 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGod-of-War-Ragnar-k-Standard-Edition-Playstation-5%2F1336533270%3FclassType%3DVARIANT%26athbdg%3DL1102&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The sequel to the hit GoW 2018 follows Kratos and his son Atreus as they traverse the realms to gather allies and stop the gods from going to war.
 * [The Last of Us Part 1 standard edition for $46 (save $24 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FThe-Last-of-Us-Part-I-PlayStation-5%2F1643604134%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Experience the award-winning story of Ellie and Joel as they make their way to Denver and the Fireflies through hordes of dangerous, fungus-infected zombies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
 
@@ -169,10 +165,6 @@ Nintendo/ZDNET
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -210,6 +202,10 @@ Samsung/ZDNET
 * [AOC AG27 27-inch monitor for $600 (save $450 at B&H Photo, deal ends Oct 5)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1741859-REG%2Faoc%5Fag274qzm%5F27%5F16%5F9%5Fqhd.html): This 27-inch IPS monitor has 1440p resolution, a 240Hz refresh rate, a 1ms response time, and Nvidia G-Sync VRR support.
 * [Acer Predator X27U for $680 (save $320 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1772478-REG%2Facer%5Fum%5Fhxxaa%5F001%5Fpredator%5Fx27u%5F27%5Fgaming.html%2Fspecs): A 27-inch gaming monitor with a 240Hz refresh rate, 1440p resolution, a 0.03ms response time, and support for AMD FreeSync Premium Pro VRR.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day PC gaming accessories deals
 
 * [SanDisk Extreme Pro 4TB portable SSD for $340 (save $138 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsandisk-extreme-pro-portable-4tb-external-usb-c-nvme-ssd-black%2F6522095.p%3FskuId%3D6522095&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An ultra-tough portable SSD compatible with Windows and Mac computers and backed by a 5-year warranty.
@@ -224,18 +220,22 @@ Samsung/ZDNET
 * [Asus TUF Nvidia GeForce RTX 3080 Ti for $925 (save $472 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FTUF-NVIDIA-GeForce-RTX-3080-TI-Graphic-Card-12-GB-GDDR6-384-bit-Bus-Width-PCI-Express-4-0-DisplayPort-HDMI%2F994157887%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) Nvidia's high-end 30 Series graphics card offers 12GB of VRAM, military-grade capacitors for better power efficiency, and support for up to 4 displays.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
@@ -275,24 +275,21 @@ I only chose deals on games that have been critically and commercially well-rece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-decoding-firefoxs-pip-multimedia-feature/"><u>[New] Decoding Firefox's PIP Multimedia Feature</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-storytelling-screenplays-that-transcend-genres/"><u>[New] Top Storytelling Screenplays that Transcend Genres</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/blueant-soundblade-evaluation-stunning-volume-and-quality/"><u>BlueAnt Soundblade Evaluation: Stunning Volume & Quality</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/enabling-windows-pressed-enter-mechanism/"><u>Enabling Windows' Pressed Enter Mechanism</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-the-ultimate-guide-to-the-pixio-px2n7-oled-max-top-choice-for-gamers/"><u>Expert Analysis: The Ultimate Guide to the Pixio PX2n7-OLED Max - Top Choice for Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-top-tech-in-depth-analysis-at-toms-hardware-hub/"><u>Explore Top Tech: In-Depth Analysis at Tom's Hardware Hub</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-expert-recommended-steadicams-for-professional-dslr-work/"><u>In 2024, Expert-Recommended Steadicams for Professional DSLR Work</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/innovative-iphone-and-ipad-video-players-the-10-best-options/"><u>Innovative iPhone & iPad Video Players The 10 Best Options</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-tech-trends-with-toms-hardware-comprehensive-gear-evaluations/"><u>Navigating Tech Trends with Tom's Hardware - Comprehensive Gear Evaluations</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1154579-9781608680313-one-minute-mindfulness/"><u>One-Minute Mindfulness | Free Book</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/proven-strategies-for-successful-green-screen-videography-for-2024/"><u>Proven Strategies for Successful Green Screen Videography for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/sovol-sv08-speedster-breakdown-honoring-the-legacy-of-voron/"><u>Sovol SV08 Speedster Breakdown: Honoring the Legacy of Voron</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-definitive-selection-gopros-top-15-tripod-options/"><u>The Definitive Selection GoPro's Top 15 Tripod Options</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-understanding-toms-tech-hardware/"><u>The Ultimate Resource for Understanding Tom's Tech Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guides-on-computer-hardware/"><u>Tom's Tech Review - Comprehensive Guides on Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-ultra-wide-oled-masterpiece-aoc-agon-pro-ag4n6uczd-45-revel-in-the-power-of-extreme-curvature-and-blazing-performance-for-next-level-g2/"><u>Ultimate Guide to The Ultra-Wide OLED Masterpiece: AOC Agon Pro AG4n6UCZD 45 - Revel in the Power of Extreme Curvature & Blazing Performance for Next-Level Gaming Experience!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-the-lenovo-yoga-pro-9i-striking-a-balance-between-weightlessness-and-durable-keyboard/"><u>Unboxing and Testing the Lenovo Yoga Pro 9I: Striking a Balance Between Weightlessness and Durable Keyboard</u></a></li>
-<li><a href="https://discover-help.techidaily.com/1725287139473-wav/"><u>どうやったら無料で動画からWAVファイルに変換できるの?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-insta-metrics-top-strategies-for-highlight-optimization/"><u>[New] 2024 Approved Mastering Insta Metrics Top Strategies for Highlight Optimization</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-leveraging-the-power-of-visual-storytelling-in-fb-covers/"><u>[Updated] 2024 Approved Leveraging the Power of Visual Storytelling in FB Covers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-mastering-asmr-the-ultimate-list-of-mics/"><u>[Updated] 2024 Approved Mastering ASMR - The Ultimate List of Mics</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-smart-spending-strategies-on-youtube-vids/"><u>[Updated] 2024 Approved Smart Spending Strategies on YouTube Vids</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/blueant-soundblade-testing-results-beautiful-design-robust-audio-capability/"><u>BlueAnt SoundBlade Testing Results: Beautiful Design, Robust Audio Capability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-hardware-insights-by-toms-review/"><u>Comprehensive Hardware Insights by Tom's Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deep-dive-into-new-pc-builds-features-benchmarks-and-analysis-by-experts-at-toms-hardware-the-gadget-guide/"><u>Deep Dive Into New PC Builds: Features, Benchmarks, and Analysis by Experts at Tom's Hardware | The Gadget Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-hardware-analysis-with-tom-choose-the-right-gear/"><u>Expert Hardware Analysis with Tom: Choose the Right Gear</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-signal-stands-apart-from-whatsapp-an-in-depth-analysis/"><u>How Signal Stands Apart From WhatsApp: An In-Depth Analysis</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-microcinema-plot-pointers/"><u>In 2024, Microcinema Plot Pointers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/online-and-offline-photo-fusion-guide/"><u>Online and Offline Photo Fusion Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviewing-sovol-sv08-the-fast-and-nimble-homage-to-voron-series/"><u>Reviewing Sovol SV08: The Fast and Nimble Homage to Voron Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-face-off-how-does-the-newly-released-asus-rog-keris-ii-ace-stack-up-against-my-favorite-the-ragedeathadder-v3-pro/"><u>The Ultimate Face-Off: How Does the Newly Released Asus ROG Keris II Ace Stack Up Against My Favorite, the RageDeathAdder V3 Pro?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-aeious-ny-portable-solar-generator-ensuring-safe-sine-wave-outputs-for-medical-apparatuses/"><u>The Ultimate Guide to the Aeious Ny Portable Solar Generator: Ensuring Safe Sine Wave Outputs for Medical Apparatuses</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-with-toms-technology-hub/"><u>Unveiling the Latest in Hardware with Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/zen-5-revolution-unveiling-the-power-of-amds-ryzen-5-9600x-and-ryzen-pressing-7-9700x/"><u>Zen 5 Revolution: Unveiling the Power of AMD's Ryzen 5 9600X & Ryzen Pressing 7 9700X</u></a></li>
 </ul></div>
 

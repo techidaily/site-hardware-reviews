@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Portable Powerhouse: A Game Changer for Mobile Professionals - Insights From ZDNet"
-date: 2025-01-21T21:09:41.209Z
-updated: 2025-01-24T16:31:08.130Z
+date: 2025-01-27T16:18:56.363Z
+updated: 2025-02-01T18:06:42.173Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,22 +114,16 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-leapfrog-content-management-from-youtube-to-dailymotion-effortlessly/"><u>[New] Leapfrog Content Management From YouTube to Dailymotion Effortlessly</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-making-money-fast-the-pathway-to-success-in-youtube-shorts-for-2024/"><u>[Updated] Making Money Fast The Pathway to Success in YouTube Shorts for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-comprehensive-look-at-the-gorgeous-multifaceted-dell-xps-13-convertible-laptop-7390/"><u>A Comprehensive Look at the Gorgeous, Multifaceted Dell XPS 13 Convertible Laptop 7390</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-expansion-solutions-with-the-highpoint-rocket-1608a-a-comprehensive-evaluation-of-added-storage-and-increased-power/"><u>Advanced Expansion Solutions with the HighPoint Rocket 1608A: A Comprehensive Evaluation of Added Storage and Increased Power</u></a></li>
-<li><a href="https://win-news.techidaily.com/alle-fotos-op-mijn-computer-vinden-in-windows-10/"><u>Alle Foto's Op Mijn Computer Vinden in Windows 10</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on OnePlus Ace 2V? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-pro-b760m-ct-csm-unveiled-comprehensive-review-for-serious-gamers-and-builders/"><u>ASUS Pro B760M-CT CSM Unveiled: Comprehensive Review for Serious Gamers and Builders</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-breakdown-by-tom-your-trusted-source/"><u>Expert Hardware Breakdown by Tom - Your Trusted Source</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-electronics-with-toms-wisdom/"><u>Exploring the World of Electronics with Tom's Wisdom</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-motorola-razr-40-ultra-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Motorola Razr 40 Ultra Pattern Lock Screen</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-news-at-toms-computer-and-electronics-hub/"><u>In-Depth Reviews and News at Tom's Computer & Electronics Hub</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/leveraging-fb-platforms-for-public-health-initiatives-for-2024/"><u>Leveraging FB Platforms for Public Health Initiatives for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-new-horizons-in-computing-a-look-at-toms-hardware-discoveries/"><u>Navigating New Horizons in Computing - A Look at Tom's Hardware Discoveries</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-and-easy-guide-surface-driver-installation-and-updates/"><u>Quick and Easy Guide: Surface Driver Installation and Updates</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/uncovering-the-potential-of-the-latest-geekworm-x1/"><u>Uncovering the Potential of the Latest GeekWorm X1</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlock-the-power-of-technology-the-ultimate-guide-to-toms-hardware-selection/"><u>Unlock the Power of Technology: The Ultimate Guide to Tom's Hardware Selection</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-breaking-the-code-30-novel-window-11-strategies-exposed/"><u>[New] In 2024, Breaking the Code 30 Novel WINDOW 11 Strategies Exposed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-essential-arsenal-for-modern-enterprise-top-trending-gadgets-and-tech-to-own/"><u>[New] In 2024, Essential Arsenal for Modern Enterprise Top Trending Gadgets and Tech To Own</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-power-of-multiframe-views-in-edge/"><u>[Updated] Unlocking the Power of Multiframe Views in Edge</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-realtimevid-recorder-overview/"><u>2024 Approved RealTimeVid Recorder Overview</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-amplify-your-chat-status-with-melodies/"><u>In 2024, Amplify Your Chat Status with Melodies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-upgraded-framework-for-power-packed-13-inch-devices-with-top-tier-intel-and-amd-processors/"><u>Introducing the Upgraded Framework for Power-Packed 13-Inch Devices with Top-Tier Intel and AMD Processors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-knowledge-a-journey-through-toms-computing-world/"><u>Mastering Hardware Knowledge - A Journey Through Tom's Computing World</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-youtube-team-ups-finding-perfect-co-stars/"><u>Mastering YouTube Team-Ups Finding Perfect Co-Stars</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadget-reviews-with-toms-electronics-insights/"><u>Navigating Gadget Reviews with Tom’s Electronics Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/powerhouse-gaming-in-a-portable-package-acers-predator-helios-neo-14-fusion-of-speed-and-sleekness/"><u>Powerhouse Gaming in a Portable Package: Acer's Predator Helios Neo 14 Fusion of Speed and Sleekness</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-earphones-compatible-with-steam-deck-a-comprehensive-guide/"><u>Top Rated Earphones Compatible with Steam Deck: A Comprehensive Guide</u></a></li>
 </ul></div>
 

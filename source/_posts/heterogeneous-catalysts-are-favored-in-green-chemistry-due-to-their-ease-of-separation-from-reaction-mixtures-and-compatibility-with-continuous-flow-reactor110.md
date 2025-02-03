@@ -1,7 +1,7 @@
 ---
 title: Heterogeneous Catalysts Are Favored in Green Chemistry Due to Their Ease of Separation From Reaction Mixtures and Compatibility with Continuous Flow Reactors.
-date: 2024-09-17 14:58:12
-updated: 2024-09-20 12:56:45
+date: 2025-01-26T16:34:13.397Z
+updated: 2025-02-01T16:04:49.617Z
 tags:
   - kitchen-household
 categories:
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the deal?
 
 The [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C779dbc92-ca1e-42d4-ac18-3c3ec18b0c7b%7Cdtp&dtb=1) is $30 off, available for $200 through [Labor Day](https://www.zdnet.com/article/best-labor-day-deals-2024-8-29/).
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -79,6 +87,10 @@ Maria Diaz/ZDNET
 
 The Ring Protect plan ranges from $5-$20 monthly, and aside from the mentioned features, it includes person alerts, the ability to arm and disarm the Ring system digitally, rich notifications, snapshot capture, and video history stored in the cloud for up to six months.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After using the [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C779dbc92-ca1e-42d4-ac18-3c3ec18b0c7b%7Cdtp&dtb=1) for a few weeks, I found it to be a reliable home security camera with all the extra features worth the price. The two-way talk audio quality was the most impressive I've ever tried, delivering crystal clear audio without echo. 
@@ -90,6 +102,10 @@ However, I was slightly disappointed by the video quality, which only goes up to
 A security camera of that resolution is not disappointing on its own, but it's a noticeable difference compared to the 2K-resolution Arlo Pro 5S that I previously had overlooking that area of my yard, though the Arlo is a little pricier, at $250\. To top it off, the [floodlight camera](https://www.zdnet.com/home-and-office/smart-home/eufys-new-floodlight-cam-e340-is-the-hardest-working-security-camera-ive-tested/) on the other side of my yard can go up to 3K resolution and is $10 cheaper than this Ring camera. 
 
 Additionally, many smart home users aren't prepared to pay monthly subscription fees to access plan-exclusive features, but plenty of users prefer the convenience of not having to worry about local storage and enjoy the extra perks a paid plan offers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -116,11 +132,26 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-effective-methods-for-capturing-youtube-live-broadcasts/"><u>[New] Effective Methods for Capturing YouTube Live Broadcasts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-does-recording-your-viewed-youtube-content-violate-laws-for-2024/"><u>[Updated] Does Recording Your Viewed YouTube Content Violate Laws for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-in-depth-assessment-gopro-silver-hero4-sliver/"><u>[Updated] In 2024, In-Depth Assessment GoPro Silver Hero4 Sliver</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-realme-narzo-60x-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-successful-steam-game-returns-and-refunds-process/"><u>Complete Guide: Successful Steam Game Returns and Refunds Process</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-anycubic-kobra-3-assessment-the-trailblazer-of-multi-hued-3d-creations/"><u>Comprehensive Anycubic Kobra 3 Assessment - The Trailblazer of Multi-Hued 3D Creations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-innovations-of-toms-tech-solutions/"><u>Exploring the Innovations of Tom's Tech Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-evaluation-of-asus-rog-ally-x-the-premier-choice-in-handheld-pc-gaming-despite-high-price-tag/"><u>In-Depth Evaluation of Asus ROG Ally X – The Premier Choice in Handheld PC Gaming, Despite High Price Tag</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-high-performance-gadgets-at-toms-electronics/"><u>Navigating the World of High-Performance Gadgets at Tom's Electronics</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/professional-looney-tunes-hd-image-collections-for-pc-backgrounds-immersive-cartoon-experience-by-yl-computing/"><u>Professional Looney Tunes HD Image Collections for PC Backgrounds – Immersive Cartoon Experience by YL Computing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-colors-asus-proart-pa32ucxr-mini-led-review-and-its-exceptional-color-accuracy-for-professionals/"><u>Unveiling the Colors: Asus ProArt PA32UCXR Mini LED Review and Its Exceptional Color Accuracy for Professionals</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-choose-dxvk-a-game-changer-on-your-windows-system/"><u>Why Choose DXVK: A Game Changer on Your Windows System?</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Slash Over $200: Top-Performing Whirlpool Portable Air Conditioner at Lowes – Expert Reviews & Deals Featured on ZDNet"
-date: 2024-09-17 22:57:59
-updated: 2024-09-20 10:37:37
+date: 2025-01-26T16:54:04.680Z
+updated: 2025-02-01T16:30:07.275Z
 tags:
   - kitchen-household
 categories:
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the deal?
 
 The [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cef9944e9-dd2a-4b32-a173-4b37aa6e0a76%7Cdtp&dtb=1) is $30 off, available for $200 through [Labor Day](https://www.zdnet.com/article/best-labor-day-deals-2024-8-29/).
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -79,6 +87,10 @@ Maria Diaz/ZDNET
 
 The Ring Protect plan ranges from $5-$20 monthly, and aside from the mentioned features, it includes person alerts, the ability to arm and disarm the Ring system digitally, rich notifications, snapshot capture, and video history stored in the cloud for up to six months.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After using the [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cef9944e9-dd2a-4b32-a173-4b37aa6e0a76%7Cdtp&dtb=1) for a few weeks, I found it to be a reliable home security camera with all the extra features worth the price. The two-way talk audio quality was the most impressive I've ever tried, delivering crystal clear audio without echo. 
@@ -90,6 +102,10 @@ However, I was slightly disappointed by the video quality, which only goes up to
 A security camera of that resolution is not disappointing on its own, but it's a noticeable difference compared to the 2K-resolution Arlo Pro 5S that I previously had overlooking that area of my yard, though the Arlo is a little pricier, at $250\. To top it off, the [floodlight camera](https://www.zdnet.com/home-and-office/smart-home/eufys-new-floodlight-cam-e340-is-the-hardest-working-security-camera-ive-tested/) on the other side of my yard can go up to 3K resolution and is $10 cheaper than this Ring camera. 
 
 Additionally, many smart home users aren't prepared to pay monthly subscription fees to access plan-exclusive features, but plenty of users prefer the convenience of not having to worry about local storage and enjoy the extra perks a paid plan offers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -116,11 +132,29 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-fallout-n3-stalling-problems-on-modern-windows-systems/"><u>How to Resolve Fallout N3 Stalling Problems on Modern Windows Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR without Passcode or Face ID</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2652781-9781786780317-lucid-living/"><u>Lucid Living | Free Book</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/m1-revolution-unveiled-in-apples-2020-macbook-pro-13-inch-laptop-review/"><u>M1 Revolution Unveiled in Apple's 2020 MacBook Pro 13-Inch Laptop Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/simplified-approach-to-nvidia-screen-recording-for-2024/"><u>Simplified Approach to NVIDIA Screen Recording for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-adjusting-autofill-and-managing-passwords-in-android-devices/"><u>Step-by-Step Guide: Adjusting AutoFill & Managing Passwords in Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-how-to-send-your-text-messages-forward-from-an-android-device/"><u>Step-by-Step Guide: How to Send Your Text Messages Forward From an Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/steps-to-incorporate-vital-health-details-on-your-android-device/"><u>Steps to Incorporate Vital Health Details on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-secret-behind-exceptional-phone-experience-its-all-about-timeless-uncomplicated-design/"><u>The Secret Behind Exceptional Phone Experience: It's All About Timeless, Uncomplicated Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-14-friendly-multiplayer-android-gaming-experiences-you-shouldnt-miss/"><u>Top 14 Friendly Multiplayer Android Gaming Experiences You Shouldn't Miss</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-7-must-have-android-home-replacement-apps/"><u>Top 7 Must-Have Android Home Replacement Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-protective-covers-for-google-pixel-6-pro-2023-edition/"><u>Top-Rated Protective Covers for Google Pixel 6 Pro - 2023 Edition</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-manfrotto-befree-traveler-superior-stability/"><u>Ultimate Manfrotto Befree Traveler: Superior Stability</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-to-w7-lenovo-y470-driver-support-guide/"><u>Upgrade to W7 - Lenovo Y470 Driver Support Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/willing-to-shell-out-for-apple-ai-experts-say-20month-subscription-is-on-the-horizon-analysis/"><u>Willing to Shell Out for Apple AI? Experts Say $20/Month Subscription Is on the Horizon Analysis</u></a></li>
+</ul></div>
+

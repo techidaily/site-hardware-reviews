@@ -1,7 +1,7 @@
 ---
 title: "EcoFlow's Portable Generator: A Complete Home Solution During Blackouts - Insights From a ZDNet Review"
-date: 2024-09-18 12:43:51
-updated: 2024-09-20 12:31:21
+date: 2025-01-31T18:22:15.277Z
+updated: 2025-02-01T17:12:25.250Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,30 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-discover-the-top-10-cost-free-video-conferencing-apps-for-businesses-and-schools/"><u>[New] 2024 Approved Discover the Top 10 Cost-Free Video Conferencing Apps for Businesses & Schools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-photography-editing-tips-for-making-stunning-photos/"><u>[New] Photography Editing Tips for Making Stunning Photos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-visual-harmony-in-grids-the-top-10-photo-choices/"><u>[Updated] Visual Harmony in Grids The Top 10 Photo Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-essential-guidelines-for-securely-moving-your-tower-computer/"><u>1. Essential Guidelines for Securely Moving Your Tower Computer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastery-in-broadcast-4-approaches-for-televised-facebook-lives/"><u>2024 Approved Mastery in Broadcast 4 Approaches for Televised Facebook Lives</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-streamlining-the-demo-process-in-adobe-captivate/"><u>2024 Approved Streamlining the Demo Process in Adobe Captivate</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-hp-m452dn-printer-drivers-for-optimal-performance/"><u>Download and Install HP M452dn Printer Drivers for Optimal Performance</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbeatable-ecovacs-deal-alert-top-of-the-line-deebots-and-winbots-now-at-50-off-for-a-limited-time-on-prime-day/"><u>Unbeatable ECOVACS Deal Alert: Top-of-the-Line Deebots and Winbots Now at 50% Off for a Limited Time on Prime Day!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-flipbuilders-share-buttons-a-comprehensive-guide/"><u>Understanding FlipBuilder's Share Buttons – A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unexpected-lithium-aa-battery-drainage-causes-and-proactive-solutions/"><u>Unexpected Lithium-AA Battery Drainage: Causes and Proactive Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-creativity-with-the-lenovo-chromebox-micro-the-perfect-device-for-hobbyists-and-makers/"><u>Unleash Creativity with the Lenovo Chromebox Micro – The Perfect Device for Hobbyists & Makers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-alienwares-new-high-def-and-ultra-hd-gaming-display/"><u>Unveiling Alienware's New High-Def and Ultra HD Gaming Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-invest-in-luxury-understanding-costs-of-the-new-model-g-two-section-charcoal-griller/"><u>Why Invest in Luxury? Understanding Costs of the New Model G Two-Section Charcoal Griller</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-paddle-controllers-enhance-my-gaming-experience-an-insider-look/"><u>Why Paddle Controllers Enhance My Gaming Experience - An Insider Look</u></a></li>
+</ul></div>
+

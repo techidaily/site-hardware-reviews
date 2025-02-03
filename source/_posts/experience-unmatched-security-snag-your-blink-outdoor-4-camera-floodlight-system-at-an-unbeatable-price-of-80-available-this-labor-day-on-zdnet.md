@@ -1,7 +1,7 @@
 ---
 title: "Experience Unmatched Security: Snag Your Blink Outdoor 4-Camera Floodlight System at an Unbeatable Price of $80 - Available This Labor Day on ZDNet!"
-date: 2024-09-17 17:49:51
-updated: 2024-09-20 11:37:13
+date: 2025-01-29T16:28:45.632Z
+updated: 2025-02-01T17:32:35.863Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,31 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boosting-income-a-complete-guide-to-youtube-ad-profits/"><u>[Updated] 2024 Approved Boosting Income A Complete Guide to YouTube Ad Profits</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-premier-9-video-calls-prioritizing-security-in-smes/"><u>[Updated] 2024 Approved Premier 9 Video Calls Prioritizing Security in SMEs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-multitask-media-with-ease-expertly-using-netflixs-picture-in-picture-feature/"><u>[Updated] Master Multitask Media with Ease Expertly Using Netflix’s Picture-In-Picture Feature</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-updated-earnings-policies-for-streamers/"><u>[Updated] Navigating Updated Earnings Policies for Streamers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-turning-tides-in-visuals-mastering-the-art-of-angles-and-rotations-on-insta/"><u>[Updated] Turning Tides in Visuals Mastering the Art of Angles and Rotations on Insta</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-seamless-snapshots-mobile-tripods-for-iphones-androids/"><u>2024 Approved Seamless Snapshots Mobile Tripods for iPhones, Androids</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/aocs-game-changer-in-depth-analysis-of-the-agon-pro-ag456uczd-a-stunning-45-ultra-wide-oled-gaming-monitor-with-extremely-curved-edges-for-optimal-immersion19/"><u>AOC's Game Changer: In-Depth Analysis of the Agon Pro AG456UCZD - A Stunning 45 Ultra-Wide OLED Gaming Monitor With Extremely Curved Edges for Optimal Immersion and Unmatched Speed!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-look-at-the-innovative-lian-li-hydroshift-lcd-case-for-pcs/"><u>Comprehensive Look at the Innovative Lian Li Hydroshift LCD Case for PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elegoo-saturn-4-ultra-pioneering-progress-and-breakthroughs-in-the-realm-of-high-quality-resin-printing/"><u>Elegoo Saturn 4 Ultra: Pioneering Progress and Breakthroughs in the Realm of High-Quality Resin Printing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-pc-components-with-toms-hardware-experts/"><u>Exploring the Latest in PC Components with Tom's Hardware Experts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/full-screen-magic-trick-solved/"><u>Full Screen Magic Trick Solved</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-refresh-rate-marvels/"><u>High Refresh Rate Marvels</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/how-to-restore-deleted-files-in-your-recycle-bin-using-ifind-data-recovery-for-windows-11-and-10-step-by-step-instructions-for-successful-retrieval-in-five-3/"><u>How to Restore Deleted Files in Your Recycle Bin Using iFind Data Recovery for Windows 11 and 10 - Step-by-Step Instructions for Successful Retrieval in Five Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oneplus-ace-3-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your OnePlus Ace 3 Data? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-latest-dell-xps-amoeba-9345-classic-style-enhanced-by-snapdragon-x-elite-chipset/"><u>In-Depth Analysis of the Latest Dell XPS Amoeba (9345): Classic Style Enhanced by Snapdragon X Elite Chipset</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-pc-performance-a-deep-dive-into-teamgroup-t-force-dark-airflow-i-ssd-cooler-capabilities/"><u>Revolutionize Your PC Performance: A Deep Dive Into TeamGroup T-Force Dark AirFlow I SSD Cooler Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncovering-hidden-tech-gems-a-deep-dive-into-new-releases-at-toms-hardware/"><u>Uncovering Hidden Tech Gems: A Deep Dive Into New Releases at Tom's Hardware</u></a></li>
+</ul></div>
+

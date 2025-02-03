@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Future of Safety: A Review of Facial Recognition Technology in Modern Smart Locks"
-date: 2024-09-18 11:41:32
-updated: 2024-09-20 10:36:35
+date: 2025-01-25T17:41:41.075Z
+updated: 2025-02-01T17:41:25.130Z
 tags:
   - kitchen-household
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/579cb7fea2e3fcda2d744239cd461eaad31f6bb8c
 ![EcoFlow Delta Pro 3 portable battery](https://www.zdnet.com/a/img/resize/493a0e14c2076aa82dd15d43be4c51552702595c/2024/06/20/9d465ec0-9e8c-4fee-b2aa-d5b5ce343244/2.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -77,6 +81,10 @@ How did it fare? The power returned about three hours later, and the Delta Pro 3
 
 Aside from this power outage, [we've tested](https://www.zdnet.com/home-and-office/energy/how-we-test-portable-power-stations/) the Delta Pro 3 as a standalone battery to power a home office setup, keeping consumption between 50W and 120W. The DP3 powered an LCD monitor, a Dell XPS laptop, a phone charger, and a USB-C tablet charger for four days. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Accessories-Emergencies%2Fdp%2FB0D14FMFZD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1) is an excellent option for anyone looking for a higher-capacity portable battery for camping or as an emergency home backup, as long as you're willing to pay the price, literally. It's not a cheap option among portable batteries, priced at $3199, which is about $400 less than the price of a [Delta Pro and Dual fuel inverter generator bundle](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Generator-High-Power-Appliances%2Fdp%2FB0BKGLCVRR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1).
@@ -106,11 +114,30 @@ Though priced high, the Delta Pro 3 seamlessly integrates into an EcoFlow home b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-full-scale-fund-assessment-preparing-for-your-podcast-journey/"><u>[New] Full-Scale Fund Assessment Preparing for Your Podcast Journey</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-leading-steps-to-mute-movie-filming/"><u>[New] In 2024, Leading Steps to Mute Movie Filming</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-superior-online-audio-devices-ranked/"><u>[Updated] Superior Online Audio Devices Ranked</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-s23plus-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy S23+? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhanced-power-and-efficiency-intel-unveils-high-performance-bean-canyon-nucs/"><u>Enhanced Power and Efficiency: Intel Unveils High-Performance Bean Canyon NUCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964468515-exclusive-toms-hardware-ama-event-featuring-amd-insights-join-us-this-april-6th/"><u>Exclusive 'Tom's Hardware' AMA Event Featuring AMD Insights – Join Us This April 6Th!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-insights-and-analysis/"><u>Exploring Technology with Tom's Hardware Insights and Analysis</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-motorola-edge-40-neo-to-mac-drfone-by-drfone-android/"><u>How to Mirror Motorola Edge 40 Neo to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-oppo-a2-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo A2 Lock Screen Password</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-m1-demystified-apple-redefines-chipset-technology/"><u>In 2024, M1 Demystified Apple Redefines Chipset Technology</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-select-top-6-slide-show-making-tools-on-latest-iphones/"><u>In 2024, Select Top 6 Slide Show Making Tools on Latest iPhones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/launching-msis-unique-yeswebuild-movement-embracing-the-future-of-computer-building/"><u>Launching MSI's Unique 'YesWeBuild' Movement: Embracing the Future of Computer Building</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003575699-minecraft-troubles-conquer-the-black-screen-glitch-with-these-expert-fixes-for-2every-gamer/"><u>Minecraft Troubles? Conquer the Black Screen Glitch with These Expert Fixes for 2eveRy Gamer!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadget-innovation-with-tom-expert-analysis-and-comparisons-for-smart-shoppers/"><u>Navigating Gadget Innovation with Tom: Expert Analysis & Comparisons for Smart Shoppers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/skylake-system-construction-showdown-announcing-the-champions-of-toms-hardware-competition/"><u>Skylake System Construction Showdown: Announcing the Champions of Tom’s Hardware Competition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-expert-insights-into-computer-components-and-systems/"><u>Tom's Tech Hub: Expert Insights Into Computer Components and Systems</u></a></li>
+</ul></div>
+

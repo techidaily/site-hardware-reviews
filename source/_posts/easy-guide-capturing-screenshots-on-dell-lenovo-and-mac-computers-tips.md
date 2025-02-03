@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Capturing Screenshots on Dell, Lenovo & Mac Computers - Tips"
-date: 2025-01-17T22:47:02.480Z
-updated: 2025-01-24T22:51:31.806Z
+date: 2025-01-31T17:12:09.867Z
+updated: 2025-02-01T17:28:33.096Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to take screenshots on any laptop
 
 ## Requirements
@@ -33,7 +37,7 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Screenshotting on Windows-based laptops
@@ -52,10 +56,6 @@ The button can be just about anywhere, so just look for something that looks as 
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Paste your screenshot
 
 Once you've captured your display, the easiest way to edit and save it is by pasting it into an image editing app. If you've got Photoshop, that'll work, but since most people don't have access to such pro software, a much easier, free option works, too: Microsoft Paint.
@@ -68,7 +68,15 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option 2: The Snipping Tool and Win+Shift+S**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
@@ -86,10 +94,6 @@ Michael Gariffo/ZDNET
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Press Shift+Cmd+3
 
 To take a screenshot on any Mac, including MacBook laptops, just press Shift+Cmd+3\. Unlike Windows, this won't copy the screen to your clipboard, it will actually save the capture as an image file on your desktop using the format "Screen Shot \[date\] at \[time\].png."
@@ -102,21 +106,17 @@ Michael Gariffo/ZDNET
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,18 +157,20 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-pro-grade-gopro-comparison-hero5-b-and-sessions/"><u>[New] In 2024, Pro-Grade GoPro Comparison Hero5 B & Sessions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-leveraging-windows-media-player-your-cd-conversion-companion/"><u>[Updated] Leveraging Windows Media Player Your CD Conversion Companion</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quick-profit-on-reddit-here-are-your-13-most-accessible-ways/"><u>[Updated] Quick Profit on Reddit? Here Are Your 13 Most Accessible Ways</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/beatit-bt-d11-jump-starter-review-mighty/"><u>Beatit BT-D11 Jump Starter Review: Mighty</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/expert-tips-for-handling-windows-manual-system-update-process-yl-software-solutions/"><u>Expert Tips for Handling Window's Manual System Update Process - YL Software Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/fly-high-with-flying-lotus-the-all-in-one-desktop-crafted-from-framework-laptop-and-advanced-3d-components-powered-by-battery/"><u>Fly High with Flying Lotus: The All-in-One Desktop Crafted From Framework Laptop & Advanced 3D Components, Powered by Battery</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-address-graphics-problems-for-a-smoother-warzone-experience/"><u>How to Address Graphics Problems for a Smoother Warzone Experience</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-a05s-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Samsung Galaxy A05s Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-modern-electronics-by-toms-expertise/"><u>In-Depth Analysis of Modern Electronics by Tom's Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-hps-omnibook-ultra-14-the-power-duo-of-amd-ryzen-ai-300-chipset-and-next-gen-thunderbolt-4-for-unmatched-productivity/"><u>Introducing HP's OmniBook Ultra 14: The Power Duo of AMD Ryzen AI 300 Chipset & Next-Gen Thunderbolt 4 for Unmatched Productivity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/land-a-steady-bargain-on-high-performance-laptop-save-250-on-asuss-rog-zephyrus-g16-with-advanced-cpu-and-graphics/"><u>Land a Steady Bargain on High-Performance Laptop - Save $250 on ASUS's RoG Zephyrus G16 with Advanced CPU & Graphics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-trends-through-insightful-articles-by-toms-hardware/"><u>Mastering Tech Trends Through Insightful Articles by Tom's Hardware</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/troubleshooting-lack-of-audio-in-iphones-phone-and-app-functionality/"><u>Troubleshooting Lack of Audio in iPhone's Phone and App Functionality</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-cutting-edge-tools-for-youtube-screen-capturing/"><u>[New] 2024 Approved Cutting-Edge Tools for YouTube Screen Capturing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-ipad-360-video-creation-for-facebook-for-2024/"><u>[New] The Ultimate iPad 360 Video Creation for Facebook for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-chromes-pip-feature-across-devices/"><u>[Updated] Navigating Chrome's PIP Feature Across Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-discover-the-world-of-screen-capture-with-apowersofts-free-version/"><u>2024 Approved Discover the World of Screen Capture with Apowersoft's Free Version</u></a></li>
+<li><a href="https://facebook.techidaily.com/infiltrating-intimacy-a-guide-to-fb-privacy/"><u>Infiltrating Intimacy: A Guide to Fb Privacy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadget-purchases-wisdom-straight-from-toms-hardware-experts/"><u>Mastering Gadget Purchases: Wisdom Straight From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-electronics-tips-tricks-and-reviews-by-toms-hardware-experts/"><u>Mastering Modern Electronics: Tips, Tricks & Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-insights-from-toms-trusted-resource/"><u>Mastering Technology Insights From Tom’s Trusted Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-visuals-in-esports-why-the-pixio-px277-oled-is-a-game-changer-for-gamers/"><u>Mastering Visuals in eSports: Why the Pixio PX277 OLED Is a Game Changer for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-digital-life-tips-and-tricks-from-toms-tech-haven/"><u>Mastering Your Digital Life: Tips & Tricks From Tom's Tech Haven</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastermind-techniques-using-cognitive-mapping-and-gpt-powered-bots-to-spark-innovation/"><u>Mastermind Techniques: Using Cognitive Mapping & GPT-Powered Bots to Spark Innovation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-lessons-from-toms-hardware-experts/"><u>Navigating the World of Gadgets: Lessons From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-motherboards-at-toms-electronics/"><u>Navigating the World of Motherboards at Tom's Electronics</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/revolutionizing-tv-broadcasts-with-fb-live-streaming-for-2024/"><u>Revolutionizing TV Broadcasts with FB Live Streaming for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/44or44k944kz44oz5lplusu55cg5lit44kc5a6j5ywo44gq44oh44o844k5o6s6zmk5oml6acg/"><u>パソコン修理中も安全なデータ排除手順</u></a></li>
 </ul></div>
 

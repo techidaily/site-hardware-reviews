@@ -1,7 +1,7 @@
 ---
 title: Surface Pro
-date: 2025-01-19T20:45:28.054Z
-updated: 2025-01-24T22:00:23.801Z
+date: 2025-01-27T17:40:21.090Z
+updated: 2025-02-01T18:18:37.720Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -48,6 +48,10 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 
 How did this happen? Let's dive in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The experience is familiar
 
 This laptop is a radical shift in the Windows ecosystem, but it doesn't feel all that different from its predecessors. In fact, it's almost indistinguishable from the Intel-powered Surface Pro 9 that's sitting on my desk alongside it. The slim bezels around the displays of the two devices are nearly the same dimensions. The new device, at 1.9 pounds, is the same weight as the Surface Pro 9 and is a few ounces heavier than the Surface Pro X, although that's not something you really notice until you have to lug it through an airport as you rush to make a connection. The Type Cover from the older Surface Pro clicked into place on the Surface Pro 11, exactly as expected.
@@ -61,7 +65,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -81,7 +85,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -121,7 +125,7 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -143,10 +147,6 @@ The Paint and Photos apps are also loaded with AI-based features for creating an
 The real question is whether those features are powerful enough to make you switch from your current image-processing tool to one of Microsoft's built-in options. History says that's a pretty big ask.
 
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -192,18 +192,22 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-rise-to-success-with-these-essential-15-fb-sales-insights/"><u>[Updated] Rise to Success with These Essential 15 FB Sales Insights</u></a></li>
-<li><a href="https://extra-support.techidaily.com/battle-through-anthems-unending-launch-issue-with-these-solutions/"><u>Battle Through Anthem's Unending Launch Issue with These Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-the-asus-rog-nuc-tier-review-unmatched-performance-within-compact-design/"><u>Comprehensive Guide to the Asus ROG NUC Tier Review: Unmatched Performance Within Compact Design</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-cost-effective-nvme-cooling-discover-the-power-of-the-uphere-m201-heatsink-under-5/"><u>Cutting-Edge, Cost-Effective NVMe Cooling - Discover the Power of the UpHere M201 Heatsink Under $5!</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/envelop-your-senses-in-virtual-realms-the-best-vr-playback-systems-for-pc-for-2024/"><u>Envelop Your Senses in Virtual Realms The Best VR Playback Systems for PC for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-tecno-spark-10c-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Tecno Spark 10C for Free? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-typing-experience-with-the-keychron-q1-he-a-comprehensive-review-of-the-ultimate-wireless-mechanical-keyboard/"><u>Revolutionize Your Typing Experience with the Keychron Q1-HE: A Comprehensive Review of the Ultimate Wireless Mechanical Keyboard</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-process-to-converting-facebook-sound-clips-into-mp3-for-all-platforms/"><u>Step-by-Step Process to Converting Facebook Sound Clips Into MP3 for All Platforms</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-safe-bet-of-computing-an-insight-into-nzxts-h7-flow-case/"><u>The Safe Bet of Computing: An Insight Into NZXT's H7 Flow Case</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/travel-companion-analysis-asus-rt-ax52018-a-comprehensive-look-at-the-ultra-portable-wireless-nano-router/"><u>Travel Companion Analysis: Asus RT-AX5^2018 - A Comprehensive Look at the Ultra-Portable Wireless Nano Router</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unintentional-threats-top-seven-risks-to-your-data-security-exposed/"><u>Unintentional Threats: Top Seven Risks to Your Data Security Exposed!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-pc-upgrades-insights-from-toms-hardware-experts/"><u>Unveiling the Best PC Upgrades: Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-free-end-credits-maker-the-1-video-closers-guide/"><u>[Updated] Free End Credits Maker - The #1 Video Closers Guide!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-tecno-pova-6-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-game-changer-in-connectivity-unveiling-the-might-of-asus-rt-be96u-7ghz-wifi-router/"><u>A Game Changer in Connectivity - Unveiling the Might of Asus RT-BE96U 7GHz WiFi Router</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-amazfit-bip-the-ultimate-starter-gadget-for-modern-watch-lovers-reviewed/"><u>Discovering the Amazfit BIP: The Ultimate Starter Gadget for Modern Watch Lovers Reviewed!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hostingers-web-hosting-offerings-from-vps-to-shared-services/"><u>Exploring Hostinger’s Web Hosting Offerings: From VPS to Shared Services</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-sovol-sv0s-performance-a-modern-tribute-to-voron/"><u>Exploring Sovol SV0ˈs Performance: A Modern Tribute to Voron</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-insightful-reviews-on-asus-rog-azoth-extreme-perfect-gaming-rig-under-500/"><u>Get Insightful Reviews on Asus ROG Azoth Extreme - Perfect Gaming Rig Under $500</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620234915-mac-friendly-dpg-to-mp4-transformer-get-your-free-copy-now/"><u>Mac-Friendly DPG to MP4 Transformer - Get Your FREE Copy Now!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-after-effects-with-top-rated-text-tools-for-2024/"><u>Mastering After Effects with Top-Rated Text Tools for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-insights-on-levelplays-combat-air-ca4-cooler-efficient-and-noise-free-operation-for-your-pc/"><u>Review Insights on Levelplay's Combat Air CA4 Cooler - Efficient and Noise-Free Operation for Your PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-corner-unraveling-the-latest-in-computer-components/"><u>Tom's Tech Corner: Unraveling the Latest in Computer Components</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-8-virtual-spaces-for-3d-graffiti-fonts-for-2024/"><u>Top 8 Virtual Spaces for 3D Graffiti Fonts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-cutting-edge-ipad-enhancers-for-2atury-2023-reviewed/"><u>Ultimate Guide to Cutting-Edge iPad Enhancers for 2Atury 2023 Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-potential-asus-rog-swift-oled-pg32ucdp-reviewed-for-unmatched-gaming-clarity/"><u>Unlocking the Potential: Asus ROG Swift OLED PG32UCDP Reviewed for Unmatched Gaming Clarity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-an-inside-look-by-toms-hardware-experts/"><u>Unveiling Tech Secrets: An Inside Look by Tom's Hardware Experts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-epson-wf-372n0-printer-driver-fresh-download-for-improved-performance/"><u>Update Your Epson WF-372n0 Printer Driver - Fresh Download for Improved Performance</u></a></li>
 </ul></div>
 

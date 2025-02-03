@@ -1,7 +1,7 @@
 ---
 title: "Exploring Value & Insights on the Budget-Friendly Surface Pro 11: A Windows Guru's Perspective - ZDNet"
-date: 2025-01-17T22:46:20.020Z
-updated: 2025-01-24T23:14:44.221Z
+date: 2025-01-26T18:14:25.282Z
+updated: 2025-02-01T16:09:21.721Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -47,10 +47,6 @@ After one full week, I can say, without qualification: This machine absolutely r
 My original plan was to use the new Surface Pro as a secondary mobile device, while keeping my Dell Precision workstation on the desktop for my everyday activity. I am now using the new Surface Pro as my daily driver.
 
 How did this happen? Let's dive in.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The experience is familiar
 
@@ -83,6 +79,10 @@ In real-world usage, the Surface Pro 11 battery lasts twice as long as an equiva
 Screenshot by Ed Bott/ZDNET
 
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
 
@@ -121,7 +121,7 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,22 +192,21 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-thumbnail-length-a-guide-to-captivating-audiences/"><u>[New] 2024 Approved Thumbnail Length A Guide to Captivating Audiences</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-game-changing-strategies-for-effective-video-capture/"><u>[New] Game-Changing Strategies for Effective Video Capture</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-mastering-youtube-on-facebook-the-art-of-video-creation-for-2024/"><u>[New] Mastering YouTube on Facebook The Art of Video Creation for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unlocking-the-full-potential-of-morphvox-alchemy/"><u>[Updated] In 2024, Unlocking the Full Potential of MorphVOX Alchemy</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/efficient-techniques-for-app-management-and-removal-on-samsung-smart-tvs/"><u>Efficient Techniques for App Management & Removal on Samsung Smart TVs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-build-with-gskills-trident-z5-rgb-memory-sticks-an-ideal-choice-for-2x48gb-motherboard-setups/"><u>Elevate Your Build with G.SKILL's Trident Z5 RGB Memory Sticks - An Ideal Choice for 2X48GB Motherboard Setups</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341710933-experience-unmatched-precision-and-comfort-in-depth-look-at-the-keychron-q1-he-the-long-awaited-wireless-mx-version/"><u>Experience Unmatched Precision and Comfort - In-Depth Look at the Keychron Q1 HE, The Long-Awaited Wireless MX Version!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-11-pro-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone 11 Pro Smoothly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-tech-essentials-the-ultimate-guide-by-toms-hardware/"><u>Mastering Tech Essentials - The Ultimate Guide by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-device-choices-with-toms-hardware-wisdom/"><u>Mastering Your Device Choices with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-digital-world-top-reviews-from-toms-hardware-experts/"><u>Mastering Your Digital World: Top Reviews From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-trends-on-toms-hardware-platform/"><u>Navigating Technology Trends on Tom's Hardware Platform</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-glitch-your-way-to-creativity-top-free-online-tools-for-2024/"><u>New Glitch Your Way to Creativity Top Free Online Tools for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/publique-e-compartilhe-seu-conteudo-no-google-promovendo-sua-postagem-nas-redes-sociais-para-aumentar-a-visibilidade/"><u>Publique E Compartilhe Seu Conteúdo No Google, Promovendo Sua Postagem Nas Redes Sociais Para Aumentar a Visibilidade.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-mu-reviewed-speedy-performance-that-surpasses-raspberry-pi-4-yet-comes-with-a-price-tag/"><u>The Mu Reviewed: Speedy Performance That Surpasses Raspberry Pi 4 Yet Comes With a Price Tag</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-comprehensive-guide-and-reviews/"><u>Tom's Tech: Comprehensive Guide and Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-pick-for-portable-power-players-in-depth-analysis-of-the-asus-rog-ally-x-handheld-console/"><u>Top Pick for Portable Power Players: In-Depth Analysis of the Asus ROG Ally X Handheld Console</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-cost-effective-drone-collection-affordable-flight-gadgets-for-2024/"><u>[New] Cost-Effective Drone Collection Affordable Flight Gadgets for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-channel-ranking-with-these-11-seo-secrets-for-2024/"><u>[New] Elevate Your Channel Ranking with These 11 SEO Secrets for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-navigating-the-world-of-lut-based-color-correction/"><u>[New] Navigating the World of LUT-Based Color Correction</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-covert-content-creation-how-to-invisibly-alter-videos/"><u>[Updated] Covert Content Creation How to Invisibly Alter Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-to-easily-and-quickly-draw-on-photos-app-in-windows-11/"><u>[Updated] How to Easily and Quickly Draw on Photos App in Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-visionvoice-tips-for-perfectly-sized-insta-posts-for-2024/"><u>[Updated] VisionVoice Tips for Perfectly Sized Insta Posts for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-budget-friendly-high-performance-gaming-laptops-below-1000/"><u>Best Budget-Friendly High-Performance Gaming Laptops Below $1,000</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-analysis-of-top-tier-computer-hardware-by-toms-technology-hub/"><u>Detailed Analysis of Top-Tier Computer Hardware by Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-hardware-insights-with-toms-technology-hub/"><u>Discover Hardware Insights with Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dominate-your-games-secure-the-powerful-msi-katana-laptop-156-nvidia-geforce-rtx-4070-for-an-unbeatable-price-of-1199/"><u>Dominate Your Games: Secure the Powerful MSI Katana Laptop (15.6, NVIDIA GeForce RTX 4070) for an Unbeatable Price of $1,199</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862716918-exclusive-offer-on-lenovo-legion-gaming-pcs-with-rtx-graphics-and-ultra-smooth-display-get-750-off-today/"><u>Exclusive Offer on Lenovo Legion Gaming PCs with RTX Graphics & Ultra-Smooth Display – Get $750 Off Today!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quick-fixes-to-repair-microsoft-excel-2010-content-related-error-stellar-by-stellar-guide/"><u>Quick Fixes to Repair Microsoft Excel 2010 Content related error | Stellar</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862735364-score-an-epic-deal-nitro-16-gaming-laptop-with-amd-and-rtx-acers-rtx-4070-for-just-1129/"><u>Score an Epic Deal: Nitro 16 Gaming Laptop with AMD and RTX ([Acer's RTX 4070) for Just $1,129</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-and-fixing-steady-declines-in-frame-rate-fps/"><u>Understanding & Fixing Steady Declines in Frame Rate (FPS)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862716478-unleash-your-productivity-the-innovative-and-user-friendly-acemagic-x1-dual-screen-laptop-awaits-you/"><u>Unleash Your Productivity: The Innovative and User-Friendly Acemagic X1 Dual-Screen Laptop Awaits You!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-skys-bounty-to-brighten-indoors-for-2024/"><u>Utilizing Sky's Bounty to Brighten Indoors for 2024</u></a></li>
 </ul></div>
 

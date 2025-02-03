@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Snag Lenovo's Flex 지난에 $99 Deal Before Cyber Monday Chaos"
-date: 2025-01-22T21:59:36.335Z
-updated: 2025-01-24T19:09:08.715Z
+date: 2025-01-30T18:00:43.358Z
+updated: 2025-02-01T17:32:31.094Z
 tags:
   - laptops
 categories:
@@ -24,7 +24,7 @@ The model on offer here runs on Intel's 11th-generation [Core i7-11850H](https:/
 **Also:** [**Best Black Friday laptop deals 2022**](https://www.zdnet.com/article/black-friday-laptop-deals-november-23-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -67,18 +67,18 @@ At $1,699 -- 53% off Lenovo's list price -- the [ThinkPad X1 Extreme](https://bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-groundbreaking-feedback-vllo-review/"><u>2024 Approved Groundbreaking Feedback VLLO Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterpiece-dialogues-across-8-film-genres/"><u>2024 Approved Masterpiece Dialogues Across 8 Film Genres</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/bold-transformation-of-the-worlds-premier-risc-v-laptop-deepcomputing-overhaul-introduces-eight-faster-cores-and-innovative-artificnial-intelligence-capabil35/"><u>Bold Transformation of the World's Premier RISC-V Laptop: DeepComputing Overhaul Introduces Eight Faster Cores & Innovative Artificnial Intelligence Capabilities for Enhanced Performance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-top-4-open-source-slack-substitutes-to-elevate-your-teams-communication-game-explore-the-options-on-zdnet/"><u>Discover Top 4 Open-Source Slack Substitutes to Elevate Your Team's Communication Game - Explore the Options on ZDNet</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 14 Plus Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-poco-c51-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Poco C51? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/schritt-fur-schritt-anleitung-zum-schutz-einer-externen-speicherungseinheit/"><u>Schritt-Für-Schritt-Anleitung Zum Schutz Einer Externen Speicherungseinheit</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/understanding-the-impact-of-temperature-on-your-ev-tips-and-strategies/"><u>Understanding the Impact of Temperature on Your EV: Tips and Strategies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unraveling-computer-gear-expert-analysis-by-toms-hardware-hub/"><u>Unraveling Computer Gear: Expert Analysis by Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-toms-hardware-hub-t17238628794163/"><u>Unveiling Gadgets with Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-technology-by-toms-experts/"><u>Unveiling the Best in Technology by Tom's Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-hp-omnibook-x-powerful-efficiency-and-a-remarkable-16-hour-battery-life-achievement/"><u>Unveiling the HP OmniBook X: Powerful Efficiency and a Remarkable 16-Hour Battery Life Achievement</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-tech-reviews-and-insights-with-toms-hardware/"><u>Unveiling Top Tech Reviews & Insights with Tom's Hardware</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-chuckle-cluster-a-curated-collection-of-funny-tiktok-jokes-and-riddles-for-2024/"><u>[Updated] Chuckle Cluster A Curated Collection of Funny TikTok Jokes and Riddles for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-express-yourself-incorporating-emojis-into-yt-feedback/"><u>[Updated] Express Yourself Incorporating Emojis Into YT Feedback</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-perfecting-screen-capture-teams-meetings-on-pctablet/"><u>[Updated] In 2024, Perfecting Screen Capture Teams' Meetings on PC/Tablet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-guide-activatingdeactivating-picture-in-picture-pip-for-youtube/"><u>[Updated] Quick Guide Activating/Deactivating Picture In Picture (PIP) for YouTube</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guia-paso-a-paso-migracion-de-windows-11-desde-su-antiguo-pc-hacia-uno-nuevo/"><u>Guía Paso a Paso: Migración De Windows 11 Desde Su Antiguo PC Hacia Uno Nuevo</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oppo-reno-11-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Oppo Reno 11 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-ultimate-checklist-seamless-conversion-of-phone-photos-to-snapchat/"><u>In 2024, The Ultimate Checklist Seamless Conversion of Phone Photos to Snapchat</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msi-unveils-high-performance-gaming-displays-240hz-qd-oled-monitors-in-new-sizes/"><u>MSI Unveils High Performance Gaming Displays - 240Hz QD-OLED Monitors in New Sizes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-gadgets-insights-from-toms-technology-corner/"><u>Navigating Advanced Gadgets: Insights From Tom's Technology Corner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-high-tech-components-at-toms-system-analysis/"><u>Navigating High-Tech Components at Tom's System Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-tomhardware/"><u>Navigating the World of Electronics with TomHardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tp-link-driver-downloads-for-ultimate-wifi-speed-optimized-for-windows-1087-systems/"><u>TP-Link Driver Downloads for Ultimate WiFi Speed: Optimized for Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-when-your-built-in-camera-wont-work-on-a-pc/"><u>Troubleshooting Tips: When Your Built-In Camera Won't Work on a PC</u></a></li>
 </ul></div>
 

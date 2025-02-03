@@ -1,7 +1,7 @@
 ---
 title: "Save Big: Grab the Massive Discount on an 8TB Samsung T5 SSD From Amazon, Now Just 36%% Cheaper - Tech News by ZDNet"
-date: 2025-01-20T00:01:46.367Z
-updated: 2025-01-24T21:16:46.668Z
+date: 2025-01-30T17:07:59.431Z
+updated: 2025-02-01T16:06:02.242Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3197ac90-972b-4b62-968f-8aa6f5d36c35%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,19 +65,24 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-mastery-through-art-the-ultimate-list-of-free-mac-drawing-apps/"><u>[Updated] Mastery Through Art The Ultimate List of FREE Mac Drawing Apps</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-immortalizing-moments-facebook-live-to-file-finesse/"><u>2024 Approved Immortalizing Moments Facebook Live to File Finesse</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-new-frontier-in-ai-decoding-the-power-of-transfer-learning/"><u>A New Frontier in AI: Decoding the Power of Transfer Learning</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/acer-unveils-three-cutting-edge-oled-gaming-screens-with-top-offering-the-480hz-27-predator-x2amo-u-f3/"><u>Acer Unveils Three Cutting-Edge OLED Gaming Screens with Top Offering, the 480Hz 27” Predator X2amo U F3</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-computer-systems-breakdown-by-toms-hardware-specialist/"><u>Advanced Computer Systems Breakdown by Tom's Hardware Specialist</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/best-value-156-inch-1080p-portable-monitor-with-ips-display-for-just-6599/"><u>Best Value 15.6 Inch 1080P Portable Monitor with IPS Display for Just $65.99</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-chinese-store-offers-unique-139-thor-vs-darth-vader-inspired-24-inch-led-monitor/"><u>Budget-Friendly Chinese Store Offers Unique $139 'Thor vs Darth Vader' Inspired 24-Inch LED Monitor</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/built-in-ai-noise-cancellation-for-crystal-clear-audio-experience/"><u>Built-In AI Noise Cancellation for Crystal Clear Audio Experience</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/continued-growth-for-oled-monitors-market-forecast-estimates-upwards-of-134-million-deliveries-by-end-of-year/"><u>Continued Growth for OLED Monitors: Market Forecast Estimates Upwards of 1.34 Million Deliveries by End-of-Year</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-apple-iphone-8-plus-look-no-further-drfone-by-drfone-virtual-ios/"><u>In 2024, Looking For A Location Changer On Apple iPhone 8 Plus? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-simplify-your-meetings-using-zoom-to-upgrade-skype/"><u>In 2024, Simplify Your Meetings Using Zoom to Upgrade Skype</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/premier-tactics-capturing-high-quality-sporting-live-events-for-2024/"><u>Premier Tactics Capturing High-Quality Sporting Live Events for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-infinix-note-30-vip-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Infinix Note 30 VIP Screen | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ilmmakers-blueprint-making-youtube-splitscreen-magic/"><u>The Filmmaker's Blueprint Making YouTube Splitscreen Magic</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-masterclass-in-creating-the-ideal-home-4k-editing-pc/"><u>[New] In 2024, Masterclass in Creating the Ideal Home 4K Editing PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unleashing-brand-potential-with-a-comprehensive-guide-to-smm-mastery-for-2024/"><u>[New] Unleashing Brand Potential with a Comprehensive Guide to SMM Mastery for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-lava-yuva-2-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Lava Yuva 2 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-do-you-arete-dicta-by-jillian-hormones-samsungin-the-firstiin-this-problem-statement-of-what-and-then-i-need-to-beings-as-an-integerlnger-when-used-thro1/"><u>How Do You Arete Dicta by Jillian Hormone's Samsung’in the First_i|In This Problem Statement of What?, And Then I Need to Beings, as an Integerlnger when Used Throughout Each Other`m^2014-July</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-clean-your-ps5-console-and-controller-the-right-way/"><u>How to Clean Your PS5 Console and Controller the Right Way</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-se-2022-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone SE (2022) in the Best Ways</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-15-pro-max-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 15 Pro Max Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-live-stream-tech-showdown-assessing-xsplit-and-obs-features/"><u>In 2024, Live Stream Tech Showdown Assessing XSplit and OBS Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-your-next-purchase-on-toms-comprehensive-hardware-guides/"><u>Navigating Your Next Purchase on Tom's Comprehensive Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/new-high-speed-z791-wifi-board-powers-splaves-record-breaking-overclocking-feats/"><u>New High-Speed Z79^1 Wifi Board Powers Splave's Record-Breaking Overclocking Feats</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/newly-launched-budget-friendly-am5-mini-itx-motherboard-with-pcie-gen-4-by-sapphire-in-china/"><u>Newly-Launched Budget-Friendly AM5 Mini ITX Motherboard with PCIe Gen 4 by Sapphire in China</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revealed-the-powerhouse-of-a-board-unboxing-the-declassified-evgas-amd-motherboard/"><u>Revealed: The Powerhouse of a Board - Unboxing the Declassified EVGA's AMD Motherboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sapphire-unveils-affordable-pcie-gen-4-mini-itx-am5-board-for-chinese-market/"><u>Sapphire Unveils Affordable PCIe Gen 4 Mini ITX AM5 Board for Chinese Market</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-essential-hardware-handbook-by-tom-make-informed-tech-decisions/"><u>The Essential Hardware Handbook by Tom: Make Informed Tech Decisions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-expertise-on-computer-gear-and-systems/"><u>Tom's Expertise on Computer Gear and Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-gear-lab-in-depth-analysis-of-pc-parts/"><u>Tom's Gear Lab: In-Depth Analysis of PC Parts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-cutting-edge-computer-components/"><u>Tom's Tech Insights: Exploring Cutting-Edge Computer Components</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-video-editor-battle-is-inshot-reigning-supreme-for-2024/"><u>Top Video Editor Battle Is InShot Reigning Supreme for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-y36i-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y36i Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

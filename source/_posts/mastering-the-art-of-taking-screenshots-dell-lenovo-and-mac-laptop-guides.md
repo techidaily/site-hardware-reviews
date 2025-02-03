@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Taking Screenshots: Dell, Lenovo & Mac Laptop Guides"
-date: 2025-01-18T18:21:32.142Z
-updated: 2025-01-24T19:23:09.000Z
+date: 2025-01-31T17:52:32.902Z
+updated: 2025-02-01T17:27:40.814Z
 tags:
   - laptops
 categories:
@@ -26,14 +26,10 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to take screenshots on any laptop
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements
@@ -44,11 +40,11 @@ You'll need your laptop and, in some cases, basic image editing software. The en
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
-### **Option 1: The old fashioned way**
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### **Option 1: The old fashioned way**
 
 ## 1\. Use your Print Screen key
 
@@ -72,6 +68,10 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
@@ -90,10 +90,6 @@ Michael Gariffo/ZDNET
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Press Shift+Cmd+3
 
 To take a screenshot on any Mac, including MacBook laptops, just press Shift+Cmd+3\. Unlike Windows, this won't copy the screen to your clipboard, it will actually save the capture as an image file on your desktop using the format "Screen Shot \[date\] at \[time\].png."
@@ -104,19 +100,23 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,24 +157,22 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-leaders-in-learning-select-sci-yt-channels/"><u>[New] 2024 Approved Leaders in Learning Select Sci-YT Channels</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-clever-ways-to-neglect-edge-academy-vids/"><u>[New] Clever Ways to Neglect EDGE Academy Vids</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-step-by-step-screen-record-your-win10-game-log-for-2024/"><u>[New] Step-by-Step Screen Record Your Win10 Game Log for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-from-amateurs-to-pros-mastering-mac-audio-in-audacity-for-2024/"><u>[Updated] From Amateurs to Pros Mastering Mac Audio in Audacity for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-unraveling-windows-10-complexities-simplified/"><u>[Updated] In 2024, Unraveling Windows 10 Complexities Simplified</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y100A? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-definitions-of-computer-hardware-and-peripherals-exploring-the-toms-hardware-glossary/"><u>Comprehensive Definitions of Computer Hardware & Peripherals: Exploring the Tom's Hardware Glossary</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/essential-uphere-m201-ssd-heatsink-evaluation-at-just-5-enhancing-your-nvme-drives-performance/"><u>Essential UpHere M201 SSD Heatsink Evaluation at Just $5 - Enhancing Your NVMe Drive's Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/hp-omnibook-x-performance-analysis-ultraportable-laptop-with-extended-battery-life/"><u>HP OmniBook X Performance Analysis - Ultraportable Laptop with Extended Battery Life</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-graphics-a-comprehensive-review-of-pixios-game-changer-the-oled-max-monitor-px277/"><u>Mastering Graphics: A Comprehensive Review of Pixio's Game Changer - The OLED Max Monitor (PX277)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/maximizing-motherboard-compatibility-a-review-of-the-gskill-trident-z5-rgb-ddr5-640cu-c32-dual-channel-memory-solution/"><u>Maximizing Motherboard Compatibility: A Review of the G.SKILL Trident Z5 RGB DDR5-640cu C32 Dual-Channel Memory Solution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-tech-trends-the-toms-hardware-compendium/"><u>Navigating Tech Trends: The Tom's Hardware Compendium</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/never-attempt-to-remove-any-penetrating-objects-from-an-eye-injury-it-may-exacerbate-the-damage-or-introduce-infection/"><u>Never Attempt to Remove Any Penetrating Objects From an Eye Injury; It May Exacerbate the Damage or Introduce Infection.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-clevetura-clvx-1-a-detailed-look-at-its-touch-sensitivity-and-ergonomics-for-typists/"><u>The Ultimate Guide to Clevetura CLVX 1 - A Detailed Look at Its Touch Sensitivity & Ergonomics for Typists</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/thrilling-review-alert-maximize-your-setup-with-the-gskill-trident-z5-rgb-dual-dimm-ddr5-memory-sticks-at-a-sizzling-6400mhz/"><u>Thrilling Review Alert! Maximize Your Setup with the G.SKILL Trident Z5 RGB - Dual-DIMM DDR5 Memory Sticks at a Sizzling 6400MHz</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-dive-into-computer-components-and-hardware/"><u>Tom's Tech Hub: Dive Into Computer Components and Hardware</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-pop-8-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Tecno Pop 8 Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-social-media-savvy-how-to-download-status-vids-on-fb/"><u>[New] 2024 Approved Social Media Savvy How to Download Status Vids on FB</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-craft-your-own-film-finale-templates-no-cost/"><u>[New] In 2024, Craft Your Own Film Finale Templates, No Cost</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-navigating-macs-best-screen-capturing-apps-and-tech/"><u>[New] Navigating Mac's Best Screen Capturing Apps & Tech</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-innovative-methods-for-overwatch-audio-capture/"><u>[Updated] Innovative Methods for Overwatch Audio Capture</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-nubia-red-magic-8s-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Nubia Red Magic 8S Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/approach-recall-the-initial-stage-of-planning-for-land-division/"><u>Approach: Recall the Initial Stage of Planning for Land Division</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/y-bliss-essential-tutorials-for-ultimate-style-for-2024/"><u>Beauty Bliss Essential Tutorials for Ultimate Style for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-computer-components-insights-from-toms-hardware-reviews/"><u>Discover the Best Computer Components - Insights From Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-audio-game-with-turtle-beachs-atlas-air-comfort-that-feels-like-air-and-sounds-unparalleled/"><u>Elevate Your Audio Game with Turtle Beach's Atlas Air: Comfort that Feels Like Air and Sounds Unparalleled</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-y78plus-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo Y78+ Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ie-troubles-tackled-ensuring-smooth-website-loading/"><u>IE Troubles Tackled: Ensuring Smooth Website Loading</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-equipment-with-toms-hardware-guide/"><u>Mastering Equipment with Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-power-of-effective-cooling-with-the-teamgroup-t-force-dark-airflow-i-nvme-heatsink-buyers-guide-and-review/"><u>The Power of Effective Cooling with the TeamGroup T-Force Dark AirFlow I NVMe Heatsink - Buyer's Guide and Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341724300-toms-guide-to-high-performance-gadgets-and-components-expert-reviews/"><u>Tom's Guide to High-Performance Gadgets and Components - Expert Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-analysis-of-the-latest-gear/"><u>Tom's Tech Reviews: Comprehensive Analysis of the Latest Gear</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-your-creativity-with-photoshops-radial-blur-and-shadow-tools/"><u>Unlock Your Creativity with Photoshop's Radial Blur & Shadow Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/workshops-and-webinars/"><u>Workshops and Webinars</u></a></li>
 </ul></div>
 

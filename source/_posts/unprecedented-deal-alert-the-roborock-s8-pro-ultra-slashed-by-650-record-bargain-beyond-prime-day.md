@@ -1,7 +1,7 @@
 ---
 title: "Unprecedented Deal Alert: The Roborock S8 Pro Ultra Slashed by $650 - Record Bargain Beyond Prime Day"
-date: 2024-09-19 16:24:11
-updated: 2024-09-20 12:28:22
+date: 2025-01-26T17:11:50.548Z
+updated: 2025-02-01T16:56:02.347Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,30 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-freedom-from-filmage-tiktok-videos-without-stickers/"><u>[New] Freedom From Filmage TikTok Videos Without Stickers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-quick-queries-character-and-sound-crossover/"><u>[New] Quick Queries Character & Sound Crossover</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-enhance-your-livestream-going-beyond-obs/"><u>[Updated] 2024 Approved Enhance Your Livestream Going Beyond OBS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-expert-tips-for-smoothly-changing-fb-videos-into-mp3-files/"><u>[Updated] 2024 Approved Expert Tips for Smoothly Changing FB Videos Into MP3 Files</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-complete-screencast-process-methodical-instructional-video/"><u>[Updated] Complete Screencast Process Methodical Instructional Video</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-frontier-of-gesture-based-technology-advancements/"><u>[Updated] The Frontier of Gesture-Based Technology Advancements</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-ultimate-cooling-detailed-examination-of-the-5-uphere-m201-nvme-ssd-heatsink/"><u>Affordable Ultimate Cooling: Detailed Examination of the $5 UpHere M201 NVMe SSD Heatsink</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/behind-the-scenes-youtube-live-thumbnail-secrets/"><u>Behind the Scenes YouTube Live Thumbnail Secrets</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-the-ultimate-gaming-beast-key-parts/"><u>Building the Ultimate Gaming Beast: Key Parts</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-restoring-the-alt-plus-tab-command-in-windows-and-macos/"><u>Expert Solutions: Restoring the Alt + Tab Command in Windows and MacOS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-hub-gadget-reviews-and-tips/"><u>Exploring Technology with Tom's Hardware Hub: Gadget Reviews & Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-in-depth-reviews-and-tech-insights/"><u>Exploring Tom's Hardware: In-Depth Reviews and Tech Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nvidias-blackwell-graphics-cards-face-setback-potential-redesign-leads-to-projected-3-month-launch-postponement/"><u>Nvidia's Blackwell Graphics Cards Face Setback: Potential Redesign Leads to Projected 3-Month Launch Postponement</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/premium-savings-leading-nvme-and-sata-storage-options-buyers/"><u>Premium Savings: Leading NVMe & SATA Storage Options Buyers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/turbocharge-your-mobile-gameplay-nextorages-cutting-edge-ssd-sets-new-speed-benchmark-at-74gbs/"><u>Turbocharge Your Mobile Gameplay: Nextorage's Cutting-Edge SSD Sets New Speed Benchmark at 7.4GB/S</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-toms-comprehensive-hardware-analysis/"><u>Unveiling the Latest Gadgets - Tom's Comprehensive Hardware Analysis</u></a></li>
+</ul></div>
+

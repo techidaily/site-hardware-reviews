@@ -1,7 +1,7 @@
 ---
 title: "Score a Deal: Save Big on This On Son's Dual Function Robot Cleaner During Labor Day - Exclusive Discount of $250 Available Now at Walmart!"
-date: 2024-09-18 12:31:29
-updated: 2024-09-20 11:35:34
+date: 2025-01-26T18:24:52.469Z
+updated: 2025-02-01T16:48:12.169Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,31 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-avoiding-drone-pitfalls-key-factors-for-a-smart-purchase/"><u>[New] 2024 Approved Avoiding Drone Pitfalls Key Factors for a Smart Purchase</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-expertly-selecting-the-best-tools-for-browser-content-capturing/"><u>[New] 2024 Approved Expertly Selecting the Best Tools for Browser Content Capturing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-top-6-virtual-reality-vr-gloves-to-check-out/"><u>2024 Approved Top 6 Virtual Reality (VR) Gloves to Check Out</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-v27e-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-blueant-soundblade-impressive-clarity-and-powerful-output/"><u>Comprehensive Analysis of the BlueAnt SoundBlade - Impressive Clarity & Powerful Output</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-insight-into-mematics-app-features/"><u>In 2024, Exclusive Insight Into Mematic's App Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pros-choice-the-ultimate-list-of-essential-luts-for-lightroom/"><u>Pro's Choice The Ultimate List of Essential LUTs for LightRoom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-meets-artificial-intelligence-comprehensive-insights-into-the-brainiac-learning-setup/"><u>Raspberry Pi Meets Artificial Intelligence: Comprehensive Insights Into the 'Brainiac' Learning Setup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-sustainability-in-gaming-memory-a-closer-look-at-the-eco-ddr5-performance-of-teamgroups-t-force-vulcan-c30-2x16gb/"><u>Revolutionizing Sustainability in Gaming Memory: A Closer Look at the Eco DDR5 Performance of TeamGroup's T-Force Vulcan (C30, 2X16GB)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/rigorous-testing-of-sabrent-rocket-nano-2242-a-1tb-ssd-review-for-m2-needs/"><u>Rigorous Testing of Sabrent Rocket Nano 2242: A 1TB SSD Review for M.2 Needs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/snag-apple-airtags-on-sale-save-24-with-walmarts-labor-day-discount-shop-the-4-pack-today/"><u>Snag Apple AirTags on Sale: Save $24 with Walmart's Labor Day Discount – Shop the 4-Pack Today!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-the-best-television-streaming-applications/"><u>The Ultimate Guide to the Best Television Streaming Applications</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-newest-gadgets/"><u>Tom's Tech Reviews: In-Depth Analysis of Newest Gadgets</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-honor-x50-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Honor X50 Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-review-how-the-feel-of-keys-impacts-performance-on-the-clevetura-clvx-wireless-keyboard/"><u>Unboxing and Review: How the Feel of Keys Impacts Performance on the Clevetura CLVX Wireless Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-potential-a-comprehensive-review-of-the-gskill-trident-z5-rgb-for-advanced-ddr5-dual-dimm-systems/"><u>Unlocking Potential: A Comprehensive Review of the G.SKILL Trident Z5 RGB for Advanced DDR5 Dual-DIMM Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-performance-a-review-on-akasas-advanced-gecko-ssd-heatsink-and-airflow-enhancer/"><u>Unveiling the Performance: A Review on Akasa's Advanced Gecko SSD Heatsink and Airflow Enhancer</u></a></li>
+</ul></div>
+

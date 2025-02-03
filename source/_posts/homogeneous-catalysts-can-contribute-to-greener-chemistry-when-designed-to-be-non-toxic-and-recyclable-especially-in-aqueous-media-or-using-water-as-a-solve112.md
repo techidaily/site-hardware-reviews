@@ -1,7 +1,7 @@
 ---
 title: Homogeneous Catalysts Can Contribute to Greener Chemistry when Designed to Be Non-Toxic and Recyclable, Especially in Aqueous Media or Using Water as a Solvent.
-date: 2024-09-19 23:13:48
-updated: 2024-09-20 12:47:14
+date: 2025-01-28T18:06:16.103Z
+updated: 2025-02-01T17:27:09.517Z
 tags:
   - kitchen-household
 categories:
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the deal?
 
 The [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cef9944e9-dd2a-4b32-a173-4b37aa6e0a76%7Cdtp&dtb=1) is $30 off, available for $200 through [Labor Day](https://www.zdnet.com/article/best-labor-day-deals-2024-8-29/).
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -79,6 +87,10 @@ Maria Diaz/ZDNET
 
 The Ring Protect plan ranges from $5-$20 monthly, and aside from the mentioned features, it includes person alerts, the ability to arm and disarm the Ring system digitally, rich notifications, snapshot capture, and video history stored in the cloud for up to six months.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After using the [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cef9944e9-dd2a-4b32-a173-4b37aa6e0a76%7Cdtp&dtb=1) for a few weeks, I found it to be a reliable home security camera with all the extra features worth the price. The two-way talk audio quality was the most impressive I've ever tried, delivering crystal clear audio without echo. 
@@ -90,6 +102,10 @@ However, I was slightly disappointed by the video quality, which only goes up to
 A security camera of that resolution is not disappointing on its own, but it's a noticeable difference compared to the 2K-resolution Arlo Pro 5S that I previously had overlooking that area of my yard, though the Arlo is a little pricier, at $250\. To top it off, the [floodlight camera](https://www.zdnet.com/home-and-office/smart-home/eufys-new-floodlight-cam-e340-is-the-hardest-working-security-camera-ive-tested/) on the other side of my yard can go up to 3K resolution and is $10 cheaper than this Ring camera. 
 
 Additionally, many smart home users aren't prepared to pay monthly subscription fees to access plan-exclusive features, but plenty of users prefer the convenience of not having to worry about local storage and enjoy the extra perks a paid plan offers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -116,11 +132,33 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-echoes-and-essence-pairing-sounds-with-images-for-2024/"><u>[New] Echoes & Essence Pairing Sounds with Images for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-skype-soundtrack-hub-finding-the-right-tones-online/"><u>[New] Skype Soundtrack Hub Finding the Right Tones Online</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-closer-look-at-gigabyes-premium-b650-aorus-elite-ax-ice-motherboard-evaluating-cost-vs-quality-and-usb-capabilities/"><u>A Closer Look at Gigabye's Premium B650 Aorus Elite AX Ice Motherboard: Evaluating Cost Vs. Quality and USB Capabilities</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ving-cohesion-in-content-with-flv-video-integration-for-2024/"><u>Achieving Cohesion in Content with FlV Video Integration for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/blueant-soundblade-evaluation-stunning-volume-and-quality/"><u>BlueAnt Soundblade Evaluation: Stunning Volume & Quality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-world-of-computer-components-with-expert-guidance-from-toms-hardware/"><u>Dive Into the World of Computer Components with Expert Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-for-seamless-dvd-ripping-and-conversion-to-divx-format/"><u>Easy Steps for Seamless DVD Ripping & Conversion to DivX Format</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-computers-from-toms-gear-experts/"><u>Expert Advice on Computers From Tom's Gear Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-top-tech-in-depth-analysis-at-toms-hardware-hub/"><u>Explore Top Tech: In-Depth Analysis at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-hub-your-ultimate-guide/"><u>Exploring Tom's Tech Hub: Your Ultimate Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-photo-addition-to-instagram/"><u>In 2024, Step-by-Step Photo Addition to Instagram</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-pitfalls-of-ios-18-on-your-iphone-join-others-in-solidarity-zdnet/"><u>Navigating the Pitfalls of iOS 18 on Your iPhone - Join Others in Solidarity | ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/snapping-multiple-images-on-iphone-in-a-blink/"><u>Snapping Multiple Images on iPhone in a Blink</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guides-on-computer-hardware/"><u>Tom's Tech Review - Comprehensive Guides on Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-ultra-wide-oled-masterpiece-aoc-agon-pro-ag4n6uczd-45-revel-in-the-power-of-extreme-curvature-and-blazing-performance-for-next-level-g2/"><u>Ultimate Guide to The Ultra-Wide OLED Masterpiece: AOC Agon Pro AG4n6UCZD 45 - Revel in the Power of Extreme Curvature & Blazing Performance for Next-Level Gaming Experience!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-the-lenovo-yoga-pro-9i-striking-a-balance-between-weightlessness-and-durable-keyboard/"><u>Unboxing and Testing the Lenovo Yoga Pro 9I: Striking a Balance Between Weightlessness and Durable Keyboard</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-claims-surrounding-truthgpt-coins/"><u>Unraveling the Claims Surrounding TruthGPT Coins</u></a></li>
+<li><a href="https://fox-links.techidaily.com/youtube-hacked-mastery-over-skipping-video-startup-techniques-for-2024/"><u>YouTube Hacked Mastery Over Skipping Video Startup Techniques for 2024</u></a></li>
+</ul></div>
+

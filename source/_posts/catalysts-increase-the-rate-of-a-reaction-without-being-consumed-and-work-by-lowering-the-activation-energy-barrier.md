@@ -1,7 +1,7 @@
 ---
 title: Catalysts Increase the Rate of a Reaction without Being Consumed and Work by Lowering the Activation Energy Barrier.
-date: 2024-09-17 12:41:34
-updated: 2024-09-20 10:37:42
+date: 2025-01-28T18:22:48.029Z
+updated: 2025-02-01T16:30:51.760Z
 tags:
   - kitchen-household
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/fba9d1b021c91a0b6059d158b3fda53b17a7a738b
 ![EcoFlow Delta Pro 3 portable battery](https://www.zdnet.com/a/img/resize/493a0e14c2076aa82dd15d43be4c51552702595c/2024/06/20/9d465ec0-9e8c-4fee-b2aa-d5b5ce343244/2.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -77,6 +81,10 @@ How did it fare? The power returned about three hours later, and the Delta Pro 3
 
 Aside from this power outage, [we've tested](https://www.zdnet.com/home-and-office/energy/how-we-test-portable-power-stations/) the Delta Pro 3 as a standalone battery to power a home office setup, keeping consumption between 50W and 120W. The DP3 powered an LCD monitor, a Dell XPS laptop, a phone charger, and a USB-C tablet charger for four days. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Accessories-Emergencies%2Fdp%2FB0D14FMFZD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1) is an excellent option for anyone looking for a higher-capacity portable battery for camping or as an emergency home backup, as long as you're willing to pay the price, literally. It's not a cheap option among portable batteries, priced at $3199, which is about $400 less than the price of a [Delta Pro and Dual fuel inverter generator bundle](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Generator-High-Power-Appliances%2Fdp%2FB0BKGLCVRR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1).
@@ -106,11 +114,31 @@ Though priced high, the Delta Pro 3 seamlessly integrates into an EcoFlow home b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-tiktok-foundations-a-complete-users-manual/"><u>[New] 2024 Approved TikTok Foundations A Complete User's Manual</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-animators-dream-tools-premium-choices-for-3d-mastery/"><u>[New] In 2024, The Animator’s Dream Tools Premium Choices for 3D Mastery</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-5-inspiring-book-tt-showcases/"><u>[New] In 2024, Top 5 Inspiring Book TT Showcases</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-bring-back-classic-ps3-fun-with-best-tools/"><u>[Updated] 2024 Approved Bring Back Classic PS3 Fun with Best Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-tech-insight-saving-meetings-on-devices/"><u>[Updated] In 2024, Tech Insight Saving Meetings on Devices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-essential-iphone-slide-show-tools-x-ix/"><u>2024 Approved Essential iPhone Slide Show Tools (X-IX)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/best-auto-tracking-cameras-for-2024/"><u>Best Auto Tracking Cameras for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhance-your-typing-experience-upgrade-to-a-luxurious-mx-palm-rest-by-logitech-at-only-11/"><u>Enhance Your Typing Experience: Upgrade to a Luxurious MX Palm Rest by Logitech at Only $11!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964487700-experience-enhanced-productivity-with-sabrents-350-hybrid-display-and-thunderbolt-dock-featuring-65w-usb-c-ethernet-ports-and-more/"><u>Experience Enhanced Productivity with Sabrent's $350 Hybrid Display and Thunderbolt Dock - Featuring 65W USB-C, Ethernet Ports, and More</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-personalized-typing-with-xyza-tiny-keyboard-v20-new-features-include-triple-tailored-keys-and-adjustable-dial-for-enhanced-usability/"><u>Experience Personalized Typing with XYZA Tiny Keyboard v2.0 – New Features Include Triple-Tailored Keys and Adjustable Dial for Enhanced Usability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-insights-by-tom-your-trusted-source/"><u>Expert Hardware Insights by Tom - Your Trusted Source</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-13-pro-max-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 13 Pro Max With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-gadget-analysis-by-toms-electronics-guide/"><u>In-Depth Gadget Analysis by Tom's Electronics Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-gadget-guide/"><u>Navigating the World of Technology with Tom's Gadget Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-insights-in-depth-hardware-evaluation-and-comparison/"><u>Tom's Computer Insights: In-Depth Hardware Evaluation and Comparison</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-comparisons/"><u>Tom's Tech Insights: Expert Reviews and Comparisons</u></a></li>
+</ul></div>
+

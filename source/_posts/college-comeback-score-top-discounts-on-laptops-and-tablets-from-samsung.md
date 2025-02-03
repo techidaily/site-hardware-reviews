@@ -1,7 +1,7 @@
 ---
 title: College Comeback? Score Top Discounts on Laptops & Tablets From Samsung
-date: 2025-01-20T00:11:49.202Z
-updated: 2025-01-24T21:12:05.787Z
+date: 2025-01-29T16:43:34.508Z
+updated: 2025-02-01T17:36:26.507Z
 tags:
   - laptops
 categories:
@@ -51,7 +51,7 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -90,22 +90,22 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-easy-ways-to-screen-record-instagram-story/"><u>[New] Easy Ways to Screen Record Instagram Story</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-framing-perfection-a-filmmakers-guide-to-cinematic-youtube-videos/"><u>[New] In 2024, Framing Perfection A Filmmaker's Guide to Cinematic YouTube Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-reposition-mac-picture-cache-destination-for-2024/"><u>[New] Reposition Mac Picture Cache Destination for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-uncover-the-secrets-of-your-off-facebook-life-with-us/"><u>[New] Uncover the Secrets of Your Off-Facebook Life with Us</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-set-up-grid-layout-for-google-meet-participants-viewing/"><u>[Updated] In 2024, Set Up Grid Layout for Google Meet Participants' Viewing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rt-be96u-6ghz-dual-band-mesh-wifi-system-evaluation-introducing-the-next-generation-of-high-speed-connectivity/"><u>Asus RT-BE96U 6GHz Dual-Band Mesh WiFi System Evaluation: Introducing the Next Generation of High-Speed Connectivity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-pioneering-insights-by-tom-on-hardware-solutions/"><u>Decoding Tech: Pioneering Insights by Tom on Hardware Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-standard-setter-a-thorough-review-of-sabrents-m2-22amo-1tb-rocket-nano-ssd/"><u>Evaluating the Standard Setter: A Thorough Review of Sabrent's M.2 22Amo 1TB Rocket Nano SSD</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experiencing-the-speed-with-asus-zenbook-s16-and-its-integrated-amd-ryzen-ai9-hx-370-processor-reviewed-here/"><u>Experiencing the Speed with ASUS Zenbook S16 and Its Integrated AMD Ryzen AI9 HX-370 Processor Reviewed Here</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-evaluation-of-the-aoc-agon-pro-ag456uczd-a-detailed-look-at-its-45-ultra-wide-oled-gaming-display-with-extremely-curved-edges-and-fast-refresh-rates.3/"><u>Expert Evaluation of the AOC Agon Pro AG456UCZD – A Detailed Look at Its 45 Ultra-Wide OLED Gaming Display with Extremely Curved Edges and Fast Refresh Rates!</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-complete-your-windows-11-overcome-the-99-hurdle-with-these-simple-tricks/"><u>How to Complete Your Windows 지원 11 설치 - Overcome the 99% Hurdle with These Simple Tricks</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lenovo-thinkphone-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lenovo ThinkPhone to New Android? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-13-mini-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 13 mini Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-gadget-analysis-from-toms-hardware-experts/"><u>In-Depth Gadget Analysis From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-valkyrie-syn-2naio-liquid-cooler-tested-top-notch-efficiency-and-a-call-for-software-enhancement/"><u>The Valkyrie Syn 2nAIO Liquid Cooler Tested: Top-Notch Efficiency and a Call for Software Enhancement</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-computer-hardware-reviews/"><u>Tom's Tech Insights: In-Depth Computer Hardware Reviews</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-mastering-the-art-of-audio-enhancement-in-digital-media-creation/"><u>Updated In 2024, Mastering the Art of Audio Enhancement in Digital Media Creation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-top-rated-5-web-videography-editing-suites/"><u>[New] In 2024, Top-Rated 5 Web Videography Editing Suites</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-crafting-memories-a-complete-guide-to-the-top-6-minecraft-recordings-techniques-for-2024/"><u>[Updated] Crafting Memories A Complete Guide to the Top 6 Minecraft Recordings Techniques for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-streamlined-screen-recording-on-mac-best-apps-of-choice/"><u>[Updated] In 2024, Streamlined Screen Recording on Mac Best Apps of Choice</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-best-tools-in-magix-video-pro-x-for-editors-for-2024/"><u>[Updated] The Best Tools in Magix Video Pro X for Editors for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-mastering-the-art-of-visual-flow-with-kinemaster/"><u>2024 Approved Mastering the Art of Visual Flow with Kinemaster</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-down-asuss-revolutionary-new-wireless-speed-monarch-the-rt-be96u/"><u>Breaking Down Asus's Revolutionary New Wireless Speed Monarch: The RT-BE96U</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/education/"><u>Education</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-nzxt-h7-flow-sticking-with-the-classics/"><u>Evaluating the NZXT H7 FLow - Sticking with the Classics</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-infinix-note-30-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Infinix Note 30 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-inside-the-world-of-facetune-a-comprehensive-photography-tool/"><u>In 2024, Inside the World of Facetune A Comprehensive Photography Tool</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/substance-related-behaviors-leading-to-increased-exposure/"><u>Substance-Related Behaviors Leading to Increased Exposure</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-curve-only-and-mixed-screen-4k-gaming-monitors-of-2024-high-refresh-rate-at-144hz-included-for-optimal-performance/"><u>The Best Curve-Only and Mixed Screen 4K Gaming Monitors of 2024, High Refresh Rate at 144Hz Included for Optimal Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-world-of-toms-hardware-insights-into-cutting-edge-computing-tools/"><u>The World of Tom's Hardware: Insights Into Cutting-Edge Computing Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-gaming-systems-in-2/"><u>Top Rated Gaming Systems in 2</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-tech-secrets-with-toms-comprehensive-hardware-analysis/"><u>Unveiling High-Tech Secrets with Tom's Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-and-hardware-with-toms-insights/"><u>Unveiling the Latest Gadgets and Hardware with Tom's Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-hardware-with-tom-expert-insights-and-tips/"><u>Unveiling the Latest in Computer Hardware with Tom - Expert Insights and Tips</u></a></li>
 </ul></div>
 

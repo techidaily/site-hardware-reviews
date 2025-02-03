@@ -1,7 +1,7 @@
 ---
 title: "Unlock Steep Discounts on the HP Victus 15: Prime Day Exclusive at Just $515 From Best Buy – ZDNet's Guide!"
-date: 2025-01-19T16:11:24.987Z
-updated: 2025-01-24T22:16:22.028Z
+date: 2025-01-25T16:52:47.471Z
+updated: 2025-02-01T16:52:55.123Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,18 +63,16 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-your-comprehensive-manual-for-creating-an-accessible-and-effective-chat-room-within-skype-compatible-with-both-windows-and-macos-platforms-for-2024./"><u>[Updated] Your Comprehensive Manual for Creating an Accessible and Effective Chat Room Within Skype, Compatible with Both Windows & MacOS Platforms for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-how-to-record-gameplay-with-fbx-game-recorder/"><u>2024 Approved How To Record Gameplay With FBX Game Recorder</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-tech-reviews-and-guides-by-toms-hardware-gurus/"><u>Cutting-Edge Tech Reviews and Guides by Tom's Hardware Gurus</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/deep-discount-on-samsungs-odyssey-g9-49-oled-curved-masterpiece-now-more-affordable-than-ever/"><u>Deep Discount on Samsung's Odyssey G9: 49 OLED Curved Masterpiece Now More Affordable Than Ever</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-gear-with-toms-tech-evaluations/"><u>Discover Cutting-Edge Gear with Tom's Tech Evaluations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-future-with-samsungs-latest-upgrade-to-odyssey-and-view-series-now-infused-with-advanced-ai-tech/"><u>Discover the Future with Samsung's Latest Upgrade to Odyssey and View Series - Now Infused with Advanced AI Tech!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-a-guide-by-toms-hardware-experts/"><u>Exploring the Latest in Tech: A Guide by Tom's Hardware Experts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gadget-gurus-review-roundup-comparing-top-tier-electronic-enhancements/"><u>Gadget Gurus' Review Roundup: Comparing Top-Tier Electronic Enhancements</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-mp3-cutter-for-mac-which-is-the-best-mp3-cutter-on-mac/"><u>New MP3 Cutter for Mac - Which Is the Best MP3 Cutter on Mac?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/techniques-for-gradual-mix-adjustments-in-pro-tools-for-2024/"><u>Techniques for Gradual Mix Adjustments in Pro Tools for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-definitive-guide-to-the-owc-mercury-pro-premium-quality-for-peak-performance/"><u>The Definitive Guide to the OWC Mercury Pro: Premium Quality for Peak Performance</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ditessence-system/"><u>[New] EditEssence System</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-elevate-video-appeal-crafting-unforgettable-thumbnail-images/"><u>[Updated] 2024 Approved Elevate Video Appeal Crafting Unforgettable Thumbnail Images</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-technology-evaluations-by-toms-hardware-experts/"><u>Advanced Technology Evaluations by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/all-about-tech-in-depth-analysis-from-tomhemline-of-hardware/"><u>All About Tech: In-Depth Analysis From Tom'hemline of Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-9000-mastery-discover-asrocks-groundbreaking-motherboard-selection/"><u>AMD Ryzen 9000 Mastery: Discover ASRock's Groundbreaking Motherboard Selection</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-honor-play-8t-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Honor Play 8T Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-webm-viewers-the-ultimate-comparison-of-options/"><u>In 2024, Free WebM Viewers The Ultimate Comparison of Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-mastering-the-art-of-viral-videos-1mplus-audience-journey/"><u>In 2024, Mastering the Art of Viral Videos 1M+ Audience Journey</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862869889-intel-unveils-lga18n-socket-innovation-for-enhanced-chip-thermal-management-no-more-reduced-load-ilm-necessity/"><u>Intel Unveils LGA18n Socket Innovation for Enhanced Chip Thermal Management - No More Reduced Load ILM Necessity</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/seamless-transition-moving-your-blackberry-contacts-to-an-iphone-6-or-iphone-5s/"><u>Seamless Transition: Moving Your BlackBerry Contacts to an iPhone 6 or iPhone 5S</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-xr-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone XR without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Save Big on Cyber Monday: Unveiling the Ultimate List of 2022'S Best Offers | Featured"
-date: 2025-01-19T16:36:29.492Z
-updated: 2025-01-24T18:55:08.071Z
+date: 2025-01-29T17:07:02.268Z
+updated: 2025-02-01T16:42:07.103Z
 tags:
   - laptops
 categories:
@@ -48,6 +48,10 @@ Please refer to the table of contents to quickly navigate our categories**.**
 * [Beats Solo3 wireless headphones](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbeats-by-dr-dre-solo-the-beats-icon-collection-wireless-on-ear-headphones-matte-black%2F6383124.p%3FskuId%3D6383124&publisher_slug=itechdaily19598&exclusive=1) for $130 (save $70) at Best Buy
 * [Fire HD 10 tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08XMBMW3H%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf3826361-77a2-4798-85d6-2f1623f93359%7Cdtp&dtb=1) for $220 (save $50) at Amazon
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Best Cyber Monday TV deals**
 
 Whether you're buying your first TV or upgrading your home theater, these awesome Cyber Monday deals make it more affordable than ever. Brands like Samsung, Sony, LG, and TCL have great discounts on already budget-friendly models as well as high-end TVs for shoppers looking for premium features like OLED panels and virtual surround sound. 
@@ -70,6 +74,10 @@ LG
 * [Westinghouse 24-inch smart Roku TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fwestinghouse-24-hd-smart-roku-tv%2F6488966.p%3FskuId%3D6488966&publisher_slug=itechdaily19598&exclusive=1) for $90 (save $70) at Best Buy
 * [Toshiba 65-inch smart Fire TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ftoshiba-65-class-c350-series-led-4k-uhd-smart-fire-tv%2F6458646.p%3FskuId%3D6458646&publisher_slug=itechdaily19598&exclusive=1) for $430 (save $170) at Best Buy
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Best Cyber Monday laptop deals**
 
 It's November, which, among other things, means Black Friday and Cyber Monday deals and discounts on laptops of all kinds from retailers and laptop manufacturers. Black Friday started weeks ago, so the sales engine has long been up and running. There are some excellent deals to be had throughout the month. ZDNET is rounding up its top picks for the best laptop deals. 
@@ -91,7 +99,7 @@ Best Buy
 * [HP Pavilion Laptop 15t-eg200](https://www.anrdoezrs.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-pavilion-laptop-15t-eg200-6m7m8av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $700 (save $320) at HP
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday tablet deals**
@@ -132,6 +140,10 @@ Image: Best Buy
 * [LG UltraGear 34" Nano IPS Curved 21:9 Monitor](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-ultragear-34-nano-ips-curved-219-wqhd-g-sync-ultimate-monitor-with-vesa-displayhdr-600-hdmi-displayport-usb-x2-black%2F6451084.p%3F&publisher_slug=itechdaily19598&exclusive=1) for $900 (save $400) at Best Buy
 * [ASUS TUF Gaming 27" Gaming Monitor](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-TUF-Gaming-27-LED-Gaming-Monitor-1080P-Full-HD-165Hz-Supports-144Hz-IPS-1ms%2F1544229980&subId1=zd-__COM_CLICK_ID__-dtp) for $159 (save $140) at Walmart
 * [HP V223ve FHD Monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-V223ve-21-5-inch-certified-Ergonomic%2Fdp%2FB09GKZ71PJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf3826361-77a2-4798-85d6-2f1623f93359%7Cdtp&dtb=1) for $105 (save $145) at Amazon
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Best Cyber Monday home deals**
 
@@ -185,10 +197,6 @@ Sony
 * [Sony WH-CH510 wireless headphones](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSony-WH-CH510-Wireless-Headphones-WHCH510%2Fdp%2FB07WSKKYPR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf3826361-77a2-4798-85d6-2f1623f93359%7Cdtp&dtb=1) for $38 (save $22) at Amazon
 * [Beats Fit Pro](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbeats-by-dr-dre-beats-fit-pro-true-wireless-noise-cancelling-in-ear-earbuds-black%2F6397391.p%3F&publisher_slug=itechdaily19598&exclusive=1) for $180 (save $20) at Best Buy
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Best Cyber Monday smartphone deals**
 
 If you held off on upgrading your smartphone until the holiday shopping season, your patience is finally being rewarded. These are the best Black Friday deals that will save you hundreds on prime-time handsets. We've scoured the digital catalogs of the most popular retailers to gather the best mobile deals below. Read on and start saving. 
@@ -203,7 +211,7 @@ Samsung
 * [Google Pixel 6a](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-6a-Smartphone-Megapixel%2Fdp%2FB0B3PQPNKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf3826361-77a2-4798-85d6-2f1623f93359%7Cdtp&dtb=1) for $360 (save $89) at Amazon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday smartwatch deals**
@@ -242,10 +250,6 @@ Target
 * [LG 2.1- Channel Soundbar](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-2-1-channel-soundbar-with-wireless-subwoofer-and-dts-virtualx-black%2F6479130.p%3F&publisher_slug=itechdaily19598&exclusive=1) for $119 (save $160) at Best Buy
 * [JBL PartyBox 100 High Power Portable Wireless Bluetooth Speaker](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FJBL-PartyBox-100-High-Power-Portable-Wireless-Bluetooth-Speaker-Black%2F691892469%3F&subId1=zd-__COM_CLICK_ID__-dtp) for $199 (save $100) at Walmart
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **More Cyber Monday tech deals**
 
 OK, here's all the other random -- but still cool -- tech we found on sale. 
@@ -283,7 +287,7 @@ We've shopped online just as much as you, but we're experts at finding tech deal
 **\*** Except for Apple products and other devices that seldom go on sale.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When was Black Friday 2022?
@@ -302,10 +306,6 @@ ZDNET scoured Cyber Monday sales to find the best deals this year, and many are 
 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Cyber Monday deals still available by retailer**
 
 * [The best Cyber Monday 2022 deals at Amazon](https://www.zdnet.com/article/amazon-cyber-monday-deals-still-available-november-30-2022/)
@@ -321,6 +321,10 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best Cyber Monday 2022 Samsung deals](https://www.zdnet.com/article/samsung-cyber-monday-deals-still-available-november-30-2022/)
 * [The best Cyber Monday 2022 Dell deals](http://zdnet.com/article/dell-cyber-monday-deals-still-available-november-30-2022/)
 * [The best Cyber Monday 2022 HP deals](https://www.zdnet.com/home-and-office/hp-cyber-monday-deals-still-available-november-30-2022/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Cyber Monday deals still available by category**
 
@@ -347,10 +351,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
  Here are some of the cheapest deals we found that are still available:
 
 * [The best Cyber Monday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-cyber-monday-deals-under-30-still-available-november-30-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
 
@@ -398,14 +398,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-secure-storage-system-5-ways-to-upload-files/"><u>[New] In 2024, Secure Storage System 5 Ways to Upload Files</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-iphone-x876-owners-must-have-gif-apps-guide/"><u>[New] IPhone X/8/7/6 Owners' Must-Have GIF Apps Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-spys-guide-to-unearthing-hidden-youtube-videos/"><u>[Updated] The Spy's Guide to Unearthing Hidden YouTube Videos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/from-simple-reader-to-multi-functional-display-repurpose-your-kindle-with-these-steps-from-devrepo/"><u>From Simple Reader to Multi-Functional Display: Repurpose Your Kindle with These Steps From DevRepo</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gigabytes-ultrawide-49-inch-aorus-oled-monitor-for-gamers-price-slashed-to-a-record-low-of-969/"><u>Gigabyte's Ultrawide 49-Inch Aorus OLED Monitor for Gamers - Price Slashed to a Record Low of $969</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/high-quality-24-dell-monitor-with-freesync-functionality-just-for-99/"><u>High-Quality 24 Dell Monitor With FreeSync Functionality - Just for $99</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-3-ways-to-record-lectures-on-mac/"><u>In 2024, 3 Ways to Record Lectures on Mac</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-hardware-toms-authoritative-articles/"><u>Inside the World of Hardware: Tom's Authoritative Articles</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-m-audio-fast-track-driver-download-supports-windows-10-7-8-and-81/"><u>Latest M-Audio Fast Track Driver Download - Supports Windows 10, 7, 8 & 8.1</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-setting-up-a-facebook-donation-challenge/"><u>[New] Setting Up a Facebook Donation Challenge</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-quick-reference-for-mac-writers-obsplusstreamlabs/"><u>[New] The Ultimate Quick Reference for Mac' Writers OBS+Streamlabs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-guffaw-generation-generating-7-hilarious-video-moments-online/"><u>2024 Approved Guffaw Generation Generating 7 Hilarious Video Moments Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-complete-lowdown-on-using-showmores-recorder/"><u>2024 Approved The Complete Lowdown on Using ShowMore's Recorder</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/addressing-the-problem-how-msi-is-fixing-the-heat-sink-design-error-in-new-z790-motherboards/"><u>Addressing the Problem: How MSI Is Fixing the Heat Sink Design Error in New Z790 Motherboards</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-motorola-edge-2023-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Motorola Edge 2023 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/expert-techniques-for-removing-audio-disturbances/"><u>Expert Techniques for Removing Audio Disturbances</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/future-tech-uncovered-the-upcoming-line-of-certified-msi-z890-and-b860-boards-engineered-for-the-anticipated-intel-arrow-lake-s-chip-sneak-peek-before-compu82/"><u>Future Tech Uncovered: The Upcoming Line of Certified MSI Z890 & B860 Boards Engineered for the Anticipated Intel Arrow Lake-S Chip - Sneak Peek Before Computex 2024 Showcase</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862868318-how-much-will-you-pay-for-elite-gaming-the-declassified-x670e-by-evga-demands-over-1300/"><u>How Much Will You Pay for Elite Gaming? The Declassified X670E by EVGA Demands Over $1,300!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-content-discovery-the-tubebuddy-way/"><u>In 2024, Elevate Content Discovery The TubeBuddy Way</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-efficiency-with-frores-freeze-intro-trio-airjet-pak-coolers-engineered-for-edge-ai-up-to-25w/"><u>Maximize Efficiency with Frore's Freeze Intro Trio: AirJet PAK Coolers Engineered for Edge AI Up to 25W</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862867060-maxsun-debuts-backside-gpu-placement-on-their-latest-mini-itx-motherboard-a-game-changer/"><u>MaxSun Debuts Backside GPU Placement on Their Latest Mini-ITX Motherboard: A Game Changer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-through-technology-with-tom-the-hardware-guide/"><u>Navigate Through Technology with Tom: The Hardware Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pixel-watch-3-rumors-revealed-speculated-costs-launch-dates-and-what-we-expect-from-its-tech-specs/"><u>Pixel Watch 3 Rumors Revealed: Speculated Costs, Launch Dates & What We Expect From Its Tech Specs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-buyers-guide-to-electronics-expertise-from-toms-hardware/"><u>The Ultimate Buyer's Guide to Electronics: Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-gear-the-ultimate-guide/"><u>Tom's Computer Gear: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-insights-and-analysis-t17238628805655/"><u>Tom's Tech Reviews: In-Depth Insights and Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gigabytes-high-end-ice-sports-design-golden-socketed-intel-z790-aorus-xtreme-x-motherboard-featuring-colossal-m2-cooling/"><u>Unveiling Gigabyte's High-End Ice Sports Design: Golden Socketed Intel Z790 Aorus Xtreme X Motherboard Featuring Colossal M.2 Cooling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-ultimate-action-cam-max-360-vs-hero-11-gopro-showdown-for-2024/"><u>Unveiling the Ultimate Action Cam Max 360 vs Hero 11 GoPro Showdown for 2024</u></a></li>
 </ul></div>
 

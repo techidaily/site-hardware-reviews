@@ -1,7 +1,7 @@
 ---
 title: "Inside Insight: A Google Worker's Perspective on Finding Happiness in a MacBook Over Traditional Windows Laptops Analysis"
-date: 2025-01-21T16:59:58.729Z
-updated: 2025-01-24T23:46:54.020Z
+date: 2025-01-25T16:55:59.809Z
+updated: 2025-02-01T16:09:12.625Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,24 +218,18 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/approved-profit-peaks-techniques-to-maximize-revenue-from-mobile-youtube-content/"><u>2024 Approved Profit Peaks Techniques to Maximize Revenue From Mobile YouTube Content</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-technology-masterful-tips-from-toms-experts-in-hardware/"><u>Decoding Technology: Masterful Tips From Tom’s Experts in Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/diving-into-hardware-with-toms-technology-reviews/"><u>Diving Into Hardware with Tom's Technology Reviews</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/eliminate-high-ping-expert-strategies-for-a-smoother-counter-strike-2-experience/"><u>Eliminate High Ping: Expert Strategies for a Smoother Counter-Strike 2 Experience</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhancing-tiktok-video-viewership-through-zoom/"><u>Enhancing TikTok Video Viewership Through Zoom</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expertly-curated-list-fastest-and-most-reliable-cable-modems-in-202n4/"><u>Expertly Curated List: Fastest and Most Reliable Cable Modems in 202N4</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-technology-with-toms-hardware-guides/"><u>Exploring the Latest in Technology with Tom's Hardware Guides</u></a></li>
-<li><a href="https://fox-links.techidaily.com/how-to-add-crop-and-edit-music-to-canva-video-in-2024/"><u>How To Add, Crop And Edit Music To Canva Video, In 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-xr-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone XR | Stellar</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/join-the-live-revolution-fb-streaming-tips/"><u>Join the Live Revolution FB Streaming Tips</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Life360 Learn How Everything Works On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-a-non-responsive-microsoft-store/"><u>Resolved: How to Fix a Non-Responsive Microsoft Store</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-on-electronics-toms-hardware-insights/"><u>The Ultimate Resource on Electronics - Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-equipment-mastery-in-depth-analysis-for-savvy-gamers-and-builders/"><u>Tom's Equipment Mastery: In-Depth Analysis for Savvy Gamers and Builders</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-gadgets/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-features-gigabytes-b760m-ds3h-ax-micro-atx-motherboard-for-beginners-and-multi-screen-lovers/"><u>Unveiling the Features: Gigabyte's B760M DS3H AX Micro ATX Motherboard for Beginners and Multi-Screen Lovers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-hardware-with-toms-expertise/"><u>Unveiling the Latest in Computer Hardware with Tom's Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/valkyrie-syn-240-aio-pc-chiller-review-exceptional-heat-dispersion-compromised-by-unrefined-user-interface/"><u>Valkyrie Syn 240 AIO PC Chiller Review – Exceptional Heat Dispersion Compromised by Unrefined User Interface</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-tecno-spark-go-2023-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Tecno Spark Go (2023) Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-free-mp4-screen-capture-toolkit-released-for-2024/"><u>[Updated] Free MP4 Screen Capture Toolkit Released for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-screening-your-gaming-a-nintendo-switch-tutorial/"><u>[Updated] Screening Your Gaming A Nintendo Switch Tutorial</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-shh-9-secrets-of-simple-stock-editing/"><u>2024 Approved Shh! 9 Secrets of Simple Stock Editing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016052715-end-your-listening-discomfort-eliminate-headphone-static-now/"><u>End Your Listening Discomfort - Eliminate Headphone Static Now</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-systems-the-ultimate-guide-to-pc-hardware/"><u>Exploring Tom's Systems: The Ultimate Guide to PC Hardware</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-unleashing-potential-advanced-tiktok-visual-enhancements/"><u>In 2024, Unleashing Potential Advanced TikTok Visual Enhancements</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-reviews-and-analysis-by-toms-hardware-experts/"><u>Innovative Tech Reviews and Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-hardware-tips-and-reviews-by-tom/"><u>Navigating the World of Hardware - Tips & Reviews by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reaching-new-heights-a-comprehensive-review-of-crucial-pro-6000-series-ddr5-memory-for-advanced-system-tuning-and-performance-optimization/"><u>Reaching New Heights: A Comprehensive Review of Crucial Pro 6000 Series DDR5 Memory for Advanced System Tuning and Performance Optimization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-power-control-disruption-due-to-deceptive-windows-apps/"><u>Tackling Power Control Disruption Due to Deceptive Windows Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-performance-analysis-the-6tb-version-of-the-western-digital-my-passport/"><u>Top-Performance Analysis: The 6TB Version of the Western Digital My Passport</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-potential-of-qhd-gaming-with-asus-rog-strix-xg27acs-a-review-on-its-precision-and-adaptive-performance-at-180hz/"><u>Unlocking the Potential of QHD Gaming with Asus ROG Strix XG27ACS – A Review on Its Precision and Adaptive Performance at 180Hz</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/utilizing-volume-decrease-effects-within-audacity-for-2024/"><u>Utilizing Volume Decrease Effects Within Audacity for 2024</u></a></li>
 </ul></div>
 

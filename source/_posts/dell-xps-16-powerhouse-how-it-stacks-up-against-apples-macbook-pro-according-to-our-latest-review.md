@@ -1,7 +1,7 @@
 ---
 title: Dell XPS 16 Powerhouse - How It Stacks Up Against Apple's MacBook Pro, According To Our Latest Review
-date: 2025-01-21T23:45:28.333Z
-updated: 2025-01-24T16:23:44.300Z
+date: 2025-01-27T18:29:03.804Z
+updated: 2025-02-01T16:57:33.123Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ The right laptop can make a world of difference. This applies to everyone, wheth
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best laptop for video editing right now?
 
@@ -44,10 +40,6 @@ Cons
 * Expensive
 
 ## Apple MacBook Pro 16 (2023)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best laptop for video editing overall
 
@@ -136,10 +128,6 @@ Cons
 * Short battery life
 * Pricey
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Acer Swift X 14
 
 ### Best 14-inch video editing laptop
@@ -192,13 +180,13 @@ Show less
 [View now at Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Frd.bizrate.com%2Frd%3Ft%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fen%252Fp%252Flaptops%252Fyoga%252Fyoga-2-in-1-series%252Flenovo-yoga-book-9i-gen-9-%252813-inch-intel%2529%252F83ff0001us%253Fcid%253Dus%253Acse%253Aqza7ob%2526source%253Dconnexity%2526channel%253Dcse%2526adcampaign%253DCSE%255FConnexitycon%2526cnxclid%253DSZ%255FREDIRECT%255FID%2526szredirectid%253DSZ%255FREDIRECT%255FID%26mid%3D844%26cat%255Fid%3D462%26atom%3D10039%26prod%255Fid%3D%26oid%3D29220212237%26pos%3D1%26b%255Fid%3D18%26bid%255Ftype%3D2%26bamt%3Dcfbf9532e1e82faa%26cobrand%3D1%26ppr%3D0c40b9abcd330128%26a%3D96e7a9cf999378f822a4881bee3cdda9%26rf%3Daf1%26af%255Fassettype%255Fid%3D12%26af%255Fcreative%255Fid%3D2973%26af%255Fid%3D614548%26af%255Fplacement%255Fid%3D1%26dv%3Dcfc96ee0731c8b3023832f04e366e7f71078ff532f4c0bb6)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Lenovo Yoga Book 9i
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best dual-screen laptop
@@ -257,7 +245,15 @@ Cons
 * Hefty
 * Short battery life
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Alienware m16 R2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best gaming laptop for video editing
 
@@ -274,7 +270,7 @@ There is more to the m16 R2 besides its looks. It's a powerful machine with an I
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best video editing laptop?
@@ -309,10 +305,6 @@ Below is a table briefly explaining each recommendation and why you should get t
 | Acer Aspire 5                               | The best budget laptop for video editing. The Aspire 5 offers a lot of bang for its buck with its GeForce RTX GPU, Full HD Plus screen, and wide array of ports.    |
 | Alienware m16 R2                            | The best gaming laptop for video editing. It houses powerful hardware and fits right at the office thanks to Stealth Mode.                                          |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing a video editing laptop
 
 When picking out the best laptop for video editing, there are multiple factors to consider. The selections we made on the list were made with them in mind. For our evaluation, we weighed the following aspects:
@@ -322,15 +314,15 @@ When picking out the best laptop for video editing, there are multiple factors t
 * **Graphics:** When shopping for a laptop, it is recommended that you choose a model with a dedicated graphics card rather than an integrated one. The former can better handle tough workloads because it won't be sharing power with the CPU. It has its power supply, allowing it to direct its resources to its processes.
 * **Display:** You will need a high-quality display for video editing. Professionals have to be able to tell how good (or bad) the footage looks, its color output, and the finer details. Sizes can vary from model to model. Some, like the Strix SCAR 17, have a 17-inch screen, while others are a bit smaller at 14 inches. Big screens are ideal for showing off details, while small screens make the laptop easier to carry around.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test laptops
 
 ZDNET receives a lot of laptops to review, and honestly, many of them could've made the list. To separate the best from the rest, we follow the criteria mentioned in the previous question: which ones have the nicest displays, the best performance, et cetera. At first, the laptop is tested casually: surf the internet, watch videos, download apps, and work on them just to get a feel for them. From there, we run more labor-intensive apps and perform benchmark tests to see what the hardware is capable of.
 
 Once all the testing is complete, the best of the best are sorted and placed on the list. It can be tricky picking the premiere options. Some, like the MacBook Pro, are a no-brainer because it is such a good machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best brands for the best video editing laptops?
 
@@ -339,7 +331,7 @@ Apple consistently makes some of the best video editing laptops as the company e
 Lenovo's Yoga Book 9i, for example, is great if you want a dual-monitor setup, but don't want to purchase a desktop. People on a budget will go for the Acer Aspire 5 or some other low-cost editing laptop. Simlarly, users who want a machine that double as a solid entertainment device should go for the Alienware m16 R2\. See, it all depends on what someone is looking for. This isn't a one-size-fits-all scenario.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What laptop do YouTubers use to edit?
@@ -356,6 +348,10 @@ Be prepared to shell out a significant amount of cash for one. The most expensiv
 
 The one thing we stress is that your make sure whatever laptop you plan on buying meets your needs. There's no point in buying an expensive laptop that'll disappoint you or you purchase something with features you don't ever use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is 16GB RAM enough for video editing?
 
 16GB of memory is an okay amount for video editing. That's fine for 4K resolution videos so long as you don't have a lot of apps running in the background. However, if you plan on having heavy workloads, you're going to need more. 16GB is not going to cut it. Instead, we recommend buying a laptop with at least 32GB of RAM.
@@ -363,12 +359,16 @@ The one thing we stress is that your make sure whatever laptop you plan on buyin
 Think of that amount as the golden standard for video editing. 32GB allows you edit all kinds of files and work with longer videos. Of course, more is better. 64GB of memory lets you run multiple apps in the background and tackle 8K footage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How big should my SSD be for video editing?
 
 You should, at the very least, have a laptop with 256GB of storage space. Uncompressed video footage and audio files can take up a lot of room on a computer so you'll need as much space as possible. Ideally, it's best to have a 1TB SSD. That's a good amount, but of course, if you can afford more, get the bigger storage space: 2TB, 3TB, whatever.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When do laptops go on sale?
 
@@ -424,20 +424,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-guide-to-supercharged-video-engagement-with-youtube-notes/"><u>[New] Guide to Supercharged Video Engagement with YouTube Notes</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-elevate-your-downloads-to-4k-heaven-with-top-apps/"><u>[New] In 2024, Elevate Your Downloads to 4K Heaven with Top Apps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-navigating-online-hostility-on-video-platforms/"><u>[New] In 2024, Navigating Online Hostility on Video Platforms</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/geekworm-x1011-nas-rack-review-a-detailed-assessment/"><u>GeekWorm X1011 NAS Rack Review - A Detailed Assessment</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/gopro-match-made-in-heaven-camera-showdowns/"><u>GoPro Match Made in Heaven Camera Showdowns</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-infinix-zero-30-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Zero 30 5G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/id-coolings-frozn-a620-pro-se-review-unveiling-premium-efficiency-and-cost-effectiveness-in-cooling-solutions/"><u>ID-Cooling's Frozn A620 Pro SE Review - Unveiling Premium Efficiency and Cost-Effectiveness in Cooling Solutions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-chortlecraft-customize-funny-digital-images/"><u>In 2024, ChortleCraft Customize Funny Digital Images</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-motorola-moto-g13-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Motorola Moto G13 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/maximize-your-tech-investments-smart-picks-from-toms-hardware-critics/"><u>Maximize Your Tech Investments: Smart Picks From Tom’s Hardware Critics</u></a></li>
-<li><a href="https://games-able.techidaily.com/reviving-your-console-link-fixing-the-controller-windows/"><u>Reviving Your Console Link: Fixing the Controller (Windows)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-pc-parts-by-toms-hardware-experts/"><u>The Ultimate Guide to PC Parts by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-the-latest-computer-gear/"><u>Tom's Tech Reviews: Expert Insights on the Latest Computer Gear</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/top-8-undercover-video-downloader-apps-of-the-year/"><u>Top 8 Undercover Video Downloader Apps of the Year</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-network-potential-in-depth-look-at-the-asus-rog-rapture-gt-be98-wi-fi-routers-elite-capabilities-and-expandability/"><u>Unleash Network Potential: In-Depth Look at the Asus ROG Rapture GT-BE98 Wi-Fi Router's Elite Capabilities and Expandability</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-game-ahead-the-ultimate-list-of-premier-gba-emulator-programs/"><u>[New] In 2024, Game Ahead The Ultimate List of Premier GBA Emulator Programs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-crafting-sections-in-vimeo-videos/"><u>[Updated] 2024 Approved Crafting Sections in Vimeo Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-beginners-blueprint-to-effective-use-of-aiseesoft-recorder/"><u>[Updated] In 2024, Beginner's Blueprint to Effective Use of Aiseesoft Recorder</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-secrets-of-professionals-mastering-video-recordingediting-with-adobe-connect/"><u>[Updated] Secrets of Professionals Mastering Video Recording/Editing with Adobe Connect</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/cdmp3-windows1110macos/"><u>無料ソフトウェアを使ってCDからMP3への簡単な変換ガイド - Windows11・10、macOS両方用</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-computer-components-decoded-at-toms-hardware-source/"><u>Cutting-Edge Computer Components Decoded at Tom's Hardware Source</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-microsofts-surface-pro-stunning-hardware-meets-lackluster-artificer-intelligence-additions/"><u>Evaluating Microsoft's Surface Pro: Stunning Hardware Meets Lackluster Artificer Intelligence Additions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-narzo-n53-by-drfone-android/"><u>Full Guide to Unlock Your Realme Narzo N53</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-2023s-top-pick-of-affordable-live-stream-tech-for-every-platform-user/"><u>In 2024, 2023'S Top Pick of Affordable Live Stream Tech for Every Platform User</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-redefine-virtual-communication-innovative-tools-to-alter-your-skype-vocal-characteristics/"><u>New 2024 Approved Redefine Virtual Communication Innovative Tools to Alter Your Skype Vocal Characteristics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/raising-the-bar-for-gamers-a-detailed-review-of-the-revolutionary-pixio-px277-oled-max-monitor/"><u>Raising the Bar for Gamers: A Detailed Review of the Revolutionary Pixio PX277 OLED MAX Monitor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-dichotomy-of-design-and-function-in-the-valkyrie-vind-sl125-review-anime-meets-reality/"><u>The Dichotomy of Design & Function in the Valkyrie Vind SL125 Review - Anime Meets Reality</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209932263-9781250623478-the-toltec-way/"><u>The Toltec Way | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-pc-hardware-by-toms-knowledgeable-team/"><u>The Ultimate Guide to PC Hardware by Tom's Knowledgeable Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-technology-features-at-toms-hardware/"><u>Unveiling Cutting-Edge Technology Features at Tom's Hardware</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Regaining Access and Retrieving Files From Your Pre-Owned Laptop Without a Password - Tips & Tricks"
-date: 2025-01-23T22:43:12.886Z
-updated: 2025-01-25T01:46:19.846Z
+date: 2025-01-30T17:26:13.820Z
+updated: 2025-02-01T16:31:07.587Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,15 +118,18 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-tracking-youtubes-signature-interactions/"><u>[New] Tracking YouTube's Signature Interactions</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-silver-screen-to-verse-francophone-romance/"><u>From Silver Screen to Verse: Francophone Romance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-computer-world-a-deep-dive-into-the-latest-in-hardware-technology/"><u>Inside Tom’s Computer World: A Deep Dive Into the Latest in Hardware Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/insights-into-pc-hardware-by-experts-at-toms-hq/"><u>Insights Into PC Hardware by Experts at Tom's HQ</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-with-tom-insights-on-advanced-components-and-gadgets/"><u>Mastering Hardware with Tom: Insights on Advanced Components and Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-through-circuits-and-systems-at-toms-electronics-expo/"><u>Navigating Through Circuits and Systems at Tom's Electronics Expo</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/optimal-logitech-webcam-settings-for-professional-video-outputs-for-2024/"><u>Optimal Logitech Webcam Settings for Professional Video Outputs for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-adding-lines-in-microsoft-word/"><u>Step-by-Step Guide: Adding Lines in Microsoft Word</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-fundamentals-of-using-ffpm-in-firefox/"><u>The Fundamentals of Using FFPM in Firefox</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unleash-vibrant-canvas-cropping-adding-and-editing-sound-effectively-for-2024/"><u>Unleash Vibrant Canvas Cropping, Adding, & Editing Sound Effectively for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-definition-hardware-unveiled-by-gamers/"><u>[Updated] In 2024, High-Definition Hardware Unveiled by Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-logitech-g515-lightspeed-tkl-keyboard-evaluation-the-ultimate-compact-choice/"><u>Affordable Logitech G515 Lightspeed TKL Keyboard Evaluation: The Ultimate Compact Choice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-endurance-and-quiet-strength-in-the-asus-tuf-gaming-a14-series/"><u>Discovering Endurance and Quiet Strength in the Asus TUF Gaming A14 Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-pny-rp60-portable-ssd-good-quality-yet-unremarkable-features/"><u>Evaluating the PNY RP60 Portable SSD - Good Quality, Yet Unremarkable Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-the-ultimate-convenience-testing-the-latest-ampaque-andes-1500-power-bank/"><u>Experience the Ultimate Convenience: Testing the Latest Ampaque Andes 1500 Power Bank</u></a></li>
+<li><a href="https://solve-help.techidaily.com/how-to-enjoy-paddington-the-movie-on-any-screen-perfect-hd-conversion-from-2014-dvd-release/"><u>How to Enjoy Paddington the Movie on Any Screen - Perfect HD Conversion From 2014 DVD Release</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v30-lite-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V30 Lite 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-maximizing-movie-file-saving-6-methods-for-win-11/"><u>In 2024, Maximizing Movie File Saving 6 Methods for Win 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-level-visual-experience/"><u>Next-Level Visual Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-unresponsive-razer-barracuda-x-headset-microphone-on-windows-pcs/"><u>Step-by-Step Solution for Unresponsive Razer Barracuda X Headset Microphone on WIndows PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-gearheads-companion-inside-toms-hardware-wonders/"><u>The Gearhead's Companion: Inside Tom's Hardware Wonders</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-technology-secrets-at-toms-hardware-sanctuary/"><u>Unveiling Technology Secrets at Tom's Hardware Sanctuary</u></a></li>
+<li><a href="https://win11.techidaily.com/unwanted-rav-antivirus-installation-identify-and-unhook/"><u>Unwanted Rav Antivirus Installation - Identify & Unhook</u></a></li>
 </ul></div>
 

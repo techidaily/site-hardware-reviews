@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Guide to Purchasing Superior Electronic Notebooks – Authoritative Assessments | CNET
-date: 2025-01-21T16:04:07.889Z
-updated: 2025-01-24T18:38:28.720Z
+date: 2025-01-26T18:16:59.683Z
+updated: 2025-02-01T16:11:14.834Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,22 +112,18 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-quintessential-scores-in-8-distinct-movie-spheres/"><u>[New] Quintessential Scores in 8 Distinct Movie Spheres</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unparalleled-hands-on-gear-in-the-vr-world/"><u>[New] Unparalleled Hands-On Gear in the VR World</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/conquering-windows-11s-blue-screen-errors-tutorial/"><u>Conquering Windows 11'S Blue Screen Errors: Tutorial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722897717620-explore-the-ultimate-film-guide-11-uplifting-cinema-hits-for-a-positive-vibe/"><u>Explore the Ultimate Film Guide: 11 Uplifting Cinema Hits for a Positive Vibe</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-hostingers-web-hosting-offerings-from-vps-to-shared-services/"><u>Exploring Hostinger’s Web Hosting Offerings: From VPS to Shared Services</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-insightful-reviews-on-asus-rog-azoth-extreme-perfect-gaming-rig-under-500/"><u>Get Insightful Reviews on Asus ROG Azoth Extreme - Perfect Gaming Rig Under $500</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-x50iplus-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor X50i+</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From Apple iPhone 12 Pro Max?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/mastering-ram-management-in-minecraft/"><u>Mastering RAM Management in Minecraft</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-knowledge-top-picks-from-toms-hardware/"><u>Mastering Your Tech Knowledge: Top Picks From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-reviews-by-tom-a-trusted-source-for-gadget-enthusiasts/"><u>Pioneering Reviews by Tom: A Trusted Source for Gadget Enthusiasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-insights-on-levelplays-combat-air-ca4-cooler-efficient-and-noise-free-operation-for-your-pc/"><u>Review Insights on Levelplay's Combat Air CA4 Cooler - Efficient and Noise-Free Operation for Your PC</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-corner-unraveling-the-latest-in-computer-components/"><u>Tom's Tech Corner: Unraveling the Latest in Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/triple-display-capabilities-expert-review-of-the-gigabyte-b760m-ds3h-ax-micro-atx-motherboard-for-budget-builds/"><u>Triple Display Capabilities: Expert Review of the Gigabyte B760M DS3H AX Micro ATX Motherboard for Budget Builds</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-computer-wonders-at-toms-hardware-haven/"><u>Unveiling Computer Wonders at Tom's Hardware Haven</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-dvd-conversion-guide-from-disc-to-digital/"><u>Updated The Ultimate DVD Conversion Guide From Disc to Digital</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-elevate-your-hp-experience-with-these-4-screen-record-methods-for-2024/"><u>[New] Elevate Your HP Experience with These 4 Screen Record Methods for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-intriguing-world-of-whole-sphere-videos/"><u>2024 Approved The Intriguing World of Whole Sphere Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722205835780-chatgpts-desktop-version-still-coming-no-problem-try-these-powerful-open-source-apps-instead/"><u>ChatGPT's Desktop Version Still Coming? No Problem – Try These Powerful Open Source Apps Instead</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-hardware-with-tom-gear-guides-and-tips/"><u>Exploring Computer Hardware with Tom: Gear Guides and Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-innovations-at-toms-tech-hub/"><u>Exploring the Latest Innovations at Tom's Tech Hub</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-optimal-youtube-playback-adjusting-speed-settings/"><u>In 2024, Optimal YouTube Playback Adjusting Speed Settings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-computing-world-top-picks-in-hardware-and-software/"><u>Inside Tom’s Computing World: Top Picks in Hardware and Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-adol-book-asus-latest-innovation-a-laptop-with-built-in-scent-technology/"><u>Introducing the Adol Book: Asus' Latest Innovation - A Laptop with Built-In Scent Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lenovo-thinks-bigger-with-thinkpad-p1-gen-7-the-ultimate-gaming-and-work-machine-sporting-the-latest-lpcamm2-memory-for-superior-performance-in-a-compact-fo33/"><u>Lenovo Thinks Bigger With ThinkPad P1 Gen 7 - The Ultimate Gaming & Work Machine Sporting the Latest LPCAMM2 Memory for Superior Performance in a Compact Form</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigate-and-dominate-with-youtube-studios-advanced-editing-features/"><u>Navigate and Dominate with YouTube Studio's Advanced Editing Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-hardware-tips-and-reviews-by-tomhardware/"><u>Navigating the World of Computer Hardware: Tips & Reviews by TomHardware</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-webm-video-editing-made-easy-top-10-free-tools/"><u>New 2024 Approved WebM Video Editing Made Easy Top 10 Free Tools</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-often-feel-fascinated-to-try-hands-at-anime-character-design-to-spark-up-your-editing-skills-or-just-for-a-fun-filled-activity-/"><u>Updated 2024 Approved Do You Often Feel Fascinated to Try Hands at Anime Character Design to Spark up Your Editing Skills, or Just for a Fun-Filled Activity? Stay Here for the Best Inspirations You Can Ever Get</u></a></li>
 </ul></div>
 

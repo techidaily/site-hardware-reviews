@@ -1,7 +1,7 @@
 ---
 title: Top 23 Amazing Labor Day Blowout Discounts on Computers - Active Offers at ZDNet
-date: 2025-01-18T23:28:40.131Z
-updated: 2025-01-24T22:53:23.069Z
+date: 2025-01-25T17:45:22.288Z
+updated: 2025-02-01T16:33:35.919Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ Brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-day-sam
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day gaming deals
 
@@ -103,6 +99,10 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 gaming deals
 
 ZDNET
@@ -118,10 +118,6 @@ ZDNET
 * [Samsung T9 4TB portable SSD for $300 (save $250)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-Professionals-MU-PG4T0B-AM%2Fdp%2FB0CHFSZX9W%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb662dba8-6b2d-475c-892e-8f5b404df949%7Cdtp&dtb=1): The Samsung T9 has an integrated thermal guard to help dissipate waste heat and protect delicate electronics from damage. It also works with Samsung's Magician Software for automatic firmware updates, data encryption, and SSD health monitoring.
 * [MSI Claw 512GB for $642 (save $108)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Claw-Gaming-Handheld-Thunderbolt%2Fdp%2FB0CXG3DBQV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb662dba8-6b2d-475c-892e-8f5b404df949%7Cdtp&dtb=1): Built with an Intel Core Ultra 7 CPU, 16GB of RAM, a 512GB SSD, and a 7-inch display, the MSI Claw rivals the Steam Deck handheld gaming PC in power and performance.
 * [Amazon eero Pro 6E mesh Wi-Fi router 3-pack for $350 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-eero-Wi-Fi-router-newest%2Fdp%2FB091G64GVK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb662dba8-6b2d-475c-892e-8f5b404df949%7Cdtp&dtb=1): This mesh Wi-Fi system is rated for up to 2,000 square feet of coverage and supports both wireless and hardwired Ethernet connectivity at 1.6 Gbps and 2.5Gbps, respectively.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day PlayStation 5 deals
 
@@ -155,10 +151,6 @@ ZDNET
 * [Dragon's Dogma 2 standard edition for $44 (save $12 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDragon-s-Dogma-2-Xbox-Series-X%2F5262667261%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An action RPG sequel to 2012's Dragon's Dogma featuring a deep class system and skill tree, AI-controlled squad mates for taking on tougher enemies and large-scale battles, and a day-night cycle that changes creature encounters and their strength.
 * [Join Xbox Game Pass Ultimate for $1 (then $19.99 per month)](https://www.xbox.com/en-US/xbox-game-pass#join): Get access to hundreds of PC and Xbox Series X|S games for cloud gaming support, monthly free games, and exclusive discounts.
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $195 (save $75 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb662dba8-6b2d-475c-892e-8f5b404df949%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
 
@@ -197,7 +189,7 @@ Kyle Kucharski/ZDNET
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals
@@ -227,7 +219,7 @@ Samsung/ZDNET
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-06-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals
@@ -238,7 +230,15 @@ Samsung/ZDNET
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $810 (save $114 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
@@ -317,19 +317,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-leading-20-free-open-source-pubg-galleries/"><u>[New] 2024 Approved Leading 20 Free, Open Source PUBG Galleries</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/1715860766387-new-capture-every-detail-on-mac-free/"><u>[New] Capture Every Detail on Mac - Free!</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-metaverse-jokes-and-giggles-how-to-craft-your-own-laughter-inducing-memes/"><u>[Updated] 2024 Approved Metaverse Jokes & Giggles How to Craft Your Own Laughter-Inducing Memes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-safe-video-extraction-from-youtube-tips-on-downloading-to-mp4/"><u>[Updated] 2024 Approved Safe Video Extraction From YouTube - Tips on Downloading to MP4</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-guide-to-instagram-looping-videos/"><u>[Updated] 2024 Approved The Ultimate Guide to Instagram Looping Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-elevate-your-visual-content-a-guide-to-videoleap-zooming/"><u>[Updated] In 2024, Elevate Your Visual Content A Guide to Videoleap Zooming</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-pro-b760m-ct-csm-mainboard-unveiled-a-comprehensive-analysis/"><u>Asus Pro B760M-CT CSM Mainboard Unveiled: A Comprehensive Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/detailed-analysis-of-the-anycubic-kobra-3-a-pioneering-multicolor-printer-review/"><u>Detailed Analysis of the Anycubic Kobra 3 - A Pioneering Multicolor Printer Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-top-tech-secrets-toms-expertise-on-modern-hardware/"><u>Discover Top Tech Secrets - Tom's Expertise on Modern Hardware</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-cut-to-clip-chaos-achieving-smoothness-with-inshot-for-2024/"><u>From Cut-to-Clip Chaos Achieving Smoothness with Inshot for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-realme-12-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Realme 12 5G</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-monetizing-your-channel-youtube-income-explained/"><u>In 2024, Monetizing Your Channel YouTube Income Explained</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-computer-store-in-depth-hardware-analysis-and-guides/"><u>Inside Tom's Computer Store: In-Depth Hardware Analysis and Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/thorough-assessment-the-power-of-the-white-maxsun-terminator-z790m-d5-ice-atx-board-with-five-m2-connectors-reviewed/"><u>Thorough Assessment: The Power of the White Maxsun Terminator Z790M D5 Ice ATX Board with Five M.2 Connectors Reviewed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-skyrocket-your-rankings-top-youtube-seo-gadgets/"><u>[New] 2024 Approved Skyrocket Your Rankings Top YouTube SEO Gadgets</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-visualizing-google-meet-introduction-to-effects-and-filtering/"><u>[New] 2024 Approved Visualizing Google Meet Introduction to Effects & Filtering</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-a-childs-fortune-the-wealthy-world-of-youtubes-youngest-star-for-2024/"><u>[Updated] A Child’s Fortune The Wealthy World of YouTube’s Youngest Star for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-melodic-alerts-downloading-and-altering-tamil-tunes/"><u>2024 Approved Melodic Alerts Downloading and Altering Tamil Tunes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-oculus-spectacular-expert-reviews-and-choices/"><u>2024 Approved Oculus Spectacular Expert Reviews and Choices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-fixes-for-a-vizio-tvs-lost-wi-fi-signal/"><u>DIY Fixes for a Vizio TV's Lost Wi-Fi Signal</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-new-releases-with-toms-hardware-review/"><u>Exploring New Releases with Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gamer-and-creator-upgrades-dive-into-the-performance-of-msis-advanced-aiplus-laptops-showcasing-unprecedented-speed-from-100-542-tops/"><u>Gamer and Creator Upgrades: Dive Into the Performance of MSI's Advanced AI+ Laptops, Showcasing Unprecedented Speed From 100-542 TOPS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-powerhouse-dell-g16-gaming-laptop-now-at-just-949/"><u>Get the Powerhouse Dell G16 Gaming Laptop Now at Just $949</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-asus-zenbook-s16-and-amd-ryzen-ai-9-hx-370-performance-breakdown/"><u>In-Depth Review: Asus Zenbook S16 & AMD Ryzen AI 9 HX 370 Performance Breakdown</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-computer-lab-the-ultimate-guide-to-hardware-upgrades/"><u>Inside Tom's Computer Lab: The Ultimate Guide to Hardware Upgrades</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/intel-core-i7-ultra-series-triumphs-over-amds-phoenix-insights-from-recent-bapco-testing-results/"><u>Intel Core I7 Ultra Series Triumphs Over AMD's 'Phoenix': Insights From Recent BAPCO Testing Results</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/interactive-guide-to-microsofts-cutting-edge-surface-and-surface-pro-pcs-now-with-smart-copilotplus-features-for-elevated-computing-experience/"><u>Interactive Guide to Microsoft's Cutting-Edge Surface & Surface Pro PCs Now With Smart Copilot+ Features for Elevated Computing Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-through-toms-hardware-chronicles/"><u>Mastering Technology Through Tom's Hardware Chronicles</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/time-optimization-for-numerical-japanese/"><u>Time Optimization for Numerical Japanese</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211032793-9781250345158-wild-willing-and-wise/"><u>Wild, Willing, and Wise | Free Book</u></a></li>
+<li><a href="https://solve-help.techidaily.com/windows-10d/"><u>Windows 10におけるDドライブの復元手順:修正完了</u></a></li>
 </ul></div>
 

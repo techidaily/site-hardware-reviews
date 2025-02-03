@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Reveals at Apple's October Showcase: M4 Mac Mini Unveiled, New iPad Lineup, Innovations in AI - Insights for Tech Enthusiasts | ZDNet"
-date: 2025-01-22T23:41:19.418Z
-updated: 2025-01-24T17:50:41.173Z
+date: 2025-01-27T18:35:13.518Z
+updated: 2025-02-01T17:13:17.463Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,14 +118,18 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-maximizing-visibility-with-smart-hashtag-use-in-fb-advertising-for-2024/"><u>[New] Maximizing Visibility with Smart Hashtag Use in FB Advertising for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-your-mac-with-a-macos-sierra-installation/"><u>Boost Your Mac with a macOS Sierra Installation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cost-effective-microcontroller-projects-with-the-cytron-maker-uno-rp2040-a-comprehensive-review/"><u>Cost-Effective Microcontroller Projects with the Cytron Maker Uno RP2040 - A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-computing-dive-into-toms-hardware-universe/"><u>Discover the Latest in Computing - Dive Into Tom's Hardware Universe</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-unmatched-performance-with-the-titan-army-p27a2r-gaming-display-at-180-hz/"><u>Experience Unmatched Performance with the Titan Army P27A2R Gaming Display at 180 Hz</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigate-with-flair-on-the-swagtron-swagger-electric-scooter-an-in-depth-review/"><u>Navigate with Flair on the Swagtron Swagger Electric Scooter - An In-Depth Review</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-s18e-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo S18e Phone Now with These Tips</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/premier-mp4-uploader-and-downloader-for-fb/"><u>Premier MP4 Uploader & Downloader for FB</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-guides/"><u>Tom's Tech Insights: Expert Reviews and Guides</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-a-simple-tutorial-starting-screen-recording-on-mac/"><u>[New] 2024 Approved A Simple Tutorial Starting Screen Recording on Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-optimized-obs-operations-on-android-platforms/"><u>[New] 2024 Approved Optimized OBS Operations on Android Platforms</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/mart-strategies-for-entrepreneurial-video-marketing/"><u>[New] SMART Strategies for Entrepreneurial Video Marketing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-free-listening-easy-ways-to-access-and-enjoy-ed-sheerans-hit-tracks/"><u>1. Free Listening: Easy Ways to Access and Enjoy Ed Sheeran's Hit Tracks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27-4g-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo Y27 4G Phone without PIN</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-prime-selection-highest-quality-stands/"><u>In 2024, Prime Selection Highest Quality Stands</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-upgrading-your-mp4s-integrating-premium-srt-sound/"><u>In 2024, Upgrading Your MP4s Integrating Premium SRT Sound</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-knowledge-top-picks-from-toms-hardware/"><u>Mastering Your Tech Knowledge: Top Picks From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-reviews-by-tom-a-trusted-source-for-gadget-enthusiasts/"><u>Pioneering Reviews by Tom: A Trusted Source for Gadget Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341743302-stay-chilled-with-the-uphere-m201-top-notch-nvme-ssd-cooler-for-a-steal-at-5/"><u>Stay Chilled with the UpHere M201: Top-Notch NVMe SSD Cooler for a Steal at $5</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/triple-display-capabilities-expert-review-of-the-gigabyte-b760m-ds3h-ax-micro-atx-motherboard-for-budget-builds/"><u>Triple Display Capabilities: Expert Review of the Gigabyte B760M DS3H AX Micro ATX Motherboard for Budget Builds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-computer-wonders-at-toms-hardware-haven/"><u>Unveiling Computer Wonders at Tom's Hardware Haven</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo Y77t? | Dr.fone</u></a></li>
 </ul></div>
 

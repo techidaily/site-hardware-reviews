@@ -1,7 +1,7 @@
 ---
 title: "Discover the Near-Perfect Combination of Tech & Savings with the Arlo Pro 5S: Your Ideal Security Cam on Discount at ZDNet!"
-date: 2024-09-19 17:51:13
-updated: 2024-09-20 12:42:27
+date: 2025-01-27T18:08:00.060Z
+updated: 2025-02-01T16:02:38.958Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,31 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unmatched-editing-apps-to-enhance-webcam-content/"><u>[New] 2024 Approved Unmatched Editing Apps to Enhance Webcam Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-extract-youtube-srt-effortlessly-in-3-ways/"><u>[Updated] How to Extract YouTube SRT Effortlessly in 3 Ways</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-calendar-solutions-for-time-management-in-large-households/"><u>Essential Calendar Solutions for Time Management in Large Households</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-infinix-hot-30-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Infinix Hot 30 5G Without PUK Codes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-lava-storm-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Lava Storm 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/rise-above-the-noise-nine-strategies-for-instagram-prominence/"><u>Rise Above the Noise Nine Strategies for Instagram Prominence</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stop-your-android-from-randomly-shaking-expert-tips-to-stop-unexpected-phone-vibrations/"><u>Stop Your Android From Randomly Shaking: Expert Tips to Stop Unexpected Phone Vibrations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/switching-your-primary-mobile-phone-application-in-android/"><u>Switching Your Primary Mobile Phone Application in Android</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tablet-enthusiasts-rejoice-new-split-keyboard-functionality-debuts-on-gboard/"><u>Tablet Enthusiasts Rejoice: New Split Keyboard Functionality Debuts on Gboard!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-call-of-the-hour-developing-a-premier-google-powered-weather-tool/"><u>The Call of the Hour: Developing a Premier Google-Powered Weather Tool!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-10-diy-electronics-add-ons-create-them-with-your-own-3d-printer/"><u>Top 10 DIY Electronics Add-Ons: Create Them with Your Own 3D Printer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-5-frequent-issues-with-android-devices-solutions-and-troubleshooting-tips/"><u>Top 5 Frequent Issues with Android Devices: Solutions & Troubleshooting Tips</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-notch-avchd-video-editing-software-our-2023-rankings-for-2024/"><u>Top-Notch AVCHD Video Editing Software Our 2023 Rankings for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-of-durable-case-options-for-your-samsung-z-flip-5-smartphone/"><u>Ultimate Selection of Durable Case Options for Your Samsung Z Flip 5 Smartphone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-rooting-in-android-devices-benefits-and-risks-is-it-worth-considering/"><u>Understanding Rooting in Android Devices: Benefits & Risks – Is It Worth Considering?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-se-2020-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone SE (2020) Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+</ul></div>
+

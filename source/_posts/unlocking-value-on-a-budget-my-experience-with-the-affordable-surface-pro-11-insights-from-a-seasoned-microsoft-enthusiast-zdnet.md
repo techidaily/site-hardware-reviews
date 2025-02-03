@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Value on a Budget: My Experience with the Affordable Surface Pro 11 - Insights From a Seasoned Microsoft Enthusiast | ZDNet"
-date: 2025-01-19T20:58:53.523Z
-updated: 2025-01-24T16:15:13.416Z
+date: 2025-01-31T16:20:43.772Z
+updated: 2025-02-01T18:10:03.510Z
 tags:
   - laptops
 categories:
@@ -48,10 +48,6 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -75,7 +71,7 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -95,7 +91,7 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
@@ -105,6 +101,10 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -131,6 +131,10 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -142,7 +146,7 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
@@ -156,10 +160,6 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 **Also:** [**Want a touchscreen MacBook? This portable monitor makes it possible**](https://www.zdnet.com/home-and-office/smart-office/want-a-touchscreen-macbook-this-portable-monitor-makes-it-possible/)
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -212,18 +212,19 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-dynamic-ppt-leveraging-voice-for-effective-delivery/"><u>[New] 2024 Approved Dynamic PPT Leveraging Voice for Effective Delivery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unrivaled-gaming-monitors-at-4k-quality/"><u>[New] Unrivaled Gaming Monitors at 4K Quality</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-trim-perfect-clearing-thin-lines-on-youtube/"><u>[Updated] Trim Perfect Clearing Thin Lines on YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/aesthetic-fusion-studio-ultimate-photo-alchemy/"><u>Aesthetic Fusion Studio Ultimate Photo Alchemy</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/boost-your-raspberry-pi-speed-with-a-high-performance-low-cost-m2-hatplus-reveal/"><u>Boost Your Raspberry Pi Speed with a High-Performance, Low-Cost M.2 HAT+ Reveal</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-lexars-top-performing-ssd-models-sl500-vs-professional-sl600-with-speeds-up-to-20-gbs/"><u>Comprehensive Analysis of Lexar's Top-Performing SSD Models: SL500 Vs. Professional SL600 with Speeds up to 20 GB/S</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-electronics-with-toms-hardware-guides/"><u>Exploring Electronics with Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-visuals-with-asus-rog-swift-pg32ucdp-oled-a-comprehensive-review/"><u>Mastering Visuals with Asus ROG Swift PG32UCDP OLED - A Comprehensive Review</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-lost-ark-boot-problems-top-tips-and-techniques-for-gamers/"><u>Overcoming Lost Ark Boot Problems: Top Tips and Techniques for Gamers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/peek-behind-ustreams-curtain-and-more/"><u>Peek Behind Ustream's Curtain and More</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/premier-list-of-affordable-virtual-meetings-and-live-desktop-sharing-for-2024/"><u>Premier List of Affordable Virtual Meetings & Live Desktop Sharing for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-download-hp-stream-printer-drivers-get-them-fast/"><u>Quick Download: HP Stream Printer Drivers - Get Them Fast</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-rode-streamer-x-revealed-can-this-device-transform-your-streaming-experience/"><u>The Rode Streamer X Revealed: Can This Device Transform Your Streaming Experience?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-photography-tips-for-seamless-instagram-posting/"><u>[New] 2024 Approved Photography Tips for Seamless Instagram Posting</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-capture-clearness-without-a-tripod-tool/"><u>2024 Approved Capture Clearness Without a Tripod Tool</u></a></li>
+<li><a href="https://discover-best.techidaily.com/ai60120/"><u>AI輸入修正程式：達成每秒60/120幀俐落流暢的影片過渡</u></a></li>
+<li><a href="https://win-best.techidaily.com/amazon-come-annullare-il-download-di-foto-da-piu-dispositivi/"><u>Amazon: Come Annullare Il Download Di Foto Da Più Dispositivi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-asrock-b7e60m-pro-rs-review-robust-m2-capacity/"><u>Budget-Friendly ASRock B7e60M Pro RS Review: Robust M.2 Capacity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-examination-of-the-cost-effective-nuphy-halo75-v2-the-ideal-mechanical-keyboard-for-gamers/"><u>Detailed Examination of the Cost-Effective Nuphy Halo75 V2 - The Ideal Mechanical Keyboard for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-tech-on-toms-hardware-insights/"><u>Discover the Latest in Tech on Tom's Hardware Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-micvoice-chat-connectivity-issues-for-an-optimal-cod-warzone-experience/"><u>Expert Tips to Restore Mic/Voice Chat Connectivity Issues for an Optimal CoD Warzone Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-affordable-and-effective-fx360-pro-from-id-cooling/"><u>In-Depth Review of the Affordable and Effective FX360 Pro From ID-Cooling</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-tech-in-depth-guides-from-toms-system-solutions/"><u>Inside the World of Tech: In-Depth Guides From Tom's System Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/linux-windows-and-mac-10-budget-video-player-options/"><u>Linux, Windows & Mac 10 Budget Video Player Options</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/mastering-file-compression-in-windows-os-with-tips-from-yl-software-experts/"><u>Mastering File Compression in Windows OS with Tips From YL Software Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341676192-toms-tech-review-expert-insights-on-hardware/"><u>Tom's Tech Review - Expert Insights on Hardware</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/troubleshooting-dvd-issues-solving-the-problem-of-vlc-not-playing-dvds-in-windows-11/"><u>Troubleshooting DVD Issues: Solving the Problem of VLC Not Playing DVDs in Windows 11</u></a></li>
 </ul></div>
 

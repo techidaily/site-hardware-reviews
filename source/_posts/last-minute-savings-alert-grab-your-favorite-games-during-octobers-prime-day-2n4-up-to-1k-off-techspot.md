@@ -1,7 +1,7 @@
 ---
 title: Last-Minute Savings Alert! Grab Your Favorite Games During October's Prime Day 2N4 - Up To $1K Off | TechSpot
-date: 2025-01-23T20:28:53.894Z
-updated: 2025-01-25T01:02:10.338Z
+date: 2025-01-26T16:05:11.122Z
+updated: 2025-02-01T16:42:10.392Z
 tags:
   - laptops
 categories:
@@ -118,6 +118,10 @@ ZDNET
 * [Logitech G F710 wireless gamepad for $30 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Nano-Receiver-Controller-Vibration%2Fdp%2FB0041RR0TW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): A basic gamepad for PC gaming that uses 2.4GHz connectivity and dual-motor vibration so you can feel feedback for every in-game action like punches in fighting games or crashes in racing sims.
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day PlayStation 5 deals still available
 
 ZDNET
@@ -131,10 +135,6 @@ ZDNET
 * [Final Fantasy VII Rebirth for $50 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FFinal-Fantasy-VII-Rebirth-PlayStation-5%2Fdp%2FB0CGXZQ4CD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): The anticipated FFVII remaster includes an Amazon exclusive PS5 controller skin.
 * [WD Black SN850X 4TB SSD for $310 (save $390)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWD%5FBLACK-SN850X-Internal-Gaming-Solid%2Fdp%2FB0B7CQ2CHH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): Instantly add 4TB of storage to your PS5 console for large game downloads and save files.
 * [Metal Gear Solid: Master Collection Vol. 1 for $19 (save $21)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetal-Gear-Solid-Collection-PlayStation-5%2Fdp%2FB0C93LL82B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): Get all three of the original MGS games for the PS1 in a single collection.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals still available
 
@@ -177,10 +177,6 @@ Kyle Kucharski/ZDNET
 * [MSI Aegis RS for $1,700 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmsi-aegis-rs-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-ti-super-2tb-ssd-black%2F6574690.p%3FskuId%3D6574690&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming and content creation desktop with an Intel Core i7-14700F CPU, Nvidia RTX 4070 Ti Super GPU, 32GB of RAM, and a 2TB SSD.
 * [Lenovo Legion Tower 5i for $1,600 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-legion-tower-5i-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-super-1tb-ssd-storm-grey%2F6576778.p%3FskuId%3D6576778&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mid-range gaming and content creation desktop with a 14th gen Intel Core i7 processor, 1TB SSD storage drive, 32GB of RAM, and an Nvidia RTX 4070 Super graphics card.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming laptop deals still available
 
 Lenovo
@@ -201,7 +197,7 @@ Samsung/ZDNET
 * [Acer Nitro 24-inch monitor for $100 (save $73)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-Monitor-FreeSync-Technology-ZeroFrame%2Fdp%2FB0B6DFG1FQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): A great gaming monitor with 1080p resolution, a 165Hz refresh rate, and AMD FreeSync Premium VRR support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals still available
@@ -211,7 +207,7 @@ Samsung/ZDNET
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals still available
@@ -221,15 +217,15 @@ Samsung/ZDNET
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $770 (save $130 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### When was Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ran through October 8 and 9\. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) were running their own, rival sales at the same time. And even though the sale itself is over, you can still find lots of great deals and discounts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
@@ -238,6 +234,10 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -304,20 +304,16 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-strategic-message-management-expert-tips-for-discord-pinning/"><u>[New] In 2024, Strategic Message Management Expert Tips for Discord Pinning</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-script-crafting-basics/"><u>[Updated] In 2024, Script Crafting Basics</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/3-ways-to-record-lectures-on-mac-for-2024/"><u>3 Ways to Record Lectures on Mac for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-of-rode-streamer-x-is-it-worth-transforming-your-filmmaking-experience/"><u>A Comprehensive Review of Rode Streamer X: Is It Worth Transforming Your Filmmaking Experience?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-reviews-and-advice-on-gadgets-trust-in-toms-hardware/"><u>Comprehensive Reviews and Advice on Gadgets - Trust in Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-in-depth-analysis-of-latest-hardware-gadgets/"><u>Expert Reviews by Tom: In-Depth Analysis of Latest Hardware Gadgets</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-g2-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo G2 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-deep-dives-into-tech-by-tom/"><u>Mastering Electronics: Deep Dives Into Tech by Tom</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-easily-remove-tiktok-watermarks-best-online-solutions/"><u>New In 2024, Easily Remove TikTok Watermarks Best Online Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-game-crashes-dealing-with-genshin-impact-error-4201/"><u>Resolving Game Crashes: Dealing with 'Genshin Impact Error #4201'</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/safe-surveillance-practices-keeping-info-undercover-for-2024/"><u>Safe Surveillance Practices Keeping Info Undercover for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210477372-9781788178730-spells-for-living-well/"><u>Spells for Living Well | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-all-things-hardware-by-tom/"><u>The Ultimate Resource for All Things Hardware by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-choosing-quality-components-by-tom/"><u>The Ultimate Resource for Choosing Quality Components by Tom</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-tecno-pop-7-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-reversed-video-techniques-for-instagram-savvy-users/"><u>[Updated] 2024 Approved Reversed Video Techniques for Instagram Savvy Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-a05s-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Samsung Galaxy A05s</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-fixed-or-frozen-menu-items-in-windows-11/"><u>Correcting Fixed or Frozen Menu Items in Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341731156-expert-analysis-on-asus-rog-azoth-extreme-at-just-500-reviews-inside/"><u>Expert Analysis on Asus ROG Azoth Extreme at Just $500 - Reviews Inside</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-unlocking-the-door-to-joining-a-tiktok-gathering/"><u>In 2024, Unlocking the Door to Joining a TikTok Gathering</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-linux-into-your-windows-desktop-world/"><u>Integrating Linux Into Your Windows Desktop World</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-impactful-evolution-in-industrial-electronics-an-in-depth-review-of-the-raspberry-pi-compute-module-4s/"><u>The Impactful Evolution in Industrial Electronics: An In-Depth Review of the Raspberry Pi Compute Module 4S</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-id-cooling-frozn-a620-pro-series-se-features-benefits-and-review/"><u>The Ultimate Guide to the ID-Cooling Frozn A620 Pro Series SE - Features, Benefits, and Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-your-trusted-guide-in-computer-hardware/"><u>Tom's Tech Review - Your Trusted Guide in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-gadgets-and-hardware-innovations-toms-insight/"><u>Unveiling Top Gadgets and Hardware Innovations - Tom's Insight</u></a></li>
 </ul></div>
 

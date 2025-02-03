@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Capturing Screenshots Effortlessly on Dell, Lenovo & MacBooks | Tech Tips"
-date: 2025-01-22T16:30:48.810Z
-updated: 2025-01-24T18:57:46.759Z
+date: 2025-01-30T16:06:20.058Z
+updated: 2025-02-01T18:05:53.219Z
 tags:
   - laptops
 categories:
@@ -26,18 +26,18 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to take screenshots on any laptop
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to take screenshots on any laptop
 
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Screenshotting on Windows-based laptops
@@ -56,6 +56,10 @@ The button can be just about anywhere, so just look for something that looks as 
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Paste your screenshot
 
 Once you've captured your display, the easiest way to edit and save it is by pasting it into an image editing app. If you've got Photoshop, that'll work, but since most people don't have access to such pro software, a much easier, free option works, too: Microsoft Paint.
@@ -68,11 +72,11 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
 
-### **Option 2: The Snipping Tool and Win+Shift+S**
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### **Option 2: The Snipping Tool and Win+Shift+S**
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
@@ -89,10 +93,6 @@ Michael Gariffo/ZDNET
 ### Screenshotting on Macs
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Press Shift+Cmd+3
 
@@ -115,7 +115,7 @@ There sure is. For Mac users, we've already covered [how to capture recordings o
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
@@ -157,24 +157,18 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-curating-customized-instagram-highlight-banners/"><u>[New] 2024 Approved Curating Customized Instagram Highlight Banners</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-superior-fb-video-tools-save-as-top-quality-mp4s-for-2024/"><u>[New] Superior FB Video Tools – Save as Top Quality MP4s for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-engaging-youtube-summaries-with-tailored-templates-for-2024/"><u>[Updated] Engaging YouTube Summaries with Tailored Templates for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-the-virality-vortex-mastering-content-circulation-on-social-media/"><u>[Updated] The Virality Vortex Mastering Content Circulation on Social Media</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/command-the-clicks-mastering-engagement-tactics-for-instagram-for-2024/"><u>Command the Clicks Mastering Engagement Tactics for Instagram for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discovering-toms-tools-in-depth-reviews-and-analysis-on-computer-components/"><u>Discovering Tom's Tools: In-Depth Reviews & Analysis on Computer Components</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-fixing-unresponsive-keyboard-shortcuts-fn-on-an-asus-laptop/"><u>Effective Solutions for Fixing Unresponsive Keyboard Shortcuts (Fn) on an ASUS Laptop</u></a></li>
-<li><a href="https://article-tips.techidaily.com/expert-picks-the-finest-photo-frame-software-for-2024/"><u>Expert Picks The Finest Photo Frame Software for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computing-discoveries-at-toms-hardware-emporium/"><u>Exploring the World of Computing: Discoveries at Tom's Hardware Emporium</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ipods-that-arent-detected-by-itunes-comprehensive-fix-guide/"><u>IPods That Aren't Detected by iTunes? - Comprehensive Fix Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-build-at-toms-hardware-solutions/"><u>Master Your PC Build at Tom's Hardware Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-technology-toms-authoritative-hardware-articles/"><u>Navigating Advanced Technology: Tom’s Authoritative Hardware Articles</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-gadgets-with-toms-insider-guides-and-tips/"><u>Navigating Gadgets with Tom's Insider Guides and Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341707040-solution-the-first-step-is-conducting-a-detailed-survey-to-understand-the-propertys-physical-features-and-constraints/"><u>Solution: The First Step Is Conducting a Detailed Survey to Understand the Property's Physical Features and Constraints.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-review/"><u>Tom's Computer Components Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-rated-gameplay-experience-on-the-vibrant-viewsonic-xg272-2k-oled-monitor-review/"><u>Top Rated Gameplay Experience on the Vibrant ViewSonic XG272-2K OLED Monitor Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-evaluation-of-the-levelplay-combat-air-ca4-exceptional-silent-functionality-and-powerful-processor-support/"><u>Ultimate Evaluation of the Levelplay Combat Air CA4 - Exceptional Silent Functionality & Powerful Processor Support</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/western-digital-my-passport-6tb-ssd-reviewed-big-capacity-in-a-small-package/"><u>Western Digital My Passport 6TB SSD Reviewed - Big Capacity in a Small Package</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-thanks-for-curating-premium-and-free-outro-themes/"><u>[New] In 2024, Thanks for Curating Premium & Free Outro Themes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-recipe-rendezvous-top-30-channels-with-a-taste-for-success/"><u>[New] Recipe Rendezvous Top 30 Channels with a Taste for Success</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-samsung-ubd-k8500-refreshed-2023-overview/"><u>[New] Samsung UBD-K8500 Refreshed - 2023 Overview</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-thrifty-shoppers-guide-to-cameras/"><u>[New] Thrifty Shopper's Guide to Cameras</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-navigating-through-video-post-errors-on-iphoneandroid-fb-chat-platform/"><u>[Updated] 2024 Approved Navigating Through Video Post Errors on iPhone/Android FB Chat Platform</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-cutting-edge-strategies-for-youtube-split-screen-videos/"><u>[Updated] Cutting-Edge Strategies for YouTube Split-Screen Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rt-be96u-review-mastering-seamless-performance-with-new-age-dual-band-speed-king/"><u>ASUS RT-BE96U Review: Mastering Seamless Performance with New Age Dual-Band Speed King</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-tech-detailed-analyses-from-toms-hardware-experts/"><u>Discover the Latest in Tech: Detailed Analyses From Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-tech-analysis-by-toms-hardware-experts/"><u>In-Depth Tech Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-setup-with-tips-and-tricks-from-toms-hardware-pros/"><u>Mastering Your PC Setup with Tips and Tricks From Tom's Hardware Pros</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-technology-insights-with-toms-hardware-hub/"><u>Pioneering Technology Insights with Tom’s Hardware Hub</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resetting-mac-dns-records-the-ultimate-walkthrough/"><u>Resetting Mac DNS Records: The Ultimate Walkthrough</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-tech-trends-tips-and-reviews-by-toms-hardware-team/"><u>Unveiling Top Tech Trends: Tips and Reviews by Tom's Hardware Team</u></a></li>
 </ul></div>
 

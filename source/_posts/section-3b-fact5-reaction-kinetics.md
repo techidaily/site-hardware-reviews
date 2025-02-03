@@ -1,7 +1,7 @@
 ---
 title: "Section 3B: Fact.5 Reaction Kinetics"
-date: 2024-09-19 19:30:37
-updated: 2024-09-20 11:50:43
+date: 2025-01-29T18:18:09.590Z
+updated: 2025-02-01T16:57:56.517Z
 tags:
   - kitchen-household
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 ![EcoFlow Delta Pro 3 portable battery](https://www.zdnet.com/a/img/resize/493a0e14c2076aa82dd15d43be4c51552702595c/2024/06/20/9d465ec0-9e8c-4fee-b2aa-d5b5ce343244/2.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -77,6 +81,10 @@ How did it fare? The power returned about three hours later, and the Delta Pro 3
 
 Aside from this power outage, [we've tested](https://www.zdnet.com/home-and-office/energy/how-we-test-portable-power-stations/) the Delta Pro 3 as a standalone battery to power a home office setup, keeping consumption between 50W and 120W. The DP3 powered an LCD monitor, a Dell XPS laptop, a phone charger, and a USB-C tablet charger for four days. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Accessories-Emergencies%2Fdp%2FB0D14FMFZD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1) is an excellent option for anyone looking for a higher-capacity portable battery for camping or as an emergency home backup, as long as you're willing to pay the price, literally. It's not a cheap option among portable batteries, priced at $3199, which is about $400 less than the price of a [Delta Pro and Dual fuel inverter generator bundle](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Generator-High-Power-Appliances%2Fdp%2FB0BKGLCVRR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1).
@@ -106,11 +114,31 @@ Though priced high, the Delta Pro 3 seamlessly integrates into an EcoFlow home b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-leveraging-chromes-picture-in-picture-for-multi-screen-browsing/"><u>[New] 2024 Approved Leveraging Chrome's Picture-In-Picture for Multi-Screen Browsing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-crafting-hashtags-that-capture-attention-and-drive-engagement-on-fb-for-2024/"><u>[New] Crafting Hashtags that Capture Attention and Drive Engagement on FB for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hythmic-resonance-top-10-yogis-on-the-web-for-2024/"><u>[New] Rhythmic Resonance Top 10 Yogis on the Web for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-test-and-evaluation-of-pimoronis-nvme-ssd-base-duo/"><u>Comprehensive Test and Evaluation of Pimoroni's NVMe SSD Base Duo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fc2gyaoand/"><u>FC2、ニコニコ動画、Gyaoビデオダウンロード&エディットマスター: アップグレード版の方法を紹介します。</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-samsung-galaxy-m14-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-infinix-smart-8-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Infinix Smart 8 Pro Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovations-and-reviews-on-top-tech-products-by-toms-hardware-experts/"><u>Innovations and Reviews on Top Tech Products by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-nzxt-h7-flow-reliability-over-innovation/"><u>Inside the NZXT H7 Flow: Reliability Over Innovation?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-pc-parts-and-devices-a-look-with-toms-hardware/"><u>Inside the World of PC Parts & Devices – A Look with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-tech-expert-reviews-from-toms-hardware/"><u>Navigate the World of Tech: Expert Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/powering-up-performance-a-detailed-look-at-lexars-20-gbps-storage-giants-sl500-and-sl600-models/"><u>Powering Up Performance: A Detailed Look at Lexar's 20 Gbps Storage Giants - SL500 and SL600 Models</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solution-a-subdivision-plat-records-new-lot-boundaries-and-relevant-details-for-official-use-providing-a-legally-binding-representation-of-the-divided-prope16/"><u>Solution: A Subdivision Plat Records New Lot Boundaries and Relevant Details for Official Use, Providing a Legally Binding Representation of the Divided Property</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sonos-wireless-travel-guide-top-quality-soundscape/"><u>Sonos Wireless Travel Guide: Top Quality Soundscape</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1188136-9781583947258-the-more-beautiful-world-our-hearts-know-is-possible/"><u>The More Beautiful World Our Hearts Know Is Possible | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-maximizing-your-microcontroller-experience-with-the-budget-friendly-cytron-maker-uno-rp2040/"><u>The Ultimate Guide to Maximizing Your Microcontroller Experience with the Budget-Friendly Cytron Maker Uno RP2040</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/l-ventures-a-guide-to-social-video-growth/"><u>Visual Ventures A Guide to Social Video Growth</u></a></li>
+</ul></div>
+

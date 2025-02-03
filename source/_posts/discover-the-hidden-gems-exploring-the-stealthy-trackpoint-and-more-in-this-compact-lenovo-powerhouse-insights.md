@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: Exploring the Stealthy TrackPoint and More in This Compact Lenovo Powerhouse - Insights"
-date: 2025-01-22T16:38:05.265Z
-updated: 2025-01-24T19:45:01.302Z
+date: 2025-01-25T18:07:14.585Z
+updated: 2025-02-01T18:21:15.454Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cce20b3bd-264e-4243-8b2f-de2b540f1dec%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -110,7 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,20 +149,22 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-tips-for-youtube-thumbnail-size-aspect-ratio-included/"><u>[Updated] In 2024, Tips for YouTube Thumbnail Size [Aspect Ratio Included]</u></a></li>
-<li><a href="https://some-tips.techidaily.com/14-pro-evaluating-if-upgrading-is-worthwhile-insights/"><u>14 Pro: Evaluating if Upgrading Is Worthwhile - Insights</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-optimizing-video-sequences-blend-modes-application/"><u>2024 Approved Optimizing Video Sequences Blend Modes Application</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-pros-and-cons-for-monoprice-designer-canvas-pen-display/"><u>Budget-Friendly Pros and Cons for Monoprice Designer Canvas Pen Display</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/customize-video-epilogues-with-our-premium-sound-samples/"><u>Customize Video Epilogues with Our Premium Sound Samples</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-youtube-content-a-step-by-step-guide-for-2024/"><u>Deleting YouTube Content A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-review-the-spectacular-display-dynamics-of-the-oled-gaming-monitor-gigabyte-aorus-co49dq-with-impressive-colors-and-contrasts/"><u>Expert Review: The Spectacular Display Dynamics of the OLED Gaming Monitor - Gigabyte Aorus CO49DQ with Impressive Colors & Contrasts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x50i-phone-without-password-by-drfone-android/"><u>How To Unlock Honor X50i Phone Without Password?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pinnacle-creations-summary-studio-25-detailed-assessment-2023/"><u>In 2024, Pinnacle Creations Summary Studio 25 Detailed Assessment, 2023</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-logitech-g515-lightspeed-tkl-budget-friendly-and-sleek-design/"><u>In-Depth Analysis of the Logitech G515 Lightspeed TKL - Budget-Friendly and Sleek Design</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/keychron-k2-he-magnetic-masterpiece-with-a-vintage-flair-unveiled/"><u>Keychron K2 HE Magnetic Masterpiece with a Vintage Flair Unveiled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/p310-ssd-in-depth-analysis-enhanced-velocity-with-m2-2280/"><u>P310 SSD In-Depth Analysis: Enhanced Velocity with M.2 2280</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-budding-gardeners-handbook-to-sustainable-veggie-gardening-from-seedling-to-harvest/"><u>The Budding Gardener's Handbook to Sustainable Veggie Gardening From Seedling to Harvest</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fix-mount-and-blade-2-bannerlord-crashes/"><u>Troubleshooting Guide: Fix Mount & Blade 2: Bannerlord Crashes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-toms-guide-to-cutting-edge-hardware/"><u>Unveiling New Gadgets: Tom's Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-fixing-hevc-encoded-videos-with-misaligned-soundtracks-identifying-reasons-and-remedies/"><u>1. Fixing HEVC Encoded Videos with Misaligned Soundtracks: Identifying Reasons & Remedies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breakdown-the-wonky-delta-design-and-swift-performance-of-flsun-s1-solar-panels/"><u>Breakdown: The Wonky Delta Design & Swift Performance of FLSun S1 Solar Panels</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-toms-comprehensive-computer-hardware-reviews-and-insights/"><u>Discover Tom's Comprehensive Computer Hardware Reviews & Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-android-podcast-services/"><u>Elite Android Podcast Services</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/from-basics-to-advanced-selecting-premium-components-with-toms-hardware-guidance/"><u>From Basics to Advanced: Selecting Premium Components with Tom's Hardware Guidance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/halo75-v2-expert-analysis-budget-friendly-premium-mechanical-keyboard/"><u>Halo75 V2 Expert Analysis: Budget-Friendly Premium Mechanical Keyboard</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-essential-tips-for-sims-4-video-gaming/"><u>In 2024, Essential Tips for Sims 4 Video Gaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigate-the-maze-of-gopro-4k-an-editors-manual/"><u>Navigate the Maze of GoPro 4K An Editor's Manual</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-modern-electronics-wisdom-from-toms-hardware-gurus/"><u>Navigating Modern Electronics: Wisdom From Tom's Hardware Gurus</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/online-vervangend-werktafelsnavel-asf-in-swf-met-zuiverheid-gratuit-movavi/"><u>Online Vervangend Werktafelsnavel-ASF in SWF Met Zuiverheid, Gratuit - Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-on-modern-workloads-the-gigabyte-b760m-ds3h-ax-revealed-entry-level-motherboard-for-three-monitor-setups/"><u>Taking on Modern Workloads - The Gigabyte B760M DS3H AX Revealed: Entry-Level Motherboard for Three Monitor Setups</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-toms-hardware-comprehensive-tech-insights/"><u>The Ultimate Guide to Tom's Hardware: Comprehensive Tech Insights</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-verdict-on-lgs-k92-smartphone-with-5g-capability-is-it-overpriced-for-a-single-feature/"><u>The Verdict on LG's K92 Smartphone with 5G Capability: Is It Overpriced for a Single Feature?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Review: Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-display-panels-of-2024-ideal-for-gamers-and-remote-work/"><u>Top Rated Portable Display Panels of 2024: Ideal for Gamers & Remote Work</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-definition-what-is-tagging-and-its-purpose-in-our-digital-world/"><u>Unveiling the Definition: What Is Tagging and Its Purpose in Our Digital World?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-7-crashing-fix-full-guide/"><u>Windows 7 Crashing Fix [Full Guide]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top-Ranking Smart Thermostat Alternatives to Ecobee and Amazon - A Detailed Review on ZDNet
-date: 2024-09-17 12:46:27
-updated: 2024-09-20 11:53:34
+date: 2025-01-25T16:16:41.465Z
+updated: 2025-02-01T17:50:46.380Z
 tags:
   - kitchen-household
 categories:
@@ -35,6 +35,10 @@ Here's the process: You fill up the bottle with water, drop one of the scented p
 
 You may be wondering then why I didn't give the Air Up a perfect 10 out of 10\. In short, there are some design flaws that proved troublesome during testing (or drinking), especially at a [$40 price](https://us.air-up.com/products/pink-bottle-with-3-watermelon-pods) and a cost of $7.99 to $12.99 for a pack of three pods. To find out if this system is worth investing in, read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The science behind Air Up 
 
 I'll start by explaining the bottle's flavorful magic trick. From the scented pods you place on the bottle snout, the flavors are transported through your olfactory receptors and into your brain, so you perceive the scent as a taste when you're really just drinking water. The concept of tasting what you smell is called "retronasal smell." Have you ever been congested and unable to taste the flavor of your food? It's the same concept here but reversed. As the name of the bottle implies, air is necessary for this system to work. Flavored air is combined with water, and released to give you the taste you are looking for. 
@@ -44,6 +48,10 @@ I'll start by explaining the bottle's flavorful magic trick. From the scented po
 The bottle cap comes with a sturdy carrying strap.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Flavor test: Which ones to get, and which ones to avoid 
 
@@ -64,6 +72,10 @@ Orangeade pod on the Air Up bottle snout.
 Sabrina Ortiz/ZDNET
 
 Another important factor when discussing flavor is how long the pods can be used. Unsurprisingly, you will get the strongest taste when the pod is first put in, and it will fade with time. According to Air Up, each pod is designed to flavor approximately 1.3 gallons of water. If you drink a gallon of water a week, you can expect to sip up the majority of a pod's flavor by the end of it. In my experience, the company's estimate is true. One week is the ideal time for you to get the optimal flavor per pod. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottle design leaves much to be desired  
 
@@ -93,11 +105,19 @@ Lastly, there is only one way that you can drink the Air Up bottle and be sure i
 
 [Buy the Air Up bottle $39.99 at Air Up](https://us.air-up.com/products/pearl-bottle-with-3-peach-pods)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 Ultimately, yes, the Air Up has motivated me to drink more water, even if it's at the expense of needing to remove and reseal the cap every time or being at the risk of spills here and there. 
 
 If you're in the market for a flavorful alternative to water without the added sugars or calories, the Air Up system could be a great option for you. However, if you live life on the go, find yourself dropping things more than you should, or simply don't have the patience to screw and unscrew the cap from the water bottle, then I'd suggest looking elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider  
 
@@ -134,11 +154,33 @@ The HidrateSpark Tap is a smart water bottle that lights up every time you shoul
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-giggle-galaxy-most-shared-content-on-both-platforms/"><u>[New] 2024 Approved Giggle Galaxy Most Shared Content on Both Platforms</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-navigate-with-precision-the-complete-guide-to-idevice-podcast-downloads/"><u>[New] In 2024, Navigate with Precision The Complete Guide to iDevice Podcast Downloads</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-syncing-vimeo-and-instagram-the-ultimate-guide-for-2024/"><u>[New] Syncing Vimeo and Instagram The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-use-cartoon-face-lens-in-snapchat/"><u>[Updated] In 2024, How to Use Cartoon Face Lens in Snapchat?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-of-sunfounders-pironman-n-model-5-with-noteworthy-assembling-steps/"><u>A Comprehensive Review of SunFounder's Pironman N Model 5 with Noteworthy Assembling Steps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadgets-by-tom-a-detailed-look-at-latest-tech/"><u>Advanced Gadgets by Tom: A Detailed Look at Latest Tech</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-amazonbasics-flat-antenna-watching-free-television-effortlessly/"><u>Budget-Friendly AmazonBasics Flat Antenna: Watching Free Television Effortlessly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-for-your-next-upgrade-at-toms-hardware-recommendations/"><u>Expert Advice for Your Next Upgrade at Tom's Hardware Recommendations</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-advice-how-to-find-and-install-the-best-sound-blaster-z-drivers-for-windows-10-systems/"><u>Expert Advice: How to Find and Install the Best Sound Blaster Z Drivers for Windows 10 Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-assessment-of-the-pimoronis-high-speed-ssd-base-duo-for-enhanced-computing-speeds/"><u>Expert Assessment of the Pimoroni's High-Speed SSD Base Duo for Enhanced Computing Speeds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-top-tech-innovations-and-build-configurations-on-toms-hardware-the-pc-enthusiast-hub/"><u>Explore Top Tech Innovations and Build Configurations on Tom's Hardware | The PC Enthusiast Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/id-cooling-fx360-pro-reviewed-exceptional-cpu-cooling-under-budget-at-just-60/"><u>ID-Cooling FX360 Pro Reviewed! Exceptional CPU Cooling Under Budget At Just $60</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-this-years-offbeat-movie-masterpieces/"><u>In 2024, This Year’s Offbeat Movie Masterpieces</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/mastering-the-art-of-crafting-email-subject-prefixes-using-massmail-tech/"><u>Mastering the Art of Crafting Email Subject Prefixes Using MassMail Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/missed-it-reflecting-back-on-prime-days-huge-deals-how-you-can-still-get-your-hands-on-a-55-off-click-and-grow-indoor-garden/"><u>Missed It? Reflecting Back on Prime Day's Huge Deals: How You Can Still Get Your Hands-On a 55% Off Click & Grow Indoor Garden</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-electronics-with-toms-hardware-wisdom/"><u>Navigate the World of Electronics with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211145132-9781800693159-the-little-book-of-mantras/"><u>The Little Book of Mantras | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-tom-comprehensive-hardware-analysis/"><u>Unveiling Gadgets with Tom - Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-tier-hardware-secrets-at-toms-expert-platform/"><u>Unveiling Top-Tier Hardware Secrets at Tom's Expert Platform</u></a></li>
+</ul></div>
+

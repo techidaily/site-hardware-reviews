@@ -1,7 +1,7 @@
 ---
 title: Maximize Savings on Top-Tier Products with October 2024 Amazon Prime Day Specials - Still Going Strong | ZDNet
-date: 2025-01-17T19:43:07.062Z
-updated: 2025-01-24T18:43:36.913Z
+date: 2025-01-26T18:17:00.876Z
+updated: 2025-02-01T17:30:20.829Z
 tags:
   - laptops
 categories:
@@ -24,13 +24,13 @@ Here are some of our favorite Best Buy deals that remain available on the digita
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Our favorite 48-Hour Flash Sale deals at Best Buy
 
 ![galaxy-s24-ultra-2024](https://www.zdnet.com/a/img/resize/01cdf104edbcfc2824d2887471bb859bd9300f88/2024/07/12/02e3a444-211a-4951-92d4-e777f151db7e/galaxy-s24-ultra-2024.jpg?auto=webp&width=1280)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Amazon/ZDNET
 
@@ -40,10 +40,6 @@ Amazon/ZDNET
 * [Samsung Galaxy Book 4 Edge Copiot+ PC for $849 (save $500)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-book4-edge-copilot-pc-14-amoled-touch-screen-laptop-snapdragon-x-elite-3-4ghz-16gb-memory-512gb-storage-sapphire-blue%2F6583789.p%3FskuId%3D6583789&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-11%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Optimized for AI, the Copilot+ laptop features a 14-inch touch-screen AMOLED display, 16GB of RAM, and 512GB of storage.
 * [Jabra Elite 10 Earbuds for $199 (save $50)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fjabra-elite-10-dolby-atmos-true-wireless-in-ear-heaphones-titanium-black%2F6553257.p%3FskuId%3D6553257&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-11%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Jabra's latest wireless earbuds have a comfortable and secure fit, good noise cancellation, and excellent sound quality.
 * [Govee Hexa Wall Light Panels for $99 (save $30)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgovee-hexa-wall-light-panels-7-panels-multi%2F6503425.p%3FskuId%3D6503425&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-11%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Create a personalized lighting display with inspiration for your gaming room, living room, bedroom, and more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Buy deals under $30
 
@@ -57,10 +53,6 @@ Best Buy/ZDNET
 
 **Also:** [**Best Prime Day deals under $25**](https://www.zdnet.com/article/best-prime-day-deals-under-25-2024-10-07/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Buy laptop deals
 
 Best Buy/ZDNET
@@ -72,6 +64,10 @@ Best Buy/ZDNET
 * [Dell Inspiron 15-inch Touchscreen Laptop for $399 (save $230)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-inspiron-15-touch-screen-laptop-intel-core-i5-8gb-512gb-ssd-carbon-black%2F6573731.p%3FskuId%3D6573731&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-11%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This laptop comes with 8GB of high-bandwidth RAM to smoothly run your games and photo- and video-editing applications, as well as multiple programs and browser tabs all at once.
 
 **Also:** [**Best Prime Day laptop deals**](https://www.zdnet.com/article/best-early-prime-day-laptop-deals-2024/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Buy TV deals
 
@@ -104,12 +100,16 @@ LG/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Does Best Buy price match Amazon Prime Day deals?
 
 No. Best Buy's Price Match Guarantee does not apply to discounts that are exclusive to membership or loyalty programs offered by other retailers. Consequently, member-only events such as Amazon's October Prime Day are not eligible for price matching at Best Buy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these Best Buy 48-Hour Flash Sale deals?
 
@@ -118,7 +118,7 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
@@ -187,14 +187,16 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-premium-free-fb-photovideo-producer-package/"><u>2024 Approved Premium Free FB Photo/Video Producer Package</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/androidios-and-the-art-of-chatgpt-usage/"><u>Android/iOS and the Art of ChatGPT Usage</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-s23-ultra-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy S23 Ultra to Outlook | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-computer-world-unveiling-the-latest-in-hardware/"><u>Inside Tom's Computer World: Unveiling the Latest in Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-asus-stunning-8k-mini-led-proart-display-a-beacon-of-visual-excellence-in-the-world-of-high-end-professional-monitors-boasting-exceptional-lumin50/"><u>Introducing Asus' Stunning 8K Mini LED ProArt Display - A Beacon of Visual Excellence in the World of High-End Professional Monitors, Boasting Exceptional Luminance and Precise Control Over Illumination Zones</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/jdis-innovative-2vd-technology-enables-unique-touch-experiences-on-shared-screens-for-individual-users/"><u>JDI's Innovative 2VD Technology Enables Unique Touch Experiences on Shared Screens for Individual Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/kindle-hacked-to-function-as-a-mobile-e-ink-screen-devs-how-to-manual/"><u>Kindle Hacked to Function as a Mobile E-Ink Screen - Dev's How-To Manual</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/seamless-photo-transfer-tutorial-for-upgraded-users-from-iphone/"><u>Seamless Photo Transfer Tutorial for Upgraded Users: From iPhone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/windows-10-and-11/"><u>Windows 10 & 11中修補環境失去的方法 - 已解決</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-ultimate-list-mac-video-editors-for-macos-big-sur-11-users/"><u>[New] In 2024, Ultimate List Mac Video Editors for macOS Big Sur 11 Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-premier-10-layouts-ae-text-edition-for-2024/"><u>[New] Premier 10 Layouts AE Text Edition for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-navigating-common-youtube-short-glitches/"><u>[Updated] In 2024, Navigating Common YouTube Short Glitches</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-precision-edits-made-simple-with-garageband-tools/"><u>[Updated] In 2024, Precision Edits Made Simple with GarageBand Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-b760m-pro-rs-motherboard-analysis-budget-friendly-with-plenty-of-m2-support/"><u>ASRock B760M Pro RS Motherboard Analysis: Budget-Friendly with Plenty of M.2 Support</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-prime-x670-p-wifi-am5-mobo-exceptional-deal-at-just-135/"><u>Asus Prime X670-P WiFi AM5 Mobo - Exceptional Deal at Just $135!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-in-class-gaming-motherboards-of-2024-find-your-ideal-socket-compatibility-and-chipset-configuration/"><u>Best-in-Class Gaming Motherboards of 2024: Find Your Ideal Socket Compatibility and Chipset Configuration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/chill-out-with-power-gigabyte-unveils-the-next-gen-golden-cpu-socked-misty-iceberg-design-intelligent-board/"><u>Chill Out with Power: Gigabyte Unveils the Next-Gen Golden CPU Socked Misty Iceberg Design Intelligent Board</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-ark-project-legion-on-pc-with-these-cuh-essential-solutions-for-preventing-game-crashes/"><u>Master ARK: Project Legion on PC with These Cuh Essential Solutions for Preventing Game Crashes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-6s-plus-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 6s Plus from iCloud</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-intel-hd-graphics-630-driver-problems-in-windows-a-comprehensive-guide/"><u>Troubleshooting Intel HD Graphics 630 Driver Problems in Windows: A Comprehensive Guide</u></a></li>
 </ul></div>
 
