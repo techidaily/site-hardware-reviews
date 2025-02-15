@@ -1,7 +1,7 @@
 ---
 title: Discover Why This Lenovo Laptop Captivates Tech Savvy Users with Its Exceptional Duo Features | Exclusive Review by ZDNET
-date: 2025-01-28T17:44:18.517Z
-updated: 2025-02-01T18:24:18.756Z
+date: 2025-01-28T01:56:31.267Z
+updated: 2025-02-03T04:15:55.706Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,24 +134,17 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-top-5-budget-friendly-gaming-mice-under-100/"><u>[New] Top 5 Budget-Friendly Gaming Mice (Under $100)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-weave-of-wisdom-mastering-looms-tech/"><u>[Updated] In 2024, The Weave of Wisdom Mastering Loom's Tech</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essential-guide-to-custom-voices-how-to-alter-game-character-sounds-in-free-fire-no-cost/"><u>2024 Approved The Essential Guide to Custom Voices How to Alter Game Character Sounds in Free Fire (No Cost!)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-tints-and-tonality-applying-theoretical-insight/"><u>2024 Approved Tints & Tonality Applying Theoretical Insight</u></a></li>
-<li><a href="https://article-helps.techidaily.com/advanced-visual-techniques-for-impressive-after-effects-titles/"><u>Advanced Visual Techniques for Impressive After Effects Titles</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-superior-performance-with-the-id-cooling-frozn-a620-pro-se-exceptional-value-for-gamers/"><u>Experience Superior Performance with the ID-Cooling Frozn A620 Pro SE: Exceptional Value for Gamers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/in-depth-review-evaluating-the-performance-of-western-digital-datalynx-diagnostic-utility/"><u>In-Depth Review: Evaluating the Performance of Western Digital DataLynx Diagnostic Utility</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-knowledge-with-toms-hardware-expertise/"><u>Master Your PC Knowledge With Tom’s Hardware Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-with-tom-in-depth-product-breakdowns/"><u>Mastering Hardware with Tom: In-Depth Product Breakdowns</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-electronics-tips-from-toms-hardware-hub/"><u>Mastering Your Electronics - Tips From Tom's Hardware Hub</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-best-10-free-video-translators-to-mitigate-translation-risks/"><u>New Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/on-the-road-with-tech-a-comprehensive-look-at-the-asus-rt-ax57-go-for-travel-enthusiasts-wireless-needs/"><u>On the Road with Tech: A Comprehensive Look at the Asus RT-AX57 Go for Travel Enthusiasts' Wireless Needs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-reviews-at-toms-components-and-systems/"><u>Pioneering Reviews at Tom's Components and Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/reliable-hardware-evaluations-from-toms-trusted-source/"><u>Reliable Hardware Evaluations From Tom's Trusted Source</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-aoc-monitor-connection-issues-troubleshooting-steps-for-windows-11-users/"><u>Solving AOC Monitor Connection Issues: Troubleshooting Steps for Windows 11 Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-toms-hardware-showcase-top-picks-for-your-pc-upgrades/"><u>The Ultimate Tom's Hardware Showcase: Top Picks for Your PC Upgrades</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-review-domain-unveiling-the-best-in-hardware-innovations/"><u>Tom’s Review Domain: Unveiling the Best in Hardware Innovations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guide-on-latest-gadgets/"><u>Tom's Tech Review: Comprehensive Guide on Latest Gadgets</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-sony-xperia-5-v-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Sony Xperia 5 V Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-outro-crafting-made-easy-the-best-free-guide-top-6/"><u>[New] 2024 Approved Outro Crafting Made Easy - The Best Free Guide (Top 6)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-streamlining-content-delivery-on-discord-platform/"><u>[New] 2024 Approved Streamlining Content Delivery on Discord Platform</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-from-youtube-to-tiktok-and-now-vimeo-gifs/"><u>[New] From YouTube to TikTok, and Now Vimeo-Gifs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-laughter-ledger-ranking-the-highest-viral-jokes-for-2024/"><u>[Updated] Laughter Ledger Ranking the Highest Viral Jokes for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-taming-the-obs-timeline-glitches/"><u>[Updated] Taming the OBS Timeline Glitches</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-youtubes-top-unboxing-houses-and-their-fanbase/"><u>[Updated] YouTube’s Top Unboxing Houses and Their Fanbase</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-intelligent-features-of-android-systems/"><u>Exploring the Intelligent Features of Android Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-12-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 12</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-pc-hardware-with-toms-authoritative-articles/"><u>Navigating the Latest PC Hardware with Tom's Authoritative Articles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-wisdom/"><u>Navigating the World of Technology with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-level-gameplay-a-comprehensive-review-of-the-alienware-aw2n5df-360hz-gaming-monitor-with-breathtaking-oled-technology/"><u>Next-Level Gameplay: A Comprehensive Review of the Alienware AW2n5DF 360Hz Gaming Monitor with Breathtaking OLED Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-gadget-analysis-with-toms-hardware-experts/"><u>Pioneering Gadget Analysis with Tom's Hardware Experts</u></a></li>
 </ul></div>
 

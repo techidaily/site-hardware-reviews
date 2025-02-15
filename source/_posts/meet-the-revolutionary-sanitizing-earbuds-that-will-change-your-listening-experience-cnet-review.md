@@ -1,7 +1,7 @@
 ---
 title: Meet the Revolutionary Sanitizing Earbuds That Will Change Your Listening Experience | CNET Review
-date: 2024-09-17 20:57:26
-updated: 2024-09-20 11:30:57
+date: 2025-01-30T20:45:55.604Z
+updated: 2025-02-02T17:41:34.928Z
 tags:
   - headphones
 categories:
@@ -36,6 +36,10 @@ These are easily the cleanest earbuds on the market.
 I first experienced spatial audio with the [Apple AirPods Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MLWK3AM-A-AirPods-Pro%2Fdp%2FB09JQMJHXY%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cac801988-1148-4210-9bab-4e3dad88bc4f%7Cdtp&dtb=1) and loved it even more on the [Samsung Galaxy Buds 2 Pro](https://www.zdnet.com/article/samsung-galaxy-buds-2-pro-review/). Dolby Head Tracking is a similar head-tracking sound feature and the LG Tone FREE T90Q is the world's first Dolby Atmos earbuds to have it. 
 
 That said, I've been quite impressed by the earbuds' comfortability, long battery life, and bacteria-killing UV light. But are they worth the $229 asking price? Let's find out. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -73,6 +77,10 @@ The three sizes of soft, hypoallergenic silicone ear gels certainly help with co
 
 While I like the AirPods Pro experience with the iPhone, the stem-based control system is not my ideal choice. Thankfully, LG went with the outside portion of the earbud for controls, serving as a touch-sensitive surface so you can simply tap one, two, or three times, as well as tap and hold, to trigger different functions. You can customize these gestures within the LG smartphone app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Smartphone software 
 
 To make the most of the earbuds, I highly recommend you download and install the LG Tone Free application. With this app you can view the battery status of each earbud and the charging case, manage equalizer settings, toggle Dolby Atmos head tracking, toggle the multi-point and multi-pairing option, activate noise cancellation, and so much more. It's a very well-designed application that significantly enhances the LG Tone Free experience. 
@@ -91,6 +99,10 @@ Lastly, if you lose one or both earbuds, you can trigger a loud chirping sound i
 
 **More: [Best wireless earbuds that you can buy right now](https://www.zdnet.com/article/best-wireless-earbuds/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Performance
 
 The active noise cancellation on the LG TONE Free T90Q is more subtle than what I'm used to on my AirPods Pro. Still, it works fine at creating a fairly quiet environment. I haven't had a chance to test these earbuds on an airplane, but I was able to mow the lawn and enjoy music so they passed my yard work test.
@@ -103,9 +115,17 @@ LG advertises nine hours of music playback without ANC and 18 more hours with th
 
 [Buy the LG TONE Free T90Q $118.83 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B72HWWXH%2Fref%3Dasc%5Fdf%5FB0B72HWWXH1724410800000%3Fcreative%3D395261%26creativeASIN%3DB0B72HWWXH%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cac801988-1148-4210-9bab-4e3dad88bc4f%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 LG has a lot packed into the Tone Free T90Q and, overall, I have been quite pleased with their performance. This $220-to-$240 market is loaded with high-quality earbuds right now, so you need to figure out what features are most important to you to decide if the T90Q is worth the pick-up. They are heavy on the bass, have spatial audio support, and are easily the cleanest earbuds on the market.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -138,11 +158,23 @@ The LG Tone Free T90Q offers quite a few unique features, but you may have other
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-elite-air-racers-picks-top-5-fpv-eyewear-options/"><u>[New] 2024 Approved Elite Air Racers' Picks Top 5 FPV Eyewear Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/aesthetic-excellence-vs-underwhelming-ai-a-review-of-the-microsoft-surface-pro-with-copilotplus/"><u>Aesthetic Excellence Vs. Underwhelming AI: A Review of the Microsoft Surface Pro with Copilot+</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-sound-choices-essential-downloads-guide/"><u>Best Sound Choices Essential Downloads Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-resolution-what-to-do-if-you-encounter-a-missing-module-issue/"><u>Error Resolution: What to Do If You Encounter a Missing Module Issue</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-y100t-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo Y100t Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-cutting-edge-computer-components-from-toms-gear-guides/"><u>In-Depth Analysis of Cutting-Edge Computer Components From Tom's Gear Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-verdict-on-the-pnyrp60-is-this-portable-ssd-worth-your-investment/"><u>The Verdict on the #PNY_RP60 - Is This Portable SSD Worth Your Investment?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-review-top-tech-gadgets-of-2023/"><u>Tom's Hardware Review: Top Tech Gadgets of 2023</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-potential-of-googles-latest-gemini-ai-versus-chatgpts-prowess-in-conversational-tech/"><u>Unveiling the Potential of Google's Latest Gemini AI Versus ChatGPT's Prowess in Conversational Tech</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: $40 Marvel - Exceptional Sound Quality and Style in One Affordable Package
-date: 2024-09-19 21:33:14
-updated: 2024-09-20 12:36:23
+date: 2025-01-31T02:50:12.479Z
+updated: 2025-02-03T02:23:23.117Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/34d1c23dfa69736d0b60752545dc234671
 ![The QCY H3 headphones.](https://www.zdnet.com/a/img/resize/a3aacdeae1db34de371dc24c30fb41d2c7bd9077/2024/08/20/31fe02a4-cc9f-4dd0-960b-badb20924e4d/h3hero.jpg?auto=webp&width=1280)
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -32,6 +36,10 @@ Such was the case when I received the [QCY H3 headphones](https://buy.geni.us/Pr
 **Also:** [**I gave these $79 headphones a second chance, and they surprised me in the best way**](https://www.zdnet.com/article/i-gave-these-79-headphones-a-second-chance-and-they-surprised-me-in-the-best-way/)
 
 When I opened the box, I thought, "Okay, these don't look, bad but how good can a pair of $40 headphones sound?" The answer to that question is "very good".
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The specs
 
@@ -61,6 +69,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## My experience
 
 For my usual test, I connected the H3 headphones to my [Pixel 8 Pro](https://www.zdnet.com/article/google-pixel-8-pro-review/), opened Spotify, and cranked up Rush's album "Signals".
@@ -89,6 +101,10 @@ As far as the ANC is concerned, I cannot imagine listening to these headphones w
 
 The only nits I can pick are that the 3.5mm cable should come with a ¼" adapter because most phones don't even have a headphone jack and most stereo receivers are ¼". I would have loved to plug these cans into my system and hear my turntable through them. However, I couldn't find an adapter in my mound of audio cables and connectors. Note to self: buy one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 Seriously, if you want a pair of comfortable headphones that deliver sound way above their price, you could do a whole lot worse than the [QCY H3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FQCY-H3-ANC-Headphones-Microphones%2Fdp%2FB0CFZST5DV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3f690fba-cb49-49f4-8033-7f5339716b91%7Cdtp&dtb=1) headphones. Even without using an app to customize the EQ, these headphones will make your music come to life with a blended balance of lows, mids, and highs. These cans might not be audiophile-grade, but you could be fooled into thinking they come from a company like Beyerdynamic, Audio Technica, Dennon, or Sennheiser -- and that's high praise. 
@@ -114,11 +130,29 @@ Seriously, if you want a pair of comfortable headphones that deliver sound way a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-double-the-joy-master-looping-of-youtube-media-on-televisions/"><u>[New] Double the Joy Master Looping of YouTube Media on Televisions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-galaxy-s8-showdown-next-gen-in-4k-superiority/"><u>[New] In 2024, The Galaxy S8 Showdown Next-Gen in 4K Superiority</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-stratagem-starter-kit-unboxing-business-growth/"><u>[Updated] In 2024, Stratagem Starter Kit Unboxing Business Growth</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadgetry-with-tom-navigating-the-world-of-computer-hardware/"><u>Advanced Gadgetry with Tom: Navigating the World of Computer Hardware</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-webcams-elevating-podcast-aesthetics-for-2024/"><u>Best Webcams Elevating Podcast Aesthetics for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-computing-advice-with-toms-hardware-haven/"><u>Expert Computing Advice with Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-cutting-edge-technology-with-toms-hardware-hub/"><u>Exploring Cutting-Edge Technology with Tom's Hardware Hub</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-tecno-pop-7-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Tecno Pop 7 Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-infinite-jest-10-ultimate-meme-layouts/"><u>In 2024, Infinite Jest - 10 Ultimate Meme Layouts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-trustworthy-advice-from-toms-hardware-experts/"><u>Navigating New Tech: Trustworthy Advice From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seek-immediate-medical-attention-for-all-significant-eye-injuries-to-prevent-complications-such-as-glaucoma-or-retinal-detachment/"><u>Seek Immediate Medical Attention for All Significant Eye Injuries to Prevent Complications Such as Glaucoma or Retinal Detachment</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-list-of-10-best-zero-cost-srt-conversion-software/"><u>Ultimate List of 10 Best Zero-Cost Srt Conversion Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-power-of-raspberry-pi-cm4-a-tribute-to-industrial-innovation/"><u>Unboxing the Power of Raspberry Pi CM4 - A Tribute to Industrial Innovation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-features-and-performance-of-geekworm-x1-011-a-comprehensive-review/"><u>Unveiling the Features and Performance of Geekworm X1 0/1/1 - A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-modern-marvel-expert-analysis-of-the-lian-li-hydroshift-lcd-360s-case/"><u>Unveiling the Modern Marvel: Expert Analysis of the Lian Li Hydroshift LCD 360S Case</u></a></li>
+</ul></div>
+

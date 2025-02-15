@@ -1,7 +1,7 @@
 ---
 title: "Surprising Revelation: The Superior Earbuds That Beat Apple and Bose - Get 50%% Off with This Insider's Guide!"
-date: 2024-09-17 16:15:30
-updated: 2024-09-20 12:20:12
+date: 2025-01-27T02:18:01.786Z
+updated: 2025-02-03T03:37:25.407Z
 tags:
   - headphones
 categories:
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 
 Max Buondonno/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the deal?
 
 The [LG Tone Free T80 earbuds](https://www.jdoqocy.com/click-9041660-15865906-1721856070000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) are now $50 off, and ZDNET readers can get an additional $20 off with the code ZDNETTONE20 now through August 4, 2024\. 
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -87,6 +95,10 @@ Regarding the battery life; it's good, but not quite as good as advertised. LG s
 
 The battery life on the T80s is measured with the ANC off. When you turn it on, those estimates drop to five hours on a full charge and 20 hours with the case. In reality, I was able to get between 3.5 and 4.5 hours of battery life with ANC on, around six hours of battery life with it off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [LG Tone Free T80 earbuds](https://www.jdoqocy.com/click-9041660-15865906-1721856070000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) offer a solid feature set for $199\. I enjoyed their comfortable design and good sound quality, as well as the surprisingly solid ANC. Battery life could be better, and I'm still not sold on the whole Dolby Atmos spatial audio thing. But overall, I was surprised by how much I liked the T80s.
@@ -114,11 +126,29 @@ That being said, they can't match the pair of $149 earbuds I recommend to everyo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-advice-on-iphone-landscape-imaging-for-killer-photos/"><u>[New] Expert Advice on iPhone Landscape Imaging for Killer Photos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-authentic-follower-acquisition-on-tiktok/"><u>[Updated] 2024 Approved Authentic Follower Acquisition on TikTok</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-fortune-in-focus-5-best-maps-for-treasures/"><u>[Updated] In 2024, Fortune in Focus 5 Best Maps for Treasures</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-how-to-record-multiple-monitors/"><u>2024 Approved How to Record Multiple Monitors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-safely-save-your-streaming-stash-with-these-free-tools/"><u>2024 Approved Safely Save Your Streaming Stash with These Free Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-steady-yourself-against-oculus-nausea/"><u>2024 Approved Steady Yourself Against Oculus Nausea</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-excellence-comprehensive-analysis-of-the-acer-predator-orion-egpu/"><u>Affordable Excellence: Comprehensive Analysis of the Acer Predator Orion eGPU</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-boost-your-capacity-20-premier-gratis-cloud-storage-options/"><u>In 2024, Boost Your Capacity 20 Premier Gratis Cloud Storage Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-bluehosts-cloud-vps-and-shared-hosting-offerings/"><u>In-Depth Look at Bluehost's Cloud, VPS, and Shared Hosting Offerings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-components-with-toms-guide/"><u>Inside the World of Components with Tom's Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-gaming-on-windows-with-asus-rog-ally-x-an-insightful-revenue-at-an-elevated-price/"><u>Mastering Mobile Gaming on Windows with Asus ROG Ally X - An Insightful Revenue at an Elevated Price</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-tech-toms-hardware-chronicles/"><u>Navigate the World of Tech: Tom's Hardware Chronicles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-reviews-by-tom-unveiling-the-best-in-hardware-technology/"><u>Pioneering Reviews by Tom: Unveiling the Best in Hardware Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/temu-reviewed-is-it-trustworthy-key-insights-for-your-initial-purchase-decision/"><u>Temu Reviewed: Is It Trustworthy? Key Insights for Your Initial Purchase Decision</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-tech-picks-a-comprehensive-review-by-toms-gear-critic/"><u>Unveiling Top Tech Picks: A Comprehensive Review by Tom's Gear Critic</u></a></li>
+</ul></div>
+

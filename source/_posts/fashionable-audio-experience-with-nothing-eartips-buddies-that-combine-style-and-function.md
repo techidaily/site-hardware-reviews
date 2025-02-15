@@ -1,7 +1,7 @@
 ---
 title: Fashionable Audio Experience with Nothing Eartips – Buddies That Combine Style and Function
-date: 2024-09-17 22:31:40
-updated: 2024-09-20 12:23:20
+date: 2025-01-28T18:18:18.477Z
+updated: 2025-02-03T04:48:53.869Z
 tags:
   - headphones
 categories:
@@ -36,6 +36,10 @@ The Ear Stick wants to be a part of your everyday carry, much like cosmetics.
 Nothing says its newest earbuds, the Ear Stick, are not the successor to the Ear 1, but instead, usher in a separate accessory in a different form factor. What remains, however, is the company's fashion-forward mindset. Debuting as a part of designer [Chet Lo's SS23 runway during London Fashion Week](https://www.vogue.com/fashion-shows/spring-2023-ready-to-wear/chet-lo), Nothing's Ear Stick, inspired by a cosmetic classic -- lipstick -- are more than just a tech gadget, they're a fashion statement. 
 
 While case design seems to be the earbuds' most obvious draw, Nothing promises that the earbuds themselves are ideal for comfort and other sound aspects -- excluding Active Noise Cancellation (ANC). While fun, the new product seems like another funky concept that Nothing is throwing against a wall, but does it stick? Read on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -76,6 +80,10 @@ The Ear Stick is designed to look like a cosmetic staple -- lipstick.
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's old is new
 
 Nothing claims that the flat-based, cushionless earbuds make for a more ergonomic and comfortable fit. Like [Apple's original AirPods model](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fapple-airpods-true-wireless-bluetooth-headphones-2nd-generation-with-charging-case%2F-%2FA-54191097&publisher_slug=itechdaily19598&exclusive=1), the Ear Stick lacks the silicon cushion that I typically see with other offerings on the market. The buds sit flush against the outer part of my ear canal, but that's about as far as it gets in terms of fit. 
@@ -85,6 +93,10 @@ Nothing claims that the flat-based, cushionless earbuds make for a more ergonomi
 Nothing says this design helps the earbuds go unnoticed in your ears, even after wearing them all day long. While I found the light weight acceptable in the first two hours of listening, anything after that made the larger-sized buds more apparent. Keep in mind that the Ear Stick only comes in one size – no extra tips or cushions are included – so if they feel too big and you experience minor pains, I'd stick with something more personalizable. 
 
 My ZDNET colleague, Emery Wright, shared a similar sentiment, saying that she'd rather play it safe with her "[archaic AirPods](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fapple-airpods-true-wireless-bluetooth-headphones-2nd-generation-with-charging-case%2F-%2FA-54191097&publisher_slug=itechdaily19598&exclusive=1)" than try and fit the wider buds into her ears.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Earbuds, but make it fashion
 
@@ -110,6 +122,10 @@ The Ear Stick has a refreshing earbuds case design.
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Nothing says ecosystem like exclusive features
 
 ZDNET's June Wan, who [reviewed the Nothing Phone 1](https://www.zdnet.com/article/nothing-phone-1-review/) earlier this year, also spent time with the Ear Stick to get a feel for Nothing's product-exclusive features. Most notable is the Ear Stick's low lag mode, which reduces the latency of the audio transmission and is ideal for mobile gaming. From what he's seen (and heard), the feature certainly helps with producing the audio from games so that what you see on screen is heard almost instantaneously. Similar low-latency features are available with [gaming-centric earbuds](https://www.zdnet.com/home-and-office/home-entertainment/meet-the-worlds-first-made-for-meta-wirelss-earbuds/), but if you want something a little more mainstream, then the Ear Stick does the job just as well. 
@@ -119,6 +135,10 @@ The Nothing Phone 1 also presents you with a quick toggle to access the Ear Stic
 The Ear Stick fits perfectly with the Nothing Phone 1 aesthetic. 
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Mic quality
 
@@ -175,11 +195,24 @@ Besides the Nothing Ear Stick, here are three other wireless earbuds that you sh
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-premier-tiktok-editing-apps-for-windows-users/"><u>[New] 2024 Approved Premier TikTok Editing Apps for Windows Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-aesthetic-enhancement-font-integration-for-ae-for-2024/"><u>[New] Aesthetic Enhancement Font Integration for AE for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-free-video-calls-on-pcmac-os-for-easy-online-meetings-for-2024/"><u>[New] Top Free Video Calls on PC/Mac OS for Easy Online Meetings for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-rode-streamer-x-fulfill-your-live-broadcast-needs/"><u>In-Depth Review of the Rode Streamer X: Fulfill Your Live Broadcast Needs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-tech-world-top-picks-and-insights-by-toms-hardware/"><u>Inside the Tech World: Top Picks and Insights by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-expertise-in-motherboards-cpus-and-more-a-tech-hub/"><u>Tom’s Expertise in Motherboards, CPUs & More | A Tech Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-toms-gadget-experts-comprehensive-electronics-analysis/"><u>Unveiling Tom's Gadget Experts: Comprehensive Electronics Analysis</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-10-robotic-voice-generators-with-comparison-table/"><u>Updated In 2024, Top 10 Robotic Voice Generators (with Comparison Table)</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/top-1-klonirovanie-programmy-dlya-dannyh-windows-luchshij-vybor-posle-carbon-copy-cloner/"><u>Топ-1 Клонирование Программы Для Данных Windows - Лучший Выбор После Carbon Copy Cloner</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Affordable Sound Marvels: Can These Low-Cost $35 In-Ear Headphones Compete with Luxury Audio Gear? | ElectronicsInsight"
-date: 2024-09-18 23:42:24
-updated: 2024-09-20 12:40:52
+date: 2025-01-29T01:30:05.995Z
+updated: 2025-02-02T17:39:26.028Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 ![Describe what's shown in the image.](https://www.zdnet.com/a/img/resize/5ea15817af4776af2e4d6d6c82c5965c88c65ead/2024/07/31/dc5dca84-096a-4d37-9f88-68943b3ad101/x08hero.jpg?auto=webp&precrop=1080,608,x0,y0&width=1280)
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -32,6 +36,10 @@ I'm glad I went that route. Had I known they cost less than $40, I would have au
 Before I go any further, I don't want to mislead anyone. These earbuds will not in any way stand up to the likes of the [Denon PerL Pro earbuds](https://www.zdnet.com/article/i-was-skeptical-of-these-350-wireless-earbuds-until-they-knocked-my-socks-off/) which, for me, are the gold standard when it comes to earbuds. Although the X08s don't have the dynamic range or quality of noise cancellation found in the Denons, these inexpensive earbuds sound like they cost more than they actually do. 
 
 [ZDNET RECOMMENDS Tagry X08 earbuds These earbuds punch well above their price point to deliver solid bass, good battery life, and all day comfort. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FTAGRY-Bluetooth-Headphones-Earphones-Waterproof%2Fdp%2FB09LD2D1TV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C61a275e5-d11c-4bb0-bd25-2cf36d28f548%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tagry X08 earbuds tech specs
 
@@ -58,6 +66,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## My experience
 
 As I mentioned, when I first connected the X08 earbuds, I was pleasantly surprised at how good the sound was. And when I looked up the price, I was seriously impressed.
@@ -83,6 +95,10 @@ Of course, most consumers put more emphasis on bass than mids or highs, and in t
 I did have one instance where my Pixel 8 Pro assumed it was connected to the earbuds but instead, the sound came from the phone's speaker. I can't be certain if the problem was due to the earbuds or the phone, but a restart of my Pixel solved the problem. 
 
 As far as the controls are concerned, the standard taps apply. The only tap control missing is the three-tap track repeat (something I frequently use when running).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -111,11 +127,33 @@ At $35, you'd be hard-pressed to find a better deal on a pair of solid-sounding 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-high-definition-on-demand-samsungs-ue590-monitor-revisited/"><u>[Updated] 2024 Approved High Definition on Demand Samsung's UE590 Monitor Revisited</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-applying-luts-for-cinematic-color-grades/"><u>[Updated] Applying Luts for Cinematic Color Grades</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-asrock-b760m-pro-rs-motherboard-featuring-plenty-of-m2-support/"><u>Affordable ASRock B760M Pro RS Motherboard: Featuring Plenty of M.2 Support</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/atlas-air-headphones-by-turtle-beach-next-level-sound-ultimate-comfort/"><u>ATLAS Air Headphones by Turtle Beach: Next-Level Sound, Ultimate Comfort</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beyond-the-screen-a-vr-odyssey/"><u>Beyond the Screen A VR Odyssey</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/content-marketing/"><u>Content Marketing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-components-with-tom-hardware-hub/"><u>Exploring Computer Components with Tom - Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-high-performance-gadgets-with-toms-hardware-insights/"><u>Exploring High-Performance Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-get-past-c1900101-hurdle-in-installing-windows-10/"><u>How to Get Past C1900101 Hurdle in Installing Windows 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-stay-chilled-in-depth-analysis-of-the-silent-and-powerful-levelplay-combat-air-ca4-cpu-cooler/"><u>The Ultimate Guide to Stay Chilled: In-Depth Analysis of the Silent & Powerful Levelplay Combat Air CA4 CPU Cooler</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-review-of-the-logitech-g5s-tkl-compact-powerful-keyboard-at-an-attainable-price-point/"><u>The Ultimate Review of the Logitech G5s TKL - Compact, Powerful Keyboard at an Attainable Price Point</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-the-latest-in-computer-gear/"><u>Tom's Tech Insights: Your Guide to the Latest in Computer Gear</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-4-apple-devices-currently-not-worth-your-money-insights/"><u>Top 4 Apple Devices Currently Not Worth Your Money: Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-iphone-16pro-defenders-expert-verified-picks-cnet/"><u>Ultimate Guide to iPhone 16/Pro Defenders : Expert Verified Picks | CNET</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-expert-picks-best-voice-isolation-technologies-for-music-creators-for-2024/"><u>Updated Expert Picks Best Voice Isolation Technologies for Music Creators for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-trusted-advisor-in-electronics-insider-knowledge-with-toms-hardware-reviews/"><u>Your Trusted Advisor in Electronics: Insider Knowledge with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ashmya-alnskh-alahtyatya-bshkl-faaal-mn-krs-slb-il-ssd-fy-thlatha-khtoat/"><u>أسهمية النسخ الاحتياطية بشكل فعال من قرص صلب إلى SSD في ثلاثة خطوات</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Discover the Power of Long-Lasting Audio with Our Favorite Bone Conduction Headset, Featuring a Stellar 12 Hours of Playtime.
-date: 2024-09-18 19:27:54
-updated: 2024-09-20 10:56:41
+date: 2025-01-31T04:40:11.170Z
+updated: 2025-02-02T22:02:39.431Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 ![Shokz OpenRun Pro 2 headphones on head](https://www.zdnet.com/a/img/resize/66e7b1806c3713734abc441d69881af24aa9fcd7/2024/08/27/8e3835ce-6ac2-4afd-ba58-aa16088a21ea/dsc02219.jpg?auto=webp&precrop=2997,1683,x0,y52&width=1280)
 
 Nina Raemont/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways 
 
@@ -67,6 +71,10 @@ As someone motivated most by a booming, loud song as I run, this disappointed me
 
 These headphones are supposed to have improved microphones for clear calls, but while sending voice memos to myself, the audio felt warbly and muddy. I could still hear myself fine, but it wasn't lucid. Another thing I'd like to see is better notifications indicating that the OpenRun Pro 2 have connected to your device and are powered on. Same with powering off: the headphones don't seem to blink or flash to indicate they've turned off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice 
 
 Hardcore marathoners and cyclists will love the longer battery life, the comfortable build, and durability of the [Shokz OpenRun Pro 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Faw%2Fd%2FB0D2HKCMBP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5cb6c0f3-e001-4b7e-92b9-d7b01575f155%7Cdtp&dtb=1). I enjoyed wearing these headphones while exercising because they are light and unobtrusive, perfect for workouts in the park and workdays in the office.
@@ -94,11 +102,30 @@ Plus, the OpenRun Pro 2 is the same price as the OpenRun Pro, but has more batte
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-optimize-game-console-audio-settings-on-sony-platforms/"><u>[New] Optimize Game Console Audio Settings on Sony Platforms</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-essential-tips-for-choosing-tiktok-screenshots/"><u>[Updated] In 2024, Essential Tips for Choosing TikTok Screenshots</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341755592-2x48gb-powerhouse-unveiled-explore-the-might-of-gskills-trident-z5-rgb-ddr5-ram-for-ultimate-motherboard-pairing/"><u>2X48GB Powerhouse Unveiled: Explore the Might of G.SKILL's Trident Z5 RGB DDR5 RAM for Ultimate Motherboard Pairing</u></a></li>
+<li><a href="https://win-best.techidaily.com/der-einsatz-von-schlagzeug-und-blechblasern/"><u>Der Einsatz Von Schlagzeug Und Blechbläsern</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-electronics-with-toms-gear-advice/"><u>Expert Insights on Electronics with Tom's Gear Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/google-chrome-update-solves-shockwave-flash-compatibility-errors/"><u>Google Chrome Update Solves Shockwave Flash Compatibility Errors</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-secrets-for-capturing-powerpoint-perfection-on-camera/"><u>In 2024, Secrets for Capturing PowerPoint Perfection on Camera</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-world-of-high-performance-technology-and-innovation/"><u>Inside Tom's World of High-Performance Technology and Innovation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-landscape-of-ai-education-an-introduction-to-9-must-visit-communities/"><u>Navigating the Landscape of AI Education: An Introduction to 9 Must-Visit Communities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-gear-with-toms-hardware-experts/"><u>Navigating the World of PC Gear with Tom's Hardware Experts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/post-upgrade-inkjet-printer-unresponsive/"><u>Post Upgrade, Inkjet Printer Unresponsive</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-up-to-date-tech-insights-from-toms-hardware/"><u>The Definitive Guide to Up-to-Date Tech: Insights From Tom’s Hardware</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210823529-9783988263049-the-history-of-magic-including-a-clear-and-precise-exposition-of-its-rites-and-ist-mysteries/"><u>The History of Magic Including a Clear and Precise Exposition of its Rites and ist Mysteries | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-gadgets-the-guide-by-toms-hardware-team/"><u>Unveiling Cutting-Edge Gadgets - The Guide by Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-with-toms-hardware-reviews/"><u>Unveiling New Gadgets with Tom's Hardware Reviews</u></a></li>
+</ul></div>
+

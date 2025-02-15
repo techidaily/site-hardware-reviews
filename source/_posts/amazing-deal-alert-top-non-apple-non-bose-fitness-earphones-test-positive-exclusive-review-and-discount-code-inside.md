@@ -1,7 +1,7 @@
 ---
 title: "Amazing Deal Alert: Top Non-Apple, Non-Bose Fitness Earphones Test Positive! Exclusive Review & Discount Code Inside"
-date: 2024-09-18 14:28:11
-updated: 2024-09-20 10:10:58
+date: 2025-01-31T22:03:51.195Z
+updated: 2025-02-02T16:17:04.103Z
 tags:
   - headphones
 categories:
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/72f83f594e8347a65931f8cd6726d7752e9fa455e
 
 Max Buondonno/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the deal?
 
 The [LG Tone Free T80 earbuds](https://www.jdoqocy.com/click-9041660-15865906-1721856070000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) are now $50 off, and ZDNET readers can get an additional $20 off with the code ZDNETTONE20 now through August 4, 2024\. 
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -87,6 +95,10 @@ Regarding the battery life; it's good, but not quite as good as advertised. LG s
 
 The battery life on the T80s is measured with the ANC off. When you turn it on, those estimates drop to five hours on a full charge and 20 hours with the case. In reality, I was able to get between 3.5 and 4.5 hours of battery life with ANC on, around six hours of battery life with it off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [LG Tone Free T80 earbuds](https://www.jdoqocy.com/click-9041660-15865906-1721856070000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) offer a solid feature set for $199\. I enjoyed their comfortable design and good sound quality, as well as the surprisingly solid ANC. Battery life could be better, and I'm still not sold on the whole Dolby Atmos spatial audio thing. But overall, I was surprised by how much I liked the T80s.
@@ -114,11 +126,27 @@ That being said, they can't match the pair of $149 earbuds I recommend to everyo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-achieve-lightning-fast-periscope-transmission/"><u>[Updated] How to Achieve Lightning-Fast Periscope Transmission</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-immediate-measures-to-reactivate-stopped-facebook-live/"><u>[Updated] Immediate Measures to Reactivate Stopped Facebook LIVE</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/camera-face-off-pixel-extreme-vs-iphone-15-who-wins-and-who-shocks-in-photographic-battle/"><u>Camera Face-Off: Pixel eXtreme Vs. IPhone 15 - Who Wins and Who Shocks in Photographic Battle?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-windows-11s-notorious-red-screen-anomaly/"><u>Diagnosing and Repairing Windows 11'S Notorious Red Screen Anomaly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-performance-of-levelplay-combat-air-ca4-cpu-cooler-unmatched-quietness-and-reliability/"><u>Evaluating the Performance of Levelplay Combat Air CA4 CPU Cooler: Unmatched Quietness & Reliability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-gadgets-by-toms-electronics-hub/"><u>Expert Analysis on Gadgets by Tom's Electronics Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-top-notch-equipment-with-toms-hardware-insights/"><u>Exploring Top-Notch Equipment with Tom's Hardware Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonizing-music-posting-with-legal-standards/"><u>In 2024, Harmonizing Music Posting with Legal Standards</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-premium-online-meeting-applications-no-zoom/"><u>In 2024, Premium Online Meeting Applications (No Zoom)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-trends-at-tomer-gadget-central-your-source-for-cutting-edge-devices/"><u>Mastering Tech Trends at Tom'er Gadget Central: Your Source for Cutting-Edge Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-apart-the-mini-yet-powerful-in-depth-analysis-of-asus-rog-nuc-970-pc/"><u>Taking Apart The Mini Yet Powerful: In-Depth Analysis Of Asus ROG NUC 970 PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-samsung-galaxy-xcover-7-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Samsung Galaxy XCover 7 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-pros-and-cons-of-pimoronis-dual-layered-nvme-ssd-the-complete-breakdown/"><u>Unveiling the Pros and Cons of Pimoroni's Dual-Layered NVMe SSD: The Complete Breakdown</u></a></li>
+</ul></div>
+

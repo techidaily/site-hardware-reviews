@@ -1,7 +1,7 @@
 ---
 title: "Unbelievable: Lenovo IdeaPad 3I Slashes Price by $300 at Walmart – Limited Time Offer on ZDNet"
-date: 2025-01-27T18:33:17.833Z
-updated: 2025-02-01T18:34:43.978Z
+date: 2025-01-28T17:40:01.729Z
+updated: 2025-02-02T21:05:56.942Z
 tags:
   - laptops
 categories:
@@ -32,7 +32,7 @@ Under the hood, the IdeaPad 3i houses a 13th-Gen Intel Core i7-1255U processor, 
 Other notable features include a full-size keyboard for comfortable typing and a pair of 1.5W Dolby Audio speakers, which go well with the 720p camera for video calls. If you're looking for an affordable, well-performing laptop, the once-$700 [Lenovo IdeaPad 3i](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-IdeaPad-3i-15-Intel-Core-i7-1255U-16GB-RAM-512-GB-SSD-Arctic-Grey-Windows-11-Home-82RK017QUS%2F5527026637&subId1=zd-__COM_CLICK_ID__-dtp) is one of the best on the market. Just act fast once the sale does go live -- this model doesn't appear to be available for purchase on Lenovo's website, so we don't expect the deal to last. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -69,19 +69,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-unveiling-the-top-10-global-explorer-channels/"><u>[New] 2024 Approved Unveiling the Top 10 Global Explorer Channels</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-master-list-of-best-mp4-players-for-2024/"><u>[New] Master List of Best MP4 Players for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-stroke-of-genius-best-10-creative-sketch-software-for-mac-free/"><u>[Updated] 2024 Approved Stroke of Genius Best 10 Creative Sketch Software for Mac (Free)</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-definitive-srt-file-generation-manual/"><u>2024 Approved The Definitive SRT File Generation Manual</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-kinemasters-gs-mastery-for-pro-video-editors/"><u>2024 Approved Unraveling KineMaster’s GS Mastery for Pro Video Editors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-with-tom-a-detailed-guide-by-toms-hardware/"><u>Exploring Hardware with Tom: A Detailed Guide by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-gadgets-with-toms-computer-diary/"><u>Exploring the Latest Gadgets with Tom's Computer Diary</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gamers-beware-this-is-how-the-monoprice-crystal-pro-40-inch-144hz-screen-offers-big-savings-without-sacrificing-quality/"><u>Gamers Beware! This Is How the Monoprice Crystal Pro 40-Inch 144Hz Screen Offers Big Savings without Sacrificing Quality</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/gopro-karma-demystified-a-comprehensive-look/"><u>GoPro Karma Demystified A Comprehensive Look</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovations-in-hand-tracking-and-gesture-detection/"><u>In 2024, Innovations in Hand Tracking and Gesture Detection</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-instructors-blueprint-for-video-assisted-learning/"><u>In 2024, The Instructor's Blueprint for Video-Assisted Learning</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-hardware-with-tom-a-comprehensive-guide/"><u>Navigating the Latest in Hardware with Tom - A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-todays-tech-landscape-a-look-inside-toms-hardware/"><u>Navigating Today's Tech Landscape: A Look Inside Tom's Hardware</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-recommended-mesh-wi-fi-setups/"><u>Top Recommended Mesh Wi-Fi Setups</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-free-secure-video-calls-top-10-safe-apps-for-android-and-ios-users/"><u>[New] 2024 Approved Free, Secure Video Calls Top 10 Safe Apps for Android and iOS Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-start-chatting-in-real-time-learn-live-on-instagram-for-2024/"><u>[Updated] Start Chatting in Real-Time Learn Live on Instagram for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-sonos-commits-enhancements-reviving-cherished-application-functions/"><u>1. Sonos Commits Enhancements: Reviving Cherished Application Functions</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78plus-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/anthony-macciola-abbyys-leading-visionary-as-chief-innovation-officer/"><u>Anthony Macciola: ABBYY's Leading Visionary as Chief Innovation Officer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-news-tile-encounters-serious-data-breach-immediate-measures-and-consequences-explained/"><u>Breaking News: Tile Encounters Serious Data Breach – Immediate Measures and Consequences Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-enhanced-capabilities-of-your-apple-watch-with-watchos-11-top-new-features-revealed/"><u>Discover the Enhanced Capabilities of Your Apple Watch with WatchOS 11: Top New Features Revealed!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-huawei-nova-y71-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Huawei Nova Y71 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-ranking-wireless-sound-systems-the-ultimate-guide-to-the-finest-portable-speakers/"><u>Top-Ranking Wireless Sound Systems - The Ultimate Guide to the Finest Portable Speakers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-smart-home-controllers-the-ultimate-list/"><u>Top-Rated Smart Home Controllers: The Ultimate List</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transforming-plain-words-into-3d-marvels-ps-guide/"><u>Transforming Plain Words Into 3D Marvels PS Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-streamer-comparison-clash-of-titans-apple-tv-roku-amazon-fire-tv-and-google-tv/"><u>Ultimate Streamer Comparison: Clash of Titans - Apple TV, Roku, Amazon Fire TV & Google TV</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-usb-standards-a-comprehensive-guide-to-generations-1-2-and-2x2-decoding-usb-32/"><u>Understanding USB Standards: A Comprehensive Guide to Generations 1, 2, & 2X2 - Decoding USB 3.2</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveil-world-written-large-innovative-zooming-tips/"><u>Unveil World' Written Large Innovative Zooming Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrade-your-computers-performance-with-our-prime-day-special-on-high-speed-nvme-ssd-drives/"><u>Upgrade Your Computer's Performance with Our Prime Day Special on High-Speed NVMe SSD Drives!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Next Month's Apple Event: The Anticipated Unveiling of New AirPods - Essential Updates We Hope For"
-date: 2024-09-18 20:59:43
-updated: 2024-09-20 10:21:31
+date: 2025-01-31T00:11:56.540Z
+updated: 2025-02-02T22:47:55.538Z
 tags:
   - headphones
 categories:
@@ -21,6 +21,10 @@ Credible reports assert that Apple has two new versions of [AirPods](https://www
 
 Apple's current AirPods lineup consists of one premium over-ear option, one premium in-ear version, and two base model options with minimal upgraded features. Reports say that Apple's new earbuds will replace the second and third-generation base model AirPods. Here are the features I'd like to see in the upcoming releases.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Angled tips only
 
 The AirPods Pro and third-generation AirPods sport angled ear tips, compared to the second-generation AirPods with straight ear tips. Angled ear tips enhance audio clarity, promote a more comfortable fit, and provide a better seal between the earbuds and the ear canal for improved noise isolation.
@@ -29,6 +33,10 @@ The AirPods Pro and third-generation AirPods sport angled ear tips, compared to 
 
 I would like Apple to retire the second-generation AirPods' design altogether or at least reserve it only for wired EarPods. The design can be uncomfortable and cheap-feeling, leaving customers asking why they're paying $129 for glorified EarPods, which are only $20.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Find My speaker
 
 Apple's AirPods Pro 2 feature a small speaker on the bottom of the charging case that rings when you press "Play Sound" in the Find My app. This speaker helps when you know your AirPods are nearby, but you can't pinpoint exactly where they are.
@@ -36,6 +44,10 @@ Apple's AirPods Pro 2 feature a small speaker on the bottom of the charging case
 Jada Jones/ZDNET
 
 Right now, the AirPods Pro 2 are the only AirPods with this speaker, and I'd like Apple to implement it into all of its Find My-compatible AirPods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Wired listening
 
@@ -56,6 +68,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 To take my requests a step further, I'd like to see AirPods Max 2's USB-C compatibility allow them to simultaneously play wired audio and charge iPhones with USB-C ports, similar to their distant cousin, the [Beats Studio Pro](https://www.zdnet.com/article/beats-studio-pro-review/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. A power button
 
@@ -86,11 +102,31 @@ However, these headphones eventually turn themselves off completely after an ext
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-avoiding-piracy-safe-techniques-for-youtube-to-mp4/"><u>[New] In 2024, Avoiding Piracy Safe Techniques for Youtube-to-MP4</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-spectacular-top-liquid-physics-gaming-for-2024/"><u>[New] Spectacular Top Liquid Physics Gaming for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-edu-core-definitive-learning-channels-online/"><u>[Updated] Edu-Core Definitive Learning Channels Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-youtubes-hidden-feature-stop-snippet-viewing/"><u>[Updated] Unveiling YouTube's Hidden Feature Stop Snippet Viewing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-kingston-fury-ddr5-6000-c40-with-dual-channels-a-thorough-review-of-its-capable-execution/"><u>Comprehensive Kingston Fury DDR5-6000 C40 with Dual Channels: A Thorough Review of Its Capable Execution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-pc-hardware-expert-insights-from-toms-tech-corner/"><u>Discover the Latest in PC Hardware: Expert Insights From Tom's Tech Corner</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-wbk-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to .wbk file</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-a38-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo A38 Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-electronic-analysis-by-the-pros-at-toms-hardware-review/"><u>In-Depth Electronic Analysis by the Pros at Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-computer-systems-the-ultimate-guide-by-toms-hardware-specialists/"><u>Mastering Computer Systems: The Ultimate Guide by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-game-field-with-the-aorus-fo32u2p-an-oled-gaming-monitor-that-redefines-luxury-and-speed-at-240hz-and-4k-resolution/"><u>Mastering the Game Field with the Aorus FO32U2P - An OLED Gaming Monitor That Redefines Luxury and Speed at 240Hz & 4K Resolution</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/mastering-voice-capture-on-a-windows-11-pc/"><u>Mastering Voice Capture on a Windows 11 PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nzxt-h7-flow-critique-ensuring-a-protected-experience/"><u>NZXT H7 Flow Critique: Ensuring a Protected Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-analysis-by-tom-mastering-your-tech-choices/"><u>Pioneering Hardware Analysis by Tom - Mastering Your Tech Choices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-media-unrecognition-in-windows-vlc/"><u>Resolving Media Unrecognition in Windows, VLC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-gadgets-and-components/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Gadgets and Components</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-kodi-customization-skins-enhance-your-media-center-easy-instructions-and-tutorials/"><u>Top Kodi Customization Skins: Enhance Your Media Center! - Easy Instructions and Tutorials</u></a></li>
+</ul></div>
+

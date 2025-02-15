@@ -1,7 +1,7 @@
 ---
 title: "$40 Marvels: A Budget-Friendly Audio Feat with Impressive Design & Performance, Explored at ZDNet"
-date: 2024-09-19 19:50:25
-updated: 2024-09-20 10:10:31
+date: 2025-01-31T04:02:26.189Z
+updated: 2025-02-02T20:46:28.080Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/00c43aac4ac36494822026f46081d40ded4f30b2a
 ![The QCY H3 headphones.](https://www.zdnet.com/a/img/resize/a3aacdeae1db34de371dc24c30fb41d2c7bd9077/2024/08/20/31fe02a4-cc9f-4dd0-960b-badb20924e4d/h3hero.jpg?auto=webp&width=1280)
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -32,6 +36,10 @@ Such was the case when I received the [QCY H3 headphones](https://buy.geni.us/Pr
 **Also:** [**I gave these $79 headphones a second chance, and they surprised me in the best way**](https://www.zdnet.com/article/i-gave-these-79-headphones-a-second-chance-and-they-surprised-me-in-the-best-way/)
 
 When I opened the box, I thought, "Okay, these don't look, bad but how good can a pair of $40 headphones sound?" The answer to that question is "very good".
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The specs
 
@@ -61,6 +69,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## My experience
 
 For my usual test, I connected the H3 headphones to my [Pixel 8 Pro](https://www.zdnet.com/article/google-pixel-8-pro-review/), opened Spotify, and cranked up Rush's album "Signals".
@@ -89,6 +101,10 @@ As far as the ANC is concerned, I cannot imagine listening to these headphones w
 
 The only nits I can pick are that the 3.5mm cable should come with a ¼" adapter because most phones don't even have a headphone jack and most stereo receivers are ¼". I would have loved to plug these cans into my system and hear my turntable through them. However, I couldn't find an adapter in my mound of audio cables and connectors. Note to self: buy one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 Seriously, if you want a pair of comfortable headphones that deliver sound way above their price, you could do a whole lot worse than the [QCY H3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FQCY-H3-ANC-Headphones-Microphones%2Fdp%2FB0CFZST5DV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C613c2199-bb94-46bf-9163-f92da69b86ea%7Cdtp&dtb=1) headphones. Even without using an app to customize the EQ, these headphones will make your music come to life with a blended balance of lows, mids, and highs. These cans might not be audiophile-grade, but you could be fooled into thinking they come from a company like Beyerdynamic, Audio Technica, Dennon, or Sennheiser -- and that's high praise. 
@@ -114,11 +130,31 @@ Seriously, if you want a pair of comfortable headphones that deliver sound way a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-cutting-edge-platforms-for-exceptional-broadcast/"><u>[New] 2024 Approved Cutting-Edge Platforms for Exceptional Broadcast</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-iphone-landscape-mastery-tips-that-work-like-magic/"><u>[Updated] In 2024, IPhone Landscape Mastery Tips That Work Like Magic</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-youtube-star-level-stabilization-tools-listed/"><u>2024 Approved YouTube Star-Level Stabilization Tools Listed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-computer-components-decoded-at-toms-hardware-source/"><u>Cutting-Edge Computer Components Decoded at Tom's Hardware Source</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/dissecting-revenue-allocation-for-shortform-content-makers/"><u>Dissecting Revenue Allocation for Shortform Content Makers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-see-who-is-watching-your-youtube-videos/"><u>How to See Who Is Watching Your YouTube Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-navigating-pexels-tips-for-discovering-striking-images/"><u>In 2024, Navigating Pexels Tips for Discovering Striking Images</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macdvd-winx-dvd-ripper-macos/"><u>Mac専用DVD抽出ツール WinX DVD Ripper – macOS対応全機能統合型</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-windows-gameplay-unboxing-the-high-end-asus-rog-ally-x-gaming-device/"><u>Mastering Mobile Windows Gameplay: Unboxing the High-End Asus ROG Ally X Gaming Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-in-depth-reviews-by-toms-hardware-experts/"><u>Mastering Technology: In-Depth Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/netgear-orbi-770-is-a-high-speed-wi-fi-mesh-network-worth-its-cost/"><u>Netgear Orbi 770: Is a High-Speed Wi-Fi Mesh Network Worth Its Cost?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/slow-down-time-using-slow-motion-effects-in-windows-live-movie-maker-2023-for-2024/"><u>Slow Down Time Using Slow Motion Effects in Windows Live Movie Maker 2023 for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-dichotomy-of-design-and-function-in-the-valkyrie-vind-sl125-review-anime-meets-reality/"><u>The Dichotomy of Design & Function in the Valkyrie Vind SL125 Review - Anime Meets Reality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-raspberry-pi-cm4-review-engineering-a-new-era-in-industrial-computing/"><u>The Raspberry Pi CM4 Review: Engineering a New Era in Industrial Computing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-pc-hardware-by-toms-knowledgeable-team/"><u>The Ultimate Guide to PC Hardware by Tom's Knowledgeable Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-insights-and-analysis/"><u>Tom's Tech Reviews: In-Depth Insights and Analysis</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oneplus-nord-ce-3-lite-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your OnePlus Nord CE 3 Lite 5G Phone</u></a></li>
+</ul></div>
+

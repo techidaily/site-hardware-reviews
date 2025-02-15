@@ -1,7 +1,7 @@
 ---
 title: Explore Every Innovation From Apple's Highly Anticipated iPhone 16 'Glowtime' Event – Featuring AI Advancements, Next-Gen Apple Watch 10 & Upgraded AirPods | ZDNet Insight.
-date: 2024-09-19 19:41:58
-updated: 2024-09-20 12:20:20
+date: 2025-02-02T04:28:54.312Z
+updated: 2025-02-02T16:17:28.905Z
 tags:
   - headphones
 categories:
@@ -22,6 +22,10 @@ Although the hardware was the star of the show and WWDC, its software event, was
 **Also: [4 best iPhone 16 features that make Apple's standard model worth upgrading to](https://www.zdnet.com/article/4-best-iphone-16-features-that-make-apples-standard-model-worth-upgrading-to/)**
 
 If you didn't get to tune in or want a detailed summary of the announcements, keep reading for ZDNET's full roundup of the news below. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. iPhone 16 series
 
@@ -55,6 +59,10 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Apple Watch Series 10
 
 Kerry Wan/ZDNET
@@ -74,6 +82,10 @@ The Apple Watch Series 10 starts at $399, is available for pre-order starting to
 Alongside the Watch Series 10, Apple announced a new satin black finish for its Watch Ultra 2, which is tailored to avid athletes and outdoor enthusiasts. It starts at $799; pre-orders start today and ship out on September 20\. 
 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. AirPods 4
 
@@ -99,6 +111,10 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Apple Intelligence updates
 
 Screenshot by Kayla Solino/ZDNET
@@ -112,6 +128,10 @@ During today's event, Apple mostly reviewed the features it had previously unvei
 The biggest highlight was the launch of Visual Intelligence, Apple's answer to Google Lens. Like Google Lens, you can take photos of your surroundings, such as a dog or restaurant, and get personalized insights and relevant information on what you captured.
 
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
 
@@ -150,11 +170,33 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-mastering-visual-depth-with-hdri-techniques-over-sdr/"><u>[New] 2024 Approved Mastering Visual Depth with HDRI Techniques Over SDR</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-method-to-verify-and-update-your-tiktok-age/"><u>[New] Step-by-Step Method to Verify and Update Your TikTok Age</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inside-virtuality-metaverse-vs-omniverse-in-focus/"><u>[Updated] Inside Virtuality Metaverse Vs. Omniverse in Focus</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-yet-high-performance-nuphy-halo75-v2-a-comprehensive-review/"><u>Affordable Yet High-Performance Nuphy Halo75 V2: A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-computing-with-toms-hardware-guides/"><u>Discover Cutting-Edge Computing with Tom's Hardware Guides</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/easy-steps-to-transforming-ape-audio-files-into-wav-format-across-all-devices/"><u>Easy Steps to Transforming APE Audio Files Into WAV Format Across All Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-assessment-of-the-clevetura-clvx-1-bluetooth-keyboard-with-a-focus-on-touch-response/"><u>Expert Assessment of the Clevetura CLVX-1 Bluetooth Keyboard with a Focus on Touch Response</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-stop-microsoft-flight-simulator-202n-from-suddenly-crashing/"><u>Fixes and Solutions: How to Stop Microsoft Flight Simulator 202N From Suddenly Crashing</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-honor-magic-vs-2-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor Magic Vs 2 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-k11-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi Note 12 Pro+ 5G?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-heartening-films-for-optimism-and-power/"><u>In 2024, Top 10 Heartening Films for Optimism & Power</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-circuitry-world-the-ultimate-insights-into-modern-hardware/"><u>Inside Tom's Circuitry World: The Ultimate Insights Into Modern Hardware</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-animated-gifs-creating-from-youtube-videos-online-for-2024/"><u>Mastering Animated GIFs Creating From Youtube Videos Online for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-environment-top-picks-and-reviews-by-toms-equipment-digest/"><u>Mastering Your Tech Environment: Top Picks and Reviews by Tom's Equipment Digest</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-nuphy-halo7halo75-v2-affordable-excellence-in-gaming-keyboards/"><u>The Ultimate Guide to the Nuphy Halo7([[Halo75 V2]: Affordable Excellence in Gaming Keyboards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-your-guide-to-the-latest-hardware/"><u>Tom's Tech Review: Your Guide to the Latest Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-western-digitals-latest-offering-the-4tb-wd-blue-sn5000-ssd-reviewed/"><u>Unveiling the Power of Western Digital's Latest Offering – The 4TB WD Blue SN5000 SSD Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/valkyrie-vind-sl125-review-how-a-captivating-anime-theme-fails-to-compensate-for-lackluster-efficiency/"><u>Valkyrie Vind SL125 Review: How a Captivating Anime Theme Fails to Compensate for Lackluster Efficiency</u></a></li>
+</ul></div>
+

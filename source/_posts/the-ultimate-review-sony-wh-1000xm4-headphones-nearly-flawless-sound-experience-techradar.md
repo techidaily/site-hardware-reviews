@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Review: Sony WH-1000XM4 Headphones - Nearly Flawless Sound Experience | TechRadar"
-date: 2024-09-17 17:19:35
-updated: 2024-09-20 10:55:47
+date: 2025-01-29T20:51:56.468Z
+updated: 2025-02-02T20:08:51.925Z
 tags:
   - headphones
 categories:
@@ -36,6 +36,10 @@ I don't know what else Sony can do to improve in the next version, but the compa
 
 Key improvements over the WH-1000XM4 include a simpler folding design, a better carrying case, more comfortable earpads, and Bluetooth 5.2 instead of 5.0\. My ears like the WH-1000XM5 better with the ability to wear the headphones for hours on end without any discomfort. My recent flights have been heavenly as I escape into my music, podcasts, and movies with the WH-1000XM5 headset.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Microphones           | Eight microphones and two processors                                     |
@@ -47,6 +51,10 @@ Key improvements over the WH-1000XM4 include a simpler folding design, a better 
 | Battery life (music)  | 30 hours with ANC, 40 hours with ANC off                                 |
 | Wireless connectivity | Bluetooth 5.2 with multipoint connection support                         |
 | Headset weight        | 250 grams (8.82 ounces)                                                  |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Design and fit
 
@@ -70,6 +78,10 @@ Matthew Miller/ZDNET
 
 The outside flat surface of the right earcup is touch sensitive and provides consistent performance of the controls. Touch controls let you manage volume, play/pause, skip forward and back, and more. The headset charges via USB-C with the option to connect via a 3.5mm connection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Smartphone software
 
 In order to optimize your use of the Sony WH-1000XM5 headphones, you need to download and install the Sony Headphones Connect application to your Android or iOS smartphone. After installation, simply turn on the headphones to initiate pairing with your smartphone.
@@ -82,6 +94,10 @@ The touch surface performs flawlessly
 
 Matthew Miller/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 While we don't often think about phone calls with headphones optimized for a listening experience, it is more important today than ever with so many people using headphones like this for their remote work communications. The call quality on both ends when using the WH-1000XM5 is outstanding and it's great to have a single headset with long battery life taking on all of my headset duties.
@@ -93,6 +109,10 @@ Audio quality is superb, the active noise-canceling creates an environment of is
 I thought the previous [WH-1000XM4 headset](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSony-WH-1000XM4-Canceling-Headphones-phone-call%2Fdp%2FB0863FR3S9%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9be8fdb7-7934-402e-81b4-b48d7f3a6ded%7Cdtp&dtb=1) was nearly perfect so I was pleasantly surprised by the improved comfort, noise canceling, and call performance of the WH-1000XM5\. I don't know what else Sony can do to improve in the next version, but the company did a good job of finding ways to improve a nearly perfect product so I look forward to finding out.
 
 The Sony WH-1000XM5 headset is available now for $399.99\. Keep an eye out for deals during the upcoming holiday season and make sure to add this Sony headset to your wish list. You will not be disappointed and will enjoy an amazing world of audio experiences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -110,11 +130,24 @@ The Sony WH-1000XM5 is arguably the best wireless headset available today. If yo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-easy-ways-to-screen-record-on-dell-laptop-for-2024/"><u>[Updated] Easy Ways to Screen Record on Dell Laptop for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-entry-level-guide-to-superior-gaming-editing-systems/"><u>[Updated] In 2024, The Entry Level Guide to Superior Gaming Editing Systems</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-emojis-explained-more-than-meets-the-eye/"><u>2024 Approved Snapchat Emojis Explained More Than Meets the Eye</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/csm-technology-empowered-the-ultimate-review-of-the-asus-pro-b760m-ct-motherboard/"><u>CSM Technology Empowered: The Ultimate Review of the Asus Pro B760M-CT Motherboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-knowledge-through-toms-authoritative-articles/"><u>Mastering Hardware Knowledge Through Tom's Authoritative Articles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-perfect-balance-of-price-and-design-in-the-logitecug515-lightspeed-tkl-mechanical-keyboard-review/"><u>The Perfect Balance of Price & Design in the LogitecuG515 Lightspeed TKL Mechanical Keyboard Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-gadget-analysis/"><u>Tom's Tech Review: Comprehensive Gadget Analysis</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-se-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone SE to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-the-binkw32dll-file-not-found-issue/"><u>Ultimate Guide: Resolving the Binkw32.dll File Not Found Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-hardware-recognition-complete/"><u>Windows Hardware Recognition Complete</u></a></li>
+</ul></div>
+

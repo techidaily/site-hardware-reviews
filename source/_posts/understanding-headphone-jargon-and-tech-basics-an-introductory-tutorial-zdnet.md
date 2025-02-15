@@ -1,7 +1,7 @@
 ---
 title: "Understanding Headphone Jargon & Tech Basics: An Introductory Tutorial | ZDNet"
-date: 2024-09-19 20:20:27
-updated: 2024-09-20 12:39:16
+date: 2025-01-29T16:41:56.661Z
+updated: 2025-02-02T22:26:27.407Z
 tags:
   - headphones
 categories:
@@ -109,17 +109,29 @@ Beyerdynamic's DT1990 Pro headphones. Note the mesh screen on the earcups that m
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Open-backed** **headphones**
 
 Over-ear headphones of this type feature earcups that allow air to freely pass in and out of them. They're the opposite of closed-back models and earbuds that strive to seal in sound by creating an airtight seal around or within the user's ear. The result of this ventilation is a more open-feeling sound that mirrors listening to your audio through speakers. This can also help enhance a pair's "soundstage," or the sensation that the reproduced sound is coming at you from a more nuanced selection of directions than simply left or right. 
 
 **Review: [Sony LinkBuds: Unique open ring facilitates online and offline listening](https://www.zdnet.com/article/sony-linkbuds-review/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pros of open-backed headphones
 
 * **Natural sound:** As mentioned above, the open-backed earcups produce a sound profile that most closely mirrors discrete speakers, or even live music. This is because the soundwaves are allowed to scatter naturally, without ricocheting around in the earcup the way they would in closed-back sets.
 * **Comfort:** The extra ventilation also means your ears are less likely to get hot, since they're not trapped in an airtight chamber warmed by your body heat.
 * **Awareness:** Some users want headphones to block out external sounds. Others prefer to hear the world around them. For the latter, open-backed headphones provide a way to keep your ear, literally, open for your kids, co-workers, or even other people on the street.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cons of open-backed headphones
 
@@ -131,17 +143,29 @@ Razer's closed-back BlackShark V2 Pro wireless gaming headset. Note the complete
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Closed-back headphones**
 
 Closed-back headphones are the precise opposite of those above. Like earbuds, they attempt to seal the sound in, encircling your ear in a (mostly) airtight chamber. This produces a more bass-heavy sound, which can benefit some genres of music or action-heavy videos. However, this seal can also trap heat, and cause issues with unintended resonance from the soundwaves being trapped within the earcups. 
 
 **Review: [Razer Blackshark V2 Pro headset: A potent weapon for the right gamer](https://www.zdnet.com/home-and-office/home-entertainment/razer-blackshark-v2-pro-review/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pros of closed-back headphones
 
 * **Improved bass:** Closed-back headphones are usually capable of superior bass reproduction at lower costs and with smaller drivers than their open-backed counterparts. The low-frequency sounds benefit from the tightly-enclosed space, helping closed-back headphones maintain the impact of audio hits like drums or explosions.
 * **Isolation:** In addition to the active noise cancellation (ANC) available in select models across all of the form factors here, closed-back headphones offer the best passive sound blocking of any form factor. Their seal blocks out outside soundwaves, allowing you to focus on the audio that you want to hear, without it being tainted by external sounds.
 * **Privacy:** What keeps sound out will also keep it in. Closed-back headphones can provide great sound quality to you, and only you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cons of closed-back headphones
 
@@ -152,6 +176,10 @@ Closed-back headphones are the precise opposite of those above. Like earbuds, th
 The dynamic driver used in Sennheiser's HD800 S seen from behind
 
 Sennhesier
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Driver types
 
@@ -251,6 +279,10 @@ You might be surprised to find out there are some 2.4GHz wireless headphones for
 
 Some wireless headphones even rely on infrared light to transmit their sound. [These are typically used with in-car entertainment systems](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWireless-Headphones-Travelling-Universal-Entertainment%2Fdp%2FB079CKQR4N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C361af066-e032-4837-8b5f-11b4f3fd64dc%7Cdtp&dtb=1) or at-home IR transmitters. The benefit of the technology is that any person with compatible headphones can simply sit in a range of the IR signal to hear the sound, without needing to pair their device at all. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Wrap up
 
 There's no reason not to learn at least a little bit about a form of electronic device that's come to be such an important part of our daily lives. You may find that you'd rather not opt for the same [AirPods](https://www.zdnet.com/article/airpods-pro-2-offer-two-big-upgrades-but-connectivity-chaos-hasnt-been-tamed/) everyone has, or you may discover that they really are the perfect balance of convenience and quality. 
@@ -280,11 +312,31 @@ Hopefully, this guide has given you a deeper understanding of the basic terminol
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-io-screen-recorder-user-manual-overview/"><u>[New] 2024 Approved IO Screen Recorder User Manual Overview</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-recorder-royalty-best-premium-recording-software-on-pc-and-macos-free/"><u>[Updated] 2024 Approved Recorder Royalty Best Premium Recording Software on PC & MacOS FREE</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-depth-analyzing-lgs-4k-wuhd-hdr-performance/"><u>[Updated] In Depth Analyzing LG's 4K WUHD HDR Performance</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-x8b-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor X8b by Name | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-nuphy-halo75-v2-analysis-a-perfect-choice-for-gaming-enthusiasts/"><u>Budget-Friendly Nuphy Halo75 V2 Analysis: A Perfect Choice for Gaming Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-equipment-breakdowns-by-tom-your-hardware-guide/"><u>Cutting-Edge Equipment Breakdowns by Tom – Your Hardware Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-brilliance-with-viewsonics-oled-gaming-display-xg272-2k-240-hz-reviewed/"><u>Experience Brilliance with ViewSonic's OLED Gaming Display: XG272-2K, 240 Hz Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-computer-gadgets-by-toms-hardware/"><u>Expert Analysis on Computer Gadgets by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-tom-the-ultimate-hardware-resource/"><u>Exploring Gadgets with Tom: The Ultimate Hardware Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-superior-speed-on-a-budget-with-the-hatdrive-nano-for-your-raspberry-pi-projects/"><u>Get Superior Speed on a Budget with the HatDrive! Nano for Your Raspberry Pi Projects</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unable-to-communicate-with-dhcp-problems/"><u>How to Fix 'Unable to Communicate with DHCP' Problems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-tecno-phantom-v-flip-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Tecno Phantom V Flip</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/innovative-ways-to-recharge-your-phone-battery-without-a-standard-charging-cable/"><u>Innovative Ways to Recharge Your Phone Battery Without a Standard Charging Cable</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/iphoneandroid-sharing-videos-on-twitter-without-retweeting/"><u>IPhone/Android Sharing Videos On Twitter Without Retweeting</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ntegrating-the-ebook-format-since-space-may-be-limited-for-physical-books-in-urban-areas-offering-an-e-book-version-could-appeal-to-tech-savvy-city-dwellers23/"><u>Ntegrating the eBook Format: Since Space May Be Limited for Physical Books in Urban Areas, Offering an E-Book Version Could Appeal to Tech-Savvy City Dwellers Who Prefer Digital over Paper Copies.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-missing-system-files-fix-procpsdll-errors-today/"><u>Troubleshooting the 'Missing System Files': Fix Procps.dll Errors Today</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-hardware-with-tom/"><u>Understanding Hardware with Tom</u></a></li>
+</ul></div>
+

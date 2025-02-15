@@ -1,7 +1,7 @@
 ---
 title: "Sony Unveils Miniature Marvel: High-Value Earbuds for Just $60 | Tech Insights by ZDNET"
-date: 2024-09-17 21:20:28
-updated: 2024-09-20 11:13:29
+date: 2025-01-27T03:27:32.126Z
+updated: 2025-02-02T23:38:39.401Z
 tags:
   - headphones
 categories:
@@ -68,11 +68,37 @@ The Sony WF-C510 are $40 cheaper than their predecessors, despite offering more 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-transforming-footage-editing-videos-seamlessly-on-windows-11-and-storyremix/"><u>[Updated] In 2024, Transforming Footage Editing Videos Seamlessly on Windows 11 and StoryRemix</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-smart-choice-instagram-video-dimensions-and-formats/"><u>2024 Approved The Smart Choice Instagram Video Dimensions and Formats</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-ultimate-guide-to-instagrams-magnifying-functions/"><u>2024 Approved The Ultimate Guide to Instagram's Magnifying Functions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-guides-and-reviews-on-pc-hardware-by-toms-experts/"><u>Advanced Guides and Reviews on PC Hardware by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-under-20-reviews-uphere-c5c-and-d6sec-air-cooler-efficiency-explored/"><u>Affordable Under-$20 Reviews: UpHere C5C & D6Sec Air Cooler Efficiency Explored</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341659635-approach-consider-the-role-of-local-regulations-in-determining-land-use/"><u>Approach: Consider the Role of Local Regulations in Determining Land Use.</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/capture-festive-moments-with-these-top-5-holiday-scene-generator-apps/"><u>Capture Festive Moments with These Top 5 Holiday Scene Generator Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341735236-dough-spectrum-black-review-a-revolutionary-gaming-odyssey-on-a-premium-crafted-27-inch-oled-screen/"><u>Dough Spectrum Black Review: A Revolutionary Gaming Odyssey on a Premium-Crafted, 27-Inch OLED Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exceptional-gaming-experience-with-the-acer-predator-orion-n5000-budget-friendly-powerhouse/"><u>Exceptional Gaming Experience with the Acer Predator Orion N5000: Budget-Friendly Powerhouse</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211354952-9781800961326-ghosts-of-the-british-museum/"><u>Ghosts of the British Museum | Free Book</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-oppo-f25-pro-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Oppo F25 Pro 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-11-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 11 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ignite-engagement-top-3-youtube-live-stream-tips-for-understaffed-viewership/"><u>In 2024, Ignite Engagement Top 3 YouTube Live Stream Tips for Understaffed Viewership</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-amazing-ig-video-creation/"><u>Mastering Amazing IG Video Creation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-gizmos-with-tips-from-toms-hardware-zone/"><u>Mastering Gadgets and Gizmos with Tips From Tom’s Hardware Zone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-infinix-note-30-vip-racing-edition-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Infinix Note 30 VIP Racing Edition has been deleted.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sabrent-rocket-nano-2242-1tb-ssd-performance-testing-the-ideal-base-drive-for-m2-2242-slots/"><u>Sabrent Rocket Nano 2242 1TB SSD Performance Testing: The Ideal Base Drive for M.2 2242 Slots</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-review-top-picks-and-insights/"><u>Tom's Computer Review: Top Picks and Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Hardware</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

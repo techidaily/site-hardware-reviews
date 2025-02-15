@@ -1,7 +1,7 @@
 ---
 title: In-Depth Review of the Lightweight, Trustworthy Corsair HS
-date: 2024-09-19 19:14:53
-updated: 2024-09-20 11:15:56
+date: 2025-01-26T17:41:37.812Z
+updated: 2025-02-02T23:52:33.588Z
 tags:
   - headphones
 categories:
@@ -31,6 +31,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/17a03c6c5d69eac15f03d17cc718e5b49c
 
 more buying choices 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Intro 
 
 The Corsair HS65 Surround is a simplified, midrange gaming headset that offers a quality build, excellent audio, and no-nonsense connectivity. 
@@ -56,6 +60,10 @@ And while it may not provide as much control over your audio input and output as
 
 Taylor Clemons/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Pricing 
 
 The HS65 Surround retails for $79.99 (￡79.99, AU$119, CA$99), which is a bit on the high side for a wired headset, but still fairly affordable for most gamers. With this price tag, it's on the same level as models like the [Razer Kraken V3 X](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Kraken-Gaming-Headset-HyperClear%2Fdp%2FB08WYN93RJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0c99e2e0-2f1c-42c3-8a08-80838e2f746e%7Cdtp&dtb=1) ($69.99) and the [HyperX Cloud Alpha](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-Cloud-Alpha-Gaming-Headset%2Fdp%2FB074NBSF9N%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0c99e2e0-2f1c-42c3-8a08-80838e2f746e%7Cdtp&dtb=1) ($99.99); both of which are designed for long-lasting quality, comfort, and immersive audio. 
@@ -74,6 +82,10 @@ The attached microphone flips up and out of the way when you don't need it, thou
 
 The entire headset is made of plastic, which contributes to its lightweight feel, but it still feels like a solid and dependable headset compared with, for example, the [Turtle Beach Recon 500](https://www.turtlebeach.com/products/recon-500), which has a similar, all-plastic build and feels very cheap and flimsy. I wore the HS65 Surround for around 10 hours every day between work and quick gaming sessions on both my PC and two consoles (PlayStation 5 and Nintendo Switch). And the headset always felt like a secure fit and very comfortable, even while I was wearing my blue light filtering glasses. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Audio and connectivity 
 
 Taylor Clemons/ZDNET
@@ -85,6 +97,10 @@ Unfortunately, the virtual surround sound is only compatible with Windows and Ma
 Taylor Clemons/ZDNET
 
 However, even without Dolby enabled, the audio quality you get from the headset is excellent. Low bass tones, midrange sounds, and even high-pitched notes all sound crystal-clear even at higher volumes. Even with the volume cranked up as high as it can go, the audio drivers never sound blown out, crunchy, or garbled; so if you need to have your game audio set to a high volume, you'll never miss a line of dialogue or audio cue due to distortion. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -103,6 +119,10 @@ Taylor Clemons/ZDNET
 It's worth noting the iCUE app is also the only way to set up personalized audio profiles with SoundID. The app lets you choose a music loop, and then presents you with a series of filters and settings to choose your preference for. The results are a bit confusing: A few of the settings don't really sound like they've made a difference, and instead of explaining how your choices affected the final profile, it just shows a series of shapes with one highlighted to indicate your personalized profile. I would have much preferred a short text description. 
 
 [Buy the Corsair HS65 Surround headset $49.99 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09YHQ3Y61%2Fref%3Dasc%5Fdf%5FB09YHQ3Y611724410800000%3Fcreative%3D395261%26creativeASIN%3DB09YHQ3Y61%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0c99e2e0-2f1c-42c3-8a08-80838e2f746e%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottom line   
 
@@ -145,11 +165,31 @@ This updated version of the original Kraken headset is designed to provide a qua
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-transform-text-to-trendy-memes-kapwings-magic-tool-for-2024/"><u>[New] Transform Text to Trendy Memes - Kapwing’s Magic Tool for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-vrecorder-a-download-and-install-journey-for-2024/"><u>[Updated] Mastering VRecorder A Download & Install Journey for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unleash-potential-making-your-vids-go-viral-for-2024/"><u>[Updated] Unleash Potential Making Your Vids Go Viral for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-samsung-galaxy-f34-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Samsung Galaxy F34 5G Unlock Without Password</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-powerhouse-the-ultimate-asus-rog-azoth-extreme-review-at-half-a-grand/"><u>Affordable Powerhouse: The Ultimate Asus ROG Azoth Extreme Review at Half-a-Grand</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-honor-magic5-ultimate-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Honor Magic5 Ultimate to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-ios-productivity-top-6-methods-beyond-using-apples-folders-for-organization/"><u>Boost Your iOS Productivity: Top 6 Methods Beyond Using Apple's Folders for Organization</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/capture-life-in-motion-on-your-ipad-for-2024/"><u>Capture Life in Motion on Your iPad for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-highpoint-rocket-1608a-usb-expansion-card-enhanced-storage-and-performance/"><u>Expert Analysis of HighPoint Rocket 1608A USB Expansion Card - Enhanced Storage and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-insights-from-toms-hardware/"><u>Exploring the Latest in Tech: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://article-files.techidaily.com/mobile-blur-apps-to-soften-images/"><u>Mobile Blur Apps to Soften Images</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722903690173-samsung-soundbar-woes-heres-how-to-bring-it-back-from-the-dead/"><u>Samsung Soundbar Woes? Here's How to Bring It Back From the Dead!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-4k-oled-gaming-display-a-thorough-review-of-gigabyeet-aorus-fo32u2p-with-exceptional-speed-and-style-for-serious-gamers/"><u>The Ultimate 4K OLED Gaming Display - A Thorough Review of Gigabyeet Aorus FO32U2P with Exceptional Speed & Style for Serious Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-exploring-in-depth-computer-hardware-insights/"><u>Tom's Tech Hub: Exploring In-Depth Computer Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-latest-hardware/"><u>Tom's Tech Review: In-Depth Analysis of Latest Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341719697-unveil-the-latest-in-hardware-at-toms-technical-blog-stay-ahead-of-innovations/"><u>Unveil the Latest in Hardware at Tom's Technical Blog – Stay Ahead of Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-with-toms-gadget-gazette-authoritative-reviews-and-buying-advice/"><u>Unveiling Tech Secrets with Tom's Gadget Gazette: Authoritative Reviews & Buying Advice</u></a></li>
+</ul></div>
+

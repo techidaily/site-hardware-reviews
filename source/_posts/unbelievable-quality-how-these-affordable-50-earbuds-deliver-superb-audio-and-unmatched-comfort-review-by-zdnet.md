@@ -1,7 +1,7 @@
 ---
 title: "Unbelievable Quality: How These Affordable $50 Earbuds Deliver Superb Audio & Unmatched Comfort - Review by ZDNet"
-date: 2024-09-17 15:38:16
-updated: 2024-09-20 12:22:28
+date: 2025-01-30T23:32:40.518Z
+updated: 2025-02-02T17:16:42.268Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/7ba232e21fac78d0bae0e04300e47bac8679a7f9c
 ![Baseus Bowie 30 earbuds](https://www.zdnet.com/a/img/resize/a7959c6f93c2d2b4c0e4d70cc62557c99aebe7ee/2024/07/23/709e4f22-310a-4385-a505-0209b92d9010/bowie30hero.jpg?auto=webp&width=1280)
 
 Jack WallenZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -50,6 +54,10 @@ Not only do they have a name that screams "cool," but they are also capable of p
 
 Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## My experience
 
 When I first got the Bowies, I did not install the Basus app. Instead, my Pixel 8 Pro automatically detected the earbuds, and from the "Connected Devices" settings window, I was able to enable/disable Spatial Audio, HD Audio, Phone Calls, and allow access to contacts and call history.
@@ -70,6 +78,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The music
 
 Even though they sounded great up front, I dove into even more music, starting with Mendelssohn's "Midsummer Night's Dream," which is a particular favorite of mine (despite the overused "Wedding March"). I found the entire suite to sound delightful through the Bowie 30s.
@@ -79,6 +91,10 @@ A bit of Chinese Prog Metal, by way of [OU](https://youtu.be/uoKL23zNg7w?si=yo6c
 Concrete Blonde's "Bloodletting," one of my all-time favorite albums, was fantastic. I got lost in "[Caroline](https://youtu.be/wlg91FG9m5Y?si=YdLuDzekJApxRzYW)" enough that it took me right back to grad school in the 90s.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The controls
 
@@ -97,6 +113,10 @@ Does it seem like something is missing here? There's no default action assigned 
 Luckily, you can assign different functions for each earbud, so I left the double-squeeze on the left earbud to pause/play, and double squeeze on the right to skip. Still, the default controls could be better optimized. 
 
 Additionally, the squeeze actions themselves aren't always the easiest to execute. It's fairly easy to do when you're standing still or walking. But running, on the other hand, complicates the process, especially if you're used to simply tapping. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -125,11 +145,30 @@ Additionally, the LED display that shows how much battery remains in the case is
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-seamless-integration-of-skype-and-zoom-for-businesses/"><u>[New] In 2024, Seamless Integration of Skype and Zoom for Businesses</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-selective-software-optimal-blu-ray-players-free-to-pay-for-2024/"><u>[New] Selective Software Optimal Blu-Ray Players (Free to Pay) for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-art-of-influence-essential-marketing-expressions-explained/"><u>[New] The Art of Influence Essential Marketing Expressions Explained</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-unlimited-tiktok-videos-no-watermarks-free-downloads/"><u>[New] Unlimited TikTok Videos No Watermarks, Free Downloads</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-snap-complete-web-panel/"><u>[Updated] In 2024, Snap Complete Web Panel</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-understanding-discords-report-system-procedures-and-tips/"><u>[Updated] In 2024, Understanding Discord's Report System Procedures and Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-clueless-to-confident-configuring-zoom-made-simple/"><u>2024 Approved From Clueless to Confident Configuring Zoom Made Simple</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341747676-comprehensive-breakdown-of-asus-rog-keris-ii-ace-vs-deathadder-v3-pro-battle-for-gaming-supremacy-begins/"><u>Comprehensive Breakdown of Asus ROG Keris II Ace vs DeathAdder V3 Pro: Battle for Gaming Supremacy Begins!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-hardware-insights-with-expert-tom/"><u>Discover Top Hardware Insights with Expert Tom</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210971284-9781088235324-en-nombre-de-kardec/"><u>En Nombre de Kardec | Free Book</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-top-tips-from-toms-hardware-expertise/"><u>Mastering Electronics: Top Tips From Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviewing-the-asus-proart-pa3-user-1/"><u>Reviewing the Asus ProArt PA3# User #1</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-unveiled-gadgets-and-innovations-reviewed/"><u>Tom's Hardware Unveiled: Gadgets and Innovations Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-the-latest-hardware/"><u>Tom's Tech Review: In-Depth Analysis of the Latest Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unparalleled-typing-experience-awaits-in-depth-review-of-the-highly-anticipated-keychron-q1-he-mechanical-keyboard/"><u>Unparalleled Typing Experience Awaits: In-Depth Review of the Highly Anticipated Keychron Q1-HE Mechanical Keyboard</u></a></li>
+</ul></div>
+

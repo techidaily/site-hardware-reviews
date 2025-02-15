@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Language of Audio Gear: An Entry-Level Tutorial on Headphones | ZDNet Explorations"
-date: 2024-09-19 10:19:15
-updated: 2024-09-20 10:13:35
+date: 2025-01-28T04:51:19.369Z
+updated: 2025-02-02T17:43:42.987Z
 tags:
   - headphones
 categories:
@@ -67,6 +67,10 @@ My aged, beat-up Grado SR80s that still sound as great as the day I bought them 
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## On-ear headphones
 
 On-ear headphones are the middle child of the headphone world. Like many middle children, they tend to get ignored. Most older readers are probably more familiar with them because they were to walkmen and portable CD players what earbuds were to smartphones. The slim metal headbands and black foam earpads remain a consistent site in every 80s movie. 
@@ -109,6 +113,10 @@ Beyerdynamic's DT1990 Pro headphones. Note the mesh screen on the earcups that m
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Open-backed** **headphones**
 
 Over-ear headphones of this type feature earcups that allow air to freely pass in and out of them. They're the opposite of closed-back models and earbuds that strive to seal in sound by creating an airtight seal around or within the user's ear. The result of this ventilation is a more open-feeling sound that mirrors listening to your audio through speakers. This can also help enhance a pair's "soundstage," or the sensation that the reproduced sound is coming at you from a more nuanced selection of directions than simply left or right. 
@@ -131,17 +139,29 @@ Razer's closed-back BlackShark V2 Pro wireless gaming headset. Note the complete
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Closed-back headphones**
 
 Closed-back headphones are the precise opposite of those above. Like earbuds, they attempt to seal the sound in, encircling your ear in a (mostly) airtight chamber. This produces a more bass-heavy sound, which can benefit some genres of music or action-heavy videos. However, this seal can also trap heat, and cause issues with unintended resonance from the soundwaves being trapped within the earcups. 
 
 **Review: [Razer Blackshark V2 Pro headset: A potent weapon for the right gamer](https://www.zdnet.com/home-and-office/home-entertainment/razer-blackshark-v2-pro-review/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pros of closed-back headphones
 
 * **Improved bass:** Closed-back headphones are usually capable of superior bass reproduction at lower costs and with smaller drivers than their open-backed counterparts. The low-frequency sounds benefit from the tightly-enclosed space, helping closed-back headphones maintain the impact of audio hits like drums or explosions.
 * **Isolation:** In addition to the active noise cancellation (ANC) available in select models across all of the form factors here, closed-back headphones offer the best passive sound blocking of any form factor. Their seal blocks out outside soundwaves, allowing you to focus on the audio that you want to hear, without it being tainted by external sounds.
 * **Privacy:** What keeps sound out will also keep it in. Closed-back headphones can provide great sound quality to you, and only you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cons of closed-back headphones
 
@@ -167,6 +187,10 @@ The Sennheiser HD 800 S' dynamic driver seen from within, with foam padding remo
 
 Sennhesier
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dynamic drivers 
 
 These are the most common type, the one most are familiar with, and the one that most closely resembles a traditional speaker. They're available across all three form factors, and can be found in everything from the worst-sounding, bargain-basement headphones, to some of the most beloved pairs ever made. Their pricing varies just as widely too. 
@@ -180,6 +204,10 @@ The relatively simple technology has been in use since some of the first electri
 The planar magnetic Driver of the Drop + HIFIMAN HE-4XX headphones with its outer casing removed
 
 Drop -- HiFiMan
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Planar magnetic drivers
 
@@ -251,6 +279,10 @@ You might be surprised to find out there are some 2.4GHz wireless headphones for
 
 Some wireless headphones even rely on infrared light to transmit their sound. [These are typically used with in-car entertainment systems](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWireless-Headphones-Travelling-Universal-Entertainment%2Fdp%2FB079CKQR4N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2ce40bac-52f4-4799-97eb-ddad6b2ede93%7Cdtp&dtb=1) or at-home IR transmitters. The benefit of the technology is that any person with compatible headphones can simply sit in a range of the IR signal to hear the sound, without needing to pair their device at all. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Wrap up
 
 There's no reason not to learn at least a little bit about a form of electronic device that's come to be such an important part of our daily lives. You may find that you'd rather not opt for the same [AirPods](https://www.zdnet.com/article/airpods-pro-2-offer-two-big-upgrades-but-connectivity-chaos-hasnt-been-tamed/) everyone has, or you may discover that they really are the perfect balance of convenience and quality. 
@@ -280,11 +312,33 @@ Hopefully, this guide has given you a deeper understanding of the basic terminol
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-step-by-step-guide-changing-voices-in-instagram-features/"><u>[New] 2024 Approved Step-by-Step Guide Changing Voices in Instagram Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevate-status-with-a-personal-playlist-for-2024/"><u>[New] Elevate Status With A Personal Playlist for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-premier-screen-grabber-chromebook-edition-leader-for-2024/"><u>[New] Premier Screen Grabber Chromebook Edition Leader for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-demystifying-absence-no-recommended-video-content-on-facebook/"><u>[Updated] 2024 Approved Demystifying Absence No Recommended Video Content on Facebook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-securesave-specialists-judgment/"><u>[Updated] 2024 Approved SecureSave Specialists Judgment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dell-g16-gaming-laptop-now-just-949-powerhouse-performance-on-sale/"><u>Dell G16 Gaming Laptop: Now Just $949 - Powerhouse Performance on Sale</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-asus-ryzen-ai-laptops-rzne-ai-9-hx-370-and-rzne-ai-9-365-unveiling-on-july-17-for-tuf-gaming-rog-zephyrus-zenbook-and-proart/"><u>Discover the Latest Asus Ryzen AI Laptops: RZne AI 9 HX 370 & RZne AI 9 365 - Unveiling on July 17 for TUF Gaming, ROG Zephyrus, Zenbook, and ProArt</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-next-level-of-personalization-in-gaming-laptops-asus-enhances-the-zephyrus-g14-with-an-e-paper-screen-hinge-display/"><u>Discover the Next Level of Personalization in Gaming Laptops: Asus Enhances the Zephyrus G14 with an E-Paper Screen Hinge Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-power-duo-microsofts-enhanced-surface-and-surface-pro-with-cutting-edge-copilotplus-assistance/"><u>Discover the Power Duo: Microsoft's Enhanced Surface & Surface Pro with Cutting-Edge Copilot+ Assistance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-linux-gaming-with-tuxedos-sirius-gen2-featuring-all-amd-processing-and-stunning-165hz-ips-display-starting-at-1699/"><u>Experience Next-Level Linux Gaming with Tuxedo's Sirius Gen2 - Featuring All-AMD Processing & Stunning 165Hz IPS Display Starting at €1,699</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-advanced-gadgets-with-toms-hardware-experts-dive-into-cutting-edge-technology/"><u>Explore Advanced Gadgets with Tom's Hardware Experts - Dive Into Cutting-Edge Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/find-the-perfect-game-ready-laptop-without-breaking-your-bank-best-choices-under-1k/"><u>Find the Perfect Game-Ready Laptop Without Breaking Your Bank: Best Choices Under $1K</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/from-lenovo-laptop-woes-to-perfect-setup-enthusiast-replaces-faulty-keyboard-and-adds-titanium-protection-plus-mechanical-typing-pleasure/"><u>From Lenovo Laptop Woes to Perfect Setup: Enthusiast Replaces Faulty Keyboard & Adds Titanium Protection + Mechanical Typing Pleasure</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/identifying-real-vs-counterfeit-chatgpt-windows-application/"><u>Identifying Real Vs. Counterfeit ChatGPT Windows Application</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-15-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 15 Pro Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-morse-input-for-laptops-precise-closure-techniques-needed-to-prevent-screen-or-hinge-damage-no-party-favors-included/"><u>Innovative Morse Input for Laptops: Precise Closure Techniques Needed to Prevent Screen or Hinge Damage - No Party Favors Included!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-the-bsod-error-code-0x0000007e-in-windows-7/"><u>Resolve the BSoD Error Code 0X0000007E in Windows 7</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/the-ultimate-guide-to-choosing-excellent-seagate-cloning-software/"><u>The Ultimate Guide to Choosing Excellent Seagate Cloning Software</u></a></li>
+</ul></div>
+

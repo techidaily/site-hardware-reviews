@@ -1,7 +1,7 @@
 ---
 title: "Mastering Sound with Sony's Latest Earbuds: A Look Into Their Superior Software Integration | CNET Review"
-date: 2024-09-18 19:14:37
-updated: 2024-09-20 10:46:44
+date: 2025-01-29T02:00:37.094Z
+updated: 2025-02-02T20:58:27.447Z
 tags:
   - headphones
 categories:
@@ -38,6 +38,10 @@ The LinkBuds S has a more traditional earbud design, and along with that design 
 
 The LinkBuds S are only $20 more than the LinkBuds, but they are also intended for different customers. The LinkBuds are primarily focused on those who want to hear ambient sounds and do not care at all about active-noise cancellation. The LinkBuds S is built for ANC customers, and they are price competitive with other [ANC-capable earbuds](https://www.zdnet.com/article/best-wireless-earbuds/) in today's market. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Table of contents 
 
 * [Specifications](https://www.zdnet.com/article/sony-linkbuds-s-review/#:~:text=Alternative%20to%20consider-,Specifications,-Speakers)
@@ -55,6 +59,10 @@ The LinkBuds S are only $20 more than the LinkBuds, but they are also intended f
 | Battery life          | Up to 6 hours of play with the charging case providing another 14 hours of playtime. Five minutes provides 60 minutes of playback. Two hours of charging will provide a full charge of the earbuds starting at 0% remaining battery |
 | Wireless connectivity | Bluetooth 5.2                                                                                                                                                                                                                       |
 | Earbud weight         | 4.8 grams each                                                                                                                                                                                                                      |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Hardware 
 
@@ -122,6 +130,10 @@ Below the 360 Reality Audio section is a Bluetooth connection quality selector w
 
 The System tab is where you customize other settings on your earbuds. The first option at the top of the display is where you select your voice assistant. Options include the voice assistant function of your mobile device, which would include Siri on an iOS device, Bixby on a Samsung device, and Google Assistant on an Android device. You can also select and set up Amazon Alexa or choose not to have a voice assistant setup on the earbuds. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best wireless earbuds With good earbuds, you can do everything from making calls when you're on the move to listening to your favorite music to blocking out the world around you.  Read now](https://www.zdnet.com/article/best-wireless-earbuds/)
@@ -139,6 +151,10 @@ The software also includes an activity page that has badges for different learni
 A menu is also available to view a tutorial, check your earbuds' software version, backup and restore settings, and view help for the app and earbuds. 
 
 [Sony LinkBuds S $128 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09YL76VSR%2Fref%3Dasc%5Fdf%5FB09YL76VSR1665399600000%3Fcreative%3D395261%26creativeASIN%3DB09YL76VSR%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C18abb04b-c164-4f9a-9bbf-574aa11e6e38%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Daily usage experiences 
 
@@ -163,6 +179,10 @@ I spend most of my time listening to music and podcasts through Spotify, so the 
 The Sony LinkBuds S has competition in the $200 ANC space with the likes of the [Jabra Elite 7 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJabra-Elite-Pro-Bluetooth-Earbuds%2Fdp%2FB09D1HMBQ3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C18abb04b-c164-4f9a-9bbf-574aa11e6e38%7Cdtp&dtb=1), [Samsung Galaxy Buds 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWireless-Cancelling-Bluetooth-Lightweight-Graphite%2Fdp%2FB094242FV1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C18abb04b-c164-4f9a-9bbf-574aa11e6e38%7Cdtp&dtb=1) and [Apple AirPods Pro (on sale for less than $200 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MLWK3AM-A-AirPods-Pro-dp-B09JQMJHXY%2Fdp%2FB09JQMJHXY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C18abb04b-c164-4f9a-9bbf-574aa11e6e38%7Cdtp&dtb=1) all sporting ANC and other advanced features. ANC is fairly subtle in all of these, except for the AirPods Pro, and you have to jump up to something like the [WF-1000XM4](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://electronics.sony.com/audio/headphones/truly-wireless/p/wf1000xm4-b) for strong noise cancellation. 
 
 I recommend the LinkBuds S for those looking for very comfortable earbuds with extensive Sony software support and subtle ANC, but the battery life is less than some of these other options, so it is not an easy purchase decision to make. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider 
 
@@ -203,11 +223,27 @@ I recommend the LinkBuds S for those looking for very comfortable earbuds with e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-complete-picture-toolwizs-app-masterclass/"><u>[New] The Complete Picture Toolwiz's App Masterclass</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-choreographing-newscast-endings/"><u>[Updated] 2024 Approved Choreographing Newscast Endings</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-cutting-edge-techniques-for-resolving-youtube-short-issues-for-2024/"><u>[Updated] Cutting-Edge Techniques for Resolving YouTube Short Issues for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dodge-digital-watchers-accelerating-view-count-growth/"><u>[Updated] In 2024, Dodge Digital Watchers Accelerating View Count Growth</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-guides-with-tom-hardware-unveiled/"><u>Advanced Gadget Guides with Tom - Hardware Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparing-performance-and-costs-the-lattepanda-mu-vs-raspberry-pi-5/"><u>Comparing Performance and Costs: The LattePanda Mu Vs. Raspberry Pi 5</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-xr-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone XR When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-tech-discoveries-by-toms-gear-experts/"><u>Mastering Modern Tech: Discoveries by Tom's Gear Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-insights-toms-hardware-authority/"><u>Mastering Technology Insights: Tom's Hardware Authority</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/surgical-intervention-may-be-necessary-for-certain-types-of-eye-injuries-to-preserve-vision-and-prevent-further-damage/"><u>Surgical Intervention May Be Necessary for Certain Types of Eye Injuries to Preserve Vision and Prevent Further Damage.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-a-deep-dive-into-toms-hardware-reviews/"><u>Unlocking Performance: A Deep Dive Into Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-youll-love-the-newly-launched-keychron-q1-he-the-ultimate-wireless-gaming-and-productivity-companion/"><u>Why You'll Love the Newly Launched Keychron Q1 HE - The Ultimate Wireless Gaming & Productivity Companion!</u></a></li>
+</ul></div>
+

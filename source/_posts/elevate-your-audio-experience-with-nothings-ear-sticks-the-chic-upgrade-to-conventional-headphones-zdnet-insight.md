@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Audio Experience with Nothing's Ear Sticks - The Chic Upgrade to Conventional Headphones | ZDNET Insight
-date: 2024-09-17 22:50:25
-updated: 2024-09-20 10:13:45
+date: 2025-01-28T00:56:48.292Z
+updated: 2025-02-02T17:01:03.643Z
 tags:
   - headphones
 categories:
@@ -36,6 +36,10 @@ The Ear Stick wants to be a part of your everyday carry, much like cosmetics.
 Nothing says its newest earbuds, the Ear Stick, are not the successor to the Ear 1, but instead, usher in a separate accessory in a different form factor. What remains, however, is the company's fashion-forward mindset. Debuting as a part of designer [Chet Lo's SS23 runway during London Fashion Week](https://www.vogue.com/fashion-shows/spring-2023-ready-to-wear/chet-lo), Nothing's Ear Stick, inspired by a cosmetic classic -- lipstick -- are more than just a tech gadget, they're a fashion statement. 
 
 While case design seems to be the earbuds' most obvious draw, Nothing promises that the earbuds themselves are ideal for comfort and other sound aspects -- excluding Active Noise Cancellation (ANC). While fun, the new product seems like another funky concept that Nothing is throwing against a wall, but does it stick? Read on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -86,6 +90,10 @@ Nothing says this design helps the earbuds go unnoticed in your ears, even after
 
 My ZDNET colleague, Emery Wright, shared a similar sentiment, saying that she'd rather play it safe with her "[archaic AirPods](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fapple-airpods-true-wireless-bluetooth-headphones-2nd-generation-with-charging-case%2F-%2FA-54191097&publisher_slug=itechdaily19598&exclusive=1)" than try and fit the wider buds into her ears.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Earbuds, but make it fashion
 
 Just as you wouldn't wear Gucci sneakers on a treadmill because they're _technically_ tennis shoes, I wouldn't choose these earbuds as an exercise companion. The Ear Stick works best when you're sitting and relaxing. Anything more and they _will_ fall out -- I've tried.
@@ -99,6 +107,10 @@ Christina Darby/ZDNET
 As trendy as the Ear Stick are, I was surprised that they didn't support one of the market's most-demanded features: Active Noise Cancellation (ANC). At first, I was skeptical about not having ANC, fearing that the lack of noise control would affect the fullness of the playback. I was surprised and glad to be proven wrong. Even in higher treble moments, there wasn't an overwhelming "tinny" sound. Unfortunately, the buds are not the most bass-heavy, even if you take advantage of the custom EQ in the Nothing X app. 
 
 **Also:** [**Best noise-canceling earbuds**](https://www.zdnet.com/article/best-noise-canceling-earbuds/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bass Lock is a bust
 
@@ -126,6 +138,10 @@ I use earbuds mostly as a microphone/speaker duo to make calls while walking thr
 
 **More: [AirPods Pro 2 offer two big upgrades but one major issue persists](https://www.zdnet.com/article/airpods-pro-2-offer-two-big-upgrades-but-connectivity-chaos-hasnt-been-tamed/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Gesture controls that won't end calls
 
 If you're as frustrated as I am with how sensitive gesture controls on earbuds can be, especially when it causes you to hang up on calls prematurely or skip your favorite song, here's some good news: The Ear Stick's gesture controls require a very firm, intentional squeeze to pause, play, or hang up a call. Much like the [second-generation AirPods Pro](https://www.zdnet.com/article/airpods-pro-2-offer-two-big-upgrades-but-connectivity-chaos-hasnt-been-tamed/), Nothing also incorporated a phone-free way to turn the volume up and down by swiping against the earbuds' stems. 
@@ -143,6 +159,10 @@ I'm impressed with the practicality of the gesture controls, but I have to chann
 ## Bottom Line
 
 If there's one thing going for Nothing's latest earbuds, it's the looks. These are uniquely designed, from the buds themselves to the case that protects them. That said, you'll be compromising on sound for such aesthetics. For [$99](https://us.nothing.tech/products/ear-stick), the Ear Stick deliver relatively clear audio, but they're far from market-leading -- not with the lack of ANC and the sound leakage issues. If you are looking to start or add to a quirky headset collection or gift your fashionista friend or family member, Nothing makes a strong case going into the holiday season. But if you're more interested in keeping up with sound trends, look elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -175,11 +195,25 @@ Besides the Nothing Ear Stick, here are three other wireless earbuds that you sh
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-monetary-mastery-for-your-social-media-channel-fb-video-wisdom-for-2024/"><u>[New] Monetary Mastery for Your Social Media Channel FB Video Wisdom for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-revenue-war-diary-dailymotion-vs-youtube-monetization-strategies/"><u>[Updated] Revenue War Diary Dailymotion vs YouTube Monetization Strategies</u></a></li>
+<li><a href="https://solve-news.techidaily.com/1-free-mac-software-by-dvdvideosoft-advanced-video-conversion-recording-and-editing-tools/"><u>1. FREE MAC Software by DVDVideoSoft: Advanced Video Conversion, Recording & Editing Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/aoc-model-fwu-e1659-for-enhanced-win/"><u>AOC Model FWU-E1659 for Enhanced WIN</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-the-affordable-and-speedy-raspberry-pi-m2-hatplus/"><u>Comprehensive Guide to the Affordable & Speedy Raspberry Pi M.2 HAT+</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-testing-of-the-akasa-geckos-blower-cooler-designed-for-your-solid-state-drive/"><u>Comprehensive Testing of the Akasa Gecko's Blower Cooler Designed for Your Solid State Drive</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-unmatched-performance-the-2021-review-of-apples-macbook-pro-16-inch-model/"><u>Experience Unmatched Performance: The 2021 Review of Apple's MacBook Pro 16-Inch Model</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-gadgets-with-toms-tech-hub/"><u>Exploring the Latest Gadgets with Tom's Tech Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-fidelity-and-unmatched-clarity-a-comprehensive-look-at-dough-spectrums-oled-monitor-for-gamers/"><u>High Fidelity and Unmatched Clarity: A Comprehensive Look at Dough Spectrum's OLED Monitor for Gamers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-tecno-spark-10-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Tecno Spark 10 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-at-fixing-windows-os-errors/"><u>Winning at Fixing Windows OS Errors</u></a></li>
+</ul></div>
+

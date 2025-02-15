@@ -1,7 +1,7 @@
 ---
 title: "Exploring Sound Suppression: The Science Behind Noise-Cancelling Headphone Mechanics"
-date: 2024-09-19 10:47:53
-updated: 2024-09-20 10:52:54
+date: 2025-01-29T00:22:42.901Z
+updated: 2025-02-02T18:55:55.878Z
 tags:
   - headphones
 categories:
@@ -25,6 +25,10 @@ As the name suggests, ANC works to actively cancel out the ambient noise that in
 
 [Noise-canceling earbuds](https://www.zdnet.com/article/best-noise-canceling-earbuds/) or [headphones](https://www.zdnet.com/article/best-noise-canceling-headphones/) can help drown out distraction, but have you ever wondered how they actually work? Are you listening to them or are they listening to you? Read on to learn more about the sound technology behind the silence. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Sound waves: Peaks and valleys 
 
 Getty Images
@@ -40,6 +44,10 @@ Sound wave peaks and valleys, when matched with a similar pattern, can amplify s
 **Also:** [**AirPods Pro might be an inexpensive solution to your hearing loss**](https://www.zdnet.com/article/apple-airpods-pro-hearing-loss-hearing-aids/)
 
 On the flip side, when two sound wave peaks and valleys oppose each other, instead of amplification there's a net cancellation. This phenomenon is referred to as destructive interference, and the result is silence. That's where noise-canceling headphones come in. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How ANC headphones listen to create silence
 
@@ -65,15 +73,27 @@ ANC headphones and the overall sound wave cancellation process work best in a co
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do noise-canceling headphones work by stopping sound waves?
 
 Noise-canceling headphones don't stop sound waves, but emit anti-waves that counter the structure of the intruding sound waves. The opposing peak-and-valley structure of the two waves results in silence. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is noise canceling the same as noise masking?
 
 Noise canceling, noise masking, and noise blocking all sound like they do pretty much the same thing, but there are differences. Noise canceling uses destructive interference with two opposing sound waves to create silence via built-in microphones. Noise blocking relies on the engineering of the headphone structure itself to cup the ear in a way that prevents sound from getting in. Finally, noise masking emits white noise to reduce ambient sound, hoping to trick your brain into canceling the sound altogether.
 
 **Review:** [**Do Soundcore's Sleep A10 noise-masking earbuds really work?**](https://www.zdnet.com/article/soundcore-sleep-a10-earbuds-review/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why can I still hear sound with my noise-canceling headphones?
 
@@ -100,11 +120,23 @@ ANC headphones work best to cancel sound when you're in a controlled sound envir
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-superior-approaches-to-record-phone-usage-for-2024/"><u>[New] Superior Approaches to Record Phone Usage for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-bring-your-sims-4-gameplay-to-life-on-screen/"><u>[Updated] 2024 Approved Bring Your Sims 4 Gameplay to Life on Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-comfort-with-uphere-in-depth-look-at-the-c5cd6sec-air-cooler-series/"><u>Affordable Comfort with UpHere: In-Depth Look at the C5C/D6Sec Air Cooler Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-storage-solutions-with-6tb-wd-my-passport-a-comprehensive-review/"><u>Exploring Storage Solutions with 6TB WD My Passport: A Comprehensive Review</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mobilizing-a-passive-gpu-fan/"><u>Mobilizing a Passive GPU Fan</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/scam-or-solution-delving-into-truthgpt-token/"><u>Scam or Solution? Delving Into TruthGPT Token</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341741079-toms-tech-review-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Review - Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformar-videos-de-wmv-a-formato-flv-sin-coste-guia-completa-con-movavi/"><u>Transformar Vídeos De WMV a Formato FLV Sin Coste: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/under-budget-breeze-masters-check-out-our-review-of-upheres-c5c-and-d6sec-coolers/"><u>Under-Budget Breeze Masters? Check Out Our Review of UpHere's C5C and D6Sec Coolers!</u></a></li>
+</ul></div>
+

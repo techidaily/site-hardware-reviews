@@ -1,7 +1,7 @@
 ---
 title: "Zen Audio's SXFI: Incredible Sound Quality Hindered by Creativity Feature - Insights From ZDNet"
-date: 2024-09-17 23:22:37
-updated: 2024-09-20 10:24:10
+date: 2025-01-28T04:12:01.297Z
+updated: 2025-02-02T21:24:08.232Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
 ![Describe what's shown in the image.](https://www.zdnet.com/a/img/resize/64eedbea462ff0c2e566f2666eda6f0a89652310/2024/08/13/953eada5-2248-40a9-b81d-7d0a32b4c037/zenairhero.jpg?auto=webp&width=1280)
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -34,6 +38,10 @@ Now, from what I understand (based on a discussion I had with a gentleman who pr
 I'll speak to that more in a bit. In the meantime…
 
 [ZDNET RECOMMENDS Creative Zen Air SXFI earbuds As long as you're not connecting these earbuds to a Pixel phone, you'll find the sound to be stunning. Also, the comfort and battery life will give you all-day listening pleasure. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCreative-Lightweight-Wireless-Cancellation-Bluetooth%2Fdp%2FB0D7VL2SG6%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C73a7d589-7f7d-4c35-ae0a-3969adb30a4f%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The specs
 
@@ -58,6 +66,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## My experience
 
@@ -87,6 +99,10 @@ Speaking of sound, when I was able to use the Creative App, I tweaked the EQ of 
 
 If only I could get enough volume through my Pixel 8 Pro, I could see myself grabbing these earbuds before any other. Although they may not equal the near-perfect sound of the Denon PerL Pro earbuds, the combination of beautiful, smooth sound and the comfort make these babies a real winner.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 It all boils down to the phone (or other device) you plan on using with the Zen Airs. If you have a Pixel phone, avoid these (and other Creative earbuds) like the plague. If, however, your device works with these earbuds, you'll love them. Hopefully, in future updates to the Creative app and the Zen Air firmware, Creative will solve the connectivity issues. Until then, these earbuds will be relegated to the one Android tablet that I could connect to.
@@ -114,11 +130,28 @@ Fortunately, you can purchase these on [Amazon](https://buy.geni.us/Proxy.ashx?T
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-elite-7-secure-platforms-for-smaller-companies/"><u>[New] 2024 Approved Elite 7 Secure Platforms for Smaller Companies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unleashing-vrecorders-capabilities-download-and-setup-guide/"><u>[New] 2024 Approved Unleashing VRecorder's Capabilities – Download & Setup Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-cultivating-confidence-for-captivating-your-youtube-audience/"><u>[New] In 2024, Cultivating Confidence for Captivating Your YouTube Audience</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-feast-your-eyes-enjoyment-without-cost-watch-9-christmas-films-online/"><u>[Updated] Feast Your Eyes, Enjoyment Without Cost Watch 9 Christmas Films Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-new-standard-how-does-av1-outperform-vp9/"><u>[Updated] The New Standard How Does AV1 Outperform VP9?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/conversational-courtesies-react-and-engage-on-discord-platforms/"><u>Conversational Courtesies React and Engage on Discord Platforms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ting-youtube-productions-with-effective-video-lighting-for-2024/"><u>Elevating YouTube Productions with Effective Video Lighting for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-asus-zenbook-s16-analysis-featuring-the-amd-ryzen-ryzen-ai-9-hx-370/"><u>In-Depth Asus Zenbook S16 Analysis Featuring the AMD Ryzen RYZEN AI 9 HX 370</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/on-the-road-with-tech-a-comprehensive-look-at-the-asus-rt-ax57-go-for-travel-enthusiasts-wireless-needs/"><u>On the Road with Tech: A Comprehensive Look at the Asus RT-AX57 Go for Travel Enthusiasts' Wireless Needs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-toms-hardware-showcase-top-picks-for-your-pc-upgrades/"><u>The Ultimate Tom's Hardware Showcase: Top Picks for Your PC Upgrades</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-in-depth-analysis-and-hardware-insights/"><u>Tom's Tech Reviews: In-Depth Analysis & Hardware Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-correct-sound-driver-glitches-for-dell-pcs-running-windows-7/"><u>Troubleshoot and Correct Sound Driver Glitches for Dell PCs Running Windows 7</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-computer-secrets-the-best-tips-from-toms-hardware/"><u>Unlocking Computer Secrets: The Best Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-technology-with-toms-guide/"><u>Unveiling Cutting-Edge Technology with Tom's Guide</u></a></li>
+</ul></div>
+

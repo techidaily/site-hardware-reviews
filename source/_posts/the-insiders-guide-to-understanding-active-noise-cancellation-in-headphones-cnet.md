@@ -1,7 +1,7 @@
 ---
 title: The Insider's Guide to Understanding Active Noise Cancellation in Headphones | CNET
-date: 2024-09-19 19:32:51
-updated: 2024-09-20 12:11:24
+date: 2025-01-28T00:45:52.707Z
+updated: 2025-02-03T01:03:42.104Z
 tags:
   - headphones
 categories:
@@ -25,6 +25,10 @@ As the name suggests, ANC works to actively cancel out the ambient noise that in
 
 [Noise-canceling earbuds](https://www.zdnet.com/article/best-noise-canceling-earbuds/) or [headphones](https://www.zdnet.com/article/best-noise-canceling-headphones/) can help drown out distraction, but have you ever wondered how they actually work? Are you listening to them or are they listening to you? Read on to learn more about the sound technology behind the silence. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Sound waves: Peaks and valleys 
 
 Getty Images
@@ -41,6 +45,10 @@ Sound wave peaks and valleys, when matched with a similar pattern, can amplify s
 
 On the flip side, when two sound wave peaks and valleys oppose each other, instead of amplification there's a net cancellation. This phenomenon is referred to as destructive interference, and the result is silence. That's where noise-canceling headphones come in. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How ANC headphones listen to create silence
 
 Now, let's talk about how ANC headphones use sound waves' structure to give you peace and quiet. 
@@ -55,6 +63,10 @@ Getty Images
 
 This destructive interference is why ambient noise is often cancelled out when you wear ANC headphones even when you don't play music. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where wearing ANC headphones works best
 
 If you're thinking that it's seemingly impossible for tiny microphones to pick up and transmit a counterattack on every single disruptive sound wave, you're correct. Sound still slips through. 
@@ -65,6 +77,10 @@ ANC headphones and the overall sound wave cancellation process work best in a co
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do noise-canceling headphones work by stopping sound waves?
 
 Noise-canceling headphones don't stop sound waves, but emit anti-waves that counter the structure of the intruding sound waves. The opposing peak-and-valley structure of the two waves results in silence. 
@@ -74,6 +90,10 @@ Noise-canceling headphones don't stop sound waves, but emit anti-waves that coun
 Noise canceling, noise masking, and noise blocking all sound like they do pretty much the same thing, but there are differences. Noise canceling uses destructive interference with two opposing sound waves to create silence via built-in microphones. Noise blocking relies on the engineering of the headphone structure itself to cup the ear in a way that prevents sound from getting in. Finally, noise masking emits white noise to reduce ambient sound, hoping to trick your brain into canceling the sound altogether.
 
 **Review:** [**Do Soundcore's Sleep A10 noise-masking earbuds really work?**](https://www.zdnet.com/article/soundcore-sleep-a10-earbuds-review/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why can I still hear sound with my noise-canceling headphones?
 
@@ -100,11 +120,26 @@ ANC headphones work best to cancel sound when you're in a controlled sound envir
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-exploring-bandicam-ultimate-guide-to-screen-capture/"><u>[New] In 2024, Exploring Bandicam Ultimate Guide to Screen Capture</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aximizing-view-count-faster-discover-the-most-effective-shortcuts-for-2024/"><u>[New] Maximizing View Count Faster Discover the Most Effective Shortcuts for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-the-full-potential-of-zoom-in-your-xbox-setup/"><u>[Updated] Unlock the Full Potential of Zoom in Your Xbox Setup</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-motorola-razr-40-ultra-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/flsun-s1-evaluation-rapid-warp-performance-and-unique-delta-design/"><u>FLSun S1 Evaluation: Rapid-Warp Performance & Unique Delta Design</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/greatest-kid-friendly-flying-toys-summary-for-2024/"><u>Greatest Kid-Friendly Flying Toys Summary for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-ensure-proper-surge-protection-tips-and-tricks-for-your-tech-equipment/"><u>How to Ensure Proper Surge Protection: Tips and Tricks for Your Tech Equipment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/immunosuppression/"><u>Immunosuppression</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a15-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A15 5G Phone FRP Lock</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-pc-setups-through-toms-hardware-insights/"><u>Navigating Advanced PC Setups Through Tom's Hardware Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/snapchat-vs-skype-decoding-the-language-of-ai/"><u>Snapchat vs Skype: Decoding the Language of AI</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-toms-hardware-hub/"><u>Unveiling Gadgets with Tom's Hardware Hub</u></a></li>
+</ul></div>
+

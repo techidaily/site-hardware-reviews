@@ -1,7 +1,7 @@
 ---
 title: Save Big on the Ultimate Multi-Device Hub - Now Just 44%% Off at ZDNet!
-date: 2025-01-30T18:02:20.812Z
-updated: 2025-02-01T17:18:07.637Z
+date: 2025-01-29T20:53:36.211Z
+updated: 2025-02-02T17:03:04.008Z
 tags:
   - laptops
 categories:
@@ -32,7 +32,7 @@ Under the hood, the IdeaPad 3i houses a 13th-Gen Intel Core i7-1255U processor, 
 Other notable features include a full-size keyboard for comfortable typing and a pair of 1.5W Dolby Audio speakers, which go well with the 720p camera for video calls. If you're looking for an affordable, well-performing laptop, the once-$700 [Lenovo IdeaPad 3i](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-IdeaPad-3i-15-Intel-Core-i7-1255U-16GB-RAM-512-GB-SSD-Arctic-Grey-Windows-11-Home-82RK017QUS%2F5527026637&subId1=zd-__COM_CLICK_ID__-dtp) is one of the best on the market. Just act fast once the sale does go live -- this model doesn't appear to be available for purchase on Lenovo's website, so we don't expect the deal to last. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -69,20 +69,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-zero-cost-window-recording-techniques-3-methods/"><u>[New] Zero-Cost Window Recording Techniques 3 Methods</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-snap-to-stunning-photo-editing-secrets/"><u>2024 Approved From Snap to Stunning Photo Editing Secrets</u></a></li>
-<li><a href="https://games-able.techidaily.com/achieve-seamless-gaming-experience-on-steam-by-clearing-titles/"><u>Achieve Seamless Gaming Experience on Steam by Clearing Titles</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-powerhouse-the-ultimate-asus-rog-azoth-extreme-review-at-half-a-grand/"><u>Affordable Powerhouse: The Ultimate Asus ROG Azoth Extreme Review at Half-a-Grand</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-solutions-for-dealing-with-a-lost-coprocessor-driver-on-windows-11-systems/"><u>Comprehensive Solutions for Dealing with a Lost Coprocessor Driver on Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-trends-insightful-analysis-of-new-hardware-by-tom/"><u>Decoding Tech Trends: Insightful Analysis of New Hardware by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-unmatched-sound-quality-with-the-turtle-beach-atlas-air-an-in-depth-review/"><u>Experience Unmatched Sound Quality with the Turtle Beach ATLAS Air – An In-Depth Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-insights-from-toms-hardware/"><u>Exploring the Latest in Tech: Insights From Tom's Hardware</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/from-twitter-to-whatsapp-a-guide-to-sharing-online-videos/"><u>From Twitter to WhatsApp A Guide to Sharing Online Videos</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-androids-power-to-replay-film-slices/"><u>In 2024, Android's Power to Replay Film Slices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-xiaomi-redmi-note-13-pro-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Xiaomi Redmi Note 13 Pro 5G online without jailbreak</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-scoop-on-hardware-tech-top-picks-from-toms-investigation/"><u>Inside Scoop on Hardware Tech - Top Picks From Tom's Investigation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-landscape-unveiling-secrets-from-toms-hardware-experts/"><u>Navigating the Tech Landscape: Unveiling Secrets From Tom's Hardware Experts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-convert-avi-videos-into-high-impact-gifs-using-filmora-for-windowsmacos-for-2024/"><u>[New] Convert AVI Videos Into High Impact GIFs Using Filmora for Windows/MacOS for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-stellarworkspace-unified-elite-full-hd-screens/"><u>[New] In 2024, StellarWorkspace Unified, Elite Full HD Screens</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-youtube-to-instagram-posting-videos-effortlessly/"><u>[Updated] 2024 Approved YouTube to Instagram Posting Videos Effortlessly</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-note-30i-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Note 30i If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 11 Pro?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-list-of-top-quality-cost-free-luts/"><u>In 2024, Ultimate List of Top-Quality, Cost-Free LUTs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-stability-expert-fixes-for-preventing-helldivers-ii-crashes-on-pcs/"><u>Mastering Stability: Expert Fixes for Preventing Helldivers II Crashes on PCs</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/maximizing-your-monetary-gains-on-social-media-with-snapchat/"><u>Maximizing Your Monetary Gains on Social Media with Snapchat</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sapphire-unveils-affordable-pcie-gen-4-mini-itx-am5-board-for-chinese-market/"><u>Sapphire Unveils Affordable PCIe Gen 4 Mini ITX AM5 Board for Chinese Market</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-essential-hardware-handbook-by-tom-make-informed-tech-decisions/"><u>The Essential Hardware Handbook by Tom: Make Informed Tech Decisions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-expertise-on-computer-gear-and-systems/"><u>Tom's Expertise on Computer Gear and Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-gear-lab-in-depth-analysis-of-pc-parts/"><u>Tom's Gear Lab: In-Depth Analysis of PC Parts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-cutting-edge-computer-components/"><u>Tom's Tech Insights: Exploring Cutting-Edge Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-computer-hardware-reviews-t17238628805738/"><u>Tom's Tech Insights: In-Depth Computer Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-innovations-and-reviews/"><u>Tom's Tech Insights: Innovations and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-computer-secrets-with-toms-hardware-wisdom/"><u>Unlocking Computer Secrets with Tom's Hardware Wisdom</u></a></li>
 </ul></div>
 

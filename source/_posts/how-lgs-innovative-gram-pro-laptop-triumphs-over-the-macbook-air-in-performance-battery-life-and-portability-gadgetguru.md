@@ -1,7 +1,7 @@
 ---
 title: How LG's Innovative Gram Pro Laptop Triumphs Over the MacBook Air in Performance, Battery Life & Portability | GadgetGuru
-date: 2025-01-31T18:29:51.402Z
-updated: 2025-02-01T18:29:17.160Z
+date: 2025-01-26T23:27:44.562Z
+updated: 2025-02-03T04:28:00.205Z
 tags:
   - laptops
 categories:
@@ -56,7 +56,7 @@ If you're at all familiar with the previous ThinkPad X1 computers, you'll notice
 Another consequence of the limited space is the lack of ports. You have four inputs in total: two Thunderbolt 4 ports, an 3.5mm headphone/mic combo, and a slot for a Nano SIM, although the last one is optional. It's as barebones as you can get. To be honest, I am pleasantly surprised that there is a headphone jack. With how simple the [third-generation ThinkPad X1 Nano](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-nano-gen-3-%2813-inch-intel%29%2Flen101t0054&publisher_slug=itechdaily19598&exclusive=1) is, I was a little shocked it made the cut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -97,18 +97,17 @@ Prices [start at $1,043](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-advanced-speed-adjustment-techniques-in-media-editing/"><u>[Updated] Advanced Speed Adjustment Techniques in Media Editing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultraview-app-functionality-survey/"><u>[Updated] In 2024, UltraView App Functionality Survey</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-virtual-expeditions-youtubes-top-immersive-titles-for-2024/"><u>[Updated] Virtual Expeditions YouTube's Top Immersive Titles for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-transform-video-quality-on-tiktok-2-ways/"><u>2024 Approved Transform Video Quality on TikTok (2 Ways)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/acemagic-x1-dual-screen-laptop-unveil-the-price-and-purchase-details-this-coming-month/"><u>AceMagic X1 Dual-Screen Laptop: Unveil the Price & Purchase Details This Coming Month!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/alienware-m18-r2-700-discount-equip-yourself-with-an-impressive-rtx-4090-gaming-laptop/"><u>Alienware M18 R2 - $700 Discount, Equip Yourself with an Impressive RTX 4090 Gaming Laptop</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/compensation-for-ailing-apple-butterfly-keyboards-users-awarded-up-to-395-for-each-macbook/"><u>Compensation for Ailing Apple Butterfly Keyboards: Users Awarded Up To $395 for Each MacBook</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutting-edge-tips-for-android-time-lapse-capture-mastery-2024/"><u>Cutting-Edge Tips for Android Time-Lapse Capture Mastery 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dell-g16-gaming-laptop-now-just-949-powerhouse-performance-on-sale/"><u>Dell G16 Gaming Laptop: Now Just $949 - Powerhouse Performance on Sale</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-asus-ryzen-ai-laptops-rzne-ai-9-hx-370-and-rzne-ai-9-365-unveiling-on-july-17-for-tuf-gaming-rog-zephyrus-zenbook-and-proart/"><u>Discover the Latest Asus Ryzen AI Laptops: RZne AI 9 HX 370 & RZne AI 9 365 - Unveiling on July 17 for TUF Gaming, ROG Zephyrus, Zenbook, and ProArt</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-architecting-an-inspiring-tiktok-conclusion/"><u>In 2024, Architecting an Inspiring TikTok Conclusion</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-the-art-of-hdr-photography-on-iphone-for-2024/"><u>Unveiling the Art of HDR Photography on iPhone for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-zoom-mastery-for-selfie-success-in-instagram-stories-for-2024/"><u>[Updated] Zoom Mastery for Selfie Success in Instagram Stories for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-and-fast-raspberry-pi-m2-ssd-addon-comprehensive-evaluation/"><u>Affordable and Fast Raspberry Pi M.2 SSD Addon: Comprehensive Evaluation</u></a></li>
+<li><a href="https://win-docs.techidaily.com/comprehensive-troubleshooting-steps-for-resolving-typing-issues-in-windows-10-search-box/"><u>Comprehensive Troubleshooting Steps for Resolving Typing Issues in Windows 10 Search Box</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-enhanced-performance-with-sunfounders-pironman-5-an-aesthetically-pleasing-raspberry-pi-desktop-housing-that-supports-ssd-and-dazzles-with-rgb-le31/"><u>Experience Enhanced Performance with Sunfounder's Pironman 5 - An Aesthetically Pleasing Raspberry Pi Desktop Housing that Supports SSD and Dazzles with RGB LEDs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-tech-gadgets-by-toms-electronics-hub/"><u>Expert Insights on Tech Gadgets by Tom’s Electronics Hub</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-art-of-minimal-latency-a-players-guide-to-improved-responses-in-cyberpunk-2077/"><u>Mastering the Art of Minimal Latency: A Player's Guide to Improved Responses in Cyberpunk 2077</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/optimizing-video-load-time-on-instagram-apps-for-2024/"><u>Optimizing Video Load Time on Instagram Apps for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/quick-tips-for-converting-snapshots-directly-from-the-app-for-2024/"><u>Quick Tips for Converting Snapshots Directly From the App for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-cyberdeck-2064-by-cyberdore-featuring-advanced-handle-oversized-wheel-and-cutting-edge-display-technology/"><u>Revolutionary Cyberdeck 2064 by Cyberdore: Featuring Advanced Handle, Oversized Wheel, and Cutting-Edge Display Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/text-wisely-and-save-strategies-to-prevent-data-plan-breaches-with-sms/"><u>Text Wisely and Save: Strategies to Prevent Data Plan Breaches with SMS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-expert-reviews-and-guides-for-high-performance-computing/"><u>Tom's Tech: Expert Reviews and Guides for High-Performance Computing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/sh-music-from-the-cloud-youtube-downloader-tips/"><u>Unleash Music From the Cloud YouTube Downloader Tips</u></a></li>
 </ul></div>
 

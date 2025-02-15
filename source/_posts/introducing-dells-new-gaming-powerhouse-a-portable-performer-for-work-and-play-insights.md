@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights"
-date: 2025-01-25T16:26:45.442Z
-updated: 2025-02-01T16:24:23.410Z
+date: 2025-02-01T23:59:19.283Z
+updated: 2025-02-03T05:23:41.218Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,24 +114,22 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-learn-the-best-practices-for-capturing-instagram-live-feeds/"><u>[New] 2024 Approved Learn the Best Practices for Capturing Instagram Live Feeds</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-best-sniping-software-for-mac-users/"><u>[Updated] 2024 Approved Best Sniping Software for Mac Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-instant-luxury-iphones-extended-shutter-mastery/"><u>2024 Approved Instant Luxury IPhone's Extended Shutter Mastery</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-revolutionize-your-photo-taking-experience-a-guide-to-snapchats-editing-tools/"><u>2024 Approved Revolutionize Your Photo-Taking Experience A Guide to Snapchat's Editing Tools</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-streamline-your-vlc-experience-best-practices-for-macos/"><u>2024 Approved Streamline Your VLC Experience Best Practices for MacOS</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amazons-exclusive-deal-asus-rog-strix-g16-just-1164-for-the-ultimate-2024-gaming-experience/"><u>Amazon's Exclusive Deal: ASUS ROG Strix G16 - Just $1,164 for the Ultimate 2024 Gaming Experience</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breakthrough-in-efficient-energy-storage-how-massless-carbon-hewn-batteries-are-changing-the-game-for-portable-tech/"><u>Breakthrough in Efficient Energy Storage: How Massless Carbon Hewn Batteries Are Changing the Game for Portable Tech</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-ultimate-gaming-setup-with-msis-titan-18-pro-ryzen-edition-featuring-the-cutting-edge-combo-of-amd-ryzen-9-and-nvidia-rtx-graphics/"><u>Discover the Ultimate Gaming Setup with MSI’s Titan 18 Pro Ryzen Edition: Featuring the Cutting-Edge Combo of AMD Ryzen 9 and Nvidia RTX Graphics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discovering-innovation-with-toms-computing-insights/"><u>Discovering Innovation with Tom's Computing Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discovering-top-tech-a-dive-into-toms-hardware-selection/"><u>Discovering Top Tech: A Dive Into Tom's Hardware Selection</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/double-display-power-with-acemagics-intel-laptop-priced-at-899-and-below/"><u>Double Display Power with Acemagic's Intel Laptop - Priced at $899 and Below</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-the-next-level-in-ultrabooks-exploring-the-superior-features-and-design-of-the-updated-dell-xps-13-9345/"><u>Experience the Next Level in Ultrabooks: Exploring the Superior Features and Design of the Updated Dell XPS 13 (9345)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-the-top-5-exciting-features-of-apples-ios-18-preview-a-sneak-peek/"><u>Explore the Top 5 Exciting Features of Apple's iOS 18 Preview: A Sneak Peek</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-equipment-the-guide-by-toms-hardware/"><u>Exploring Advanced Equipment - The Guide by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-review-center/"><u>Exploring Gadgets with Tom's Hardware Review Center</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-best-global-music-stream-service/"><u>In 2024, Best Global Music Stream Service</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-create-a-heartfelt-valentines-day-message-a-step-by-step-guide-for-2024/"><u>New Create a Heartfelt Valentines Day Message A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rapid-resolution-excising-unwanted-apps-in-win11/"><u>Rapid Resolution: Excising Unwanted Apps in Win11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/survive-and-thrive-top-8-zombie-game-experiences-for-2024/"><u>Survive and Thrive Top 8 Zombie Game Experiences for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-guide-to-instagram-filters-for-2024/"><u>[New] The Ultimate Guide to Instagram Filters for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-transform-your-content-reach-with-strategic-tagging-insight/"><u>[New] Transform Your Content Reach with Strategic Tagging Insight</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-game-streamers-for-your-watchlist/"><u>[Updated] 2024 Approved Essential Game Streamers for Your Watchlist</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-platforms-for-amplifying-youtube-content/"><u>2024 Approved Top Platforms for Amplifying YouTube Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-fixing-high-resource-usage-by-service-host-on-win10-pcs/"><u>Comprehensive Guide to Fixing High Resource Usage by Service Host on Win10 PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-your-own-personalized-chatgpt-with-ai-tools/"><u>Creating Your Own Personalized ChatGPT with AI Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-the-cause-of-prolonged-charging-for-googles-pixel-6-smartphone/"><u>Decoding the Cause of Prolonged Charging for Google’s Pixel 6 Smartphone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-the-excellence-of-current-motorola-mobile-devices/"><u>Discovering the Excellence of Current Motorola Mobile Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/diy-personalized-android-user-interface-creation-using-cost-free-tools/"><u>DIY Personalized Android User Interface Creation Using Cost-Free Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embracing-the-night-my-journey-into-a-world-of-dark-modes/"><u>Embracing the Night: My Journey Into a World of Dark Modes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhance-your-eye-comfort-on-android-devices-with-these-simple-brightness-adjustments/"><u>Enhance Your Eye Comfort on Android Devices with These Simple Brightness Adjustments!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-differences-essential-aspects-of-samsungs-ecosystem-not-found-in-the-google-universe-a-comprehensive-guide-for-switchers/"><u>Experience Differences: Essential Aspects of Samsung's Ecosystem Not Found in the Google Universe – A Comprehensive Guide for Switchers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/guide-disabling-intrusive-notification-alerts-on-android-devices/"><u>Guide: Disabling Intrusive Notification Alerts on Android Devices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/laughing-liberally-with-our-meme-toolbox/"><u>Laughing Liberally with Our Meme Toolbox</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/limited-time-tech-offers-get-the-new-pixel-8-pro-and-other-high-value-deals-now/"><u>Limited-Time Tech Offers: Get the New Pixel 8 Pro & Other High-Value Deals Now!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-core-upgrades-of-windows-11/"><u>The Core Upgrades of Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Lava Yuva 3? | Dr.fone</u></a></li>
 </ul></div>
 

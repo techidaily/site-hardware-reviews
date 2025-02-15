@@ -1,7 +1,7 @@
 ---
 title: "Sony Reinvents Classic Can Headphones: Advanced Acoustics Meet Superior Ergonomics - ZDNet"
-date: 2024-09-19 12:22:27
-updated: 2024-09-20 10:59:41
+date: 2025-02-01T23:48:23.653Z
+updated: 2025-02-02T17:37:19.874Z
 tags:
   - headphones
 categories:
@@ -64,11 +64,33 @@ The MDR-M1 comes with a 2.5mm to 3.5mm headphone jack and an adapter for pluggin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-win10s-elite-screen-recording-and-capture-software-selection/"><u>[New] Win10's Elite Screen Recording & Capture Software Selection</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-mastering-the-art-of-pro-grade-gopro-videography/"><u>[Updated] In 2024, Mastering the Art of Pro-Grade Gopro Videography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfected-pixel-panache-packages/"><u>[Updated] Perfected Pixel Panache Packages</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/an-animated-look-at-valkyrie-vind-sl125s-performance-impeccable-style-but-inferior-execution-revealed/"><u>An Animated Look at Valkyrie Vind SL125's Performance - Impeccable Style but Inferior Execution Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-the-gigabyte-g6x-solid-gamers-companion-without-distinctive-attributes/"><u>Comprehensive Evaluation of the Gigabyte G6X - Solid Gamers' Companion without Distinctive Attributes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-valkyrie-syn-2n40-aio-water-block-assessment-outstanding-thermal-efficiency-meets-bulky-app-interface/"><u>Comprehensive Valkyrie Syn 2N40 AIO Water Block Assessment: Outstanding Thermal Efficiency Meets Bulky App Interface</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-and-insights-from-toms-hardware-on-cutting-edge-tech-devices-tech-digest/"><u>Expert Reviews and Insights From Tom's Hardware on Cutting-Edge Tech Devices | Tech Digest</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-top-notch-gadgets-with-toms-hardware-review-channel/"><u>Explore Top-Notch Gadgets with Tom's Hardware Review Channel</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317554-9781401927912-illumination/"><u>Illumination | Free Book</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-revisiting-old-photos-sending-them-as-snaps-on-snapchat/"><u>In 2024, Revisiting Old Photos Sending Them as Snaps on Snapchat</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-raspberry-pi-artificial-intelligence-starter-set-brainiac-edition/"><u>In-Depth Analysis of the Raspberry Pi Artificial Intelligence Starter Set - 'Brainiac' Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-discussions-unveiling-secrets-with-toms-tech-wisdom/"><u>Pioneering Hardware Discussions: Unveiling Secrets with Tom's Tech Wisdom</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/step-by-step-guide-matrix-compatible-blink-addon-setup-in-kodi/"><u>Step-by-Step Guide: Matrix-Compatible Blink Addon Setup in Kodi</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/supreme-cyber-seminar-sorter/"><u>Supreme Cyber Seminar Sorter</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Day One Highlights From CES 202N: Top Tech Reveals and Breakthroughs"
-date: 2025-01-23T01:13:44.822Z
-updated: 2025-01-24T19:20:19.502Z
+date: 2025-01-28T02:33:51.619Z
+updated: 2025-02-03T00:55:53.067Z
 tags:
   - laptops
 categories:
@@ -20,13 +20,13 @@ The first day of [CES 2023](https://www.zdnet.com/topic/ces-2023-the-biggest-tre
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [![CES 2023](https://www.zdnet.com/a/img/resize/28650a75dc1dd673042c63db5be340811e6ef8a4/2023/01/03/6f86bbf0-d65d-4f16-a4f2-699dfdc83419/ces-2023-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) CES 2023: The Biggest Trends for Pros Find all the exciting innovation from CES 2023 in this ZDNET special feature.  Read now](https://www.zdnet.com/topic/ces-2023-the-biggest-trends-for-pros/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Set to run through Sunday, Jan. 8, the weeklong conference is when most major tech companies announce [new innovations for consumers](https://www.zdnet.com/article/ces-2023-preview-4-big-questions-that-will-shape-the-week/). 
 
@@ -36,6 +36,10 @@ This year, while we're still expecting announcements from many major companies, 
 
 Below, you'll find today's biggest announcements from major players like Samsung, Nvidia, and GE.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Nvidia's GeForce RTX 40 series GPU drop
 
 Nvidia
@@ -43,10 +47,6 @@ Nvidia
 Once long-rumored, at last it's now here: The GeForce RTX 40 series GPU has come to laptops. Featuring faster, more efficient, and more capable units powered by Nvidia's Ada Lovelace architecture, they will be featured across many laptops, by brands including Alienware, Acer, HP, and Lenovo.
 
 **Read more:** [Nvidia's latest Studio Laptop series showcases its fastest, most powerful GPUs](https://www.zdnet.com/article/nvidia-unveils-its-latest-studio-laptop-series-which-showcases-its-fastest-most-powerful-gpu-chip/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Also announced: In-car gaming
 
@@ -65,7 +65,7 @@ From the new Acer Nitro 16 and 17 to the Predator Helios 16 and 18 laptops, Acer
 **Read more:** [Acer's CES 2023 gaming lineup boasts high-end laptops, big and fast monitors](https://www.zdnet.com/home-and-office/home-entertainment/acers-ces-2023-gaming-lineup-boasts-high-end-laptops-big-and-fast-monitors/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## LG adds upgraded OLED TV panels
@@ -75,6 +75,10 @@ LG
 The first of the major tech companies to reveal a new TV during CES, LG didn't disappoint, offering major upgrades to consumer-favorite panels like the C2, G2, and Z2\. All TV panels will feature a new a9 AI processor Gen6 chip for improved performance for both cinephiles and console gamers.
 
 **Read more:** [LG announces new C, G, and Z OLED TV lineups at CES 2023](https://www.zdnet.com/home-and-office/home-entertainment/lgs-2023-tv-lineup-c3-g3-z3-models/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Intel's 13th gen family expands
 
@@ -90,10 +94,6 @@ Also dropping today is the Evie Ring, a wearable that is en route to be the firs
 
 **Read more:** [The Evie Ring may have a grip on women's wellness other wearables don't](https://www.zdnet.com/article/ces-2023-movano-health-unveils-the-evie-ring/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung adds new OLED and 8K monitors for gamers
 
 Samsung
@@ -103,7 +103,7 @@ Ahead of Samsung's First Look event tonight, the tech company announced new addi
 **Read more:** [Samsung's Odyssey G9 gaming monitor family to add OLED, 8K models](https://www.zdnet.com/home-and-office/home-entertainment/samsungs-odyssey-g9-gaming-monitor-family-adds-oled-8k-models/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Also announced: Samsung upgrades its TV lines
@@ -154,20 +154,18 @@ In the meantime, be sure to check back tomorrow to get the scoop on more announc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-elevate-your-social-media-reach-fb-ad-mastery-techniques-for-2024/"><u>[Updated] Elevate Your Social Media Reach FB Ad Mastery Techniques for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-from-vlogs-to-viral-jake-pauls-online-empire-expansion-for-2024/"><u>[Updated] From Vlogs to Viral Jake Paul’s Online Empire Expansion for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-discovering-the-10-leading-low-cost-mobile-video-conferencing/"><u>[Updated] In 2024, Discovering the 10 Leading Low-Cost, Mobile Video Conferencing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amazing-value-249-asus-tuf-curved-monitor-34-display-available-at-amazon/"><u>Amazing Value: $249 ASUS TUF Curved Monitor, 34 Display Available at Amazon</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/bend-the-competition-with-our-2024-ranking-of-superior-curved-gaming-monitors/"><u>Bend the Competition with Our 2024 Ranking of Superior Curved Gaming Monitors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/compact-convenient-and-cost-effective-in-depth-review-of-the-eyoyo-em1/"><u>Compact, Convenient, and Cost-Effective: In-Depth Review of the EYOYO EM1</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-reviews-by-toms-gear-experts-discover-top-hardware-choices/"><u>Comprehensive Reviews by Tom's Gear Experts: Discover Top Hardware Choices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discounted-deal-alienwares-aw3225qf-gaming-monitor-with-qd-oled-4k-technology-and-240-hz-refresh-rate-grab-100-off/"><u>Discounted Deal: Alienware's AW3225QF Gaming Monitor with QD-OLED 4K Technology & 240 Hz Refresh Rate - Grab $100 Off</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-high-performance-components-with-toms-gear-insights/"><u>Discover High-Performance Components with Tom's Gear Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-gadgets-trustworthy-insights-from-toms-hardware/"><u>Discover the Latest Gadgets | Trustworthy Insights From Tom's Hardware</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-eliminate-intermittent-display-shaking-in-microsofts-latest-os-windows-10/"><u>How to Eliminate Intermittent Display Shaking in Microsoft's Latest OS, Windows 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-essential-5-virtual-film-maker-gadgets/"><u>In 2024, Essential 5 Virtual Film Maker Gadgets</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-t2-pro-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo T2 Pro 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-perfect-video-conferencing-the-essential-list-of-10-free-recorders/"><u>In 2024, Perfect Video Conferencing The Essential List of 10 Free Recorders</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-tune-transfer-the-ultimate-selection-of-free-android-apps-for-youtube-melodies/"><u>[New] 2024 Approved Tune Transfer The Ultimate Selection of Free Android Apps for YouTube Melodies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-core-ethos-universal-youtube-guidelines/"><u>[New] In 2024, Core Ethos Universal YouTube Guidelines</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-learn-to-activate-picture-in-picture-viewing-on-iphones-youtube-app/"><u>2024 Approved Learn to Activate Picture-in-Picture Viewing on iPhone's Youtube App</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-z790i-lightning-wireless-networking-board-review-harnessing-the-power-of-lightning-in-miniature/"><u>ASRock Z790I Lightning Wireless Networking Board Review: Harnessing the Power of Lightning in Miniature</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-fade-strategies-for-dynamic-videos-for-2024/"><u>Expert Fade Strategies for Dynamic Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-strategies-to-overcome-steam-download-issues-easily/"><u>Expert Strategies to Overcome Steam Download Issues Easily</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-essentials-toms-guide-to-computer-hardware/"><u>Exploring Technology Essentials: Tom’s Guide to Computer Hardware</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-your-internet-speed-with-the-asus-zenwifi-router-ax6600-in-depth-review-and-setup-tips/"><u>Maximizing Your Internet Speed with the ASUS ZenWiFi Router AX6600: In-Depth Review and Setup Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mid-century-designed-cutting-edge-performance-unveiling-the-keychron-k2-he-special-edition-review/"><u>Mid-Century Designed, Cutting-Edge Performance: Unveiling the Keychron K2 HE Special Edition Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-going-unseen-during-instagram-live-events-for-2024/"><u>The Art of Going Unseen During Instagram Live Events for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-role-of-output-impedance-in-circuit-performance-optimization/"><u>The Role of Output Impedance in Circuit Performance Optimization</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-sovol-sv08-review-a-tribute-speed-machine-inspired-by-voron/"><u>Unveiling Sovol SV08 Review: A Tribute Speed Machine Inspired by Voron</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-maximize-storage-a-step-by-step-guide-to-clearing-space-for-fcpx-for-2024/"><u>Updated Maximize Storage A Step-by-Step Guide to Clearing Space for FCPX for 2024</u></a></li>
 </ul></div>
 

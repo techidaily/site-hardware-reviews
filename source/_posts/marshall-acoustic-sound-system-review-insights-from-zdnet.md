@@ -1,7 +1,7 @@
 ---
 title: "Marshall Acoustic Sound System Review: Insights From ZDNet"
-date: 2024-09-18 10:30:46
-updated: 2024-09-20 12:51:30
+date: 2025-01-27T16:24:38.725Z
+updated: 2025-02-03T02:03:00.453Z
 tags:
   - headphones
 categories:
@@ -40,6 +40,10 @@ At [$199](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.
 
 more buying choices 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design  
 
 With true wireless earbuds, there are usually two stories to tell: The design of the case and how the earbuds sound. 
@@ -58,6 +62,10 @@ Weighing in at just 4.25 grams (0.15 oz), the Motif ANC earbuds are lightweight 
 
 To wrap up the design elements, the case is rated for IPX4, meaning it can take a splash of water from any direction. The earbuds have an IPX5 rating, making them resistant to sustained, low-pressure water (i.e. faucet, toilet, shower, etc.). There's also a Bluetooth 5.2 pairing button at the front of the case and a USB-C charging port at the bottom. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Performance  
 
 When testing the Marshall Motif ANC earbuds, I naturally leaned towards the tunes of the Scorpions and Radiohead, rock bands that deliver intricate, yet harmonic performances. 
@@ -75,6 +83,10 @@ The mids, which represent the vocals of songs, are great, but not perfect. In so
 As the name implies, the Motif ANC has active noise cancellation, the same distraction-free tech that's found on the AirPods Pro. By inverting external soundwaves through the built-in microphones, the earbuds are able to block out ambient sounds like bird chips, rain, and fans. While a majority of sub-$100 wireless earbuds now offer ANC, there is a noticeable difference between price points. In the case of the $199 Marshall's, the passive white noise is near-silent, but _very_ effective. When strolling through my neighborhood boardwalk, the ANC did a reliable job at fading out my surroundings and keeping the music front and center.
 
 In busier areas that require more auditory awareness, a tap and hold on either earbud toggles between ANC, transparency, and regular modes. Transparency mode is best used when crossing streets or listening for what the next stop is on the subway. I often find transparency modes to be overly aggressive, amplifying sounds to the point where they feel closer than they actually are. However, the Motif ANC does a great job at keeping sounds natural and realistic. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## App and software  
 
@@ -100,9 +112,17 @@ When you do need to top up, it takes about three hours to charge the Motif ANC f
 
 [Marshall Motif ANC View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMarshall-Motif-Wireless-Canceling-Headphones%2Fdp%2FB09CHH1Z4K%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7fabcb83-e974-4f05-8ef0-881c354d7be8%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line  
 
 I came into this review with middling expectations for the [Marshall Motif ANC](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMarshall-Motif-Wireless-Canceling-Headphones%2Fdp%2FB09CHH1Z4K%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7fabcb83-e974-4f05-8ef0-881c354d7be8%7Cdtp&dtb=1) and I'm ending it with astonishment. These true wireless earbuds provide all the essentials that you'd want from a high-end set, including active noise canceling, excellent fit, comfort, full and rich sound quality, and a companion app that tightens any loose bolts. If you can settle with average battery life and an undeniably expensive price tag, then these earbuds are worth rocking. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider  
 
@@ -135,11 +155,29 @@ Along with our running list of the [best wireless earbuds](https://www.zdnet.com
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/waken-the-peaceful-warrior-within-discover-the-ultimate-channels/"><u>[New] Awaken the Peaceful Warrior Within - Discover the Ultimate Channels</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-duo-dynamics-instagram-tiktok-confluence-guide-for-2024/"><u>[New] Duo Dynamics Instagram-TikTok Confluence Guide for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-ace-list-of-low-cost-youtube-caption-tools/"><u>[Updated] 2024 Approved Ace List of Low-Cost YouTube Caption Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-practical-techniques-for-downloading-youtube-srt/"><u>[Updated] Practical Techniques for Downloading YouTube SRT</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341710115-affordable-essential-cooling-at-just-5-uphere-m201-ssd-heatsink-unveiled/"><u>Affordable Essential Cooling at Just $5 - UpHere M201 SSD Heatsink Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-introduces-enhanced-airpods-4-featuring-find-my-speaker-functionality-and-modern-usb-c-connectivity-zdnet-analysis/"><u>Apple Introduces Enhanced AirPods 4 Featuring 'Find My Speaker' Functionality & Modern USB-C Connectivity - ZDNet Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341695805-expert-analysis-raspberry-pi-5-enhanced-by-pi-52s-cooling-tower-speedy-performance-uncovered/"><u>Expert Analysis: Raspberry Pi 5 Enhanced by Pi 52'S Cooling Tower - Speedy Performance Uncovered!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hardware-insights-by-tom-top-tech-pickups-and-gear-advice/"><u>Hardware Insights by Tom: Top Tech Pickups and Gear Advice</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-inside-out-the-explanation-for-youtubes-unlisted-media/"><u>In 2024, Inside Out The Explanation for YouTube's Unlisted Media</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-circuitry-with-toms-hardware-reviews/"><u>Navigating the Circuitry with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://facebook.techidaily.com/quick-guide-to-latest-watches-in-facebook/"><u>Quick Guide to Latest Watches in Facebook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/setting-the-scene-ideal-video-aspect-ratios-and-widths-for-youtube-for-2024/"><u>Setting the Scene Ideal Video Aspect Ratios & Widths for YouTube for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-cutting-edge-tech-by-toms-hardware/"><u>The Ultimate Resource for Cutting-Edge Tech by Tom's Hardware</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-top-6-aac-software-choices-for-your-computer-or-smartphone-experience/"><u>Ultimate Guide to Top 6 AAC Software Choices for Your Computer or Smartphone Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-tech-trends-on-toms-hardware-portal/"><u>Unveiling the Latest Tech Trends on Tom's Hardware Portal</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Surviving the Shock of My New $199 LED Facial Mask Experience - A Close Encounter with High Tech
-date: 2024-09-17 19:39:47
-updated: 2024-09-20 11:24:11
+date: 2025-01-28T21:47:10.900Z
+updated: 2025-02-02T22:19:19.371Z
 tags:
   - kitchen-household
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/5d5287b4b1c2fa5c9cc6fad7bd800bef21
 ![EcoFlow Delta Pro 3 portable battery](https://www.zdnet.com/a/img/resize/493a0e14c2076aa82dd15d43be4c51552702595c/2024/06/20/9d465ec0-9e8c-4fee-b2aa-d5b5ce343244/2.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -77,6 +81,10 @@ How did it fare? The power returned about three hours later, and the Delta Pro 3
 
 Aside from this power outage, [we've tested](https://www.zdnet.com/home-and-office/energy/how-we-test-portable-power-stations/) the Delta Pro 3 as a standalone battery to power a home office setup, keeping consumption between 50W and 120W. The DP3 powered an LCD monitor, a Dell XPS laptop, a phone charger, and a USB-C tablet charger for four days. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Accessories-Emergencies%2Fdp%2FB0D14FMFZD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1) is an excellent option for anyone looking for a higher-capacity portable battery for camping or as an emergency home backup, as long as you're willing to pay the price, literally. It's not a cheap option among portable batteries, priced at $3199, which is about $400 less than the price of a [Delta Pro and Dual fuel inverter generator bundle](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Generator-High-Power-Appliances%2Fdp%2FB0BKGLCVRR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1).
@@ -106,11 +114,31 @@ Though priced high, the Delta Pro 3 seamlessly integrates into an EcoFlow home b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-seamless-techniques-for-documenting-digital-conferences-on-os-xpc-for-2024/"><u>[New] Seamless Techniques for Documenting Digital Conferences on OS X/PC for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-mastering-filming-techniques-on-tiktok-platforms/"><u>[Updated] In 2024, Mastering Filming Techniques on TikTok Platforms</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-zoom-mastery-achieving-precision-in-google-meet-sessions-for-2024/"><u>[Updated] Zoom Mastery Achieving Precision in Google Meet Sessions for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-google-pixel-8-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-breakdown-with-tomntools-evaluation/"><u>Advanced Hardware Breakdown with Tom'n'Tools Evaluation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/aoc-agon-pro-ag456uczd-unveiled-the-revolutionary-ultra-wide-oled-game-monitor-with-an-edge-radius-defining-45-display-extreme-curvature-and-blistering-perf5/"><u>AOC Agon Pro AG456UCZD Unveiled – The Revolutionary Ultra-Wide OLED Game Monitor with an Edge Radius Defining 45 Display, Extreme Curvature & Blistering Performance Reviewed!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-digital-horizons-toms-guide-to-modern-tech/"><u>Discovering Digital Horizons: Tom's Guide to Modern Tech</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exceeding-specs-or-just-hype-an-in-depth-evaluation-of-the-docoolers-high-resolution-webcam/"><u>Exceeding Specs or Just Hype? An In-Depth Evaluation of the Docooler's High-Resolution Webcam</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-x-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone X Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-lava-yuva-3-pro-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Lava Yuva 3 Pro Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-hardware-wisdom-from-toms-corner/"><u>Navigating the World of Hardware - Wisdom From Tom's Corner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sovol-sv08-speedster-showdown-honoring-the-legendary-voron/"><u>Sovol SV08 Speedster Showdown: Honoring the Legendary Voron</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-upgrading-raspberry-pi-5-with-the-affordable-pineboards-hatdrive/"><u>The Ultimate Guide to Upgrading Raspberry Pi 5 with the Affordable Pineboards HatDrive</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-6-online-stores-selling-televisions-a-comprehensive-guide/"><u>Top 6 Online Stores Selling Televisions: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-toms-hardware-insights/"><u>Unveiling the Latest in Computing - Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-innovations-at-toms-hardware-storehouse/"><u>Unveiling the Latest Innovations at Tom's Hardware Storehouse</u></a></li>
+</ul></div>
+

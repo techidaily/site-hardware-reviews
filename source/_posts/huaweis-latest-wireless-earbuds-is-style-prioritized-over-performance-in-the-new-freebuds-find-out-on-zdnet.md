@@ -1,7 +1,7 @@
 ---
 title: "Huawei's Latest Wireless Earbuds: Is Style Prioritized Over Performance in the New FreeBuds? Find Out on ZDNET"
-date: 2024-09-19 20:49:33
-updated: 2024-09-20 10:32:44
+date: 2025-02-02T05:03:15.019Z
+updated: 2025-02-02T20:00:08.859Z
 tags:
   - headphones
 categories:
@@ -40,6 +40,10 @@ The corner that's angled rather than rounded holds a gold strip adorned with the
 In case anyone has a real lipstick to hand and wants to test the dimensions, the case measures 70mm tall by 27.4mm wide by 27.4mm deep. It weighs 84.5g without the buds, while the buds add 4.1g each to that for a total of 92.7g. 
 
 Open up the case and a bronze/gold holder provides shelter for the deepest, darkest, reddest earbuds I think I've ever seen. If your favoured lip colouring is not this shade, then you won't be able to colour-coordinate. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -108,11 +112,27 @@ Actually, in the end, a win for style over substance adequately describes the Hu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-ace-voice-changer-apps-for-your-mobile-device-for-2024/"><u>[New] Ace Voice-Changer Apps for Your Mobile Device for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-canvas-of-success-unveiling-10-essential-design-tricks-for-2024/"><u>[New] The Canvas of Success Unveiling 10 Essential Design Tricks for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-rules-for-a-positive-youtube-experience-for-2024/"><u>[Updated] Essential Rules for a Positive YouTube Experience for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-video-editing-showdown-bandicams-capabilities-compared-to-camtasia/"><u>2024 Approved Video Editing Showdown Bandicam's Capabilities Compared to Camtasia</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-infinix-hot-40-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Infinix Hot 40 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mkv-mp4-windowsmacos-2024/"><u>線上 MKV-MP4 導航: Windows/macOS 最佳轉錄工具 [2024年選型]</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/assessing-the-lofree-edge-a-lightweight-thin-choice-comparatively-priced-against-the-apple-magic-keyboard/"><u>Assessing the Lofree Edge: A Lightweight, Thin Choice - Comparatively Priced Against the Apple Magic Keyboard</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210595545-9781922499059-charlies-poem/"><u>Charlies Poem | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-tom-a-comprehensive-guide/"><u>Exploring Technology with Tom: A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-realme-v30-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Realme V30 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-gear-insights-from-toms-hardware-analysis/"><u>Navigating the World of PC Gear: Insights From Tom's Hardware Analysis</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-all-seeing-amazon-halo-a-fitness-companion-like-no-other-in-the-market/"><u>The All-Seeing Amazon Halo – A Fitness Companion Like No Other in the Market</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341743549-wirelessly-dominate-your-productivity-with-the-keychron-q1-he-the-wireless-version-youve-been-dreaming-of/"><u>Wirelessly Dominate Your Productivity with the Keychron Q1 HE - The Wireless Version You've Been Dreaming Of!</u></a></li>
+</ul></div>
+

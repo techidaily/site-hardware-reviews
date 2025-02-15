@@ -1,7 +1,7 @@
 ---
 title: "Unlock Ultimate Versatility: Discover the Powerful Yet Portable 8-in-1 Charger that Defies Price Point Expectations on ZDNet"
-date: 2025-01-26T17:15:40.669Z
-updated: 2025-02-01T16:56:22.874Z
+date: 2025-02-01T00:08:05.944Z
+updated: 2025-02-03T04:57:35.559Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -81,7 +81,7 @@ Regarding the battery life on the ThinkBook 14 2-in-1, I found it to be acceptab
 I can get a full day's worth of work out of this laptop on one charge, but honestly, barely so. That being said, the fast charging capability does bring the laptop from nearly dead to 100% in less than an hour. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -120,19 +120,14 @@ If you're looking for a similarly-priced convertible with a better display, chec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-audio-perfection-achieved-expert-tips-without-a-microphone/"><u>[New] In 2024, Audio Perfection Achieved Expert Tips Without a Microphone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-discover-new-social-horizons-beyond-the-popularity-of-tiktok/"><u>[Updated] 2024 Approved Discover New Social Horizons Beyond the Popularity of TikTok</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/100s-worth-of-gadgets-on-temu-value-and-quality-insights/"><u>$100'S Worth of Gadgets on Temu: Value and Quality Insights</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-advice-on-fixing-persistent-errors-in-vrchat-performance/"><u>Expert Advice on Fixing Persistent Errors in VRChat Performance</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-motorola-moto-g84-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Motorola Moto G84 5G Devices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-nokia-c110-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Nokia C110?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-through-circuits-with-tom-an-authoritative-source-for-tech-enthusiasts/"><u>Navigating Through Circuits with Tom: An Authoritative Source for Tech Enthusiasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-your-workspace-samsung-unveils-updated-odyssey-and-view-monitors-featuring-cutting-edge-ai-innovation/"><u>Revolutionizing Your Workspace: Samsung Unveils Updated Odyssey and View Monitors Featuring Cutting-Edge AI Innovation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-advanced-gadget-reviews/"><u>Tom's Tech Hub: Advanced Gadget Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-expert-advice/"><u>Tom's Tech Review: In-Depth Analysis & Expert Advice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-insights-on-hardware-innovations/"><u>Tom's Tech Review: Insights on Hardware Innovations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-hardware-t17238628801617/"><u>Tom's Tech Reviews: The Ultimate Guide to Hardware</u></a></li>
-<li><a href="https://games-able.techidaily.com/typing-tales-unraveling-the-secrets-behind-refresh-times/"><u>Typing Tales: Unraveling The Secrets Behind Refresh Times</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-sound-waves-instagrams-musical-blueprint/"><u>[New] Sound Waves Instagram's Musical Blueprint</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-liberate-your-files-top-picks-for-20-free-cloud-storage-options-up-to-1tb/"><u>In 2024, Liberate Your Files Top Picks for 20 FREE Cloud Storage Options (Up To 1TB)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unlocking-video-potential-top-9-tips-for-vr-storytelling/"><u>In 2024, Unlocking Video Potential Top 9 Tips for VR Storytelling</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/no-strings-attached-top-free-video-editing-software-without-watermarks/"><u>No Strings Attached Top Free Video Editing Software without Watermarks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/quick-setup-for-hosting-online-seminars-on-pcmac-for-2024/"><u>Quick Setup for Hosting Online Seminars on PC/Mac for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-power-of-performance-tests-over-specifications-in-choosing-pc-parts/"><u>The Power of Performance Tests Over Specifications in Choosing PC Parts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-value-of-budget-friendly-soundbars-quality-meets-savings/"><u>The Value of Budget-Friendly Soundbars: Quality Meets Savings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-blu-ray-and-dvd-players-your-ultimate-guide/"><u>Top Rated Blu-Ray & DVD Players : Your Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-mirrorless-cameras-ultimate-buying-guide/"><u>Top-Rated Mirrorless Cameras : Ultimate Buying Guide</u></a></li>
 </ul></div>
 

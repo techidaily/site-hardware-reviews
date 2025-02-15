@@ -1,7 +1,7 @@
 ---
 title: "Innovative Self-Cleaning Earphones: The Next Big Thing in Audio Technology | TechSpot"
-date: 2024-09-18 12:51:24
-updated: 2024-09-20 11:56:35
+date: 2025-01-27T05:06:58.705Z
+updated: 2025-02-03T00:08:35.359Z
 tags:
   - headphones
 categories:
@@ -47,6 +47,10 @@ That said, I've been quite impressed by the earbuds' comfortability, long batter
 | Bluetooth codecs | SBC, AAC, aptX                                                                                          |
 | Earbud weight    | 5.1 grams each                                                                                          |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Hardware
 
 The retail package of the LG Tone Free T90Q includes the wireless earbuds, a charging case (weighing in at just under 40 grams), a short USB-A to USB-C cable, a USB-C to 3.5mm cable, and small/medium/large silicone gel earbud tips. The carrying case supports Qi wireless charging, so you can top it up with a traditional charging pad or on the back of a phone that supports reverse wireless charging.
@@ -73,6 +77,10 @@ The three sizes of soft, hypoallergenic silicone ear gels certainly help with co
 
 While I like the AirPods Pro experience with the iPhone, the stem-based control system is not my ideal choice. Thankfully, LG went with the outside portion of the earbud for controls, serving as a touch-sensitive surface so you can simply tap one, two, or three times, as well as tap and hold, to trigger different functions. You can customize these gestures within the LG smartphone app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Smartphone software 
 
 To make the most of the earbuds, I highly recommend you download and install the LG Tone Free application. With this app you can view the battery status of each earbud and the charging case, manage equalizer settings, toggle Dolby Atmos head tracking, toggle the multi-point and multi-pairing option, activate noise cancellation, and so much more. It's a very well-designed application that significantly enhances the LG Tone Free experience. 
@@ -91,6 +99,10 @@ Lastly, if you lose one or both earbuds, you can trigger a loud chirping sound i
 
 **More: [Best wireless earbuds that you can buy right now](https://www.zdnet.com/article/best-wireless-earbuds/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Performance
 
 The active noise cancellation on the LG TONE Free T90Q is more subtle than what I'm used to on my AirPods Pro. Still, it works fine at creating a fairly quiet environment. I haven't had a chance to test these earbuds on an airplane, but I was able to mow the lawn and enjoy music so they passed my yard work test.
@@ -103,9 +115,17 @@ LG advertises nine hours of music playback without ANC and 18 more hours with th
 
 [Buy the LG TONE Free T90Q $118.83 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B72HWWXH%2Fref%3Dasc%5Fdf%5FB0B72HWWXH1724410800000%3Fcreative%3D395261%26creativeASIN%3DB0B72HWWXH%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cac801988-1148-4210-9bab-4e3dad88bc4f%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 LG has a lot packed into the Tone Free T90Q and, overall, I have been quite pleased with their performance. This $220-to-$240 market is loaded with high-quality earbuds right now, so you need to figure out what features are most important to you to decide if the T90Q is worth the pick-up. They are heavy on the bass, have spatial audio support, and are easily the cleanest earbuds on the market.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -138,11 +158,25 @@ The LG Tone Free T90Q offers quite a few unique features, but you may have other
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-top-7-tools-for-3d-animators-creation/"><u>[Updated] 2024 Approved Top 7 Tools for 3D Animator's Creation</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-samsung-galaxy-z-flip-5-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy Z Flip 5 FRP Bypass</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-traffic-critical-youtube-seo-instruments-for-video-success/"><u>Boost Traffic Critical YouTube SEO Instruments for Video Success</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-gratuite-de-fichiers-wma-en-format-mp4-facile-a-utiliser-sur-le-site-de-movavi/"><u>Conversion Gratuite De Fichiers WMA en Format MP4 - Facile À Utiliser Sur Le Site De Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dominate-your-pc-builds-in-depth-test-of-gskill-trident-z5-rgb-ddr5-ram-at-6400clk-pairs-perfectly-for-2x48gb-on-quadruple-channel-boards/"><u>Dominate Your PC Builds: In-Depth Test of G.SKILL Trident Z5 RGB DDR5 RAM at 6400CLK, Pairs Perfectly for 2X48GB on Quadruple-Channel Boards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-the-asrokz790ilightning-wifi-motherboard-review-where-size-doesnt-compromise-power/"><u>Expert Analysis on the ASROKZ790ILightning Wifi Motherboard Review - Where Size Doesn't Compromise Power</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximize-your-tech-investments-smart-picks-from-toms-hardware-critics/"><u>Maximize Your Tech Investments: Smart Picks From Tom’s Hardware Critics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-guides/"><u>Navigating the World of Gadgets with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transforming-pc-building-comprehensive-review-of-the-innovative-lian-li-hydroshift-lcd-360s/"><u>Transforming PC Building: Comprehensive Review of the Innovative Lian Li Hydroshift LCD 360S</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-step-by-step-correcting-error-27711-in-bokcw-gameplay/"><u>Troubleshooting Step-by-Step: Correcting Error 27711 in BOKCW Gameplay</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/video-speed-mastery-selecting-premium-pc-monitor-controls-for-2024/"><u>Video Speed Mastery Selecting Premium PC Monitor Controls for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Shop the Latest Tech From CES 2023 Now | Exclusive Product List on ZDNet
-date: 2024-09-17 15:11:21
-updated: 2024-09-20 11:15:58
+date: 2025-01-30T21:30:15.840Z
+updated: 2025-02-02T18:17:27.706Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/47c0b52725fd4b08ddc6d81859b69776fa
 CES has kicked off in Las Vegas, and brands like Dell, LG, and GE have announced some truly impressive tech. And if you've been making a wishlist of everything that's been revealed, you're in luck: You can pre-order a few things right now, which means you won't have to wait until autumn or winter to get your hands on next-level tech. 
 
 **Also:** [**CES 2023 tech you can actually buy now**](https://www.zdnet.com/article/ces-2023-tech-you-can-buy/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -119,19 +123,35 @@ LG has taken all of their TV expertise to create a 48-inch OLED gaming monitor t
 
 [View now at LG](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.lg.com%2Fus%2Fmonitors%2Flg-48gq900-b) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is CES?
 
 [CES](https://www.zdnet.com/article/zdnets-guide-to-ces-what-is-it-and-who-can-attend/) is a tech and trade convention that is held annually in Las Vegas. Every year, thousands of representatives from hundreds of brands come together for a few days to talk about exciting new tech in the pipeline for consumers. This tech can range from production software and logistics programs for manufacturing to consumer tech like smartphones, laptops, and gaming monitors. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is CES 2023?
 
 This year, CES is being held from Thursday, Jan. 5 to Sunday, Jan. 8.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why is some CES 2023 tech not up for sale or pre-order yet?
 
 While it's always frustrating to rush to pre-order cool new tech announced at CES 2023 and other tech shows, only to find they won't be available until fall or winter. Companies often use CES and other trade shows to not only announce and sell new tech, but to build relationships with PR agents and journalists. Tech that gets announced, but not a pre-order link, is usually something that is almost ready for market but is absolutely ready for testing by reviewers. 
 
 It also gives companies the chance to get everyone excited for new features and designs, answer questions from journalists and consumers, and get the marketing machine in motion for when the product actually drops. So while you're able to get your hands on a few things from this year's CES, you'll have to be patient for some otehrs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Where can I see what other tech announced at CES 2023?
 
@@ -164,11 +184,25 @@ You can catch up with all of the pre-show announcements and the biggest reveals 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-depth-analysis-top-10-video-cards-built-for-youtube-watching/"><u>[New] In-Depth Analysis Top 10 Video Cards Built for YouTube Watching</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-prodigious-editing-power-utilizing-inshot-on-devices-for-2024/"><u>[New] Prodigious Editing Power Utilizing Inshot on Devices for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-game-on-and-store-more-top-5-ssd-reviews-for-xbox/"><u>[Updated] In 2024, Game On & Store More Top 5 SSD Reviews for Xbox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-android-powered-webcams-in-windows-11-environments/"><u>A Guide to Android-Powered Webcams in Windows 11 Environments</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/conversione-e-streaming-di-mp3-senza-costi-con-movavi-guida-completa/"><u>Conversione E Streaming Di MP3 Senza Costi Con Movavi - Guida Completa</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-system-solutions-with-toms-hardware-your-trusted-guide/"><u>Expert System Solutions with Tom's Hardware - Your Trusted Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-honor-100-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Honor 100</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/powering-up-performance-a-detailed-look-at-lexars-20-gbps-storage-giants-sl500-and-sl600-models/"><u>Powering Up Performance: A Detailed Look at Lexar's 20 Gbps Storage Giants - SL500 and SL600 Models</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sunfounder-piromann-5-assessment-fulfilling-assembly-needed/"><u>SunFounder Piromann 5 Assessment - Fulfilling Assembly Needed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-hardware/"><u>Tom's Tech Review: Expert Insights on Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-tier-gaming-display-tested-asrocks-pg27qft2a-offers-powerful-speed-for-a-competitive-price/"><u>Top-Tier Gaming Display Tested: ASRock's PG27QFT2A Offers Powerful Speed for a Competitive Price</u></a></li>
+</ul></div>
+

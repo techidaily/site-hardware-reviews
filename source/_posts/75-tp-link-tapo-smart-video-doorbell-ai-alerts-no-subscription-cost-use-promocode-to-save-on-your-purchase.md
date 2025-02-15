@@ -1,7 +1,7 @@
 ---
 title: $75 TP-Link Tapo Smart Video Doorbell - AI Alerts, No Subscription Cost! Use [PromoCode] to Save on Your Purchase
-date: 2024-09-19 19:48:43
-updated: 2024-09-20 11:20:44
+date: 2025-01-28T20:19:38.672Z
+updated: 2025-02-03T01:53:20.707Z
 tags:
   - kitchen-household
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/900462386ba68d1e8abb4a654d87a3f312
 ![EcoFlow Delta Pro 3 portable battery](https://www.zdnet.com/a/img/resize/493a0e14c2076aa82dd15d43be4c51552702595c/2024/06/20/9d465ec0-9e8c-4fee-b2aa-d5b5ce343244/2.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -77,6 +81,10 @@ How did it fare? The power returned about three hours later, and the Delta Pro 3
 
 Aside from this power outage, [we've tested](https://www.zdnet.com/home-and-office/energy/how-we-test-portable-power-stations/) the Delta Pro 3 as a standalone battery to power a home office setup, keeping consumption between 50W and 120W. The DP3 powered an LCD monitor, a Dell XPS laptop, a phone charger, and a USB-C tablet charger for four days. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Accessories-Emergencies%2Fdp%2FB0D14FMFZD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1) is an excellent option for anyone looking for a higher-capacity portable battery for camping or as an emergency home backup, as long as you're willing to pay the price, literally. It's not a cheap option among portable batteries, priced at $3199, which is about $400 less than the price of a [Delta Pro and Dual fuel inverter generator bundle](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Generator-High-Power-Appliances%2Fdp%2FB0BKGLCVRR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c3a8946-cdd0-4a1e-aeeb-69a7a2257329%7Cdtp&dtb=1).
@@ -106,11 +114,28 @@ Though priced high, the Delta Pro 3 seamlessly integrates into an EcoFlow home b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-your-makeup-maestro-journey-establishing-a-channel-for-beauty-buffs/"><u>[New] 2024 Approved Your Makeup Maestro Journey Establishing a Channel for Beauty Buffs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-discover-the-creme-de-la-creme-of-mac-snipers/"><u>[Updated] Discover the Crème De La Crème of Mac Snipers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-anycubic-kobra-3-assessment-the-trailblazer-of-multi-hued-3d-creations/"><u>Comprehensive Anycubic Kobra 3 Assessment - The Trailblazer of Multi-Hued 3D Creations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-cutting-edge-design-of-the-lian-li-hydroshift-lcd-360s-case/"><u>Exploring the Cutting-Edge Design of the Lian Li Hydroshift LCD 360S Case</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-mastery-40-essential-keyboard-shortcuts-to-improve-your-skills/"><u>FCPX Mastery 40 Essential Keyboard Shortcuts to Improve Your Skills</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone X, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-high-performance-gadgets-at-toms-electronics/"><u>Navigating the World of High-Performance Gadgets at Tom's Electronics</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-to-repair-your-unresponsive-mouse-expert-advice-by-yl-software-specialists/"><u>Step-by-Step Guide to Repair Your Unresponsive Mouse, Expert Advice by YL Software Specialists</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-building-with-the-cost-effective-cytron-maker-featuring-an-rp2040-chip/"><u>The Ultimate Guide to Building with the Cost-Effective Cytron Maker Featuring an RP2040 Chip</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-mute-mode-restoring-volume-for-windows-10-users/"><u>Troubleshooting Mute Mode: Restoring Volume for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-colors-asus-proart-pa32ucxr-mini-led-review-and-its-exceptional-color-accuracy-for-professionals/"><u>Unveiling the Colors: Asus ProArt PA32UCXR Mini LED Review and Its Exceptional Color Accuracy for Professionals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-technology-with-toms-hardware-insights/"><u>Unveiling the Latest in PC Technology with Tom's Hardware Insights</u></a></li>
+</ul></div>
+

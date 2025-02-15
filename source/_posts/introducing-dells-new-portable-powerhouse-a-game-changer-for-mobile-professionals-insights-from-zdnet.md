@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Portable Powerhouse: A Game Changer for Mobile Professionals - Insights From ZDNet"
-date: 2025-01-27T16:18:56.363Z
-updated: 2025-02-01T18:06:42.173Z
+date: 2025-01-30T02:47:40.185Z
+updated: 2025-02-02T21:18:20.695Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,16 +114,21 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-breaking-the-code-30-novel-window-11-strategies-exposed/"><u>[New] In 2024, Breaking the Code 30 Novel WINDOW 11 Strategies Exposed</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-essential-arsenal-for-modern-enterprise-top-trending-gadgets-and-tech-to-own/"><u>[New] In 2024, Essential Arsenal for Modern Enterprise Top Trending Gadgets and Tech To Own</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-power-of-multiframe-views-in-edge/"><u>[Updated] Unlocking the Power of Multiframe Views in Edge</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-realtimevid-recorder-overview/"><u>2024 Approved RealTimeVid Recorder Overview</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-amplify-your-chat-status-with-melodies/"><u>In 2024, Amplify Your Chat Status with Melodies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-the-upgraded-framework-for-power-packed-13-inch-devices-with-top-tier-intel-and-amd-processors/"><u>Introducing the Upgraded Framework for Power-Packed 13-Inch Devices with Top-Tier Intel and AMD Processors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-knowledge-a-journey-through-toms-computing-world/"><u>Mastering Hardware Knowledge - A Journey Through Tom's Computing World</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/mastering-youtube-team-ups-finding-perfect-co-stars/"><u>Mastering YouTube Team-Ups Finding Perfect Co-Stars</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-gadget-reviews-with-toms-electronics-insights/"><u>Navigating Gadget Reviews with Tom’s Electronics Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/powerhouse-gaming-in-a-portable-package-acers-predator-helios-neo-14-fusion-of-speed-and-sleekness/"><u>Powerhouse Gaming in a Portable Package: Acer's Predator Helios Neo 14 Fusion of Speed and Sleekness</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-earphones-compatible-with-steam-deck-a-comprehensive-guide/"><u>Top Rated Earphones Compatible with Steam Deck: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-evolving-narratives-in-the-age-of-vr-movies/"><u>[New] Evolving Narratives in the Age of VR Movies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-compelling-iphone-photo-and-video-applications-87x/"><u>[Updated] Compelling iPhone Photo & Video Applications (8/7/X)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-crafting-meaningful-communication-in-the-comment-section-for-2024/"><u>[Updated] Crafting Meaningful Communication in the Comment Section for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-embedding-youtube-playlists-with-minimal-complexity-and-maximum-impact/"><u>[Updated] Embedding YouTube Playlists with Minimal Complexity and Maximum Impact</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-flawlessly-capture-your-ios-devices-screen-for-2024/"><u>[Updated] How to Flawlessly Capture Your iOS Device's Screen for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-list-of-8-authentic-youtube-boosters/"><u>[Updated] The Essential List of 8 Authentic YouTube Boosters</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-total-sphere-camera-systems/"><u>2024 Approved Total Sphere Camera Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-gadgets-with-toms-electronic-insights/"><u>Exploring Advanced Gadgets with Tom's Electronic Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-tech-solutions-with-toms-expertise-in-computer-hardware/"><u>Exploring Advanced Tech Solutions with Tom's Expertise in Computer Hardware</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/fortnite-sound-issues-solved-expert-fixes-for-nonworking-game-mics/"><u>Fortnite Sound Issues Solved? Expert Fixes for Nonworking Game Mics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964487571-historic-discount-alert-grab-the-logitech-g-pro-for-just-54-best-offer-yet/"><u>Historic Discount Alert! Grab the Logitech G Pro for Just $54 – Best Offer Yet!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-selection-of-premium-gaming-chairs/"><u>The Ultimate Selection of Premium Gaming Chairs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-gear-guide-comprehensive-hardware-analysis-and-comparisons/"><u>Tom's Computer Gear Guide: Comprehensive Hardware Analysis and Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-review-expert-insights-and-comprehensive-analysis/"><u>Tom's Hardware Review: Expert Insights and Comprehensive Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transform-your-low-profile-keyboard-setup-the-ultimate-comfort-addition-for-just-11-featuring-logitechs-mx-palm-rest/"><u>Transform Your Low-Profile Keyboard Setup: The Ultimate Comfort Addition for Just $11 – Featuring Logitech's MX Palm Rest</u></a></li>
 </ul></div>
 

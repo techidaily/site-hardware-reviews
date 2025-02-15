@@ -1,7 +1,7 @@
 ---
 title: "Zdnet Reviews Innovative 'Nothing in Your Ears': A Comprehensive Guide to Stylish Audio Accessories"
-date: 2024-09-18 22:53:40
-updated: 2024-09-20 11:41:26
+date: 2025-01-28T18:55:24.889Z
+updated: 2025-02-03T02:36:12.197Z
 tags:
   - headphones
 categories:
@@ -52,6 +52,10 @@ While case design seems to be the earbuds' most obvious draw, Nothing promises t
 | Durability    | IP54 dust and water resistant                                                                                                             |
 | Price         | [$99](https://us.nothing.tech/products/ear-stick) USD                                                                                     |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Nothing makes a case for tech-chic
 
 Many would argue that wireless earbuds have become as much of a staple as lipstick. In that regard, Nothing's play on earbuds and lipsticks here is charming. I'll be honest, though, the clear, cylindrical charging case, with the red accent at the top, looks more like my ProAir RespiClick inhaler than, say, Revlon lipstick. But unlike my inhaler, the Ear Stick's red top has a USB-C charging port embedded in the top. 
@@ -94,6 +98,10 @@ The actual buds themselves look different than most on the market, with a larger
 
 Christina Darby/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does sound quality stick the landing?  
 
 As trendy as the Ear Stick are, I was surprised that they didn't support one of the market's most-demanded features: Active Noise Cancellation (ANC). At first, I was skeptical about not having ANC, fearing that the lack of noise control would affect the fullness of the playback. I was surprised and glad to be proven wrong. Even in higher treble moments, there wasn't an overwhelming "tinny" sound. Unfortunately, the buds are not the most bass-heavy, even if you take advantage of the custom EQ in the Nothing X app. 
@@ -120,11 +128,19 @@ The Ear Stick fits perfectly with the Nothing Phone 1 aesthetic.
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Mic quality
 
 I use earbuds mostly as a microphone/speaker duo to make calls while walking through New York City. So, I was disappointed that Nothing's clear voice and filtering technology didn't live up to the marketing lingo. I spent most of my phone calls shouting into my phone's speaker for my mom to tell me it sounded like a whisper. So, if you're looking for streetwear earbuds, these have the look, but not quite the right sound filter. 
 
 **More: [AirPods Pro 2 offer two big upgrades but one major issue persists](https://www.zdnet.com/article/airpods-pro-2-offer-two-big-upgrades-but-connectivity-chaos-hasnt-been-tamed/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Gesture controls that won't end calls
 
@@ -143,6 +159,10 @@ I'm impressed with the practicality of the gesture controls, but I have to chann
 ## Bottom Line
 
 If there's one thing going for Nothing's latest earbuds, it's the looks. These are uniquely designed, from the buds themselves to the case that protects them. That said, you'll be compromising on sound for such aesthetics. For [$99](https://us.nothing.tech/products/ear-stick), the Ear Stick deliver relatively clear audio, but they're far from market-leading -- not with the lack of ANC and the sound leakage issues. If you are looking to start or add to a quirky headset collection or gift your fashionista friend or family member, Nothing makes a strong case going into the holiday season. But if you're more interested in keeping up with sound trends, look elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -175,11 +195,23 @@ Besides the Nothing Ear Stick, here are three other wireless earbuds that you sh
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/est-cameras-for-quality-youtube-content-for-2024/"><u>[New] Best Cameras for Quality YouTube Content for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-immerse-in-vocal-customization-for-playstation-devices/"><u>[Updated] 2024 Approved Immerse in Vocal Customization for PlayStation Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/audibles-value-proposition-4-compelling-reasons-for-subscribers/"><u>Audible's Value Proposition: 4 Compelling Reasons for Subscribers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-insights-from-toms-computer-diagnostics/"><u>Detailed Insights From Tom's Computer Diagnostics</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-yours-top-3-new-products-unveiled-by-apple-at-wwdc-available-immediately-for-purchase-find-stores-plus-preorder-info/"><u>Get Yours: Top 3 New Products Unveiled by Apple at WWDC - Available Immediately for Purchase | Find Stores + Preorder Info</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-by-toms-hardware-experts/"><u>In-Depth Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341757274-land-division-must-comply-with-local-zoning-laws-and-land-use-regulations/"><u>Land Division Must Comply with Local Zoning Laws and Land Use Regulations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-tech-specs-with-toms-insights/"><u>The Ultimate Guide to Tech Specs with Tom's Insights</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-14-pro-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 14 Pro | Dr.fone</u></a></li>
+</ul></div>
+

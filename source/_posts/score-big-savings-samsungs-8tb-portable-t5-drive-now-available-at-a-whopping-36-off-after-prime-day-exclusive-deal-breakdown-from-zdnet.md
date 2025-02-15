@@ -1,7 +1,7 @@
 ---
 title: "Score Big Savings: Samsung's 8TB Portable T5 Drive Now Available at a Whopping 36%% Off After Prime Day | Exclusive Deal Breakdown From ZDNET"
-date: 2025-01-09T00:11:41.074Z
-updated: 2025-01-13T02:25:23.144Z
+date: 2025-01-31T18:22:15.999Z
+updated: 2025-02-03T03:02:32.389Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDJXZ19%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e221c50-6828-489f-a5f6-f90f31d3da72%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,24 +65,18 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-youtube-banners-and-thumbnails/"><u>[Updated] 2024 Approved How to Make YouTube Banners and Thumbnails</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-streamline-multimedia-with-pip-in-apple-browsers/"><u>[Updated] Streamline Multimedia with PIP in Apple Browsers</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1-discover-the-top-3-methods-to-recover-deleted-emails-from-yahoo-a-comprehensive-guide/"><u>1. Discover the Top 3 Methods to Recover Deleted Emails From Yahoo: A Comprehensive Guide</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/captivating-gamer-content-through-obs-streaming/"><u>Captivating Gamer Content Through OBS Streaming</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/creating-unique-youtube-music-mixtapes/"><u>Creating Unique YouTube Music Mixtapes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-tecno-pop-8-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Tecno Pop 8</u></a></li>
-<li><a href="https://win-web.techidaily.com/imessages-loading-from-icloud-onto-your-devices-a-step-by-step-tutorial-with-fonebackup/"><u>IMessages Loading From iCloud Onto Your Devices: A Step-by-Step Tutorial with FoneBackup</u></a></li>
-<li><a href="https://fox-that.techidaily.com/late-ios-text-alerts-here-are-9-effective-solutions-for-faster-messages/"><u>Late iOS Text Alerts? Here Are 9 Effective Solutions for Faster Messages</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pioneering-the-use-of-film-in-educational-methodologies/"><u>Pioneering the Use of Film in Educational Methodologies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-expert-advice/"><u>Tom's Tech Review: In-Depth Analysis & Expert Advice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-insights-on-hardware-innovations/"><u>Tom's Tech Review: Insights on Hardware Innovations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-hardware-t17238628801617/"><u>Tom's Tech Reviews: The Ultimate Guide to Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-tech-advice-on-computer-components-by-professionals-at-toms-hardware/"><u>Top Tech Advice on Computer Components by Professionals at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-toms-computer-and-electronics-store-pioneering-tech-solutions/"><u>Top Tom's Computer & Electronics Store: Pioneering Tech Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/transform-your-gaming-setup-with-innocns-budget-friendly-27-240hz-ips-display-purchase-now-at-only-1ebn/"><u>Transform Your Gaming Setup with Innocn's Budget-Friendly, 27 240Hz IPS Display - Purchase Now at Only $1Ebn!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-gaming-display-breakdown-asrock-pg2nqft2a-monitor-at-a-whopping-180hz-is-it-worth-it/"><u>Ultimate Gaming Display Breakdown: ASRock PG2nQFT2a Monitor at a Whopping 180Hz - Is It Worth It?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-your-gadget-potential-trustworthy-reviews-by-toms-experts/"><u>Unleash Your Gadget Potential: Trustworthy Reviews by Tom's Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unraveling-electronics-mysteries-at-toms-hardware-haven/"><u>Unraveling Electronics Mysteries at Tom's Hardware Haven</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-keeping-the-chuckles-stealing-twitters-gif-content/"><u>[Updated] 2024 Approved Keeping the Chuckles Stealing Twitter's GIF Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-tactics-capturing-high-quality-sports-streams-online-for-2024/"><u>[Updated] Essential Tactics Capturing High-Quality Sports Streams Online for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-securely-saving-every-word-of-your-skype-chats/"><u>[Updated] In 2024, Securely Saving Every Word of Your Skype Chats</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-push-boundaries-in-filmmaking-with-these-essential-color-grades/"><u>[Updated] Push Boundaries in Filmmaking with These Essential Color Grades</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-avi-video-joiners-top-10-free-solutions-for-merging-avi-files-for-2024/"><u>Best AVI Video Joiners Top 10 Free Solutions for Merging AVI Files for 2024</u></a></li>
+<li><a href="https://solve-info.techidaily.com/come-rimuovere-completamente-la-memoria-ssd-nvme-dal-tuo-sistema-operativo-windows-11-metodo-sicuro-e-dettagliato/"><u>Come Rimuovere Completamente La Memoria SSD NVMe Dal Tuo Sistema Operativo Windows 11 - Metodo Sicuro E Dettagliato</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easily-reach-out-to-affected-ones-using-your-apple-watch-the-ultimate-guide/"><u>Easily Reach Out to Affected Ones Using Your Apple Watch - The Ultimate Guide!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-microsofts-surface-pro-stunning-hardware-meets-lackluster-artificer-intelligence-additions/"><u>Evaluating Microsoft's Surface Pro: Stunning Hardware Meets Lackluster Artificer Intelligence Additions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/fast-track-data-handling-comparing-the-cutting-edge-lexar-sl500-and-sl600-drives-featuring-over-20-gigabit-per-second-transfer-rates/"><u>Fast-Track Data Handling: Comparing the Cutting-Edge Lexar SL500 and SL600 Drives Featuring Over 20 Gigabit Per Second Transfer Rates</u></a></li>
+<li><a href="https://games-able.techidaily.com/focused-audio-experience-using-headsets-only/"><u>Focused Audio Experience Using Headsets Only</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/raising-the-bar-for-gamers-a-detailed-review-of-the-revolutionary-pixio-px277-oled-max-monitor/"><u>Raising the Bar for Gamers: A Detailed Review of the Revolutionary Pixio PX277 OLED MAX Monitor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-technology-features-at-toms-hardware/"><u>Unveiling Cutting-Edge Technology Features at Tom's Hardware</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-2024-approved-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>Updated 2024 Approved Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
 </ul></div>
 

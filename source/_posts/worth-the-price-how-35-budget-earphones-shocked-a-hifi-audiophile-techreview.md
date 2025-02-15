@@ -1,7 +1,7 @@
 ---
 title: Worth the Price? How $35 Budget Earphones Shocked a HiFi Audiophile | TechReview
-date: 2024-09-18 10:34:34
-updated: 2024-09-20 12:25:57
+date: 2025-01-29T05:12:26.932Z
+updated: 2025-02-03T04:47:08.391Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/topic/headphones/    https://www.zdnet.com/a/im
 ![Describe what's shown in the image.](https://www.zdnet.com/a/img/resize/5ea15817af4776af2e4d6d6c82c5965c88c65ead/2024/07/31/dc5dca84-096a-4d37-9f88-68943b3ad101/x08hero.jpg?auto=webp&precrop=1080,608,x0,y0&width=1280)
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -32,6 +36,10 @@ I'm glad I went that route. Had I known they cost less than $40, I would have au
 Before I go any further, I don't want to mislead anyone. These earbuds will not in any way stand up to the likes of the [Denon PerL Pro earbuds](https://www.zdnet.com/article/i-was-skeptical-of-these-350-wireless-earbuds-until-they-knocked-my-socks-off/) which, for me, are the gold standard when it comes to earbuds. Although the X08s don't have the dynamic range or quality of noise cancellation found in the Denons, these inexpensive earbuds sound like they cost more than they actually do. 
 
 [ZDNET RECOMMENDS Tagry X08 earbuds These earbuds punch well above their price point to deliver solid bass, good battery life, and all day comfort. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FTAGRY-Bluetooth-Headphones-Earphones-Waterproof%2Fdp%2FB09LD2D1TV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C61a275e5-d11c-4bb0-bd25-2cf36d28f548%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tagry X08 earbuds tech specs
 
@@ -58,6 +66,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## My experience
 
 As I mentioned, when I first connected the X08 earbuds, I was pleasantly surprised at how good the sound was. And when I looked up the price, I was seriously impressed.
@@ -83,6 +95,10 @@ Of course, most consumers put more emphasis on bass than mids or highs, and in t
 I did have one instance where my Pixel 8 Pro assumed it was connected to the earbuds but instead, the sound came from the phone's speaker. I can't be certain if the problem was due to the earbuds or the phone, but a restart of my Pixel solved the problem. 
 
 As far as the controls are concerned, the standard taps apply. The only tap control missing is the three-tap track repeat (something I frequently use when running).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -111,11 +127,25 @@ At $35, you'd be hard-pressed to find a better deal on a pair of solid-sounding 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-unconfident-to-impactful-embracing-youtube-blogging-for-2024/"><u>[New] From Unconfident to Impactful Embracing YouTube Blogging for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-skyrocket-your-channels-with-these-essential-freegame-tags-for-youtube/"><u>[New] In 2024, Skyrocket Your Channels with These Essential FreeGame Tags for YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-master-instagram-livestreams-with-ease-your-complete-guide-to-obs-usage/"><u>[New] Master Instagram Livestreams with Ease Your Complete Guide to OBS Usage</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-technology-masterful-tips-from-toms-experts-in-hardware/"><u>Decoding Technology: Masterful Tips From Tom’s Experts in Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/diving-into-hardware-with-toms-technology-reviews/"><u>Diving Into Hardware with Tom's Technology Reviews</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-mac-users-guide-to-premium-mp4-slicer-apps/"><u>In 2024, Mac Users' Guide to Premium MP4 Slicer Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-there-a-cost-free-version-of-microsoft-word-available/"><u>Is There a Cost-Free Version of Microsoft Word Available?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-on-electronics-toms-hardware-insights/"><u>The Ultimate Resource on Electronics - Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-gadgets/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Gadgets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/use-kapwing-meme-maker/"><u>Use Kapwing Meme Maker</u></a></li>
+</ul></div>
+

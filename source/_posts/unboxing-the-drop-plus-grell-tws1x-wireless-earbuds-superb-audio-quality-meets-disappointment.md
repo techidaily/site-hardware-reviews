@@ -1,7 +1,7 @@
 ---
 title: Unboxing the Drop + Grell TWS1X Wireless Earbuds - Superb Audio Quality Meets Disappointment
-date: 2024-09-17 19:49:20
-updated: 2024-09-20 12:30:36
+date: 2025-01-28T03:19:10.548Z
+updated: 2025-02-02T20:57:51.924Z
 tags:
   - headphones
 categories:
@@ -45,6 +45,10 @@ Michael Gariffo
 
 This results in a weight of 2.3oz, or almost twice what Apple's AirPods Pro weigh in their charging case. A large portion of this weight is from the metal exterior shell, which provides the unit with a satisfying feel in the hand. I firmly believe half the fun in using truly wireless earbuds is playing with their cases as a fidget toy, and the Drop + Grell take on the genre serves to be a satisfying plaything in the hand. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best wireless chargers There are many options for topping up your phone, headsets, and watches without plugging a cable into the mobile gear.  Read now](https://www.zdnet.com/article/best-wireless-charger/)
@@ -87,9 +91,17 @@ The only other pack-in found in the 100% paper packaging (props for completely a
 
 **More: [Samsung pledges to remove smartphone plastic packaging by 2025](https://www.zdnet.com/article/samsung-pledges-to-remove-smartphone-plastic-packaging-by-2025/)** 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Comfort** 
 
 The comfort of any pair of earbuds is an extremely subjective matter. Apple's original AirPods, for example, were a torturous experience for me to wear, managing to somehow be both loose enough to consistently fall out and the source of uncomfortable pressure at the same time. Those same earbuds fit several others I know perfectly. The differences in the tiny but unique complications of one's ear mean the same earbud will fit each user quite differently. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -123,6 +135,10 @@ It was only during my use of the TWS1X IEMs with these Apple devices that I fina
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The sound**  
 
 I've used the top-end offerings from Jabra, Apple, and many other truly wireless earbud companies. I've only rarely experienced overall sound quality as impressive as what's provided by the Drop + Grell IEMs. I don't think anything else at this price point can match them.
@@ -130,6 +146,10 @@ I've used the top-end offerings from Jabra, Apple, and many other truly wireless
 **More: [Jabra Elite 7 Pro review: Buy for outstanding phone calls, not for ANC](https://www.zdnet.com/product/jabra-elite-7-pro-true-wireless-earphones-with-mic/)**
 
 Earbuds are pretty widely expected to have inferior sound when compared to their on-ear or over-the-ear competitors. The diminutive drivers and lower relative power make it difficult to compete with the much larger hardware in over-the-ear pairs. Truly wireless earbuds are often seen as another step below wired earbuds. Their downgraded sound quality is often only considered good enough at higher price points due to the ample convenience they provide in trade.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -196,11 +216,33 @@ However, for the majority of shoppers, the Drop + Grell TWS1X IEMs represent too
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-windows-videography-toolkit-editors-and-software-review/"><u>[Updated] In 2024, Ultimate Windows Videography Toolkit Editors & Software Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-capture-screens-free-cross-platform-for-windowsmac-users/"><u>2024 Approved Capture Screens, Free! - Cross-Platform for Windows/Mac Users</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-laughter-loop-a-pocketful-of-humorous-short-film-ideas/"><u>2024 Approved Laughter Loop A Pocketful of Humorous Short Film Ideas</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-art-of-inspiration-crafting-captivating-ig-posts/"><u>2024 Approved The Art of Inspiration Crafting Captivating IG Posts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-pg2/"><u>ASRock PG2</u></a></li>
+<li><a href="https://win-able.techidaily.com/back-4-blood-pc-game-stability-issues-resolved-no-more-unexpected-crashes/"><u>Back 4 Blood PC Game Stability Issues Resolved: No More Unexpected Crashes!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-valkyrie-syn-aio-240l-robust-cooling-with-interface-improvement-needed/"><u>Comprehensive Analysis of the Valkyrie Syn AIO 240L - Robust Cooling with Interface Improvement Needed</u></a></li>
+<li><a href="https://media-tips.techidaily.com/efficiently-convert-your-video-content-into-animation-a-guide-with-10-strategies/"><u>Efficiently Convert Your Video Content Into Animation: A Guide with 10 Strategies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-computer-equipment-in-depth-reviews-and-insights/"><u>Exploring Tom's Computer Equipment - In-Depth Reviews & Insights</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/how-to-reverse-a-video-on-snapchat-complete-guide-for-2024/"><u>How to Reverse a Video on Snapchat? [Complete Guide] for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-the-power-of-photography-and-videography-a-pixiz-approach/"><u>In 2024, Harnessing the Power of Photography & Videography A Pixiz Approach</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-tutorial-for-downloading-wm6/"><u>In 2024, Ultimate Tutorial for Downloading WM6</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-flagship-microsoft-surface-pro-impressive-looks-yet-disappointing-smart-tech-features/"><u>In-Depth Analysis of the Flagship Microsoft Surface Pro - Impressive Looks, Yet Disappointing Smart Tech Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-tech-insights-at-toms-hardware/"><u>In-Depth Reviews & Tech Insights at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-sabrent-rocket-nano-2242-1tb-ssd-evaluation-the-ultimate-m2-pcie-gen3-x4-storage-solution/"><u>In-Depth Sabrent Rocket Nano 2242 1TB SSD Evaluation – The Ultimate M.2 PCIe Gen3 X4 Storage Solution</u></a></li>
+<li><a href="https://review-topics.techidaily.com/insert-signature-in-pdf-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Insert signature in PDF</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-chronicles-in-depth-analysis-of-cutting-edge-hardware/"><u>Tom's Computer Chronicles: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-performance-showdown-gskill-trident-z5-rgb-ddr5-6400mhz-c3248gb-memory-kit-review-compatible-with-dual-channel-motherboards/"><u>Ultimate Performance Showdown: G.SKILL Trident Z5 RGB DDR5 6400MHz C32/48GB Memory Kit Review - Compatible with Dual-Channel Motherboards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-with-toms-technology-insights/"><u>Unveiling the Latest in Hardware with Tom's Technology Insights</u></a></li>
+</ul></div>
+

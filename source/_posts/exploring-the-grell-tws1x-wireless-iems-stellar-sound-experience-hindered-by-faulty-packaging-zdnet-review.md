@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Grell TWS1X Wireless IEMs: Stellar Sound Experience Hindered by Faulty Packaging | ZDNET Review"
-date: 2024-09-18 21:44:51
-updated: 2024-09-20 12:48:30
+date: 2025-01-28T16:18:35.329Z
+updated: 2025-02-03T02:47:31.882Z
 tags:
   - headphones
 categories:
@@ -87,9 +87,17 @@ The only other pack-in found in the 100% paper packaging (props for completely a
 
 **More: [Samsung pledges to remove smartphone plastic packaging by 2025](https://www.zdnet.com/article/samsung-pledges-to-remove-smartphone-plastic-packaging-by-2025/)** 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Comfort** 
 
 The comfort of any pair of earbuds is an extremely subjective matter. Apple's original AirPods, for example, were a torturous experience for me to wear, managing to somehow be both loose enough to consistently fall out and the source of uncomfortable pressure at the same time. Those same earbuds fit several others I know perfectly. The differences in the tiny but unique complications of one's ear mean the same earbud will fit each user quite differently. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -123,6 +131,10 @@ It was only during my use of the TWS1X IEMs with these Apple devices that I fina
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The sound**  
 
 I've used the top-end offerings from Jabra, Apple, and many other truly wireless earbud companies. I've only rarely experienced overall sound quality as impressive as what's provided by the Drop + Grell IEMs. I don't think anything else at this price point can match them.
@@ -149,6 +161,10 @@ This enforced quiet helped the earbuds shine as they produced instrument separat
 
 Movies and TV shows also flourished when played back over the IEMs, with action scenes proving palpably explosive and quieter moments being replicated with impressive subtlety. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best gaming headsets: Immersive sound for an extra edge Whether your game on a console or PC, a headset can elevate your play.  Read now](https://www.zdnet.com/article/best-gaming-headset/)
@@ -160,6 +176,10 @@ In short, I'd be impressed if a pair of wired, over-the-ear headphones produced 
 Unfortunately, as I mentioned above, I was only able to actually hear it under fairly particular circumstances, mostly with the help of Apple's Bluetooth hardware compensating for the frustratingly unreliable connectivity of the Drop + Grell TWS1X IEMs. 
 
 **More: [The best cheap Bluetooth headset: Plus speakers!](https://www.zdnet.com/article/best-cheap-bluetooth-headset/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Wrap up**
 
@@ -196,11 +216,25 @@ However, for the majority of shoppers, the Drop + Grell TWS1X IEMs represent too
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-effective-system-to-integrate-gopro-video-into-fully-rotational-cinematic-pieces/"><u>[New] Effective System to Integrate GoPro Video Into Fully Rotational Cinematic Pieces</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-discovering-the-power-behind-youtube-statistics-interpretation/"><u>[Updated] 2024 Approved Discovering the Power Behind YouTube Statistics Interpretation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-streamlining-the-process-of-iptv-video-recordings-for-2024/"><u>[Updated] Streamlining the Process of IPTV Video Recordings for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/t-adblock-apps-for-android-for-2024/"><u>7 Best AdBlock Apps for Android for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rt-be96u-review-mastering-seamless-performance-with-new-age-dual-band-speed-king/"><u>ASUS RT-BE96U Review: Mastering Seamless Performance with New Age Dual-Band Speed King</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-hardware-by-thomastechreview/"><u>Expert Insights on Hardware by ThomasTechReview</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-asus-rog-phone-7-ultimate-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Asus ROG Phone 7 Ultimate for Streaming | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-setup-with-tips-and-tricks-from-toms-hardware-pros/"><u>Mastering Your PC Setup with Tips and Tricks From Tom's Hardware Pros</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-essential-guide-to-podcast-creation-in-garageband/"><u>The Essential Guide to Podcast Creation in GarageBand</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-explained-decoding-the-latest-in-computer-and-gadgetry/"><u>Tom's Hardware Explained: Decoding the Latest in Computer and Gadgetry</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-web-compendium-alarm-rhythms-guidebook-for-2024/"><u>Ultimate Web Compendium Alarm Rhythms Guidebook for 2024</u></a></li>
+</ul></div>
+

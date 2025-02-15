@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Pairing Bluetooth Earbuds with Your Xbox Series Console"
-date: 2024-09-17 23:52:41
-updated: 2024-09-20 11:20:49
+date: 2025-02-02T03:03:40.445Z
+updated: 2025-02-02T20:38:31.766Z
 tags:
   - headphones
 categories:
@@ -35,11 +35,19 @@ Make sure to charge up the adapter before trying it the first time. My unit came
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Connect the adapter to the controller
 
 When you're ready to start gaming, connect the adapter to the bottom of your Xbox controller. Next, long-press the power button on the adapter to turn it on.
 
 Put the adapter in pairing mode by double-pressing the power button on the adapter. You can confirm it's in pairing mode by watching the LED; it should flash twice, in quick succession, every second.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Pair your headphones with the adapter
 
@@ -50,6 +58,10 @@ After a few seconds, the adapter will find the headset and complete the pairing 
 I was able to tell the two devices were connected based on the LED indicators on both devices going back to their normal state. Your experience will vary based on the type of headset you're connecting to the adapter.
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Remember to switch off mic and power
 
@@ -71,9 +83,17 @@ Jason Cipriani/ZDNET
 
 Yes! Using the method outlined above, you sure can. I tested the adapter with a pair of [Google's Pixel Buds Pro](https://www.zdnet.com/article/google-pixel-buds-pro-review/) and it worked without issue. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is there any latency or audio delay?
 
 I played Call of Duty for a few hours using the adapter and Pixel Buds Pro and never noticed any sort of audio lag or latency. That said, your experience may vary depending on the game you're playing and the type of audio device you're connected to. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Do I have to use a Bluetooth headset?
 
@@ -100,11 +120,29 @@ Not at all. If you'd rather use a device that works natively with an Xbox, witho
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-essential-tips-for-harvesting-instagram-highlights-for-2024/"><u>[New] Essential Tips for Harvesting Instagram Highlights for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-create-captivate-independent-animation-innovations-for-2024/"><u>[Updated] Create, Captivate Independent Animation Innovations for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-lyric-video-makers-you-should-try/"><u>[Updated] In 2024, Best Lyric Video Makers You Should Try</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-depth-analysis-of-premium-apps-to-boost-vtuber-audibility-for-2024/"><u>[Updated] In-Depth Analysis of Premium Apps to Boost Vtuber Audibility for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341695533-exploring-the-features-of-the-asus-pro-b760m-ct-csm-motherboard-reviewed/"><u>Exploring the Features of the ASUS Pro B760M-CT CSM Motherboard - Reviewed!</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-12-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-expert-tips-efficiently-download-igtv-on-windows-and-macos/"><u>In 2024, Expert Tips Efficiently Download IGTV on Windows & MacOS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-your-trusted-computer-hub/"><u>Inside Tom's Hardware: Your Trusted Computer Hub</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximizing-productivity-essential-tips-for-setting-up-a-fully-functional-home-office-on-your-ipad-pro-techadvisor/"><u>Maximizing Productivity: Essential Tips for Setting Up a Fully Functional Home Office on Your iPad Pro | TechAdvisor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/on-the-go-connectivity-assessment-asus-rt-ax52018-nano-router-a-review-for-wanderers-and-road-warriors/"><u>On-the-Go Connectivity Assessment: Asus RT-AX52018 Nano Router – A Review for Wanderers and Road Warriors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviewing-the-gigabyte-g6x-for-gamers-reliable-functionality-yet-unremarkable-attributes/"><u>Reviewing the Gigabyte G6X for Gamers: Reliable Functionality Yet Unremarkable Attributes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/sweet-slumber-scenes-video-critique-for-2024/"><u>Sweet Slumber Scenes Video Critique for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-cutting-edge-gadgets-by-toms-tech-wisdom/"><u>The Ultimate Guide to Cutting-Edge Gadgets by Tom's Tech Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide/"><u>Tom's Tech Insights: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-capabilities-of-the-kingston-fury-ddr5-6000-a-closer-look-at-its-high-speed-32gbx2-performance/"><u>Unveiling the Capabilities of the Kingston Fury DDR5-6000: A Closer Look at Its High-Speed 32GBx2 Performance</u></a></li>
+</ul></div>
+

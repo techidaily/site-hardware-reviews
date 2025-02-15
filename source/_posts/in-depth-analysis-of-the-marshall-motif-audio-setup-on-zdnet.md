@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of the Marshall Motif Audio Setup on ZDNet
-date: 2024-09-19 14:22:27
-updated: 2024-09-20 11:35:18
+date: 2025-01-28T23:05:02.553Z
+updated: 2025-02-03T04:47:25.674Z
 tags:
   - headphones
 categories:
@@ -58,6 +58,10 @@ Weighing in at just 4.25 grams (0.15 oz), the Motif ANC earbuds are lightweight 
 
 To wrap up the design elements, the case is rated for IPX4, meaning it can take a splash of water from any direction. The earbuds have an IPX5 rating, making them resistant to sustained, low-pressure water (i.e. faucet, toilet, shower, etc.). There's also a Bluetooth 5.2 pairing button at the front of the case and a USB-C charging port at the bottom. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Performance  
 
 When testing the Marshall Motif ANC earbuds, I naturally leaned towards the tunes of the Scorpions and Radiohead, rock bands that deliver intricate, yet harmonic performances. 
@@ -76,6 +80,10 @@ As the name implies, the Motif ANC has active noise cancellation, the same distr
 
 In busier areas that require more auditory awareness, a tap and hold on either earbud toggles between ANC, transparency, and regular modes. Transparency mode is best used when crossing streets or listening for what the next stop is on the subway. I often find transparency modes to be overly aggressive, amplifying sounds to the point where they feel closer than they actually are. However, the Motif ANC does a great job at keeping sounds natural and realistic. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## App and software  
 
 Like most companion software, the Marshall Bluetooth app -- available on iOS and Android -- gives you the ability to modify the earbuds' equalizer (EQ) settings, touch controls, ANC levels, and more. 
@@ -87,6 +95,10 @@ The Marshall Bluetooth app lets you customize the earbuds' sound and function.
 June Wan/ZDNet
 
 Besides the basic features like changing the functionality of touch inputs, the Marshall app carries some extra settings and quirks that greatly enhance the overall listening experience. One of which is the option to turn off interaction sounds, the beeps and chimes that play whenever you tap or pair the earbuds. While some will find the audible feedback useful, it was too alarming for my ears and made me cringe whenever I interacted with the earbuds. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Battery  
 
@@ -100,9 +112,17 @@ When you do need to top up, it takes about three hours to charge the Motif ANC f
 
 [Marshall Motif ANC View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMarshall-Motif-Wireless-Canceling-Headphones%2Fdp%2FB09CHH1Z4K%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7fabcb83-e974-4f05-8ef0-881c354d7be8%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line  
 
 I came into this review with middling expectations for the [Marshall Motif ANC](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMarshall-Motif-Wireless-Canceling-Headphones%2Fdp%2FB09CHH1Z4K%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7fabcb83-e974-4f05-8ef0-881c354d7be8%7Cdtp&dtb=1) and I'm ending it with astonishment. These true wireless earbuds provide all the essentials that you'd want from a high-end set, including active noise canceling, excellent fit, comfort, full and rich sound quality, and a companion app that tightens any loose bolts. If you can settle with average battery life and an undeniably expensive price tag, then these earbuds are worth rocking. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider  
 
@@ -135,11 +155,25 @@ Along with our running list of the [best wireless earbuds](https://www.zdnet.com
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-free-and-paid-video-game-opening-mastery-rank-the-best-of-yt-makers/"><u>[Updated] Free & Paid Video Game Opening Mastery Rank the Best of YT Makers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dealing-with-disappearing-reactions-and-replies-to-your-youtube-posts/"><u>Dealing with Disappearing Reactions and Replies to Your YouTube Posts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-hardware-review-blog/"><u>Expert Insights From Tom's Hardware Review Blog</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-technology-secrets-at-toms-hardware-reviews/"><u>Navigating Through Technology Secrets at Tom's Hardware Reviews</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-fix-guide-for-updating-your-scansnap-s1100-printer-driver/"><u>Quick-Fix Guide for Updating Your Scansnap S1100 Printer Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolved-how-to-update-and-repair-xbox-controller-drivers-for-windows-10-8-and-7/"><u>Resolved: How to Update and Repair Xbox Controller Drivers for Windows 10, 8, and 7</u></a></li>
+<li><a href="https://techidaily.com/sign-word-2000-online-add-signature-to-word-2000-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2000 Online - Add Signature to Word 2000 for Free</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-review-of-electronics-by-toms-device-diary/"><u>The Ultimate Review of Electronics by Tom's Device Diary</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-exploring-the-latest-in-computer-components/"><u>Tom's Tech Review: Exploring the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-secrets-with-toms-hardware-guides-and-tips/"><u>Unlocking Performance Secrets with Tom's Hardware Guides & Tips</u></a></li>
+</ul></div>
+

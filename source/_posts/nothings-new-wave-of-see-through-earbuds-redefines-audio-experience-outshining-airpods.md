@@ -1,7 +1,7 @@
 ---
 title: Nothing's New Wave of See-Through Earbuds Redefines Audio Experience, Outshining AirPods
-date: 2024-09-17 18:11:59
-updated: 2024-09-20 10:49:14
+date: 2025-02-01T23:15:49.802Z
+updated: 2025-02-02T19:43:25.048Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/topic/headphones/    https://www.zdnet.com/a/im
 ![A hand holding the Nothing Ear (a) earbuds](https://www.zdnet.com/a/img/resize/4626969a2529972536149bbe7d1a05ec4b045575/2024/04/16/d728d98d-7090-4914-b557-49e6c2adc422/dsc01727.jpg?auto=webp&width=1280)
 
 Nina Raemont/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways   
 
@@ -72,6 +76,10 @@ Speaking of ANC, this feature is where the Ear (a) buds begin to show their affo
 
 When it comes to the actual audio quality, however, these earbuds produce a balanced, clear, and bright sound. While listening to Moses Sumney and Shabaka's _Insecurities_, the harp and flute whistles in the upper midrange shimmered in my ears without being too harsh. Bass-heavy songs can get an extra boost by tweaking the Bass Enhance algorithm in the Nothing app. While listening to Kaytranada's _What You Need_, I toggled between the five levels of bass enhancement to boost the lower frequencies. This feature created a noticeably different sound with deeper, richer bass. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice 
 
 The Nothing Ear (a) are best for people who want a relatively affordable pair of earbuds with thoughtful functions and a unique design.
@@ -99,11 +107,30 @@ If you want earbuds with more effective noise-canceling for a similar price, con
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-players-picks-unveiling-our-top-10-adventure-classics/"><u>[New] Players' Picks Unveiling Our Top 10 Adventure Classics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-high-end-cooling-solved-a-comprehensive-look-at-the-id-cooling-fx360-pro-for-60/"><u>Affordable High-End Cooling Solved: A Comprehensive Look at the ID-Cooling FX360 Pro for $60</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/asus-bw-16d1x-u-blu-ray-writer-insights-elegant-design-minor-issues-explored/"><u>Asus BW-16D1X-U Blu-Ray Writer Insights: Elegant Design, Minor Issues Explored</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/estimating-the-charging-time-for-your-tesla-vehicle-a-comprehensive-guide/"><u>Estimating the Charging Time for Your Tesla Vehicle: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-raspberry-pi-5-enhanced-by-pi-52s-cooling-tower-speedy-performance-uncovered/"><u>Expert Analysis: Raspberry Pi 5 Enhanced by Pi 52'S Cooling Tower - Speedy Performance Uncovered</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-top-free-movie-and-tv-streaming-sites-instead-of-netflix/"><u>Exploring the Top Free Movie & TV Streaming Sites Instead of Netflix</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-technology-hub-gadgets-and-hardware-insights/"><u>Exploring Tom's Technology Hub: Gadgets & Hardware Insights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/iconic-photographs-the-true-story-for-2024/"><u>Iconic Photographs The True Story for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computing-tips-from-toms-hardware-experts/"><u>Navigating the World of Computing: Tips From Tom’s Hardware Experts</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/resolving-computer-sluggishness-from-excessive-background-processes-tips-and-tricks-yl-tech-solutions/"><u>Resolving Computer Sluggishness From Excessive Background Processes: Tips & Tricks - YL Tech Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphones-hotspot-expert-fixes-for-connection-issues/"><u>Revive Your iPhone's Hotspot: Expert Fixes for Connection Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shatter-sims-monochrome-mistake/"><u>Shatter Sims’ Monochrome Mistake</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/showcasing-spectacular-color-accuracy-and-contrast-with-the-gigabyte-aorus-oled-gaming-screen/"><u>Showcasing Spectacular Color Accuracy and Contrast with the Gigabyte Aorus OLED Gaming Screen</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-art-of-curating-digital-stories-on-fb-for-2024/"><u>The Art of Curating Digital Stories on FB for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-race-for-excellence-in-solid-state-drives-unveiling-performance-secrets-of-lexars-elite-sl500-and-sl600-series-with-exceptional-20g-transfer-rates/"><u>The Race for Excellence in Solid State Drives: Unveiling Performance Secrets of Lexar's Elite SL500 and SL600 Series with Exceptional 20G Transfer Rates</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-gear/"><u>Tom's Tech Hub: The Ultimate Guide to Computer Gear</u></a></li>
+</ul></div>
+

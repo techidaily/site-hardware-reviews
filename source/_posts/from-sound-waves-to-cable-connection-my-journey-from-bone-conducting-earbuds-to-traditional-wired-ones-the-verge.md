@@ -1,7 +1,7 @@
 ---
 title: "From Sound Waves to Cable Connection: My Journey From Bone Conducting Earbuds to Traditional Wired Ones | The Verge"
-date: 2024-09-18 11:47:39
-updated: 2024-09-20 12:22:33
+date: 2025-01-29T18:50:35.228Z
+updated: 2025-02-03T01:21:44.279Z
 tags:
   - headphones
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/6038b4e1d0b30613cb41c0ccc8733d5ac9ac78f01
 The Soundcore Aerofit Pro headphones clipped to the adjustable headband.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -37,6 +41,10 @@ But, bone-conducting headphones have one major flaw: Sound quality. I'd pretty m
 
 However, I was recently sent a pair of [Soundcore AeroFit Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSoundcore-Headphones-Ergonomic-Bluetooth-Water-Resistant%2Fdp%2FB0CCRSQG8K%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf8893605-afae-43cd-9d9b-7312fcd90938%7Cdtp&dtb=1) headphones that outdo any pair of bone-conducting headphones I've tried to date.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Anker Soundcore Aerofit Pro tech specs
 
 * 16.2 mm titanium-coated dome drivers
@@ -50,6 +58,10 @@ However, I was recently sent a pair of [Soundcore AeroFit Pro](https://buy.geni.
 * Multipoint connectivity
 * App for enhanced EQ, customized buttons, and Spatial Audio Activation
 * Price $169.99 on Amazon
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## My experience
 
@@ -81,9 +93,17 @@ One of the more fascinating pieces of music on my playlist is Ministry's "TV 5/4
 
 Coal Chamber's "Rowboat" had the deep punch it required and made me want to bang my head as I hit the halfway point of my run. Led Zeppelin's "Kashmir" (from the Live: O2 Arena show) no longer sounded as flat as it had been with my previous bone-conducting headphones. In other words, music came to life for me on my runs, something I haven't experienced in some time. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The one caveat
 
 The only nit I can pick with the AeroFit Pro headphones is that the buttons are placed in such a way that my ears prevent me from easily pressing them. This, of course, will be personal because the shape of your ear will differ from mine. But when I'm running, I need to be able to easily access those buttons so I can pause, skip, or repeat a track. With a playlist of over 1,000 songs, there's a lot of track skipping when you're running over ten miles, so that can be a problem with these.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -110,11 +130,31 @@ If you live a very active lifestyle and produce copious amounts of sweat, the tr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-amplify-engagement-increase-youtube-viewers/"><u>[New] 2024 Approved Amplify Engagement Increase YouTube Viewers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-best-video-editors-for-youtube/"><u>[New] The Best Video Editors for YouTube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-step-by-step-method-to-verify-and-update-your-tiktok-age/"><u>[Updated] 2024 Approved Step-by-Step Method to Verify and Update Your TikTok Age</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-novices-guide-to-prime-gopro-extras/"><u>[Updated] Novice's Guide to Prime GoPro Extras</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-simplifying-iphoneipad-screen-captures-for-online-sharing/"><u>[Updated] Simplifying iPhone/iPad Screen Captures for Online Sharing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862705155-acers-game-changer-steal-the-latest-tech-at-1129-rtx-4070-plus-amd-cpu-powered-nitro-16-laptop-unleashed/"><u>Acer's Game-Changer: Steal the Latest Tech at $1,129 - RTX 4070 + AMD CPU Powered Nitro 16 Laptop Unleashed!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvd-au-format-et-qualite-clarification-detaillee-avec-des-qandr/"><u>DVD Au Format Et Qualité - Clarification Détaillée Avec Des Q&R</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-maximizing-your-designs-with-free-clip-art/"><u>In 2024, Maximizing Your Designs with FREE Clip Art</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-titling-techniques-to-explore/"><u>Innovative Titling Techniques to Explore</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-personal-assistance-how-apples-latest-ai-innovation-will-transform-your-iphone-experience-by-learning-from-the-home-screen-insights-on-googl71/"><u>Revolutionizing Personal Assistance: How Apple's Latest AI Innovation Will Transform Your iPhone Experience by Learning From the Home Screen - Insights on Google</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computing-in-depth-reviews-and-analysis/"><u>Tom's Computing: In-Depth Reviews and Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-gadget-guide/"><u>Tom's Tech Reviews: The Ultimate Gadget Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/troubling-trend-for-users-hps-probook-lineup-struggles-after-inherent-bios-update-issues-post-windows-firmware-pushes/"><u>Troubling Trend for Users: HP's ProBook Lineup Struggles After Inherent BIOS Update Issues Post-Windows Firmware Pushes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-tech-showdown-toms-hardware-comprehensive-analyses/"><u>Ultimate Tech Showdown: Tom's Hardware Comprehensive Analyses</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-gaming-power-save-big-and-grab-hp-omens-transcend-14-with-rtx-displayed-in-oled-brilliance-300-off/"><u>Unleash Gaming Power: Save Big & Grab HP Omen's Transcend 14 with RTX, Displayed in OLED Brilliance - $300 Off!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-performance-electronics-tips-and-reviews-by-toms-hardware-professionals/"><u>Unveiling High-Performance Electronics - Tips and Reviews by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-insights-from-toms-electronics-hub/"><u>Unveiling the Latest Gadgets: Insights From Tom's Electronics Hub</u></a></li>
+</ul></div>
+

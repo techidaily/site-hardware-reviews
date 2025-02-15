@@ -1,7 +1,7 @@
 ---
 title: Discover High-Quality Sound at Half the Cost of AirPods Pro with 1MORE Earphones on ZDNet.
-date: 2024-09-18 16:14:19
-updated: 2024-09-20 10:31:45
+date: 2025-01-30T23:47:58.891Z
+updated: 2025-02-03T04:09:19.442Z
 tags:
   - headphones
 categories:
@@ -49,6 +49,10 @@ Just recently, 1MORE released the spatial audio-supported [Aero buds](https://bu
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The practicality of long-stemmed buds
 
 The first thing I noticed with the 1MORE Aero was how lightweight they felt. The buds are barely noticeable, both in my hand and in my ears, despite having a longer stem than others I've tested. Similar to the [classic AirPods](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca95b4a22-7bda-46e2-9e2e-f51f3a060036%7Cdtp&dtb=1) design, the buds hang off my ears while fitting snugly within the canal thanks to the plush silicone cushion. 
@@ -77,11 +81,19 @@ The Aero charging case opens like a compact makeup mirror.
 
 Christina Darby/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Touch controls
 
 I'll continue to sing high praises of the longer stems as they make for excellent control pads. If you've ever hung up a call too quickly or skipped a track while adjusting your earbuds, you probably understand my frustration when it comes to sensor controls with a mind of their own. 1MORE's controls require a more forceful input, making each register accurate and purposeful.
 
 You can also switch the three different ANC modes and ambient mode by tapping and holding the touchpads, although I found it easier to switch via the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do they sound?
 
@@ -107,6 +119,10 @@ I had a similar experience when it came to music and podcasts -- even when the b
 
 **Review: [Step aside, AirPods. There's a new ANC champion in town](https://www.zdnet.com/article/bose-quietcomfort-earbuds-ii-review/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Aero's connectivity issues
 
 Beware that the Aero's connectivity chime -- for when the earbuds successfully pair to a device -- is very inconsistent. During my first few uses I didn't hear any audible feedback for when the earbuds were paired, so I had to check the companion app or look at my device's sound output source to make sure. It wasn't until a week of wear, literally as I am writing this review, that I finally heard the typical pairing chime when I connected the buds to my MacBook. The Aero's fickle audio signaling isn't the end of the world but is a constant reminder of what could've been.
@@ -114,6 +130,10 @@ Beware that the Aero's connectivity chime -- for when the earbuds successfully p
 Another issue that I had with the 1MORE buds was how the company claimed that the buds had dual device connectivity. However, I was only able to connect to one device at a time. I was even prompted to "forget the device" before reconnecting to my phone from my laptop.
 
 **Review: [AirPods Pro (2nd Gen) offer two big upgrades and one major drawback](https://www.zdnet.com/article/airpods-pro-2-offer-two-big-upgrades-but-connectivity-chaos-hasnt-been-tamed/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## App experience
 
@@ -156,11 +176,31 @@ Between the extremely comfortable and stable fit, solid all-around sound quality
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-embarking-on-a-shared-tiktok-experience-your-instructional-path/"><u>[New] 2024 Approved Embarking on a Shared TikTok Experience Your Instructional Path</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-legalities-in-sharing-instagram-melodies/"><u>[Updated] 2024 Approved Legalities in Sharing Instagram Melodies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-slapstick-selection-twitters-funny-threads/"><u>[Updated] Slapstick Selection Twitter's Funny Threads</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-effortless-podcast-livestream-guide/"><u>2024 Approved Effortless Podcast Livestream Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-transforming-ape-audio-files-into-ogg-format-with-ease/"><u>Free Online Conversion: Transforming APE Audio Files Into OGG Format with Ease</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-navigating-copyright-laws-for-instagram-music-postings/"><u>In 2024, Navigating Copyright Laws for Instagram Music Postings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lumapro-the-budget-friendly-lightroom-pairings/"><u>LumaPro The Budget-Friendly Lightroom Pairings</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-animators-toolkit-essential-software-for-mac-and-pc/"><u>New In 2024, The Animators Toolkit Essential Software for Mac and PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-massless-carbon-fiber-enhanced-batteries-the-key-to-ultra-lightweight-gadgets/"><u>Revolutionary Massless Carbon-Fiber Enhanced Batteries - The Key to Ultra Lightweight Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ryzens-cutting-edge-ai-300-series-arrives-sooner-than-expected-preorder-before-july-28th-at-best-buy/"><u>Ryzen's Cutting-Edge AI 300 Series Arrives Sooner Than Expected – Preorder Before July 28Th at Best Buy.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/save-big-now-grab-the-m3-macbook-air-16gb-13-inch-for-a-steal-at-only-1149/"><u>Save Big Now: Grab the M3 MacBook Air - 16GB / 13-Inch for a Steal at Only $1,149</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sneak-peek-at-the-next-big-thing-the-samsung-galaxy-super-ultra-2023-editions-release-date-pricing-rumors-and-full-feature-list-revealed/"><u>Sneak Peek at the Next Big Thing - The Samsung Galaxy Super Ultra 2023 Edition's Release Date, Pricing Rumors & Full Feature List Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-evolution-of-the-first-risc-v-laptop-doubling-processor-cores-accelerating-to-an-unprecedented-2ghz-and-introducing-next-gen-ai-tools/"><u>The Ultimate Evolution of the First RISC-V Laptop: Doubling Processor Cores, Accelerating to an Unprecedented 2GHz & Introducing Next-Gen AI Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-cutting-edge-computer-components-at-tomtechreview/"><u>The Ultimate Guide to Cutting-Edge Computer Components at TomTechReview</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-your-productivity-the-innovative-and-user-friendly-acemagic-x1-dual-screen-laptop-awaits-you/"><u>Unleash Your Productivity: The Innovative and User-Friendly Acemagic X1 Dual-Screen Laptop Awaits You</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-computer-gear-expert-analysis-by-toms-hardware-hub/"><u>Unraveling Computer Gear: Expert Analysis by Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-toms-hardware-hub-t17238628794163/"><u>Unveiling Gadgets with Tom's Hardware Hub</u></a></li>
+</ul></div>
+

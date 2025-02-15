@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Affordable Anker Wireless Earbuds Surpass Lifespan of Expensive AirPods at $99"
-date: 2024-09-17 18:57:46
-updated: 2024-09-20 10:33:38
+date: 2025-01-29T16:40:17.640Z
+updated: 2025-02-03T04:27:30.238Z
 tags:
   - headphones
 categories:
@@ -66,6 +66,10 @@ Running while wearing the Space A40 was no better. Between the sweat and the mor
 
 My experience with more weight-oriented training was better though, as there's not as much impact (or sweat) involved. If you, too, have small ears or a sweating issue, maybe reserve these earbuds for light cardio or smaller movements rather than for HIIT workouts and running. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Sound quality and noise cancellation
 
 You may, like me, be a little skeptical and wondering if these $99 earbuds are truly as good as Soundcore makes them out to be. Well, Soundcore touts a noise cancellation level that can block out 98% sound, and I'm 99% sure its advertising is accurate. 
@@ -100,6 +104,10 @@ While there is a lag, the earbuds are sensitive -- something I found out the har
 
 One thing I had to get used to with these earbuds was that, unlike AirPods, they do not have an automatic stop when one earbud falls out or you take just one out of your ear. To get the audio to completely stop, you either have to tap the right bud twice or hit pause on your device. Otherwise, the audio will keep playing whether they're in your ears or not. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Microphone quality 
 
 Something that often gets neglected in reviews of earbuds is the microphone quality. As I use my earbuds a lot for hands-free phone calls, this was an important factor for me to test out. The results left me pleasantly surprised -- the quality was impressive. 
@@ -111,6 +119,10 @@ As I mentioned before, my only issue with using these earbuds for phone calls wa
 These are the Soundcore SpaceA40 earbuds in Black I tested out.
 
 Christina Darby/ZDNet
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Battery life and charging 
 
@@ -128,9 +140,17 @@ To charge the earbuds themselves, simply place them back in the case after use, 
 
 [Buy the Anker Soundcore Space A40 $59 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B1LVC5VZ%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6e96b191-9693-4703-b431-d273ad5ad3a6%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line  
 
 Despite the issues I encountered when wearing them running, I still think these are quality earbuds -- especially given their price. Whether you use them as a backup for your AirPods, AirPods Pro, or [Galaxy Buds 2](https://www.zdnet.com/product/samsung-galaxy-buds-2/) or as your primary headphones, you will get less sound for longer and at a lower price. They're perfect for commuting, hands-free phone calls, and leisurely exercise -- just maybe not intense cardio. So, if you're looking for an "office-to-gym-or-trail" kind of earbud, these may not be your go-to. If you're in the market for a solid pair of earbuds for your morning commute, I would highly recommend these. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider 
 
@@ -167,11 +187,29 @@ Sony's LinkBuds S noise-canceling earbuds, which are on sale right now at Target
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-seamlessly-integrate-your-switch-pro-into-steam-gaming/"><u>[New] In 2024, Seamlessly Integrate Your Switch Pro Into Steam Gaming</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-cartoonhub-master-review-2024-overview/"><u>[Updated] CartoonHub Master Review 2024 Overview</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-smooth-cinematography-ideal-stabilizer-tools-for-vloggers/"><u>[Updated] In 2024, Smooth Cinematography Ideal Stabilizer Tools for Vloggers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-why-the-samsung-galaxy-tab-sn-is-a-top-choice-for-mid-range-tablet-seekers/"><u>Comprehensive Review: Why the Samsung Galaxy Tab Sn Is a Top Choice for Mid-Range Tablet Seekers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dota-5/"><u>Dota 지그재그즈 : 게임이 끝날 수 없는 방법, 플레이어가 찾아야 할 5가지 해결 방법</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/filmora-compared-the-ultimate-list-of-free-high-quality-templates/"><u>Filmora Compared The Ultimate List of Free, High-Quality Templates</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gestion-et-transformation-video-simplifiee-avec-la-nouvelle-version-de-movavi-pour-les-utilisateurs-mac/"><u>Gestion Et Transformation Vidéo Simplifiée Avec La Nouvelle Version De Movavi Pour Les Utilisateurs Mac</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-computer-reviews-by-toms-hardware-team/"><u>Pioneering Computer Reviews by Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-carbon-fiber-cells-the-new-era-of-lightweight-high-performance-device-power/"><u>Revolutionary Carbon-Fiber Cells: The New Era of Lightweight, High-Performance Device Power</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sneak-peek-of-the-future-new-ai-integrated-dell-laptops-set-for-a-summer-release/"><u>Sneak Peek of the Future - New AI-Integrated Dell Laptops Set for a Summer Release</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/styling-your-content-a-compreran-guide-to-insta-photo-watermarks/"><u>Styling Your Content A Compreran Guide to Insta Photo Watermarks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-elite-selection-premium-notebooks-and-high-performance-laptops/"><u>The Elite Selection: Premium Notebooks & High-Performance Laptops</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-computer-hardware-t17238628794254/"><u>Tom's Tech Insights: Exploring the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unlocking-the-secrets-of-hardware/"><u>Tom's Tech Insights: Unlocking the Secrets of Hardware</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-7-starter-yoga-videotapes-enhance-physical-and-mental-wellbeing-with-these-ideal-choices/"><u>Top 7 Starter Yoga Videotapes: Enhance Physical & Mental Wellbeing with These Ideal Choices</u></a></li>
+</ul></div>
+

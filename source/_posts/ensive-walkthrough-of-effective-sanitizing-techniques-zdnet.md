@@ -1,7 +1,7 @@
 ---
 title: Ensive Walkthrough of Effective Sanitizing Techniques | ZDNET
-date: 2024-09-18 14:39:44
-updated: 2024-09-20 12:58:39
+date: 2025-01-29T02:41:56.006Z
+updated: 2025-02-02T23:51:53.749Z
 tags:
   - headphones
 categories:
@@ -22,6 +22,10 @@ Surprise! Those [AirPods](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zd
 Some people just give them a wipe and get on with their day, while others want to go all the way and fully clean and sanitize their AirPods.
 
 Well, my [AirPods Pro](https://www.amazon.com/Apple-Generation-Cancelling-Transparency-Personalized/dp/B0D1XD1ZV3?tag=zdnet-buy-button-20) have seen a lot of use, and they could do with a clean, so I thought that I'd bring you along for the ride.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to clean and sanitize your AirPods
 
@@ -44,6 +48,10 @@ I've come across people who use isopropyl alcohol for cleaning but I'm reluctant
 
 These [lens wipes](https://www.amazon.com/dp/B00GL64QG6?tag=zdnet-buy-button-20) are inexpensive and only contain 40-50% alcohol, so they're less abrasive and fit for cleaning glasses, camera lenses, screens, and, in this case, AirPods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Assess the damage
 
 First, I assessed just how bad things are. My second-generation AirPods Pro are about a year old. Despite a lot of use, they look quite new. The charging case lives inside another protective case -- one from ESR -- and apart from being dirty, looks like new.
@@ -59,6 +67,10 @@ I noticed that there's also a fair bit of muck trapped in the Lightning port.
 A little bit of dirt in the charge port
 
 Adrian Kingsley-Hughes/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Clean the case
 
@@ -85,6 +97,10 @@ Finally, give the earbud itself a good wipe, and you're done.
 Cleaning the silicone earbud tip.
 
 Adrian Kingsley-Hughes/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Clean the charge port
 
@@ -115,6 +131,10 @@ I use lens wipes because they are lint-free, use a tiny amount of cleaning fluid
 ## How often should you clean your AirPods?
 
 It really depends. Probably every few months would help to keep the AirPods looking fresh. However, It's probably been over a year since I cleaned my AirPods Pro case, so to each their own.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why do my AirPods sound muffled?
 
@@ -147,11 +167,23 @@ The same goes for household cleaners and isopropyl alcohol. You should also neve
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-flip-flop-your-watching-anchoring-yourself-at-the-end-of-queue-for-2024/"><u>[Updated] Flip-Flop Your Watching Anchoring Yourself at the End of Queue for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-latest-computer-components-toms-tech-hub/"><u>Expert Insights on Latest Computer Components - Tom's Tech Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-value-of-cytrons-uno-rp2040-board-for-cost-conscious-makers/"><u>Exploring the Value of Cytron's Uno RP2040 Board for Cost-Conscious Makers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-psd-shadow-play/"><u>In 2024, Expert PSD Shadow Play</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-secure-and-compelling-social-media-presentations-through-subtitle-sharing/"><u>In 2024, Secure and Compelling Social Media Presentations Through Subtitle Sharing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-samsung-galaxy-a15-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveil-the-secrets-of-quality-hardware-through-toms-lens/"><u>Unveil the Secrets of Quality Hardware Through Tom's Lens</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-insights-from-toms-computer-gear-exploration/"><u>Unveiling the Insights From Tom's Computer Gear Exploration</u></a></li>
+</ul></div>
+

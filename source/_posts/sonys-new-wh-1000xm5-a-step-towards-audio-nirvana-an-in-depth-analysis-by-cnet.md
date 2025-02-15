@@ -1,7 +1,7 @@
 ---
 title: "Sony's New WH-1000XM5: A Step Towards Audio Nirvana – An In-Depth Analysis by CNET"
-date: 2024-09-18 16:24:17
-updated: 2024-09-20 10:16:11
+date: 2025-01-26T19:46:03.653Z
+updated: 2025-02-02T16:58:22.360Z
 tags:
   - headphones
 categories:
@@ -36,6 +36,10 @@ I don't know what else Sony can do to improve in the next version, but the compa
 
 Key improvements over the WH-1000XM4 include a simpler folding design, a better carrying case, more comfortable earpads, and Bluetooth 5.2 instead of 5.0\. My ears like the WH-1000XM5 better with the ability to wear the headphones for hours on end without any discomfort. My recent flights have been heavenly as I escape into my music, podcasts, and movies with the WH-1000XM5 headset.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Microphones           | Eight microphones and two processors                                     |
@@ -47,6 +51,10 @@ Key improvements over the WH-1000XM4 include a simpler folding design, a better 
 | Battery life (music)  | 30 hours with ANC, 40 hours with ANC off                                 |
 | Wireless connectivity | Bluetooth 5.2 with multipoint connection support                         |
 | Headset weight        | 250 grams (8.82 ounces)                                                  |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Design and fit
 
@@ -70,6 +78,10 @@ Matthew Miller/ZDNET
 
 The outside flat surface of the right earcup is touch sensitive and provides consistent performance of the controls. Touch controls let you manage volume, play/pause, skip forward and back, and more. The headset charges via USB-C with the option to connect via a 3.5mm connection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Smartphone software
 
 In order to optimize your use of the Sony WH-1000XM5 headphones, you need to download and install the Sony Headphones Connect application to your Android or iOS smartphone. After installation, simply turn on the headphones to initiate pairing with your smartphone.
@@ -82,6 +94,10 @@ The touch surface performs flawlessly
 
 Matthew Miller/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 While we don't often think about phone calls with headphones optimized for a listening experience, it is more important today than ever with so many people using headphones like this for their remote work communications. The call quality on both ends when using the WH-1000XM5 is outstanding and it's great to have a single headset with long battery life taking on all of my headset duties.
@@ -93,6 +109,10 @@ Audio quality is superb, the active noise-canceling creates an environment of is
 I thought the previous [WH-1000XM4 headset](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSony-WH-1000XM4-Canceling-Headphones-phone-call%2Fdp%2FB0863FR3S9%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9be8fdb7-7934-402e-81b4-b48d7f3a6ded%7Cdtp&dtb=1) was nearly perfect so I was pleasantly surprised by the improved comfort, noise canceling, and call performance of the WH-1000XM5\. I don't know what else Sony can do to improve in the next version, but the company did a good job of finding ways to improve a nearly perfect product so I look forward to finding out.
 
 The Sony WH-1000XM5 headset is available now for $399.99\. Keep an eye out for deals during the upcoming holiday season and make sure to add this Sony headset to your wish list. You will not be disappointed and will enjoy an amazing world of audio experiences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -110,11 +130,29 @@ The Sony WH-1000XM5 is arguably the best wireless headset available today. If yo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-tecno-spark-10-4g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Tecno Spark 10 4G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-toms-tools-in-depth-reviews-and-analysis-on-computer-components/"><u>Discovering Tom's Tools: In-Depth Reviews & Analysis on Computer Components</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-printer-problems-fast-win11-fixed/"><u>Eliminate Printer Problems Fast: Win11 Fixed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/sive-guide-to-top-youtube-to-webm-conversion-software-for-2024/"><u>Exclusive Guide to Top YouTube-to-WebM Conversion Software for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-picks-the-top-of-the-line-htpc-devices/"><u>Expert Picks: The Top-of-the-Line HTPC Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computing-discoveries-at-toms-hardware-emporium/"><u>Exploring the World of Computing: Discoveries at Tom's Hardware Emporium</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-roblox-launch-failure-updated-guide/"><u>How to Resolve the Roblox Launch Failure: Updated Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-poco-x5-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Poco X5 for Free? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-pursuit-with-panasonics-hx-a1-wearable-cameras-for-2024/"><u>In Pursuit with Panasonic’s HX-A1 Wearable Cameras for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-build-at-toms-hardware-solutions/"><u>Master Your PC Build at Tom's Hardware Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-text-design-with-ae-top-10-tips/"><u>Mastering Text Design with AE Top 10 Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341707040-solution-the-first-step-is-conducting-a-detailed-survey-to-understand-the-propertys-physical-features-and-constraints/"><u>Solution: The First Step Is Conducting a Detailed Survey to Understand the Property's Physical Features and Constraints.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-review/"><u>Tom's Computer Components Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-evaluation-of-the-levelplay-combat-air-ca4-exceptional-silent-functionality-and-powerful-processor-support/"><u>Ultimate Evaluation of the Levelplay Combat Air CA4 - Exceptional Silent Functionality & Powerful Processor Support</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/western-digital-my-passport-6tb-ssd-reviewed-big-capacity-in-a-small-package/"><u>Western Digital My Passport 6TB SSD Reviewed - Big Capacity in a Small Package</u></a></li>
+</ul></div>
+

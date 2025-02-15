@@ -1,7 +1,7 @@
 ---
 title: Sony's INZINE Audio H9 - A Game Changer in Headset Technology, Unveiled by ZDNet
-date: 2024-09-18 17:39:47
-updated: 2024-09-20 11:34:39
+date: 2025-01-29T03:20:47.051Z
+updated: 2025-02-02T21:38:47.868Z
 tags:
   - headphones
 categories:
@@ -41,6 +41,10 @@ First to release under the INZONE namesake is a trio of headphones: H3, H7, and 
 
 I spent the past two weeks testing the highest-end model, INZONE H9, putting it through rounds of first-person shooters (FPS) like _Counter-Strike: Global Offensive_, third-person shooters like _Fortnite_, and other genres that include _NBA 2K22, Fall Guys,_ and _League of Legends_. Here's how the new Sony headphones fared. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | H9                | H7                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | H3                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
@@ -51,6 +55,10 @@ I spent the past two weeks testing the highest-end model, INZONE H9, putting it 
 | Connection        | Wireless (2.4GHz) or Bluetooth                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Wireless (2.4GHz) or Bluetooth                                                                                                                                                                                                                                                                                                                                                                                                                     | Wired USB                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Compatibility     | PC and PlayStation 5 (PS5)                                                                                                                                                                                                                                                                                                                                                                                                                                                        | PC and PS5                                                                                                                                                                                                                                                                                                                                                                                                                                         | PC and PS5                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Price             | [$299](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-inzone-h9-wireless-noise-canceling-gaming-headset-white%2F6510363.p%3FskuId%3D6510363&publisher_slug=itechdaily19598&exclusive=1) | [$229](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-inzone-h7-wireless-gaming-headset-white%2F6510364.p%3F&publisher_slug=itechdaily19598&exclusive=1) | [$99](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-inzone-h3-wired-gaming-headset-white%2F6510365.p%3FskuId%3D6510365&publisher_slug=itechdaily19598&exclusive=1) |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 
 
@@ -94,6 +102,10 @@ Lastly, a boom mic that stems from the left earcup completes the gaming headset 
 
 The best way for me to describe the sound quality of the H9 headphones is rich and multi-dimensional. I was surprised to find the default sound profile of the H9 to be adequate and balanced just right. But if you're more in favor of a bass-heavy sound or want to emphasize the higher frequencies, Sony's companion software, INZONE Hub, lets you tweak the equalizer settings of the headphones. More on the app later.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Spatial Sound
 
 A key selling point of all three INZONE headsets is Spatial Sound, Sony's interpretation of surround sound. For music listening and watching movies, Spatial Sound matches the audio to where subjects are positioned and the direction they're headed. (Imagine hearing a car zipping from your right headphone to the left.) This feature isn't new by any means, but it's one of the most realistic and accurate audio-tracking technology that I've listened to in a while -- and is fully realized when you start gaming.
@@ -107,6 +119,10 @@ June Wan/ZDNet
 The same mechanic was demonstrated when I played Fortnite, a cross-platform battle royale that emphasizes knowing where your enemies are and catching them when they're most vulnerable. Between listening to footsteps to chests being opened, the H9's Spatial Sound made a Fortnite amateur such as myself feel confident enough to strike the unsuspecting. That said, while Sony recommends the H9 for FPS titles, I'd highly suggest third-person shooters as well, as the 360-degree camera panning adds another dimension to the audio tracking. 
 
 **More: [Best gaming headsets](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-headset/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Noise canceling
 
@@ -137,6 +153,10 @@ Beyond the scope of physical settings buttons, the H9 can be modified via Sony's
 June Wan/ZDNet
 
 INZONE Hub is delightfully exhaustive, with additional settings for app sync and Sony's [360 Spatial Sound Personalizer](https://play.google.com/store/apps/details?id=jp.co.sony.hes.soundpersonalizer&hl=en%5FUS&gl=US). The latter of which is an app that lets you capture images of your ears so that the H9 headset can adjust its sound profile to your shape. It's a magical service that makes the INZONE experience all the more user-focused. The only issue that I had with the 360 Spatial Sound Personalizer was how it paired seamlessly with my Android device, but took multiple attempts on an iPhone. That seems to be a reoccurring issue based on other users' reviews. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Battery
 
@@ -191,11 +211,24 @@ Before there was INZONE, there was the Pulse 3D, a wireless headset dedicated to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-correcting-failed-video-delivery-on-mobile-platforms-social-network-apps/"><u>[Updated] In 2024, Correcting Failed Video Delivery on Mobile Platform's Social Network Apps</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-a1x-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo A1x 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-solving-code-39-errors-in-windows-environments/"><u>Expert Tips for Solving Code 39 Errors in Windows Environments</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-tech-innovations-with-toms-hardware-guides/"><u>Exploring Tech Innovations with Tom's Hardware Guides</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-dial-in-the-perfect-moment-youtube-optimal-posting/"><u>In 2024, Dial in the Perfect Moment YouTube Optimal Posting</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/most-innovative-laptop-add-ons-for-a-superior-tech-experience-2024-edition/"><u>Most Innovative Laptop Add-Ons for a Superior Tech Experience - 2024 Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/regular-follow-up-visits-allow-for-assessment-of-healing-progress-and-detection-of-late-onset-complications/"><u>Regular Follow-Up Visits Allow for Assessment of Healing Progress and Detection of Late Onset Complications.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-in-depth-computer-hardware-reviews/"><u>Tom's Tech Hub: In-Depth Computer Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-philips-evonia-49m2c8900-oled-gaming-display-240hz-and-stunning-visuals-full-review/"><u>Top Rated Philips Evonia 49M2C8900 OLED Gaming Display: 240Hz & Stunning Visuals - Full Review</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Corsair HS65 Gaming Headset Evaluation: Featuring Comfort & Reliability in a Compact Design - Insights From ZDNet"
-date: 2024-09-17 11:57:56
-updated: 2024-09-20 10:19:31
+date: 2025-01-27T17:51:06.971Z
+updated: 2025-02-02T22:28:52.444Z
 tags:
   - headphones
 categories:
@@ -56,11 +56,19 @@ And while it may not provide as much control over your audio input and output as
 
 Taylor Clemons/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Pricing 
 
 The HS65 Surround retails for $79.99 (￡79.99, AU$119, CA$99), which is a bit on the high side for a wired headset, but still fairly affordable for most gamers. With this price tag, it's on the same level as models like the [Razer Kraken V3 X](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Kraken-Gaming-Headset-HyperClear%2Fdp%2FB08WYN93RJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0c99e2e0-2f1c-42c3-8a08-80838e2f746e%7Cdtp&dtb=1) ($69.99) and the [HyperX Cloud Alpha](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-Cloud-Alpha-Gaming-Headset%2Fdp%2FB074NBSF9N%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0c99e2e0-2f1c-42c3-8a08-80838e2f746e%7Cdtp&dtb=1) ($99.99); both of which are designed for long-lasting quality, comfort, and immersive audio. 
 
 The HS65 Surround's price also seems on the high side since it doesn't have many of the bells and whistles that other, similarly priced models include, like RGB lighting and audio equalizer settings. But I certainly feel that the level of comfort the headset provides and the quality of its build more than make up for the no-nonsense design. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Comfort and quality 
 
@@ -74,6 +82,10 @@ The attached microphone flips up and out of the way when you don't need it, thou
 
 The entire headset is made of plastic, which contributes to its lightweight feel, but it still feels like a solid and dependable headset compared with, for example, the [Turtle Beach Recon 500](https://www.turtlebeach.com/products/recon-500), which has a similar, all-plastic build and feels very cheap and flimsy. I wore the HS65 Surround for around 10 hours every day between work and quick gaming sessions on both my PC and two consoles (PlayStation 5 and Nintendo Switch). And the headset always felt like a secure fit and very comfortable, even while I was wearing my blue light filtering glasses. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Audio and connectivity 
 
 Taylor Clemons/ZDNET
@@ -85,6 +97,10 @@ Unfortunately, the virtual surround sound is only compatible with Windows and Ma
 Taylor Clemons/ZDNET
 
 However, even without Dolby enabled, the audio quality you get from the headset is excellent. Low bass tones, midrange sounds, and even high-pitched notes all sound crystal-clear even at higher volumes. Even with the volume cranked up as high as it can go, the audio drivers never sound blown out, crunchy, or garbled; so if you need to have your game audio set to a high volume, you'll never miss a line of dialogue or audio cue due to distortion. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -109,6 +125,10 @@ It's worth noting the iCUE app is also the only way to set up personalized audio
 Taylor Clemons/ZDNET
 
 The Corsair HS65 Surround is a dependable, solid midrange gaming headset that's great for both PC and consoles. The simple plug-and-play connectivity makes it easy to set up the headset with whatever you use to play games, while the 3.5mm audio jack allows you to use the headset with mobile devices as well. With the included USB adapter you can enable Dolby 7.1CH virtual surround sound for more immersive audio, though it only works with PC and Mac computers, not consoles. And while you don't necessarily need to download the iCUE app to use the HS65 Surround, audiophiles might want to consider doing so since it allows you to create a personalized sound profile. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider 
 
@@ -145,11 +165,25 @@ This updated version of the original Kraken headset is designed to provide a qua
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-the-ultimate-guide-to-adding-linktree-to-tiktok-bios/"><u>[New] The Ultimate Guide to Adding Linktree to TikTok Bios</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-convert-youtube-videos-seamlessly-into-avi/"><u>[Updated] In 2024, How to Convert YouTube Videos Seamlessly Into AVI</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-excellence-in-depth-analysis-of-the-uphere-m201-ssd-heatsink-your-guide-to-essential-nvme-thermal-management-at-only-5/"><u>Affordable Excellence: In-Depth Analysis of the UpHere M201 SSD Heatsink - Your Guide to Essential NVMe Thermal Management at Only $5</u></a></li>
+<li><a href="https://solve-help.techidaily.com/decoding-system-instability-a-comprehensive-guide-by-yl-software-experts/"><u>Decoding System Instability: A Comprehensive Guide by YL Software Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/fast-flagship-and-funny-a-comprehensive-review-of-the-flsun-s1-device/"><u>Fast, Flagship & Funny: A Comprehensive Review of the FLSun S1 Device</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/harnessing-the-power-of-cookiebot-for-advanced-site-customization-and-audience-targeting/"><u>Harnessing the Power of Cookiebot for Advanced Site Customization and Audience Targeting</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-online-experience-insights-into-ffxp/"><u>In 2024, Streamline Your Online Experience Insights Into FFXP</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-news-at-toms-computer-and-electronics-hub/"><u>In-Depth Reviews and News at Tom's Computer & Electronics Hub</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamlining-tasks-using-chatgpt-features-within-onlyoffices-virtual-workspace/"><u>Streamlining Tasks Using ChatGPT Features Within ONLYOFFICE's Virtual Workspace</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-the-power-of-technology-the-ultimate-guide-to-toms-hardware-selection/"><u>Unlock the Power of Technology: The Ultimate Guide to Tom's Hardware Selection</u></a></li>
+</ul></div>
+

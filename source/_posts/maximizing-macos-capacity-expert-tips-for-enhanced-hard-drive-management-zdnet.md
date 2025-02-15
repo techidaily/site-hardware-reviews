@@ -1,7 +1,7 @@
 ---
 title: "Maximizing MacOS Capacity: Expert Tips for Enhanced Hard Drive Management | ZDNet"
-date: 2025-01-05T18:03:27.600Z
-updated: 2025-01-13T01:18:56.607Z
+date: 2025-01-26T22:17:14.773Z
+updated: 2025-02-03T05:04:57.480Z
 tags:
   - laptops
 categories:
@@ -49,7 +49,7 @@ Let me show you how to enable the Optimize Storage feature on your MacOS device.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Optimize Storage
@@ -57,7 +57,7 @@ Let me show you how to enable the Optimize Storage feature on your MacOS device.
 **What you'll need:** The only thing you'll need for this is a device running MacOS. I'll demonstrate the process on a MacBook Pro, running MacOS Ventura 13.5.2\. Make sure your OS is updated so you have all the most recent security patches and any new features Apple has added.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open System Settings
@@ -73,7 +73,7 @@ To access System Settings, you can either go through this menu or open it from t
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open Storage settings
@@ -85,7 +85,7 @@ You'll see the General option in the left-side navigation.
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable Optimize Storage
@@ -134,21 +134,17 @@ And that's all there is to optimizing the storage of your MacOS device. If you p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-bypassing-youtube-previews-the-invisible-button-hack/"><u>[Updated] Bypassing YouTube Previews The Invisible Button Hack</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/canine-camera-club-multi-generational-playtime-watch/"><u>Canine Camera Club: Multi-Generational Playtime Watch</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/converti-file-vob-in-formato-jpeggratuito-online-movavi/"><u>Converti File VOB in Formato JPEGGratuito Online - Movavi</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-power-and-capabilities-of-the-new-asus-zenbook-s16-through-our-rigorous-testing-and-detailed-analysis-of-the-amd-ryzen-ai-9-hx-370-cpu/"><u>Discover the Power and Capabilities of the New Asus Zenbook S16 Through Our Rigorous Testing and Detailed Analysis of the AMD Ryzen AI 9 HX 370 CPU.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-top-pick-for-affordable-yet-powerful-gaming-laptops-up-to-1500/"><u>Discover the Top Pick for Affordable Yet Powerful Gaming Laptops Up To $1,500</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exclusive-offer-300-off-asus-rog-zephyrus-g14-for-gamers-features-oled-nvidia-rtx-graphics/"><u>Exclusive Offer: $300 Off Asus ROG Zephyrus G14 for Gamers - Features OLED, Nvidia RTX Graphics!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-with-the-affordable-lenovo-legion-slim-ebranded-as-a-high-quality-gaming-laptop-under-1100-on-newegg/"><u>Experience Next-Level Gaming with the Affordable Lenovo Legion Slim Ebranded as a High-Quality Gaming Laptop Under $1,100 on Newegg</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-the-cutting-edge-technology-of-asus-expertbook-p5-featuring-intels-next-level-lunar-lake-processors-for-ultimate-performance/"><u>Explore the Cutting-Edge Technology of ASUS ExpertBook P5 Featuring Intel’s Next-Level Lunar Lake Processors for Ultimate Performance</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-undetected-headphones-problems-for-playback-devices-in-windows-11/"><u>How to Resolve Undetected Headphones Problems for Playback Devices in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/leading-ultrabooks-and-luxury-laptop-picks-for-the-modern-tech-enthusiast/"><u>Leading Ultrabooks and Luxury Laptop Picks for the Modern Tech Enthusiast</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-toms-guide-to-choosing-and-reviewing-essential-tech-tools/"><u>Mastering Gadgets: Tom's Guide to Choosing and Reviewing Essential Tech Tools</u></a></li>
-<li><a href="https://article-helps.techidaily.com/next-gen-vr-engines-the-2023-rundown/"><u>Next-Gen VR Engines The 2023 Rundown</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/overcoming-activation-count-hit-maximum-your-essential-resetting-manual-for-effective-manycam-use/"><u>Overcoming 'Activation Count Hit Maximum': Your Essential Resetting Manual for Effective ManyCam Use</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-realme-c33-2023-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme C33 2023 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/que-es-el-formato-rapido-y-como-puede-destruir-tus-archivos-sin-querer-consejos-para-recuperar-los-datos-perdidos/"><u>¿Qué Es El Formato Rápido Y Cómo Puede Destruir Tus Archivos Sin Querer? Consejos Para Recuperar Los Datos Perdidos</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-a-comprehensive-look-at-lighting-your-youtube-videos-right/"><u>[New] A Comprehensive Look at Lighting Your YouTube Videos Right</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-social-synergy-connecting-the-two-giants/"><u>[Updated] Social Synergy Connecting the Two Giants</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/10-best-hash-monitoring-apps-for-major-social-platforms-fbtwitterinsta-for-2024/"><u>10 Best Hash Monitoring Apps for Major Social Platforms (FB/Twitter/Insta) for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209008590-connectivity-hacks-for-your-xbox-one-controller-overcoming-synchronization-challenges-easily/"><u>Connectivity Hacks for Your Xbox One Controller – Overcoming Synchronization Challenges Easily!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-tier-computer-parts-through-toms-hardware-breakdowns/"><u>Discover Top-Tier Computer Parts Through Tom's Hardware Breakdowns</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/discovering-the-top-10-video-calls-for-mobile-users-worldwide-for-2024/"><u>Discovering the Top 10 Video Calls for Mobile Users Worldwide for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/finding-your-ideal-video-capture-solution-bandicam-vs-camtasia/"><u>Finding Your Ideal Video Capture Solution Bandicam Vs Camtasia</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341707861-keychron-q1-he-unveiled-the-long-awaited-perfect-blend-of-speed-and-portability-for-your-wireless-needs/"><u>Keychron Q1 HE Unveiled: The Long-Awaited Perfect Blend of Speed and Portability for Your Wireless Needs!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-high-performance-systems-with-toms-hardware-tips/"><u>Navigating High-Performance Systems with Tom's Hardware Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-complete-guide-to-the-geekworm-x1011-nas-maker-inside-story-and-evaluation/"><u>The Complete Guide to the Geekworm X1011 NAS Maker: Inside Story and Evaluation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-reviews-and-guides/"><u>Tom's Tech Hub: Comprehensive Reviews and Guides</u></a></li>
 </ul></div>
 

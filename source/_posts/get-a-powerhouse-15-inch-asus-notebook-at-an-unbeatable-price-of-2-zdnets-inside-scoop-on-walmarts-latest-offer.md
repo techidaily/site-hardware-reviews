@@ -1,7 +1,7 @@
 ---
 title: Get a Powerhouse 15-Inch Asus Notebook at an Unbeatable Price of $2ˈ/ ZDNET's Inside Scoop on Walmart’s Latest Offer!
-date: 2025-01-27T17:04:33.259Z
-updated: 2025-02-01T17:34:58.258Z
+date: 2025-01-29T01:06:01.381Z
+updated: 2025-02-03T04:19:41.017Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,19 +63,15 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-10-free-and-paid-luts-for-canon-camera/"><u>[New] 10 Free & Paid LUTs for Canon Camera</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-affordable-mic-picks-for-aspiring-yt-bands/"><u>[Updated] In 2024, Affordable Mic Picks for Aspiring YT Bands</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rog-zephyrus-g14-rtx-4060-steals-show-with-a-sizzling-1099-offer-only-at-best-buy/"><u>Asus ROG Zephyrus G14 RTX 4060 Steals Show with a Sizzling $1,099 Offer Only at Best Buy</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-zenbook-s16-review-an-insightful-look-at-its-performance-powered-by-amd-ryzen-ai-9-hx-370/"><u>Asus Zenbook S16 Review: An Insightful Look at Its Performance Powered by AMD Ryzen AI 9 HX 370</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/benzalkonium-chloride-commonly-found-in-hand-sanitizers-its-a-quaternary-ammonium-compound-effective-against-bacteria-and-some-viruses-however-its-effective32/"><u>Benzalkonium Chloride - Commonly Found in Hand Sanitizers, It's a Quaternary Ammonium Compound Effective Against Bacteria and some Viruses. However, Its Effectiveness Can Be Reduced by Organic Matter Like Blood or Dirt.</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-down-windows-repair-tool-guide/"><u>Breaking Down Windows Repair Tool Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breakthrough-in-laptop-technology-the-worlds-first-thinkpad-p1-gen-7-with-advanced-lpcamm2-memory-uncompromising-speed-and-slim-profile-redefined/"><u>Breakthrough in Laptop Technology: The World's First ThinkPad P1 Gen 7 with Advanced LPCAMM2 Memory – Uncompromising Speed and Slim Profile Redefined</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-cutting-edge-laptop-performance-the-1100-honor-magicbook-art-n14-with-meteor-lake-cpu-and-removable-camera/"><u>Experience Cutting-Edge Laptop Performance: The $1,100 Honor MagicBook Art N14 with Meteor Lake CPU & Removable Camera</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/get-hd-quality-facebook-videos-on-pcmobile/"><u>Get HD Quality Facebook Videos on PC/Mobile</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/last-chance-score-amazing-savings-on-tvs-during-prime-day-find-your-perfect-offer-among-the-best-65-deals/"><u>Last Chance! Score Amazing Savings on TVs During Prime Day - Find Your Perfect Offer Among the Best 65 Deals</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-why-windows-11-isnt-displaying-your-wi-fi-options-and-what-to-do/"><u>Resolved: Why Windows 11 Isn't Displaying Your Wi-Fi Options and What To Do</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862736044-score-a-bargain-16-inch-macbook-pro-w-m3-chip-at-discounted-prices-pre-prime-day/"><u>Score a Bargain: 16-Inch MacBook Pro W/ M3 Chip at Discounted Prices Pre-Prime Day!</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unveiling-hdr-and-4k-perfection-with-asus-proart-monitor-for-2024/"><u>Unveiling HDR & 4K Perfection with ASUS ProArt Monitor for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-essential-tactics-for-viral-fb-video-marketing/"><u>[Updated] 2024 Approved Essential Tactics for Viral FB Video Marketing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-successful-steps-adding-your-dvd-collection-to-apple-tv-via-ripping/"><u>1. Successful Steps: Adding Your DVD Collection to Apple TV via Ripping</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-crownote-analysis-app-your-guide-to-portable-electrified-diy-projects/"><u>Compact CrowNote Analysis App: Your Guide to Portable Electrified DIY Projects</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-innovation-on-the-go-hackberry-pi-zero-empowers-hands-on-creators-in-a-pocket-sized-package/"><u>Compact Innovation on the Go - Hackberry Pi Zero Empowers Hands-On Creators in a Pocket-Sized Package</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-sunfounder-pironman-5-bicycle-assessment-necessity-of-precise-construction-steps/"><u>Comprehensive SunFounder Pironman 5 Bicycle Assessment: Necessity of Precise Construction Steps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-permission-fixes-resolve-access-denied-headaches-for-windows-files-and-folders/"><u>Mastering Permission Fixes: Resolve 'Access Denied' Headaches for Windows Files & Folders</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-honor-magic-6-pro-by-drfone-android/"><u>Three Ways to Sim Unlock Honor Magic 6 Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-raspberry-pi-offers-and-savings/"><u>Top Raspberry Pi Offers and Savings</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-13-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 13 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Value in Earphones - How These Cost-Effective Earbuds Surprised Us at ZDNET with Outstanding Clarity
-date: 2024-09-19 21:27:38
-updated: 2024-09-20 10:23:24
+date: 2025-01-31T01:21:12.545Z
+updated: 2025-02-02T20:29:50.018Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/a8607086b40608f1d2f389986c6b87a6b0
 ![Describe what's shown in the image.](https://www.zdnet.com/a/img/resize/5b5f7239c371510564e8cd35ab7c2bd9843fd93d/2024/09/10/3b3469b6-af0e-4455-bfd6-cdb4e31d759c/capsule3.jpg?auto=webp&width=1280)
 
 Full Name/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -41,6 +45,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The specs
 
 * Cowell MEMS top-firing speakers have a response time 150x faster than dynamic drivers
@@ -52,6 +60,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 * Battery - up to 6.5 hours of continuous play on a single charge and a total playtime of 43 hours (using the included charging case)
 * Single earbud weight - 5g
 * Waterproof rating - IPX4
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## My experience
 
@@ -88,6 +100,10 @@ These earbuds will impress you with both looks and sound.
 
 Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 It's getting harder and harder to tell the difference between expensive and inexpensive earbuds these days, and the [Soundpeats Capsule3 Pro+ earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSoundPEATS-Capsule3-Pro-Earbuds-Cancelling%2Fdp%2FB0D62Q8NYY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3e16fbf8-3608-4bd9-99f0-d7bb726df0ba%7Cdtp&dtb=1) prove that in a glorious soundscape fashion. Even without using an app to customize the sound, these babies are wonderfully tuned out of the box. 
@@ -115,11 +131,28 @@ If you're looking for a pair of sub-$100 dollar earbuds, and the quality of soun
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-flawless-illustration-from-photographs-cross-platform-compatibility/"><u>[New] Flawless Illustration From Photographs Cross-Platform Compatibility</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-imovie-why-does-it-alter-my-videos/"><u>[New] IMovie Why Does It Alter My Videos?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-academic-journey-across-time-top-10-history-youtubers/"><u>[Updated] Academic Journey Across Time Top 10 History YouTubers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-mastering-close-up-techniques-with-videoleap/"><u>[Updated] Mastering Close-Up Techniques with Videoleap</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/a-beginners-tutorial-on-securely-saving-kids-cartoons-from-youtube/"><u>A Beginner's Tutorial on Securely Saving Kids' Cartoons From YouTube</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/companion-planting/"><u>Companion Planting</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/damage-to-central-venous-lines/"><u>Damage to Central Venous Lines</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-apple-iphone-6s-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling Apple iPhone 6s Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-seamless-podcast-experience-for-iphone-users/"><u>In 2024, Seamless Podcast Experience for iPhone Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/performance-insights-on-pimoronis-nvme-based-dual-storage-solution-a-thorough-evaluation/"><u>Performance Insights on Pimoroni's NVMe-Based Dual Storage Solution: A Thorough Evaluation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-pimoroni-nvme-base-duo-solid-state-drive/"><u>The Ultimate Guide to the Pimoroni NVMe Base Duo Solid State Drive</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-pc-components-toms-hardware/"><u>The Ultimate Resource for PC Components: Tom's Hardware</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networking-platforms-facebook-twitter-instagram-and-youtube-unveiled/"><u>Top Social Networking Platforms: Facebook, Twitter, Instagram and Youtube Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/viewsonic-xg272-2k-oled-monitor-at-a-glance-a-vibrant-and-high-speed-choice-for-gamers/"><u>ViewSonic XG272-2k OLED Monitor at a Glance - A Vibrant and High-Speed Choice for Gamers</u></a></li>
+</ul></div>
+

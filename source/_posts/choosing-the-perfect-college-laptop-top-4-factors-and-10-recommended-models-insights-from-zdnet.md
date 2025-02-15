@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Perfect College Laptop: Top 4 Factors & 10 Recommended Models - Insights From ZDNet"
-date: 2025-01-10T02:49:27.721Z
-updated: 2025-01-12T20:59:40.431Z
+date: 2025-01-31T03:18:14.753Z
+updated: 2025-02-03T03:33:38.225Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Determine what you'll use your laptop for
@@ -57,6 +57,10 @@ Different areas of study can have vastly different requirements for your laptop.
 Trust me, the worst thing you could do is settle for a lower-end machine that struggles to keep up with an intense workload; it's just going to hold you back during crunch time or finals week, and dealing with tech issues is a huge bummer when it gets in the way of assignments. 
 
 It's also important to consider your degree program or area of study while selecting a laptop. Many institutions may list recommended laptop and hardware options, so be sure to check your university's online resources, connect with a department chair, or talk with other students in your area of study too. More often than not, specific programs like engineering or mathematics suggest [Windows PCs](https://www.zdnet.com/article/best-windows-laptop/) over [MacBooks](https://www.zdnet.com/article/best-mac/) due to the particular software and programming. At the same time, the laptop selection will matter less for other degrees. Regardless of which category you fall into, you'll still want to purchase a top-notch laptop equipped to get you through the next four years (and beyond).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Opt for a powerful GPU and display if you'll be studying:
 
@@ -76,7 +80,7 @@ It's also important to consider your degree program or area of study while selec
 * Anything else
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Assess your budget
@@ -96,7 +100,7 @@ Here's what kind of laptop you're likely to get based on its price:
 * **$2,000 and above:** This bracket includes high-end machines with state-of-the-art processors, GPUs, and expensive OLED screens.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Get your student discount
@@ -135,6 +139,10 @@ Would you like to be able to switch your laptop to a tablet? If so, you'll want 
 
 [Acer Aspire Go 15 $427 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09YFVNK2Q%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd1a3a087-b5bb-40c6-952a-bd6cc012174a%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## If you value portability
 
 If you're looking for a laptop that is above all else, light and easy to carry around, there are some great options out there that are defined by their portability. 
@@ -146,10 +154,6 @@ However, ultraportability does come with tradeoffs. In terms of design, the cons
 [Asus Vivobook S 15 $1,299 at Asus](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.asus.com%2Fus%2Flaptops%2Ffor-home%2Fvivobook%2Fasus-vivobook-s-15-s5507%2F)
 
 [LG Gram Pro 17 $2,500 at LG](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.lg.com%2Fus%2Flaptops%2Flg-17z90sp-e.adb9u1-gram-laptop)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## If you prioritize battery power
 
@@ -195,10 +199,6 @@ These are some additional factors that you might want to consider when shopping 
 * **Operating system:** In order to maximize compatibility, many institutions will elect to run either all Windows or all MacOS systems. If your college chooses to go for Macs, you'll just need to [decide whether you want a MacBook Pro or a MacBook Air](https://www.zdnet.com/article/macbook-air-vs-macbook-pro-how-to-decide/). Luckily, we've spent a lot of time breaking down the differences. If your college has chosen to use Windows laptops only, you'll have more options to sift through, but there's more room for personalization. Check out our list of [best Windows laptops](https://www.zdnet.com/article/best-windows-laptop/) for some additional options.
 * **Storage:** The amount of storage on your college laptop determines not only how much data your computer can hold but also how fast it can move. If you plan to use this laptop for all of your college classes, you will likely need a larger amount of storage if you plan to store all those papers and projects on the local drive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test laptops
 
 We use a combination of methods to test laptops here at ZDNET. First, we acquire data from benchmarking software to analyze a system's metrics under the hood, and compare those to advertised numbers. Then, we spend an extended amount of time with the laptop (usually a week or two) using it the same way a regular consumer would, in order to analyze its portability, form factor, and how well the battery _actually_ holds up, among others. For an extensive breakdown, check out our comprehensive [laptop testing methodology](https://www.zdnet.com/article/how-we-test-laptops/).
@@ -243,17 +243,22 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-instructions-for-googles-automatic-transcription-service/"><u>[Updated] Step-by-Step Instructions for Google's Automatic Transcription Service</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-iphone-guide-to-slow-motion-magic-for-2024/"><u>[Updated] The Ultimate iPhone Guide to Slow-Motion Magic for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862683628-exclusive-preview-dells-latest-tech-unleashed-xps-and-inspiron-laptops-powered-by-qualcomm-snapdragon-ready-for-q3-launch/"><u>Exclusive Preview: Dell's Latest Tech Unleashed – XPS and Inspiron Laptops Powered by Qualcomm Snapdragon Ready for Q3 Launch</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862669669-get-an-in-depth-performance-breakdown-of-the-cutting-edge-asus-zenbook-s16-with-amds-top-of-the-line-ryzen-ai-echnology-the-ryzen-ai-9-hx-370/"><u>Get an In-Depth Performance Breakdown of the Cutting-Edge Asus Zenbook S16 with AMD's Top-of-the-Line Ryzen AI Echnology: The Ryzen AI 9 HX 370</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-by-toms-computing-hub/"><u>In-Depth Analysis by Tom's Computing Hub</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/premium-tinker-bell-theme-wallpaper-packs-crystal-clear-hd-visuals-and-vibrant-imagery-by-yl-computing-solutions/"><u>Premium Tinker Bell Theme Wallpaper Packs: Crystal Clear HD Visuals and Vibrant Imagery by YL Computing Solutions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/secrets-to-mastering-chromebook-zoom-features-for-2024/"><u>Secrets to Mastering Chromebook Zoom Features for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-a-guide-to-correcting-dll-file-is-missing-issues/"><u>Solving the Mystery: A Guide to Correcting 'DLL File Is Missing' Issues</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unbeatable-deal-lenovo-legion-slim-5-with-rtx/"><u>Unbeatable Deal: Lenovo Legion Slim 5 with RTX</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-portable-power-save-up-to-300-on-an-hp-omen-equipped-with-rtx-and-dazzling-oled-panel/"><u>Unleash Portable Power: Save Up to $300 on an HP Omen, Equipped with RTX and Dazzling OLED Panel</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-microsoft-surface-pro-plus-a-visual-marvel-with-underwhelming-copilot-ai-capabilities/"><u>Unveiling the Microsoft Surface Pro Plus: A Visual Marvel with Underwhelming Copilot AI Capabilities</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-efficiently-integrating-snap-features-on-google-meet/"><u>[Updated] Efficiently Integrating Snap Features on Google Meet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nubia-z50s-pro-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Nubia Z50S Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-the-ultimate-review-of-the-id-cooling-frozn-a620-pro-ses-unparalleled-value-and-quality/"><u>Elevate Your Gaming Experience - The Ultimate Review of the ID-Cooling Frozn A620 Pro SE's Unparalleled Value and Quality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-of-the-asus-pro-b760m-ct-csm-motherboard-reviewed/"><u>Exploring the Features of the ASUS Pro B760M-CT CSM Motherboard - Reviewed</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-magic-6-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tips-for-effective-youtube-end-screen-usage/"><u>In 2024, Tips for Effective YouTube End Screen Usage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-review-of-grell-tws1x-wireless-earbuds-superior-sound-quality-hindered-by-poor-case-design-gizmoguru-analyses/"><u>In-Depth Review of Grell TWS1X Wireless Earbuds: Superior Sound Quality Hindered by Poor Case Design | GizmoGuru Analyses</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-and-green-gaming-memory-on-test-a-thorough-analysis-of-the-t-force-vulcan-by-teamgroup-c30-2x16gb/"><u>Innovative and Green Gaming Memory on Test - A Thorough Analysis of the T-Force Vulcan by TeamGroup (C30, 2X16GB)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341676801-is-the-asus-rog-keris-ii-ace-a-worthy-successor-to-the-legendary-ragedeathadder-v3-pro-full-review-inside/"><u>Is the Asus ROG Keris II Ace a Worthy Successor to the Legendary RageDeathAdder V3 Pro? Full Review Inside!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lofree-edge-evaluation-sleek-design-and-premium-cost-compared-to-apples-magic-keyboard/"><u>Lofree Edge Evaluation: Sleek Design & Premium Cost Compared to Apple's Magic Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/performance-analysis-and-gadget-testing-by-toms-hardware/"><u>Performance Analysis and Gadget Testing by Tom's Hardware</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-stuttering-and-lag-issues-in-the-pc-version-of-black-myth-wukong-game/"><u>Resolve Stuttering and Lag Issues in the PC Version of Black Myth Wukong Game</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-art-of-connectivity-and-intelligence-unveiling-the-samsung-ru80qxaa-series-television/"><u>The Art of Connectivity & Intelligence: Unveiling the Samsung RU80QXAA Series Television</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-editing-game-changer-fcps-best-10-plugins-for-2024/"><u>The Editing Game Changer FCP's Best 10 Plugins for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-mastering-the-raspberry-pi-ai-project-pack/"><u>The Ultimate Guide to Mastering the Raspberry Pi AI Project Pack</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-latest-hardware/"><u>Tom's Tech Review: Expert Insights on Latest Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-compatible-thunderbolt-drivers-download-and-enhance-your-pcs-performance/"><u>Windows Compatible Thunderbolt Drivers – Download and Enhance Your PC's Performance</u></a></li>
 </ul></div>
 
