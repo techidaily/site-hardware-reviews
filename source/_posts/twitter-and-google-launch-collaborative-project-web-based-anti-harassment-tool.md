@@ -1,7 +1,7 @@
 ---
 title: "Twitter & Google Launch Collaborative Project: Web-Based Anti-Harassment Tool"
-date: 2024-09-19 17:32:41
-updated: 2024-09-20 11:50:54
+date: 2025-02-26T17:01:27.419Z
+updated: 2025-03-04T19:57:13.917Z
 tags:
   - cyber-threats
 categories:
@@ -80,11 +80,29 @@ Georgiou added that they hope to inspire other stakeholders to address the issue
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook.techidaily.com/breaking-free-from-facebooks-grip-a-list-of-10-motivators-for-quitting/"><u>Breaking Free From Facebook's Grip: A List of 10 Motivators for Quitting</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/easy-steps-to-watch-flv-files-on-your-ios-device/"><u>Easy Steps to Watch FLV Files on Your iOS Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-compatibility-making-unsupported-iphone-accessories-work/"><u>Guide to Compatibility: Making Unsupported iPhone Accessories Work</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-detect-and-dislodge-suddenly-installed-rav-antivirus/"><u>How to Detect & Dislodge Suddenly Installed Rav Antivirus</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-through-the-latest-in-toms-electronics-gear/"><u>Navigating Through the Latest in Tom's Electronics Gear</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-system-track-ram-gpu-cpu-use-in-windows-11/"><u>Optimize Your System: Track RAM, GPU, CPU Use in Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/say-goodbye-to-wasted-space-clear-windows-temp-files/"><u>Say Goodbye to Wasted Space: Clear Windows Temp Files</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-jbl-clip-n-5-portable-speaker-showdown-is-it-really-the-best/"><u>Top Rated JBL Clip N 5 Portable Speaker Showdown: Is It Really The Best?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-reviews-for-the-ultimate-desk-illuminator-lume-cube-edge-light-20-a-game-changer-in-office-efficiency/"><u>Top Reviews for the Ultimate Desk Illuminator: Lume Cube Edge Light 2.0 – A Game Changer in Office Efficiency</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-restoring-your-apple-airpods-airpods-pro-and-airpods-max/"><u>Ultimate Guide: Restoring Your Apple AirPods, AirPods Pro, and AirPods Max</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-premium-ipad-air-add-ons-reviewed-and-rated/"><u>Ultimate Selection: Premium iPad Air Add-Ons Reviewed and Rated!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-shielding-solutions-expertly-selected-samsung-galaxy-z-flip-n-cases/"><u>Ultimate Shielding Solutions: Expertly Selected Samsung Galaxy Z Flip N Cases</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-phone-dimensions-the-essential-role-of-the-camera-bump-a-non-negotiable-feature/"><u>Understanding Phone Dimensions: The Essential Role of the Camera Bump - A Non-Negotiable Feature</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-wi-fi-7-features-and-benefits-is-it-worth-the-upgrade/"><u>Understanding Wi-Fi 7: Features & Benefits - Is It Worth the Upgrade?</u></a></li>
+</ul></div>
+

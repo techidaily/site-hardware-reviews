@@ -1,7 +1,7 @@
 ---
 title: "Emerging Risks in Cybersecurity: The Role of Generative AI, Based on Latest Finds by Google | ZDNet News"
-date: 2024-09-18 23:29:20
-updated: 2024-09-20 12:32:18
+date: 2025-02-27T20:06:51.036Z
+updated: 2025-03-04T16:44:56.367Z
 tags:
   - cyber-threats
 categories:
@@ -72,11 +72,28 @@ Some use cases of generative AI for defenders include leveraging it to synthesiz
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-ultimate-platform-youtube-audio-to-text/"><u>[New] 2024 Approved Ultimate Platform YouTube Audio-to-Text</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-leveraging-famebit-strategies-for-effective-youtube-sponsors/"><u>[Updated] Leveraging FameBit Strategies for Effective YouTube Sponsors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-videos-shared-directly-from-phones-for-2024/"><u>[Updated] Twitter Videos Shared Directly From Phones for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-hitch-youtube-sounds-into-imovie-tracks-swiftly/"><u>2024 Approved Hitch YouTube Sounds Into iMovie Tracks Swiftly</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-honor-90-lite-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/securing-your-lenovo-laptop-on-windows-11-two-effective-strategies/"><u>Securing Your Lenovo Laptop on Windows 11: Two Effective Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/top-free-tools-for-converting-mts-files-to-avi-on-windows/"><u>Top Free Tools for Converting MTS Files to AVI on Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transform-your-web-surfing-experience-easily-changing-to-a-new-browser-on-android-phones-and-tablets/"><u>Transform Your Web Surfing Experience: Easily Changing to a New Browser on Android Phones and Tablets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/troubleshooting-play-store-connectivity-issues-on-your-amazon-fire-device/"><u>Troubleshooting: Play Store Connectivity Issues on Your Amazon Fire Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-disabling-mobile-data-usage-for-specific-apps-on-android-devices/"><u>Ultimate Guide: Disabling Mobile Data Usage for Specific Apps on Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-apk-files-are-they-secure-for-downloads/"><u>Understanding APK Files: Are They Secure for Downloads?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-how-androids-healthconnect-function-enhances-wellness-management-worth-using-or-not/"><u>Understanding How Android's HealthConnect Function Enhances Wellness Management - Worth Using or Not?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/yahoo-messengers-legacy-explored-uncovering-its-history-and-closure/"><u>Yahoo! Messenger's Legacy Explored: Uncovering Its History and Closure</u></a></li>
+</ul></div>
+

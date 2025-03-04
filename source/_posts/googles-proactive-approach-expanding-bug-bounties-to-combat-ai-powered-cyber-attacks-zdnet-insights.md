@@ -1,7 +1,7 @@
 ---
 title: "Google's Proactive Approach: Expanding Bug Bounties to Combat AI-Powered Cyber Attacks | ZDNET Insights"
-date: 2024-09-18 10:20:48
-updated: 2024-09-20 11:44:44
+date: 2025-02-25T19:15:03.263Z
+updated: 2025-03-04T20:03:18.314Z
 tags:
   - cyber-threats
 categories:
@@ -71,11 +71,31 @@ Users who want to join Google's bug bounty program can submit a bug or security 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-elevate-your-media-creation-skills-with-windows-11-tips-for-2024/"><u>[Updated] Elevate Your Media Creation Skills with Windows 11 Tips for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-iphone-xeasy-simple-guide-to-screen-capture/"><u>[Updated] IPhone Xeasy Simple Guide to Screen Capture</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-download-smartly-secure-and-convert-vimeo-hd-videos-to-mp4/"><u>2024 Approved Download Smartly Secure and Convert Vimeo HD Videos to MP4</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-reviews-and-comparisons-by-toms-gear-experts/"><u>Advanced Reviews & Comparisons by Tom's Gear Experts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fusing-imagery-montage-mastery-essentials/"><u>Fusing Imagery Montage Mastery Essentials</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-pro-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Pro to Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-b-cut-scenarios-in-filmmaking/"><u>In 2024, Mastering B-Cut Scenarios in Filmmaking</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-textual-enhancements-in-visual-media/"><u>In 2024, Textual Enhancements in Visual Media</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-oppo-reno-11f-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Oppo Reno 11F 5G</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/is-the-asus-rog-keris-ii-ace-a-worthy-successor-to-the-legendary-ragedeathadder-v3-pro-full-review-inside/"><u>Is the Asus ROG Keris II Ace a Worthy Successor to the Legendary RageDeathAdder V3 Pro? Full Review Inside</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-selection-trustworthy-tips-from-toms-hardware-experts/"><u>Mastering Electronics Selection: Trustworthy Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-gen-processors-faceoff-the-ryzen-5-9600x-vs-ryzen-n-7-9700x-review-for-ultimate-gaming-experience-on-zen-5-architecture/"><u>Next-Gen Processors Faceoff: The Ryzen 5 9600X Vs. Ryzen N 7 9700X Review for Ultimate Gaming Experience on Zen 5 Architecture</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pnyrp60review-great-performance-or-just-good-enough-for-a-1tb-flash-drive/"><u>PNY_RP60_Review - Great Performance or Just Good Enough for a 1TB Flash Drive?</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-lava-yuva-3-pro-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solid-reliability-meets-space-saving-in-our-6tb-my-passport-review/"><u>Solid Reliability Meets Space Saving in Our 6TB My Passport Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-and-hardware-analysis/"><u>Tom's Tech Reviews: Comprehensive Insights and Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-tech-secrets-with-toms-hardware-insights/"><u>Unlocking Tech Secrets with Tom's Hardware Insights</u></a></li>
+</ul></div>
+

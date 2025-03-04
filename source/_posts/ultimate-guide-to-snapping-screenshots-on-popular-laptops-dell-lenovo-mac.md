@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Snapping Screenshots on Popular Laptops - Dell, Lenovo, Mac
-date: 2025-02-13T16:13:45.761Z
-updated: 2025-02-15T16:29:29.932Z
+date: 2025-02-27T19:55:13.667Z
+updated: 2025-03-04T16:39:51.688Z
 tags:
   - laptops
 categories:
@@ -26,23 +26,11 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to take screenshots on any laptop
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Screenshotting on Windows-based laptops
 
@@ -60,10 +48,6 @@ The button can be just about anywhere, so just look for something that looks as 
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Paste your screenshot
 
 Once you've captured your display, the easiest way to edit and save it is by pasting it into an image editing app. If you've got Photoshop, that'll work, but since most people don't have access to such pro software, a much easier, free option works, too: Microsoft Paint.
@@ -77,10 +61,6 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 Michael Gariffo/ZDNET
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
@@ -157,21 +137,20 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-perfecting-the-art-of-borders-in-instagram-photos/"><u>[Updated] In 2024, Perfecting the Art of Borders in Instagram Photos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mpc-hc-high-quality-audio-and-video/"><u>[Updated] MPC-HC High Quality Audio and Video</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-perfect-video-conferencing-the-essential-list-of-10-free-recorders/"><u>[Updated] Perfect Video Conferencing The Essential List of 10 Free Recorders</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-sever-ties-with-discord-network-for-2024/"><u>[Updated] Sever Ties With Discord Network for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-v30-lite-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo V30 Lite 5G without App | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/audio-matters-ensuring-excellent-sound-in-your-youtube-shots/"><u>Audio Matters Ensuring Excellent Sound in Your YouTube Shots</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-the-corsair-m75-mechanical-keyboard-with-bi-directional-buttons-reviewed/"><u>Comprehensive Evaluation of the Corsair M75 Mechanical Keyboard with Bi-Directional Buttons Reviewed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-fixing-and-repairing-unresponsive-headset-mics/"><u>Comprehensive Guide to Fixing and Repairing Unresponsive Headset Mics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-electronics-hub-in-depth-hardware-analysis-and-tips/"><u>Expert Insights From Tom's Electronics Hub - In-Depth Hardware Analysis & Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964502701-high-speed-savings-alert-secure-32gb-of-team-t-force-vulcan-ddr5-memory-6000-mhz-for-only-86-now/"><u>High-Speed Savings Alert: Secure 32GB of Team T-Force Vulcan DDR5 Memory (6000 MHz) For Only $86 Now!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/impending-price-surges-for-essential-computer-components-how-industry-wide-output-limits-affect-dram-and-nand-costs/"><u>Impending Price Surges for Essential Computer Components: How Industry-Wide Output Limits Affect DRAM and NAND Costs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964499541-include-at-least-three-rhetorical-questions-to-engage-the-audience/"><u>Include at Least Three Rhetorical Questions to Engage the Audience.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/latest-insights-into-12vhpwr-connection-issues-melting-reports-coming-from-psu-side/"><u>Latest Insights Into 12VHPWR Connection Issues - Melting Reports Coming From PSU Side</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728462000784-ssd/"><u>SSD驚喜回來了:硬碟分區修復技術教程</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/tom-hardware-hub-expert-guides-on-technology-and-gadgets/"><u>Tom Hardware Hub: Expert Guides on Technology and Gadgets</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/unveiling-the-financial-dynamics-of-youtube-shorts/"><u>Unveiling the Financial Dynamics of YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-detailed-insights-into-youtubes-monthly-income-model/"><u>[New] 2024 Approved Detailed Insights Into YouTube's Monthly Income Model</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-face-enhancement-integrating-motion-blur-in-photos-for-2024/"><u>[Updated] Face Enhancement Integrating Motion Blur in Photos for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/establishing-various-wi-fi-spots-in-macos-to-boost-flexibility-and-network-access-insights-from-mactechpros/"><u>Establishing Various Wi-Fi Spots in macOS to Boost Flexibility and Network Access | Insights From MacTechPros</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-changer-in-depth-analysis-and-testing-of-the-lightning-fast-logiteche-g-pro-x-2-keyboard-perfect-for-hardcore-players/"><u>Game Changer: In-Depth Analysis and Testing of the Lightning-Fast Logiteche G Pro X 2 Keyboard - Perfect for Hardcore Players</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973295338-get-your-latest-m-audio-fast-track-driver-for-win-117881-now/"><u>Get Your Latest M-Audio Fast Track Driver for Win 11/7/8/8.1 Now!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hc-wxf991-review-high-quality-sharp-video/"><u>HC-WXF991 Review: High-Quality Sharp Video</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-tech-with-tom-the-definitive-guide-to-computer-peripherals/"><u>Inside Tech with Tom: The Definitive Guide to Computer Peripherals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-high-tech-hardware-with-insights-from-toms-hub/"><u>Navigating High-Tech Hardware with Insights From Tom's Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sovol-sv0-user-how-does-the-sovol-sv08-pay-tribute-to-its-voron-heritage/"><u>Sovol SV0# User: How Does the Sovol SV08 Pay Tribute to Its Voron Heritage?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-full-periscope-capabilities-for-2024/"><u>Step-by-Step Guide to Full Periscope Capabilities for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-setting-up-and-running-stable-diffusion-for-ai-image-creation-on-your-computer/"><u>Step-by-Step Guide: Setting Up and Running Stable Diffusion for AI Image Creation on Your Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-action-plan-from-ttml-and-xml-to-srt-translation-for-2024/"><u>The Ultimate Action Plan From TTML & XML to SRT Translation for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-advisor-comprehensive-hardware-reviews/"><u>Tom's Tech Advisor: Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-your-ultimate-guide-to-computer-components/"><u>Tom's Tech Reviews: Your Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-gadgets-a-dive-into-toms-hardware-analyses/"><u>Unveiling Cutting-Edge Gadgets - A Dive Into Tom's Hardware Analyses</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Announces Strategic Move to Purchase International Cybersecurity Firm Miburo: A Game Changer in Threat Intelligence"
-date: 2024-09-18 16:25:47
-updated: 2024-09-20 11:48:28
+date: 2025-02-28T17:39:46.881Z
+updated: 2025-03-04T16:47:12.482Z
 tags:
   - cyber-threats
 categories:
@@ -46,11 +46,25 @@ Miburo is a leading expert in the identification of foreign information operatio
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-viral-videos-on-youtube-a-strategic-plan/"><u>[Updated] 2024 Approved Crafting Viral Videos on YouTube A Strategic Plan</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-little-wheels-whirlwind-games/"><u>[Updated] 2024 Approved Little Wheels Whirlwind Games</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-digital-content-showdown-audios-answer-to-visual-media-in-2024/"><u>[Updated] Digital Content Showdown Audio's Answer to Visual Media, In 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/0-ssd-controller-the-revolutionary-e29t/"><u>0 SSD Controller - The Revolutionary E29T</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/2024-school-starts-savings-exclusive-offers-on-educational-tech-for-the-upcoming-academic-year/"><u>2024 School Starts Savings! Exclusive Offers on Educational Tech for the Upcoming Academic Year</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964484111-dropped-to-a-bargain-the-elite-five-star-fractal-design-north-pc-chassis-for-only-109/"><u>Dropped to a Bargain - The Elite Five-Star Fractal Design North PC Chassis for Only $109!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-technology-with-toms-gadget-review-your-source-for-top-hardware-analysis/"><u>Exploring the Latest in Technology with Tom's Gadget Review: Your Source for Top Hardware Analysis</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-phantom-v-flip-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Phantom V Flip?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oppo-a1-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Oppo A1 5G Phones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-recommended-solid-state-drives-and-traditional-hdds-sales/"><u>Top Recommended Solid State Drives & Traditional HDDs Sales</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-know-how-pinpointing-exact-ram-type/"><u>Windows Know-How: Pinpointing Exact RAM Type</u></a></li>
+</ul></div>
+

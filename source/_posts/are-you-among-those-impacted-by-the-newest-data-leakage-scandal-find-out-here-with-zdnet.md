@@ -1,7 +1,7 @@
 ---
 title: Are You Among Those Impacted by the Newest Data Leakage Scandal? Find Out Here with ZDNET
-date: 2024-09-19 14:54:44
-updated: 2024-09-20 10:13:40
+date: 2025-02-25T17:33:24.386Z
+updated: 2025-03-04T19:32:50.577Z
 tags:
   - cyber-threats
 categories:
@@ -230,11 +230,28 @@ Unfortunately, it is up to individuals to deal with the fallout; knowing you've 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-mastering-high-dynamic-range-effects-in-adobes-realm/"><u>[New] Mastering High Dynamic Range Effects in Adobe's Realm</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-windows-pc-bring-out-the-best-in-your-videos/"><u>[Updated] In 2024, Windows PC Bring Out the Best in Your Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-leading-video-cameras-of-2024-reviewed-and-rated/"><u>[Updated] Leading Video Cameras of 2024 Reviewed & Rated</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/10-essential-google-chat-tools-every-user-needs-to-know/"><u>10 Essential Google Chat Tools Every User Needs to Know</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-diy-tips-for-crafting-your-own-iphone-tones/"><u>2024 Approved DIY Tips for Crafting Your Own iPhone Tones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/automating-your-samsung-galaxy-mastering-the-power-of-modes-and-routines/"><u>Automating Your Samsung Galaxy: Mastering the Power of Modes & Routines</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/can-others-replicate-apples-success-with-modular-accessory-technology/"><u>Can Others Replicate Apple's Success with Modular Accessory Technology?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/choosing-your-perfect-smartphone-a-comparison-between-samsung-galaxy-and-google-pixel/"><u>Choosing Your Perfect Smartphone: A Comparison Between Samsung Galaxy and Google Pixel</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/comparative-analysis-64-vs-128gb-video-holding-power/"><u>Comparative Analysis 64 vs 128GB Video Holding Power</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-spark-20c-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Spark 20C Phone?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-elite-visualization-suite-for-win-11-users/"><u>In 2024, Elite Visualization Suite for Win 11 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-editing-with-vita-a-complete-review/"><u>In 2024, The Future of Editing with Vita - A Complete Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-instagram-video-edits-ultimate-tutorial-guide-for-2024/"><u>Mastering Instagram Video Edits Ultimate Tutorial Guide for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-secrets-of-android-privacy-monitoring-app-access-to-your-clipboard/"><u>Unlocking the Secrets of Android Privacy: Monitoring App Access to Your Clipboard</u></a></li>
+</ul></div>
+

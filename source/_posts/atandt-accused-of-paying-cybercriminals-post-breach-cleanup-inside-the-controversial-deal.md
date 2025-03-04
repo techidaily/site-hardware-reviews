@@ -1,7 +1,7 @@
 ---
 title: "AT&T Accused of Paying Cybercriminals Post-Breach Cleanup: Inside the Controversial Deal"
-date: 2024-09-18 13:21:29
-updated: 2024-09-20 10:49:14
+date: 2025-03-03T16:33:58.289Z
+updated: 2025-03-04T17:14:24.369Z
 tags:
   - cyber-threats
 categories:
@@ -69,11 +69,29 @@ If you're considering switching to an encrypted texting app, here's [a look at o
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-which-ios-app-crushes-in-video-editing-cameo-or-filmorago/"><u>[New] In 2024, Which iOS App Crushes in Video Editing? Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/top-unsolicited-youtube-suggestion-rollouts/"><u>[New] Stop Unsolicited YouTube Suggestion Rollouts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beyond-visual-tricks-deciphering-ar-tech/"><u>[Updated] Beyond Visual Tricks Deciphering AR Tech</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-charting-success-navigating-youtube-statistics-with-social-blade-for-2024/"><u>[Updated] Charting Success Navigating YouTube Statistics with Social Blade for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/249-for-a-premium-34-inch-asus-tuf-curved-gaming-screen-shop-now-on-amazon/"><u>$249 for a Premium 34-Inch Asus TUF Curved Gaming Screen - Shop Now on Amazon</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/ai-abbyy/"><u>AI搭載領収書自動処理技術 ABBYYで体験</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/analyst-forecast-oled-display-market-surges-with-over-134m-units-projected-for-yearly-delivery/"><u>Analyst Forecast: OLED Display Market Surges with Over 1.34M Units Projected for Yearly Delivery</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-swift-oled-pg32ucdp-review-a-revolutionary-approach-towards-perfection-in-gaming-displays/"><u>Asus ROG Swift OLED (PG32UCDP) Review - A Revolutionary Approach Towards Perfection in Gaming Displays</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-high-resolution-4k-screens-top-choices/"><u>Budget-Friendly High-Resolution 4K Screens: Top Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-computer-news-and-reviews-by-team-toms-hardware/"><u>Cutting-Edge Computer News & Reviews by Team Tom's Hardware</u></a></li>
+<li><a href="https://common-error.techidaily.com/darkened-panel-uncharted-issue/"><u>Darkened Panel: Uncharted Issue</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-with-tom-authoritative-hardware-insights/"><u>Decoding Tech with Tom: Authoritative Hardware Insights</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/enhance-your-images-with-professional-techniques/"><u>Enhance Your Images with Professional Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-s18-pro-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo S18 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-issue-audio-outputs-correctly-from-speaker-despite-headphones-being-connected/"><u>Resolved Issue: Audio Outputs Correctly From Speaker Despite Headphones Being Connected</u></a></li>
+</ul></div>
+

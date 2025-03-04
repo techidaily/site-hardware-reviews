@@ -1,7 +1,7 @@
 ---
 title: How Uber's Security Breach Ties to Black Hat Group Lapsus$, Involving Unauthorized Credential Buys From the Hidden Web | Tech News Breakdown
-date: 2024-09-18 14:47:38
-updated: 2024-09-20 11:57:27
+date: 2025-03-02T19:47:41.318Z
+updated: 2025-03-04T17:40:50.244Z
 tags:
   - cyber-threats
 categories:
@@ -63,11 +63,23 @@ After that, Uber said, the hacker repeatedly tried to log in to the contractor's
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-delving-into-how-t-series-earnings-work-on-youtube/"><u>[Updated] 2024 Approved Delving Into How T-Series Earnings Work on Youtube</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparing-mobile-platforms-evaluating-the-performance-of-android-tablets-vs-ipads/"><u>Comparing Mobile Platforms: Evaluating the Performance of Android Tablets Vs. IPads</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/complete-walkthrough-changing-the-built-in-browser-in-your-android-device/"><u>Complete Walkthrough: Changing the Built-In Browser in Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-top-10-essential-gboard-functions-for-enhanced-typing-on-android-devices/"><u>Discover the Top 10 Essential Gboard Functions for Enhanced Typing on Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/easy-steps-to-customize-languages-for-specific-apps-on-your-android-device/"><u>Easy Steps to Customize Languages for Specific Apps on Your Android Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-printer-error-due-to-active-directory-halt/"><u>Fixed: Printer Error Due to Active Directory Halt</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-bios-configuration-using-the-powerful-features-of-revo-uninstaller/"><u>Mastering BIOS Configuration Using the Powerful Features of Revo Uninstaller</u></a></li>
+<li><a href="https://win-premium.techidaily.com/tutorial-efectivo-hacer-una-copia-de-seguridad-total-de-sus-correos-electronicos-de-outlook-con-archivos-adheridos/"><u>Tutorial Efectivo: Hacer Una Copia De Seguridad Total De Sus Correos Electrónicos De Outlook Con Archivos Adheridos</u></a></li>
+</ul></div>
+

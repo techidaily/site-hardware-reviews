@@ -1,7 +1,7 @@
 ---
 title: "Combatting Online Abuse: The Joint Venture Between Twitter and Google's New Open Source Application"
-date: 2024-09-18 14:57:58
-updated: 2024-09-20 12:23:20
+date: 2025-02-25T18:40:54.394Z
+updated: 2025-03-04T16:57:01.492Z
 tags:
   - cyber-threats
 categories:
@@ -80,11 +80,24 @@ Georgiou added that they hope to inspire other stakeholders to address the issue
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/tep-toward-balance-best-yoga-series-to-watch-and-learn-from/"><u>[New] Step Toward Balance Best Yoga Series to Watch and Learn From</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-top-25-mobile-editors-for-dji-filmmaking-for-2024/"><u>[New] The Top 25 Mobile Editors for DJi Filmmaking for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-iphone-macro-mastery-tips-for-clear-detail-focused-photos-for-2024/"><u>[Updated] IPhone Macro Mastery Tips for Clear, Detail-Focused Photos for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-asus-rog-azoth-gaming-laptop-extreme-evaluation-500-price-point/"><u>Comprehensive Asus ROG Azoth Gaming Laptop (Extreme) Evaluation - $500 Price Point</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-from-tomhardwareexperts-mastering-tech-and-gadget-performance/"><u>Expert Advice From TomHardwareExperts: Mastering Tech and Gadget Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-modern-gear-from-your-go-to-source-toms-hardware/"><u>Expert Advice on Modern Gear From Your Go-To Source, Tom's Hardware</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-audiovisual-success-recording-gotomeetings-easily/"><u>In 2024, Audiovisual Success Recording GoToMeetings Easily</u></a></li>
+<li><a href="https://techidaily.com/is-your-oneplus-open-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your OnePlus Open working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-free-ai-art-creation-tools/"><u>Top 5 Free AI Art Creation Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-pros-and-cons-of-hostgators-vps-and-shared-hosting-services/"><u>Unveiling the Pros and Cons of HostGator's VPS and Shared Hosting Services</u></a></li>
+</ul></div>
+

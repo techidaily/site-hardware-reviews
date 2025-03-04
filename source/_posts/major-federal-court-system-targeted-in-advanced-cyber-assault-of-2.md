@@ -1,7 +1,7 @@
 ---
 title: Major Federal Court System Targeted in Advanced Cyber Assault of 2#
-date: 2024-09-17 22:32:28
-updated: 2024-09-20 12:59:15
+date: 2025-02-25T21:06:10.336Z
+updated: 2025-03-04T18:59:04.825Z
 tags:
   - cyber-threats
 categories:
@@ -66,11 +66,31 @@ The massive, [Kremlin-backed](https://www.zdnet.com/article/solarwinds-us-and-uk
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-premier-8-webcams-to-elevate-your-livestreams/"><u>[Updated] Premier 8 Webcams to Elevate Your Livestreams</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-lava-blaze-2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Lava Blaze 2 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-samsung-galaxy-a20-budget-friendly-powerhouse-or-just-decent/"><u>Analyzing the Samsung Galaxy A20 - Budget-Friendly Powerhouse or Just Decent?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/practices-in-confirming-your-youtube-access/"><u>Best Practices in Confirming Your YouTube Access</u></a></li>
+<li><a href="https://article-tips.techidaily.com/blending-iphone-videos-a-simple-guide/"><u>Blending iPhone Videos A Simple Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-tecno-spark-10-4g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Tecno Spark 10 4G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-new-tech-horizons-with-thorough-analysis-by-toms-hardware/"><u>Navigate New Tech Horizons with Thorough Analysis by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-pc-hardware-with-toms-authoritative-articles/"><u>Navigating the Latest PC Hardware with Tom's Authoritative Articles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-wisdom/"><u>Navigating the World of Technology with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-level-gameplay-a-comprehensive-review-of-the-alienware-aw2n5df-360hz-gaming-monitor-with-breathtaking-oled-technology/"><u>Next-Level Gameplay: A Comprehensive Review of the Alienware AW2n5DF 360Hz Gaming Monitor with Breathtaking OLED Technology</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/obs-studio-explained-capturing-ps4-playthroughs/"><u>OBS Studio Explained Capturing PS4 Playthroughs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-gadget-analysis-with-toms-hardware-experts/"><u>Pioneering Gadget Analysis with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-ancient-crt-tech-achieves-record-breaking-700hz-sacrifices-full-1280x1024-resolution/"><u>Revolutionary Ancient CRT Tech Achieves Record-Breaking 700Hz, Sacrifices Full 1280X1024 Resolution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-multi-user-interactions-jdis-two-view-displays-with-dual-touch-capability/"><u>Revolutionizing Multi-User Interactions: JDI's Two View Displays with Dual Touch Capability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/samsungs-odyssey-g9-the-epic-49-oled-curved-screen-now-at-record-lows/"><u>Samsung's Odyssey G9: The Epic 49 OLED Curved Screen Now at Record Lows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/uncover-the-secret-to-extra-instagram-filters-for-zero-cost-for-2024/"><u>Uncover the Secret to Extra Instagram Filters for Zero Cost for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo Y36i | Dr.fone</u></a></li>
+</ul></div>
+

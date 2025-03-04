@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity Agency Commits to Enhanced Information Exchange with FBI Amidst DOJ Resistance; Bipartisan Bill Impacts Debated | ZDNet
-date: 2024-09-18 10:32:50
-updated: 2024-09-20 10:32:23
+date: 2025-02-28T17:15:38.497Z
+updated: 2025-03-04T19:53:05.750Z
 tags:
   - cyber-threats
 categories:
@@ -67,11 +67,28 @@ Rep. Jim Langevin, the co-chair of the Cybersecurity Caucus, said getting incide
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-zerocomplicationlivecast-your-simple-pathway-to-livestreaming-a-podcast/"><u>[New] 2024 Approved ZeroComplicationLivecast Your Simple Pathway to Livestreaming a Podcast</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-taking-your-content-public-steps-for-live-streaming/"><u>[New] Taking Your Content Public Steps for Live Streaming</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/antecs-p20c-high-airflow-chassis-now-at-a-steal-unbeatable-71-deal-on-top-tier-cases/"><u>Antec's P20C High-Airflow Chassis Now at a Steal: Unbeatable $71 Deal on Top-Tier Cases</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-eero-pro-mesh-network-router-assessment-ideal-choice-for-whole-house-connectivity/"><u>Comprehensive Eero Pro Mesh Network Router Assessment – Ideal Choice For Whole House Connectivity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-fidelity-transformation-choosing-the-best-video-converters/"><u>High Fidelity Transformation Choosing the Best Video Converters</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-easily-repair-google-hangouts-microphone-malfunctions/"><u>How to Easily Repair Google Hangouts Microphone Malfunctions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-vivo-t2x-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Vivo T2x 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-lava-blaze-2-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Blaze 2 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-art-of-accompanying-visual-content-with-music/"><u>In 2024, The Art of Accompanying Visual Content with Music</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-electronics-hub-unveiling-cutting-edge-computer-gear-and-accessories/"><u>Inside Tom's Electronics Hub: Unveiling Cutting-Edge Computer Gear and Accessories</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-new-deepcool-mini-itx-pc-chassis-equipped-with-a-convenient-handling-loop-and-extensive-ventilation/"><u>Introducing the New DeepCool Mini-ITX PC Chassis: Equipped with a Convenient Handling Loop and Extensive Ventilation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gaming-rigs-with-the-durable-high-capacity-cooler-master-ncore-100-max-standalone-chassis/"><u>Mastering Gaming Rigs with the Durable, High-Capacity Cooler Master NCore 100 Max Standalone Chassis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneer-in-pc-analysis-unlocking-performance-with-toms-gear-reviews/"><u>Pioneer in PC Analysis - Unlocking Performance with Tom's Gear Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-choices-for-tiny-tower-tech-expert-recommendations-on-slim-case-selections/"><u>Top Choices for Tiny Tower Tech : Expert Recommendations on Slim Case Selections</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Unmissable Savings: Top 40 Active Costco Cyber Week Deals on Electronics Including Televisions and Computers – Shop Now!"
-date: 2025-02-14T16:29:42.847Z
-updated: 2025-02-15T16:31:51.109Z
+date: 2025-03-03T19:22:40.301Z
+updated: 2025-03-04T17:05:44.903Z
 tags:
   - laptops
 categories:
@@ -29,10 +29,6 @@ Keep in mind that you can only access these online deals and Costco's warehouse 
 * [Gold Star Members:](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/QuickMembershipApplicationView?catalogId=10701&langId=-1&storeId=10301&krypto=gfBAcwlW5XGaTu4MSo4kHXcIuBWfwIW6hToJURA1XLd4PoCsnroNXsBArenTZj6Qoy0e5hePJWyMu%2BXdDxt8mhS4t0sd9viyhjMEl%2FqXKv44SrdQDuZ6JdpluZDKiye8KhHVtzu4r1e2F9I9nzl6IVTvd8xc%2FWorB9E%2FH3gS6GO8R9OEKbmBQHsUvY9778ZdN5SmobCca5iIlwhAjkXA7dX37HmdMY0nWHmz%2FmU13gUuZ6WMC84SugcgviT28OyqJwjg6RpcvmnHVc51VAYPO57hhnTjnZ7eVtHbiEbXOlE%3D&ddkey=http%3AManageShoppingCartCmd?tag=zd-buy-button-20) $60 annual fee, valid at all Costco locations worldwide
 * [Business Members:](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/QuickMembershipApplicationView?catalogId=10701&langId=-1&storeId=10301&krypto=iSw8rvA%2BO68vwnffUq1fw6118Kv9v01BPPmnZMVK09G6tkaXWLcXEpSvkfbRQt5S31%2BwhQB31Mo54J428MsW2d61FqdxYj1Dz2ADTIscn7nRpSybZUryOHDKhcl6nOzlI6KqL%2BRpNphso7YD5rI76HsHHKviRtf34siQWdZ%2Bp61nY1m4YmQygRB7ia7M5pe1j6gUtdg3gsArTPRP88aPWuW7sf813GPLb1VIm9iUUyFM4o5jJgdYMnHNx7NQCulnwRw95Sdcs33%2Fi6zDq4QhOLf9IUtzaS%2FgXdlANVw%2FVlY%3D&ddkey=http%3AManageShoppingCartCmd) $60 annual fee, valid at all Costco locations worldwide, purchase for resale
 * [Executive Members:](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/QuickMembershipApplicationView?catalogId=10701&langId=-1&storeId=10301&krypto=h1OXv6tU3UkMLZWjDFxv%2FQCkaCGx65GC4BFsg8cXQfxkOkvgo6ALO%2Bl6ejb71sRxEBtFqB1SJq%2F1gW68DYBbGEzOo84201p4iK0Cyq%2FU3NaO%2BI0oWIsB%2B2v2xwjhURsu8Y0R2K685otVKnbYQ6fcPQNT%2FY1UhiqNBzuKDHglFjo7zSgvD8Yh6M%2F5J0XOECfkfaKZ%2FUphCOFrecBhX%2FrYipxztA0naD%2FeVuf9ykUqYl6grkgrx93XzMWi7Qs238bZK%2BgNSeyxdXBi0r18zamgB%2BAkpSuQQlNza4qXd3eJk7Q%3D&ddkey=http%3AManageShoppingCartCmd) $120 annual fee, valid at all Costco locations worldwide, annual 2% cash back on Costco purchases
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Latest Costco Cyber Monday deals still available**
 
@@ -99,19 +95,11 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-65%22-class---qn850bf-series---8k-uhd-neo-qled-lcd-tv---allstate-3-year-protection-plan-bundle-included-for-5-years-of-total-coverage%2A.product.100973437.html) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Costco Cyber Monday TV deals still available**
 
 [LG 77-inch Class B2 Series 4K OLED TV for $2,000 (Save $300) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/lg-77%22-class---oled-b2-series----4k-uhd-oled-tv---allstate-3-year-protection-plan-bundle-included-for-5-years-of-total-coverage%2A.product.100979801.html)
 
 [Samsung 55-inch OLED S95B Series 4K TV for $1,700 (save $450) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-55%22-class---oled-s95b-series---4k-uhd-tv---allstate-3-year-protection-plan-bundle-included-for-5-years-of-total-coverage%2A.product.4000045530.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Costco Cyber Monday laptop & computer deals still available**
 
@@ -121,10 +109,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Acer Swift Edge 16" 4K OLED Laptop for $1,000 (Save $500) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/acer-swift-edge-16%22-4k-oled-laptop---amd-ryzen-7-6800u---windows-11.product.4000056371.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Costco Cyber Monday gaming deals still available**
 
 [HP Victus gaming desktop Radeon RX 6600XT for $700 (Save $300) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/hp-victus-gaming-desktop---amd-ryzen-7-5700g---radeon-rx-6600xt.product.4000056482.html)
@@ -132,10 +116,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 [Xbox Series S Console for $240 (Save $60) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/xbox-series-s-console.product.4000064893.html)
 
 [MSI Aegis RS Gaming Desktop for $3,600 (Save $400) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/msi-aegis-rs-gaming-desktop---intel-core-i9-12900kf----geforce-rtx-3080ti.product.100847630.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Costco Cyber Monday streaming device deals still available**
 
@@ -198,10 +178,6 @@ Here's how the different memberships stack up:
 | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Purchase for resale                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Annual 2% cash back on qualified Costco purchases                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Additional benefits for Travel and Costco services                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What were Costco's holiday hours during Black Friday and Cyber Monday?
 
 The Costco warehouses closed for Thanksgiving, but the retailer did have some exclusive deals through the online store. 
@@ -209,10 +185,6 @@ The Costco warehouses closed for Thanksgiving, but the retailer did have some ex
 Costco opened at 9:00 am on Black Friday, November 25, 2022\. 
 
 Though most warehouses open at 10:00am Monday through Friday, Cyber Monday deals at Costco were online-only, as is the tradition for the Cyber Monday sale.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When was Cyber Monday 2022?
 
@@ -229,10 +201,6 @@ ZDNET scoured holiday sales to find the best deals this year:
 * [The best holiday 2022 deals](https://www.zdnet.com/article/best-early-black-friday-deals-amazon-walmart-best-buy-and-more/)
 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Holiday deals by retailer**
 
@@ -324,21 +292,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-audioinsight-dacast-and-its-rivals/"><u>[New] 2024 Approved AudioInsight DaCast & Its Rivals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-text-techniques-top-10-video-enhancers/"><u>[New] Text Techniques Top 10 Video Enhancers</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-breaking-the-internet-hashtag-wisdom-for-short-films/"><u>[Updated] Breaking the Internet Hashtag Wisdom for Short Films</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-ensuring-longevity-for-androidmac-snapshots/"><u>[Updated] Ensuring Longevity for Android/Mac Snapshots</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-social-media-food-frenzy-10-hits-for-2024/"><u>[Updated] Social Media Food Frenzy 10 Hits for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/3-windows-11/"><u>3つの新しい手順で Windows 11 におけるシステムイメージのバックアップと復元</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/global-linguistic-impacts-anglicized-lexicon-adaptations/"><u>Global Linguistic Impacts: Anglicized Lexicon Adaptations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/guide-disabling-intrusive-notification-alerts-on-android-devices/"><u>Guide: Disabling Intrusive Notification Alerts on Android Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-y36i-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo Y36i FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/limited-time-tech-offers-get-the-new-pixel-8-pro-and-other-high-value-deals-now/"><u>Limited-Time Tech Offers: Get the New Pixel 8 Pro & Other High-Value Deals Now!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-android-security-a-guide-to-activating-and-utilizing-lockdown-mode/"><u>Mastering Android Security: A Guide to Activating and Utilizing Lockdown Mode</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-file-management-on-android-a-comprehensive-guide/"><u>Mastering File Management on Android: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-security-a-comprehensive-tutorial-on-utilizing-googles-password-manager-for-android-devices/"><u>Mastering Mobile Security: A Comprehensive Tutorial on Utilizing Google's Password Manager for Android Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/one-finger-technique-revealed-expanding-your-view-on-google-maps-made-easy/"><u>One-Finger Technique Revealed: Expanding Your View on Google Maps Made Easy!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/optimal-android-launcher-experience-on-large-smartphones-why-niagara-excels/"><u>Optimal Android Launcher Experience on Large Smartphones: Why Niagara Excels</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-what-to-do-when-dnssddll-is-missing/"><u>Troubleshooting: What To Do When dnssd.dll Is Missing?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-navigating-metaverse-self-representation-a-step-by-step-manual/"><u>[New] 2024 Approved Navigating Metaverse Self-Representation A Step-by-Step Manual</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-behind-the-curtain-detailed-guide-to-import-tasks-w11/"><u>[Updated] 2024 Approved Behind the Curtain Detailed Guide to Import Tasks W11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341676604-adherence-to-prescribed-medications-such-as-antibiotics-and-anti-inflammatory-eye-drops-is-essential-to-prevent-complications/"><u>Adherence to Prescribed Medications, Such as Antibiotics and Anti-Inflammatory Eye Drops, Is Essential to Prevent Complications.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-kingston-fury-ddr5-6000-c40-with-dual-channels-a-thorough-review-of-its-capable-execution/"><u>Comprehensive Kingston Fury DDR5-6000 C40 with Dual Channels: A Thorough Review of Its Capable Execution</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-guide-brother-l2700dw-printing-software-for-microsoft-windows/"><u>Easy Installation Guide: Brother L2700DW Printing Software for Microsoft Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-on-how-to-determine-your-cars-anti-theft-radio-code/"><u>Expert Tips on How to Determine Your Car's Anti-Theft Radio Code</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-motorola-razr-40-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Motorola Razr 40</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-top-10-free-web-based-video-chatting-tools/"><u>In 2024, Top 10 Free Web-Based Video Chatting Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-electronic-analysis-by-the-pros-at-toms-hardware-review/"><u>In-Depth Electronic Analysis by the Pros at Tom's Hardware Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723807986862-kodi-superrepo-install-superrepo-on-kodi-step-by-step/"><u>Kodi SuperRepo - Install SuperRepo on Kodi Step by Step</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-game-field-with-the-aorus-fo32u2p-an-oled-gaming-monitor-that-redefines-luxury-and-speed-at-240hz-and-4k-resolution/"><u>Mastering the Game Field with the Aorus FO32U2P - An OLED Gaming Monitor That Redefines Luxury and Speed at 240Hz & 4K Resolution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nzxt-h7-flow-critique-ensuring-a-protected-experience/"><u>NZXT H7 Flow Critique: Ensuring a Protected Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-analysis-by-tom-mastering-your-tech-choices/"><u>Pioneering Hardware Analysis by Tom - Mastering Your Tech Choices</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/the-ultimate-selection-of-instantaneous-backup-tools-for-windows-11-users/"><u>The Ultimate Selection of Instantaneous Backup Tools for Windows 11 Users</u></a></li>
 </ul></div>
 

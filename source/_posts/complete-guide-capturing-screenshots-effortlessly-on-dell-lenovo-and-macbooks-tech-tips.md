@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Capturing Screenshots Effortlessly on Dell, Lenovo & MacBooks | Tech Tips"
-date: 2025-02-14T17:00:49.681Z
-updated: 2025-02-15T17:20:11.716Z
+date: 2025-03-01T17:42:46.619Z
+updated: 2025-03-04T18:09:35.740Z
 tags:
   - laptops
 categories:
@@ -25,10 +25,6 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to take screenshots on any laptop
 
@@ -92,31 +88,15 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,17 +137,18 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-easy-efficient-and-essential-top-23-tools-to-downgrade-youtube-audios/"><u>[New] 2024 Approved Easy, Efficient, and Essential Top 23 Tools to Downgrade YouTube Audios</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/l-builder-kit/"><u>B-Roll Builder Kit</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/competing-with-giants-can-an-open-source-replacement-challenge-googles-photo-dominance/"><u>Competing with Giants: Can an Open Source Replacement Challenge Google's Photo Dominance?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/disabling-mobile-notifications-a-step-by-step-guide/"><u>Disabling Mobile Notifications: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/disastrous-moments-in-tech-the-top-seven-failures-on-tv-and-online/"><u>Disastrous Moments in Tech: The Top Seven Failures on TV and Online</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/effective-ways-to-prevent-unwanted-android-pop-up-notifications/"><u>Effective Ways to Prevent Unwanted Android Pop-Up Notifications</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elite-10-sound-enhancers-across-os-platforms/"><u>Elite 10 Sound Enhancers Across OS Platforms</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhanced-accessibility-real-time-transcription-feature-added-to-pixel-smartphone-calls/"><u>Enhanced Accessibility: Real-Time Transcription Feature Added to Pixel Smartphone Calls</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/improving-display-sync-with-revived-freesync-features/"><u>Improving Display Sync with Revived FreeSync Features</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-differences-ipad-air-versus-ipad-pro-making-the-right-pick/"><u>Navigating the Differences: IPad Air versus iPad Pro – Making the Right Pick</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/war-thunder-high-speed-mastery-the-ultimate-guide-to-fixing-low-fps-issues-top-2024-solutions/"><u>War Thunder High-Speed Mastery: The Ultimate Guide to Fixing Low FPS Issues (Top 2024 Solutions)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-creative-potential-with-our-customized-outro-scenes-free/"><u>[New] Unlock Creative Potential with Our Customized Outro Scenes (Free!)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-toggle-pip-for-streaming-youtube-videos-more-conveniently-with-iphone/"><u>2024 Approved Toggle PIP for Streaming Youtube Videos More Conveniently with iPhone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-maxsun-terminator-z790m-d5-ice-motherboard-evaluation-ultra-durable-white-matx-includes-five-m2-slots/"><u>Comprehensive Maxsun Terminator Z790M D5 Ice Motherboard Evaluation - Ultra Durable White MATX, Includes Five M.2 Slots</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-lenovo-yoga-pro-9i-examined-a-lean-laptop-with-a-satisfyingly-heavy-keyboard/"><u>Cutting-Edge Lenovo Yoga Pro 9I Examined: A Lean Laptop with a Satisfyingly Heavy Keyboard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-current-windows-password-error-in-win11win11/"><u>Eliminating Current Windows Password Error in Win11/Win11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-construct-a-windows-11-bootable-restore-usb-a-step-by-step-guide/"><u>How to Construct a Windows 11 Bootable Restore USB: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/htc-vive-headset-review-for-2024/"><u>HTC Vive Headset Review for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/poor-line-care/"><u>Poor Line Care</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-dell-xps-13-9n45-blending-classic-appeal-with-cutting-edge-snapdragon-x-elite-processing/"><u>Review of Dell XPS 13 (9N45): Blending Classic Appeal with Cutting-Edge Snapdragon X Elite Processing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-reducing-msmpengines-impact-on-your-pcn-windows-11-performance/"><u>Solution: Reducing MsMpEngine's Impact on Your PC'n Windows 11 Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-expert-reviews-and-buying-guides/"><u>Tom's Computer Components: Expert Reviews & Buying Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-insights-the-ultimate-tech-analysis/"><u>Tom's Hardware Insights: The Ultimate Tech Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

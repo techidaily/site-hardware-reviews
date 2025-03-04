@@ -1,7 +1,7 @@
 ---
 title: "Strategic Move: Microsoft Acquires Leading Global Threat Intelligence Provider Miburo, Expanding Cybersecurity Services | IT Insights"
-date: 2024-09-18 22:17:47
-updated: 2024-09-20 11:53:54
+date: 2025-03-02T18:11:43.065Z
+updated: 2025-03-04T17:25:56.908Z
 tags:
   - cyber-threats
 categories:
@@ -46,11 +46,25 @@ Miburo is a leading expert in the identification of foreign information operatio
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/updated-culinary-kings-and-queens-youtube-food-experts/"><u>[Updated] Culinary Kings & Queens YouTube Food Experts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-cooler-master-ion-360-all-in-one-liquid-cooling-system-progress-and-pitfalls/"><u>Comprehensive Analysis of the Cooler Master ION 360 All-In-One Liquid Cooling System: Progress and Pitfalls</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-steam-read-only-barrier-errors-in-windows-11/"><u>Eliminating Steam Read-Only Barrier Errors in Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-the-dough-spectrum-black-oled-gaming-display-27-masterpiece/"><u>Expert Analysis of the Dough Spectrum Black OLED Gaming Display - 27 Masterpiece</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-realme-v30-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Realme V30 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/microsoft-surface-pro-and-the-copilotplus-experience-gorgeous-hardware-yet-ai-innovations-leave-something-to-be-desired/"><u>Microsoft Surface Pro and the Copilot+ Experience: Gorgeous Hardware, Yet AI Innovations Leave Something to Be Desired</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-tips-and-reviews-on-computer-hardware-by-tom/"><u>Navigating New Tech: Tips and Reviews on Computer Hardware by Tom</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-best-free-video-trimming-software-online-top-10-picks-for-2024/"><u>New Best Free Video Trimming Software Online Top 10 Picks for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-from-silence-to-symphony-practical-steps-for-reducing-unintentional-auditory-background/"><u>Updated 2024 Approved From Silence to Symphony Practical Steps for Reducing Unintentional Auditory Background</u></a></li>
+<li><a href="https://win-premium.techidaily.com/wat-doen-als-je-efi-partitie-kapot-raakt-4-expertisevol-oplossinkjes/"><u>Wat Doen Als Je EFI-Partitie Kapot Raakt? 4 Expertisevol Oplossinkjes!</u></a></li>
+</ul></div>
+

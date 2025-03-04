@@ -1,7 +1,7 @@
 ---
 title: Cracking AI Security? Discover How Google's Elite Cybersecurity Squad Reveals Four Major AI Attack Strategies on ZDNet
-date: 2024-09-17 19:19:20
-updated: 2024-09-20 12:58:34
+date: 2025-03-03T21:07:11.648Z
+updated: 2025-03-04T19:42:09.416Z
 tags:
   - cyber-threats
 categories:
@@ -118,11 +118,28 @@ Fabian remains optimistic that the work his team is doing will favor the defende
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ideal-choices-the-best-9-gif-recorder-software-on-your-pc/"><u>[New] 2024 Approved Ideal Choices The Best 9 GIF Recorder Software on Your PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-proven-tactics-for-engaging-viewers-with-success-narratives-on-screen/"><u>[New] Proven Tactics for Engaging Viewers with Success Narratives on Screen</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-top-30-beginner-pro-facebook-strategies-for-boosting-sales/"><u>[Updated] In 2024, Top 30 Beginner-Pro Facebook Strategies for Boosting Sales</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-audio-alchemy-free-perfectly-crafted-dj-template-videos/"><u>2024 Approved Audio Alchemy Free, Perfectly Crafted DJ Template Videos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/delving-into-sonys-hdrcx405-hd-camcorder-features/"><u>Delving Into Sony's HDRCX405 HD Camcorder Features</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-samsung-galaxy-a23-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Samsung Galaxy A23 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-unveiling-windows-11-a-compreayer-to-master-video-editing-techniques/"><u>In 2024, Unveiling Windows 11 A Compreayer to Master Video Editing Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862867060-maxsun-debuts-backside-gpu-placement-on-their-latest-mini-itx-motherboard-a-game-changer/"><u>MaxSun Debuts Backside GPU Placement on Their Latest Mini-ITX Motherboard: A Game Changer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-through-technology-with-tom-the-hardware-guide/"><u>Navigate Through Technology with Tom: The Hardware Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-navigating-to-system-preferences/"><u>Step-by-Step Guide: Navigating to System Preferences</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-buyers-guide-to-electronics-expertise-from-toms-hardware/"><u>The Ultimate Buyer's Guide to Electronics: Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-gear-the-ultimate-guide/"><u>Tom's Computer Gear: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-insights-and-analysis-t17238628805655/"><u>Tom's Tech Reviews: In-Depth Insights and Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gigabytes-high-end-ice-sports-design-golden-socketed-intel-z790-aorus-xtreme-x-motherboard-featuring-colossal-m2-cooling/"><u>Unveiling Gigabyte's High-End Ice Sports Design: Golden Socketed Intel Z790 Aorus Xtreme X Motherboard Featuring Colossal M.2 Cooling</u></a></li>
+</ul></div>
+

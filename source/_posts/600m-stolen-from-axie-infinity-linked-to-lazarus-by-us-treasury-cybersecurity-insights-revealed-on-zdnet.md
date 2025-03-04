@@ -1,7 +1,7 @@
 ---
 title: "$600M Stolen From Axie Infinity Linked to Lazarus by US Treasury: Cybersecurity Insights Revealed on ZDNet"
-date: 2024-09-17 16:58:15
-updated: 2024-09-20 12:34:56
+date: 2025-02-27T19:53:33.220Z
+updated: 2025-03-04T17:10:37.452Z
 tags:
   - cyber-threats
 categories:
@@ -55,11 +55,24 @@ Lazarus is among the most prolific and sophisticated of the hacking groups with 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-financial-outcomes-dailymotion-versus-youtube-earning-potential/"><u>[Updated] 2024 Approved Financial Outcomes Dailymotion versus YouTube Earning Potential</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/10-popular-cartoon-characters-that-should-top-your-list/"><u>10 Popular Cartoon Characters That Should Top Your List</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/build-your-own-modular-itx-nas-computer-with-customizable-3d-printing/"><u>Build Your Own Modular ITX NAS Computer with Customizable 3D Printing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/crafting-your-pc-with-the-cooler-master-qube-n500-modular-tower-innovative-design-meets-potential-enhancements/"><u>Crafting Your PC with the Cooler Master Qube N500 Modular Tower: Innovative Design Meets Potential Enhancements</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-new-gadgets-with-toms-computing-hub/"><u>Expert Insights Into New Gadgets with Tom's Computing Hub</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-understanding-haul-content-production-and-post-production-techniques/"><u>In 2024, Understanding Haul Content Production & Post-Production Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964477913-lowest-price-on-pure-base-500dx-midi-tower-computer-case-just-84-available-now/"><u>Lowest Price on Pure Base 500DX Midi-Tower Computer Case: Just $84 Available Now!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-the-insider-features-of-zoom-software-for-windows-11/"><u>Navigating the Insider Features of Zoom Software for Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unlocking-the-potential-with-samsungs-latest-photo-editor-for-2024/"><u>Unlocking the Potential with Samsung's Latest Photo Editor for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-rndis-drivers-for-windows-complete-guide-and-downloads/"><u>Updated RNDIS Drivers for Windows: Complete Guide & Downloads</u></a></li>
+</ul></div>
+

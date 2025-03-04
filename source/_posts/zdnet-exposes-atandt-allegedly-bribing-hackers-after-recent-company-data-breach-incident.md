@@ -1,7 +1,7 @@
 ---
 title: ZDNet Exposes AT&T Allegedly Bribing Hackers After Recent Company Data Breach Incident
-date: 2024-09-18 19:50:20
-updated: 2024-09-20 12:49:31
+date: 2025-03-02T16:49:33.912Z
+updated: 2025-03-04T16:21:50.628Z
 tags:
   - cyber-threats
 categories:
@@ -69,11 +69,27 @@ If you're considering switching to an encrypted texting app, here's [a look at o
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unlock-the-potential-of-pc-games-recording-in-win10/"><u>[New] 2024 Approved Unlock the Potential of PC Games Recording in Win10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-amplify-your-audio-visual-experience-with-these-6-android-apps/"><u>[Updated] 2024 Approved Amplify Your Audio-Visual Experience with These 6 Android Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-seamless-transitions-smooth-editing-techniques-for-youtube-content/"><u>[Updated] 2024 Approved Seamless Transitions Smooth Editing Techniques for YouTube Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-interpreting-single-photos-as-video-chronicles/"><u>[Updated] Interpreting Single Photos as Video Chronicles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-nzxt-h7-flow-chassis-balancing-play-with-protection/"><u>Evaluating the NZXT H7 Flow Chassis: Balancing Play with Protection</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/how-to-fix-multi-page-printing-issues-expert-advice-from-yl-computings-solutions/"><u>How to Fix Multi-Page Printing Issues: Expert Advice From YL Computing's Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-devices-with-tom-in-depth-hardware-analysis/"><u>Mastering Devices with Tom - In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-with-toms-comprehensive-review-site/"><u>Mastering Hardware Choices with Tom's Comprehensive Review Site</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mu-board-from-lattepanda-a-speedier-alternative-to-raspberry-pi-5-with-higher-price-tag/"><u>Mu Board From LattePanda: A Speedier Alternative to Raspberry Pi 5 with Higher Price Tag</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/soundblade-by-blueant-a-striking-blend-of-volume-and-elegance/"><u>Soundblade by BlueAnt: A Striking Blend of Volume & Elegance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computer-components-by-tom/"><u>The Ultimate Guide to Computer Components by Tom</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-mastering-audio-downloads-a-guide-to-collecting-podcast-episodes-on-pc/"><u>Updated In 2024, Mastering Audio Downloads A Guide to Collecting Podcast Episodes on PC</u></a></li>
+</ul></div>
+

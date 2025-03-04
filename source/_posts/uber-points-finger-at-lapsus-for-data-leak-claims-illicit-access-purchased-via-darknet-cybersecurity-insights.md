@@ -1,7 +1,7 @@
 ---
 title: Uber Points Finger at Lapsus$ for Data Leak, Claims Illicit Access Purchased via Darknet | Cybersecurity Insights
-date: 2024-09-17 23:11:46
-updated: 2024-09-20 10:13:58
+date: 2025-03-02T21:21:10.440Z
+updated: 2025-03-04T20:00:46.682Z
 tags:
   - cyber-threats
 categories:
@@ -63,11 +63,27 @@ After that, Uber said, the hacker repeatedly tried to log in to the contractor's
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ting-engagement-the-pillars-of-youtube-rankings-for-2024/"><u>Elevating Engagement The Pillars of YouTube Rankings for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-getting-days-gone-to-boot-on-your-windows-machine-successfully/"><u>Expert Advice on Getting 'Days Gone' To Boot on Your Windows Machine Successfully</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m14-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Samsung Galaxy M14 5G Phone Without Password?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mastering-the-art-of-zip-to-srt-conversion-for-2024/"><u>Mastering the Art of Zip to Srt Conversion for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-why-isnt-my-obs-desktop-mic-recording/"><u>Step-by-Step Solutions: Why Isn't My OBS Desktop Mic Recording?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-in-depth-reviews-and-insights/"><u>Tom's Computer Components: In-Depth Reviews & Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-essentials-the-ultimate-guide/"><u>Tom's Computer Essentials: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-picks-expert-insights-on-cutting-edge-computing-hardware/"><u>Tom’s Picks: Expert Insights on Cutting-Edge Computing Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-innovation-and-reviews-at-your-fingertips/"><u>Tom's Tech Hub - Innovation & Reviews at Your Fingertips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-gadgets-components-and-reviews/"><u>Tom's Tech Hub: Gadgets, Components & Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-innovative-computer-hardware-reviews/"><u>Tom's Tech Hub: Innovative Computer Hardware Reviews</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winxvideo-ai-expert-guide-update-grafikprozessor-treiber-auf-windows/"><u>WinxVideo AI Expert Guide - Update Grafikprozessor Treiber Auf Windows</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Upgrading Homes with AI: How the New Security Certification Ensures Safer Smart Gadgets"
-date: 2024-09-18 16:48:52
-updated: 2024-09-20 11:16:13
+date: 2025-02-25T19:13:44.008Z
+updated: 2025-03-04T16:31:53.494Z
 tags:
   - cyber-threats
 categories:
@@ -97,11 +97,29 @@ The CSA hopes the IoT Device Security Specification 1.0 will lead to a globalize
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ccelerated-pathway-through-keying-fundamentals/"><u>[New] Accelerated Pathway Through Keying Fundamentals</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-tips-and-tricks-adjusting-aspect-ratios-for-effective-fb-sharing-for-2024/"><u>[New] Tips & Tricks Adjusting Aspect Ratios for Effective FB Sharing for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-gopro-hero-vs-yi-4k-which-takes-the-prize-in-latest-tech/"><u>[Updated] 2024 Approved GoPro Hero Vs. Yi 4K Which Takes the Prize in Latest Tech?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-youtube-for-asmr-enthusiasts/"><u>[Updated] In 2024, Essential YouTube for ASMR Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-replace-periscope-top-6-mobile-video-applications/"><u>[Updated] In 2024, Replace Periscope Top 6 Mobile Video Applications</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-infinix-gt-10-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Infinix GT 10 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964475671-iconic-5-star-fractal-universe-north-premium-pc-chassis-now-a-steal-at-just-109/"><u>Iconic 5-Star Fractal Universe North Premium PC Chassis Now a Steal at Just $109!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-be-quiet-shadow-base-800-fx-masterful-noise-suppression-with-superior-performance-features/"><u>In-Depth Analysis of Be Quiet! Shadow Base 800 FX: Masterful Noise Suppression with Superior Performance Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-electronics-with-toms-hardware-expertise/"><u>Navigating Electronics with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-honor-100-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Honor 100 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seamless-thermal-regulation-achieved-the-no-fan-solution-dissipating-up-to-600-watts/"><u>Seamless Thermal Regulation Achieved: The 'No-Fan' Solution Dissipating Up to 600 Watts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-expert-insights-into-the-latest-hardware-trends/"><u>Tom's Tech Hub: Expert Insights Into the Latest Hardware Trends</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-and-guidance/"><u>Tom's Tech Reviews: In-Depth Analysis and Guidance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-gadgets-and-components-t17239718719945/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Gadgets and Components</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+</ul></div>
+

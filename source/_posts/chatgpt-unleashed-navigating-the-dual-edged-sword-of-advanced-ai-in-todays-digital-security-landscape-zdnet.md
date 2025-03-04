@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Unleashed: Navigating the Dual-Edged Sword of Advanced AI in Today's Digital Security Landscape | ZDNet"
-date: 2024-09-19 12:10:36
-updated: 2024-09-20 11:20:41
+date: 2025-03-03T19:59:14.742Z
+updated: 2025-03-04T17:57:11.393Z
 tags:
   - cyber-threats
 categories:
@@ -82,11 +82,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-navigating-vector-editing-beyond-magixs-domain/"><u>[Updated] 2024 Approved Navigating Vector Editing Beyond Magix's Domain</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-color-variations-the-ultimate-windows-guide/"><u>Conquering Color Variations: The Ultimate Windows Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/cutting-edge-live-broadcast-solutions-for-2024/"><u>Cutting-Edge Live Broadcast Solutions for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/determine-the-total-number-of-vehicles-passed-through-texas-in-june-which-is-given-as-8-times-106/"><u>Determine the Total Number of Vehicles Passed Through Texas in June, Which Is Given as $8 Times 10^6$.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-advanced-artificial-intelligence-cameras-of-google-pixel-7-series-starting-at-599/"><u>Discover the Advanced Artificial Intelligence Cameras of Google Pixel 7 Series, Starting at $599</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/easy-guide-to-transferring-tunes-onto-your-android-device/"><u>Easy Guide to Transferring Tunes Onto Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expanding-connectivity-android-file-transfer-now-compatible-with-windows-systems/"><u>Expanding Connectivity: Android File Transfer Now Compatible with Windows Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-concept-of-reverse-inductive-charging-technology/"><u>Exploring the Concept of Reverse Inductive Charging Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-unique-ways-to-personalize-your-phones-physical-appearance-why-stop-at-just-the-screen/"><u>Exploring Unique Ways to Personalize Your Phone’s Physical Appearance: Why Stop at Just the Screen?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-the-latest-android-beta-update-even-if-you-dont-have-a-pixel-phone/"><u>Get Your Hands on the Latest Android #Beta Update Even If You Don't Have a Pixel Phone!</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-nokia-c12-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-10t-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on 10T 5G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/identify-the-exact-model-of-your-android-smartphone-a-step-by-step-guide/"><u>Identify the Exact Model of Your Android Smartphone - A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/permanently-solved-absent-inbuilt-printerscanner-support-for-windows-10-users/"><u>Permanently Solved: Absent Inbuilt Printer/Scanner Support for Windows 10 Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-9-best-free-online-languages-classes-no-cost-unlimited-knowledge/"><u>Top 9 Best Free Online Languages Classes – No Cost, Unlimited Knowledge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trouble-signal-how-to-deal-with-water-damage-on-your-iphones-lightning-connector/"><u>Trouble Signal: How to Deal with Water Damage on Your iPhone's Lightning Connector</u></a></li>
+</ul></div>
+

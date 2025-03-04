@@ -1,7 +1,7 @@
 ---
 title: 2023’S Elite Mechanical Keyboards Reviewed - Insider Tips
-date: 2025-02-09T16:38:43.631Z
-updated: 2025-02-15T16:35:33.416Z
+date: 2025-02-25T16:14:45.933Z
+updated: 2025-03-04T19:17:56.247Z
 tags:
   - laptops
 categories:
@@ -46,10 +46,6 @@ Cons
 * Not compatible with Mac
 
 ## Razer Pro Type Ultra
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best mechanical keyboard overall
 
@@ -108,10 +104,6 @@ Pros
 Cons 
 * Slight flex
 * Easily detachable feet
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## NuPhy Air75
 
@@ -207,10 +199,6 @@ To see how it compares, here is an overview of the best mechanical keyboards.
 | Razer BlackWidow V3 Mini Hyperspeed | $90      | Compact   | 68                 |
 | SteelSeries Apex Pro                | $192     | Full size | 104                |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did I choose these best mechanical keyboards?
 
 When comparing the best mechanical keyboards and talking to users, I took several factors into consideration.
@@ -223,10 +211,6 @@ When comparing the best mechanical keyboards and talking to users, I took severa
 * **Switch** **type**: There are three main types of mechanical switches that are commonly seen in mechanical keyboards: linear, tactile, and clicky. Linear switches offer a smoother feel with no resistance, while you can actually feel the bump on tactile switches. As the name suggests, clicky switches have an audible noise when you push them.
 * **Backlighting**: The best mechanical keyboards also incorporate backlighting as an added feature. Some keyboards even allow you to customize the lighting for each individual key, creating custom color coding based on your specific tasks.
 * **Design**: In addition to the number of clicks, there is the actual design to consider. Look for heavy-duty materials that promise durability, especially if you plan on traveling with them. For example, the Cooler Master CK552 boasts a brushed aluminum design that is far tougher than your standard plastic construction.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best mechanical keyboard manufacturer?
 
@@ -261,10 +245,6 @@ In an ideal world, any keypress during a game will be instantly recognized to gi
 
 The only exception I'd make for using a wireless gaming keyboard is if the board in question used 2.4GHz wireless, like some options from Logitech. These dongle-based wireless connections offer far lower latency, and can be just as ideal for gaming as high-end wireless mice have become. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What parts of a mechanical keyboard can you modify?
 
 Short answer: all of them. 
@@ -272,10 +252,6 @@ Short answer: all of them.
 Longer answer: the most common would be the key switches and keycaps. Both of these can completely change the feel of a board and, if you have hot swap sockets in your board, both can be swapped out with no more difficulty than unplugging a USB cable and plugging in a new one. 
 
 More exotic mods can include things like replacing the stabilizers that help keep longer keys (space, shift, enter, etc.) level while traveling, as well as adding sound-dampening foam or silicone. Just about every moving part can also be lubricated to make it feel smoother and dampen its sound a bit. The possibilities are nearly endless when you start to get into all of the available switches, caps, case options, and unique parts being created for mechanical keyboard modding today. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative best mechanical keyboards worth considering?
 
@@ -286,10 +262,6 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BSKX8W3B%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C95b40431-7dc8-4cb2-b9c5-456511d73aae%7Cdtp&dtb=1)[View now at B&H Photo-Video](https://www.bhphotovideo.com/c/product/1748131-REG/asus%5Fm701%5Frog%5Fazoth%5Fnxrd%5Fca%5Fpbt%5Frog%5Fazoth%5F75%5Fwireless.html/BI/23252/KBID/28790/SID/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-mechanical-keyboard/Design: Mini Listicle)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Asus ROG Azoth
 
@@ -307,10 +279,6 @@ Full Review [Read Full Review](https://www.zdnet.com/article/best-mechanical-key
 
 ## Corsair K100
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best mechanical keyboard features
 
 If you want ultra-fast performance, this is the best mechanical keyboard for you. The Corsair K100 doesn't hesitate, thanks to AXON Hyper-Processing Technology.
@@ -324,10 +292,6 @@ Show less
 Full Review [Read Full Review](https://www.zdnet.com/article/best-mechanical-keyboard/Design: Mini Listicle)
 
 ## Kinesis Freestyle Edge RGB Split Gaming Keyboard
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best ergonomic mechanical keyboard
 
@@ -377,21 +341,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-how-to-effortlessly-eradicate-unwanted-youtube-post-comments/"><u>[New] In 2024, How to Effortlessly Eradicate Unwanted Youtube Post-Comments</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-leaders-in-video-to-file-transformation-the-best-ios-and-pc-tools-8/"><u>[New] Leaders in Video to File Transformation The Best iOS & PC Tools #8</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-innovative-video-concepts-for-beginner-vloggers/"><u>[Updated] Innovative Video Concepts for Beginner Vloggers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-6-devices-for-global-video-communication/"><u>2024 Approved Top 6 Devices for Global Video Communication</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/crystal-crisp-playback-ps5s-favorite-hdmi-21-displays-for-2024/"><u>Crystal Crisp Playback PS5's Favorite HDMI 2.1 Displays for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-proposed-features-additions-of-reels-and-rooms-to-stories/"><u>Facebook's Proposed Features: Additions of Reels & Rooms to Stories</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-audience-expansion-strategies-that-honor-youtube-standards/"><u>In 2024, Audience Expansion Strategies That Honor YouTube Standards</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-insta360-x4-camera-analysis-high-quality-shots-at-premium-pricing/"><u>In-Depth Insta360 X4 Camera Analysis: High Quality Shots at Premium Pricing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-kobo-libra-ebook-reader-analysis-outstanding-features-beyond-the-multicolor-screen/"><u>In-Depth Kobo Libra Ebook Reader Analysis: Outstanding Features Beyond the Multicolor Screen</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-the-new-modular-laptop-with-advanced-intel-core-processors/"><u>Introducing the New Modular Laptop with Advanced Intel Core Processors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/laptop-and-desktop-reimagined-with-the-introduction-of-amds-revolutionary-zen/"><u>Laptop and Desktop Reimagined with the Introduction of AMD's Revolutionary Zen</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/lenovo-and-asus-team-up-with-meta-for-cutting-edge-horizon-os-vr-gear/"><u>Lenovo & Asus Team Up with Meta for Cutting-Edge Horizon OS VR Gear</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-your-device-the-ultimate-list-of-iphone-issue-remedies/"><u>Mastering Your Device: The Ultimate List of iPhone Issue Remedies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/no-rework-or-replacement-intel-stands-by-defective-chip-production/"><u>No Rework or Replacement: Intel Stands by Defective Chip Production</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-of-the-autonomous-smartdesk-a-balancing-act-between-ease-of-assembly-and-functionality/"><u>Review of the Autonomous SmartDesk: A Balancing Act Between Ease of Assembly and Functionality</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-to-restoring-your-paradox-launchers-functionality/"><u>The Ultimate Guide to Restoring Your Paradox Launcher's Functionality</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-leveraging-secondary-footage-for-enhanced-storytelling/"><u>[New] 2024 Approved Leveraging Secondary Footage for Enhanced Storytelling</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-comprehensive-review-of-vivavideo-app-for-2024/"><u>[New] Comprehensive Review of VivaVideo App for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-superior-online-multimedia-collaboration-tools/"><u>[New] In 2024, Superior Online Multimedia Collaboration Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-finding-the-affordable-cloud-storage-of-2024/"><u>[Updated] Finding the Affordable Cloud Storage of 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-greening-the-grid-paving-the-way-for-sustainable-metropolises/"><u>[Updated] In 2024, Greening the Grid Paving the Way for Sustainable Metropolises</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-precision-visuals-mastering-close-ups-in-msteams-for-2024/"><u>[Updated] Precision Visuals Mastering Close-Ups in MSTEAMS for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-efficiently-remove-discord-server-from-pc-and-mobile/"><u>2024 Approved Efficiently Remove Discord Server From PC & Mobile</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-100-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-beyerdynamic-mmx-30e-pro-impressive-acoustics-meets-simple-design/"><u>In-Depth Analysis of Beyerdynamic MMX 30E Pro - Impressive Acoustics Meets Simple Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-components-with-toms-guide/"><u>Inside the World of Components with Tom's Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-gaming-on-windows-with-asus-rog-ally-x-an-insightful-revenue-at-an-elevated-price/"><u>Mastering Mobile Gaming on Windows with Asus ROG Ally X - An Insightful Revenue at an Elevated Price</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-latest-computer-hardware-trends-guided-by-toms-gear-review/"><u>Navigate the Latest Computer Hardware Trends – Guided by Tom's Gear Review</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-premier-auditory-filters-for-windows-silence-the-unwanted-roars-of-your-soundtracks/"><u>New 2024 Approved Premier Auditory Filters for Windows Silence the Unwanted Roars of Your Soundtracks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-reviews-by-tom-unveiling-the-best-in-hardware-technology/"><u>Pioneering Reviews by Tom: Unveiling the Best in Hardware Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-savvy-consumers-discovering-quality-hardware-with-tom/"><u>The Ultimate Resource for Tech Savvy Consumers - Discovering Quality Hardware with Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-a-guide-to-toms-computer-components-and-systems/"><u>Unlocking Performance: A Guide to Tom's Computer Components and Systems</u></a></li>
 </ul></div>
 

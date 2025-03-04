@@ -1,7 +1,7 @@
 ---
 title: "$600M Stolen in Axie Infinity Heist: Treasury Pinpoints Lazarus Group's Cybercrime Activities Exposed on ZDNET"
-date: 2024-09-19 19:55:36
-updated: 2024-09-20 12:23:11
+date: 2025-02-27T19:23:16.715Z
+updated: 2025-03-04T19:53:18.810Z
 tags:
   - cyber-threats
 categories:
@@ -55,11 +55,28 @@ Lazarus is among the most prolific and sophisticated of the hacking groups with 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-boost-your-views-with-premium-youtube-rank-watchers/"><u>[New] 2024 Approved Boost Your Views with Premium YouTube Rank Watchers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-mobile-vertical-panoramas-in-action/"><u>[Updated] Mastering Mobile Vertical Panoramas in Action</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-insider-tips-for-facebook-cover-video-mastery/"><u>2024 Approved Insider Tips for Facebook Cover Video Mastery</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/corsairs-revolutionary-rmx-series-psu-units-with-innovative-side-mounted-modularity/"><u>Corsair's Revolutionary RMx Series: PSU Units with Innovative Side-Mounted Modularity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cyberpower-backup-units-face-fire-risk-users-warn/"><u>CyberPower Backup Units Face Fire Risk, Users Warn</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-worlds-smallest-atx-3n-psu-from-enermax-the-ultimate-choice-for-space-saving-rear-connector-enhanced-computer-builds/"><u>Discover the World’s Smallest ATX 3.n PSU From Enermax – The Ultimate Choice for Space-Saving, Rear-Connector Enhanced Computer Builds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/efficiency-and-performance/"><u>Efficiency and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-evaluating-performance-and-reliability-of-thermaltakes-1350w-toughpower-gf3-power-supply-unit/"><u>Expert Insights: Evaluating Performance and Reliability of Thermaltake's 1350W Toughpower GF3 Power Supply Unit</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467374478-fix-your-silent-iphone-7-ways-to-restore-missing-notifications/"><u>Fix Your Silent iPhone: 7 Ways to Restore Missing Notifications</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-k70-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi K70 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-optimizing-obs-for-otofb-mastery-guide/"><u>In 2024, Optimizing OBS for OToFB Mastery Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-sony-xperia-10-v-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Sony Xperia 10 V Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-essentials-of-narrowing-virtual-room-spaces/"><u>The Essentials of Narrowing Virtual Room Spaces</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-top-lightweight-laptops-that-make-working-from-anywhere-effortless-reviews-by-your-name/"><u>Ultimate Guide: Top Lightweight Laptops That Make Working From Anywhere Effortless - Reviews by [Your Name]</u></a></li>
+</ul></div>
+

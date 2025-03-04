@@ -1,7 +1,7 @@
 ---
 title: "The Growing Exodus of Elite Cybersecurity Professionals: Understanding What's Driving Them to Leave | ZDNet"
-date: 2024-09-18 13:23:15
-updated: 2024-09-20 10:17:50
+date: 2025-02-27T17:07:18.120Z
+updated: 2025-03-04T20:14:14.036Z
 tags:
   - cyber-threats
 categories:
@@ -73,11 +73,33 @@ CISOs also report a sense of purpose in their roles: 44% of respondents to Black
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-principles-of-creating-inspirational-day-to-day-visual-stories/"><u>[New] 2024 Approved Principles of Creating Inspirational Day-to-Day Visual Stories</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-permissions-for-posting-videos-on-fb/"><u>[Updated] 2024 Approved Permissions for Posting Videos on FB</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/astrological-bookkeeping-salvage/"><u>Astrological Bookkeeping Salvage</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-brainiacs-raspberry-pi-smart-kit/"><u>Comprehensive Evaluation of Brainiac's Raspberry Pi Smart Kit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-devices-on-toms-hardware-hub-top-product-reviews-and-tips/"><u>Discover Cutting-Edge Devices on Tom's Hardware Hub: Top Product Reviews and Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-technology-insights-and-reviews-at-toms-hardware-hub/"><u>Dive Into Technology Insights and Reviews at Tom's Hardware Hub</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/effortless-instagram-to-mp4-top-2-secrets-exposed/"><u>Effortless Instagram to MP4 Top 2 Secrets Exposed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/essential-tips-for-applying-luts-in-adobe-photoshop-cc-for-2024/"><u>Essential Tips for Applying LUTs in Adobe PhotoShop CC for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-end-gaming-monitor-showdown-the-titan-army-p27a2r-180hz-review/"><u>High-End Gaming Monitor Showdown: The Titan Army P27A2R 180Hz Review</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-acer-predator-orion-5000-unbeatable-performance-meets-cost-efficiency/"><u>In-Depth Analysis of the Acer Predator Orion 5000: Unbeatable Performance Meets Cost-Efficiency</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-fastest-storage-devices-lexar-sl500-and-sl600-delivering-up-to-20-gbps-bandwidth/"><u>In-Depth Review of the Fastest Storage Devices: Lexar SL500 and SL600, Delivering Up to 20 Gbps Bandwidth</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-cutting-edge-devices-guided-by-toms-expertise/"><u>Inside Look at Cutting-Edge Devices - Guided by Tom's Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/insightful-breakdown-of-technology-at-toms-hardware-blog/"><u>Insightful Breakdown of Technology at Tom's Hardware Blog</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leveraging-xbox-ones-zoom-features-effectively-for-2024/"><u>Leveraging Xbox One's Zoom Features Effectively for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/make-every-interaction-count-how-to-add-and-share-gifs-on-snapchat/"><u>Make Every Interaction Count How to Add and Share GIFs on Snapchat</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-building-with-toms-hardware/"><u>Navigating the World of PC Building with Tom's Hardware</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-for-every-generation-of-ipados/"><u>The Ultimate Walkthrough for Every Generation of iPadOS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-downloads-for-brother-hl-2280dw-driver-supports-windows-xp-to-11/"><u>Ultimate Downloads for Brother HL-2280DW Driver - Supports Windows XP to 11</u></a></li>
+</ul></div>
+

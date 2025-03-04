@@ -1,7 +1,7 @@
 ---
 title: Uber Accuses Hacker Group Lapsus$ of Cyberattack, Claims Stolen Access From Darknet Marketplace | Tech News
-date: 2024-09-18 15:47:53
-updated: 2024-09-20 11:53:57
+date: 2025-03-03T19:41:04.951Z
+updated: 2025-03-04T21:05:02.660Z
 tags:
   - cyber-threats
 categories:
@@ -63,11 +63,33 @@ After that, Uber said, the hacker repeatedly tried to log in to the contractor's
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ultimate-android-sky-docs-ranking/"><u>[New] 2024 Approved Ultimate Android Sky Docs Ranking</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-preserve-animated-gifs-effortlessly-with-these-top-9-apps-for-windows/"><u>[Updated] In 2024, Preserve Animated GIFs Effortlessly with These Top 9 Apps for Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-guide-to-meta-and-omni-versions/"><u>[Updated] The Ultimate Guide to Meta & Omni Versions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-luts-for-enhanced-visual-effects-in-ar-experiences/"><u>2024 Approved Harnessing LUTs for Enhanced Visual Effects in AR Experiences</u></a></li>
+<li><a href="https://fox-search.techidaily.com/free-bootstrap-ready-design-kit-from-impact-by-creative-tim-enhance-your-web-projects-now/"><u>Free Bootstrap-Ready Design Kit From Impact by Creative Tim – Enhance Your Web Projects Now!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-13-mini-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 13 mini Without Previous Owner?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-spinning-tales-embracing-the-full-rotational-vision/"><u>In 2024, Spinning Tales Embracing the Full Rotational Vision</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/realtek-card-reader-driver-update-for-optimal-performance-on-windows-11/"><u>Realtek Card Reader Driver Update for Optimal Performance on Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-energy-efficiency-the-complete-guide-to-the-teamgroup-t-force-vulcan-ddr5-c30-memory-kit-at-6000mhz-an-in-depth-product-examination/"><u>Revolutionizing Energy Efficiency: The Complete Guide to the TeamGroup T-Force Vulcan DDR5 C30 Memory Kit at 6000MHz – An In-Depth Product Examination</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/samsungs-revolutionary-107gbps-lpddr5x-ultra-fast-mobile-memory-designed-for-advanced-ai-workloads/"><u>Samsung's Revolutionary 10.7Gbps LPDDR5X: Ultra-Fast Mobile Memory Designed for Advanced AI Workloads</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/streamlined-multitasking-in-safari-with-pip/"><u>Streamlined Multitasking in Safari with PIP</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964497718-surecore-unveils-eco-efficient-quantum-memory-innovation-stable-at-recordly-cool-temperatures-of-just-4-kelvin/"><u>SureCore Unveils Eco-Efficient Quantum Memory Innovation - Stable at Recordly Cool Temperatures of Just 4 Kelvin!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/thrilling-benchmarks-of-the-first-edition-ddr5-7200-corsair-dominator-titanium-unleashing-ultra-high-performance-with-dual-24gb-modules/"><u>Thrilling Benchmarks of the First Edition DDR5-7200 Corsair Dominator Titanium: Unleashing Ultra High Performance with Dual 24GB Modules</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-components-and-equipment/"><u>Tom's Tech Hub: The Ultimate Guide to Computer Components and Equipment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-insights-into-cutting-edge-hardware/"><u>Tom's Tech Reviews: In-Depth Insights Into Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Reviews: The Ultimate Guide to Computer Components and Gadgets</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/uncovering-the-reason-behind-no-sound-on-windows-media-player-and-how-to-resolve-it/"><u>Uncovering the Reason Behind No Sound on Windows Media Player and How to Resolve It</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-hardware-mysteries-with-toms-expertise/"><u>Unraveling Hardware Mysteries with Tom's Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/us-microchip-leader-settles-dispute-over-ip-theft-accusations-with-chinese-state-chip-company-jinhua/"><u>US Microchip Leader Settles Dispute Over IP Theft Accusations With Chinese State Chip Company Jinhua</u></a></li>
+</ul></div>
+

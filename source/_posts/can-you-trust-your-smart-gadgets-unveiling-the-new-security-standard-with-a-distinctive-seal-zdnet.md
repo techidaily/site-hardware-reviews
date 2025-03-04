@@ -1,7 +1,7 @@
 ---
 title: Can You Trust Your Smart Gadgets? Unveiling the New Security Standard with a Distinctive Seal - ZDNet
-date: 2024-09-19 15:45:23
-updated: 2024-09-20 11:30:17
+date: 2025-02-26T19:53:34.016Z
+updated: 2025-03-04T18:32:30.709Z
 tags:
   - cyber-threats
 categories:
@@ -97,11 +97,25 @@ The CSA hopes the IoT Device Security Specification 1.0 will lead to a globalize
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-best-nintendo-switch-fighter-ranks-max-156/"><u>[New] In 2024, Best Nintendo Switch Fighter Ranks (Max 156)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-artedit-master/"><u>[Updated] ArtEdit Master</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/assessing-if-top-tier-ai-prompts-merit-their-price/"><u>Assessing If Top-Tier AI Prompts Merit Their Price</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/audience-focus-top-webcams-that-bring-life-to-podcasts/"><u>Audience Focus Top Webcams That Bring Life to Podcasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creative-synergy-merging-mindmap-strategies-and-chatgpt-for-idea-generation-success/"><u>Creative Synergy: Merging Mindmap Strategies and ChatGPT for Idea Generation Success</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-2024-outdoor-surveillance-cameras-a-comprehensive-guide/"><u>Top Rated 2024 Outdoor Surveillance Cameras: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-electronics-sale-exclusive-offers-on-beats-solo-headphones-djis-premium-quadcopter-drone-plus-immersive-bose-television-soundbars/"><u>Ultimate Electronics Sale: Exclusive Offers on Beats Solo Headphones, DJI's Premium Quadcopter Drone, Plus Immersive Bose Television Soundbars!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-choosing-the-ideal-bluetooth-speaker-in-2e24/"><u>Ultimate Guide to Choosing the Ideal Bluetooth Speaker in 2E24</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-a-thunderous-sound-discover-sonys-revolutionary-ult-lineup-for-superior-bass-quality-in-speakers-and-headsets/"><u>Unleash a Thunderous Sound: Discover Sony's Revolutionary ULT Lineup for Superior Bass Quality in Speakers and Headsets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-exclusive-discounts-on-gadgets-ankers-mini-power-bank-latest-google-pixel-timepiece-and-secure-your-home-with-blink-cameras/"><u>Unlock Exclusive Discounts on Gadgets: Anker's Mini Power Bank, Latest Google Pixel Timepiece, and Secure Your Home with Blink Cameras!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-the-archive-best-public-domain-video-download-sites/"><u>Updated Unleash the Archive Best Public Domain Video Download Sites</u></a></li>
+</ul></div>
+

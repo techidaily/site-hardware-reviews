@@ -1,7 +1,7 @@
 ---
 title: Get a Superior Lenovo Laptop for Work or Play at an Incredible Discount This Memorial Day
-date: 2025-02-08T16:12:21.265Z
-updated: 2025-02-15T16:35:26.238Z
+date: 2025-03-02T16:31:28.119Z
+updated: 2025-03-04T19:12:57.473Z
 tags:
   - laptops
 categories:
@@ -20,19 +20,11 @@ Taylor Clemons/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What is the deal?
 
 The [Lenovo Legion Pro 5i](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Legion-WQXGA165Hz-i9-13900HX-Portable%2Fdp%2FB0D2QJ2HHS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc28b8962-57ab-4c57-909b-98e2e45b5519%7Cdtp&dtb=1) laptop is available at B&H Photo for $1,249, which is $550 off the regular retail price. It can be equipped with a 13th-generation Intel Core i9 processor, RTX 4090 graphics card, 32GB of RAM, and 1TB SSD.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -72,10 +64,6 @@ The power cable has an extensive power supply; it's a little bit larger than my 
 
 The [Lenovo Legion Pro 5i](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-pro-series%2Flegion-pro-5i-gen-8-%2816-inch-intel%29%2Flen101g0024&publisher_slug=itechdaily19598&exclusive=1) base configuration starts at $1,260, while the top configuration retails for $1,800\. The configuration I was sent for testing will cost you around $1,450, which is a very decent value for the components and performance you'll get.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When will this deal expire?
 
 Deals are subject to sell-out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
@@ -110,20 +98,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-best-church-live-streaming-services-uncovered/"><u>[New] 2024 Approved Best Church Live Streaming Services Uncovered</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-from-script-to-screenplay-expert-video-editing-insights/"><u>[Updated] From Script to Screenplay Expert Video Editing Insights</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-insiders-look-at-instagram-viewership-metrics-for-2024/"><u>[Updated] Insider's Look at Instagram Viewership Metrics for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-liveoutnow-an-in-depth-look-at-effortless-podcast-live-streaming/"><u>[Updated] LiveOutNow An In-Depth Look at Effortless Podcast Live Streaming</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unveiling-the-hidden-recovering-exclusive-snap-content/"><u>[Updated] Unveiling the Hidden Recovering Exclusive Snap Content</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-and-fast-hatdrive-nano-review-top-pick-for-raspberry-pi-storage-solutions/"><u>Affordable & Fast HatDrive! Nano Review - Top Pick for Raspberry Pi Storage Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rt-be96u-6ghz-dual-band-mesh-wifi-system-evaluation-introducing-the-next-generation-of-high-speed-connectivity/"><u>Asus RT-BE96U 6GHz Dual-Band Mesh WiFi System Evaluation: Introducing the Next Generation of High-Speed Connectivity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-most-exciting-discounts-on-vpn-services-today-insider-tips-and-tricks/"><u>Discover the Most Exciting Discounts on VPN Services Today - Insider Tips and Tricks!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discovering-toms-tools-in-depth-reviews-and-analysis-on-computer-components/"><u>Discovering Tom's Tools: In-Depth Reviews & Analysis on Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-evaluation-of-the-aoc-agon-pro-ag456uczd-a-detailed-look-at-its-45-ultra-wide-oled-gaming-display-with-extremely-curved-edges-and-fast-refresh-rates.3/"><u>Expert Evaluation of the AOC Agon Pro AG456UCZD – A Detailed Look at Its 45 Ultra-Wide OLED Gaming Display with Extremely Curved Edges and Fast Refresh Rates!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-upgrades-tips-and-tricks-from-the-experts-at-toms-hardware/"><u>Master Your PC Upgrades: Tips & Tricks From the Experts at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pixio-px277-oled-monitor-revealed-surpassing-gaming-expectations-in-a-revolutionary-display/"><u>Pixio PX277 OLED Monitor Revealed - Surpassing Gaming Expectations in a Revolutionary Display</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/precision-cuts-at-a-touch-select-the-best-short-form-editors-for-2024/"><u>Precision Cuts at a Touch Select the Best Short Form Editors for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-rated-ssd-heatsink-the-essential-uphere-m201-at-an-unbeatable-price-of-5-our-nvme-cooling-solutions-guide/"><u>Top-Rated SSD Heatsink - The Essential UpHere M201 at an Unbeatable Price of $5: Our NVMe Cooling Solutions Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-now-why-you-need-a-new-portable-power-station-today/"><u>Upgrade Now: Why You Need a New Portable Power Station Today</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-smartphone-simplicity-meets-online-impact-making-videos-easy/"><u>[New] In 2024, Smartphone Simplicity Meets Online Impact Making Videos Easy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hasty-methods-for-mixed-up-youtube-playback-sequence/"><u>[Updated] 2024 Approved Hasty Methods for Mixed-Up YouTube Playback Sequence</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-snippet-storyboarding-procedure/"><u>[Updated] In 2024, Snippet Storyboarding Procedure</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-technology-tips-at-toms-hardware-destination/"><u>Discover Cutting-Edge Technology Tips at Tom's Hardware Destination</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-computing-visit-toms-hardware-hub/"><u>Discover the Latest in Computing - Visit Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/flsun-s1-evaluation-rapid-warp-performance-and-unique-delta-design/"><u>FLSun S1 Evaluation: Rapid-Warp Performance & Unique Delta Design</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-resolve-problems-with-your-realtek-rtl8811au-wireless-network-adapter-drivers/"><u>How to Resolve Problems with Your Realtek RTL8811AU Wireless Network Adapter Drivers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/immunosuppression/"><u>Immunosuppression</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-screen-captures-on-windows-and-mac-computers/"><u>Mastering the Art of Screen Captures on Windows and Mac Computers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-pc-setups-through-toms-hardware-insights/"><u>Navigating Advanced PC Setups Through Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-tips-for-resolving-driver-conflicts-on-your-hp-officejet-pro-6978/"><u>Quick Tips for Resolving Driver Conflicts on Your HP OfficeJet Pro 6978</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/top-10-hilarious-and-heartfelt-instagram-memes-hubs-for-2024/"><u>Top 10 Hilarious & Heartfelt Instagram Memes Hubs for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-premier-websites-for-free-high-definition-thanksgiving-backgrounds-in-2e23/"><u>Top 5 Premier Websites for Free High-Definition Thanksgiving Backgrounds in 2E23</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-samsung-galaxy-xcover-7-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Samsung Galaxy XCover 7 FRP Bypass</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-sony-xperia-5-v-by-drfone-android/"><u>Universal Unlock Pattern for Sony Xperia 5 V</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unpacking-the-beyerdynamic-mmx-300-pro-review-exceptional-soundscape-amidst-simplistic-elements/"><u>Unpacking the Beyerdynamic MMX 300 Pro Review: Exceptional Soundscape Amidst Simplistic Elements</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-toms-hardware-hub/"><u>Unveiling Gadgets with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-innovations-in-computing-at-toms-hardware-insights/"><u>Unveiling New Innovations in Computing at Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-hardware-with-expert-tips-from-toms-systems/"><u>Unveiling the Latest in Computer Hardware with Expert Tips From Tom's Systems</u></a></li>
 </ul></div>
 

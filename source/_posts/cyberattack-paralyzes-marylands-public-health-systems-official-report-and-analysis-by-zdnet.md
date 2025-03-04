@@ -1,7 +1,7 @@
 ---
 title: Cyberattack Paralyzes Maryland's Public Health Systems - Official Report & Analysis by ZDNet
-date: 2024-09-18 22:26:29
-updated: 2024-09-20 11:14:58
+date: 2025-02-25T20:57:39.122Z
+updated: 2025-03-04T16:49:13.643Z
 tags:
   - cyber-threats
 categories:
@@ -85,11 +85,26 @@ Heath Renfrow, CISO of Conversant Group, told _ZDNet_ that it was "bold" of offi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-tips-for-quality-screencasting-for-2024/"><u>[New] Essential Tips for Quality Screencasting for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-social-media-marketing-get-more-viewers-with-youtube/"><u>[New] Social Media Marketing Get More Viewers with YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-windows-painting-and-sketchpad-programs-reviewed/"><u>[Updated] Top Windows Painting and Sketchpad Programs Reviewed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-interface-to-enlarge-videography-elements/"><u>2024 Approved Interface to Enlarge Videography Elements</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-testing-of-asrocks-z79-bios-guide/"><u>Comprehensive Testing of ASRock's Z79지킨트 라이트니늄 와일드플로우 모바일 BIOS Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-review-of-the-hp-omnibook-x-long-lasting-on-a-single-charge/"><u>Expert Review of the HP OmniBook X: Long-Lasting on a Single Charge</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gaming-at-its-best-with-the-aorus-z69ueh-an-in-depth-look-at-the-gigabyte-gaming-monitors-high-performance-and-elegant-design-features/"><u>Gaming at Its Best with the Aorus Z69UEH: An In-Depth Look at the Gigabyte Gaming Monitor's High Performance and Elegant Design Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-10t-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme 10T 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-tech-knowledge-with-expert-advice-from-tome-hardware/"><u>Master Your Tech Knowledge with Expert Advice From Tom'e Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-review-the-ultimate-guide-to-buying-an-asus-rog-azoth-extreme-extreme-at-half-a-grand/"><u>Top Review: The Ultimate Guide to Buying an Asus ROG Azoth Extreme (Extreme) at Half a Grand</u></a></li>
+</ul></div>
+

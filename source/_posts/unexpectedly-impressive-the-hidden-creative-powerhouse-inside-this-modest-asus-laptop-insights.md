@@ -1,7 +1,7 @@
 ---
 title: "Unexpectedly Impressive: The Hidden Creative Powerhouse Inside This Modest Asus Laptop - Insights"
-date: 2025-02-09T17:18:06.006Z
-updated: 2025-02-15T16:50:27.522Z
+date: 2025-03-02T16:00:51.771Z
+updated: 2025-03-04T19:22:41.516Z
 tags:
   - laptops
 categories:
@@ -47,10 +47,6 @@ While Framework previously sold models with Windows 11 and BYOOS (bring your own
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | Processor        | Intel 12th Gen i5-1240P                                                     |
@@ -77,10 +73,6 @@ Not a lot to complain about with the Framework laptop's look. Maybe a matte blac
 
 June Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Featured reviews
 
 * [3 features in Apple's new AirPods 4 that made me ditch my AirPods Pros](https://www.zdnet.com/article/3-features-in-apples-new-airpods-4-that-made-me-ditch-my-airpods-pros/)
@@ -105,10 +97,6 @@ June Wan/ZDNET
 Lastly, the 3:2, 2256x1504 display on the Framework Chromebook is color-vibrant, remarkably bright, and pixel sharp, which I was pleased to see given all the other aspects that were on my product checklist going into this particular review. The viewing angles on the glossy panel are surprisingly adequate, too. I'd compare the color reproduction on the Framework display to that of the [HP Elite Dragonfly](https://www.awin1.com/cread.php?awinmid=7168&awinaffid=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-elite-dragonfly-135-inch-chromebook-p-6k057ut-aba-1%3F), another Chromebook that I reviewed just a few months ago, and one that I praised very highly. The only thing that keeps the former a tier below is the lack of touchscreen support.
 
 **Review: [The HP Elite Dragonfly Chromebook has no business being this good](https://www.zdnet.com/article/hp-elite-dragonfly-chromebook-review/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Customizing the Framework
 
@@ -164,19 +152,11 @@ Framework bundles a modular (surprise, surprise) 60W charger in the box that use
 
 [Buy the Framework Chromebook $963 at Frame](https://frame.work/products/laptop-chromebook-12-gen-intel/configuration/edit)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 I love the Framework Chromebook. It's one of the few tech products that I've reviewed this year that truly feels like a consumer-first gadget and is made by a company that truly cares about the environment. I also happen to fall under the "non-professional" userbase which makes the ChromeOS experience more than adequate for my day-to-day.
 
 With a [starting price of $963](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMac-Book-Pro-Charger-Compatible%2Fdp%2FB09GFR7NSK%2Fref%3Dsxts%5Fb2b%5Fsx%5Freorder%5Fv3%5Fbusiness%3Fcontent-id%3Damzn1.sym.3ff8510d-e0d4-4cf7-beed-93a0c9d332a5%3Aamzn1.sym.3ff8510d-e0d4-4cf7-beed-93a0c9d332a5%26cv%5Fct%5Fcx%3Dapple%2Bmac%2Bbook%2Bpro%2Bcharger%26gclid%3DEAIaIQobChMIs5Pt35LC-wIVUTizAB1ACgGFEAAYAiAAEgIy2%5FD%5FBwE%26hvadid%3D177325628310%26hvdev%3Dc%26hvlocphy%3D9005779%26hvnetw%3Dg%26hvqmt%3De%26hvrand%3D2145686270052462161%26hvtargid%3Dkwd-13812963869%26hydadcr%3D19137%5F9664167%26keywords%3Dapple%2Bmac%2Bbook%2Bpro%2Bcharger%26pd%5Frd%5Fi%3DB09GFR7NSK%26pd%5Frd%5Fr%3D129fb8fb-f662-4d8a-8ba5-3c33bf2785fd%26pd%5Frd%5Fw%3DH19HD%26pd%5Frd%5Fwg%3DJAz8D%26pf%5Frd%5Fp%3D3ff8510d-e0d4-4cf7-beed-93a0c9d332a5%26pf%5Frd%5Fr%3D5CG3412G8ZQ8YRYVN7GE%26qid%3D1669132408%26sr%3D1-1-722db4e4-77fc-4fb6-8cee-654ad16ce1d5%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C072696e5-0cae-486b-9cee-48548f1af7b6%7Cdtp&dtb=1), the Framework Chromebook is competing in rough waters, especially going into the holiday season when every manufacturer (including Apple) is [discounting laptops](https://www.zdnet.com/article/early-black-friday-laptop-deals-november-22-2022/) left and right. But if you want a machine that will free you of dongles, hubs, and visits to your local tech support, receive software updates for years down the line, and represents a movement that effectively betters the planet, then the Framework Chromebook is the best option available.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -216,19 +196,17 @@ With a [starting price of $963](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-visual-journey-to-crafting-a-user-friendly-subscribe-link/"><u>[New] 2024 Approved A Visual Journey to Crafting a User-Friendly Subscribe Link</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-posting-videos-on-instagram-easy/"><u>[New] Posting Videos on Instagram Easy</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-customizing-your-faithful-phone-tunes-for-2024/"><u>[Updated] Customizing Your Faithful Phone Tunes for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-essential-tactics-for-youtube-advertising-with-banners/"><u>2024 Approved Essential Tactics for YouTube Advertising with Banners</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-your-ultimate-guide-to-budget-friendly-excellent-webm-viewers/"><u>In 2024, Your Ultimate Guide to Budget-Friendly, Excellent WebM Viewers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-by-step-tutorial-for-manual-google-pixel-os-update-through-sideloaded-files/"><u>Step-by-Step Tutorial for Manual Google Pixel OS Update Through Sideloaded Files</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/stop-your-android-from-randomly-shaking-expert-tips-to-stop-unexpected-phone-vibrations/"><u>Stop Your Android From Randomly Shaking: Expert Tips to Stop Unexpected Phone Vibrations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/switching-your-primary-mobile-phone-application-in-android/"><u>Switching Your Primary Mobile Phone Application in Android</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/tablet-enthusiasts-rejoice-new-split-keyboard-functionality-debuts-on-gboard/"><u>Tablet Enthusiasts Rejoice: New Split Keyboard Functionality Debuts on Gboard!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-call-of-the-hour-developing-a-premier-google-powered-weather-tool/"><u>The Call of the Hour: Developing a Premier Google-Powered Weather Tool!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-handbook-audio-notes-101/"><u>The Ultimate Handbook Audio Notes 101</u></a></li>
-<li><a href="https://facebook.techidaily.com/unraveling-new-antitrust-tactics-against-big-tech-in-america/"><u>Unraveling New Antitrust Tactics Against Big Tech in America</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/windows-10-compatible-ultimate-guide-to-swift-and-easy-conversion-of-dvds-to-mp4-files-with-winx-free-dvd-ripper/"><u>Windows 10 Compatible: Ultimate Guide to Swift & Easy Conversion of DVDs to MP4 Files with WinX Free DVD Ripper</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722972162660-windows-11-users-download-realtek-alc-audio-driver-instantly-and-effortlessly/"><u>Windows 11 Users: Download Realtek ALC Audio Driver Instantly & Effortlessly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-diy-circuit-creation-cytron-maker-uno-rp2040-feedback/"><u>Affordable DIY Circuit Creation: Cytron Maker Uno RP2040 Feedback</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-mfc-7360n-driver-downloads-and-compatibility-with-windows-11-8-and-7/"><u>Brother MFC-7360N Driver Downloads & Compatibility with Windows 11, 8 & 7!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-top-tier-computer-gear-insight/"><u>Expert Reviews by Tom - Top-Tier Computer Gear Insight</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-ensure-chatgpt-remembers-our-chats-effectively/"><u>How to Ensure ChatGPT Remembers Our Chats Effectively?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341695305-in-depth-review-of-the-rode-streamer-x-fulfill-your-live-broadcast-needs/"><u>In-Depth Review of the Rode Streamer X: Fulfill Your Live Broadcast Needs!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mastering-video-conversions-how-to-switch-from-mp4-to-swf-both-online-and-via-desktop-applications/"><u>Mastering Video Conversions: How to Switch From MP4 to SWF Both Online and Via Desktop Applications</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-hub/"><u>Navigating the World of Technology with Tom's Hardware Hub</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/secure-your-privacy-stellar-file-eraser-pro-v5-set-and-run-automated-clean-up-on-windows/"><u>Secure Your Privacy: Stellar File Eraser Pro v5 - Set & Run Automated Clean-Up on Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/speedy-audio-on-phone-ultimate-list-of-tools/"><u>Speedy Audio on Phone Ultimate List of Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/trivia-treasures-2024-best-general-knowledge-streaming-sites/"><u>Trivia Treasures 2024 Best General Knowledge Streaming Sites</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-restful-nights-with-these-5-premier-apple-watch-sleep-applications/"><u>Unlock Restful Nights with These 5 Premier Apple Watch Sleep Applications</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-rode-streamer-x-a-step-closer-to-streaming-perfection/"><u>Unveiling the Rode Streamer X: A Step Closer to Streaming Perfection?</u></a></li>
 </ul></div>
 

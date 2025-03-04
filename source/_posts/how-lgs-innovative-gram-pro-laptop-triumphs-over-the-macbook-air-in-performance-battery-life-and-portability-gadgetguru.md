@@ -1,7 +1,7 @@
 ---
 title: How LG's Innovative Gram Pro Laptop Triumphs Over the MacBook Air in Performance, Battery Life & Portability | GadgetGuru
-date: 2025-02-12T16:01:25.246Z
-updated: 2025-02-15T17:16:28.236Z
+date: 2025-02-28T20:47:51.664Z
+updated: 2025-03-04T17:38:39.693Z
 tags:
   - laptops
 categories:
@@ -55,10 +55,6 @@ If you're at all familiar with the previous ThinkPad X1 computers, you'll notice
 
 Another consequence of the limited space is the lack of ports. You have four inputs in total: two Thunderbolt 4 ports, an 3.5mm headphone/mic combo, and a slot for a Nano SIM, although the last one is optional. It's as barebones as you can get. To be honest, I am pleasantly surprised that there is a headphone jack. With how simple the [third-generation ThinkPad X1 Nano](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-nano-gen-3-%2813-inch-intel%29%2Flen101t0054&publisher_slug=itechdaily19598&exclusive=1) is, I was a little shocked it made the cut.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 Now the question is: would I recommend getting this laptop? Yes, I would actually. Sure, it may be a little too simplistic for some. If you want something more robust, I'd recommend [Dell's recent XPS 17](https://www.zdnet.com/article/i-tested-dells-latest-xps-laptops-and-cant-recommend-them-enough/). However, the XPS 17 isn't as portable, nor is its screen better than Lenovo's option. If you want a solid, daily work machine and don't care much for all the bells and whistles, I highly suggest picking up Lenovo's ThinkPad X1 Nano Gen 3.
@@ -97,21 +93,15 @@ Prices [start at $1,043](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/levate-video-performance-top-notch-youtube-seo-strategies-for-2024/"><u>[New] Elevate Video Performance Top-Notch YouTube SEO Strategies for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/levate-your-videos-with-complimentary-banners-here/"><u>[New] Elevate Your Videos with Complimentary Banners, Here</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-meme-crafters-den/"><u>[Updated] In 2024, Meme Crafter's Den</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breakdown-and-examination-of-the-groundbreaking-4tb-wd-blue-sn50e-drive-by-western-digital/"><u>Breakdown and Examination of the Groundbreaking 4TB WD Blue SN50e Drive by Western Digital</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/first-impressions-matter-why-godfall-falls-short-for-the-playstation-5/"><u>First Impressions Matter: Why Godfall Falls Short for the PlayStation 5</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-installation-gigabytes-high-quality-sound-card-drivers/"><u>Free Installation: Gigabyte's High-Quality Sound Card Drivers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-tips-to-share-pre-recorded-videos-live-on-facebook/"><u>In 2024, Tips to Share Pre-Recorded Videos Live on Facebook</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-unboxing-and-testing-the-raspberry-pi-ai-learning-set/"><u>In-Depth Review: Unboxing and Testing the Raspberry Pi AI Learning Set</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-tech-insights-at-toms-hardware/"><u>In-Depth Reviews & Tech Insights at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-sabrent-rocket-nano-2242-1tb-ssd-evaluation-the-ultimate-m2-pcie-gen3-x4-storage-solution/"><u>In-Depth Sabrent Rocket Nano 2242 1TB SSD Evaluation – The Ultimate M.2 PCIe Gen3 X4 Storage Solution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-tech-world-tips-and-tricks-by-toms-hardware/"><u>Navigate the Tech World: Tips & Tricks by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-trusty-reviews-at-toms-hardware/"><u>Navigating the World of Electronics with Trusty Reviews at Tom's Hardware</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-jump-cutting-like-a-pro-in-fcpx-expert-techniques-revealed-for-2024/"><u>New Jump Cutting Like a Pro in FCPX Expert Techniques Revealed for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/steps-for-refreshing-info-on-your-little-ones-messengers/"><u>Steps for Refreshing Info on Your Little One’s Messengers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-chronicles-in-depth-analysis-of-cutting-edge-hardware/"><u>Tom's Computer Chronicles: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unlock-the-secrets-amazfit-helio-rings-pricing-strategy-spec-sheet-and-launch-forecast-explained/"><u>Unlock the Secrets: Amazfit Helio Ring's Pricing Strategy, Spec Sheet & Launch Forecast Explained</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ediameld-editsuite/"><u>[New] MediaMeld EditSuite</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-ultimate-gaming-setup-with-msis-titan-18-pro-ryzen-edition-featuring-the-cutting-edge-combo-of-amd-ryzen-9-and-nvidia-rtx-graphics/"><u>Discover the Ultimate Gaming Setup with MSI’s Titan 18 Pro Ryzen Edition: Featuring the Cutting-Edge Combo of AMD Ryzen 9 and Nvidia RTX Graphics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-innovation-with-toms-computing-insights/"><u>Discovering Innovation with Tom's Computing Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-top-tech-a-dive-into-toms-hardware-selection/"><u>Discovering Top Tech: A Dive Into Tom's Hardware Selection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/double-display-power-with-acemagics-intel-laptop-priced-at-899-and-below/"><u>Double Display Power with Acemagic's Intel Laptop - Priced at $899 and Below</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-incompatible-drivers-a-step-by-step-guide-to-validating-and-installing-on-your-computer/"><u>Fixing Incompatible Drivers: A Step-by-Step Guide to Validating and Installing on Your Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/identifying-power-hungry-applications-a-guide-to-managing-battery-drain-on-your-android-device/"><u>Identifying Power-Hungry Applications: A Guide to Managing Battery Drain on Your Android Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tune-up-your-whatsapp-status-snapshot/"><u>In 2024, Tune Up Your WhatsApp Status Snapshot</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>New In 2024, Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
+<li><a href="https://facebook.techidaily.com/top-5-deceptive-tricks-in-facebook-trade-and-safeguarding-strategies/"><u>Top 5 Deceptive Tricks in Facebook Trade & Safeguarding Strategies</u></a></li>
 </ul></div>
 

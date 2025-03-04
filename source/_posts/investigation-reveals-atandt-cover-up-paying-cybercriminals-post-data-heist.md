@@ -1,7 +1,7 @@
 ---
 title: "Investigation Reveals AT&T Cover-Up: Paying Cybercriminals Post-Data Heist"
-date: 2024-09-18 10:19:37
-updated: 2024-09-20 11:44:20
+date: 2025-02-26T18:47:05.342Z
+updated: 2025-03-04T20:51:23.104Z
 tags:
   - cyber-threats
 categories:
@@ -69,11 +69,30 @@ If you're considering switching to an encrypted texting app, here's [a look at o
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-incorporate-soundtrack-elements-into-premiere-pro/"><u>[New] 2024 Approved Incorporate Soundtrack Elements Into Premiere Pro</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-sky-eyes-on-the-action-dji-phantom-pro-vs-gopro-fusion/"><u>[Updated] Sky Eyes on the Action DJi Phantom Pro VS GoPro Fusion</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clever-tip-for-techies-the-simple-fix-of-rebooting-to-beat-phone-problems/"><u>Clever Tip for Techies: The Simple Fix of Rebooting to Beat Phone Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-blocked-by-administrator-in-windows-os/"><u>Fixing Blocked by Administrator in Windows OS</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-unveiling-mr-beasts-cash-flow/"><u>In 2024, Unveiling Mr. Beast's Cash Flow</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-concentration-a-guide-to-activating-focus-mode-on-your-android-device/"><u>Mastering Concentration: A Guide to Activating Focus Mode on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-photography-transforming-your-android-device-into-a-professional-web-camera/"><u>Mastering Mobile Photography: Transforming Your Android Device Into a Professional Web Camera</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-future-of-manufacturing-chatgpt-and-3d-printing/"><u>Navigating the Future of Manufacturing: ChatGPT & 3D Printing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/permanently-switched-on-why-i-chose-dark-mode-for-good/"><u>Permanently Switched On: Why I Chose Dark Mode for Good</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/portable-charging-with-a-twist-the-mophie-battery-includes-an-additional-ac-connection-for-versatile-use/"><u>Portable Charging with a Twist: The Mophie Battery Includes an Additional AC Connection for Versatile Use</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/quick-tips-for-flipping-and-adjusting-video-orientation-on-an-android-phone/"><u>Quick Tips for Flipping and Adjusting Video Orientation on an Android Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/recognizing-age-related-wear-and-tear-in-your-4-year-old-android-device/"><u>Recognizing Age-Related Wear and Tear in Your 4-Year-Old Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/say-goodbye-to-traditional-wallets-embracing-the-convenience-of-a-magnetic-phone-pouch/"><u>Say Goodbye to Traditional Wallets: Embracing the Convenience of a Magnetic Phone Pouch.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-when-discord-voice-communication-is-not-working/"><u>Solving the Problem When Discord Voice Communication Is Not Working</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-locate-hidden-windows-1011-search-data/"><u>Techniques to Locate Hidden Windows 10/11 Search Data</u></a></li>
+</ul></div>
+

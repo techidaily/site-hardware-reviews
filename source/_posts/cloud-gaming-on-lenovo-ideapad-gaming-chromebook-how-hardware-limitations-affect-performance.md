@@ -1,7 +1,7 @@
 ---
 title: "Cloud Gaming on Lenovo IdeaPad Gaming Chromebook: How Hardware Limitations Affect Performance"
-date: 2025-02-09T16:45:54.361Z
-updated: 2025-02-15T16:22:30.112Z
+date: 2025-02-27T21:00:26.204Z
+updated: 2025-03-04T18:36:43.831Z
 tags:
   - laptops
 categories:
@@ -40,10 +40,6 @@ Honestly, the differences in that comparison will be mostly razor thin. My testi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | Processor             | Intel 12th Gen Core i5-1235U                                                                                               |
@@ -56,10 +52,6 @@ Honestly, the differences in that comparison will be mostly razor thin. My testi
 | Connectivity          | Wi-Fi 6E, Bluetooth 5.1                                                                                                    |
 | Ports                 | MicroSD card slot, 2 x USB-C 3.2 Gen 2 (with power delivery and DisplayPort 1.4), 2 x USB-A 3.2 Gen 1, headphone/mic combo |
 | Dimensions and weight | 19.95mm (H) x 356.5mm (W) x 253mm (D) (0.79 x 14.03 x 9.96 inches) \| 4.01lbs                                              |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Build and ports
 
@@ -93,10 +85,6 @@ Unusually, for a Lenovo device, I didn't love the keyboard. The individual keys 
 
 Of course, you'll eventually get used to this layout, but I'm not certain it was necessary to begin with. Very few gamers make use of a full numpad for anything short of custom real-time strategy layouts or unusual MMORPG control schemes. Even then, they'd likely be better served by something like the [SteelSeries Aerox 9 Wireless](https://www.zdnet.com/home-and-office/home-entertainment/steelseries-aerox-9-wireless-review/), or another MMO/MOBA mouse that does the same job as a numpad.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Performance
 
 The included display is richly saturated, gets more than bright enough for direct sunlight, and has pleasantly thin bezels.
@@ -119,10 +107,6 @@ As a last note, I should mention that the battery life of the IdeaPad Gaming Chr
 
 [Lenovo IdeaPad Gaming Chromebook $600 at Lenovo](https://lenovo.vzew.net/c/5597632/218864/3808?sharedId=zdnet&u=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fideapad%2Fideapad-gaming-laptops%2Fideapad-5i-gaming-chromebook-gen-7-%2816-inch-intel%29%2F82v8000hux&subId1=zd-__COM_CLICK_ID__-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 Michael Gariffo/ZDNET
@@ -134,10 +118,6 @@ This Chromebook and others like it are already more than capable enough to handl
 **Also: [How to choose a computer for your child](https://www.zdnet.com/education/computers-tech/how-to-choose-a-computer-for-your-child/)**
 
 Thankfully, progress is constantly being made. In the short few weeks between the Acer review and this one, Xbox Cloud Gaming has seen noticeable performance enhancements. But then again, it also continues to stop me dead when trying to play some games. I believe cloud gaming really will fulfill its potential...eventually. If you want an excellent way of joining in what will surely be a wild ride on the way there, Lenovo's take on a gaming Chromebook is one of the best options available. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -187,14 +167,24 @@ Would you rather dabble in cloud gaming, but maintain the ability to locally ins
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-kidsanime-app-assessment-and-guide-2024/"><u>[New] KidsAnime App Assessment & Guide 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/an-animated-look-at-valkyrie-vind-sl125s-performance-impeccable-style-but-inferior-execution-revealed/"><u>An Animated Look at Valkyrie Vind SL125's Performance - Impeccable Style but Inferior Execution Revealed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-valkyrie-syn-2n40-aio-water-block-assessment-outstanding-thermal-efficiency-meets-bulky-app-interface/"><u>Comprehensive Valkyrie Syn 2N40 AIO Water Block Assessment: Outstanding Thermal Efficiency Meets Bulky App Interface</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-steps-for-dual-screen-setup-on-your-pc/"><u>Easy Steps for Dual Screen Setup on Your PC</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-gadgets-visit-toms-hardware-hub/"><u>Expert Guidance on Gadgets - Visit Tom's Hardware Hub</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-use-gpt-mentions-to-call-out-custom-gpts-in-any-chatgpt-conversation/"><u>How to Use GPT Mentions to Call Out Custom GPTs in Any ChatGPT Conversation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-reviews-join-us-at-toms-tech-forum/"><u>Pioneering Hardware Reviews: Join Us at Tom's Tech Forum</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-unpacked-2025-a-comprehensive-guide-to-anticipated-launches-rumors-and-news-highlights/"><u>Samsung Unpacked 2025: A Comprehensive Guide to Anticipated Launches, Rumors, and News Highlights</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-final-cut-pro-tips-and-tricks-flipping-clips-with-ease-4-steps/"><u>Updated In 2024, Final Cut Pro Tips and Tricks Flipping Clips with Ease (4 Steps)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-optimal-zoom-audio-enhancing-quality-two-fold-approach/"><u>[New] 2024 Approved Optimal Zoom Audio Enhancing Quality, Two-Fold Approach</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-lessons-apt-color-adjustment-tips-for-2024/"><u>[Updated] Essential Lessons Apt Color Adjustment Tips for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-learn-to-film-great-content-on-your-mac-for-youtube-beginners/"><u>2024 Approved Learn to Film Great Content on Your Mac for YouTube Beginners</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-get-the-most-recent-logiten-g403-driver-update-for-pcs/"><u>How to Get the Most Recent Logiten G403 Driver Update for PCs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-y100-easily-by-drfone-android/"><u>How To Unlock a Vivo Y100 Easily?</u></a></li>
+<li><a href="https://win-updates.techidaily.com/lenovo-ideapad-110s-windows-10/"><u>Lenovo IdeaPad 110S Windows 10 初期設定手順 - 詳しく見て</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-your-guide-to-top-hardware-picks/"><u>Mastering Gadgets with Tom - Your Guide to Top Hardware Picks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-toms-guide-to-choosing-and-reviewing-essential-tech-tools/"><u>Mastering Gadgets: Tom's Guide to Choosing and Reviewing Essential Tech Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-in-depth-analysis-from-toms-hardware-experts/"><u>Mastering Tech: In-Depth Analysis From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-world-in-depth-reviews-and-news-from-toms-electronics-hub/"><u>Mastering Your Tech World - In-Depth Reviews and News From Tom's Electronics Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/microsofts-flagship-tablet-reviewed-the-surface-pro-amazes-in-style-but-its-ai-offerings-leave-room-for-improvement/"><u>Microsoft's Flagship Tablet Reviewed: The Surface Pro Amazes in Style, but Its AI Offerings Leave Room for Improvement</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-through-high-performance-pcs-toms-hardware-analysis/"><u>Navigate Through High-Performance PCs: Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadgets-the-ultimate-guide-by-tom/"><u>Navigating Gadgets: The Ultimate Guide by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-generation-processor-powerhouse-the-asus-zenbook-s-and-tuf-a14-unite-intel-and-amd-technologies-in-style/"><u>Next-Generation Processor Powerhouse: The Asus ZenBook S & TUF A14 Unite Intel & AMD Technologies in Style</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolve-video-glitches-with-ease-in-vlc/"><u>Resolve Video Glitches with Ease in VLC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-itel-p55-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-essentials-your-ultimate-guide/"><u>Tom's Computer Essentials: Your Ultimate Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/what-does-it-mean-when-your-laptop-whirs-and-clicks-insights-by-yl-tech-experts/"><u>What Does It Mean When Your Laptop Whirs and Clicks? Insights by YL Tech Experts</u></a></li>
 </ul></div>
 

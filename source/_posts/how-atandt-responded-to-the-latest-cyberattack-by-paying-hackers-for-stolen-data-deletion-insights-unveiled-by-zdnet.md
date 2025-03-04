@@ -1,7 +1,7 @@
 ---
 title: How AT&T Responded to the Latest Cyberattack by Paying Hackers for Stolen Data Deletion - Insights Unveiled by ZDNet
-date: 2024-09-17 12:54:39
-updated: 2024-09-20 11:54:12
+date: 2025-03-03T17:36:56.359Z
+updated: 2025-03-04T17:22:58.084Z
 tags:
   - cyber-threats
 categories:
@@ -69,11 +69,31 @@ If you're considering switching to an encrypted texting app, here's [a look at o
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-safeguard-against-youtube-prohibitions/"><u>[New] How to Safeguard Against Youtube Prohibitions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlining-video-sequence-assembly-through-blends/"><u>[New] Streamlining Video Sequence Assembly Through Blends</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-explore-the-richest-historical-content-with-these-top-10-yt-groups/"><u>2024 Approved Explore the Richest Historical Content with These Top 10 YT Groups</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-artwork-synthesis-how-to-harness-the-power-of-chatgpt-for-visual-content-creation/"><u>AI Artwork Synthesis: How To Harness the Power of ChatGPT for Visual Content Creation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-down-brilliance-the-ultimate-review-of-gigabyte-aorus-oled-monitor-true-to-life-colors-and-crisp-contrasts/"><u>Breaking Down Brilliance: The Ultimate Review of Gigabyte Aorus OLED Monitor - True-to-Life Colors & Crisp Contrasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/claim-your-100-off-alienwares-newest-addition-the-aw3225qf-gaming-masterpiece-immerse-in-quality-with-4k-qd-oled-visuals-and-240-hz-refresh/"><u>Claim Your $100 Off: Alienware's Newest Addition, The AW3^225QF Gaming Masterpiece - Immerse in Quality with 4K QD-OLED Visuals and 240 Hz Refresh</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-tech-reviews-and-guides-by-toms-hardware-gurus/"><u>Cutting-Edge Tech Reviews and Guides by Tom's Hardware Gurus</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deep-discount-on-samsungs-odyssey-g9-49-oled-curved-masterpiece-now-more-affordable-than-ever/"><u>Deep Discount on Samsung's Odyssey G9: 49 OLED Curved Masterpiece Now More Affordable Than Ever</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-gear-with-toms-tech-evaluations/"><u>Discover Cutting-Edge Gear with Tom's Tech Evaluations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-future-with-samsungs-latest-upgrade-to-odyssey-and-view-series-now-infused-with-advanced-ai-tech/"><u>Discover the Future with Samsung's Latest Upgrade to Odyssey and View Series - Now Infused with Advanced AI Tech!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/elite-interactive-web-summit-title-for-2024/"><u>Elite Interactive Web Summit Title for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-a-guide-by-toms-hardware-experts/"><u>Exploring the Latest in Tech: A Guide by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gadget-gurus-review-roundup-comparing-top-tier-electronic-enhancements/"><u>Gadget Gurus' Review Roundup: Comparing Top-Tier Electronic Enhancements</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-effective-is-microsofts-windows-defender-in-shielding-against-cyber-threats-expert-analysis-by-yl-software/"><u>How Effective Is Microsoft's Windows Defender in Shielding Against Cyber Threats? – Expert Analysis by YL Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-your-ipad-discover-how-this-innovative-kid-friendly-tablet-is-changing-the-game-now-available-at-discount-prices/"><u>Say Goodbye to Your iPad: Discover How This Innovative Kid-Friendly Tablet Is Changing the Game - Now Available at Discount Prices!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlock-windows-xp-professional-for-media-development/"><u>Unlock Windows XP Professional for Media Development</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+</ul></div>
+

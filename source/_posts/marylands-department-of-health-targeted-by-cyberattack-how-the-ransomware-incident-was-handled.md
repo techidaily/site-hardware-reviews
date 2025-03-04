@@ -1,7 +1,7 @@
 ---
 title: "Maryland's Department of Health Targeted by Cyberattack: How the Ransomware Incident Was Handled"
-date: 2024-09-19 19:39:21
-updated: 2024-09-20 12:11:54
+date: 2025-03-01T20:41:15.818Z
+updated: 2025-03-04T18:27:04.613Z
 tags:
   - cyber-threats
 categories:
@@ -85,11 +85,33 @@ Heath Renfrow, CISO of Conversant Group, told _ZDNet_ that it was "bold" of offi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-quick-guide-resolving-obs-skipping-problems/"><u>[New] 2024 Approved Quick Guide Resolving OBS Skipping Problems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-youtube-ad-revenue-how-much-do-youtubers-make-per-ad/"><u>[Updated] 2024 Approved YouTube Ad Revenue How Much Do YouTubers Make Per Ad?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-uncover-the-best-android-photo-editor-does-picku-stand-out-in-2024/"><u>[Updated] Uncover the Best Android Photo Editor – Does PickU Stand Out, In 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-screen-capture-tips-for-mi-11-users/"><u>2024 Approved Essential Screen Capture Tips for Mi 11 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-free-registry-optimizers-for-windows-top-picks-inside/"><u>Discover the Leading Free Registry Optimizers for Windows - Top Picks Inside!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/from-static-to-dynamic-a-comprehensive-look-at-the-new-polaroid-xs-100i-action-camera-for-2024/"><u>From Static to Dynamic A Comprehensive Look at the New Polaroid XS 100I Action Camera for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-windows-rndis-driver-updates-installed-with-ease-a-comprehensive-guide/"><u>Get the Latest Windows RNDIS Driver Updates Installed with Ease – A Comprehensive Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-email-signatures-a-comprehensive-walkthrough-for-godaddy-webmail-users/"><u>Mastering the Art of Email Signatures: A Comprehensive Walkthrough for Godaddy Webmail Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-tech-discovery-through-toms-hardware-reviews/"><u>Pioneering Tech Discovery Through Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-pc-setup-the-asrock-z89et-taichi-aqua-motherboard-comes-with-10x-usb-type-c-and-2x-lightning-fast-thunderbolt-ports/"><u>Revolutionize Your PC Setup: The ASRock Z89eT Taichi Aqua Motherboard Comes with 10X USB Type-C & 2X Lightning-Fast Thunderbolt Ports</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/shop-high-performance-motherboards-and-boards-with-longsun-cpus-beginning-at-just-373-available-in-the-us/"><u>Shop High-Performance Motherboards & Boards with Longsun CPUs: Beginning at Just $373 - Available in the U.S</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/snag-your-asus-x670-p-wifi-am5-mobo-now-unbelievable-sale-135/"><u>Snag Your Asus X670-P WiFi AM5 Mobo Now - Unbelievable Sale @$135</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-asrock-z790i-lightning-wi-fi-board-review-packed-potency-in-a-petite-package/"><u>The ASROCK Z790I Lightning Wi-Fi Board Review - Packed Potency in a Petite Package</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-complete-guide-to-computers-and-peripherals-by-toms-technology-hub/"><u>The Complete Guide to Computers and Peripherals by Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-source-for-pc-hardware-at-toms-hardware/"><u>The Definitive Source for PC Hardware at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-perfect-blend-of-form-and-function-in-a-thin-motherboard-asrocks-x600tm-itx-mini-itx-option/"><u>The Perfect Blend of Form and Function in a Thin Motherboard: ASRock's X600TM-ITX Mini-ITX Option</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-hardware-analysis-t17238628805656/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Hardware Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725289986671-winxdvd-dvd/"><u>WinXDVD: 최고의 소프트웨어 인터랙티브 - 속도와 방해를 제거하여 DVD에 대한 전문화</u></a></li>
+</ul></div>
+

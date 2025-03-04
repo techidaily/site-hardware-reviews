@@ -1,7 +1,7 @@
 ---
 title: Kaseya Incident Mastermind Transferred to U.S., Appears Before Judges for Extradition Hearing
-date: 2024-09-19 10:34:48
-updated: 2024-09-20 12:40:27
+date: 2025-03-03T16:24:05.851Z
+updated: 2025-03-04T16:40:18.164Z
 tags:
   - cyber-threats
 categories:
@@ -73,11 +73,26 @@ According to the US Department of Justice, in addition to the headlining attacks
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-critical-analysis-the-true-value-of-instas-selfie-confirmation/"><u>[New] 2024 Approved Critical Analysis The True Value of Insta's Selfie Confirmation</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-the-science-proven-methods-for-effective-hashtagging-on-fb-for-2024/"><u>[New] Mastering the Science Proven Methods for Effective Hashtagging on FB for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-essential-guidelines-for-securely-moving-your-tower-computer/"><u>1. Essential Guidelines for Securely Moving Your Tower Computer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-exclusive-tech-bargains-snag-amazons-fire-tv-and-ecoflow-at-discounted-prices-plus-top-picks/"><u>1. Exclusive Tech Bargains: Snag Amazon's Fire TV & EcoFlow at Discounted Prices - Plus Top Picks!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-the-durable-clamshell-notebook-a-timeless-tech-companion/"><u>1. The Durable Clamshell Notebook: A Timeless Tech Companion</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-lava-yuva-2-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Lava Yuva 2 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-hosting-for-everyone-top-10-sites-ranked/"><u>Free Video Hosting for Everyone Top 10 Sites Ranked</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Without Passcode?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/reimagining-ppts-with-todays-webcam-capabilities-for-2024/"><u>Reimagining PPTs with Today's Webcam Capabilities for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/simplified-rss-feed-creation-methods-for-podcasters-for-2024/"><u>Simplified RSS Feed Creation Methods for Podcasters for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-invest-in-luxury-understanding-costs-of-the-new-model-g-two-section-charcoal-griller/"><u>Why Invest in Luxury? Understanding Costs of the New Model G Two-Section Charcoal Griller</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-paddle-controllers-enhance-my-gaming-experience-an-insider-look/"><u>Why Paddle Controllers Enhance My Gaming Experience - An Insider Look</u></a></li>
+</ul></div>
+

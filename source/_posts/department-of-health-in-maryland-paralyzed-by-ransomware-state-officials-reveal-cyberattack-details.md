@@ -1,7 +1,7 @@
 ---
 title: "Department of Health in Maryland Paralyzed by Ransomware: State Officials Reveal Cyberattack Details"
-date: 2024-09-18 14:59:27
-updated: 2024-09-20 12:25:25
+date: 2025-02-26T17:40:13.767Z
+updated: 2025-03-04T20:15:54.434Z
 tags:
   - cyber-threats
 categories:
@@ -85,11 +85,31 @@ Heath Renfrow, CISO of Conversant Group, told _ZDNet_ that it was "bold" of offi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-streamlining-your-iphone-7-video-saving-routine/"><u>[New] In 2024, Streamlining Your iPhone 7 Video Saving Routine</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-boost-your-photo-skills-with-these-top-pixlr-tricks/"><u>[Updated] 2024 Approved Boost Your Photo Skills with These Top Pixlr Tricks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-seamless-share-youtube-videos-set-up-autoplay-on-fb/"><u>[Updated] 2024 Approved Seamless Share YouTube Videos Set Up Autoplay on FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-banner-templates-and-makers-for-youtube/"><u>[Updated] In 2024, Free Banner Templates & Makers for YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-compreeved-guide-to-optimizing-space-and-pc-for-vr/"><u>2024 Approved The Compreeved Guide to Optimizing Space & PC for VR</u></a></li>
+<li><a href="https://extra-information.techidaily.com/acclaimed-top-5-effortless-action-camcorders-for-2024/"><u>Acclaimed Top 5 Effortless Action Camcorders for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/analyzing-the-beyerdynamic-mmx-300-pro-exceptional-audio-quality-meets-fundamental-design/"><u>Analyzing the Beyerdynamic MMX 300 Pro: Exceptional Audio Quality Meets Fundamental Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhance-your-typing-experience-upgrade-to-a-luxurious-mx-palm-rest-by-logitech-at-only-11/"><u>Enhance Your Typing Experience: Upgrade to a Luxurious MX Palm Rest by Logitech at Only $11!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964487700-experience-enhanced-productivity-with-sabrents-350-hybrid-display-and-thunderbolt-dock-featuring-65w-usb-c-ethernet-ports-and-more/"><u>Experience Enhanced Productivity with Sabrent's $350 Hybrid Display and Thunderbolt Dock - Featuring 65W USB-C, Ethernet Ports, and More</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-personalized-typing-with-xyza-tiny-keyboard-v20-new-features-include-triple-tailored-keys-and-adjustable-dial-for-enhanced-usability/"><u>Experience Personalized Typing with XYZA Tiny Keyboard v2.0 – New Features Include Triple-Tailored Keys and Adjustable Dial for Enhanced Usability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-insights-by-tom-your-trusted-source/"><u>Expert Hardware Insights by Tom - Your Trusted Source</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/harmony-hearts-the-ultimate-song-playlist-for-a-promise/"><u>Harmony Hearts The Ultimate Song Playlist for a Promise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-navigating-cutting-edge-gadgets-and-computing-insights/"><u>Inside Tom's Hardware: Navigating Cutting-Edge Gadgets and Computing Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-gaming-glitches-keeping-df-playtime-uninterrupted/"><u>Navigating Gaming Glitches: Keeping DF Playtime Uninterrupted</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-hardware-with-toms-guide-expert-tips-and-reviews-for-every-device/"><u>Navigating Hardware with Tom's Guide: Expert Tips and Reviews for Every Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-broadcasting-android-apps-and-videos-to-firestick/"><u>The Ultimate Tutorial: Broadcasting Android Apps and Videos to Firestick</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-productivity-with-nuphy-gem80-a-seamless-custom-keyboard-journey/"><u>Unlocking Productivity with Nuphy Gem80: A Seamless Custom Keyboard Journey</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Ransomware Incident Forces Maryland's Department of Health Closure - Insights From Government Leaders on ZDNet
-date: 2024-09-18 19:17:54
-updated: 2024-09-20 11:32:33
+date: 2025-03-01T17:26:41.430Z
+updated: 2025-03-04T20:15:31.043Z
 tags:
   - cyber-threats
 categories:
@@ -85,11 +85,31 @@ Heath Renfrow, CISO of Conversant Group, told _ZDNet_ that it was "bold" of offi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitter-takeover-1-10-must-watch-threads/"><u>[Updated] 2024 Approved Twitter Takeover #1-#10 Must-Watch Threads</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-audiovisual-harmony-perfecting-voiceover-in-videos/"><u>[Updated] In 2024, Audiovisual Harmony Perfecting Voiceover in Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigate-past-edgenuity-stealthy-study-strategies/"><u>2024 Approved Navigate Past Edgenuity Stealthy Study Strategies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deep-dive-into-performance-and-price-the-patriot-viper-vp43nlite-ssd-with-massive-4tb-storage/"><u>Deep Dive Into Performance & Price - The Patriot Viper VP43nLite SSD with Massive 4TB Storage</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-in-digital-tools-with-toms-hardware-reviews/"><u>Discover the Best in Digital Tools with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embracing-artificial-intelligence-sk-hynix-debuts-revolutionary-pcie-50-ssd-technology/"><u>Embracing Artificial Intelligence - SK Hynix Debuts Revolutionary PCIe 5.0 SSD Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-samsungs-petabyte-ssd-cloud-storage-with-tailored-server-solutions/"><u>Explore Samsung's Petabyte SSD Cloud Storage with Tailored Server Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-in-depth-reviews-and-insights/"><u>Exploring Tom's Hardware: In-Depth Reviews and Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-handhelds-evolve-nextorage-delivers-a-breakthrough-in-speed-with-its-m2-2230-ssd-offering-lightning-fast-7n40mbs-speeds/"><u>Game Handhelds Evolve: Nextorage Delivers a Breakthrough in Speed with Its M.2 2230 SSD Offering Lightning-Fast 7,N40MB/S Speeds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-like-never-before-with-nextorages-new-ultra-rapid-handheld-ssd-drive-at-7400mbs-speeds/"><u>Game Like Never Before with Nextorage's New Ultra-Rapid Handheld SSD Drive at 7,400MB/S Speeds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hardware-highlights-with-tom-cutting-edge-gadget-reviews-and-comparisons/"><u>Hardware Highlights with Tom: Cutting-Edge Gadget Reviews and Comparisons</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-x7b-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor X7b Safely | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-your-step-by-step-guide-to-building-a-profitable-channel/"><u>In 2024, Your Step-by-Step Guide to Building a Profitable Channel</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-15-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 15 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/livetv-and-facebook-integrating-fb-livestreams-for-2024/"><u>LiveTV and Facebook Integrating FB Livestreams for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-bluestacks-freezing-issues-with-simple-fixes/"><u>Solving BlueStacks Freezing Issues with Simple Fixes</u></a></li>
+</ul></div>
+

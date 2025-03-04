@@ -1,7 +1,7 @@
 ---
 title: CISA Agrees to Collaborate With FBI on Cyber Threat Reporting Following DOJ Criticism of Cross-Party Cyber Safety Legislation | ZDNet
-date: 2024-09-17 23:28:42
-updated: 2024-09-20 12:27:54
+date: 2025-02-27T20:37:26.416Z
+updated: 2025-03-04T20:24:18.456Z
 tags:
   - cyber-threats
 categories:
@@ -67,11 +67,29 @@ Rep. Jim Langevin, the co-chair of the Cybersecurity Caucus, said getting incide
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-joke-fusion-best-meme-concepts-for-special-occasions/"><u>[New] Joke Fusion Best Meme Concepts for Special Occasions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-transform-images-into-movies-xp-software-guide/"><u>2024 Approved Transform Images Into Movies XP Software Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-tuf-gaming-a14-laptop-an-expert-review-on-longevity-and-endurance-in-gaming-pcs/"><u>Asus TUF Gaming A14 Laptop: An Expert Review on Longevity & Endurance in Gaming PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-powerful-asus-rog-rapture-gigabit-wifi-7-router-with-unmatched-performance-and-scalability/"><u>Comprehensive Analysis of the Powerful Asus ROG Rapture Gigabit WiFi 7 Router with Unmatched Performance and Scalability</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-android-to-iphone-the-top-3-iphone-16-features-that-might-just-change-my-mind/"><u>From Android to iPhone: The Top 3 iPhone 16 Features That Might Just Change My Mind</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-eye-catching-narrative-starter-gadget/"><u>In 2024, Eye-Catching Narrative Starter Gadget</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-gskill-trident-z5-rgb-the-perfect-companion-for-dual-channel-dimm-configurations/"><u>In-Depth Review of the G.SKILL Trident Z5 RGB - The Perfect Companion for Dual-Channel DIMM Configurations</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-se-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone SE Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-tutorial-on-creating-and-using-slack-alerts-for-deadlines/"><u>The Comprehensive Tutorial on Creating and Using Slack Alerts for Deadlines</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-initial-planning-phase-includes-a-detailed-survey-of-the-propertys-physical-features/"><u>The Initial Planning Phase Includes a Detailed Survey of the Property's Physical Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-the-ultimate-guide/"><u>Tom's Tech Review: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Review: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-solutions-to-tame-the-centipede-error-in-destiny-2-gaming-experience/"><u>Unlock Solutions to Tame the Centipede Error in Destiny 2 Gaming Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-gear-secrets-expert-advice-from-toms-hardware/"><u>Unveiling Top Gear Secrets - Expert Advice From Tom's Hardware</u></a></li>
+</ul></div>
+

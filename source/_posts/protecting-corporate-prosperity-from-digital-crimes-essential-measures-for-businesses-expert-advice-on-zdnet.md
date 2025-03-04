@@ -1,7 +1,7 @@
 ---
 title: Protecting Corporate Prosperity From Digital Crimes - Essential Measures for Businesses | Expert Advice on ZDNET
-date: 2024-09-19 22:47:34
-updated: 2024-09-20 10:58:27
+date: 2025-02-28T17:39:16.899Z
+updated: 2025-03-04T17:46:51.731Z
 tags:
   - cyber-threats
 categories:
@@ -59,11 +59,28 @@ And, finally use what I call the [principle of least privilege](https://medium.c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimize-space-compelling-selection-of-20-top-free-cloud-storages-up-to-1tb/"><u>[Updated] Optimize Space Compelling Selection of 20 Top FREE Cloud Storages (Up To 1TB)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-gadget-breakdown-with-tom-focus-on-hardware/"><u>Comprehensive Gadget Breakdown with Tom - Focus on Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-pc-world-a-comprehensive-resource/"><u>Exploring Tom's PC World: A Comprehensive Resource</u></a></li>
+<li><a href="https://article-helps.techidaily.com/eye-opening-experience-selecting-best-for-vr-gaming-for-2024/"><u>Eye-Opening Experience Selecting Best for VR Gaming for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/guided-steps-to-decrease-audio-intensity-using-lumafusion/"><u>Guided Steps to Decrease Audio Intensity Using Lumafusion</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-pixio-px277-oled-the-hidden-gem-among-gaming-displays/"><u>In-Depth Analysis of the Pixio PX277 OLED - The Hidden Gem Among Gaming Displays</u></a></li>
+<li><a href="https://fox-links.techidaily.com/leveraging-patient-stories-a-guide-to-powerful-videography-for-2024/"><u>Leveraging Patient Stories A Guide to Powerful Videography for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/realme-12-pro-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 12 Pro 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-gaming-displays-a-closer-look-at-the-speedy-performance-of-a-45-inch-oled-monitor-aoc-agon-pro-ag456uczd/"><u>Revolutionizing Gaming Displays – A Closer Look at the Speedy Performance of a 45-Inch OLED Monitor (AOC Agon Pro AG456UCZD)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-instagram-circle-of-power-the-leading-25-titans-revealed-for-2024/"><u>The Instagram Circle of Power The Leading 25 Titans Revealed for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-gpt-4-a-guide-to-five-complimentary-gateways/"><u>Unlocking GPT-4: A Guide to Five Complimentary Gateways</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-power-of-technology-with-toms-hardware-tips/"><u>Unlocking the Power of Technology with Tom's Hardware Tips</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/value-meets-performance-the-definitive-insight-into-ibuypower-gaming-systems/"><u>Value Meets Performance: The Definitive Insight Into IBuypower Gaming Systems</u></a></li>
+</ul></div>
+

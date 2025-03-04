@@ -1,7 +1,7 @@
 ---
 title: Is Your Info at Risk? Check if You Were Affected by Recent Cyberattacks
-date: 2024-09-19 15:21:33
-updated: 2024-09-20 12:58:23
+date: 2025-03-01T16:02:58.584Z
+updated: 2025-03-04T18:08:23.962Z
 tags:
   - cyber-threats
 categories:
@@ -230,11 +230,33 @@ Unfortunately, it is up to individuals to deal with the fallout; knowing you've 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-latest-in-picsart-a-comprehensive-guide-and-review/"><u>[New] Explore the Latest in PicsArt - A Comprehensive Guide and Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benchmarking-akasa-gecko-blower-cooler-efficacy-a-definitive-guide-to-superior-ssd-thermal-management/"><u>Benchmarking Akasa Gecko Blower Cooler Efficacy: A Definitive Guide to Superior SSD Thermal Management</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-top-trending-iphone-apps-in-depth-reviews-and-analysis/"><u>Discover the Top-Trending iPhone Apps In-Depth Reviews and Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-missing-d3dx939dll-error-fixes/"><u>Effective Solutions for Missing D3dx9_39.dll Error Fixes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-tech-with-toms-hardware-your-ultimate-resource/"><u>Exploring Tech with Tom's Hardware - Your Ultimate Resource</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-secrets-to-preserving-online-broadcasts-professionally/"><u>In 2024, Secrets to Preserving Online Broadcasts Professionally</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-insightful-hardware-analysis-and-tips/"><u>Mastering Gadgets with Tom: Insightful Hardware Analysis & Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-guides/"><u>Navigating the World of Technology with Tom's Hardware Guides</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-nokia-c02-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Nokia C02? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/rode-streamer-pro-x-is-it-the-ultimate-streaming-gear/"><u>Rode Streamer Pro X: Is It the Ultimate Streaming Gear?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/simplifying-the-art-of-creating-your-tiktok-doppelganger/"><u>Simplifying the Art of Creating Your TikTok Doppelgänger</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computing-insights-from-the-experts/"><u>Tom's Computing: Insights From the Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-guide/"><u>Tom's Tech Insights: Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-picks-for-portable-gaming-devices/"><u>Top Picks for Portable Gaming Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transform-your-livestreams-with-manycam-intuitive-video-enhancement-tools-and-realistic-virtual-camera-options/"><u>Transform Your Livestreams with ManyCam: Intuitive Video Enhancement Tools and Realistic Virtual Camera Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-secrets-of-computers-at-toms-hardware-sanctuary/"><u>Unlocking the Secrets of Computers at Tom's Hardware Sanctuary</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-strengths-and-gameplay-potential-of-the-asus-tuf-gaming-a14/"><u>Unveiling the Strengths and Gameplay Potential of the Asus TUF Gaming A14</u></a></li>
+</ul></div>
+

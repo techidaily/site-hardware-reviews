@@ -1,7 +1,7 @@
 ---
 title: Is Your Information Safe? Check if You Were Affected by Recent Cybersecurity Incidents | ZDNet
-date: 2024-09-18 17:14:56
-updated: 2024-09-20 12:39:53
+date: 2025-02-25T20:29:51.940Z
+updated: 2025-03-04T19:57:46.138Z
 tags:
   - cyber-threats
 categories:
@@ -230,11 +230,29 @@ Unfortunately, it is up to individuals to deal with the fallout; knowing you've 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-key-practices-for-soundless-media-gathering/"><u>[New] In 2024, Key Practices for Soundless Media Gathering</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unlock-your-videos-potential-with-these-youtube-seo-insights/"><u>[Updated] 2024 Approved Unlock Your Videos' Potential with These YouTube SEO Insights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-emulate-elegance-the-premier-selection-of-ps1-emulators-for-pc/"><u>2024 Approved Emulate Elegance The Premier Selection of PS1 Emulators for PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/conquering-skype-job-talks-top-9-insider-secrets-for-the-year-2024/"><u>Conquering Skype Job Talks: Top 9 Insider Secrets for the Year 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/explore-the-possibilities-with-dual-screen-watching-on-netflix/"><u>Explore the Possibilities with Dual-Screen Watching on Netflix</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/hitting-the-high-notes-in-instagram-photography-for-2024/"><u>Hitting the High Notes in Instagram Photography for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msis-response-to-z790-heatsink-failures-initiating-unit-replacements-for-affected-customers/"><u>MSI's Response to Z790 Heatsink Failures: Initiating Unit Replacements for Affected Customers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-innovations-a-journey-through-toms-tech-insights/"><u>Navigating Innovations: A Journey Through Tom's Tech Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-components-insights-from-toms-hardware-team/"><u>Navigating the World of PC Components: Insights From Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-your-next-purchase-on-toms-comprehensive-hardware-guides/"><u>Navigating Your Next Purchase on Tom's Comprehensive Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/new-high-speed-z791-wifi-board-powers-splaves-record-breaking-overclocking-feats/"><u>New High-Speed Z79^1 Wifi Board Powers Splave's Record-Breaking Overclocking Feats</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/newly-launched-budget-friendly-am5-mini-itx-motherboard-with-pcie-gen-4-by-sapphire-in-china/"><u>Newly-Launched Budget-Friendly AM5 Mini ITX Motherboard with PCIe Gen 4 by Sapphire in China</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-lack-of-hypervisor-in-windows-sandbox-environment/"><u>Resolving Lack of Hypervisor in Windows Sandbox Environment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revealed-the-powerhouse-of-a-board-unboxing-the-declassified-evgas-amd-motherboard/"><u>Revealed: The Powerhouse of a Board - Unboxing the Declassified EVGA's AMD Motherboard</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-oppo-a2-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Oppo A2? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
+

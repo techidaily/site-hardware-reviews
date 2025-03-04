@@ -1,7 +1,7 @@
 ---
 title: "Payout Skyrockets: Bugcrowd Announces Record-Breaking $1M Bug Bounty Reward - Insights on Google"
-date: 2024-09-18 10:42:30
-updated: 2024-09-20 10:58:20
+date: 2025-02-26T16:38:54.923Z
+updated: 2025-03-04T18:10:43.809Z
 tags:
   - cyber-threats
 categories:
@@ -57,11 +57,26 @@ The company also has an internal "Eyes of the Month program" for their employees
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-gleeful-loginsign-up-step-guide/"><u>[New] Gleeful Login/Sign Up Step Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-screens-at-their-peak-top-10-listings-for-4k-monitors/"><u>[New] Premium Screens at Their Peak Top #10 Listings for 4K Monitors</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-enlarge-your-videos-thumbnail-on-youtube-easily/"><u>[Updated] Enlarge Your Video's Thumbnail on YouTube Easily</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-computer-hardware-by-tom-the-ultimate-guide-for-buyers/"><u>Expert Insights on Computer Hardware by Tom - The Ultimate Guide for Buyers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-zte-blade-a73-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on ZTE Blade A73 5G</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-make-a-lasting-impression-top-10-free-animated-logo-makers/"><u>In 2024, Make a Lasting Impression Top 10 Free Animated Logo Makers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fixes-how-to-stop-chrome-from-crashing-on-windows-10-systems/"><u>Quick Fixes: How to Stop Chrome From Crashing on Windows 10 Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964493696-the-ingenious-phanteks-revolt-psu-say-goodbye-to-excessive-cable-clutter/"><u>The Ingenious Phanteks Revolt PSU - Say Goodbye to Excessive Cable Clutter</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-hardware-innovations/"><u>Tom's Tech Review: Expert Insights on Hardware Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-from-toms-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-and-expert-advice-on-latest-gadgets/"><u>Tom's Tech Reviews: In-Depth Analysis and Expert Advice on Latest Gadgets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tutoriel-facile-pour-utiliser-le-kitkat-amazon-et-explorer-les-titres-librigoogle-au-format-ebook/"><u>Tutoriel Facile Pour Utiliser Le KitKat Amazon Et Explorer Les Titres LibriGoogle Au Format Ebook</u></a></li>
+</ul></div>
+

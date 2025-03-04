@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Dual-Function Laptop Beyond HP and Lenovo - Exclusive Insights From ZDNet
-date: 2025-02-14T16:46:49.020Z
-updated: 2025-02-15T17:06:18.790Z
+date: 2025-02-25T20:59:59.328Z
+updated: 2025-03-04T20:14:46.695Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -76,10 +72,6 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 I do recommend the [Lenovo ThinkPad Z13 Gen 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-21D2001RUS-Notebook-Board%2Fdp%2FB0B7YQC7CC%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C38428c01-c4bc-4359-b740-cd59c74b69fa%7Cdtp&dtb=1) if you're looking for a lightweight laptop for work, school, or as an entertainment machine while traveling. It's currently on sale on Lenovo's website in Artic Grey, with prices starting at $1,241\. 
@@ -116,18 +108,18 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/nlocking-the-prime-youtube-post-hours-for-2024/"><u>[New] Unlocking the Prime YouTube Post Hours for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-concept-to-creation-youtube-trailer-production-via-filmora/"><u>[Updated] From Concept to Creation YouTube Trailer Production via Filmora</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-explorations-by-tech-savant-tom/"><u>Advanced Hardware Explorations by Tech Savant, Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/delving-into-new-technological-breakthroughs-on-toms-hardware/"><u>Delving Into New Technological Breakthroughs on Tom's Hardware</u></a></li>
-<li><a href="https://article-helps.techidaily.com/enhance-the-listener-experience-advanced-techniques-for-audio-editing/"><u>Enhance the Listener Experience Advanced Techniques for Audio Editing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-high-performance-pc-gear-with-toms-hardware-insights/"><u>Exploring High-Performance PC Gear with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-successfully-upgrade-to-windows-10-may-2020-build-19041-with-the-latest-conexant-drivers/"><u>How to Successfully Upgrade to Windows 10 May 2020 (Build 19041) with the Latest Conexant Drivers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-hardware-innovations-at-toms-hardware/"><u>Navigating the Latest in Hardware Innovations at Tom's Hardware</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premiere-visionary-film-glimpses-for-2024/"><u>Premiere Visionary Film Glimpses for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/revamping-text-editors-with-macros-how-wills-replace-feature-in-emeditor-refreshes-data-extraction-choices/"><u>Revamping Text Editors with Macros: How Will's Replace Feature in EmEditor Refreshes Data Extraction Choices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-resilient-player-in-gaming-pcs-inside-review-of-asus-tuf-ga14/"><u>The Resilient Player in Gaming PCs: Inside Review of Asus TUF GA14</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-gear-expert-reviews-and-advice/"><u>Tom's Computer Gear: Expert Reviews and Advice</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-servicenows-four-fundamental-ai-concepts-impactful-insights-for-modern-enterprises/"><u>Understanding ServiceNow's Four Fundamental AI Concepts: Impactful Insights for Modern Enterprises</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-best-for-broadcasting-duel-of-live-tools/"><u>[New] 2024 Approved The Best for Broadcasting? Duel of Live Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-avoid-hassles-simple-iphone-screen-sharing-for-2024/"><u>[New] Avoid Hassles Simple Iphone Screen Sharing for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-boost-visual-impact-learning-to-edit-videos-using-storyremix-and-windows-photos/"><u>[New] Boost Visual Impact Learning to Edit Videos Using StoryRemix and Windows Photos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-windows-10-game-recording-5-methods/"><u>[New] In 2024, Windows 10 Game Recording [5 Methods]</u></a></li>
+<li><a href="https://article-helps.techidaily.com/assembling-a-spectacular-screenplay-cut-out-for-2024/"><u>Assembling a Spectacular Screenplay Cut-Out for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-canon-mp560-printer-driver-fast-and-simple-installation-guide/"><u>Download Canon MP560 Printer Driver: Fast & Simple Installation Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-tech-game-an-in-depth-look-at-crucials-speedy-p310-m2-2280-ssd-performance/"><u>Elevate Your Tech Game: An In-Depth Look at Crucial's Speedy P310 M.2 2280 SSD Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-the-efficacy-of-the-akasa-gecko-with-integrated-fan-system-for-ssd-cooling/"><u>Expert Insights Into the Efficacy of the Akasa Gecko with Integrated Fan System for SSD Cooling</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/freesync-freedom-meets-4k-excellence-in-samsung-ue590/"><u>FreeSync Freedom Meets 4K Excellence in Samsung UE590</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-realme-12plus-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Realme 12+ 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-cost-breakdown-of-netgear-orbi-mesh-wi-fi-system-cheaper-yet-still-premium-priced-in-comparison-to-other-brands/"><u>The Cost Breakdown of Netgear Orbi Mesh Wi-Fi System: Cheaper, Yet Still Premium Priced in Comparison to Other Brands</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-verdict-on-pnys-1tb-portable-ssd-satisfactory-yet-lacks-distinctiveness/"><u>The Verdict on PNY's 1TB Portable SSD: Satisfactory Yet Lacks Distinctiveness</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-guide-to-high-performance-gadgets-and-components-expert-reviews/"><u>Tom's Guide to High-Performance Gadgets and Components - Expert Reviews!</u></a></li>
 </ul></div>
 

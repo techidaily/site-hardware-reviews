@@ -1,7 +1,7 @@
 ---
 title: "1. 'Significant Cyber Offensive Targeting Ukrainian Internet Provider Thwarted by Officials': How Kyiv Stopped the Digital Onslaugve"
-date: 2024-09-19 16:43:18
-updated: 2024-09-20 11:23:36
+date: 2025-03-02T17:30:00.786Z
+updated: 2025-03-04T17:06:01.286Z
 tags:
   - cyber-threats
 categories:
@@ -53,11 +53,25 @@ The "entire IT-community of the world" is united against Russia's invasion, Shch
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-from-novice-to-money-maker-on-youtube/"><u>[New] 2024 Approved From Novice to Money-Maker on YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-capturing-attention-a-step-by-step-guide-to-social-media-promotion/"><u>[Updated] 2024 Approved Capturing Attention A Step-by-Step Guide to Social Media Promotion</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-perfect-your-pcs-sound-with-these-5-windows-11-recording-tips/"><u>[Updated] 2024 Approved Perfect Your PC's Sound with These 5 Windows 11 Recording Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-get-more-from-instagram-reels-top-8-downloaders-at-no-cost/"><u>2024 Approved Get More From Instagram Reels - Top 8 Downloaders at No Cost</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-hardware-with-tom-your-guide-to-cutting-edge-technology/"><u>Exploring Advanced Hardware with Tom - Your Guide to Cutting-Edge Technology</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/immerse-top-sandbox-experiences-for-gamers/"><u>Immerse Top Sandbox Experiences for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-assessment-of-the-corsair-tx5-problems/"><u>In-Depth Assessment of the Corsair TX5# Problems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/launch-of-seasonic-psu-models-featuring-advanced-12vhpwr-connectors-starting-from-230/"><u>Launch of Seasonic PSU Models Featuring Advanced 12VHPWR Connectors Starting From $230</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964496458-lowest-price-on-lian-li-lancool-215-vibrant-and-sleek-design-for-just-89/"><u>Lowest Price on Lian Li Lancool 215 - Vibrant and Sleek Design for Just $89</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-hardware-with-toms-guide/"><u>Navigating the Latest in Hardware with Tom's Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-non-apple-rechargeable-alternative-to-apple-airtags-smart-wallet-finders-reviewed-on-zdnet/"><u>Top Non-Apple Rechargeable Alternative to Apple AirTags: Smart Wallet Finders Reviewed on ZDNet</u></a></li>
+</ul></div>
+

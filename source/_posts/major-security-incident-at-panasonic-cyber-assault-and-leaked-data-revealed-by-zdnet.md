@@ -1,7 +1,7 @@
 ---
 title: "Major Security Incident at Panasonic: Cyber Assault & Leaked Data Revealed by ZDNet"
-date: 2024-09-19 10:32:13
-updated: 2024-09-20 11:53:14
+date: 2025-03-03T20:57:56.603Z
+updated: 2025-03-04T19:51:00.220Z
 tags:
   - cyber-threats
 categories:
@@ -57,11 +57,27 @@ Panasonic [signed a pact with McAfee in March](https://www.zdnet.com/article/pan
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-step-by-step-including-in-apples-premium-catalog-for-2024/"><u>[New] Step-by-Step Including in Apple's Premium Catalog for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-watchnetflix-screenshare-master-screenrecording-on-macos/"><u>[New] WatchNetflix, Screenshare Master ScreenRecording on MacOS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-joyful-journeys-in-cinema-summers-top-10-for-families/"><u>[Updated] 2024 Approved Joyful Journeys in Cinema Summer's Top 10 for Families</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/affordable-wonderfox-dvd-ripper-discounts-and-product-gifts/"><u>Affordable WonderFox DVD Ripper - Discounts & Product Gifts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-and-conserve-top-picks-for-affordable-cloud-photo-storage-for-2024/"><u>Capture and Conserve Top Picks for Affordable Cloud Photo Storage for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/continued-growth-for-oled-monitors-market-forecast-estimates-upwards-of-134-million-deliveries-by-end-of-year/"><u>Continued Growth for OLED Monitors: Market Forecast Estimates Upwards of 1.34 Million Deliveries by End-of-Year</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dev-creates-portable-e-ink-monitor-using-kindle-jailbreak-process-unveiled/"><u>Dev Creates Portable E Ink Monitor Using Kindle - Jailbreak Process Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-computing-at-toms-hardware-review-hub/"><u>Discover Cutting-Edge Computing at Tom's Hardware Review Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-performance-tips-from-toms-computer-guide/"><u>Discover Top Performance Tips From Tom's Computer Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oppo-find-x6-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Oppo Find X6 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-photos-with-a-musical-edge-online/"><u>In 2024, Photos with a Musical Edge Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/steering-ai-towards-human-friendly-outcomes/"><u>Steering AI Towards Human-Friendly Outcomes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/time-warp-footage-with-phantom-lens-expertise/"><u>Time Warp Footage with Phantom Lens Expertise</u></a></li>
+</ul></div>
+

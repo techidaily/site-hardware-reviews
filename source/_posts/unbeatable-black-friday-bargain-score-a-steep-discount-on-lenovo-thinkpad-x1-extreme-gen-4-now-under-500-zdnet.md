@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Score a Steep Discount on Lenovo ThinkPad X1 Extreme Gen 4 - Now Under $500 | ZDNet"
-date: 2025-02-13T16:37:53.482Z
-updated: 2025-02-15T17:07:23.888Z
+date: 2025-03-03T17:46:51.879Z
+updated: 2025-03-04T20:09:54.548Z
 tags:
   - laptops
 categories:
@@ -22,10 +22,6 @@ Lenovo's ThinkPads are known for their iconic looks including the red trackpoint
 The model on offer here runs on Intel's 11th-generation [Core i7-11850H](https://ark.intel.com/content/www/us/en/ark/products/213799/intel-core-i711850h-processor-24m-cache-up-to-4-80-ghz.html) processor with 16GB of DDR4 RAM and 1TB of SSD storage (M.2 2280 PCIe TLC Opal). The screen is a 16-inch WQXGA (2560 x 1600) IPS panel with 400 nits brightness and 100% coverage of the sRGB color gamut. There's no touch functionality here, but this is available on other models in the X1 Extreme range. Graphics are handled by Nvidia's capable [GeForce RTX 3050 Ti](https://www.nvidia.com/en-gb/geforce/graphics-cards/30-series/rtx-3050/) GPU with 4GB of dedicated video memory.
 
 **Also:** [**Best Black Friday laptop deals 2022**](https://www.zdnet.com/article/black-friday-laptop-deals-november-23-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -67,16 +63,17 @@ At $1,699 -- 53% off Lenovo's list price -- the [ThinkPad X1 Extreme](https://bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-fixing-video-transmission-issues-on-facebook-chat-for-iosandroid-for-2024/"><u>[New] Fixing Video Transmission Issues on Facebook Chat for iOS/Android for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-critical-choices-for-perfect-snaps/"><u>2024 Approved Critical Choices for Perfect Snaps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-voice-adaptation-solutions-picks-for-video-makers/"><u>2024 Approved Voice Adaptation Solutions Picks for Video Makers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-crafting-protective-custom-exercise-regimens/"><u>ChatGPT: Crafting Protective, Custom Exercise Regimens</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/convertissez-vos-documents-jp2-en-lignes-sans-frais-movavi/"><u>Convertissez Vos Documents JP2 en Lignes Sans Frais - Movavi</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cross-platform-collaboration-enhanced-share-files-from-android-to-windows-easily/"><u>Cross-Platform Collaboration Enhanced: Share Files From Android to Windows Easily</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-magsafe-charging-beyond-iphone-enhanced-power-experience-with-android-devices/"><u>Discover MagSafe Charging Beyond iPhone: Enhanced Power Experience with Android Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-ultimate-7-alternative-android-interfaces/"><u>Discover the Ultimate 7 Alternative Android Interfaces</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/easy-methods-for-relocating-apps-onto-external-sd-cards-on-your-android-device/"><u>Easy Methods for Relocating Apps Onto External SD Cards on Your Android Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/effective-ways-to-prevent-unexpected-shutdowns-on-your-android-device/"><u>Effective Ways to Prevent Unexpected Shutdowns on Your Android Device</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-judgment-properly-ban-trump-with-time-restriction/"><u>Facebook's Judgment: Properly Ban Trump, With Time Restriction</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-expert-endorsed-facebook-videos-now-easily-converted-to-mp4-hd/"><u>[New] In 2024, Expert-Endorsed Facebook Videos Now Easily Converted to MP4 HD</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2023-how-to-watch-twitter-videos-in-full-hd/"><u>2023 | How To Watch Twitter Videos in Full HD?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mobility-boosted-video-stability-device/"><u>2024 Approved Mobility Boosted Video Stability Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-knowledge-simplified-with-toms-insider-guides-and-reviews/"><u>Advanced Hardware Knowledge Simplified with Tom's Insider Guides and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-testing-and-review-of-asus-zenbook-s16-with-amd-ryzen-ai-nine-hx-series-processor/"><u>Comprehensive Guide to Testing and Review of ASUS Zenbook S16 with AMD Ryzen AI Nine HX Series Processor</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-list-of-apple-watch-compatible-with-watchos-11-updates-and-exclusions/"><u>Comprehensive List of Apple Watch Compatible with WatchOS 11 – Updates and Exclusions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-performance-a-detailed-look-at-the-pros-and-cons-of-the-cooler-master-ion-360-aio-pc-watercooler/"><u>Evaluating Performance: A Detailed Look at the Pros and Cons of the Cooler Master ION 360 AIO PC Watercooler</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-apex-elite-comprehensive-4k-touch-desktops/"><u>In 2024, Apex Elite Comprehensive 4K Touch Desktops</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-v30-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/smooth-path-from-instagram-visuals-to-mp3-sound/"><u>Smooth Path From Instagram Visuals to Mp3 Sound</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-source-for-tech-analysis-toms-hardware-direct/"><u>The Ultimate Source for Tech Analysis - Tom's Hardware Direct</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-with-toms-hardware-test-lab/"><u>Unlocking Performance with Tom's Hardware Test Lab</u></a></li>
 </ul></div>
 

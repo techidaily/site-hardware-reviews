@@ -1,7 +1,7 @@
 ---
 title: "Lenovo Anticipates Evolving Laptop Requirements: Emphasizing Enhanced AI & Security Features | ZDNet Insights"
-date: 2025-02-09T16:10:39.331Z
-updated: 2025-02-15T16:21:40.190Z
+date: 2025-02-27T18:08:18.471Z
+updated: 2025-03-04T17:14:38.853Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -76,10 +72,6 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 I do recommend the [Lenovo ThinkPad Z13 Gen 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-21D2001RUS-Notebook-Board%2Fdp%2FB0B7YQC7CC%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbf20ea97-a084-451c-b40c-bd18320bc99d%7Cdtp&dtb=1) if you're looking for a lightweight laptop for work, school, or as an entertainment machine while traveling. It's currently on sale on Lenovo's website in Artic Grey, with prices starting at $1,241\. 
@@ -116,18 +108,24 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hitting-high-notes-enhance-your-youtube-content-with-music-edits/"><u>[New] In 2024, Hitting High Notes Enhance Your YouTube Content with Music Edits</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-navigating-the-complexities-of-facebook-slideshow-tools-for-2024/"><u>[New] Navigating the Complexities of Facebook Slideshow Tools for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-impact-and-value-of-instagrams-self-verifying-feature/"><u>[New] The Impact and Value of Instagram's Self-Verifying Feature</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-6s-plus-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 6s Plus? How to Fix it?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beware-the-fraudulent-chatgpt-extension-for-chrome-that-steals-facebook-account-logins/"><u>Beware the Fraudulent ChatGPT Extension for Chrome that Steals Facebook Account Logins</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-technology-masterful-tips-from-toms-experts-in-hardware/"><u>Decoding Technology: Masterful Tips From Tom’s Experts in Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/diving-into-hardware-with-toms-technology-reviews/"><u>Diving Into Hardware with Tom's Technology Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-technology-with-toms-hardware-guides/"><u>Exploring the Latest in Technology with Tom's Hardware Guides</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/exploring-various-cryptocurrency-forms-insights-from-yl-computings-perspective/"><u>Exploring Various Cryptocurrency Forms: Insights From YL Computing's Perspective</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/setting-up-your-logitech-webcam-for-recording/"><u>Setting Up Your Logitech Webcam for Recording</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-on-electronics-toms-hardware-insights/"><u>The Ultimate Resource on Electronics - Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-the-latest-in-computer-gear/"><u>Tom's Tech Insights: Your Guide to the Latest in Computer Gear</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-gadgets/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Gadgets</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-discover-the-ultimate-camcorders-for-your-windows-system/"><u>[Updated] Discover the Ultimate Camcorders for Your Windows System</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-tips-for-recording-movies-on-all-devices/"><u>2024 Approved Essential Tips for Recording Movies on All Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-video-testimonials-shape-perception-and-trust/"><u>2024 Approved How Video Testimonials Shape Perception and Trust</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ace-choices-the-best-mice-you-can-use-with-an-ipad/"><u>Ace Choices: The Best Mice You Can Use with an iPad</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-proart-pa3n16ucr-mini-led-mastery-a-deep-dive-into-professional-level-color-accuracy/"><u>Asus ProArt PA3n16UCR Mini LED Mastery: A Deep Dive Into Professional-Level Color Accuracy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-protective-case-is-it-essential-for-iphones-and-androids/"><u>Choosing the Right Protective Case: Is It Essential for iPhones and Androids?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-tech-asus-pro-b760m-ct-csm-review-is-it-worth-the-investment/"><u>Cutting Edge Tech: ASUS Pro B760M-CT CSM Review - Is It Worth The Investment?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-download-and-setup-upgraded-software-for-your-canon-pixma-mg3690-printer/"><u>Easy Download & Setup: Upgraded Software for Your Canon Pixma MG3690 Printer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-sessions-with-asus-rog-swift-a-comprehensive-review-of-its-breathtaking-240hz-oled-display-and-unmatched-visual-clarity-for-competitive-1/"><u>Elevate Your Gaming Sessions with ASUS ROG Swift - A Comprehensive Review of Its Breathtaking 240Hz OLED Display & Unmatched Visual Clarity for Competitive Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-gigabyte-aorus-co49dq-oled-stunning-display-colors-and-contrast-performance/"><u>In-Depth Analysis of the Gigabyte Aorus CO49DQ OLED - Stunning Display Colors & Contrast Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-electronics-insights-and-reviews-by-tom/"><u>Inside the World of Electronics: Insights and Reviews by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-technology-review-your-source-for-pc-hardware-analysis/"><u>Inside Tom's Technology Review: Your Source for PC Hardware Analysis</u></a></li>
+<li><a href="https://win-community.techidaily.com/microsoft-alerts-users-of-potential-vpn-disruptions-due-to-april-2e-2024-windows-update-what-you-need-to-know-digitaltimes/"><u>Microsoft Alerts Users of Potential VPN Disruptions Due to April 2E, 2024 Windows Update - What You Need to Know | DigitalTimes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-7-plus-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 7 Plus Prevention & Solution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-computer-components/"><u>Tom's Tech Insights: Your Guide to Computer Components</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/understanding-and-fixing-non-black-ink-problems-in-printers-advice-by-yl-computings-technical-team/"><u>Understanding and Fixing Non-Black Ink Problems in Printers - Advice by YL Computing's Technical Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/wirelessly-dominate-your-productivity-with-the-keychron-q1-he-the-wireless-version-youve-been-dreaming-of/"><u>Wirelessly Dominate Your Productivity with the Keychron Q1 HE - The Wireless Version You've Been Dreaming Of</u></a></li>
 </ul></div>
 

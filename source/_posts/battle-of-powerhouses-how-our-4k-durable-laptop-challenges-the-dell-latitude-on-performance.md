@@ -1,7 +1,7 @@
 ---
 title: "Battle of Powerhouses: How Our $4K Durable Laptop Challenges the Dell Latitude on Performance"
-date: 2025-02-09T16:09:39.355Z
-updated: 2025-02-15T16:19:00.082Z
+date: 2025-02-27T20:12:26.765Z
+updated: 2025-03-04T16:03:53.119Z
 tags:
   - laptops
 categories:
@@ -28,10 +28,6 @@ I spent a good hour and a half moving from station to station, from 240Hz ultraw
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. The numbers don't lie
 
 LG Gram Pro 16 2-in-1 (left) and the 15-inch Apple MacBook Air (right).
@@ -46,10 +42,6 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. It's all about the use of space
 
 Kerry Wan/ZDNET
@@ -60,10 +52,6 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. OLED makes all the difference
 
 Kerry Wan/ZDNET
@@ -73,10 +61,6 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 **Also: [OLED vs. QLED: Which is better for you?](https://www.zdnet.com/home-and-office/home-entertainment/oled-vs-qled/)**
 
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -114,20 +98,17 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-mastering-autofocus-on-iphone-cameras-efficiently/"><u>[New] Mastering Autofocus on iPhone Cameras Efficiently</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-innovating-informative-intros/"><u>[Updated] 2024 Approved Innovating Informative Intros</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-easy-guide-turning-your-favorite-youtube-videos-into-animated-gifs-for-2024/"><u>[Updated] Easy Guide Turning Your Favorite YouTube Videos Into Animated GIFs for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/994841-9781780997629-awaken-your-inner-wisdom/"><u>Awaken Your Inner Wisdom | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/compact-innovation-on-the-go-hackberry-pi-zero-empowers-hands-on-creators-in-a-pocket-sized-package/"><u>Compact Innovation on the Go - Hackberry Pi Zero Empowers Hands-On Creators in a Pocket-Sized Package</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-sunfounder-pironman-5-bicycle-assessment-necessity-of-precise-construction-steps/"><u>Comprehensive SunFounder Pironman 5 Bicycle Assessment: Necessity of Precise Construction Steps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exclusive-geekworm-x1011-revealed-unboxing-the-next-gen-network-attached-storage-creator/"><u>Exclusive Geekworm X1011 Revealed: Unboxing the Next-Gen Network Attached Storage Creator</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-retro-gaming-with-raspberry-pi-introducing-the-dual-player-picade-max-from-pimoroni/"><u>Experience Retro Gaming with Raspberry Pi: Introducing the Dual Player Picade MAX From Pimoroni</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-revolutionary-raspberry-pi-pico-discovering-its-armplusrisc-v-core-capabilities-for-just-5/"><u>Exploring the Revolutionary Raspberry Pi Pico: Discovering Its ARM+RISC-V Core Capabilities for Just $5</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-uploading-expansive-content-on-youtube-like-a-pro/"><u>In 2024, Uploading Expansive Content on YouTube Like a Pro</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-raspberry-pi-link-up-seamlessly-run-your-pi-from-anywhere-through-a-web-interface/"><u>Introducing Raspberry Pi Link-Up: Seamlessly Run Your Pi From Anywhere Through a Web Interface</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigate-the-digital-realm-the-best-9-emulators-for-steam-decks/"><u>Navigate the Digital Realm: The Best 9 Emulators for Steam Decks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protecting-youth-in-digital-dialogues-5-safe-chatgpt-strategies/"><u>Protecting Youth in Digital Dialogues: 5 Safe ChatGPT Strategies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-review-of-the-latest-raspberry-pi-pico-a-deep-dive-into-its-new-arm-plus-risc-v-cores-at-an-affordable-price/"><u>Unboxing Review of the Latest Raspberry Pi Pico: A Deep Dive Into Its New Arm + RISC-V Cores at an Affordable Price</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-of-both-worlds-free-and-paid-3d-video-creation-software/"><u>Updated In 2024, Best of Both Worlds Free and Paid 3D Video Creation Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-a-guide-to-designing-spectacular-photo-tileworks/"><u>[New] A Guide to Designing Spectacular Photo Tileworks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-goovision-elite-next-gen-screen-capture/"><u>[New] In 2024, GooVision Elite Next-Gen Screen Capture</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-beyond-typography-decoding-the-subtext-of-snapchat-emojis/"><u>[Updated] In 2024, Beyond Typography Decoding the Subtext of Snapchat Emojis</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-8-video-tools-to-boost-live-viewership/"><u>[Updated] Optimal 8 Video Tools to Boost Live Viewership</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-c5c-and-d6sec-uphere-air-cooler-analysis-best-under-20/"><u>Affordable C5C & D6Sec UpHere Air Cooler Analysis - Best Under $20</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g-5g-2023-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G 5G (2023) Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-advice-from-toms-hardware-hub/"><u>In-Depth Reviews and Advice From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-high-performance-hardware-at-tome-resource-center/"><u>Inside the World of High-Performance Hardware at Tom'e Resource Center</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ument-innovations-see-the-top-15-music-tech-tutorials-on-youtube/"><u>Instrument Innovations See the Top 15 Music Tech Tutorials on YouTube</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-depths-of-toms-tech-domain-latest-trends-in-computing-equipment/"><u>Navigating the Depths of Tom's Tech Domain: Latest Trends in Computing Equipment</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-video-creators-guide-to-igtv-and-youtube-finding-the-right-fit-for-2024/"><u>The Video Creator’s Guide to IGTV & YouTube Finding the Right Fit for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-review-the-ultimate-guide/"><u>Tom's Computer Review: The Ultimate Guide</u></a></li>
 </ul></div>
 

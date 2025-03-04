@@ -1,7 +1,7 @@
 ---
 title: AT&T Allegedly Bribed Cyber Thieves to Erase Compromised Data Following Recent Security Incident | Tech News
-date: 2024-09-19 14:55:45
-updated: 2024-09-20 12:11:35
+date: 2025-03-01T17:17:55.465Z
+updated: 2025-03-04T16:31:11.222Z
 tags:
   - cyber-threats
 categories:
@@ -69,11 +69,27 @@ If you're considering switching to an encrypted texting app, here's [a look at o
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instagrams-guide-to-intellectual-property-in-music/"><u>2024 Approved Instagram's Guide to Intellectual Property in Music</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/finest-choices-free-streaming-tools-suitable-everywhere-for-2024/"><u>Finest Choices Free Streaming Tools Suitable Everywhere for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gamers-alert-enjoy-the-cutting-edge-technology-with-a-sceptre-curved-monitor-at-an-incredible-discounted-rate-of-79/"><u>Gamers Alert! Enjoy the Cutting-Edge Technology with a Sceptre Curved Monitor at an Incredible Discounted Rate of $79</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-transformative-camera-movements-your-guide-to-ken-burns-in-camtasa/"><u>In 2024, Transformative Camera Movements Your Guide to Ken Burns in Camtasa</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-solutions-and-reviews-discovering-tech-secrets-at-toms-hardware/"><u>Innovative Solutions and Reviews: Discovering Tech Secrets at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-analysis-and-reviews-the-toms-hardware-collection/"><u>Innovative Tech Analysis and Reviews - The Tom's Hardware Collection</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-a-comprehensive-handbook-on-crafting-unique-smartphone-melodies/"><u>New In 2024, A Comprehensive Handbook on Crafting Unique Smartphone Melodies</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/professional-display-revolutionized-aoc-launches-its-cutting-edge-trio-of-graphic-pro-series-monitors-model-u3/"><u>Professional Display Revolutionized: AOC Launches Its Cutting-Edge Trio of Graphic Pro Series Monitors, Model U3</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/social-media-sensation-top-eight-videos-for-2024/"><u>Social Media Sensation Top Eight Videos for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-unmissable-eyoy-em105-review-exceptional-value-meets-miniaturization-at-105-inches/"><u>The Unmissable EYOY EM105 Review – Exceptional Value Meets Miniaturization at 10.5 Inches</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/transforming-static-text-into-dynamic-elements-on-a-budget-for-2024/"><u>Transforming Static Text Into Dynamic Elements on a Budget for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-hidden-gems-of-high-quality-discords/"><u>Unveiling the Hidden Gems of High-Quality Discords</u></a></li>
+</ul></div>
+

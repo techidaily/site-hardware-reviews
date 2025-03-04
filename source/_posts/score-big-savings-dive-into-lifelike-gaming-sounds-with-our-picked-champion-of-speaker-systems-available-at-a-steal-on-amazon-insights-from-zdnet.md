@@ -1,7 +1,7 @@
 ---
 title: Score Big Savings! Dive Into Lifelike Gaming Sounds With Our Picked Champion of Speaker Systems, Available at a Steal on Amazon | Insights From ZDNET
-date: 2025-02-10T16:39:01.780Z
-updated: 2025-02-15T17:00:51.463Z
+date: 2025-02-28T20:54:55.701Z
+updated: 2025-03-04T17:13:18.707Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Taylor Clemons/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET takeaways
 
@@ -78,10 +74,6 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1), between the speakers and subwoofer, controller, and cables. It's easily one of the best-sounding systems I've tested, and the ability to tweak specific audio settings is game-changing. That said, if you mainly use a single platform like the PC or a console for gaming, you may want to opt for the smaller but still capable [Arena 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYJL4R%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C21a19f81-8685-44c2-b6a6-7e0274473555%7Cdtp&dtb=1) instead, since it comes with a single pair of speakers and a subwoofer. It doesn't include a control dial like the Arena 9, but you can quickly adjust basic volume and bass boost levels with the on-device knobs for watching shows and movies. 
@@ -89,10 +81,6 @@ There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/l
 And if you're simply looking for a reliable set of PC speakers, the [Arena 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYBT4Q%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C21a19f81-8685-44c2-b6a6-7e0274473555%7Cdtp&dtb=1) is an excellent choice; they don't have the RGB lighting features like the Arena 7 and 9, making them a better choice for shared work spaces or home offices that double as gaming rooms. If you've been waiting for a decent deal to come along before you pick up the Arena 9, [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1) is running a sale where the speaker system is $100 off its original price; this brings it down to $450, and while that's still on the pricey side, the multimedia support, ability to connect to multiple devices simultaneously, and incredible sound quality make it a worthy investment for your gaming space or home theater. 
 
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When does this deal expire?
 
@@ -128,24 +116,19 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-lightninglapse-delaydox-video/"><u>[New] 2024 Approved LightningLapse DelayDox Video</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/eamless-transitions-in-vlogs-with-jump-cuts-magic/"><u>[New] Seamless Transitions in Vlogs with Jump Cuts Magic</u></a></li>
-<li><a href="https://win-able.techidaily.com/202/"><u>「無料で「202지」스팸킹뱅어컷 동영상 다운로드ガイド」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-leading-7-artificial-intelligence-prompt-exchanges-on-the-web/"><u>Discover the Leading 7 Artificial Intelligence Prompt Exchanges on the Web</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-nokia-c22-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Nokia C22 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-pros-and-cons-of-onyx-boox-tab-ultra-a-comprehensive-guide-to-the-premier-e-paper-tablet/"><u>Inside the Pros and Cons of Onyx Boox Tab Ultra: A Comprehensive Guide to the Premier E-Paper Tablet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/intels-struggle-for-competitiveness-against-qualcomm-threatens-the-future-of-x86-pcs-a-deep-dive-by-zdnet/"><u>Intel's Struggle for Competitiveness Against Qualcomm Threatens the Future of X86 PCs - A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/keep-your-android-display-on-a-comprehensive-guide-to-managing-sleep-settings/"><u>Keep Your Android Display On: A Comprehensive Guide to Managing Sleep Settings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-single-finger-navigation-unlocking-the-secrets-of-androids-handicap-accessibility/"><u>Mastering Single-Finger Navigation: Unlocking the Secrets of Android's Handicap Accessibility</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/meet-the-game-changer-in-smartphones-the-new-google-pixel-fold/"><u>Meet the Game-Changer in Smartphones: The New Google Pixel Fold</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/meet-your-next-smartphone-companer-the-amazing-entry-level-google-pixel-7a-arrives-now/"><u>Meet Your Next Smartphone Companer: The Amazing Entry-Level Google Pixel 7a Arrives Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-future-with-claude-the-ai-leader-in-tech/"><u>Navigating the Future with Claude: The AI Leader in Tech</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-best-gaming-sites-top-picks-for-downloading-games-for-2024/"><u>New Best Gaming Sites Top Picks for Downloading Games for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/original-replacement-components-for-google-pixel-available-at-ifixit/"><u>Original Replacement Components for Google Pixel Available at iFixit</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-adjusting-autofill-and-managing-passwords-in-android-devices/"><u>Step-by-Step Guide: Adjusting AutoFill & Managing Passwords in Android Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-how-to-send-your-text-messages-forward-from-an-android-device/"><u>Step-by-Step Guide: How to Send Your Text Messages Forward From an Android Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/steps-to-incorporate-vital-health-details-on-your-android-device/"><u>Steps to Incorporate Vital Health Details on Your Android Device</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-14-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 14</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-emancipate-your-engagement-facebook-restored/"><u>[New] Emancipate Your Engagement Facebook Restored</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-heres-what-you-dont-know-about-instagram-story-viewer2/"><u>[Updated] In 2024, Here's What You Don't Know About Instagram Story Viewer2</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-peculiar-pratfalls-memes-tailored-for-the-perfect-moment/"><u>2024 Approved Peculiar Pratfalls Memes Tailored for the Perfect Moment</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-streamlining-in-stream-ads-on-facebook-your-step-by-step-playbook/"><u>2024 Approved Streamlining In-Stream Ads on Facebook Your Step-by-Step Playbook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-top-techniques-for-turning-yt-order-upside-down/"><u>2024 Approved The Top Techniques for Turning YT Order Upside-Down</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-the-features-of-rode-streamer-pro-x-could-this-be-the-answer-to-your-cinematic-challenges/"><u>Delving Into The Features Of Rode Streamer Pro X - Could This Be the Answer to Your Cinematic Challenges?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/elevate-your-cinematography-mastering-transitions-in-kinemaster-for-2024/"><u>Elevate Your Cinematography Mastering Transitions in Kinemaster for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-how-the-lightweight-lg-gram-17-delivers-extraordinary-power/"><u>Expert Review: How the Lightweight LG Gram 17 Delivers Extraordinary Power</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-the-world-of-gadgets-with-toms-hardware-experts/"><u>Master the World of Gadgets with Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-selections-with-toms-technological-wisdom/"><u>Mastering Hardware Selections with Tom's Technological Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-todays-tech-landscape-expert-hardware-advice-from-tom/"><u>Navigating Today's Tech Landscape: Expert Hardware Advice From Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Insights: A Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-potential-with-gigabytes-b760m-ds3h-ax-the-ultimate-guide-to-an-entry-level-three-monitor-motherboard/"><u>Unlocking Performance Potential with Gigabyte's B760M DS3H AX - The Ultimate Guide to an Entry-Level Three-Monitor Motherboard</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/video-vanguard-sj6-legend-against-xiaomis-yi-kickstart/"><u>Video Vanguard SJ6 Legend Against Xiaomi's Yi Kickstart</u></a></li>
 </ul></div>
 

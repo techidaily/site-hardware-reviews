@@ -1,7 +1,7 @@
 ---
 title: Microsoft Acknowledges Struggle Against Crafty Fraudsters Using New Tactics - Insights From ZDNet
-date: 2024-09-19 14:51:54
-updated: 2024-09-20 12:18:24
+date: 2025-03-01T20:19:52.835Z
+updated: 2025-03-04T19:53:19.307Z
 tags:
   - cyber-threats
 categories:
@@ -118,11 +118,31 @@ If tech companies have now become so adept at stalking us and knowing our every 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/he-soundscapes-of-success-building-youtube-playlists-with-precision/"><u>[New] The Soundscapes of Success Building YouTube Playlists with Precision</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-dismantle-that-dominating-green-distortion-in-mac-based-videos/"><u>2024 Approved Dismantle That Dominating Green Distortion in Mac-Based Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rt-be96u-6ghz-dual-band-mesh-wifi-system-evaluation-introducing-the-next-generation-of-high-speed-connectivity/"><u>Asus RT-BE96U 6GHz Dual-Band Mesh WiFi System Evaluation: Introducing the Next Generation of High-Speed Connectivity</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/avoiding-instagrams-false-facade-for-a-solid-stature-for-2024/"><u>Avoiding Instagram's False Facade for a Solid Stature for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-review-of-the-newly-released-m3-macbook-air-how-apples-affordable-ai-device-is-changing-the-game-insights-from-zdnet/"><u>Comprehensive Review of the Newly Released M3 MacBook Air: How Apple's Affordable AI Device Is Changing the Game | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-standard-setter-a-thorough-review-of-sabrents-m2-22amo-1tb-rocket-nano-ssd/"><u>Evaluating the Standard Setter: A Thorough Review of Sabrent's M.2 22Amo 1TB Rocket Nano SSD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-evaluation-of-the-aoc-agon-pro-ag456uczd-a-detailed-look-at-its-45-ultra-wide-oled-gaming-display-with-extremely-curved-edges-and-fast-refresh-rates.3/"><u>Expert Evaluation of the AOC Agon Pro AG456UCZD – A Detailed Look at Its 45 Ultra-Wide OLED Gaming Display with Extremely Curved Edges and Fast Refresh Rates!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-steam-store-loading-problem-a-step-by-step-guide/"><u>Fixing the Steam Store Loading Problem - A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-isolated-viewers-to-shared-experiences-online-for-2024/"><u>From Isolated Viewers to Shared Experiences Online for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-g2-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo G2 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-upgrades-tips-and-tricks-from-the-experts-at-toms-hardware/"><u>Master Your PC Upgrades: Tips & Tricks From the Experts at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pixio-px277-oled-monitor-revealed-surpassing-gaming-expectations-in-a-revolutionary-display/"><u>Pixio PX277 OLED Monitor Revealed - Surpassing Gaming Expectations in a Revolutionary Display</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-comprehensive-2024-guide-to-resolving-discord-audio-interruptions/"><u>The Comprehensive 2024 Guide to Resolving Discord Audio Interruptions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-valkyrie-syn-2naio-liquid-cooler-tested-top-notch-efficiency-and-a-call-for-software-enhancement/"><u>The Valkyrie Syn 2nAIO Liquid Cooler Tested: Top-Notch Efficiency and a Call for Software Enhancement</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-computer-hardware-reviews/"><u>Tom's Tech Insights: In-Depth Computer Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-ssd-heatsink-the-essential-uphere-m201-at-an-unbeatable-price-of-5-our-nvme-cooling-solutions-guide/"><u>Top-Rated SSD Heatsink - The Essential UpHere M201 at an Unbeatable Price of $5: Our NVMe Cooling Solutions Guide</u></a></li>
+</ul></div>
+

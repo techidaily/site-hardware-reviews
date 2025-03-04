@@ -1,7 +1,7 @@
 ---
 title: "How Uber Points Finger at Lapsus$, Alleges Purchase of Blackhat Credentials via Deepweb: An Insight - ZDNet"
-date: 2024-09-18 21:56:11
-updated: 2024-09-20 12:52:14
+date: 2025-03-01T20:46:21.072Z
+updated: 2025-03-04T19:44:39.032Z
 tags:
   - cyber-threats
 categories:
@@ -63,11 +63,29 @@ After that, Uber said, the hacker repeatedly tried to log in to the contractor's
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-top-5-best-full-hd-action-cameras-below-100/"><u>[New] Top 5 Best Full HD Action Cameras Below $100</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-windows-11-auditory-setup-a-how-to/"><u>[Updated] Windows 11 Auditory Setup A How-To</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-10-essential-cam-shields-for-privacy/"><u>2024 Approved 10 Essential Cam Shields for Privacy</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-responding-to-criticism-with-confidence-on-youtube/"><u>2024 Approved Responding to Criticism with Confidence on YouTube</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964489043-enhance-your-typing-experience-upgrade-to-a-luxurious-mx-palm-rest-by-logitech-at-only-11/"><u>Enhance Your Typing Experience: Upgrade to a Luxurious MX Palm Rest by Logitech at Only $11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964487791-get-the-pro-level-logitech-g502-hero-at-an-amazing-price-only-35-experience-ultra-high-definition-controls-and-25k-dpi-sensitivity/"><u>Get the Pro-Level Logitech G502 Hero at an Amazing Price - Only $35! Experience Ultra-High Definition Controls and 25K DPI Sensitivity.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-and-fixing-common-iphone-screen-issues-a-step-by-step-approach/"><u>Identifying and Fixing Common iPhone Screen Issues: A Step-by-Step Approach</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/notfalldatensicherung-fehlschlagt-aufgrund-unzureichender-speicherkapazitat/"><u>Notfalldatensicherung Fehlschlägt Aufgrund Unzureichender Speicherkapazität</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964486834-special-memorial-day-deal-alert-high-quality-full-size-roccat-pyro-mechanical-keyboard-just-34-awaits-you/"><u>Special Memorial Day Deal Alert: High-Quality, Full-Size Roccat Pyro Mechanical Keyboard - Just $34 Awaits You</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/teslas-ambitious-move-for-enhanced-renewable-energy-storages-gains-traction-through-landmark-chinese-pact/"><u>Tesla's Ambitious Move for Enhanced Renewable Energy Storages Gains Traction Through Landmark Chinese Pact.</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-5-prime-apps-for-clandestine-story-viewers/"><u>The 5 Prime Apps for Clandestine Story Viewers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-reviews-the-ultimate-guide/"><u>Tom's Computer Reviews: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-analysis-of-modern-electronics/"><u>Tom's Tech Reviews: Comprehensive Analysis of Modern Electronics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-uncovering-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Uncovering the Latest in Computer Hardware</u></a></li>
+</ul></div>
+

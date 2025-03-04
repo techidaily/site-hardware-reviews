@@ -1,7 +1,7 @@
 ---
 title: "Strengthening Cyber Defenses: How IBM's Acquisition of Randori Revolutionizes Threat Intelligence for XDR Solutions | ZDNET Insights"
-date: 2024-09-17 23:27:51
-updated: 2024-09-20 11:12:42
+date: 2025-02-26T21:14:05.353Z
+updated: 2025-03-04T20:17:45.406Z
 tags:
   - cyber-threats
 categories:
@@ -74,11 +74,27 @@ In [other IBM news](https://www.zdnet.com/article/ibm-ordered-to-pay-1-6b-to-sof
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-navigating-noise-sensational-success-in-telegram-marketing/"><u>[New] 2024 Approved Navigating Noise Sensational Success in Telegram Marketing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-what-hidden-beats-within-facebook-are-you-overlooking/"><u>[New] 2024 Approved What Hidden Beats Within Facebook Are You Overlooking?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-syncopation-and-screenplay-directing-music-videos-with-ios/"><u>[Updated] Syncopation & Screenplay Directing Music Videos with iOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-art-of-audio-blend-with-audacity-techniques/"><u>2024 Approved Unveiling the Art of Audio Blend with Audacity Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-anticipated-launch-of-new-800-series-chipsets-compatible-with-ryzen-9000-cpus-numbering-matches-intel/"><u>AMD Anticipated Launch of New 800 Series Chipsets Compatible with Ryzen 9000 CPUs - Numbering Matches Intel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrocks-revolutionary-z791-lightning-motherboard-drives-splave-to-new-overclocking-heights/"><u>ASRock's Revolutionary Z79^1 Lightning Motherboard Drives Splave to New Overclocking Heights</u></a></li>
+<li><a href="https://fox-http.techidaily.com/auditory-aesthetics-film-from-a-single-frame-for-2024/"><u>Auditory Aesthetics Film From a Single Frame for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862856303-discover-chinas-longsun-processor-motherboards-and-complete-systems-for-us-market-priced-at-a-low-of-just-373/"><u>Discover China's Longsun Processor Motherboards and Complete Systems for U.S Market, Priced at a Low of Just $373</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-premium-lenovo-thinkpad-x13s-ultraportable-with-advanced-arm-architecture-cutting-edge-5g-support-and-superior-battery-endurance-gadgetpundit-45/"><u>Exploring the Premium Lenovo ThinkPad X13s Ultraportable with Advanced Arm Architecture, Cutting-Edge 5G Support and Superior Battery Endurance | GadgetPundit Review</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-review-of-lg-bp350-for-home-theaters-for-2024/"><u>Ultimate Review of LG BP350 for Home Theaters for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-beginners-guide-to-video-editing-best-software-choices-for-2024/"><u>Updated Beginners Guide to Video Editing Best Software Choices for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-trusted-source-for-in-depth-analysis-toms-hardware-reviews/"><u>Your Trusted Source for In-Depth Analysis: Tom's Hardware Reviews</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "AI-Powered Google Chromebook Plus: The Ultimate Challenge to Microsoft's Windows Copilot - Insights"
-date: 2025-02-13T17:11:55.580Z
-updated: 2025-02-15T17:10:00.959Z
+date: 2025-03-02T17:54:21.251Z
+updated: 2025-03-04T20:21:14.065Z
 tags:
   - laptops
 categories:
@@ -40,10 +40,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Microsoft Surface Pro and Laptop
 
 Sabrina Ortiz/ZDNET
@@ -60,10 +56,6 @@ The Surface Laptop comes in two configurations: 13.8 and 15 inches, with memory 
 
 The laptop is also thinner than its predecessors, now has a haptic touchpad, and can extend to up to three 4K _monitors while_ the device screen is active -- a subtle dig at Apple's M3 MacBook Air. As far as battery life goes, Microsoft says the new Surface Laptop has "nearly double the battery life of Surface Laptop 5," offering up to 22 hours of local video playback.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Lenovo Yoga Slim 7x and ThinkPad T14s Gen 6
 
 Kerry Wan/ZDNET
@@ -77,10 +69,6 @@ The ThinkPad T14s Gen 6, a popular pick among business users, is the company's f
 Thanks to the Snapdragon X Elite and Lenovo's AI Core, the Yoga Slim 7x and ThinkPad T14s Gen 6 should easily handle most AI use cases, including text-to-image generation, photo and video editing functionalities, video-calling filters, and more. It certainly helps that every Copilot+ PC system mentioned on this list can access Large Language Model (LLM) capabilities on-device, even when offline, enabling more flexible creativity.
 
 The Lenovo Yoga Slim 7x will go on sale starting in June, with an _expected_ starting price of $1,199, while the ThinkPad T14s Gen 6 will launch around the same time with a starting price of $1,699.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. HP OmniBook X and EliteBook Ultra
 
@@ -120,10 +108,6 @@ Powering the system is your choice of Qualcomm's Snapdragon X Elite or X Plus, b
 
 The Acer Swift 14 AI will first be available in Europe, the Middle East, and Asia in June, and eventually be sold in North America in July, with a starting price of $1,099.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Samsung Galaxy Book 4 Edge
 
 Sabrina Ortiz/ZDNET
@@ -135,10 +119,6 @@ While Samsung just recently launched its Galaxy Book 4 series, the latest Edge v
 The rest of the specs are relatively similar to the company's standard Galaxy Book models, with two sizes (14 and 16 inches), a Dynamic AMOLED 2X display that's treated with an anti-reflective coating, Wi-Fi 7, and a dedicated Copilot key. 
 
 The [14-inch Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-books%2Fgalaxy-book4-edge%2F%3F&publisher_slug=itechdaily19598&exclusive=1) will start at $1,349, while the 16-inch size will start at $1,749 with 1TB of storage. Samsung says the laptops are available for preorder today and will even toss in a 50-inch Crystal UHD 4K TV to sweeten the pot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Asus Vivobook S 15
 
@@ -184,24 +164,24 @@ The [Vivobook S 15](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-best-practices-aspect-ratio-in-twitters-videos/"><u>[New] 2024 Approved Best Practices Aspect Ratio in Twitters Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-a-step-by-step-approach-to-perfecting-vlog-soundtracks-for-2024/"><u>[New] A Step-by-Step Approach to Perfecting Vlog Soundtracks for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-best-twitter-tools-for-purifying-and-personalizing-your-timeline/"><u>[New] Best Twitter Tools for Purifying & Personalizing Your Timeline</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341710115-affordable-essential-cooling-at-just-5-uphere-m201-ssd-heatsink-unveiled/"><u>Affordable Essential Cooling at Just $5 - UpHere M201 SSD Heatsink Unveiled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-high-end-cooling-solved-a-comprehensive-look-at-the-id-cooling-fx360-pro-for-60/"><u>Affordable High-End Cooling Solved: A Comprehensive Look at the ID-Cooling FX360 Pro for $60</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/beneath-the-surface-instagrams-hidden-reality-for-viewers/"><u>Beneath the Surface Instagram’s Hidden Reality for Viewers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-raspberry-pi-5-enhanced-by-pi-52s-cooling-tower-speedy-performance-uncovered/"><u>Expert Analysis: Raspberry Pi 5 Enhanced by Pi 52'S Cooling Tower - Speedy Performance Uncovered</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341695805-expert-analysis-raspberry-pi-5-enhanced-by-pi-52s-cooling-tower-speedy-performance-uncovered/"><u>Expert Analysis: Raspberry Pi 5 Enhanced by Pi 52'S Cooling Tower - Speedy Performance Uncovered!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-technology-hub-gadgets-and-hardware-insights/"><u>Exploring Tom's Technology Hub: Gadgets & Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/hardware-insights-by-tom-top-tech-pickups-and-gear-advice/"><u>Hardware Insights by Tom: Top Tech Pickups and Gear Advice</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-xr-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone XR Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-syncing-scores-and-screenplays-top-tunes-for-video-unboxing/"><u>In 2024, Syncing Scores and Screenplays Top Tunes for Video Unboxing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-circuitry-with-toms-hardware-reviews/"><u>Navigating the Circuitry with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/nine-key-points-before-investing-in-a-new-4k-lens/"><u>Nine Key Points Before Investing in a New 4K Lens</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-uninstall-failure-windows-1011-access-issue/"><u>Resolving Uninstall Failure: Windows 10/11 Access Issue</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/revolutionize-your-fitness-routine-with-cubefits-innovative-terramat-platform/"><u>Revolutionize Your Fitness Routine with CubeFit's Innovative TerraMat Platform.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-race-for-excellence-in-solid-state-drives-unveiling-performance-secrets-of-lexars-elite-sl500-and-sl600-series-with-exceptional-20g-transfer-rates/"><u>The Race for Excellence in Solid State Drives: Unveiling Performance Secrets of Lexar's Elite SL500 and SL600 Series with Exceptional 20G Transfer Rates</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-tech-trends-on-toms-hardware-portal/"><u>Unveiling the Latest Tech Trends on Tom's Hardware Portal</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-itop-reviewed-leading-pc-screen-recorders-face-off/"><u>[New] ITop Reviewed Leading PC Screen Recorders Face Off</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expanding-textual-arsenal-in-after-effects/"><u>[Updated] Expanding Textual Arsenal in After Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-free-to-paid-subscriber-count-surpasses-500-for-2024/"><u>[Updated] From Free to Paid Subscriber Count Surpasses 500 for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-cash-growth-forecasts-at-no-cost/"><u>[Updated] YouTube Cash Growth Forecasts at No Cost</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-realme-c51-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hand-tracking-deciphered-a-users-guide/"><u>2024 Approved Hand Tracking Deciphered A User's Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-lightrooms-artistic-control-creating-and-merging-hdr-images/"><u>2024 Approved Master Lightroom's Artistic Control Creating & Merging HDR Images</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-pro-b760m-ct-csm-mainboard-unveiled-a-comprehensive-analysis/"><u>Asus Pro B760M-CT CSM Mainboard Unveiled: A Comprehensive Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-swift-oled-pg32ucdp-examined-how-close-is-it-to-perfect-gaming-performance/"><u>Asus ROG Swift OLED PG32UCDP Examined - How Close Is It to Perfect Gaming Performance?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-analysis-of-the-anycubic-kobra-3-a-pioneering-multicolor-printer-review/"><u>Detailed Analysis of the Anycubic Kobra 3 - A Pioneering Multicolor Printer Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-pc-building-tips-from-toms-hardware-experts/"><u>Discover the Latest in PC Building - Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-tech-secrets-toms-expertise-on-modern-hardware/"><u>Discover Top Tech Secrets - Tom's Expertise on Modern Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/flattening-the-cornered-look-of-win11/"><u>Flattening the Cornered Look of Win11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-computer-store-in-depth-hardware-analysis-and-guides/"><u>Inside Tom's Computer Store: In-Depth Hardware Analysis and Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/is-it-worth-the-money-in-depth-review-of-upheret-c5c-and-d6sec-affordable-air-coolers/"><u>Is It Worth the Money? In-Depth Review of UpHere't C5C and D6Sec Affordable Air Coolers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solution/"><u>Solution</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-11-pro-max-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 11 Pro Max You Should Try Out</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/thorough-assessment-the-power-of-the-white-maxsun-terminator-z790m-d5-ice-atx-board-with-five-m2-connectors-reviewed/"><u>Thorough Assessment: The Power of the White Maxsun Terminator Z790M D5 Ice ATX Board with Five M.2 Connectors Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-hardware-t17239718733623/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Hardware</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Galaxy Codebase Breach Confirmed by Samsung, Customer Info Unaffected | Insights From Security Experts | Digital Trends
-date: 2024-09-18 20:56:16
-updated: 2024-09-20 12:22:23
+date: 2025-02-26T18:33:49.764Z
+updated: 2025-03-04T16:06:27.232Z
 tags:
   - cyber-threats
 categories:
@@ -152,11 +152,26 @@ In response last week, Nvidia also confirmed that some employee credential and p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-feast-your-eyes-on-9-whole-film-winter-wonders-no-charge/"><u>[New] Feast Your Eyes on 9 Whole-Film Winter Wonders No Charge!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-complimentary-universal-media-server-application-for-apple-computers-a-guide/"><u>Best Complimentary Universal Media Server Application for Apple Computers: A Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-gaping-security-risk-in-apples-updated-anti-theft-technology-and-how-to-patch-it-up-cyberguardian-news/"><u>Exploring the Gaping Security Risk in Apple's Updated Anti-Theft Technology & How to Patch It Up | CyberGuardian News</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/871900-9781780990279-falling-into-easy/"><u>Falling Into Easy | Free Book</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-a56s-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo A56s 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-and-green-gaming-memory-on-test-a-thorough-analysis-of-the-t-force-vulcan-by-teamgroup-c30-2x16gb/"><u>Innovative and Green Gaming Memory on Test - A Thorough Analysis of the T-Force Vulcan by TeamGroup (C30, 2X16GB)</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/iphone-guide-to-designing-responsive-user-friendly-digital-books-with-flip-pdf-app-flipbuildercom/"><u>IPhone Guide to Designing Responsive, User-Friendly Digital Books with Flip PDF App [FlipBuilder.com]</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341676801-is-the-asus-rog-keris-ii-ace-a-worthy-successor-to-the-legendary-ragedeathadder-v3-pro-full-review-inside/"><u>Is the Asus ROG Keris II Ace a Worthy Successor to the Legendary RageDeathAdder V3 Pro? Full Review Inside!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lofree-edge-evaluation-sleek-design-and-premium-cost-compared-to-apples-magic-keyboard/"><u>Lofree Edge Evaluation: Sleek Design & Premium Cost Compared to Apple's Magic Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-mastering-the-raspberry-pi-ai-project-pack/"><u>The Ultimate Guide to Mastering the Raspberry Pi AI Project Pack</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-latest-hardware/"><u>Tom's Tech Review: Expert Insights on Latest Hardware</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-therapeutic-ai-chatbots-and-apps-to-alleviate-psychological-stress/"><u>Top 5 Therapeutic AI Chatbots & Apps to Alleviate Psychological Stress</u></a></li>
+</ul></div>
+

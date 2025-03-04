@@ -1,7 +1,7 @@
 ---
 title: "Extending IBM's Threat Intelligence: How Acquiring Randori Elevates XDR Capabilities | ZDNet Insight"
-date: 2024-09-17 10:21:56
-updated: 2024-09-20 10:13:17
+date: 2025-03-02T20:28:37.648Z
+updated: 2025-03-04T16:01:50.788Z
 tags:
   - cyber-threats
 categories:
@@ -74,11 +74,28 @@ In [other IBM news](https://www.zdnet.com/article/ibm-ordered-to-pay-1-6b-to-sof
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-laughmaker-quick-meme-and-image-crafter/"><u>2024 Approved LaughMaker Quick Meme & Image Crafter</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-computer-review-hub/"><u>Expert Insights From Tom's Computer Review Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/id-coolings-frozn-a620-pro-se-review-unveiling-premium-efficiency-and-cost-effectiveness-in-cooling-solutions/"><u>ID-Cooling's Frozn A620 Pro SE Review - Unveiling Premium Efficiency and Cost-Effectiveness in Cooling Solutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-variability-insights-into-common-slang-usage/"><u>Linguistic Variability: Insights Into Common Slang Usage</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/masterpiece-makers-discovering-these-6-unmatched-nft-tools-for-2024/"><u>Masterpiece Makers Discovering These 6 Unmatched NFT Tools for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-play-for-star-wars-jedi-fallen-order-on-pc-tackling-troublesome-crashes/"><u>Optimizing Play for Star Wars Jedi: Fallen Order on PC: Tackling Troublesome Crashes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/picturecut-pro/"><u>PictureCut Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-couch-collaboration-titles-for-xbox-series-consoles/"><u>Prime Couch Collaboration Titles for Xbox Series Consoles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-pc-parts-by-toms-hardware-experts/"><u>The Ultimate Guide to PC Parts by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-listening-experience-awaits-with-turtle-beachs-atlas-air-headphones-discover-the-difference/"><u>The Ultimate Listening Experience Awaits with Turtle Beach's Atlas Air Headphones – Discover the Difference</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-advice-unbiased-hardware-guidance/"><u>Tom's Tech Advice: Unbiased Hardware Guidance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-the-latest-computer-gear/"><u>Tom's Tech Reviews: Expert Insights on the Latest Computer Gear</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-tools-for-efficient-video-capture-on-windows-11/"><u>Top Tools for Efficient Video Capture on Windows 11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unlimited-outro-options-at-no-expense-online-for-2024/"><u>Unlimited Outro Options at No Expense Online for 2024</u></a></li>
+</ul></div>
+

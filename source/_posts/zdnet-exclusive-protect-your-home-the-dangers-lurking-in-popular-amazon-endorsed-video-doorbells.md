@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Protect Your Home - The Dangers Lurking in Popular Amazon-Endorsed Video Doorbells"
-date: 2024-09-17 22:29:28
-updated: 2024-09-20 12:37:36
+date: 2025-02-26T21:01:00.459Z
+updated: 2025-03-04T18:17:22.313Z
 tags:
   - cyber-threats
 categories:
@@ -84,11 +84,28 @@ CR reported the lack of security in these video doorbells to all sellers. Still,
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-breaking-top-tiktok-videos-making-twitter-shout/"><u>[New] In 2024, Breaking Top TikTok Videos Making Twitter Shout</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-streamlining-screen-record-on-snapchats-with-your-phone-for-2024/"><u>[New] Streamlining Screen Record on Snapchats with Your Phone for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/a-guide-to-correcting-software-glitches-with-acer-devices-on-a-windows-platform/"><u>A Guide to Correcting Software Glitches with Acer Devices on a Windows Platform</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieving-peak-zoom-resolution-effective-techniques-for-2024/"><u>Achieving Peak Zoom Resolution Effective Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-adobe-reader-setup-on-ms-store/"><u>Effortless Adobe Reader Setup on MS Store</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-oppo-reno-11f-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Oppo Reno 11F 5G Phone Screen?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-does-the-asus-rog-azoth-extreme-hold-up-in-depth-review-for-500-dollar-buyers/"><u>How Does The Asus ROG Azoth Extreme Hold Up? In-Depth Review for 500 Dollar Buyers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-xiaomi-13t-pro-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Xiaomi 13T Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-your-gaming-experience-proven-techniques-for-enhancing-war-thunders-fps/"><u>Maximize Your Gaming Experience: Proven Techniques for Enhancing War Thunder's FPS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-trends-at-toms-computer-resource/"><u>Navigating Technology Trends at Tom's Computer Resource</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-music-making-software-the-top-10-picks/"><u>New In 2024, Free Music Making Software The Top 10 Picks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-newly-updated-dell-xps-13-where-style-meets-speed-with-snapdragon-x-elite-tech/"><u>The Ultimate Guide to the Newly Updated Dell XPS 13 - Where Style Meets Speed with Snapdragon X Elite Tech</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-review-comprehensive-guide-and-insights/"><u>Tom's Hardware Review: Comprehensive Guide and Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-efficiency-a-closer-look-at-nzxts-c1500-platinum-psu/"><u>Unveiling Efficiency: A Closer Look at NZXT's C1500 Platinum PSU</u></a></li>
+</ul></div>
+

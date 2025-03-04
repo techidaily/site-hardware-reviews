@@ -1,7 +1,7 @@
 ---
 title: Get a Powerhouse 15-Inch Asus Notebook at an Unbeatable Price of $2ˈ/ ZDNET's Inside Scoop on Walmart’s Latest Offer!
-date: 2025-02-08T17:12:55.636Z
-updated: 2025-02-15T16:41:38.488Z
+date: 2025-02-25T16:03:10.427Z
+updated: 2025-03-04T17:50:49.995Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -63,16 +59,17 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-prime-windows-10-photoviewing-suite/"><u>[New] Prime Windows 10 Photoviewing Suite</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-soundscapes-for-the-eye-ranking-the-best-photographers-plus-videographers-w-tunes/"><u>[New] Soundscapes for the Eye Ranking the Best Photographers + Videographers W/ Tunes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-asus-rog-azoth-gaming-laptop-extreme-evaluation-500-price-point/"><u>Comprehensive Asus ROG Azoth Gaming Laptop (Extreme) Evaluation - $500 Price Point</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-modern-gear-from-your-go-to-source-toms-hardware/"><u>Expert Advice on Modern Gear From Your Go-To Source, Tom's Hardware</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/expert-analysis-the-alienware-pro-wireless-keyboard-balancing-luxury-and-performance-in-gaming/"><u>Expert Analysis: The Alienware Pro Wireless Keyboard - Balancing Luxury and Performance in Gaming</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341746651-experts-rating-in-depth-analysis-of-dough-spectrum-black-the-ultimate-27-oled-gaming-display-with-superior-color-fidelity-and-exceptional-responsiveness/"><u>Experts' Rating: In-Depth Analysis of Dough Spectrum Black - The Ultimate 27 OLED Gaming Display with Superior Color Fidelity & Exceptional Responsiveness!</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/free-alternatives-to-backup-and-sync-now-that-its-discontinued/"><u>Free Alternatives to Backup & Sync Now That It's Discontinued</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-apple-books-software-a-thorough-critique-and-analysis/"><u>The Apple Books Software: A Thorough Critique and Analysis</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/unveiling-history-assessing-the-influence-of-chinas-original-republican-era-insights-by-yl-tech/"><u>Unveiling History: Assessing the Influence of China’s Original Republican Era – Insights by YL Tech</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-pros-and-cons-of-hostgators-vps-and-shared-hosting-services/"><u>Unveiling the Pros and Cons of HostGator's VPS and Shared Hosting Services</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-essentials-of-image-augmentation-inserting-text-into-images-for-pc-and-mac-users/"><u>[Updated] In 2024, The Essentials of Image Augmentation Inserting Text Into Images for PC & Mac Users</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-infinix-hot-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/erfolgreich-beschadigte-sd-karten-wiederherstellen-expertenrat-fur-einen-unkomplizierten-prozess/"><u>Erfolgreich Beschädigte SD-Karten Wiederherstellen - Expertenrat Für Einen Unkomplizierten Prozess</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-16-inch-macbook-pro-with-m3-pro-for-less-dont-miss-this-500-deal-before-amazon-prime-day/"><u>Get the 16-Inch MacBook Pro With M3 Pro for Less - Don't Miss This $500 Deal Before Amazon Prime Day!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/grab-the-bargain-limited-offer-for-elegoo-neptune-4-pro-at-just-284/"><u>Grab the Bargain: Limited Offer for Elegoo Neptune 4 Pro at Just $284</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-vivo-y78-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Vivo Y78 5G</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hp-omnibook-x-in-depth-evaluation-unleashing-the-potential-of-a-long-lasting-battery-life/"><u>HP OmniBook X In-Depth Evaluation: Unleashing the Potential of a Long-Lasting Battery Life</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-xr-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone XR or iPad?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-blaze-2-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-advice-on-computer-hardware-with-toms-expertise/"><u>In-Depth Reviews and Advice on Computer Hardware with Tom's Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/laptop-induced-crisis-leads-to-immediate-exit-for-travelers-on-american-airlines-flight/"><u>Laptop-Induced Crisis Leads to Immediate Exit for Travelers on American Airlines Flight</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-disabling-the-security-pin-on-windows-10/"><u>Step-by-Step Guide: Disabling the Security Pin on Windows 10</u></a></li>
 </ul></div>
 

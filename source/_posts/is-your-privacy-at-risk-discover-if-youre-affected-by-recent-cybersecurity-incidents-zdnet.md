@@ -1,7 +1,7 @@
 ---
 title: Is Your Privacy at Risk? Discover If You're Affected by Recent Cybersecurity Incidents | ZDNet
-date: 2024-09-17 12:29:27
-updated: 2024-09-20 12:37:42
+date: 2025-03-03T17:13:44.570Z
+updated: 2025-03-04T18:30:16.161Z
 tags:
   - cyber-threats
 categories:
@@ -230,11 +230,25 @@ Unfortunately, it is up to individuals to deal with the fallout; knowing you've 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-crafting-the-perfect-youtube-channel-url-a-quick-guide/"><u>[New] 2024 Approved Crafting the Perfect YouTube Channel Url A Quick Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/apturing-attention-striking-shots-for-youtube-success/"><u>[New] Capturing Attention Striking Shots for YouTube Success</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-excellence-in-audio-a-comparative-analysis-of-the-best-alternatives-to-bose-and-sony-soundbars-by-zdnet/"><u>Discovering Excellence in Audio: A Comparative Analysis of the Best Alternatives to Bose and Sony Soundbars by ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-beyerdynamic-mmx-300-pro-stellar-audio-performance-in-a-straightforward-package/"><u>Evaluating the Beyerdynamic MMX 300 Pro - Stellar Audio Performance in a Straightforward Package</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-digital-signature-for-pdf-v16-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Free digital signature for PDF v1.6 document</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-asus-rog-nuc-970-mini-pc-a-detailed-review-on-its-formidable-performance-and-portability/"><u>Inside the Asus ROG NUC 970 Mini PC: A Detailed Review on Its Formidable Performance and Portability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-realm-a-comprehensive-tech-resource/"><u>Inside Tom's Hardware Realm: A Comprehensive Tech Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pest-management/"><u>Pest Management</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prioritizing-elements-selecting-chatgpt-as-a-mental-health-enhancer/"><u>Prioritizing Elements: Selecting ChatGPT as a Mental Health Enhancer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tomtechdigest-decoding-computer-hardware-secrets/"><u>TomTechDigest: Decoding Computer Hardware Secrets</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-pubg-structures-load-issues-effectively/"><u>Ultimate Guide: Resolving PUBG Structures Load Issues Effectively</u></a></li>
+</ul></div>
+

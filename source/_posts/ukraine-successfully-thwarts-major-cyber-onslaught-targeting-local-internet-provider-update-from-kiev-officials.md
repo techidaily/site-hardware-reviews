@@ -1,7 +1,7 @@
 ---
 title: Ukraine Successfully Thwarts Major Cyber Onslaught Targeting Local Internet Provider - Update From Kiev Officials
-date: 2024-09-19 17:59:21
-updated: 2024-09-20 12:51:19
+date: 2025-03-02T17:37:56.427Z
+updated: 2025-03-04T20:11:49.575Z
 tags:
   - cyber-threats
 categories:
@@ -53,11 +53,26 @@ The "entire IT-community of the world" is united against Russia's invasion, Shch
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-8-best-instagram-scheduler-for-android-and-iphone-for-2024/"><u>[New] 8 Best Instagram Scheduler for Android and iPhone for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-mastering-full-view-fb-movie-magic/"><u>[Updated] Mastering Full-View Fb Movie Magic</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-nights-tale-videos-critical-take/"><u>2024 Approved Night's Tale Videos Critical Take</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-pc-gear-with-toms-hardware-analysis/"><u>Expert Guidance on PC Gear with Tom’s Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-an-in-depth-guide/"><u>Exploring Tom’s Hardware: An In-Depth Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-chinese-tech-startups-opt-for-affordable-performance-with-geforce-gaming-cards-over-expensive-sanction-compliant-nvidia-ais-the-value-edge-of-the-rtx-408/"><u>How Chinese Tech Startups Opt for Affordable Performance with GeForce Gaming Cards Over Expensive Sanction-Compliant Nvidia AIs: The Value Edge of the RTX 4090</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-se-2022-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932696-9781855844612-inward-experiences-after-death/"><u>Inward Experiences After Death | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nvidias-blackwell-graphics-cards-face-setback-potential-redesign-leads-to-projected-3-month-launch-postponement/"><u>Nvidia's Blackwell Graphics Cards Face Setback: Potential Redesign Leads to Projected 3-Month Launch Postponement</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-12-pro-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone 12 Pro to PC or Mac | Stellar</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-tecno-spark-10c-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Tecno Spark 10C Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-pc-speeds-choosing-the-right-extension-software/"><u>Top PC Speeds Choosing the Right Extension Software</u></a></li>
+</ul></div>
+

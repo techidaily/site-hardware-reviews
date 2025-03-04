@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Decision Alert: Comparing the New M2 to M3 MacBook Air From Apple | Tech Insights"
-date: 2025-02-08T16:32:30.477Z
-updated: 2025-02-15T17:06:01.496Z
+date: 2025-03-01T20:56:12.726Z
+updated: 2025-03-04T16:43:18.128Z
 tags:
   - laptops
 categories:
@@ -28,10 +28,6 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Apple is _officially_ in the AI PC race
 
 Kerry Wan/ZDNET
@@ -54,10 +50,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. I can finally recommend the Midnight color
 
 Kerry Wan/ZDNET
@@ -65,10 +57,6 @@ Kerry Wan/ZDNET
 AI aside, there is one subtle design change to the new MacBooks that I really dig, and, no, they're not any lighter than they already are, nor do they _finally_ have more ports. The Midnight color for the M3 MacBooks now features a "breakthrough anodization seal" that reduces fingerprints -- in theory, at least. 
 
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
 
@@ -110,18 +98,22 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-navigating-new-frontiers-metaverses-vs-omniverse/"><u>[New] In 2024, Navigating New Frontiers Metaverses Vs. Omniverse</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-prime-streamers-selection-the-best-websites/"><u>[Updated] In 2024, Prime Streamers' Selection The Best Websites</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-pixels-to-power-top-photo-editing-strategies-unlocked/"><u>2024 Approved Pixels to Power Top Photo Editing Strategies Unlocked</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-power-of-ai-10-tactics-to-secure-your-next-role-with-chatgpt-on-linkedin/"><u>Discover the Power of AI: 10 Tactics to Secure Your Next Role with ChatGPT on LinkedIn</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/essential-guide-troubleshooting-windows-11-sound-difficulties-step-by-step/"><u>Essential Guide: Troubleshooting Windows 11 Sound Difficulties – Step-by-Step</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-overcome-zero-empty-directory-error-in-windows-11-and-11/"><u>How to Overcome Zero-Empty Directory Error in Windows 11 & 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-xiaomi-mix-fold-3-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Xiaomi Mix Fold 3, is it possible?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-full-potential-effortlessly-operate-windows-with-your-new-steam-deck-oled-device/"><u>Unlocking Full Potential: Effortlessly Operate Windows with Your New Steam Deck OLED Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-seamless-connectivity-a-step-by-step-for-combining-various-mesh-network-systems/"><u>Unlocking Seamless Connectivity: A Step-by-Step for Combining Various Mesh Network Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unraveling-the-origin-whats-behind-the-name-bluetooth/"><u>Unraveling the Origin: What's Behind the Name 'Bluetooth'?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/wake-up-gently-with-philips-hue-transform-your-mornings-into-breathtaking-sunrises-by-your-bedside/"><u>Wake Up Gently with Philips Hue - Transform Your Mornings Into Breathtaking Sunrises by Your Bedside</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/wi-fi-standard-8-wi-fi-7-advantages-explained-and-why-you-should-consider-switching/"><u>Wi-Fi Standard 8 (Wi-Fi 7): Advantages Explained & Why You Should Consider Switching!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/your-smart-tvs-secret-beyond-entertainment-it-monitors-all-you-do/"><u>Your Smart TV's Secret: Beyond Entertainment, It Monitors All You Do</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-from-reality-to-virtuality-best-practices-for-recording-gameplay-worlds/"><u>[New] 2024 Approved From Reality to Virtuality Best Practices for Recording Gameplay Worlds</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-fundamentals-of-crafting-youtube-videos-from-scratch/"><u>[New] The Fundamentals of Crafting YouTube Videos From Scratch</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-short-length-film-plot-plan/"><u>2024 Approved Short-Length Film Plot Plan</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/at-lp120xusb-unveiled-record-revival-on-a-turntable/"><u>AT-LP120XUSB Unveiled: Record Revival on a Turntable</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/le-collective-top-15-hilarious-youtubers-for-boredom-beaters/"><u>Chuckle Collective Top 15 Hilarious YouTubers for Boredom Beaters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-elite-picks-of-2024s-best-ceiling-speaker-options/"><u>Discover the Elite Picks of 2024'S Best Ceiling Speaker Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-toms-hardware-hub/"><u>Expert Reviews by Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/fx36-60-pro-cooler-by-id-cooling-exceptional-performance-at-a-budget-friendly-price-point/"><u>FX36 60 Pro Cooler by ID-Cooling - Exceptional Performance at a Budget-Friendly Price Point</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-brightness-rich-colors-comprehensive-review-of-the-viewsonic-xg272-2k-240-hz-gaming-display/"><u>High Brightness, Rich Colors - Comprehensive Review of the ViewSonic XG272-2k 240 Hz Gaming Display</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-xs-max-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On iPhone XS Max You Should Try Out</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-toms-digital-landscape-expert-reviews-on-gadgets-and-components/"><u>Navigating Tom's Digital Landscape: Expert Reviews on Gadgets & Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341755543-postoperative-monitoring-for-signs-of-infection-or-inflammation-is-crucial-after-ocular-trauma-treatment/"><u>Postoperative Monitoring for Signs of Infection or Inflammation Is Crucial After Ocular Trauma Treatment.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-home-computing-the-brainiac-review-of-raspberry-pi-ai-modules/"><u>Revolutionizing Home Computing: The Brainiac Review of Raspberry Pi AI Modules</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamline-editing-how-to-load-music-in-inshot/"><u>Streamline Editing How to Load Music in InShot</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ystery-of-youtubes-viewer-count-puzzle/"><u>The Mystery of YouTube's Viewer Count Puzzle</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-comprehensive-tech-guides-and-gadget-reviews/"><u>Tom's Hardware: Comprehensive Tech Guides and Gadget Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-innovative-gear-the-toms-tech-showcase/"><u>Unveiling Innovative Gear: The Tom's Tech Showcase</u></a></li>
 </ul></div>
 

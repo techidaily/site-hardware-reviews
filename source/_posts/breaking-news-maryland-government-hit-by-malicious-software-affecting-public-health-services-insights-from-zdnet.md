@@ -1,7 +1,7 @@
 ---
 title: "Breaking News: Maryland Government Hit by Malicious Software, Affecting Public Health Services - Insights From ZDNet"
-date: 2024-09-18 23:52:27
-updated: 2024-09-20 11:39:25
+date: 2025-03-02T17:18:06.340Z
+updated: 2025-03-04T18:33:48.926Z
 tags:
   - cyber-threats
 categories:
@@ -85,11 +85,28 @@ Heath Renfrow, CISO of Conversant Group, told _ZDNet_ that it was "bold" of offi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-best-on-action-cameras-with-premium-mics/"><u>[New] 2024 Approved Best On-Action Cameras with Premium Mics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-screen-spectacular-sj6-vs-yi-4k-edition/"><u>[New] Screen Spectacular SJ6 Vs. Yi 4K Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-streamlining-your-instagram-archive-with-ease/"><u>[Updated] In 2024, Streamlining Your Instagram Archive with Ease</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-stream-snipping-specialists-2023-version-for-2024/"><u>[Updated] Stream Snipping Specialists, 2023 Version for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-comprehensive-guides-and-insights/"><u>Exploring Technology with Tom's Hardware - Comprehensive Guides and Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-comprehensive-reviews-at-your-brand-name/"><u>Exploring the Latest in Tech: Comprehensive Reviews at [Your Brand Name]</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-electronics-hub-in-depth-reviews-on-hardware-and-software-solutions/"><u>Exploring Tom's Electronics Hub: In-Depth Reviews on Hardware and Software Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-a-locked-iphone-with-non-working-buttons-tips-and-tricks-for-quick-restart/"><u>Fix a Locked iPhone with Non-Working Buttons – Tips and Tricks for Quick Restart</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/from-cpus-to-gpus-expert-tips-on-cutting-edge-hardware-with-tom/"><u>From CPUs to GPUs: Expert Tips on Cutting-Edge Hardware with Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-sabrents-speedy-rocket-5-ssds-pre-order-begins-at-an-affordable-price-of-190/"><u>Get Your Hands on Sabrent's Speedy Rocket 5 SSDs - Pre-Order Begins at an Affordable Price of $190!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-quickcapture-studio-chrome-os-snapper/"><u>In 2024, QuickCapture Studio Chrome OS Snapper</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-sabrent-rocket-5-2tb-ssd-performance-elevated/"><u>In-Depth Analysis of Sabrent Rocket 5 2TB SSD - Performance Elevated</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/reviewing-apples-latest-entry-a-look-at-the-upgraded-and-affordable-8th-gen-ipad/"><u>Reviewing Apple's Latest Entry: A Look at the Upgraded and Affordable 8Th Gen iPad.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-gone-data-proven-strategies-for-windows/"><u>Winning Back Gone Data: Proven Strategies for Windows</u></a></li>
+</ul></div>
+

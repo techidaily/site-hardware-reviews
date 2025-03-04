@@ -1,7 +1,7 @@
 ---
 title: "IBM Enhances Cybersecurity with Randori Takeover: Expanding Its Extended Detection and Response Capabilities"
-date: 2024-09-17 16:50:30
-updated: 2024-09-20 11:47:59
+date: 2025-03-01T19:48:48.125Z
+updated: 2025-03-04T18:12:48.375Z
 tags:
   - cyber-threats
 categories:
@@ -74,11 +74,31 @@ In [other IBM news](https://www.zdnet.com/article/ibm-ordered-to-pay-1-6b-to-sof
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-worlds-hottest-youtube-personalities-by-subscribers/"><u>[New] 2024 Approved World's Hottest YouTube Personalities by Subscribers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-accelerated-mp4-conversion-for-fb-media-for-2024/"><u>[New] Accelerated MP4 Conversion for FB Media for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ideo-enhancement-embedding-youtube-into-google-slides/"><u>[New] Video Enhancement Embedding YouTube Into Google Slides</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-onboard-recorder-use-in-huawei-mate-and-p-series-mate-10-mate-20-p20-p10/"><u>[Updated] Onboard Recorder Use in Huawei Mate and P Series (Mate 10, Mate 20; P20, P10)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-sonos-commits-enhancements-reviving-cherished-application-functions/"><u>1. Sonos Commits Enhancements: Reviving Cherished Application Functions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pushing-boundaries-with-dells-revolutionary-p2715q-monitor-review/"><u>2024 Approved Pushing Boundaries with Dell's Revolutionary P2715Q Monitor Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-news-tile-encounters-serious-data-breach-immediate-measures-and-consequences-explained/"><u>Breaking News: Tile Encounters Serious Data Breach – Immediate Measures and Consequences Explained</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-dell-xps-16-9640-the-perfect-blend-of-elegance-and-performance/"><u>Comprehensive Analysis of the Dell XPS 16-9640: The Perfect Blend of Elegance and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-the-eufy-s350-home-monitoring-cam-spotlight-on-superior-motion-detection-features/"><u>Comprehensive Review of the Eufy S350 Home Monitoring Cam - Spotlight on Superior Motion Detection Features</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-8-premier-gaming-titles-of-google-play-pass/"><u>Discover the 8 Premier Gaming Titles of Google Play Pass</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-nubia-red-magic-9-proplus-by-drfone-android/"><u>How to Show Wi-Fi Password on Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-psd-overhaul-techniques/"><u>In 2024, Expert PSD Overhaul Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-smart-home-controllers-the-ultimate-list/"><u>Top-Rated Smart Home Controllers: The Ultimate List</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-streamer-comparison-clash-of-titans-apple-tv-roku-amazon-fire-tv-and-google-tv/"><u>Ultimate Streamer Comparison: Clash of Titans - Apple TV, Roku, Amazon Fire TV & Google TV</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-usb-standards-a-comprehensive-guide-to-generations-1-2-and-2x2-decoding-usb-32/"><u>Understanding USB Standards: A Comprehensive Guide to Generations 1, 2, & 2X2 - Decoding USB 3.2</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-an-ipad-without-the-passcode-expert-advice/"><u>Unlocking an iPad Without the Passcode - Expert Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrade-your-computers-performance-with-our-prime-day-special-on-high-speed-nvme-ssd-drives/"><u>Upgrade Your Computer's Performance with Our Prime Day Special on High-Speed NVMe SSD Drives!</u></a></li>
+</ul></div>
+

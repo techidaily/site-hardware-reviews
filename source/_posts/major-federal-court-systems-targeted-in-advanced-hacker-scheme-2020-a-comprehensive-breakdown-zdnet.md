@@ -1,7 +1,7 @@
 ---
 title: "Major Federal Court Systems Targeted in Advanced Hacker Scheme - 2020: A Comprehensive Breakdown | ZDNET"
-date: 2024-09-18 20:25:38
-updated: 2024-09-20 12:54:40
+date: 2025-02-28T18:02:15.075Z
+updated: 2025-03-04T18:03:10.335Z
 tags:
   - cyber-threats
 categories:
@@ -66,11 +66,23 @@ The massive, [Kremlin-backed](https://www.zdnet.com/article/solarwinds-us-and-uk
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-masterful-3d-design-best-animation-software-selection/"><u>[New] Masterful 3D Design Best Animation Software Selection</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-15-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 15</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-quicken-video-playback-on-instagram-apps/"><u>In 2024, Quicken Video Playback on Instagram Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/phasing-out-the-windows-11-co-pilot-keyboard-command-what-you-need-to-know/"><u>Phasing Out the Windows 11 Co-Pilot Keyboard Command: What You Need To Know</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/prime-video-entries-the-best-16-to-maximize-viewership/"><u>Prime Video Entries The Best 16 to Maximize Viewership</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sapphire-unveils-affordable-pcie-gen-4-mini-itx-am5-board-for-chinese-market/"><u>Sapphire Unveils Affordable PCIe Gen 4 Mini ITX AM5 Board for Chinese Market</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-essential-hardware-handbook-by-tom-make-informed-tech-decisions/"><u>The Essential Hardware Handbook by Tom: Make Informed Tech Decisions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-expertise-on-computer-gear-and-systems/"><u>Tom's Expertise on Computer Gear and Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-gear-lab-in-depth-analysis-of-pc-parts/"><u>Tom's Gear Lab: In-Depth Analysis of PC Parts</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: IBM Strengthens Cybersecurity with Randori Integration Enhancing Extended Detection and Response Solutions
-date: 2024-09-17 16:38:33
-updated: 2024-09-20 11:16:29
+date: 2025-02-28T16:48:54.921Z
+updated: 2025-03-04T19:10:31.874Z
 tags:
   - cyber-threats
 categories:
@@ -74,11 +74,23 @@ In [other IBM news](https://www.zdnet.com/article/ibm-ordered-to-pay-1-6b-to-sof
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-embark-into-the-best-youtube-vr-content-ever-for-2024/"><u>[Updated] Embark Into the Best YouTube VR Content Ever for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/choosing-the-perfect-keyboard-companer-for-your-new-steam-deck-a-comprehensive-guide/"><u>Choosing the Perfect Keyboard Companer for Your New Steam Deck: A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comparatif-avi-contre-mp4-lequel-offre-une-meilleure-compatibilite-et-efficacite-en-streaming/"><u>Comparatif AVI Contre MP4: Lequel Offre Une Meilleure Compatibilité Et Efficacité en Streaming?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embrace-the-power-why-intel-gpus-demand-your-attention-now/"><u>Embrace the Power: Why Intel GPUs Demand Your Attention Now</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embracing-the-past-my-reasons-for-favoring-vintage-video-games-over-contemporary-titles/"><u>Embracing the Past: My Reasons for Favoring Vintage Video Games over Contemporary Titles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhanced-smart-homes-ahead-how-three-key-missteps-led-to-superior-automation-scenarios/"><u>Enhanced Smart Homes Ahead: How Three Key Missteps Led to Superior Automation Scenarios</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-limitations-how-chatgpt-fails-to-recognize-its-own-words/"><u>Exploring the Limitations: How ChatGPT Fails to Recognize Its Own Words</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-emotional-depth-in-self-narrated-videos-yt/"><u>In 2024, Unlocking Emotional Depth in Self-Narrated Videos YT</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+</ul></div>
+

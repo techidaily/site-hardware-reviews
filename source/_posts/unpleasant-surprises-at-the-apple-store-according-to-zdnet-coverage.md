@@ -1,7 +1,7 @@
 ---
 title: Unpleasant Surprises at the Apple Store, According to ZDNet Coverage
-date: 2025-02-10T17:14:45.071Z
-updated: 2025-02-15T16:46:00.623Z
+date: 2025-03-01T19:56:42.504Z
+updated: 2025-03-04T18:59:15.760Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -82,19 +78,11 @@ Furthermore, there are very few ports. You get three in total: two USB-C inputs 
 
 My last critique is admittedly a nitpick. I would've appreciated a free stylus in the overall package. Microsoft's 11th-gen Surface Pro had one when I got it, and I thoroughly enjoyed it. So unless you already have a pen, you'll have to buy one for the PZ13, which isn't a big issue since the laptop is fairly cheap.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 Prices for the Asus ProArt PZ13 start at [$1,100 on Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-proart-pz13-13-3k-detachable-laptop-copilot-pc-qualcomm-snapdragon-x-plus-16gb-memory-1tb-ssd-nano-black%2F6585178.p%3FskuId%3D6585178&publisher_slug=itechdaily19598&exclusive=1), which is a steal. There is a more powerful version available on Asus' website -- [for $1,649](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fshop.asus.com%2Fca-fr%2F90nb1441-m003e0-proart-pz13-ht5306.html%3F), you can purchase a ProArt PZ13 sporting Qualcomm's Hexagon NPU, delivering extra power.
 
 Other than that, they're the same device. Get the Hexagon version only if you are expecting heavy workloads.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -140,24 +128,24 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-sociostreamer-convert-to-webmmp4/"><u>[New] SocioStreamer Convert to WebM/MP4</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-how-to-utilize-facebooks-auto-video-functionality/"><u>[Updated] 2024 Approved How to Utilize Facebook's Auto-Video Functionality</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-from-farm-to-feast-shooting-gourmet-films-with-grace/"><u>[Updated] From Farm to Feast Shooting Gourmet Films with Grace</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-navigating-new-skies-with-syma-x5c-an-experts-take-for-novices/"><u>[Updated] Navigating New Skies with Syma X5C – An Expert’s Take for Novices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-resin-3d-printing-with-the-new-elegoo-saturn-4-ultra-expert-review-inside/"><u>Cutting-Edge Resin 3D Printing with the New Elegoo Saturn 4 Ultra - Expert Review Inside!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-the-ultimate-review-of-the-id-cooling-frozn-a620-pro-ses-unparalleled-value-and-quality/"><u>Elevate Your Gaming Experience - The Ultimate Review of the ID-Cooling Frozn A620 Pro SE's Unparalleled Value and Quality</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-capabilities-of-the-geekworm-x1011-as-a-nas-solution/"><u>Exploring the Capabilities of the Geekworm X1011 as a NAS Solution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/frozn-a620-pro-se-by-id-cooling-an-unmatched-investment-in-cooling-technology/"><u>Frozn A620 Pro SE by ID-Cooling - An Unmatched Investment in Cooling Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-transfer-learning-empower-ai-an-intuitive-approach/"><u>How Does Transfer Learning Empower AI? An Intuitive Approach</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/imminent-release-discover-how-samsung-plans-to-challenge-apple-vision-pro-soon-tech-news-hub/"><u>Imminent Release? Discover How Samsung Plans to Challenge Apple Vision Pro Soon | Tech News Hub</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fcp-download-hack-get-it-for-free/"><u>In 2024, FCP Download Hack Get It for Free?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-v27-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo V27 to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-instagrams-secrets-for-creating-must-watch-unboxings/"><u>In 2024, Instagram's Secrets for Creating Must-Watch Unboxings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341676801-is-the-asus-rog-keris-ii-ace-a-worthy-successor-to-the-legendary-ragedeathadder-v3-pro-full-review-inside/"><u>Is the Asus ROG Keris II Ace a Worthy Successor to the Legendary RageDeathAdder V3 Pro? Full Review Inside!</u></a></li>
-<li><a href="https://article-tips.techidaily.com/key-platforms-ranking-the-best-6-sites-for-business-interaction-for-2024/"><u>Key Platforms Ranking the Best 6 Sites for Business Interaction for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/precision-electronic-evaluations-the-toms-hardware-methodology/"><u>Precision Electronic Evaluations - The Tom's Hardware Methodology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computer-parts-with-toms-analysis/"><u>The Ultimate Guide to Computer Parts with Tom's Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-latest-hardware/"><u>Tom's Tech Review: Expert Insights on Latest Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-electronics-a-look-at-toms-hardware-findings/"><u>Unveiling the Latest in Electronics - A Look at Tom's Hardware Findings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-innovative-photo-frame-solutions-s-visionaries/"><u>[New] Innovative Photo Frame Solutions 'S Visionaries</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/710-deal-on-core-i5-12450h-alienexchange-swap-keyboard-for-spectacular-16-inch-dual-displays/"><u>$710 Deal on Core I5-12450H AlienExchange - Swap Keyboard for Spectacular 16-Inch Dual Displays</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/710-i5-12450h-desktop-replacement-on-aliexpress-dual-display-wonders-over-physical-keyboard/"><u>$710 I5-12450H Desktop Replacement on AliExpress - Dual Display Wonders Over Physical Keyboard</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-lava-blaze-2-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Lava Blaze 2 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-300-risc-v-laptop-by-chinese-innovators-ideal-for-developers-and-tech-enthusiasts/"><u>Affordable $300 RISC-V Laptop by Chinese Innovators Ideal for Developers and Tech Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-zephyrus-g16-laptop-unveiled-cutting-edge-specs-and-their-real-impact-on-gameplay-experience/"><u>ASUS ROG Zephyrus G16 Laptop Unveiled: Cutting-Edge Specs and Their Real Impact on Gameplay Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862727454-celebrate-memorial-day-with-unbeatable-savings-the-new-asus-tuf-gaming-a13-laptop-for-just-658/"><u>Celebrate Memorial Day with Unbeatable Savings: The New Asus TUF Gaming A1^3 Laptop for Just $658</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/conquer-your-battles-snag-the-high-performance-lenovo-legion-slim-5-for-gamers-now-priced-below-1k-on-newegg/"><u>Conquer Your Battles: Snag the High-Performance Lenovo Legion Slim 5 for Gamers, Now Priced Below $1K on Newegg</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dells-game-changing-battery-boost-introducing-snapdragon-x-chips-in-the-xps-13-plus-lineup/"><u>Dell's Game-Changing Battery Boost: Introducing Snapdragon X Chips in the XPS 13 Plus Lineup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/early-bird-special-for-the-next-gen-acemagic-x1-laptop-stay-tuned-for-price-and-availability/"><u>Early Bird Special for the Next-Gen AceMagic X1 Laptop - Stay Tuned for Price and Availability!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862727206-experience-the-next-gen-ryzen-ai-300-laptops-available-july-28-at-best-buy-pre-order-now/"><u>Experience the Next-Gen Ryzen AI 300 Laptops: Available July 28 at Best Buy - Pre-Order Now!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-outstanding-backdrops-for-video-conferencing/"><u>In 2024, Outstanding Backdrops for Video Conferencing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-unlocking-visual-potential-perfect-aspect-ratios-revealed/"><u>In 2024, Unlocking Visual Potential Perfect Aspect Ratios Revealed</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-newest-intel-iris-graphics-driver-on-your-windows-11-pc/"><u>Install Newest Intel® Iris® Graphics Driver on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speak-to-chatgpt-android-voice-activation-guide/"><u>Speak to ChatGPT: Android Voice Activation Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-video-collage-apps-for-iphone-and-ipad-for-2024/"><u>The Ultimate Guide to Video Collage Apps for iPhone and iPad for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-2024-cd-gear-guide-unmatched-performance-reviews/"><u>Ultimate 2024 CD Gear Guide: Unmatched Performance Reviews</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-smooth-playtime-expert-tips-for-preventing-crashes-in-frontier-on-pc/"><u>Unlocking Smooth Playtime: Expert Tips for Preventing Crashes in 'Frontier' On PC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-3-in-camera-transitions-tricks-to-make-videos-like-a-pro-for-2024/"><u>Updated 3 In-Camera Transitions Tricks To Make Videos Like a Pro for 2024</u></a></li>
 </ul></div>
 

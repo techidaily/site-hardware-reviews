@@ -1,7 +1,7 @@
 ---
 title: Microsoft Partners with Cohesity in United Effort Against Ransomware and Enhanced Cybersecurity Measures | ZDNet
-date: 2024-09-18 19:36:17
-updated: 2024-09-20 12:56:49
+date: 2025-02-26T16:40:58.771Z
+updated: 2025-03-04T19:22:41.831Z
 tags:
   - cyber-threats
 categories:
@@ -78,11 +78,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-no-fuss-filming-dell-laptop-screen-recordings/"><u>[New] In 2024, No-Fuss Filming Dell Laptop Screen Recordings</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-the-rhythmic-future-tiktoks-most-iconic-rap-songs/"><u>[New] In 2024, The Rhythmic Future TikTok's Most Iconic Rap Songs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-and-fast-raspberry-pi-m2-ssd-addon-comprehensive-evaluation/"><u>Affordable and Fast Raspberry Pi M.2 SSD Addon: Comprehensive Evaluation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gimbal-guide-to-enhancing-mirrorless-and-dslr-footage/"><u>Gimbal Guide to Enhancing Mirrorless and DSLR Footage</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-apple-iphone-11-by-drfone-ios/"><u>How To Create an Apple Developer Account From Apple iPhone 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-initialization-failed-error-in-destiny-2-expert-guide/"><u>How to Fix 'Initialization Failed' Error in Destiny 2 | Expert Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-download-and-update-your-epson-scanner-driver/"><u>How to Securely Download & Update Your Epson Scanner Driver</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-humor-image-processor/"><u>In 2024, Best Humor Image Processor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-windows-cmd-as-superuser-mode/"><u>Initiating Windows CMD as Superuser Mode</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-revolutionary-particle-featuring-a-snapdragon-cpu-and-inbuilt-ai-chip-for-next-gen-computing/"><u>Introducing the Revolutionary Particle: Featuring a Snapdragon CPU and Inbuilt AI Chip for Next-Gen Computing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-components-with-toms-computer-advice/"><u>Navigating the World of PC Components with Tom's Computer Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pimoronis-latest-innovation-the-two-player-picade-max-reviving-classic-games-powered-by-raspberry-pi/"><u>Pimoroni's Latest Innovation: The Two-Player Picade Max, Reviving Classic Games Powered by Raspberry Pi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-cyberdeck-2064-by-cyberdore-featuring-advanced-handle-oversized-wheel-and-cutting-edge-display-technology/"><u>Revolutionary Cyberdeck 2064 by Cyberdore: Featuring Advanced Handle, Oversized Wheel, and Cutting-Edge Display Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-expert-reviews-and-guides-for-high-performance-computing/"><u>Tom's Tech: Expert Reviews and Guides for High-Performance Computing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/windows-11-uefi-secure-boot/"><u>Windows 11へのアップデート準備 - UEFI Secure Boot設定方法ガイド</u></a></li>
+</ul></div>
+

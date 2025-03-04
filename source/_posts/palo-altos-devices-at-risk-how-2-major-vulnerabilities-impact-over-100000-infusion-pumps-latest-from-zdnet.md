@@ -1,7 +1,7 @@
 ---
 title: "Palo Alto's Devices at Risk: How 2 Major Vulnerabilities Impact Over 100,000 Infusion Pumps | Latest From ZDNet"
-date: 2024-09-17 10:26:39
-updated: 2024-09-20 11:42:53
+date: 2025-03-02T17:36:06.013Z
+updated: 2025-03-04T18:46:25.674Z
 tags:
   - cyber-threats
 categories:
@@ -86,11 +86,28 @@ But Casey Ellis, CTO at Bugcrowd, said medical device security issues are incred
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-methodology-incorporating-youtube-playlists-into-a-websites-structure/"><u>[New] Methodology Incorporating YouTube Playlists Into a Website's Structure</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-top-11-innovative-sites-for-crafting-impactful-fb-cover-photos-for-2024/"><u>[New] Top 11 Innovative Sites for Crafting Impactful FB Cover Photos for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-low-fee-android-communication-options-10-best/"><u>[Updated] In 2024, Low-Fee Android Communication Options, 10 Best</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deep-dive-into-electronics-with-tom-an-authority-on-hardware/"><u>Deep Dive Into Electronics with Tom - An Authority on Hardware</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-samsung-galaxy-a34-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Samsung Galaxy A34 5G Phone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-auditory-artistry-access-to-excellent-dj-video-samples/"><u>In 2024, Auditory Artistry Access to Excellent DJ Video Samples</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-scoop-on-gadgets-and-gizmos-from-toms-perspective/"><u>Inside Scoop on Gadgets and Gizmos From Tom's Perspective</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstarting-windows-11-3-routes-to-quicker-boot-process/"><u>Jumpstarting Windows 11: 3 Routes to Quicker Boot Process</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/p27a2r-unveiled-the-titan-army-gaming-monitor-that-delivers-on-value-and-a-buttery-smooth-180-hz-experience/"><u>P27A2R Unveiled: The Titan Army Gaming Monitor that Delivers on Value and a Buttery Smooth 180 Hz Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pny-rp60-1tb-usb-flash-drive-assessment-solid-performance-with-no-distinct-advantages/"><u>PNY RP60 1TB USB Flash Drive Assessment: Solid Performance with No Distinct Advantages</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sculpting-digital-artwork-through-distortion-for-2024/"><u>Sculpting Digital Artwork Through Distortion for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/"><u>Tom's Tech Insights: Exploring the Latest in Hardware Innovation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-guide-to-high-performance-pcs-with-toms-hardware-insights/"><u>Your Guide to High-Performance PCs with Tom's Hardware Insights</u></a></li>
+</ul></div>
+

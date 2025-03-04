@@ -1,7 +1,7 @@
 ---
 title: Child Safety Concerns Lead to $25M Fine for Amazon and Charges Against Ring | ZDNet News
-date: 2024-09-19 12:36:29
-updated: 2024-09-20 11:55:59
+date: 2025-02-25T20:31:11.838Z
+updated: 2025-03-04T17:42:25.081Z
 tags:
   - cyber-threats
 categories:
@@ -88,11 +88,27 @@ No information on how the customer refunds would be distributed is available at 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-utilize-obs-studio-android-solutions-effective-ways/"><u>[New] How to Utilize OBS Studio Android Solutions [Effective Ways]</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mp3-m2ts/"><u>無料ツールで音声を取り出してMP3化する - M2TSファイルのための方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/assessing-windows-app-size-efficiency/"><u>Assessing Windows App Size Efficiency</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-news-amd-patches-zen-2-vulnerability-dont-delay-apply-msis-updated-agesa-120-bios/"><u>Breaking News: AMD Patches Zen 2 Vulnerability - Don’t Delay! Apply MSI's Updated AGESA 1.2.0 BIOS</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oppo-find-x7-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo Find X7 Ultra Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-asus-pro-b760m-ct-csm-motherboard-why-choose-a-certified-supermom/"><u>Comprehensive Guide to Asus Pro B760M-CT CSM Motherboard - Why Choose a Certified Supermom?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-the-beast-a-deep-dive-into-the-asus-rog-z790-formulas-top-notch-hardware-and-efficient-cooling-mechanisms/"><u>Decoding the Beast: A Deep Dive Into the Asus ROG Z790 Formula's Top-Notch Hardware and Efficient Cooling Mechanisms</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-toms-gadget-guidance-mastering-hardware-solutions/"><u>Discover Tom's Gadget Guidance: Mastering Hardware Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/future-tech-uncovered-the-upcoming-line-of-certified-msi-z890-and-b860-boards-engineered-for-the-anticipated-intel-arrow-lake-s-chip-sneak-peek-before-compu82/"><u>Future Tech Uncovered: The Upcoming Line of Certified MSI Z890 & B860 Boards Engineered for the Anticipated Intel Arrow Lake-S Chip - Sneak Peek Before Computex 2024 Showcase</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-narzo-n53-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme Narzo N53</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mavic-pro-the-high-flying-gadget-unveiled/"><u>In 2024, Mavic Pro The High-Flying Gadget Unveiled</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-permanently-deleted-or-erased-excel-2016-files-for-free-stellar-by-stellar-guide/"><u>Recover Permanently Deleted or Erased Excel 2016 Files for Free | Stellar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-what-to-do-if-alexa-reports-your-echo-device-as-unplugged/"><u>Troubleshooting Guide: What To Do If Alexa Reports Your Echo Device as Unplugged</u></a></li>
+</ul></div>
+

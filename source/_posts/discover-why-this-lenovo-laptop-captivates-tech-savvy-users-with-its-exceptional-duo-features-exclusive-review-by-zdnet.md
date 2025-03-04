@@ -1,7 +1,7 @@
 ---
 title: Discover Why This Lenovo Laptop Captivates Tech Savvy Users with Its Exceptional Duo Features | Exclusive Review by ZDNET
-date: 2025-02-14T16:10:18.834Z
-updated: 2025-02-15T17:18:46.319Z
+date: 2025-02-27T20:55:05.953Z
+updated: 2025-03-04T16:06:24.172Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Kyle Kucharski/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -94,10 +90,6 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The [Asus Vivobook S 15](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.asus.com%2Fus%2Flaptops%2Ffor-home%2Fvivobook%2Fasus-vivobook-s-15-s5507%2F) is a sleek and lightweight laptop with a gorgeous OLED display and solid battery life -- as long as you're mindful about your power usage. I'd recommend it to forward-thinking digital nomads who want a performant, AI-ready laptop with the blazing-fast Snapdragon X Elite processor. It's a solid investment for people who regularly swap between creative work, productivity software, and media. 
@@ -134,24 +126,19 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-capture-and-compose-best-writing-apps-for-photos-iosandroid/"><u>[New] In 2024, Capture and Compose Best Writing Apps for Photos (iOS/Android)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-strategies-for-optimal-spotify-ad-reach-and-engagement/"><u>[New] Strategies for Optimal Spotify Ad Reach and Engagement</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-easy-steps-to-securely-record-your-virtual-gatherings-with-google/"><u>[Updated] Easy Steps to Securely Record Your Virtual Gatherings with Google</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-profitable-content-creation-on-youtube-through-smart-adsense-use/"><u>[Updated] Profitable Content Creation on YouTube Through Smart AdSense Use</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-free-mp3s-galore-10-no-cost-online-tools/"><u>2024 Approved Free Mp3s Galore 10 No-Cost Online Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-rankings-leading-gopro-case-models/"><u>2024 Approved The Ultimate Rankings Leading GoPro Case Models</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ace-your-online-privacy-discover-top-performing-vpns-with-in-depth-reviews-and-polls/"><u>Ace Your Online Privacy: Discover Top-Performing VPNs With In-Depth Reviews & Polls</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-master-your-youtube-banner-essential-guide-for-creators/"><u>In 2024, Master Your YouTube Banner Essential Guide for Creators</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Methods to Change GPS Location On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revealing-concealed-techniques-discover-the-eight-best-approaches-to-charge-your-smartphone-wirelessly/"><u>Revealing Concealed Techniques: Discover the Eight Best Approaches to Charge Your Smartphone Wirelessly</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/samsung-pay-vs-google-pay-a-comprehensive-comparison-for-smart-consumers/"><u>Samsung Pay vs Google Pay: A Comprehensive Comparison for Smart Consumers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/seamless-power-sharing-using-an-iphone-magsafe-charger-on-your-android-smartphone/"><u>Seamless Power Sharing: Using an iPhone MagSafe Charger on Your Android Smartphone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/simple-steps-to-modify-and-authenticate-your-pdfs-using-android/"><u>Simple Steps to Modify and Authenticate Your PDFs Using Android</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-of-the-curve-understanding-samsung-galaxys-update-longevity-forecast/"><u>Stay Ahead of the Curve: Understanding Samsung Galaxy's Update Longevity Forecast</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/streamline-your-messaging-experience-by-organizing-telegram-chats-into-folders-dont-make-my-mistake/"><u>Streamline Your Messaging Experience by Organizing Telegram Chats Into Folders - Don't Make My Mistake!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-basics-of-capturing-switch-gaming-moments/"><u>The Basics of Capturing Switch Gaming Moments</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-great-shift-embracing-a-smartphone-era-for-superior-accessibility-and-functionality/"><u>The Great Shift: Embracing a Smartphone Era for Superior Accessibility and Functionality</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-15-best-looking-android-games-a-match-for-console-quality/"><u>Top 15 Best-Looking Android Games: A Match for Console Quality</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/transparent-brilliance-unveiled-the-second-look-at-the-nothing-phone/"><u>Transparent Brilliance Unveiled: The Second Look at the Nothing Phone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-superb-costless-video-rendezvous-games/"><u>2024 Approved Superb Costless Video Rendezvous Games</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-soundscape-symphony-magixs-audio-mastery-in-studio-suite/"><u>2024 Approved The Soundscape Symphony Magix's Audio Mastery in Studio Suite</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-swift-pg32ucdp-oled-display-a-detailed-review-toward-excellence/"><u>Asus ROG Swift PG32UCDP OLED Display: A Detailed Review Toward Excellence</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rt-be96u-the-ultimate-6ghz-wireless-networking-champion-in-depth-review/"><u>Asus RT-BE96U: The Ultimate 6GHz Wireless Networking Champion - In Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-benefits-asus-ax6000-rt-ax88u-router-unveiled-the-premier-choice-in-wi-fi-6-technology-and-efficiency/"><u>Exploring the Benefits: Asus AX6000 (RT-AX88U) Router Unveiled - The Premier Choice in Wi-Fi 6 Technology and Efficiency</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-discovering-the-magic-behind-youtube-shorts/"><u>In 2024, Discovering the Magic Behind Youtube Shorts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-old-world-wonders-iphone-x-portraits/"><u>In 2024, Old World Wonders – iPhone X Portraits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/revisiting-radeon-review-and-restore-for-2024/"><u>Revisiting Radeon Review and Restore for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-battle-screen-gigabyte-aorus-oled-gaming-monitors-vivid-colors-and-dynamic-range-unveiled/"><u>The Ultimate Battle-Screen: Gigabyte Aorus OLED Gaming Monitor's Vivid Colors & Dynamic Range Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-technology-by-toms-experts/"><u>The Ultimate Guide to Technology by Tom's Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-qbittorrent-to-another-system-step-by-step-guide/"><u>Transitioning qBittorrent to Another System: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-technology-with-tom-comprehensive-hardware-guides/"><u>Unveiling the Latest in Technology with Tom - Comprehensive Hardware Guides</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-potent-and-renewable-energy-features-of-romers-flashlight-a-must-have-outdoor-essential/"><u>Unveiling the Potent and Renewable Energy Features of Romer's Flashlight: A Must-Have Outdoor Essential</u></a></li>
 </ul></div>
 

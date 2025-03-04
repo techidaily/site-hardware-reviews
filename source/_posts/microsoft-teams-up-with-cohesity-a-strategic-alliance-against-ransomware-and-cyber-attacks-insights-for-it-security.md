@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Teams Up with Cohesity: A Strategic Alliance Against Ransomware and Cyber Attacks - Insights for IT Security"
-date: 2024-09-17 18:16:38
-updated: 2024-09-20 10:26:42
+date: 2025-03-01T21:21:14.276Z
+updated: 2025-03-04T17:13:36.332Z
 tags:
   - cyber-threats
 categories:
@@ -78,11 +78,23 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevate-sound-with-these-asmr-apps-for-2024/"><u>[New] Elevate Sound with These ASMR Apps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fostering-self-assurance-against-virtual-hostility-for-2024/"><u>[New] Fostering Self-Assurance Against Virtual Hostility for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-free-4k-video-conversion-software-top-15-picks-for-mac-and-pc-learn-how-to-transform-4k-videos/"><u>Best Free 4K Video Conversion Software: Top 15 Picks for Mac and PC - Learn How to Transform 4K Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-uninstalling-edge-on-windows-11/"><u>Guide to Uninstalling Edge on Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-100-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor 100 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-insights-on-the-latest-gadgets/"><u>Tom's Tech Reviews: In-Depth Insights on the Latest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-gaming-motherboards-of-2024-comprehensive-guide-by-socket-type-and-cpu-chipset/"><u>Top Rated Gaming Motherboards of 2024: Comprehensive Guide by Socket Type & CPU Chipset</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-by-toms-review-team-hardware-insights/"><u>Ultimate Guide by Tom's Review Team: Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-insight-toms-hardware-digest/"><u>Ultimate Insight: Tom's Hardware Digest</u></a></li>
+</ul></div>
+

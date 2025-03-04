@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Security: Google Rolls Out Universal Dark Web Surveillance Across All American Gmail Accounts"
-date: 2024-09-17 19:10:41
-updated: 2024-09-20 10:43:56
+date: 2025-02-25T16:29:11.391Z
+updated: 2025-03-04T18:41:26.056Z
 tags:
   - cyber-threats
 categories:
@@ -66,11 +66,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/top-automatic-video-recommendations-immediately-for-2024/"><u>[New] Stop Automatic Video Recommendations Immediately for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-roundup-post-vlc-media-players/"><u>[New] The Ultimate Roundup Post-VLC Media Players</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-applications-of-virtual-reality-for-2024/"><u>[Updated] Applications of Virtual Reality for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-3-3300x-outperforms-intel-core-i7-7700k-detailed-geekbench-comparisons/"><u>AMD Ryzen 3 3300X Outperforms Intel Core I7-7700K: Detailed Geekbench Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-news-intel-alleged-to-halt-production-of-thunder-bay-hybrid-chip/"><u>Breaking News: Intel Alleged to Halt Production of Thunder Bay Hybrid Chip</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-technology-with-toms-gear-insights-your-source-for-latest-hardware-news/"><u>Dive Into Technology with Tom's Gear Insights: Your Source for Latest Hardware News</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-resource-usage-visibility-via-windows-tiles/"><u>Enhancing Resource Usage Visibility via Windows Tiles</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/high-speed-windows-photo-explorer-tool-for-2024/"><u>High-Speed Window's Photo Explorer Tool for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-xr-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone XR to iPad? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-y55s-5g-2023-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo Y55s 5G (2023) Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-foremost-techniques-for-transforming-seminars-into-videos/"><u>In 2024, The Foremost Techniques for Transforming Seminars Into Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tailor-made-ddr5-racks-from-team-group-boost-your-systems-speed-and-stability/"><u>Tailor-Made DDR5 Racks From Team Group: Boost Your System's Speed and Stability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-guides-and-insights-on-latest-hardware/"><u>Tom's Tech Reviews: Comprehensive Guides and Insights on Latest Hardware</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unleashing-win11s-potential-with-zoom-conferencing/"><u>Unleashing Win11's Potential with Zoom Conferencing</u></a></li>
+</ul></div>
+

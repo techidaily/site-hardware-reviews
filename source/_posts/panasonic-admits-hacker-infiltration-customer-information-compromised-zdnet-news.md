@@ -1,7 +1,7 @@
 ---
 title: Panasonic Admits Hacker Infiltration, Customer Information Compromised - ZDNet News
-date: 2024-09-18 16:46:44
-updated: 2024-09-20 11:38:30
+date: 2025-02-26T18:13:32.711Z
+updated: 2025-03-04T17:29:22.409Z
 tags:
   - cyber-threats
 categories:
@@ -57,11 +57,27 @@ Panasonic [signed a pact with McAfee in March](https://www.zdnet.com/article/pan
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-latest-iteration-a-closer-look-at-sonys-s6500-bdp/"><u>[New] In 2024, Latest Iteration A Closer Look at Sony's S6500 BDP</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-innovative-techniques-to-enhance-your-obs-broadcasts-android/"><u>[Updated] 2024 Approved Innovative Techniques to Enhance Your OBS Broadcasts (Android)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-free-youtube-endings-that-stand-out-ranked/"><u>[Updated] Free YouTube Endings That Stand Out - Ranked</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-completely-remove-your-instagram-footprint-forever/"><u>[Updated] How to Completely Remove Your Instagram Footprint Forever</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-tech-insights-navigating-the-world-of-modern-electronics-with-toms-experts/"><u>Advanced Tech Insights: Navigating the World of Modern Electronics with Tom's Experts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bypassing-headphones-repairing-realtek-microphone-malfunctions-in-windows-1011/"><u>Bypassing Headphones: Repairing Realtek Microphone Malfunctions in Windows 10/11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-tier-gadgets-and-computer-components-on-toms-hardware/"><u>Discover Top-Tier Gadgets and Computer Components on Tom's Hardware</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-dayzs-performance-issues-fast-and-user-friendly-methods/"><u>Fixing DayZ's Performance Issues: Fast and User-Friendly Methods</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-amd-rx-nixxi-driver-for-your-windows-system-windows-111087-free-download/"><u>Get the Latest AMD RX Nixxi Driver for Your Windows System (Windows 11/10/8/7) - Free Download</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-computer-components-with-toms-hardware-advice/"><u>Navigate the World of Computer Components with Tom’s Hardware Advice</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-minitool-movie-maker-review-features-pricing-and-alternatives-for-video-creators-for-2024/"><u>New Minitool Movie Maker Review Features, Pricing, and Alternatives for Video Creators for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-hardware-insights/"><u>Tom's Tech Hub: Comprehensive Hardware Insights</u></a></li>
+</ul></div>
+

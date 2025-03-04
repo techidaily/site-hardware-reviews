@@ -1,7 +1,7 @@
 ---
 title: Lazarus Hacker Group Tied to Massive $600M Axie Infinity Theft, Uncovered in New U.S. Treasury Report Featured at ZDNET
-date: 2024-09-18 12:15:10
-updated: 2024-09-20 10:57:22
+date: 2025-02-28T17:05:41.316Z
+updated: 2025-03-04T19:13:58.319Z
 tags:
   - cyber-threats
 categories:
@@ -55,11 +55,24 @@ Lazarus is among the most prolific and sophisticated of the hacking groups with 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-chrome-os-native-screen-recorder-for-2024/"><u>[New] Chrome OS Native Screen Recorder for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/47867040-new-your-marketing-journey-begins-here-experience-the-full-spectrum-of-over-50-free-ads/"><u>[New] Your Marketing Journey Begins Here - Experience the Full Spectrum of Over 50 FREE Ads!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-complete-guide-to-facebooks-live-feature-how-to-and-best-practices-for-2024/"><u>[Updated] The Complete Guide to Facebook's Live Feature How-To & Best Practices for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-disarray-to-artwork-your-collage-journey/"><u>2024 Approved From Disarray to Artwork Your Collage Journey</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-sunfounder-pironman-5-bicycle-assessment-necessity-of-precise-construction-steps/"><u>Comprehensive SunFounder Pironman 5 Bicycle Assessment: Necessity of Precise Construction Steps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-geekworm-x1011-revealed-unboxing-the-next-gen-network-attached-storage-creator/"><u>Exclusive Geekworm X1011 Revealed: Unboxing the Next-Gen Network Attached Storage Creator</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-retro-gaming-with-raspberry-pi-introducing-the-dual-player-picade-max-from-pimoroni/"><u>Experience Retro Gaming with Raspberry Pi: Introducing the Dual Player Picade MAX From Pimoroni</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-revolutionary-raspberry-pi-pico-discovering-its-armplusrisc-v-core-capabilities-for-just-5/"><u>Exploring the Revolutionary Raspberry Pi Pico: Discovering Its ARM+RISC-V Core Capabilities for Just $5</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-lite-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 Lite to Outlook | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/never-a-cap-on-saved-instagram-stories/"><u>Never a Cap on Saved Instagram Stories</u></a></li>
+</ul></div>
+

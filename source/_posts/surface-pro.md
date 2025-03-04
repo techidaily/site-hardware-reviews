@@ -1,7 +1,7 @@
 ---
 title: Surface Pro
-date: 2025-02-14T17:08:01.838Z
-updated: 2025-02-15T17:18:56.568Z
+date: 2025-02-27T18:31:24.483Z
+updated: 2025-03-04T18:46:58.770Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Ed Bott/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -48,10 +44,6 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 
 How did this happen? Let's dive in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The experience is familiar
 
 This laptop is a radical shift in the Windows ecosystem, but it doesn't feel all that different from its predecessors. In fact, it's almost indistinguishable from the Intel-powered Surface Pro 9 that's sitting on my desk alongside it. The slim bezels around the displays of the two devices are nearly the same dimensions. The new device, at 1.9 pounds, is the same weight as the Surface Pro 9 and is a few ounces heavier than the Surface Pro X, although that's not something you really notice until you have to lug it through an airport as you rush to make a connection. The Type Cover from the older Surface Pro clicked into place on the Surface Pro 11, exactly as expected.
@@ -63,10 +55,6 @@ And as for the software, well … It's Windows 11, which looks and acts the same
 The big difference is that this next-gen device is extremely cool and quiet. After a three-hour Zoom call the other day, the chassis was barely warm; on an Intel-based machine, it would have been uncomfortably hot. There's a fan inside the Surface Pro 11, but I have yet to hear it run, even under the most demanding conditions. It's also extremely responsive, with none of the hesitation I occasionally noticed on the Surface Pro X. If you've used an M2-equipped MacBook Air, the feeling will be familiar.
 
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Battery life is a huge win
 
@@ -120,10 +108,6 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -143,10 +127,6 @@ The Paint and Photos apps are also loaded with AI-based features for creating an
 The real question is whether those features are powerful enough to make you switch from your current image-processing tool to one of Microsoft's built-in options. History says that's a pretty big ask.
 
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -192,22 +172,19 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-heart-of-video-editing-filmoras-favorites/"><u>[New] 2024 Approved The Heart of Video Editing Filmora's Favorites</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-audiovisual-format-fusion-srt-to-ttml-and-ssa-mastery/"><u>[New] Audiovisual Format Fusion SRT to TTML & SSA Mastery</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-snapshot-styles-a-guide-to-using-old-school-vhs-in-modern-editing-for-2024/"><u>[New] Snapshot Styles A Guide to Using Old-School VHS in Modern Editing for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-churn-out-custom-internet-echo-jokes/"><u>[Updated] Churn Out Custom Internet Echo Jokes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fiscal-landmarks-understanding-mr-beasts-financial-growth-for-2024/"><u>[Updated] Fiscal Landmarks Understanding Mr. Beast’s Financial Growth for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-quality-no-cost-desktop-recording-the-best-apps-list/"><u>2024 Approved Top Quality, No Cost Desktop Recording The Best Apps List</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341735236-dough-spectrum-black-review-a-revolutionary-gaming-odyssey-on-a-premium-crafted-27-inch-oled-screen/"><u>Dough Spectrum Black Review: A Revolutionary Gaming Odyssey on a Premium-Crafted, 27-Inch OLED Screen</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-motorola-moto-g24-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-updated-epson-wf-3620-software-for-compatible-with-windows-versions-10-8-and-e/"><u>Install Updated Epson WF-3620 Software for Compatible with Windows Versions: 10, 8 & E</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/logitecs-g515-lightspeed-tkl-showcase-high-quality-economic-price-tag-for-gamers-and-typists-alike/"><u>Logitec's G515 Lightspeed TKL Showcase - High Quality, Economic Price Tag for Gamers and Typists Alike</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/rode-streamer-pro-x-is-it-your-ticket-to-cinematic-success/"><u>Rode Streamer Pro X - Is It Your Ticket To Cinematic Success?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computer-hardware-by-toms-team/"><u>The Ultimate Guide to Computer Hardware by Tom's Team</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-guide-to-latest-gadgets/"><u>Tom's Tech Hub - Comprehensive Guide to Latest Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-computing/"><u>Tom's Tech Reviews: Expert Insights on Computing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-review-of-elegoos-innovative-saturn/"><u>Top Review of Elegoo's Innovative Saturn</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/valkyrie-vind-sl125-when-style-overshadows-subpar-effectiveness-in-our-detailed-review/"><u>Valkyrie Vind SL125 - When Style Overshadows Subpar Effectiveness in Our Detailed Review</u></a></li>
-<li><a href="https://howto.techidaily.com/zte-axon-40-lite-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>ZTE Axon 40 Lite Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-leading-edge-photography-the-best-4k-mirrorless-cameras/"><u>[New] In 2024, Leading Edge Photography The Best 4K Mirrorless Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-screenflow-masterclass-taking-your-mac-projects-to-the-next-level/"><u>[New] In 2024, ScreenFlow Masterclass Taking Your Mac Projects to the Next Level</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-celebrating-beauty-innovators-youtubes-elite-list/"><u>[Updated] Celebrating Beauty Innovators YouTube's Elite List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-for-high-performance-validity-touch-id-sensor-driver-toolkit-free-downloads-available/"><u>Easy Setup for High-Performance Validity Touch ID Sensor Driver Toolkit - Free Downloads Available</u></a></li>
+<li><a href="https://driver-download.techidaily.com/eveo-bluetooth-adapter-software-free-download/"><u>EVEO Bluetooth Adapter Software - Free Download</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-review-of-the-pimoroni-nvme-ssd-base-duo-speed-capacity-and-reliability-assessed/"><u>Expert Review of the Pimoroni NVMe SSD Base Duo - Speed, Capacity & Reliability Assessed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/imovie-cropping-mystery-unveiled/"><u>IMovie Cropping Mystery Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-digital-world-inside-toms-hardware-reviews/"><u>Mastering the Digital World: Inside Tom's Hardware Reviews</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastering-volume-reduction-in-audio-designs-using-logic-pro-for-2024/"><u>Mastering Volume Reduction in Audio Designs Using Logic Pro for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-experts/"><u>Navigating the World of Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-creativity-crisis-in-modern-vr-content-for-2024/"><u>The Creativity Crisis in Modern VR Content for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-id-cooling-frozn-a620-pro-series-se-features-benefits-and-review/"><u>The Ultimate Guide to the ID-Cooling Frozn A620 Pro Series SE - Features, Benefits, and Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-your-trusted-guide-in-computer-hardware/"><u>Tom's Tech Review - Your Trusted Guide in Computer Hardware</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-gptzero-the-definitive-guide-on-using-it-for-identifying-synthetic-content/"><u>Understanding GPTZero: The Definitive Guide on Using It for Identifying Synthetic Content</u></a></li>
 </ul></div>
 

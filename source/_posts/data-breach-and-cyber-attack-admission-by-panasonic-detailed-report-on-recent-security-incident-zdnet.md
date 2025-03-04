@@ -1,7 +1,7 @@
 ---
 title: "Data Breach & Cyber Attack Admission by Panasonic: Detailed Report on Recent Security Incident - ZDNet"
-date: 2024-09-18 16:29:15
-updated: 2024-09-20 11:36:14
+date: 2025-02-25T19:38:03.745Z
+updated: 2025-03-04T16:10:37.215Z
 tags:
   - cyber-threats
 categories:
@@ -57,11 +57,26 @@ Panasonic [signed a pact with McAfee in March](https://www.zdnet.com/article/pan
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-companion-for-recording-google-video-calls-for-2024/"><u>[New] The Ultimate Companion for Recording Google Video Calls for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-stay-ahead-of-the-curve-with-these-10-must-use-tags/"><u>[Updated] Stay Ahead of the Curve with These 10 Must-Use Tags</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/framing-frontiers-cutting-edge-app-innovations-24/"><u>Framing Frontiers Cutting-Edge App Innovations '24</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/guide-to-moving-your-images-from-pc-to-external-storage-in-windows-11/"><u>Guide to Moving Your Images From PC to External Storage in Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-taming-high-bit-rate-in-obs/"><u>In 2024, Taming High-Bit Rate in OBS</u></a></li>
+<li><a href="https://games-able.techidaily.com/indie-pioneers-spotlight-on-favorite-games/"><u>Indie Pioneers: Spotlight on Favorite Games</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mophies-compact-power-bank-features-convenient-ac-adapter-option/"><u>Mophie's Compact Power Bank Features Convenient AC Adapter Option</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-video-language-changers-to-make-your-videos-accessible-for-2024/"><u>New Best Video Language Changers to Make Your Videos Accessible for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/persistent-android-application-crashes-discover-9-reliable-solutions/"><u>Persistent Android Application Crashes? Discover 9 Reliable Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pixel-timepieces-lifespan-limited-to-a-three-year-update-cycle/"><u>Pixel Timepiece's Lifespan: Limited to a Three-Year Update Cycle</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/quick-fixes-for-your-download-pending-problems-on-the-play-store/"><u>Quick Fixes for Your Download Pending Problems on the Play Store</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revealing-concealed-techniques-discover-the-eight-best-approaches-to-charge-your-smartphone-wirelessly/"><u>Revealing Concealed Techniques: Discover the Eight Best Approaches to Charge Your Smartphone Wirelessly</u></a></li>
+</ul></div>
+

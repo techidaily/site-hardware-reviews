@@ -1,7 +1,7 @@
 ---
 title: Password Protection Shattered by AI? Find Out How Fast This Happens According to ZDNet's Latest Analysis
-date: 2024-09-17 19:58:59
-updated: 2024-09-20 11:36:40
+date: 2025-02-26T17:17:31.222Z
+updated: 2025-03-04T17:50:44.515Z
 tags:
   - cyber-threats
 categories:
@@ -80,11 +80,25 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-best-video-editing-on-the-go-for-tiktok/"><u>[New] 2024 Approved Best Video Editing on the Go for TikTok</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-earnings-explosion-how-to-maximize-income-on-youtube-shorts/"><u>[New] 2024 Approved Earnings Explosion How to Maximize Income on YouTube Shorts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-google-pixel-8-pro-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Google Pixel 8 Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/farewell-your-alexa-show-top-picks-for-replacing-the-amazon-echo-with-a-display/"><u>Farewell Your Alexa Show: Top Picks for Replacing the Amazon Echo with a Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-performance-gamer-focused-desktops-the-latest-cooler-master-builds/"><u>High-Performance, Gamer-Focused Desktops: The Latest Cooler Master Builds</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oneplus-ace-2v-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your OnePlus Ace 2V Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-nomads-innovative-portable-rechargeable-tracker-the-ultimate-gps-device-compacted-in-your-wallet/"><u>Introducing Nomad's Innovative Portable Rechargeable Tracker: The Ultimate GPS Device Compacted in Your Wallet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-multi-room-audio-a-guide-to-using-home-assistant/"><u>Mastering Multi-Room Audio: A Guide to Using Home Assistant</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximize-productivity-with-minimal-spend-the-ultimate-guide-to-choosing-the-perfect-office-chair-steelcase-series-1-reviewed/"><u>Maximize Productivity with Minimal Spend: The Ultimate Guide to Choosing the Perfect Office Chair - Steelcase Series 1 Reviewed!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ultimate-list-most-compelling-zombie-themed-video-games/"><u>Ultimate List Most Compelling Zombie-Themed Video Games</u></a></li>
+</ul></div>
+

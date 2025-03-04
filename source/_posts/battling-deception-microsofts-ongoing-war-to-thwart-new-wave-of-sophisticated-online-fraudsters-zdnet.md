@@ -1,7 +1,7 @@
 ---
 title: "Battling Deception: Microsoft's Ongoing War to Thwart New Wave of Sophisticated Online Fraudsters | ZDNET"
-date: 2024-09-17 20:29:34
-updated: 2024-09-20 12:39:26
+date: 2025-02-27T20:21:57.847Z
+updated: 2025-03-04T18:28:14.949Z
 tags:
   - cyber-threats
 categories:
@@ -118,11 +118,27 @@ If tech companies have now become so adept at stalking us and knowing our every 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-quick-and-simple-edits-for-an-edge-in-the-tiktok-world/"><u>[New] 2024 Approved Quick & Simple Edits for an Edge in the TikTok World</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-embrace-the-art-of-timelapses-a-comprehensive-ipad-tutorial/"><u>[Updated] Embrace the Art of Timelapses A Comprehensive iPad Tutorial</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-tips-for-high-quality-minecraft-saves-for-2024/"><u>[Updated] Expert Tips for High-Quality Minecraft Saves for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-xiaomi-civi-3-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi Civi 3 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-s23-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy S23 Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-kobo-libra-ebook-reader-analysis-outstanding-features-beyond-the-multicolor-screen/"><u>In-Depth Kobo Libra Ebook Reader Analysis: Outstanding Features Beyond the Multicolor Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-new-modular-laptop-with-advanced-intel-core-processors/"><u>Introducing the New Modular Laptop with Advanced Intel Core Processors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/laptop-and-desktop-reimagined-with-the-introduction-of-amds-revolutionary-zen/"><u>Laptop and Desktop Reimagined with the Introduction of AMD's Revolutionary Zen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lenovo-and-asus-team-up-with-meta-for-cutting-edge-horizon-os-vr-gear/"><u>Lenovo & Asus Team Up with Meta for Cutting-Edge Horizon OS VR Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/no-rework-or-replacement-intel-stands-by-defective-chip-production/"><u>No Rework or Replacement: Intel Stands by Defective Chip Production</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-notetaking-tablet-reviews-expertly-analyzed-by-techzen/"><u>Top Rated Notetaking Tablet Reviews - Expertly Analyzed by TechZen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-issues-with-a-non-functional-paradox-launcher/"><u>Troubleshooting Steps: Resolving Issues with a Non-Functional Paradox Launcher</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-your-online-potential-by-enabling-browser-cookies/"><u>Unlocking Your Online Potential by Enabling Browser Cookies</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Experience Unbeatable Savings: Get $60 Off on the Top-Rated MagSafe Charger for Your iPhone & Mac - Exclusive Deal at ZDNet!"
-date: 2025-02-08T16:20:59.630Z
-updated: 2025-02-15T16:10:59.818Z
+date: 2025-03-02T18:33:40.525Z
+updated: 2025-03-04T20:40:39.083Z
 tags:
   - laptops
 categories:
@@ -22,19 +22,11 @@ Adrian Kingsley-Hughes/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's the deal?
 
 The [Ugreen Nexode 100W USB-C 3-port MagSafe charging station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BQBK2NLZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C67787b00-6082-4687-911c-f42bc4399816%7Cdtp&dtb=1) is 28% off right now, plus Amazon is offering a $10 off coupon during its Big Spring Sale event. 
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -47,10 +39,6 @@ I've noticed something about my charger usage. I'm rarely charging more than a c
 One of my favorite accessory makers is Ugreen, and the company has yet another awesome charger, this time in the form of a 100W USB-C charger with MagSafe, and even a USB-A port for all your legacy stuff. 
 
 [ZDNET RECOMMENDS Ugreen Nexode 100W USB-C 3-port MagSafe charging station Supports 100W max output at single port on USB-C port which can charge a MacBook Pro M2 from 0% to 51% in just 30 minutes. It also features a high-speed 15W MagSafe charger for the iPhone. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FUGREEN-Nexode-Charger-Wirless-Stand%2Fdp%2FB0BQBK2NLZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C67787b00-6082-4687-911c-f42bc4399816%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Ugreen Nexode 100W USB-C 3-port MagSafe charging station tech specs
 
@@ -127,19 +115,16 @@ The [Ugreen Nexode 100W USB-C 3-port MagSafe charging station](https://buy.geni.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-connecting-twitters-vids-with-fb-audience-for-2024/"><u>[Updated] Connecting Twitter's Vids with FB Audience for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-essential-guide-to-compositing-using-blending-modes-for-2024/"><u>[Updated] Essential Guide to Compositing Using Blending Modes for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-firefoxs-pip-explained-a-users-handbook/"><u>2024 Approved Firefox's PIP Explained A User's Handbook</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effortless-batch-conversion-from-pdf-to-microsoft-word-format-at-no-cost-on-flipbuildercom/"><u>Effortless Batch Conversion From PDF to Microsoft Word Format at No Cost on FlipBuilder.com</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-way-to-merge-spotify-playlists-a-comprehensive-guide/"><u>Effortless Way to Merge Spotify Playlists: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-of-the-asus-pro-b760m-ct-csm-motherboard-reviewed/"><u>Exploring the Features of the ASUS Pro B760M-CT CSM Motherboard - Reviewed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-and-green-gaming-memory-on-test-a-thorough-analysis-of-the-t-force-vulcan-by-teamgroup-c30-2x16gb/"><u>Innovative and Green Gaming Memory on Test - A Thorough Analysis of the T-Force Vulcan by TeamGroup (C30, 2X16GB)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-or-upgrade-lenovo-screen-control-software-easy-steps-inside/"><u>Install or Upgrade Lenovo Screen Control Software – Easy Steps Inside</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/lofree-edge-evaluation-sleek-design-and-premium-cost-compared-to-apples-magic-keyboard/"><u>Lofree Edge Evaluation: Sleek Design & Premium Cost Compared to Apple's Magic Keyboard</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-free-audio-to-text-conversion-the-top-three-techniques-for-2024/"><u>New Free Audio-to-Text Conversion The Top Three Techniques for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/performance-analysis-and-gadget-testing-by-toms-hardware/"><u>Performance Analysis and Gadget Testing by Tom's Hardware</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-x5-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-mastering-the-raspberry-pi-ai-project-pack/"><u>The Ultimate Guide to Mastering the Raspberry Pi AI Project Pack</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-guide-to-the-most-reliable-mac-recorders/"><u>The Ultimate Guide to the Most Reliable Mac Recorders</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-determining-data-in-gigabytes-for-24-hour-clip/"><u>[Updated] Determining Data in Gigabytes for 24-Hour Clip</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-places-for-accessing-gratis-graphics/"><u>[Updated] Top 10 Places for Accessing Gratis Graphics</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/boost-your-wi-fi-signal-with-netgear-nighthawk-x6s-range-extender/"><u>Boost Your Wi-Fi Signal with Netgear Nighthawk X6S Range Extender</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/compact-chinese-mini-pc-features-rare-inverted-u-shape-and-expandable-pcie-slot/"><u>Compact Chinese Mini PC Features Rare Inverted 'U' Shape and Expandable PCIe Slot</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-strategies-for-optimal-pc-use-inspired-by-toms-hardware/"><u>Expert Strategies for Optimal PC Use - Inspired by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-experts/"><u>Exploring Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://media-tips.techidaily.com/from-raw-to-ready-the-photographers-roadmap-to-changing-nef-into-jpg-format/"><u>From RAW to Ready: The Photographer's Roadmap to Changing NEF Into JPG Format</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-changing-savings-alert-snag-the-asus-tuf-gaming-laptop-with-a15-cpu-at-just-658-this-memorial-day/"><u>Game-Changing Savings Alert: Snag the ASUS TUF Gaming Laptop With A15 CPU at Just $658 This Memorial Day!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-by-toms-computing-hub/"><u>In-Depth Analysis by Tom's Computing Hub</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/save-your-videos-as-various-files-mp4-mov-avi-flv-wmv-mkv-and-more/"><u>Save Your Videos as Various Files (MP4, MOV, AVI, FLV, WMV, MKV, & More)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on OnePlus Ace 2 | Dr.fone</u></a></li>
 </ul></div>
 

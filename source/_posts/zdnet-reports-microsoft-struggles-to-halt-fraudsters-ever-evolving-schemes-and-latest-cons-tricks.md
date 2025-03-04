@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reports: Microsoft Struggles to Halt Fraudsters' Ever-Evolving Schemes and Latest Cons Tricks"
-date: 2024-09-19 18:39:42
-updated: 2024-09-20 12:36:50
+date: 2025-03-01T18:21:10.103Z
+updated: 2025-03-04T16:26:10.385Z
 tags:
   - cyber-threats
 categories:
@@ -118,11 +118,31 @@ If tech companies have now become so adept at stalking us and knowing our every 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-maximize-zoom-audio-clarity-methods-and-tips-shared/"><u>[New] In 2024, Maximize Zoom Audio Clarity Methods & Tips Shared</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-mastering-the-art-of-animation-in-viral-online-videos/"><u>[New] Mastering the Art of Animation in Viral Online Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/auditory-ambitions-scouting-the-ultimate-10-songs-for-podcasts/"><u>Auditory Ambitions Scouting the Ultimate 10 Songs for Podcasts</u></a></li>
+<li><a href="https://win-docs.techidaily.com/como-borrar-archivos-no-necesarios-para-mejorar-el-almacenamiento-en-windows-11/"><u>Cómo Borrar Archivos No Necesarios Para Mejorar El Almacenamiento en Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevated-intact-hormones-with-suppressed-metanephrines-can-indicate-a-non-catecholamine-secreting-tumor-like-an-acth-producing-adenoma/"><u>Elevated Intact Hormones with Suppressed Metanephrines Can Indicate a Non-Catecholamine-Secreting Tumor Like an ACTH-Producing Adenoma.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embracing-imperfections-how-much-i-adore-my-samsung-frame-despite-its-shortcomings/"><u>Embracing Imperfections: How Much I Adore My Samsung Frame Despite Its Shortcomings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhancements-coming-to-your-google-assistant-hub-whats-new-with-the-google-home-app/"><u>Enhancements Coming to Your Google Assistant Hub: What's New with the Google Home App</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-screen-capture-best-mac-apps-reviewed-and-rated/"><u>Essential Screen Capture Best Mac Apps Reviewed & Rated</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-picks-for-ultimate-protection-the-leading-outdoor-cctvs/"><u>Expert Picks for Ultimate Protection: The Leading Outdoor CCTVs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experts-rate-the-belkin-qi2-dual-charging-pad-with-15w-and-hidden-connectivity-innovative-tech-unveiled/"><u>Experts Rate the Belkin Qi2 Dual Charging Pad with 15W & Hidden Connectivity – Innovative Tech Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-capabilities-detailed-insights-into-the-lenovo-legion-7i-with-ryzen-processor-and-nvidia-graphics/"><u>Exploring the Capabilities: Detailed Insights Into the Lenovo Legion 7I with Ryzen Processor and NVIDIA Graphics</u></a></li>
+<li><a href="https://win-able.techidaily.com/hp-visual-unit-failure-heres-how-to-get-your-screen-working-again/"><u>HP Visual Unit Failure? Here’s How to Get Your Screen Working Again</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-nokia-c22-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Nokia C22 Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-msi-magic-cognizant-oled-top-gaming-display-unveiled/"><u>In-Depth Analysis of the MSI Magic Cognizant OLED - Top Gaming Display Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-insta360-x4-camera-analysis-high-quality-shots-at-premium-pricing/"><u>In-Depth Insta360 X4 Camera Analysis: High Quality Shots at Premium Pricing</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720672254611-resolving-critical-email-outage-stellar-repair-for-exchange-case-study-worktrainers-ltd/"><u>Resolving Critical Email Outage: Stellar Repair for Exchange Case Study | Worktrainers Ltd.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-dealing-with-windows-combination-key-malfunction-in-win-11-or-win-10/"><u>Step-by-Step Solution: Dealing With Windows Combination Key Malfunction in Win 11 or Win 지정 10</u></a></li>
+</ul></div>
+

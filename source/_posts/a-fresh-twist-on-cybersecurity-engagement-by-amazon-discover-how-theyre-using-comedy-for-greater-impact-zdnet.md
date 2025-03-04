@@ -1,7 +1,7 @@
 ---
 title: "A Fresh Twist on Cybersecurity Engagement by Amazon: Discover How They're Using Comedy for Greater Impact | ZDNET"
-date: 2024-09-18 16:25:17
-updated: 2024-09-20 11:47:42
+date: 2025-03-02T19:23:40.107Z
+updated: 2025-03-04T20:07:53.093Z
 tags:
   - cyber-threats
 categories:
@@ -88,11 +88,31 @@ This security thing is hard, isn't it?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-instagram-as-an-influencer-5-must-know-techniques-and-case-studies/"><u>[New] Mastering Instagram As An Influencer 5 Must-Know Techniques and Case Studies</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-ultimate-room-and-pc-checklist-for-vr/"><u>[Updated] In 2024, The Ultimate Room and PC Checklist for VR</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/assassins-creed-mirage-wont-start-top-strategies-to-overcome-the-stuck-pre-launch-bug-in-202n4/"><u>Assassin's Creed Mirage Won't Start? Top Strategies to Overcome the Stuck Pre-Launch Bug in 202N4!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fixing-discord-connection-woes-overcoming-packet-loss-challenges/"><u>Fixing Discord Connection Woes: Overcoming Packet Loss Challenges</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964475970-get-the-ultimate-cooling-with-lian-lis-lancool-iii-for-only-119-the-best-deal-on-pc-gear-today/"><u>Get the Ultimate Cooling with Lian Li's Lancool III for Only $119 – The Best Deal on PC Gear Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/googles-latest-innovation-unveiled-stay-ahead-with-insight-into-pixel-tablet-specs-and-launch-date/"><u>Google's Latest Innovation Unveiled! Stay Ahead with Insight Into Pixel Tablet Specs and Launch Date</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-camtech-dive-looking-for-improved-alternatives/"><u>In 2024, CamTech Dive Looking for Improved Alternatives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-nzxt-h6-flow-rgb-case-assessment-stylish-and-unique/"><u>In-Depth NZXT H6 Flow RGB Case Assessment: Stylish and Unique</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-inwin-f5-gaming-rig-seamless-mobo-connectors-and-stylish-natural-front-panels-exposed/"><u>Inside the InWin F5 Gaming Rig: Seamless Mobo Connectors & Stylish Natural Front Panels Exposed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-be-quiets-new-no-compromises-series-the-durable-and-sleek-base-701-pc-case/"><u>Introducing Be Quiet's New 'No Compromises' Series: The Durable and Sleek Base 701 PC Case</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastering-window-tweaks-a-comprehensive-how-to-for-modifying-system-preferences-with-yl-software-expertise/"><u>Mastering Window Tweaks: A Comprehensive How-To for Modifying System Preferences with YL Software Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/save-big-on-your-dream-rig-the-stylish-fractal-design-north-case-at-just-119/"><u>Save Big on Your Dream Rig: The Stylish Fractal Design North Case at Just $119!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964476216-unbeatable-deal-the-phanteks-eclipse-g360a-your-top-choice-for-an-affordable-pc-case-at-just-59/"><u>Unbeatable Deal: The Phanteks Eclipse G360A, Your Top Choice for an Affordable PC Case at Just $59!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-expert-analysis-from-toms-world-of-technology/"><u>Unveiling Gadgets: Expert Analysis From Tom's World of Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-insights-on-technology-by-tom-hardware-focus/"><u>Unveiling the Insights on Technology by Tom - Hardware Focus</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-exactly-is-telegram-and-how-does-it-work/"><u>What Exactly Is Telegram and How Does It Work?</u></a></li>
+</ul></div>
+

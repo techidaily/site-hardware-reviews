@@ -1,7 +1,7 @@
 ---
 title: Microsoft Announces Strategic Purchase of International Threat Intelligence Firm Miburo
-date: 2024-09-19 13:21:32
-updated: 2024-09-20 12:37:59
+date: 2025-02-28T18:42:26.213Z
+updated: 2025-03-04T18:53:12.318Z
 tags:
   - cyber-threats
 categories:
@@ -46,11 +46,23 @@ Miburo is a leading expert in the identification of foreign information operatio
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youtubes-shorts-a-deep-dive-into-content-creation-and-revenue/"><u>[New] In 2024, YouTube's Shorts A Deep Dive Into Content Creation and Revenue</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-time-lapse-magic-a-samsung-photo-guide/"><u>[Updated] Time-Lapse Magic A Samsung Photo Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211352286-9791223001431-estrelas-e-personalidades/"><u>Estrelas e Personalidades | Free Book</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/mastering-crypto-minting-on-your-own-expert-tips-from-yl-computing/"><u>Mastering Crypto-Minting on Your Own: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-technologies-through-toms-hardware-wisdom/"><u>Navigating New Technologies Through Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-parts-through-toms-lens/"><u>Navigating the World of Computer Parts Through Tom's Lens</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/persistent-problem-unable-to-launch-the-mass-effect-legendary-edition-game/"><u>Persistent Problem: Unable to Launch the Mass Effect Legendary Edition Game</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tech-insights-with-tom-exploring-the-latest-in-hardware-innovation/"><u>Tech Insights with Tom - Exploring the Latest in Hardware Innovation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-electronics-wisdom-from-toms-hardware/"><u>The Ultimate Guide to Electronics: Wisdom From Tom's Hardware</u></a></li>
+</ul></div>
+

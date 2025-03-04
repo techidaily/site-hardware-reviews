@@ -1,7 +1,7 @@
 ---
 title: Update From ZDnet - PressReader Service Making Progress in Recovery Post Cyber-Attack Affecting Thousands of Publications
-date: 2024-09-17 15:17:37
-updated: 2024-09-20 11:59:59
+date: 2025-02-25T19:31:42.092Z
+updated: 2025-03-04T17:20:19.105Z
 tags:
   - cyber-threats
 categories:
@@ -73,11 +73,29 @@ Users flooded both the Twitter and Facebook posts to complain about the loss of 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-analyzing-instagram-de-followings/"><u>[New] In 2024, Analyzing Instagram De-Followings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-often-do-youtubers-receive-income-in-2024/"><u>[Updated] How Often Do YouTubers Receive Income, In 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-only-guide-youll-need-to-know-about-instagram-reels/"><u>[Updated] The Only Guide You'll Need to Know About Instagram Reels</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-finally-takes-off-overcoming-initial-hurdles/"><u>Cyberpunk 2077 Finally Takes Off - Overcoming Initial Hurdles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhanced-amd-fabric-tuning-now-compatible-with-active-and-passive-x570-boards-post-update/"><u>Enhanced AMD Fabric Tuning: Now Compatible with Active and Passive X570 Boards Post-Update</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-cutting-edge-gadgets-with-toms-hardware-insights/"><u>Exploring Cutting-Edge Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/exploring-the-legacy-how-chinas-historical-struggle-in-the-late-19th-century-shapes-today-a-perspective-by-yl-solutions/"><u>Exploring the Legacy: How China's Historical Struggle in the Late 19Th Century Shapes Today – A Perspective by YL Solutions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-hp-zbook-firefly-15-g8-a-premier-portable-solution/"><u>In-Depth Analysis of the HP ZBook Firefly 15 G8: A Premier Portable Solution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximize-your-skylake-processors-potential-with-the-perfect-overclocking-compatible-motherboard/"><u>Maximize Your Skylake Processor's Potential with the Perfect Overclocking-Compatible Motherboard</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tailoring-web-clarity-with-advanced-zoom-tools/"><u>Tailoring Web Clarity with Advanced Zoom Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-analysis-and-guides-on-hardware/"><u>Tom's Tech Review: Comprehensive Analysis and Guides on Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guides-and-expert-insights/"><u>Tom's Tech Review: Comprehensive Guides & Expert Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-your-go-to-source-for-comprehensive-hardware-analysis/"><u>Tom's Tech Review: Your Go-To Source for Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-insights-and-evaluations/"><u>Tom's Tech Reviews: In-Depth Insights and Evaluations</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unlock-the-secrets-of-perfect-1080p-video-quality-with-ideal-bitrate-techniques/"><u>Unlock the Secrets of Perfect 1080P Video Quality with Ideal Bitrate Techniques</u></a></li>
+</ul></div>
+

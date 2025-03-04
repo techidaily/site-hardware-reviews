@@ -1,7 +1,7 @@
 ---
 title: "Unboxing Lenovo ThinkPad X1 Fold: A Curious Blend of Playful Innovation & Premium Pricing Explored by ZDNet"
-date: 2025-02-10T16:06:46.572Z
-updated: 2025-02-15T16:30:55.983Z
+date: 2025-02-25T16:20:14.909Z
+updated: 2025-03-04T18:13:05.666Z
 tags:
   - laptops
 categories:
@@ -20,10 +20,6 @@ Max Buondonno/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### ZDNET's key takeaways
 
 * The updated [ThinkPad X1 Fold](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1795356-REG%2Flenovo%5F21es001wus%5F16%5F3%5Fthinkpad%5Fx1%5Ffold.html) is Lenovo's latest foldable PC that aims to make a 16-inch laptop more portable than ever.
@@ -41,10 +37,6 @@ The original X1 Fold was a tried-and-true, first-generation product with first-g
 The new version has an improved design, upgraded specs, and a similarly high asking price of $2,499 and up. The version I'm testing costs nearly $3,300, which makes this one of the pricier laptops you can get. But what I've found is you're paying for its unique design which, admittedly, is straight-up awesome. The rest of the laptop, though? That's another story.
 
 [ZDNET RECOMMENDS Lenovo ThinkPad X1 Fold With a huge 16.3-inch foldable screen and a durable design, the ThinkPad X1 Fold is an interesting look at the future of laptops. View at Bhphotovideo](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1795356-REG%2Flenovo%5F21es001wus%5F16%5F3%5Fthinkpad%5Fx1%5Ffold.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
 
@@ -121,10 +113,6 @@ Surprisingly, Windows 11 runs well on the ThinkPad X1 Fold, with one huge except
 
 It's usable, sure, but it's a very weird bug that's likely caused by the weird form factor of the X1 Fold. It's hard for Windows to figure out when you want to use it as a tablet and when you want to use it as a laptop. The only time it gets it right is when you use the device in clamshell mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 In the end, the X1 Fold is a laptop you should buy if you _really_ want a ThinkPad with a folding screen. It's an incredibly cool piece of technology, one that's sure to grab the attention of everyone around you. But in day-to-day use, it's not very practical given the performance and battery life limitations. For anyone who wants something similar with better performance and battery life will want to look at the [Yoga Book 9i](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-yoga-book-9i-2-in-1-13-3-2-8k-dual-screen-oled-touch-laptop-intel-core-i7-1355u-with-16gb-memory-512gb-ssd-tidal-teal%2F6533947.p%3F&publisher_slug=itechdaily19598&exclusive=1), which is the closest thing to a folding laptop that's somewhat practical on the market today.
@@ -161,16 +149,24 @@ I'm not going to lie, I'll miss the X1 Fold when I send my review unit back. Hav
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-smooth-operations-boosting-memory-allocation-to-minecraft-for-2024/"><u>[Updated] Smooth Operations Boosting Memory Allocation to Minecraft for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/discovering-the-best-10-online-tools-for-vimeo-videos-for-2024/"><u>Discovering the Best 10 Online Tools for Vimeo Videos for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-asus-rog-rapture-gt-be98-pro-wi-fi-router-the-ultimate-review-on-performance-and-scalability/"><u>Dive Into the Asus ROG Rapture GT-BE98 Pro Wi-Fi Router - The Ultimate Review on Performance and Scalability</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-laugh-loophole-ideas-for-7-hilarious-youtube-showcases/"><u>In 2024, Laugh Loophole Ideas for 7 Hilarious YouTube Showcases</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-testing-of-the-affordable-dell-g5-5090-a-top-contender-in-entry-level-pcs-with-wide-options/"><u>In-Depth Testing of the Affordable Dell G5 #5090: A Top Contender in Entry-Level PCs with Wide Options</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-from-motion-to-still-a-simple-guide-to-freezing-frames-for-2024/"><u>New From Motion to Still A Simple Guide to Freezing Frames for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-pc-performance-a-deep-dive-into-teamgroup-t-force-dark-airflow-i-ssd-cooler-capabilities/"><u>Revolutionize Your PC Performance: A Deep Dive Into TeamGroup T-Force Dark AirFlow I SSD Cooler Capabilities</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-picks-in-pc-components-by-tech-savvy-tom/"><u>Top Picks in PC Components by Tech Savvy Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-asus-rog-azoth-extreme-top-review-for-your-money-saving-search/"><u>Unboxing the Asus ROG Azoth Extreme: Top Review for Your Money-Saving Search</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-todays-top-networking-sites-insights-into-facebook-twitter-instagram-and-youtube/"><u>Understanding Today's Top Networking Sites: Insights Into Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725284939830-windows-11dvd/"><u>Windows 11へようこそ：スマートなDVD作成が今日から始まる！</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mini-movie-script-concept/"><u>[Updated] Mini Movie Script Concept</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sharper-stars-in-iphone-nocturne-photos/"><u>[Updated] Sharper Stars in iPhone Nocturne Photos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-big-waters-better-views-top-5-fishing-cams/"><u>2024 Approved Big Waters, Better Views - Top 5 Fishing Cams</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/adherence-to-prescribed-medications-such-as-antibiotics-and-anti-inflammatory-eye-drops-is-essential-to-prevent-complications/"><u>Adherence to Prescribed Medications, Such as Antibiotics and Anti-Inflammatory Eye Drops, Is Essential to Prevent Complications</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/boost-your-raspberry-pi-speed-with-a-high-performance-low-cost-m2-hatplus-reveal/"><u>Boost Your Raspberry Pi Speed with a High-Performance, Low-Cost M.2 HAT+ Reveal</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-lexars-top-performing-ssd-models-sl500-vs-professional-sl600-with-speeds-up-to-20-gbs/"><u>Comprehensive Analysis of Lexar's Top-Performing SSD Models: SL500 Vs. Professional SL600 with Speeds up to 20 GB/S</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-initiating-ipad-recovery-mode-with-ease-and-precision/"><u>Expert Advice: Initiating iPad Recovery Mode with Ease and Precision</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-technology-reviews-hardware-and-more/"><u>Expert Insights From Tom's Technology Reviews: Hardware and More</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-electronics-with-toms-hardware-guides/"><u>Exploring Electronics with Tom's Hardware Guides</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpts-magic-tricks-unveiling-9-daily-life-boosters/"><u>GPT's Magic Tricks: Unveiling 9 Daily Life Boosters</u></a></li>
+<li><a href="https://article-tips.techidaily.com/happy-enrollment-and-logout-flowchart-for-2024/"><u>Happy Enrollment & Logout Flowchart for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-cost-effective-options-top-10-free-high-quality-desktop-recorders/"><u>In 2024, Cost-Effective Options Top 10 Free, High-Quality Desktop Recorders</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-showcasing-self-with-instagram-a-collection-of-100-captions/"><u>In 2024, Showcasing Self with Instagram A Collection of 100 Captions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-beyerdynamic-mmx-300-pro-superior-acoustics-meets-fundamental-design/"><u>In-Depth Analysis of the Beyerdynamic MMX 300 Pro: Superior Acoustics Meets Fundamental Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-corsair-mp600-mini-1tb-m2-2280e27t-ssd-evaluation-top-of-the-line-performance-in-a-compact-form-factor/"><u>In-Depth Corsair MP600 Mini 1TB (M.2 2280/E27T) SSD Evaluation: Top of the Line Performance in a Compact Form Factor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mega-savings-at-hps-cyber-event-discounts-of-up-to-71-on-desktops-and-laptops-explore-the-deals-now/"><u>Mega Savings at HP's Cyber Event: Discounts of up to 71% on Desktops and Laptops - Explore the Deals Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-hardware-with-tom-insights-and-reviews-by-toms-gear/"><u>Navigating Hardware with Tom: Insights & Reviews by Tom's Gear</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-great-growers-guide-the-best-farmer-games/"><u>The Great Growers' Guide The Best Farmer Games</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-acer-predator-orion-n5010-premium-gaming-laptop-at-a-bargain-price/"><u>The Ultimate Guide to the Acer Predator Orion N5010: Premium Gaming Laptop at a Bargain Price</u></a></li>
 </ul></div>
 

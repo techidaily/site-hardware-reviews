@@ -1,7 +1,7 @@
 ---
 title: Ukraine Successfully Disrupts Major Online Assault on National ISP - Details Emerge | ZDNET
-date: 2024-09-18 11:28:31
-updated: 2024-09-20 11:32:14
+date: 2025-03-01T17:40:52.949Z
+updated: 2025-03-04T16:38:18.127Z
 tags:
   - cyber-threats
 categories:
@@ -53,11 +53,31 @@ The "entire IT-community of the world" is united against Russia's invasion, Shch
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-freeze-whole-website-panel/"><u>[New] In 2024, Freeze Whole Website Panel</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-perfecting-screenshots-editing-vids-vertically-on-fcpx/"><u>[New] Perfecting Screenshots Editing Vids Vertically on FCPX</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-audio-transitions-audacity-guide/"><u>[Updated] Mastering Audio Transitions Audacity Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/p-financial-forecasting-assessing-revenue-from-googles-platform-youtube-for-2024/"><u>3-Step Financial Forecasting Assessing Revenue From Google's Platform, YouTube for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-audio-setbacks-heres-how-to-fix-a-nonresponsive-headset/"><u>Corsair Audio Setbacks? Here's How to Fix a Nonresponsive Headset</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-zte-axon-40-lite-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My ZTE Axon 40 Lite Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-the-installer-for-3dconnexion-products/"><u>Mastering the Installer for 3Dconnexion Products</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-tom-insights-into-advanced-technology/"><u>Navigating the World of Gadgets with Tom - Insights Into Advanced Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-expertise/"><u>Navigating the World of Gadgets with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-review/"><u>Navigating the World of Gadgets with Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-level-speeds-with-phisons-revolutionary-e29t-pcie-40-ssd-controller-revealed-at-the-2024-flash-memory-summit-fms/"><u>Next-Level Speeds with Phison's Revolutionary E29T PCIe 4.0 SSD Controller Revealed at the 2024 Flash Memory Summit (FMS)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/save-big-on-storage-top-rated-ssd-and-hard-drive-specials-for-this-year/"><u>Save Big on Storage: Top Rated SSD & Hard Drive Specials for This Year</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/star-clusters-in-social-media-landscape-for-2024/"><u>Star Clusters in Social Media Landscape for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/teamgroups-extreme-ssd-cooling-system-a-120mm-radiator-for-low-powered-m2-drives/"><u>TeamGroup's Extreme SSD Cooling System: A 120Mm Radiator for Low-Powered M.2 Drives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-comprehensive-guide-by-tom-expert-advice-on-computers-electronics-and-more/"><u>The Comprehensive Guide by Tom: Expert Advice on Computers, Electronics & More</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-tech-expert-reviews-and-insights/"><u>Tom's Computer Tech: Expert Reviews and Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/unzipping-and-zipping-made-easy-windows-command-line-guidebook/"><u>Unzipping & Zipping Made Easy: Windows Command Line Guidebook</u></a></li>
+</ul></div>
+

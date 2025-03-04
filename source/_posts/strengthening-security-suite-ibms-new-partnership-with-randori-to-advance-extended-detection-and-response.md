@@ -1,7 +1,7 @@
 ---
 title: "Strengthening Security Suite: IBM's New Partnership with Randori to Advance Extended Detection & Response"
-date: 2024-09-17 19:28:43
-updated: 2024-09-20 11:15:48
+date: 2025-02-28T17:00:23.570Z
+updated: 2025-03-04T17:21:53.604Z
 tags:
   - cyber-threats
 categories:
@@ -74,11 +74,29 @@ In [other IBM news](https://www.zdnet.com/article/ibm-ordered-to-pay-1-6b-to-sof
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/total-care-module-advanced-preservation-bundle-boosting-your-kodi-functionality/"><u>[Total Care Module] - Advanced Preservation Bundle Boosting Your Kodi Functionality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-sound-design-editing-your-podcasts-in-garageband/"><u>[Updated] The Ultimate Sound Design Editing Your Podcasts in GarageBand</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-engage-viewers-with-3-innovative-description-styles-on-instagram-vids/"><u>2024 Approved Engage Viewers with 3 Innovative Description Styles on Instagram Vids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-efficiency-integrating-new-folders-into-windows-11-menu/"><u>Boosting Efficiency: Integrating New Folders Into Windows 11 Menu</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-at-your-fingertips-but-plus-continues-to-offer-unmatched-services/"><u>GPT-4 at Your Fingertips; But Plus Continues To Offer Unmatched Services.</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-quickly-transform-sluggish-videos-on-android/"><u>In 2024, Quickly Transform Sluggish Videos on Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seamlessly-accessing-vids-the-top-5-free-online-video-extractors-for-2024/"><u>Seamlessly Accessing Vids The Top 5 Free Online Video Extractors for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/smart-savings-high-quality-phones-available-for-less-than-1000/"><u>Smart Savings: High-Quality Phones Available for Less Than $1,000</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/smartphone-screen-protectors-are-they-necessary-or-just-extra-expense/"><u>Smartphone Screen Protectors: Are They Necessary or Just Extra Expense?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-how-to-empty-your-android-devices-cache/"><u>Step-by-Step Guide: How To Empty Your Android Device's Cache</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-shutting-down-your-android-device/"><u>Step-by-Step Guide: Shutting Down Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-tutorial-altering-linguistic-settings-in-android-devices/"><u>Step-by-Step Tutorial: Altering Linguistic Settings in Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-tutorial-updating-the-autocorrect-list-on-your-android-device/"><u>Step-by-Step Tutorial: Updating the Autocorrect List on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/streamlining-your-mobile-workspace-mastering-app-management-like-a-pro/"><u>Streamlining Your Mobile Workspace: Mastering App Management Like a Pro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Nokia C110 | Dr.fone</u></a></li>
+</ul></div>
+

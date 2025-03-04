@@ -1,7 +1,7 @@
 ---
 title: "Cybersecurity Alert: Google's Latest Findings Reveal How GenAI Could Amplify Hacking Threats - Insights From ZDNet"
-date: 2024-09-19 21:51:43
-updated: 2024-09-20 11:33:11
+date: 2025-03-02T17:36:20.808Z
+updated: 2025-03-04T16:59:35.387Z
 tags:
   - cyber-threats
 categories:
@@ -82,11 +82,24 @@ Some use cases of generative AI for defenders include leveraging it to synthesiz
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-network-nirvana-access-resurrected/"><u>[Updated] Network Nirvana Access Resurrected</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-seamless-e-book-conversion-from-azw-files-to-mobile-ready-mobi-format/"><u>1. Seamless E-Book Conversion: From Azw Files to Mobile Ready Mobi Format</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadgets-and-gizmos-covered-at-toms-hardware-hub/"><u>Advanced Gadgets and Gizmos Covered at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-value-for-gamers-in-depth-look-at-acer-predator-orion-5000-egpus-exceptional-capabilities/"><u>Best Value for Gamers: In-Depth Look at Acer Predator Orion 5000 eGPU's Exceptional Capabilities</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-dx-11-feature-error-for-wwe-2k-battlegrounds-at-level-100-step-by-step-solutions/"><u>How to Fix DX 11 Feature Error for WWE 2K Battlegrounds at Level 10.0 - Step-by-Step Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/redefining-industry-standards-with-the-raspberry-pi-cm4-a-comprehensive-appraisal/"><u>Redefining Industry Standards with the Raspberry Pi CM4 - A Comprehensive Appraisal</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-smart-guide-for-spawning-share-worthy-memes-in-9gag-for-2024/"><u>The Smart Guide for Spawning Share-Worthy Memes in 9GAG for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-top-notch-pc-components-toms-guide-to-hardware/"><u>The Ultimate Resource for Top-Notch PC Components - Tom’s Guide to Hardware</u></a></li>
+<li><a href="https://driver-download.techidaily.com/trustworthy-source-of-canon-mf4500-driver-safe-reliable-and-instant-access/"><u>Trustworthy Source of Canon MF4500 Driver - Safe, Reliable, and Instant Access</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlock-social-data-with-top-free-facebook-downloaders/"><u>Unlock Social Data with Top Free Facebook Downloaders</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Breaking News: MD Officials Verify Ransomware Hit Causing DOH Systems to Go Offline, Details Revealed by ZDNET"
-date: 2024-09-17 11:47:53
-updated: 2024-09-20 10:30:58
+date: 2025-02-27T18:35:17.310Z
+updated: 2025-03-04T18:17:40.360Z
 tags:
   - cyber-threats
 categories:
@@ -85,11 +85,25 @@ Heath Renfrow, CISO of Conversant Group, told _ZDNet_ that it was "bold" of offi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-capture-clash-comparing-the-latest-gopro-and-virb-models/"><u>[Updated] Capture Clash Comparing the Latest GoPro and VIRB Models</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-smoothest-gameplay-with-lg-27uhd68-freesync-tv/"><u>[Updated] The Smoothest Gameplay with LG 27UHD68 FreeSync TV</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adapting-to-success-top-six-tactics-for-the-automation-era-jobscape/"><u>Adapting to Success: Top Six Tactics for the Automation Era Jobscape</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/conquer-snapchat-lens-design-two-easy-approaches-for-2024/"><u>Conquer Snapchat Lens Design Two Easy Approaches for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-oneplus-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your OnePlus Phone Pattern Lock</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-sk-hynix-t31-ssd-in-m2-format-on-compact-usb-flash-drive/"><u>In-Depth Analysis of the SK Hynix T31 SSD in M.2 Format on Compact USB Flash Drive</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-unveiling-the-features-and-performance-of-western-digitals-latest-mainstream-4tb-wd-blue-sn5000-ssd/"><u>In-Depth Review: Unveiling the Features and Performance of Western Digital’s Latest Mainstream 4TB WD Blue SN5000 SSD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-milestone-chinese-memory-manufacturer-achieves-comparable-longevity-in-qlc-and-tlc-nand-technologies/"><u>Innovative Milestone: Chinese Memory Manufacturer Achieves Comparable Longevity in QLC & TLC NAND Technologies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-scoop-on-new-gadgets-and-performance-breakdowns-with-your-brand-name/"><u>Inside Scoop on New Gadgets and Performance Breakdowns with [Your Brand Name]</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-mission-investing-in-ukrainian-speakers-for-no-expense/"><u>Mondly's Mission: Investing in Ukrainian Speakers, for No Expense</u></a></li>
+</ul></div>
+
