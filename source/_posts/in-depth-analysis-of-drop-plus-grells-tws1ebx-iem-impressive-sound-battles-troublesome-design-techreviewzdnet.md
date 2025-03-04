@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of Drop + Grell's TWS1ebx IEM: Impressive Sound Battles Troublesome Design | TechReviewZDNET"
-date: 2024-09-18 22:43:32
-updated: 2024-09-20 10:21:29
+date: 2025-02-10T16:28:23.375Z
+updated: 2025-02-15T16:55:32.971Z
 tags:
   - headphones
 categories:
@@ -37,6 +37,10 @@ If you'd like to know how one of the best-sounding wireless earbuds I've ever ex
 
 [$150 at Drop](https://massdrop.7eer.net/c/159047/252901/4148?&sharedId=zdnet&u=https%3A%2F%2Fdrop.com%2Fbuy%2Fdrop-grell-tws-iem&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Build and design**  
 
 Like just about every pair of truly wireless earbuds on the market, the TWS1X IEMs come with a charging case. This case immediately communicates that these are a different beast from your standard wireless earbud fare. Rather than opting for the rounded, capsule-like shape most manufacturers choose (Apple, Jabra, Anker, etc.), Drop and Grell instead chose a beefy oval with a flat top and bottom. 
@@ -44,6 +48,10 @@ Like just about every pair of truly wireless earbuds on the market, the TWS1X IE
 Michael Gariffo
 
 This results in a weight of 2.3oz, or almost twice what Apple's AirPods Pro weigh in their charging case. A large portion of this weight is from the metal exterior shell, which provides the unit with a satisfying feel in the hand. I firmly believe half the fun in using truly wireless earbuds is playing with their cases as a fidget toy, and the Drop + Grell take on the genre serves to be a satisfying plaything in the hand. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -105,6 +113,10 @@ A configuration using the included medium-sized foam eartips and solid wingtips 
 
 With these wingtips installed, I never once feared the earbuds would shake loose. Without them, these are one of the least secure-feeling truly wireless buds I've used. This means that, if you find all of the wingtip options uncomfortable, you may have a problem using these IEMs for any athletic pursuits. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The frustrations** 
 
 I thought it would be easiest to get all of these issues collected in one place to help you better understand the aforementioned, insanity-inducing aggravations I ran into during my testing. None of these problems completely disqualifies the Drop + Grell TWS1X IEMs from being a great purchase for the right buyer, but their existence remains frustrating. 
@@ -130,6 +142,10 @@ I've used the top-end offerings from Jabra, Apple, and many other truly wireless
 **More: [Jabra Elite 7 Pro review: Buy for outstanding phone calls, not for ANC](https://www.zdnet.com/product/jabra-elite-7-pro-true-wireless-earphones-with-mic/)**
 
 Earbuds are pretty widely expected to have inferior sound when compared to their on-ear or over-the-ear competitors. The diminutive drivers and lower relative power make it difficult to compete with the much larger hardware in over-the-ear pairs. Truly wireless earbuds are often seen as another step below wired earbuds. Their downgraded sound quality is often only considered good enough at higher price points due to the ample convenience they provide in trade.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -160,6 +176,10 @@ In short, I'd be impressed if a pair of wired, over-the-ear headphones produced 
 Unfortunately, as I mentioned above, I was only able to actually hear it under fairly particular circumstances, mostly with the help of Apple's Bluetooth hardware compensating for the frustratingly unreliable connectivity of the Drop + Grell TWS1X IEMs. 
 
 **More: [The best cheap Bluetooth headset: Plus speakers!](https://www.zdnet.com/article/best-cheap-bluetooth-headset/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Wrap up**
 
@@ -196,11 +216,27 @@ However, for the majority of shoppers, the Drop + Grell TWS1X IEMs represent too
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-boost-views-top-10-free-tools-for-custom-youtube-thumbnails/"><u>[Updated] 2024 Approved Boost Views Top 10 Free Tools for Custom YouTube Thumbnails</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-a-step-by-step-approach-to-using-cg-central-luts-in-grading/"><u>[Updated] In 2024, A Step-by-Step Approach to Using CG Central LUTs in Grading</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capturing-content-in-the-digital-age-top-strategies/"><u>[Updated] In 2024, Capturing Content in the Digital Age Top Strategies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-pixel-perfection-expert-tips-on-iphone-photo-editing/"><u>[Updated] In 2024, Pixel Perfection Expert Tips on iPhone Photo Editing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-premier-windows-camcorders-guide-for-2024/"><u>[Updated] The Premier Windows Camcorders Guide for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-navigating-the-world-of-spotifys-advertising-landscape/"><u>2024 Approved Navigating the World of Spotify's Advertising Landscape</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximize-visual-impact-and-comfort-the-premium-34-curved-display-from-lg-available-for-just-499/"><u>Maximize Visual Impact and Comfort: The Premium 34 Curved Display From LG, Available for Just $499</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-tech-world-in-depth-analysis-by-toms-hardware-team/"><u>Navigate the Tech World: In-Depth Analysis by Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-computer-components-with-tom-a-guide-to-modern-hardware/"><u>Navigating Computer Components with Tom - A Guide to Modern Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-high-performance-hardware-tips-from-tom/"><u>Navigating High-Performance Hardware - Tips From Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-solutions-from-toms-technological-realm/"><u>Pioneering Hardware Solutions From Tom's Technological Realm</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/power-up-your-gameplay-in-depth-review-of-the-sleek-and-fast-gigabyte-aorus-fn32-ultragear-240hz-4k-display/"><u>Power Up Your Gameplay: In-Depth Review of the Sleek and Fast Gigabyte Aorus FN32 UltraGear 240Hz 4K Display</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/quality-cameras-on-a-shoestring-budget-for-2024/"><u>Quality Cameras on a Shoestring Budget for 2024</u></a></li>
+</ul></div>
+

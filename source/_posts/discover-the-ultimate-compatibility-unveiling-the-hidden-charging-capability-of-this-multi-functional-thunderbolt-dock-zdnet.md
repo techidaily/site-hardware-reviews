@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Compatibility: Unveiling the Hidden Charging Capability of This Multi-Functional Thunderbolt Dock | ZDNet"
-date: 2025-02-01T04:23:14.401Z
-updated: 2025-02-02T17:31:55.521Z
+date: 2025-02-10T16:38:07.046Z
+updated: 2025-02-15T17:19:59.815Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C845c8ccf-ab05-4ea1-8ad3-f242b1b9fbbd%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -110,7 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,14 +149,24 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-crystalclear-screenshot-on-w10/"><u>[Updated] CrystalClear Screenshot on W10</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-synchronize-speech-and-slide-show-the-voiceover-advantage-for-2024/"><u>[Updated] Synchronize Speech and Slide Show The Voiceover Advantage for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-step-by-step-guide-to-flawless-zoom-screen-sharing/"><u>In 2024, Step-by-Step Guide to Flawless Zoom Screen Sharing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-now-canon-pixma-mg-series-drivers-no-cost-required/"><u>Install Now: Canon PIXMA MG Series Drivers – No Cost Required</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/macx-itunes-dvd-ripper-swiftly-convert-dvd-movies-for-hd-playback-on-apple-devices-like-iphone-ipod-ipad-and-apple-tv/"><u>MacX iTunes DVD Ripper: Swiftly Convert DVD Movies for HD Playback on Apple Devices Like iPhone, iPod, iPad & Apple TV.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/meet-your-next-smartphone-companer-the-amazing-entry-level-google-pixel-7a-arrives-now/"><u>Meet Your Next Smartphone Companer: The Amazing Entry-Level Google Pixel 7a Arrives Now!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/original-replacement-components-for-google-pixel-available-at-ifixit/"><u>Original Replacement Components for Google Pixel Available at iFixit</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-adjusting-autofill-and-managing-passwords-in-android-devices/"><u>Step-by-Step Guide: Adjusting AutoFill & Managing Passwords in Android Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-how-to-send-your-text-messages-forward-from-an-android-device/"><u>Step-by-Step Guide: How to Send Your Text Messages Forward From an Android Device</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-aspect-alteration-for-web-design/"><u>[New] Quick Aspect Alteration for Web Design</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-experts-selection-17-programs-for-flawless-picture-editing/"><u>2024 Approved Expert's Selection 17 Programs for Flawless Picture Editing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-8-plus-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 8 Plus & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/blueant-soundblade-unveiled-audibly-impressive-and-visually-stunning-review/"><u>BlueAnt Soundblade Unveiled: Audibly Impressive and Visually Stunning Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-the-features-of-rode-streamer-pro-x-could-this-be-the-answer-to-your-cinematic-challenges/"><u>Delving Into The Features Of Rode Streamer Pro X - Could This Be the Answer to Your Cinematic Challenges?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-se-2022-how-to-unlock-a-disabled-apple-iphone-se-2022-by-drfone-ios/"><u>Disabled Apple iPhone SE (2022) How to Unlock a Disabled Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-repair-internet-connections-using-ethernet-on-pcs-running-windows-11-or-7/"><u>Expert Tips to Repair Internet Connections Using Ethernet on PCs Running Windows 11 or 7</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-bridging-worlds-fusing-photos-into-majestic-tiles/"><u>In 2024, Bridging Worlds Fusing Photos Into Majestic Tiles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-asuss-powerhouse-the-rog-rapture-gt-be9-pro-wifi-7-gigabit-router-a-balance-of-speed-and-flexibility/"><u>In-Depth Look at Asus's Powerhouse - The ROG Rapture GT-BE9# PRO WiFi 7 Gigabit Router: A Balance of Speed and Flexibility</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-the-world-of-gadgets-with-toms-hardware-experts/"><u>Master the World of Gadgets with Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-components-wisdom-from-toms-workshop/"><u>Mastering Gadgets & Components - Wisdom From Tom's Workshop</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-selections-with-toms-technological-wisdom/"><u>Mastering Hardware Selections with Tom's Technological Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-todays-tech-landscape-expert-hardware-advice-from-tom/"><u>Navigating Today's Tech Landscape: Expert Hardware Advice From Tom</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-personalizing-your-fn-keys-in-windows-os/"><u>Step-By Step Guide to Personalizing Your FN Keys in Windows OS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Insights: A Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-x90s-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo X90S Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-potential-with-gigabytes-b760m-ds3h-ax-the-ultimate-guide-to-an-entry-level-three-monitor-motherboard/"><u>Unlocking Performance Potential with Gigabyte's B760M DS3H AX - The Ultimate Guide to an Entry-Level Three-Monitor Motherboard</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Privacy Concerns in ChatGPT Interactions - Insights From ZDNet
-date: 2024-09-19 11:33:53
-updated: 2024-09-20 12:17:14
+date: 2025-02-14T16:45:00.417Z
+updated: 2025-02-15T16:17:29.619Z
 tags:
   - cyber-threats
 categories:
@@ -44,6 +44,10 @@ OpenAI's president and co-founder, Greg Brockman, [shared a statement](https://t
 A lot of us that grew up alongside the internet know there are three important rules for it: Don't put private information online, don't believe everything you read, and cats are the supreme rulers of it. 
 
 "Users that are mindful of the information they share with the AI won't be at risk, as this first-party data can only be extracted if the user has inputted it in the first place," Schmetz adds.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## About Ghostery
 
@@ -96,11 +100,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-quick-tips-for-easy-youtube-thumbnail-acquisition-zero-price/"><u>[New] 2024 Approved Quick Tips for Easy YouTube Thumbnail Acquisition – Zero Price</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-affordable-webinar-tools-for-efficient-recording/"><u>[Updated] In 2024, Affordable Webinar Tools for Efficient Recording</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-5-essential-ios-downloader-apps-for-your-favorite-facebook-videos/"><u>2024 Approved 5 Essential iOS Downloader Apps for Your Favorite Facebook Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/build-your-own-modular-itx-nas-computer-with-customizable-3d-printing/"><u>Build Your Own Modular ITX NAS Computer with Customizable 3D Printing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-future-ai-integration-takes-center-stage-for-m4-ipad-pro-at-this-years-apple-worldwide-developers-conference/"><u>Discover the Future: AI Integration Takes Center Stage for M4 iPad Pro at This Year’s Apple Worldwide Developers Conference</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/exploring-reasons-behind-slow-game-graphics-loading-with-yl-software-solutions-and-tips/"><u>Exploring Reasons Behind Slow Game Graphics Loading with YL Software Solutions and Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-converter-nsv-to-wmv-with-movavi-no-cost/"><u>Free Online Converter: NSV to WMV with Movavi - No Cost</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964475671-iconic-5-star-fractal-universe-north-premium-pc-chassis-now-a-steal-at-just-109/"><u>Iconic 5-Star Fractal Universe North Premium PC Chassis Now a Steal at Just $109!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-youth-empowerment-your-life-story-can-inspire/"><u>In 2024, Youth Empowerment Your Life Story Can Inspire</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-be-quiet-shadow-base-800-fx-masterful-noise-suppression-with-superior-performance-features/"><u>In-Depth Analysis of Be Quiet! Shadow Base 800 FX: Masterful Noise Suppression with Superior Performance Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964477913-lowest-price-on-pure-base-500dx-midi-tower-computer-case-just-84-available-now/"><u>Lowest Price on Pure Base 500DX Midi-Tower Computer Case: Just $84 Available Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seamless-thermal-regulation-achieved-the-no-fan-solution-dissipating-up-to-600-watts/"><u>Seamless Thermal Regulation Achieved: The 'No-Fan' Solution Dissipating Up to 600 Watts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-and-guidance/"><u>Tom's Tech Reviews: In-Depth Analysis and Guidance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-gadgets-and-components-t17239718719945/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Gadgets and Components</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-solutions-to-the-missing-d3dx9asteriskdll-dilemma/"><u>Ultimate Solutions to the Missing d3dx9_asterisk.dll Dilemma</u></a></li>
+</ul></div>
+

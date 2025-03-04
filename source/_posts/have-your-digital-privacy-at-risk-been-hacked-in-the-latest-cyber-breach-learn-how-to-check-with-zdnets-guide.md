@@ -1,7 +1,7 @@
 ---
 title: Have Your Digital Privacy at Risk Been Hacked in the Latest Cyber Breach? Learn How to Check with ZDNet's Guide
-date: 2024-09-17 21:19:31
-updated: 2024-09-20 10:16:12
+date: 2025-02-13T16:29:50.787Z
+updated: 2025-02-15T16:05:17.283Z
 tags:
   - cyber-threats
 categories:
@@ -45,6 +45,10 @@ Here's how data breaches occur, how they can impact you, and what you can do in 
 
 ## How to find out if you've been involved in a data breach
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check to see if you've been contacted
 
 Typically, your service provider will contact you through email or letters, explaining that your information has been compromised. 
@@ -72,6 +76,10 @@ The search engine allows you to search either by your email address or phone num
 If you type in your details and are rewarded with a green screen, congratulations, you haven't been involved in any notable data security incidents. However, if your data has been compromised, you will see a screen (shown below) telling you which breaches have impacted you. 
 
 Screenshot by Charlie Osborne/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use a password manager
 
@@ -104,6 +112,10 @@ Unfortunately, credit monitoring services are now necessary to be alerted to sus
 If your payment card details, bank accounts, or other digital financial services have been compromised, call the provider immediately (or freeze your cards using the mobile app, if your app has that feature). You must also inform your bank or financial services provider so they can be on the lookout for suspicious and fraudulent transactions. 
 
 Screenshot by Charlie Osborne/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Change your passwords immediately
 
@@ -141,6 +153,10 @@ Many vendors are now exploring passwordless authentication. Google announced the
 
 Screenshot by Charlie Osborne/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do data breaches happen?  
 
 According to IBM, the most common initial attack vector cyberattackers use to break into a company's network is the use of compromised credentials. 
@@ -158,6 +174,10 @@ Other potential attack methods are:
 * **Negligence**: [Unsecured servers](https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/), left open and exposed online likely due to misconfigurations, are a principal reason for data exposure and breaches. Information may also be leaked [accidentally](https://www.zdnet.com/article/employee-contractor-negligence-is-now-a-major-reason-for-insider-security-incidents/) by employees.
 * **Falling for spam and phishing attempts**: On an individual level, cybercriminals will try and get you to part with your PII and account information through spam emails, phishing domains, and more.
 * **Social engineering**: A scammer may impersonate you to access your account. There have been cases where customer service reps from telecom providers made changes to an account after being given information on a victim that criminals obtained -- leading to [SIM-swap attacks](https://www.zdnet.com/article/how-i-survived-a-sim-swap-attack-and-how-my-carrier-failed-me/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do data breaches impact you?
 
@@ -230,11 +250,26 @@ Unfortunately, it is up to individuals to deal with the fallout; knowing you've 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-the-art-of-chatting-with-voices-on-whatsapp-for-2024/"><u>[New] The Art of Chatting with Voices on WhatsApp for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-transforming-facebook-streams-into-flawless-records/"><u>[Updated] Transforming Facebook Streams Into Flawless Records</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-10-superior-approaches-to-live-cricket-broadcasting/"><u>2024 Approved 10 Superior Approaches to Live Cricket Broadcasting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-snap-to-stunning-photo-editing-secrets/"><u>2024 Approved From Snap to Stunning Photo Editing Secrets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-setup-instructions-for-magic-mouse-on-your-windows-computer/"><u>Complete Setup Instructions for Magic Mouse on Your Windows Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-tech-enhancement-with-top-srt-tweaks/"><u>Elite Tech Enhancement with Top SRT Tweaks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964488742-gamers-bargain-alert-snap-up-the-steelseries-arctis-nova-pro-wireless-at-a-steep-discount-of-64-off-the-leading-sound-experience/"><u>Gamer's Bargain Alert: Snap Up the SteelSeries Arctis Nova Pro Wireless at a Steep Discount of 64% Off – The Leading Sound Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-g24-power-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola G24 Power Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-revolutionary-keychron-q1-he-a-comprehensive-wireless-gaming-and-typing-experience-unleashed/"><u>The Revolutionary Keychron Q1 HE: A Comprehensive Wireless Gaming and Typing Experience Unleashed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unbiased-gadget-analysis-and-reviews/"><u>Tom's Tech Review: Unbiased Gadget Analysis and Reviews</u></a></li>
+<li><a href="https://win-popular.techidaily.com/tutorial-detailan-untuk-restasisinya-perabot-kompleks-yang-hileb-onkorekan-pada-windows-11/"><u>Tutorial Detailan Untuk Restasisinya Perabot Kompleks Yang Hileb Onkorekan Pada Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-the-best-gaming-audio-equipment/"><u>Ultimate Selection: The Best Gaming Audio Equipment</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Enhanced Google Security Measures Boost Defense via Advanced Detection & AI Assistant Integration | TechZDNet
-date: 2024-09-19 10:33:51
-updated: 2024-09-20 10:42:26
+date: 2025-02-13T17:16:53.744Z
+updated: 2025-02-15T16:53:59.054Z
 tags:
   - cyber-threats
 categories:
@@ -23,6 +23,10 @@ Security Operations (SecOps) is Google's platform for detecting, investigating, 
 
 The AI-powered updates reduce busywork and give security teams more bandwidth to look at the big picture. SecOps "enables security teams to surface the latest threats in a turnkey way that doesn't require complicated engineering," IDC Research Director Michelle Abraham said in the release.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## New curated detections 
 
 Experts from Google and [Mandiant](https://www.zdnet.com/article/google-is-buying-cybersecurity-company-mandiant-for-5-4-billion/), the company's threat data compilation service, provide teams with curated detections that let them specify the type of threat detection they need for their environment. Today, Google unveiled two new types of detections: Cloud and emerging threat.
@@ -32,6 +36,10 @@ Cloud detections help protect against serverless threats by tracking cryptocurre
 **Also: [How we test VPNs in 2024](https://www.zdnet.com/article/how-we-test-and-review-vpns/)**
 
 Emerging threat detection "can provide coverage for recently-detected methodologies, and is based on threat actor tactics, techniques and procedures (TTPs), including from nation-states and newly-detected malware families," the company said in the release. Emerging threat detection is available in SecOps Enterprise Plus.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Gemini updates: two new Assistants 
 
@@ -48,6 +56,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 Using the context of an investigation, the Investigation Assistant goes further by answering questions, summarizing events, creating rules, and responding to threats more quickly and precisely. Playbook Assistant, which is in preview, meanwhile incorporates a team's expertise and best practices into building response playbooks to minimize time-consuming steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Autonomous parsers
 
@@ -80,11 +92,24 @@ According to the announcement, the upgrades are "designed to reduce the do-it-yo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-constructing-the-ideal-home-computer-for-advanced-video-editing/"><u>[Updated] In 2024, Constructing the Ideal Home Computer for Advanced Video Editing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/89-bargain-snag-the-trendy-eye-catching-lian-li-lancool-ntower-pc-case-at-unbeatable-price/"><u>$89 Bargain: Snag the Trendy, Eye-Catching Lian Li Lancool nTower PC Case at Unbeatable Price</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-a79-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on A79 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-tecno-camon-20-pro-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Tecno Camon 20 Pro 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/launch-of-seasonic-psu-models-featuring-advanced-12vhpwr-connectors-starting-from-230/"><u>Launch of Seasonic PSU Models Featuring Advanced 12VHPWR Connectors Starting From $230</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964496458-lowest-price-on-lian-li-lancool-215-vibrant-and-sleek-design-for-just-89/"><u>Lowest Price on Lian Li Lancool 215 - Vibrant and Sleek Design for Just $89</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-hardware-with-toms-guide/"><u>Navigating the Latest in Hardware with Tom's Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-special-traits-of-ai-machines/"><u>Understanding the Special Traits of AI Machines</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-hp-officejet-pro-vee-6970-printer-software-for-windows-pcs/"><u>Update Your HP OfficeJet Pro Vee 6970 Printer Software for Windows PCs</u></a></li>
+</ul></div>
+

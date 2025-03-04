@@ -1,7 +1,7 @@
 ---
 title: Under a Hundred Dollars? These Anker Earbuds Prove More Durable Than Your Pricier AirPods | ZDNET Insights
-date: 2024-09-19 18:14:28
-updated: 2024-09-20 12:46:40
+date: 2025-02-11T16:47:27.908Z
+updated: 2025-02-15T16:45:41.359Z
 tags:
   - headphones
 categories:
@@ -33,6 +33,10 @@ more buying choices
 Less noise, longer listening. That is Anker Soundcore's promise with its newly released noise-canceling wireless earbuds. At only $99, the Space A40 earbuds are less expensive and boast longer battery life than market favorites from Apple, Sony, and the rest. 
 
 For the past week, I've put these wireless earbuds to the test. Since then, I haven't had to charge them once, even after a series of office commutes, intensive workouts, and catch-up phone calls. Coming from the [Apple AirPods Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fairpods-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the improved endurance is astonishing. But how well do the earbuds fare in general? Let's take a deep dive. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Specifications 
 
@@ -100,6 +104,10 @@ While there is a lag, the earbuds are sensitive -- something I found out the har
 
 One thing I had to get used to with these earbuds was that, unlike AirPods, they do not have an automatic stop when one earbud falls out or you take just one out of your ear. To get the audio to completely stop, you either have to tap the right bud twice or hit pause on your device. Otherwise, the audio will keep playing whether they're in your ears or not. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Microphone quality 
 
 Something that often gets neglected in reviews of earbuds is the microphone quality. As I use my earbuds a lot for hands-free phone calls, this was an important factor for me to test out. The results left me pleasantly surprised -- the quality was impressive. 
@@ -111,6 +119,10 @@ As I mentioned before, my only issue with using these earbuds for phone calls wa
 These are the Soundcore SpaceA40 earbuds in Black I tested out.
 
 Christina Darby/ZDNet
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Battery life and charging 
 
@@ -128,9 +140,17 @@ To charge the earbuds themselves, simply place them back in the case after use, 
 
 [Buy the Anker Soundcore Space A40 $59 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B1LVC5VZ%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59495a71-2015-4d3d-8141-c94987ea7a17%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line  
 
 Despite the issues I encountered when wearing them running, I still think these are quality earbuds -- especially given their price. Whether you use them as a backup for your AirPods, AirPods Pro, or [Galaxy Buds 2](https://www.zdnet.com/product/samsung-galaxy-buds-2/) or as your primary headphones, you will get less sound for longer and at a lower price. They're perfect for commuting, hands-free phone calls, and leisurely exercise -- just maybe not intense cardio. So, if you're looking for an "office-to-gym-or-trail" kind of earbud, these may not be your go-to. If you're in the market for a solid pair of earbuds for your morning commute, I would highly recommend these. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider 
 
@@ -167,11 +187,27 @@ Sony's LinkBuds S noise-canceling earbuds, which are on sale right now at Target
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-affordable-video-grabbing-tools-tested-on-pcs/"><u>[New] 2024 Approved Affordable Video Grabbing Tools Tested on PCs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-curating-a-must-see-list-of-youtubes-top-makeup-talent/"><u>[Updated] 2024 Approved Curating a Must-See List of YouTube's Top Makeup Talent</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-top-apps-for-downloading-youtube-content/"><u>[Updated] 2024 Approved Top Apps for Downloading YouTube Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-quickscreen-recorder-plus-guided-soundtrack-companion/"><u>[Updated] QuickScreen Recorder + Guided Soundtrack Companion</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-superior-scrutinizer-of-top-8-rankings-tracker-for-2024/"><u>[Updated] Superior Scrutinizer of Top 8 Rankings Tracker for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-z-flip-5-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-12-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 12</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-honor-magic-5-lite-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Honor Magic 5 Lite Phones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-roblox-wont-start-top-troubleshooting-steps-of-2022/"><u>Solving the 'Roblox Won't Start': Top Troubleshooting Steps of 2022</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-your-gadget-potential-trustworthy-reviews-by-toms-experts/"><u>Unleash Your Gadget Potential: Trustworthy Reviews by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-electronics-mysteries-at-toms-hardware-haven/"><u>Unraveling Electronics Mysteries at Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unusual-find-alert-thor-vs-darth-vader-styled-monitor-under-150-by-a-retailer-in-china/"><u>Unusual Find Alert: 'Thor vs Darth Vader' Styled Monitor Under $150 by a Retailer in China</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-essential-utilities-of-feelworlds-compact-and-portable-dh101-display/"><u>Unveiling Essential Utilities of Feelworld’s Compact and Portable DH101 Display</u></a></li>
+</ul></div>
+

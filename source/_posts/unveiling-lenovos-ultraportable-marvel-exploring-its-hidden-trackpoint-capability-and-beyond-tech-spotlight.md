@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Lenovo's Ultraportable Marvel: Exploring Its Hidden Trackpoint Capability and Beyond | Tech Spotlight"
-date: 2025-01-30T19:31:52.906Z
-updated: 2025-02-03T01:36:21.643Z
+date: 2025-02-13T16:13:09.891Z
+updated: 2025-02-15T17:02:12.705Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,15 +116,18 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/nlock-the-secrets-to-increasing-views-in-60-second-youtube-shorts-for-2024/"><u>[New] Unlock the Secrets to Increasing Views in 60-Second YouTube Shorts for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-time-taken-to-watch-an-example-of-a-20mb-video/"><u>[Updated] Time Taken to Watch An Example of a 20MB Video</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-image-interpretation-8-ways-to-gain-edge/"><u>ChatGPT’s Image Interpretation: 8 Ways to Gain Edge</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-innovations-with-tom-a-journey-through-cutting-edge-gear/"><u>Exploring Innovations with Tom: A Journey Through Cutting-Edge Gear</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-poco-x6-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Poco X6 Phone | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/284634-9789240680630-health-implications-of-acrylamide-in-food/"><u>Health Implications of Acrylamide in Food | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-valkyrie-syn-240-all-in-one-liquid-cooler-performance-and-software-design-critique/"><u>In-Depth Review: Valkyrie Syn 240 All-In-One Liquid Cooler Performance and Software Design Critique</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-the-turtle-beach-atlas-air-superior-audio-for-every-listener/"><u>The Definitive Guide to the Turtle Beach ATLAS Air – Superior Audio for Every Listener</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computing-equipment-by-toms-digital-hub/"><u>The Ultimate Guide to Computing Equipment by Tom's Digital Hub</u></a></li>
-<li><a href="https://win-top.techidaily.com/pdf-24/"><u>가장 좋은 무료 PDF 수정기 소품을 선보여주는 지난 24시간 동안의 유리한 선택</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-understanding-youtubes-ad-free-experience-with-a-plan/"><u>[New] 2024 Approved Understanding YouTube's Ad-Free Experience with a Plan</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-from-basic-to-breathtaking-elevating-your-instagram-edits/"><u>[Updated] 2024 Approved From Basic to Breathtaking Elevating Your Instagram Edits</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-transform-your-visual-storytelling-with-luts-in-ae-for-2024/"><u>[Updated] Transform Your Visual Storytelling with LUTs in AE for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-computer-components-from-toms-hardware-hub/"><u>Expert Advice on Computer Components From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-pc-gear-by-toms-electronics-hub/"><u>Expert Analysis on PC Gear by Tom's Electronics Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-powerhouse-performance-the-affordable-lenovo-legion-slim-pert-5-for-gamers-now-available-on-newegg-below-1k/"><u>Get the Powerhouse Performance: The Affordable Lenovo Legion Slim Pert-5 for Gamers Now Available on Newegg Below $1K</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-the-latest-asus-rog-strix-g16-2-now-a-steal-at-1164-on-amazon/"><u>Get Your Hands-On the Latest ASUS ROG Strix G16 2# - Now a Steal at $1,164 on Amazon</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-craft-your-first-short-film-with-windows-8-movie-maker/"><u>In 2024, Craft Your First Short Film with Windows 8 Movie Maker</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-honor-x50i-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Honor X50i to New Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-upgraded-framework-for-power-packed-13-inch-devices-with-top-tier-intel-and-amd-processors/"><u>Introducing the Upgraded Framework for Power-Packed 13-Inch Devices with Top-Tier Intel and AMD Processors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-models-retired-is-it-time-for-an-upgrade-explore-top-phone-choices-after-apples-latest-changes-gadgetflow/"><u>IPhone Models Retired: Is It Time for an Upgrade? Explore Top Phone Choices After Apple's Latest Changes | GadgetFlow</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-new-era-of-content-creation-and-profitability/"><u>The New Era of Content Creation and Profitability</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-four-platforms-navigating-the-world-of-facebook-twitter-instagram-and-youtube/"><u>Top Four Platforms: Navigating the World of Facebook, Twitter, Instagram & YouTube</u></a></li>
 </ul></div>
 

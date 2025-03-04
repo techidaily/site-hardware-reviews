@@ -1,7 +1,7 @@
 ---
 title: "Premier Audio Showdown: Bowers & Wilkins Px7 S2 vs Sony/Bose - A Comprehensive ZDNet Review"
-date: 2024-09-19 22:11:30
-updated: 2024-09-20 12:41:48
+date: 2025-02-12T16:34:25.161Z
+updated: 2025-02-15T16:38:32.184Z
 tags:
   - headphones
 categories:
@@ -84,9 +84,17 @@ The single left button toggles between sound modes, while the right-side buttons
 
 June Wan/ZDNet
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Performance
 
 The Px7 S2 has a 40mm dynamic driver sitting in each earcup, with support for popular Bluetooth codecs (AptX and AAC) and 24-bit audio. That means that with the right combination of streaming service and device, you'll be able to play hi-res audio. While this feature is less meaningful to the average listener, audio engineers and professionals should benefit from the added dynamic range and reduced noise.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Sound test
 
@@ -108,6 +116,10 @@ Ultimately, the Px7 S2's ANC is just a few decibels short of being on par with t
 
 **More: [Best noise-canceling headphones](https://www.zdnet.com/article/best-noise-canceling-headphones/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pass-through mode
 
 As someone who receives and ships packages for a living, pass-through mode (or ambient mode) is something that I value in headphones. Besides being able to hear my doorbell, the ambient sound on the Px7 S2 is genuinely useful for solo walks in the parks and staying aware of traffic. The headphones don't make things artificial-sounding, which is oftentimes a red flag for me. My only callout is that external noises may be over-amplified, which some users will actually prefer. I'm less enthusiastic about how my desktop fans sound louder with the headset on than when it's not. 
@@ -120,6 +132,10 @@ June Wan/ZDNet
 
 Naturally, the Px7 S2's microphone was put to the test during my weeks' worth of Zoom meetings and game nights. Based on feedback from my colleagues and friends, the Bowers & Wilkins headset is clear enough to comprehend but not recommended for podcast recording or interviews. That seems to be the case with most microphones in this price range, so I would've loved to have seen the Px7 S2 deliver on this end to differentiate itself. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Software
 
 To adjust the equalizer and button controls of the headphones, you'll have to tap into the [Bowers & Wilkins Music app](https://www.bowerswilkins.com/en/bowers-wilkins-music-app) \-- not to be mistaken with the [Bowers & Wilkins Headphones app](https://play.google.com/store/apps/details?id=com.bowers%5Fwilkins.headphones.v2&hl=en%5FUS&gl=US). (Trust me, I tried pairing the Px7 S2 to the one that sounds more logical, but it went undetected.) 
@@ -129,6 +145,10 @@ While the version of the Music app that I tested was in beta until two days ago,
 You won't find branding that's classier than this. 
 
 June Wan/ZDNet
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Battery
 
@@ -177,11 +197,30 @@ One of the more comfortable noise-canceling headphones, the Bose NC 700 is light
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ound-surprises-androidioss-disruptive-selection/"><u>[New] Sound Surprises Android/iOS's Disruptive Selection</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cutting-through-the-noise-optimal-thumbnail-sizes/"><u>[Updated] In 2024, Cutting Through the Noise Optimal Thumbnail Sizes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-tele-loop-triumph-youtube-videos-endlessly-enjoyable-on-tv/"><u>[Updated] Tele-Loop Triumph YouTube Videos, Endlessly Enjoyable on Tv</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-hardware-insights-with-toms-technology-hub/"><u>Discover Hardware Insights with Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dominate-your-games-secure-the-powerful-msi-katana-laptop-156-nvidia-geforce-rtx-4070-for-an-unbeatable-price-of-1199/"><u>Dominate Your Games: Secure the Powerful MSI Katana Laptop (15.6, NVIDIA GeForce RTX 4070) for an Unbeatable Price of $1,199</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enduring-power-played-out-in-asus-tuf-gaming-a14-an-in-depth-review/"><u>Enduring Power Played Out in Asus TUF Gaming A14: An In-Depth Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/epic-savings-alert-the-mighty-16-inch-dell-g16-gaming-laptop-now-at-a-steal-949/"><u>Epic Savings Alert: The Mighty 16-Inch Dell G16 Gaming Laptop Now at a Steal ($949)!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-with-tom-your-comprehensive-resource/"><u>Exploring Hardware with Tom - Your Comprehensive Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-depths-of-digital-gadgets-at-toms-equipment-emporium/"><u>Exploring the Depths of Digital Gadgets at Tom’s Equipment Emporium</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-edge-with-acemagics-upcoming-dual-display-laptop-reserve-now-before-release-date/"><u>Get the Edge with AceMagic's Upcoming Dual-Display Laptop – Reserve Now Before Release Date</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-home-movie-magic-creating-professional-looking-dvds-with-ease-for-2024/"><u>New Home Movie Magic Creating Professional-Looking DVDs with Ease for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tips-for-correcting-hdmi-connection-interferences-with-other-running-applications/"><u>Tips for Correcting HDMI Connection Interferences with Other Running Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-how-ai-manipulates-paperclip-efficiency/"><u>Understanding How AI Manipulates Paperclip Efficiency</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-the-most-recent-geforce-rtx-3070-graphics-card-drivers-supported-by-windows-1110-systems/"><u>Update to the Most Recent GeForce RTX 3070 Graphics Card Drivers: Supported by Windows 11/10 Systems</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-pinnacle-studio-not-working-try-these-mac-alternatives-instead-for-2024/"><u>Updated Pinnacle Studio Not Working? Try These Mac Alternatives Instead for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Motorola Moto G73 5G | Dr.fone</u></a></li>
+</ul></div>
+

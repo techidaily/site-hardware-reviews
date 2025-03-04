@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Dual-Function Laptop Beyond HP and Lenovo - Exclusive Insights From ZDNet
-date: 2025-02-01T20:30:08.236Z
-updated: 2025-02-03T02:49:17.631Z
+date: 2025-02-14T16:46:49.020Z
+updated: 2025-02-15T17:06:18.790Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,19 +116,18 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-window-wisdom-taking-precise-screen-captures-for-2024/"><u>[New] Window Wisdom Taking Precise Screen Captures for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-cost-effective-choices-chinese-vr-technology/"><u>[Updated] Cost-Effective Choices Chinese VR Technology</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-picture-pieces-proposals-radiate-positivity-and-creativity/"><u>[Updated] Picture Pieces Proposals Radiate Positivity and Creativity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862800926-99-asus-tuf-gaming-screen-24-ips-display-with-165-hz-exclusive-deal-on-newegg/"><u>$99 ASUS TUF Gaming Screen, 24 IPS Display with 165 Hz, Exclusive Deal on Newegg!</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/directly-convert-facebook-videos-to-high-quality-mp3/"><u>Directly Convert Facebook Videos to High-Quality MP3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhanced-ai-interaction-here-are-9-pluses-advantages/"><u>Enhanced AI Interaction – Here Are 9 Pluses Advantages</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-f54-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy F54 5G Phone Network-Ready</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862775770-memorial-day-special-high-performance-dell-s322ndmg-32monitor-only-279/"><u>Memorial Day Special: High-Performance Dell S322nDMG 32Monitor, Only $279</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/resolve-your-iphones-bluetooth-problems-with-our-comprehensive-connection-fix-tips/"><u>Resolve Your iPhone's Bluetooth Problems with Our Comprehensive Connection Fix Tips</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-leading-free-converters-for-optimal-srt-files-for-2024/"><u>The Leading Free Converters for Optimal SRT Files for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862839510-transform-your-workspace-get-the-immersive-lg-34-inch-499-curved-ultragear-display-today/"><u>Transform Your Workspace: Get the Immersive LG 34-Inch $499 Curved UltraGear Display Today</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862803497-unbelievable-bargain-alert-a-high-quality-sceptre-24-curve-gaming-monitor-for-just-79/"><u>Unbelievable Bargain Alert: A High-Quality Sceptre 24 Curve Gaming Monitor for Just $79</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/xiaomi-g34wqi-gaming-monitor-ultimate-value-in-depth-analysis-of-34-screen-180hz-refresh-rate-with-stunning-colors-and-contrast/"><u>Xiaomi G34WQi Gaming Monitor - Ultimate Value: In-Depth Analysis of 34 Screen, 180Hz Refresh Rate with Stunning Colors & Contrast</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nlocking-the-prime-youtube-post-hours-for-2024/"><u>[New] Unlocking the Prime YouTube Post Hours for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-concept-to-creation-youtube-trailer-production-via-filmora/"><u>[Updated] From Concept to Creation YouTube Trailer Production via Filmora</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-explorations-by-tech-savant-tom/"><u>Advanced Hardware Explorations by Tech Savant, Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-new-technological-breakthroughs-on-toms-hardware/"><u>Delving Into New Technological Breakthroughs on Tom's Hardware</u></a></li>
+<li><a href="https://article-helps.techidaily.com/enhance-the-listener-experience-advanced-techniques-for-audio-editing/"><u>Enhance the Listener Experience Advanced Techniques for Audio Editing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-high-performance-pc-gear-with-toms-hardware-insights/"><u>Exploring High-Performance PC Gear with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-successfully-upgrade-to-windows-10-may-2020-build-19041-with-the-latest-conexant-drivers/"><u>How to Successfully Upgrade to Windows 10 May 2020 (Build 19041) with the Latest Conexant Drivers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-hardware-innovations-at-toms-hardware/"><u>Navigating the Latest in Hardware Innovations at Tom's Hardware</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premiere-visionary-film-glimpses-for-2024/"><u>Premiere Visionary Film Glimpses for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/revamping-text-editors-with-macros-how-wills-replace-feature-in-emeditor-refreshes-data-extraction-choices/"><u>Revamping Text Editors with Macros: How Will's Replace Feature in EmEditor Refreshes Data Extraction Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-resilient-player-in-gaming-pcs-inside-review-of-asus-tuf-ga14/"><u>The Resilient Player in Gaming PCs: Inside Review of Asus TUF GA14</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-gear-expert-reviews-and-advice/"><u>Tom's Computer Gear: Expert Reviews and Advice</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-servicenows-four-fundamental-ai-concepts-impactful-insights-for-modern-enterprises/"><u>Understanding ServiceNow's Four Fundamental AI Concepts: Impactful Insights for Modern Enterprises</u></a></li>
 </ul></div>
 

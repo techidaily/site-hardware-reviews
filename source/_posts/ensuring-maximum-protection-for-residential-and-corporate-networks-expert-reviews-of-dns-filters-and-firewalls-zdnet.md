@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Maximum Protection for Residential and Corporate Networks: Expert Reviews of DNS Filters & Firewalls | ZDNET"
-date: 2024-09-17 19:47:42
-updated: 2024-09-20 12:47:27
+date: 2025-02-09T16:39:11.526Z
+updated: 2025-02-15T16:15:22.009Z
 tags:
   - cyber-threats
 categories:
@@ -17,6 +17,10 @@ I'll assume you already have an [antimalware/antivirus solution](https://www.zdn
 
 [Escalating international tensions](https://www.zdnet.com/article/ukraine-crisis-russian-cyberattacks-could-affect-organisations-around-the-world-so-take-action-now/) \-- coupled with an ever-increasing number of [professionals working remotely](https://www.zdnet.com/article/security-remote-work-support-top-concerns-amongst-firms/) \-- are driving the need for small-scale solutions and best practices to secure home- and small-business networks and mobile devices from malware, malvertising, and other threats. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 * [Best VPN services](https://www.zdnet.com/article/best-vpn/)
@@ -27,6 +31,10 @@ I'll assume you already have an [antimalware/antivirus solution](https://www.zdn
 What follows is a brief guide -- with product recommendations and best practices -- for those of you looking to navigate the rapidly evolving cybersecurity landscape. If you have limited network security experience but want to provide additional security for yourself, your small business, or your friends and family, this guide is for you. (If you're looking for more extensive resources on networking security, [CISA's guide](https://www.zdnet.com/article/cisa-publishes-guide-with-free-cybersecurity-tools-resources-for-incident-response/) is a good place to start.) 
 
 Below are the products I am currently using to protect my family's home networks and mobile devices. (I expect to add more product and service recommendations when I have sufficient time to investigate them.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Mobile and device-based DNS VPN firewall
 
@@ -72,6 +80,10 @@ Jason Perlow/ZDNet
 
 NextDNS also has a **Parental Controls** menu for locking out specific websites, apps, and games, as well as the ability to lock out pornography, piracy, dating, and social networks. NextDNS has the ability to have multiple Configuration IDs per account, so if you want to configure your children's devices, you might want to assign them a separate Configuration ID as well as enter a Parental Passcode in their NextDNS app settings screen so it cannot be altered. You'll also want to set Parental Controls on their devices using native app restrictions (Such as the Content and Privacy Restrictions menu on iOS) so the NextDNS app cannot be deleted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Open Source wide-spectrum DNS blocking
 
 [Pi-Hole (Open Source)](https://pi-hole.net/) 
@@ -111,6 +123,10 @@ To begin using Pi-Hole on your devices and clients, [change your DNS settings](h
 If you find the Pi-Hole is blocking a specific site or functionality that you need to use (such as a needed tracking cookie or script), simply whitelist the site, or temporarily, click on **Disable** from the left-hand administrative menu. You can choose to disable it indefinitely, for 10 seconds, for 30 seconds, for 5 minutes, or a custom time.
 
 **EDIT:** Pi-Hole developer Dan Schaper has communicated the following: "As an aside, we're not aware of any appliances that are planning to embed Pi-hole. Would you be able to share that information? It would be helpful to others to know that there are major changes planned and that some coordination may be in order."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Hardware Firewalls
 
@@ -159,6 +175,10 @@ Firewalla's CEO and founder, Jerry Chen, has published a best practices guide ([
 **Firewalla Gold** is a powerful intrusion detection, IP firewall, and multi-gigabit router for SMBs (100 employees or less). Introduced before the Purple, it is essentially a Firewalla Purple on steroids, with four gigabit Ethernet ports, powered by an x86-based chip rather than an Arm-based chip the Purple, Red, and Blue all use. However, it's probably overkill for most homes unless you have a broadband connection with higher than gigabit network traffic requirements.
 
 [View now at Firewalla](https://firewalla.com/products/firewalla-gold) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Source Firewalls: OPNSense and pfSense
 
@@ -221,11 +241,31 @@ Similar to OPNSense is [pfSense](https://www.pfsense.org/), which has a comparab
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-quick-guide-android-video-recording-techniques/"><u>[New] 2024 Approved Quick Guide Android Video Recording Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-cutting-through-traditional-boundaries-in-image-processing/"><u>[Updated] 2024 Approved Cutting Through Traditional Boundaries in Image Processing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-elevating-audio-fidelity-on-obs/"><u>[Updated] Elevating Audio Fidelity on OBS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-hugging-face-an-in-depth-guide-to-its-functions-and-uses/"><u>Demystifying Hugging Face: An In-Depth Guide to Its Functions and Uses</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/demystifying-the-difference-between-echo-pop-and-echo-dot-devices/"><u>Demystifying the Difference Between Echo Pop and Echo Dot Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-evaluating-performance-and-reliability-of-thermaltakes-1350w-toughpower-gf3-power-supply-unit/"><u>Expert Insights: Evaluating Performance and Reliability of Thermaltake's 1350W Toughpower GF3 Power Supply Unit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-computing-with-toms-hardware-guides/"><u>Exploring Advanced Computing with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/find-the-right-wattage-seasonics-psu-calculator-for-optimal-amd-radeon-series-performance/"><u>Find the Right Wattage: Seasonic's PSU Calculator for Optimal AMD Radeon Series Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-streaming-apple-tvplus-on-your-chromecast-device/"><u>Guide: Streaming Apple TV+ on Your Chromecast Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-11-pro-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 11 Pro Max to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-evaluation-and-testing-results-for-the-msi-mpg-a650gf-power-unit/"><u>In-Depth Evaluation & Testing Results for the MSI MPG A650GF Power Unit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gadget-expertise-a-guide-to-cutting-edge-technology-choices/"><u>Inside Tom's Gadget Expertise: A Guide to Cutting-Edge Technology Choices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/mastering-on-screen-labels-and-descriptions-for-video-files-windows-11/"><u>Mastering On-Screen Labels and Descriptions for Video Files (Windows 11)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-digital-landscape-with-toms-hardware-insights/"><u>Navigating the Digital Landscape with Tom's Hardware Insights</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-speak-quick-learn-top-10-simple-language-list/"><u>Quick Speak, Quick Learn: Top 10 Simple Language List</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-cutting-edge-reviews-and-advice/"><u>Tom's Tech Insights: Cutting-Edge Reviews and Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-guides-on-hardware-and-pc-building/"><u>Tom's Tech Insights: In-Depth Guides on Hardware and PC Building</u></a></li>
+</ul></div>
+

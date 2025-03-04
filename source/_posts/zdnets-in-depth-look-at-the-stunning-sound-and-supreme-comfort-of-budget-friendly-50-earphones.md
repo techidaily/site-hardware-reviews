@@ -1,7 +1,7 @@
 ---
 title: ZDNet's In-Depth Look at the Stunning Sound and Supreme Comfort of Budget-Friendly $50 Earphones
-date: 2024-09-19 20:34:15
-updated: 2024-09-20 12:54:44
+date: 2025-02-14T16:16:18.561Z
+updated: 2025-02-15T17:09:06.507Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/topic/headphones/    https://www.zdnet.com/a/im
 ![Baseus Bowie 30 earbuds](https://www.zdnet.com/a/img/resize/a7959c6f93c2d2b4c0e4d70cc62557c99aebe7ee/2024/07/23/709e4f22-310a-4385-a505-0209b92d9010/bowie30hero.jpg?auto=webp&width=1280)
 
 Jack WallenZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -50,6 +54,10 @@ Not only do they have a name that screams "cool," but they are also capable of p
 
 Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## My experience
 
 When I first got the Bowies, I did not install the Basus app. Instead, my Pixel 8 Pro automatically detected the earbuds, and from the "Connected Devices" settings window, I was able to enable/disable Spatial Audio, HD Audio, Phone Calls, and allow access to contacts and call history.
@@ -70,6 +78,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The music
 
 Even though they sounded great up front, I dove into even more music, starting with Mendelssohn's "Midsummer Night's Dream," which is a particular favorite of mine (despite the overused "Wedding March"). I found the entire suite to sound delightful through the Bowie 30s.
@@ -79,6 +91,10 @@ A bit of Chinese Prog Metal, by way of [OU](https://youtu.be/uoKL23zNg7w?si=yo6c
 Concrete Blonde's "Bloodletting," one of my all-time favorite albums, was fantastic. I got lost in "[Caroline](https://youtu.be/wlg91FG9m5Y?si=YdLuDzekJApxRzYW)" enough that it took me right back to grad school in the 90s.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The controls
 
@@ -97,6 +113,10 @@ Does it seem like something is missing here? There's no default action assigned 
 Luckily, you can assign different functions for each earbud, so I left the double-squeeze on the left earbud to pause/play, and double squeeze on the right to skip. Still, the default controls could be better optimized. 
 
 Additionally, the squeeze actions themselves aren't always the easiest to execute. It's fairly easy to do when you're standing still or walking. But running, on the other hand, complicates the process, especially if you're used to simply tapping. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -125,11 +145,27 @@ Additionally, the LED display that shows how much battery remains in the case is
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-10-best-free-image-hosting-sites-never-lost-your-photos/"><u>[New] 10 Best Free Image Hosting Sites [Never Lost Your Photos]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevating-your-vlogs-a-list-of-the-top-12-professional-cameras/"><u>[Updated] In 2024, Elevating Your Vlogs A List of the Top 12 Professional Cameras</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-virtual-voyage-an-in-depth-jaunt-vr-analysis-for-2024/"><u>[Updated] Virtual Voyage An In-Depth Jaunt VR Analysis for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862820338-acer-nitros-stunning-34-inch-curved-screen-qhd-quality-at-unbeatable-200-shop-now-on-newegg/"><u>Acer Nitro's Stunning 34-Inch Curved Screen: QHD Quality at Unbeatable $200 - Shop Now on Newegg!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Detailed guide of ispoofer for pogo installation On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-use-your-switch-pro-controller-on-steam/"><u>How to Use Your Switch Pro Controller on Steam</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oneplus-unveils-new-tech-marvel-the-evolution-beyond-foldable-phones/"><u>OnePlus Unveils New Tech Marvel: The Evolution Beyond Foldable Phones</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-common-roadblocks-with-asana-on-windows-operating-systems/"><u>Overcoming Common Roadblocks with Asana on Windows Operating Systems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/rapid-rendering-of-fortnite-icons-for-2024/"><u>Rapid Rendering of Fortnite Icons for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862808588-shop-the-best-gaming-monitor-of-the-year-for-a-steal-asus-tufs-34-curve-now-at-just-under-250/"><u>Shop the Best Gaming Monitor of The Year for a Steal - ASUS TUF's 34 Curve Now At Just Under $250</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862778698-spectacular-size-and-speed-for-gamers-comprehensive-review-of-the-low-priced-monoprice-crystal-pro-40-inch-screen/"><u>Spectacular Size & Speed for Gamers - Comprehensive Review of the Low-Priced Monoprice Crystal Pro 40-Inch Screen!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862810235-title-master-your-gameplay-on-asus-rog-strix-xg27acs-the-180hz-gaming-marvel-unveiled/"><u>Title: Master Your Gameplay on Asus ROG Strix XG27ACS - The 180Hz Gaming Marvel Unveiled</u></a></li>
+</ul></div>
+

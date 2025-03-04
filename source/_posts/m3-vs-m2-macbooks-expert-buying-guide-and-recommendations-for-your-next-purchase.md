@@ -1,7 +1,7 @@
 ---
 title: "M3 Vs. M2 MacBooks: Expert Buying Guide and Recommendations for Your Next Purchase"
-date: 2025-01-30T17:53:10.810Z
-updated: 2025-02-02T20:21:51.806Z
+date: 2025-02-13T16:22:17.933Z
+updated: 2025-02-15T17:16:04.596Z
 tags:
   - laptops
 categories:
@@ -18,10 +18,6 @@ While gifts are about appreciating our friends and family, there can be a financ
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best laptops Our recommended models for every use case and platform.  Read now](https://www.zdnet.com/article/best-laptop/)
@@ -36,6 +32,10 @@ If you're stuck for ideas regarding laptops suitable to give as gifts, check out
 * [The best cheap tech gifts under $75](https://www.zdnet.com/home-and-office/kitchen-household/best-cheap-tech-gifts-under-75/)
 * [The best cheap tech gifts under $50](https://www.zdnet.com/home-and-office/best-cheap-tech-gifts-under-50/)
 * [The best cheap tech gifts under $25](https://www.zdnet.com/home-and-office/best-cheap-tech-gifts-under-25/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **The best laptop gift ideas**
 
@@ -192,10 +192,6 @@ For added safety, you can go into the laptop's settings and opt for different le
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F224571889&subId1=zd-__COM_CLICK_ID__-dtp)[View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B5VHD8G7%2Fref%3Dasc%5Fdf%5FB0B5VHD8G71728298800000%3Fcreative%3D395261%26creativeASIN%3DB0B5VHD8G7%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4e140282-f8e3-4035-ba80-ff36ee556c58%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **The best laptop deals at Amazon**
 
 Below are other laptop deals ZDNET has found at Amazon.
@@ -220,10 +216,6 @@ Below are other laptop deals ZDNET has found at Walmart.
 
 [Lenovo Ideapad 5i Chromebook for $429 (save $100) $429 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-Ideapad-5i-Chromebook-16-0-WQXGA-Gaming-Laptop-Intel-Core-i3-1215U-8GB-RAM-128GB-eMMC-Storm-Grey-Chrome-OS-82V80009UX-Includes-3-Free-Months-N%2F1867344969%3Fathbdg%3DL1101&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **The best laptop deals at Best Buy**
 
 Below are other laptop deals ZDNET has found at Best Buy. 
@@ -232,6 +224,10 @@ Below are other laptop deals ZDNET has found at Best Buy.
 
 [Dell XPS 15 15.6-inch laptop for $2300 (save $500) $2,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-xps-15-15-6-3-5k-oled-touch-screen-laptop-12th-gen-intel-core-i9-32gb-memory-nvidia-geforce-rtx-3050-ti-1tb-ssd-silver%2F6504382.p%3FskuId%3D6504382&publisher%5Fslug=zdnet&article%5Fname=21%20laptops%20that%20make%20great%20gifts%20in%202023&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-gift%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these laptop gift ideas?
 
 You may need to balance expectations, budget, and the need for new equipment this year due to the economic situation, but we still need PCs for both work and study -- and they certainly come in handy when it comes to keeping ourselves entertained.
@@ -239,7 +235,7 @@ You may need to balance expectations, budget, and the need for new equipment thi
 While choosing these products, we tried to include options to suit a range of budgets while also keeping age ranges and their intended use in mind. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What laptop should I buy?
@@ -252,10 +248,6 @@ Gamers might opt for a larger screen still and higher resolutions, whereas with 
 
 Unless you are a Linux fan, you then need to decide what operating system you are the most comfortable with. The most common options are either Microsoft Windows or Apple macOS. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best laptop for students?
 
 If you plan to make use of the holiday sales to pick up a laptop suitable for a student in the family, or for a friend, it's helpful to know what kind of class or degree they are undertaking. 
@@ -264,11 +256,19 @@ You tend to see many Apple MacBook Airs and Pros around campus, and the majority
 
 However, if the course is creative, things can become a little more complicated, as you will probably want to focus on a screen of at minimum 15.6-inch, at least 16GB RAM, and a high-quality graphics card. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does laptop storage matter?
 
 The amount of storage on offer when you buy a laptop varies. Typically, you can expect storage to range between 128GB and 1/2TB solid-state drive (SSD) storage, although when it comes to Chromebooks, the smaller form facts mean that embedded MultiMediaCard (eMMC) storage is used, reducing capacity drastically.
 
 1TB is usually adequate for apps, software, games, and music. However, in any case, you can purchase portable hard drives to boost your storage space -- and create backups of your valuable data. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best gifts for 2023?
 
@@ -352,18 +352,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/niting-youtube-videos-a-comprehensive-approach/"><u>[New] Uniting YouTube Videos A Comprehensive Approach</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/antecs-p20c-high-airflow-chassis-now-at-a-steal-unbeatable-71-deal-on-top-tier-cases/"><u>Antec's P20C High-Airflow Chassis Now at a Steal: Unbeatable $71 Deal on Top-Tier Cases</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-strategies-to-address-and-solve-steams-server-connection-problems/"><u>Effective Strategies to Address and Solve Steam's Server Connection Problems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-hardware-with-tom-insightful-guides-for-savvy-shoppers/"><u>Exploring Computer Hardware with Tom: Insightful Guides for Savvy Shoppers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-with-toms-in-depth-reviews-and-buying-guides/"><u>Exploring Hardware with Tom's: In-Depth Reviews & Buying Guides</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-ensure-compatibility-with-updated-epson-xp-640-drivers-in-windows-environments/"><u>How to Ensure Compatibility with Updated Epson XP-640 Drivers in Windows Environments</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-redmi-note-13-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi Redmi Note 13 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-11-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 11 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gaming-rigs-with-the-durable-high-capacity-cooler-master-ncore-100-max-standalone-chassis/"><u>Mastering Gaming Rigs with the Durable, High-Capacity Cooler Master NCore 100 Max Standalone Chassis</u></a></li>
-<li><a href="https://win-updates.techidaily.com/persistent-app-crashes-discover-the-solutions-with-yl-computings-expert-advice/"><u>Persistent App Crashes? Discover the Solutions with YL Computing's Expert Advice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneer-in-pc-analysis-unlocking-performance-with-toms-gear-reviews/"><u>Pioneer in PC Analysis - Unlocking Performance with Tom's Gear Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-choices-for-tiny-tower-tech-expert-recommendations-on-slim-case-selections/"><u>Top Choices for Tiny Tower Tech : Expert Recommendations on Slim Case Selections</u></a></li>
-<li><a href="https://win-help.techidaily.com/1728481975618-usb-4/"><u>USB 不良デバイス発見: 「フォーマットできない」エラー対策4コツ</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-transform-your-drive-must-have-accessories-for-sj4000-owners/"><u>[New] 2024 Approved Transform Your Drive Must-Have Accessories for SJ4000 Owners</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-securely-installing-apple-podcasts-episodes/"><u>[New] Securely Installing Apple Podcasts Episodes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-secretive-suggestions-for-enhanced-vlc-usage/"><u>[Updated] Secretive Suggestions for Enhanced VLC Usage</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-computer-systems-decoded-the-toms-hardware-expose/"><u>Advanced Computer Systems Decoded: The Tom's Hardware Exposé</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-compelling-short-videos-for-youtube-a-top-10-list-for-2024/"><u>Crafting Compelling Short Videos for YouTube - A Top 10 List for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-digital-tips-and-reviews-from-toms-tech-zone/"><u>Dive Into Digital: Tips and Reviews From Tom's Tech Zone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/einfach-einrichten-vss-backup-prozesse-erklart-und-implementiert/"><u>Einfach Einrichten: VSS-Backup-Prozesse Erklärt Und Implementiert</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/elevate-gameplay-memories-overwatchs-recording-hacks/"><u>Elevate Gameplay Memories - Overwatch's Recording Hacks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-hardware-by-tom-your-trusted-guide/"><u>Expert Analysis of Hardware by Tom - Your Trusted Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-evaluation-of-valkyrie-syn-series-2n40-liquid-cooler-excellent-performance-marred-by-clunky-software-experience/"><u>Expert Evaluation of Valkyrie Syn Series 2N40 Liquid Cooler: Excellent Performance Marred by Clunky Software Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-reviews/"><u>Exploring Gadgets with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-infinix-gt-10-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Infinix GT 10 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y17s-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo Y17s Phone without Any Data Loss</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-knowledge-through-toms-hardware-reviews/"><u>Mastering Tech Knowledge Through Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-pcs-and-peripherals-with-toms-hardware-guides/"><u>Navigating the Latest in PCs & Peripherals with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-evolution-of-elegance-and-power-exploring-the-dell-xps-13-9345-equipped-with-snapdragon-x-elite-processor/"><u>The Evolution of Elegance and Power - Exploring the Dell XPS 13 (9345) Equipped with Snapdragon X Elite Processor</u></a></li>
 </ul></div>
 

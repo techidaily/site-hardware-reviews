@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Look at the Chic Sound Accessories - 'Nothing' Ear Sticks for a Fashion-Forward Listeners'
-date: 2024-09-18 17:42:49
-updated: 2024-09-20 10:26:54
+date: 2025-02-11T16:12:03.709Z
+updated: 2025-02-15T17:03:35.091Z
 tags:
   - headphones
 categories:
@@ -52,6 +52,10 @@ While case design seems to be the earbuds' most obvious draw, Nothing promises t
 | Durability    | IP54 dust and water resistant                                                                                                             |
 | Price         | [$99](https://us.nothing.tech/products/ear-stick) USD                                                                                     |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Nothing makes a case for tech-chic
 
 Many would argue that wireless earbuds have become as much of a staple as lipstick. In that regard, Nothing's play on earbuds and lipsticks here is charming. I'll be honest, though, the clear, cylindrical charging case, with the red accent at the top, looks more like my ProAir RespiClick inhaler than, say, Revlon lipstick. But unlike my inhaler, the Ear Stick's red top has a USB-C charging port embedded in the top. 
@@ -86,6 +90,10 @@ Nothing says this design helps the earbuds go unnoticed in your ears, even after
 
 My ZDNET colleague, Emery Wright, shared a similar sentiment, saying that she'd rather play it safe with her "[archaic AirPods](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fapple-airpods-true-wireless-bluetooth-headphones-2nd-generation-with-charging-case%2F-%2FA-54191097&publisher_slug=itechdaily19598&exclusive=1)" than try and fit the wider buds into her ears.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Earbuds, but make it fashion
 
 Just as you wouldn't wear Gucci sneakers on a treadmill because they're _technically_ tennis shoes, I wouldn't choose these earbuds as an exercise companion. The Ear Stick works best when you're sitting and relaxing. Anything more and they _will_ fall out -- I've tried.
@@ -93,6 +101,10 @@ Just as you wouldn't wear Gucci sneakers on a treadmill because they're _technic
 The actual buds themselves look different than most on the market, with a larger surface area to fit.
 
 Christina Darby/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Does sound quality stick the landing?  
 
@@ -120,6 +132,10 @@ The Ear Stick fits perfectly with the Nothing Phone 1 aesthetic.
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Mic quality
 
 I use earbuds mostly as a microphone/speaker duo to make calls while walking through New York City. So, I was disappointed that Nothing's clear voice and filtering technology didn't live up to the marketing lingo. I spent most of my phone calls shouting into my phone's speaker for my mom to tell me it sounded like a whisper. So, if you're looking for streetwear earbuds, these have the look, but not quite the right sound filter. 
@@ -139,6 +155,10 @@ I'm impressed with the practicality of the gesture controls, but I have to chann
 **Review:** [**Do sleeping earbuds actually work? I tested the latest on the market**](https://www.zdnet.com/article/soundcore-sleep-a10-earbuds-review/)
 
 [Nothing Ear Stick $99 at Nothing](https://www.awin1.com/cread.php?awinmid=48011&awinaffid=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fus.nothing.tech%2Fproducts%2Fear-stick)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom Line
 
@@ -175,11 +195,29 @@ Besides the Nothing Ear Stick, here are three other wireless earbuds that you sh
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-mastering-slow-motion-a-guide-to-photo-editing-tools-for-2024/"><u>[New] Mastering Slow-Motion A Guide to Photo Editing Tools for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-explore-top-8-zero-cost-3d-vids-plugins-for-windows-and-mac-os/"><u>[Updated] 2024 Approved Explore Top 8 Zero-Cost 3D Vids Plugins For Windows & Mac OS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-how-to-edit-youtube-videos/"><u>2024 Approved How To Edit YouTube Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/anycubic-kobra-3-reviewed-setting-new-standards-in-multicolored-3d-printing-innovation/"><u>Anycubic Kobra 3 Reviewed: Setting New Standards in Multicolored 3D Printing Innovation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/can-the-asus-rog-keris-ii-ace-outdo-the-deathadder-v3-pro-an-expert-comparison-and-review/"><u>Can the Asus ROG Keris II Ace Outdo the DeathAdder V3 Pro? An Expert Comparison and Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-pny-rp60s-1tb-solid-state-drive-fairly-competent-but-lacks-distinction/"><u>Comprehensive Analysis of PNY RP60's 1TB Solid-State Drive: Fairly Competent but Lacks Distinction</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-value-in-nvme-cooling-with-our-comprehensive-review-of-the-uphere-m201-heatsink-for-under-5/"><u>Discover the Best Value in NVMe Cooling with Our Comprehensive Review of the UpHere M201 Heatsink for Under $5</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-electronics-with-toms-technology-insights-comprehensive-guides-and-reviews/"><u>Exploring Electronics with Tom's Technology Insights: Comprehensive Guides & Reviews</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/forefront-ai-or-chatgpt-exploring-differences-and-benefits/"><u>Forefront AI or ChatGPT? Exploring Differences and Benefits</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-level-gaming-visual-experience-with-the-27-black-oled-display-by-dough-spectrum-review-and-evaluation/"><u>Next-Level Gaming Visual Experience with the 27 Black OLED Display by Dough Spectrum - Review & Evaluation</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ering-methods-to-develop-a-memorable-youtube-introduction/"><u>Pioneering Methods to Develop a Memorable YouTube Introduction</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-best-in-timekeeping-a-thorough-assessment-of-philips-somneo-models/"><u>The Best in Timekeeping: A Thorough Assessment of Philips Somneo Models</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-perfect-way-to-add-linktree-to-tiktok-bio-for-2024/"><u>The Perfect Way to Add Linktree to TikTok Bio for 2024</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/troubleshooting-inadequate-driver-installation-expert-advice-by-yl-software-team/"><u>Troubleshooting Inadequate Driver Installation - Expert Advice by YL Software Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-gear-the-comprehensive-toms-hardware-analysis/"><u>Unveiling Top Gear: The Comprehensive Tom's Hardware Analysis</u></a></li>
+</ul></div>
+

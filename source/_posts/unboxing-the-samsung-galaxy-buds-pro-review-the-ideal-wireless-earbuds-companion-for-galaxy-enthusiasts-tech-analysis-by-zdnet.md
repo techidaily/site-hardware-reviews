@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the Samsung Galaxy Buds ² Pro Review: The Ideal Wireless Earbuds Companion for Galaxy Enthusiasts | Tech Analysis by ZDNet"
-date: 2024-09-18 15:18:49
-updated: 2024-09-20 11:44:35
+date: 2025-02-14T16:02:46.872Z
+updated: 2025-02-15T16:35:47.515Z
 tags:
   - headphones
 categories:
@@ -33,6 +33,10 @@ Earlier this month [Samsung announced a handful of new devices](https://www.zdne
 
 For the past week, I've been using them as much as I could, listening to music and watching a few YouTube videos on a Z Flip 4\. Thus far, the Buds 2 Pro are delivering on the promise of high-end wireless earbuds, with one exception. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Microphones                | 3 in each earbud                                                    |
@@ -45,6 +49,10 @@ For the past week, I've been using them as much as I could, listening to music a
 | Colors                     | Bora Purple, Graphite, White                                        |
 | Water and sweat resistance | IPX7                                                                |
 | Price                      | $229                                                                |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Comfort is key 
 
@@ -63,6 +71,10 @@ Jason Cipriani/ZDNet
 The Buds 2 Pro have all of the staple features that now come with the Pro nomenclature for wireless earbuds. That means quick pairing, active noise cancellation (ANC) to block out background noise and some form of ambient or transparency mode that lets in background noise. All of those features work as expected, and are on par with the AirPods Pro or Pixel Buds Pro. 
 
 The ANC is strong enough to block out my very loud mechanical keyboard and office air conditioner when it's running, and made a huge difference when walking through an airport and during the flight. ANC wasn't strong enough to block out the constant hum of the planes' engines, but I couldn't hear the captain's announcements or the flight attendant asking me what I wanted to drink. Ambient mode lets a lot of sound through, but I found it was really only useful if I turned down the music volume nearly all the way. Otherwise I couldn't hear what was being said during announcements, for example. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -91,6 +103,10 @@ The charging case does replenish the earbuds in a quick manner, so I was only wi
 
 Jason Cipriani/ZDNet
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## I got automatic switching to work, but...
 
 One benefit of using the Galaxy Buds 2 Pro with a Galaxy phone, tablet, computer and even a Samsung smart TV is that you can easily switch between devices without having to pair and re-repair the earbuds when you switch devices. All you need to do is start playing something on a different Samsung device and the earbuds will switch, instantly. The caveat here is that you have to be signed in to both devices with the same Samsung account. 
@@ -114,6 +130,10 @@ For anyone who has multiple devices made by multiple companies, it's a cumbersom
 To be fair, Apple's [AirPods Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fairpods-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) (and the rest of the AirPods lineup) work in a similar fashion when in use with non-Apple devices. However, automatic switching between Apple devices is seamless. 
 
 [Buy the Galaxy Buds 2 Pro View now at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fmobile%2Faudio%2Fheadphones%2Fgalaxy-buds2-pro-bora-purple-sm-r510nlvaxar%2F&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottom line  
 
@@ -145,11 +165,26 @@ After a lot internal of back and forth, I think the Galaxy Buds 2 Pro are the be
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-cut-to-the-chase-techniques-for-tightening-youtube-content/"><u>[New] 2024 Approved Cut to the Chase Techniques for Tightening YouTube Content</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-mastering-sound-and-filter-integration-in-windows-10-photos-app/"><u>2024 Approved Mastering Sound & Filter Integration in Windows 10 Photos App</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-smart-7-hd-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Smart 7 HD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-how-the-pineboards-hatdrive-revolutionizes-cost-and-speed-for-your-raspberry-pi-storage-solutions/"><u>Discover How the Pineboards HatDrive Revolutionizes Cost & Speed for Your Raspberry Pi Storage Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-f15-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy F15 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-year-end-visualizations-mind-bending-youtube-figures-and-trends/"><u>In 2024, Year-End Visualizations Mind Bending Youtube Figures and Trends</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-elegoo-saturn-4-ultra-transforming-the-landscape-of-resin-printing/"><u>In-Depth Analysis of the Elegoo Saturn 4 Ultra: Transforming the Landscape of Resin Printing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lian-li-hydroshift-lcd-360s-a-breakthrough-in-computer-tubing-design-reviewed/"><u>Lian Li Hydroshift LCD 360S: A Breakthrough in Computer Tubing Design Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-steam-service-errors-on-windows-11/"><u>Resolving Steam Service Errors on Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-of-the-line-heat-management-the-powerful-teamgroup-t-force-dark-airflow-i-cooler-evaluated/"><u>Top of the Line Heat Management: The Powerful TeamGroup T-Force Dark AirFlow I Cooler Evaluated</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-fixing-hp-display-driver-glitches-for-windows-os-versions-1087/"><u>Troubleshooting and Fixing HP Display Driver Glitches for Windows OS Versions (10/8/7)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-pros-and-cons-of-hostinger-hosting-solutions-vps-cloud-and-shared-hosting-explored/"><u>Unveiling the Pros and Cons of Hostinger Hosting Solutions: VPS, Cloud & Shared Hosting Explored</u></a></li>
+</ul></div>
+

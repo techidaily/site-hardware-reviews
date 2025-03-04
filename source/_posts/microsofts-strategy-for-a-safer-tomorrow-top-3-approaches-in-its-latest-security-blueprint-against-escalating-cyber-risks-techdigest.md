@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Strategy for a Safer Tomorrow: Top 3 Approaches in Its Latest Security Blueprint Against Escalating Cyber Risks | TechDigest"
-date: 2024-09-19 10:14:30
-updated: 2024-09-20 11:37:46
+date: 2025-02-12T17:14:40.686Z
+updated: 2025-02-15T16:53:34.590Z
 tags:
   - cyber-threats
 categories:
@@ -37,6 +37,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. AI-based cyber defense
 
 The AI-based Cyber Defense pillar refers to Microsoft's commitment to leveraging its global network of data centers and advanced foundation AI models to build an AI-based cyber shield that customers and countries can use as protection against cyber attacks.
@@ -55,6 +59,10 @@ An example is [Microsoft's Security Copilot](https://www.zdnet.com/article/micro
 
 Lastly, Microsoft reassures users that the implementation of these AI services will be done in accordance with the company's [Responsible AI principles](https://www.zdnet.com/article/microsoft-commits-to-supporting-customers-on-their-responsible-ai-journeys/) to ensure that the proper security safeguards are in place. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. New engineering advances 
 
 According to Microsoft, another key aspect of a secure future includes advances in software engineering, including advancing the way Microsoft builds, designs, tests, and operates its technology. 
@@ -70,6 +78,10 @@ In light of identity-based threats such as password attacks increasing tenfold i
 **Also: [What is the dark web? Here's everything to know before you access it](https://www.zdnet.com/article/what-is-the-dark-web-heres-everything-to-know-before-you-access-it/)**
 
 Lastly, Microsoft plans to cut the time to mitigate cloud vulnerabilities by 50% and ensure more transparent reporting by Microsoft regarding cloud platforms. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Stronger application of international norms 
 
@@ -106,11 +118,26 @@ Microsoft also calls for governments to foster greater accountability for nation
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-the-ultimate-guide-to-ios-gif-tools-for-iphones/"><u>[New] The Ultimate Guide to iOS GIF Tools for iPhones</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweeted-timelines-a-complete-guide-to-video-backups/"><u>[New] Tweeted Timelines A Complete Guide to Video Backups</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-hassle-free-flv-to-dvd-conversion-a-gratis-guide/"><u>1. Hassle-Free Flv to DVD Conversion: A Gratis Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oppo-find-x7-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-to-openais-gpt-series-differences-between-each-generation-from-gpt-1-to-gpt-4/"><u>A Comprehensive Guide to OpenAI's GPT Series: Differences Between Each Generation From GPT-1 to GPT-4</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-new-dawn-of-computing-with-intels-bean-canyon-nucs-superior-speed-and-throttled-tdp/"><u>Discover the New Dawn of Computing with Intel's Bean Canyon NUCs - Superior Speed & Throttled TDP!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-ready-join-the-exciting-foldinghome-challenge-launching-next-week/"><u>Get Ready: Join the Exciting Folding@Home Challenge Launching Next Week</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-s24plus-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy S24+ Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-voice-over-secrets-boost-your-audio-game/"><u>New Final Cut Pro Voice Over Secrets Boost Your Audio Game</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pc-sales-surge-anticipate-an-8-rise-by-2024-the-comeback-of-the-personal-computer-industry/"><u>PC Sales Surge: Anticipate an 8% Rise by 2024 – The Comeback of the Personal Computer Industry</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-latest-hardware/"><u>Tom's Tech Reviews: Expert Insights on Latest Hardware</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/your-ultimate-source-for-online-video-to-mp3-downloads-for-2024/"><u>Your Ultimate Source for Online Video to MP3 Downloads for 2024</u></a></li>
+</ul></div>
+

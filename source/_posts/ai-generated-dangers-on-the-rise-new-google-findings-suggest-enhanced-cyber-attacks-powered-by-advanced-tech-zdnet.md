@@ -1,7 +1,7 @@
 ---
 title: "AI-Generated Dangers on the Rise: New Google Findings Suggest Enhanced Cyber Attacks Powered by Advanced Tech | ZDNet"
-date: 2024-09-18 18:52:23
-updated: 2024-09-20 11:45:48
+date: 2025-02-11T16:35:25.516Z
+updated: 2025-02-15T17:03:09.101Z
 tags:
   - cyber-threats
 categories:
@@ -82,11 +82,29 @@ Some use cases of generative AI for defenders include leveraging it to synthesiz
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-quick-and-easy-the-top-ten-for-youtube-mpeg-transformation-for-2024/"><u>[New] Quick and Easy The Top Ten for YouTube MPEG Transformation for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-exclusive-guide-top-5-streamlined-recording-software/"><u>[Updated] 2024 Approved Exclusive Guide Top 5 Streamlined Recording Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-hdplex-atx-power-supply-fits-in-the-palm-of-your-hand/"><u>Compact HDPLex ATX Power Supply Fits in the Palm of Your Hand</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-gigabyte-ud750gm-psu-performance-test/"><u>Comprehensive Evaluation: Gigabyte UD750GM PSU Performance Test</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-computer-hardware-by-toms-expertise/"><u>Comprehensive Guide to Computer Hardware by Tom's Expertise</u></a></li>
+<li><a href="https://fox-search.techidaily.com/essential-strategies-mastering-the-move-from-hardware-to-virtual-environment/"><u>Essential Strategies: Mastering the Move From Hardware to Virtual Environment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/next-gen-computing-on-a-budget-exclusive-chinese-startup-offers-developer-friendly-risc-v-laptops-for-just-300/"><u>Next-Gen Computing on a Budget: Exclusive Chinese Startup Offers Developer-Friendly RISC-V Laptops for Just 300$</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reliable-file-guardian-macs-restoration-mastery/"><u>Reliable File Guardian: Mac's Restoration Mastery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-elite-laser-cutter-models/"><u>The Ultimate Selection: Elite Laser Cutter Models</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-the-comprehensive-guide-by-toms-hardware/"><u>Unveiling the Latest in Computing: The Comprehensive Guide by Tom’s Hardware</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/windows-11-new-features-at-a-glance/"><u>Windows 11 New Features at a Glance</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Limits of Instagram Reliability: Insights From ZDNet"
-date: 2024-09-19 13:32:15
-updated: 2024-09-20 10:28:35
+date: 2025-02-13T17:02:01.213Z
+updated: 2025-02-15T16:45:36.034Z
 tags:
   - cyber-threats
 categories:
@@ -20,6 +20,10 @@ About once a day I get a message from someone asking for my help with restoring 
 I wish I did, but I don't. 
 
 Instagram hasn't done one blessed thing to [fix my hacked account](https://www.zdnet.com/article/my-instagram-account-was-hacked-and-two-factor-authentication-didnt-help/). Six weeks into this, and neither Instagram tech support -- if there even is such a department -- nor public relations have said a word to me. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -40,6 +44,10 @@ The attacks are increasing. Eva Velasquez, Identity Theft Resource Center's CEO,
 Yet Instagram has remained silent about this trend. 
 
 What can you do? First, dump Instagram. It doesn't matter how popular it is if you can't count on it. Other services and apps offer similar features, including [Flickr](https://www.flickr.com/), with its emphasis on high-end photos; [Imgur](https://imgur.com/), another photographic-centric service; [Pinterest](https://www.pinterest.com/), an image-oriented social network; and [Retrica](https://retrica.co/), another photo-oriented service with many filters. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Social Media
 
@@ -89,11 +97,30 @@ Instagram simply isn't trustworthy.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-awesome-igtv-channels-that-deliver-quality-content/"><u>[New] 2024 Approved Awesome IGTV Channels That Deliver Quality Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-art-of-effective-online-engagement-on-fb/"><u>[New] In 2024, The Art of Effective Online Engagement on FB</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-visual-storytelling-instaslides/"><u>[Updated] In 2024, Visual Storytelling InstaSlides</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/advancing-digital-campaigns-through-intelligent-tracking-by-cookiebot/"><u>Advancing Digital Campaigns Through Intelligent Tracking by Cookiebot</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964494295-catch-the-steal-of-a-lifetime-premium-corsairs-1000w-small-form-factor-psu-at-an-unbeatable-price/"><u>Catch the Steal of a Lifetime - Premium Corsair's 1000W Small Form Factor PSU at an Unbeatable Price!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-audio-visual-experience-with-youtube-music-insertion/"><u>Enhancing Audio-Visual Experience with YouTube Music Insertion</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/leading-apps-for-dji-video-manipulation-and-mixing-for-2024/"><u>Leading Apps for DJi Video Manipulation and Mixing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-network-errors-in-windows-11-os/"><u>Navigating Through Network Errors in Windows 11 OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reimagining-household-management-through-gpt-innovation/"><u>Reimagining Household Management Through GPT Innovation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964493696-the-ingenious-phanteks-revolt-psu-say-goodbye-to-excessive-cable-clutter/"><u>The Ingenious Phanteks Revolt PSU - Say Goodbye to Excessive Cable Clutter</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-hardware-innovations/"><u>Tom's Tech Review: Expert Insights on Hardware Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-from-toms-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-and-expert-advice-on-latest-gadgets/"><u>Tom's Tech Reviews: In-Depth Analysis and Expert Advice on Latest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-gadget-analysis-t17239718750361/"><u>Tom's Tech Reviews: In-Depth Gadget Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/two-models-of-cyberpower-uninterruptible-power-supplies-linked-to-potential-fire-danger-by-consumers/"><u>Two Models of CyberPower Uninterruptible Power Supplies Linked to Potential Fire Danger by Consumers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976614762-update-your-hp-scanjet-printer-drivers-on-windows-1087-free-download/"><u>Update Your [HP Scanjet Printer Drivers] on Windows 10/8/7 - Free Download</u></a></li>
+</ul></div>
+

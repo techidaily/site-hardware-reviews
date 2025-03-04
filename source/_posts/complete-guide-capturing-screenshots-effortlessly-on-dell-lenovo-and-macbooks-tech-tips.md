@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Capturing Screenshots Effortlessly on Dell, Lenovo & MacBooks | Tech Tips"
-date: 2025-01-28T02:20:41.914Z
-updated: 2025-02-02T17:57:31.770Z
+date: 2025-02-14T17:00:49.681Z
+updated: 2025-02-15T17:20:11.716Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to take screenshots on any laptop
@@ -35,10 +35,6 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Screenshotting on Windows-based laptops
 
@@ -68,10 +64,6 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
@@ -100,10 +92,14 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Is there an easy way to record video of my laptop screen too?
@@ -111,12 +107,16 @@ Michael Gariffo/ZDNET
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,24 +157,17 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-snapshot-sharpening-affinitys-bg-exclusion/"><u>[New] 2024 Approved Snapshot Sharpening - Affinity's Bg Exclusion</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-time-travelers-guide-to-youtube-queue-watch-from-end-to-start-for-2024/"><u>[New] A Time Traveler’s Guide to YouTube Queue Watch From End to Start for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-best-online-no-download-gif-conversion-services-reviewed/"><u>[Updated] Best Online No-Download GIF Conversion Services Reviewed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-top-10-heavy-lift-drones-you-should-know/"><u>2024 Approved Top 10 Heavy Lift Drones You Should Know</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-computing-tips-from-the-pioneers-at-toms-hardware/"><u>Advanced Computing Tips From the Pioneers at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-34-curved-asus-tuf-display-now-just-249-on-amazon-gamers-deal/"><u>Affordable 34 Curved ASUS TUF Display Now Just $249 on Amazon – Gamer's Deal!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862838482-amazons-game-changer-34qhd-lg-ultragear-monitor-with-elite-g-sync-now-at-unbeatable-price-of-549/"><u>Amazon's Game Changer: 34QHD LG Ultragear Monitor with Elite G-Sync, Now at Unbeatable Price of $549!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-12-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 12 Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862817375-experience-unparalleled-gaming-with-dell-s3222dgm-now-at-an-amazing-price-only-229/"><u>Experience Unparalleled Gaming with Dell S3222DGM: Now at an Amazing Price - Only $229!</u></a></li>
-<li><a href="https://article-tips.techidaily.com/from-rookie-to-veteran-10-must-have-cinema-cameras-for-2024/"><u>From Rookie to Veteran 10 Must-Have Cinema Cameras for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721267307020-get-your-lost-photos-back-top-rated-iphone-data-rescue-tool-available/"><u>Get Your Lost Photos Back: Top-Rated iPhone Data Rescue Tool Available!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-itel-p55plus-screen-sharing-drfone-by-drfone-android/"><u>How To Do Itel P55+ Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Infinix GT 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-v29-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo V29 Pro to Protect Your Individual Information</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862799252-landing-a-bargain-enjoy-yourself-with-a-giant-high-definition-samsung-49-oled-screen-for-less-than-youd-think/"><u>Landing a Bargain: Enjoy Yourself with a Giant, High-Definition Samsung 49 OLED Screen for Less Than You'd Think</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862841548-level-up-your-game-with-our-top-pick-dell-s3222dgm-gaming-display-now-at-an-all-time-low-grab-it-for-229/"><u>Level Up Your Game with Our Top-Pick Dell S3222DGM Gaming Display Now at an All-Time Low - Grab It for $229!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862838906-score-big-savings-with-a-sharp-fast-paced-gaming-screen-acer-nitro-27-for-under-150/"><u>Score Big Savings with a Sharp, Fast-Paced Gaming Screen – Acer Nitro 27 for Under $150!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862820475-score-the-best-deal-on-a-high-quality-gaming-screen-get-the-sceptre-24-inch-curved-monitor-at-just-79/"><u>Score the Best Deal on a High-Quality Gaming Screen - Get the Sceptre 24 Inch Curved Monitor at Just $79</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862835548-upgrade-to-a-sharp-27-display-get-the-built-in-webcam-and-pixel-dense-viewfinity-tech-with-samsungs-s9-monitor-for-899-discounted-by-44/"><u>Upgrade to a Sharp 27 Display - Get the Built-In Webcam & Pixel-Dense Viewfinity Tech with Samsung's S9 Monitor for $899, Discounted by 44%!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-easy-efficient-and-essential-top-23-tools-to-downgrade-youtube-audios/"><u>[New] 2024 Approved Easy, Efficient, and Essential Top 23 Tools to Downgrade YouTube Audios</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/l-builder-kit/"><u>B-Roll Builder Kit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/competing-with-giants-can-an-open-source-replacement-challenge-googles-photo-dominance/"><u>Competing with Giants: Can an Open Source Replacement Challenge Google's Photo Dominance?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/disabling-mobile-notifications-a-step-by-step-guide/"><u>Disabling Mobile Notifications: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/disastrous-moments-in-tech-the-top-seven-failures-on-tv-and-online/"><u>Disastrous Moments in Tech: The Top Seven Failures on TV and Online</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/effective-ways-to-prevent-unwanted-android-pop-up-notifications/"><u>Effective Ways to Prevent Unwanted Android Pop-Up Notifications</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elite-10-sound-enhancers-across-os-platforms/"><u>Elite 10 Sound Enhancers Across OS Platforms</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhanced-accessibility-real-time-transcription-feature-added-to-pixel-smartphone-calls/"><u>Enhanced Accessibility: Real-Time Transcription Feature Added to Pixel Smartphone Calls</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-display-sync-with-revived-freesync-features/"><u>Improving Display Sync with Revived FreeSync Features</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-differences-ipad-air-versus-ipad-pro-making-the-right-pick/"><u>Navigating the Differences: IPad Air versus iPad Pro – Making the Right Pick</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/war-thunder-high-speed-mastery-the-ultimate-guide-to-fixing-low-fps-issues-top-2024-solutions/"><u>War Thunder High-Speed Mastery: The Ultimate Guide to Fixing Low FPS Issues (Top 2024 Solutions)</u></a></li>
 </ul></div>
 

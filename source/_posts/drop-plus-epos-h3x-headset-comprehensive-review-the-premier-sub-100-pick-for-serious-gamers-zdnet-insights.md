@@ -1,7 +1,7 @@
 ---
 title: "Drop + Epos H3X Headset Comprehensive Review: The Premier Sub-$100 Pick for Serious Gamers | ZDNET Insights"
-date: 2024-09-19 18:30:55
-updated: 2024-09-20 10:47:53
+date: 2025-02-09T16:54:42.917Z
+updated: 2025-02-15T16:37:08.299Z
 tags:
   - headphones
 categories:
@@ -32,6 +32,10 @@ Online retailer Drop and Epos, a company formed by the former gaming division of
 If you're in the sub-$100 budget range, the H3X outstrips any other headset I've tried.
 
 Their new entry, the H3X, looks a bit more like recent EPOS headsets, with that multi-jointed, futuristic aesthetic they tend toward. More importantly, it retains a remarkable amount of the DNA of its more expensive cousin, closely mirroring how it feels, performs, and sounds. Let's go in-depth with what I believe just became the best headset you can buy for under $100.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -68,6 +72,10 @@ The cheaper build quality shows most in the volume knob, which feels both looser
 
 As I said, the construction more than lives up to its $80 price tag, just don't expect it to beat it. There is, however, one weird exception to this: the cables, which we'll discuss in the next section. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Features and accessories
 
 The mic arm doesn't really have much flex to it, but the pickup is sensitive enough that it works great wherever you put it.
@@ -90,6 +98,10 @@ The device includes two detachable cables. One terminates in a discrete headphon
 
 The single pair of pre-installed earcups are a hybrid leatherette/suede layout, with the suede part being what contacts your ears and head. This design dig a great job of providing the excellent sound seal and passive isolation of leather-like materials, while also preventing the heat retention and sweating it can induce by keeping it from actually contacting your skin. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Sound quality 
 
 The volume knob (left) doesn't feel great, but it's still very useful.
@@ -108,6 +120,10 @@ This isn't to say you can't enjoy the full range of sound effects, movies, and m
 
 [Drop + Epos H3X Gaming Headset $79 at Drop](https://massdrop.7eer.net/c/159047/252901/4148?&sharedId=zdnet&u=https%3A%2F%2Fdrop.com%2Fbuy%2Fdrop-epos-h3x-gaming-headset%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line 
 
 I concluded my PC38X review by saying that "Just buy it already" could have been my entire review. The sentiment applies here as well. 
@@ -115,6 +131,10 @@ I concluded my PC38X review by saying that "Just buy it already" could have been
 If you can [squeeze the PC38X into your budget](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPC38X-Noise-Cancelling-Microphone-Compatible-Black%2Fdp%2FB09Q7SZHKG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9c07fda0-9ed2-4b03-9a88-e24ad7cbf021%7Cdtp&dtb=1), I would still wholeheartedly recommend that to anyone that can afford it, as well as to those who can afford far more expensive models as well. But, if you're more in the sub-$100 budget range, the H3X outstrips any other headset I've tried. In fact, if the PC38X didn't exist, I'd be recommending this as the best wired model for under $150\. 
 
 As things stand, it's still my top recommendation for anyone from young gamers getting their first setup to crusty veterans who just want a great, cheap headset that will absolutely give them a tactical advantage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider 
 
@@ -157,11 +177,26 @@ If you want the closest thing to the sound this headset can produce, but still d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-easy-steps-to-record-with-your-macbooks-camera/"><u>[New] In 2024, Easy Steps to Record with Your MacBook's Camera</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-gopro-comparison-max-360-vs-hero-11-performance-for-2024/"><u>[New] Ultimate GoPro Comparison Max 360 vs Hero 11 Performance for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-guide-to-capturing-google-voice-chats/"><u>[Updated] Guide to Capturing Google Voice Chats</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-vids-for-cash-a-compreomed-analysis-of-monetization-plays/"><u>2024 Approved Vids for Cash A Compreomed Analysis of Monetization Plays</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-electronics-with-toms-wisdom/"><u>Exploring the World of Electronics with Tom's Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-maxsun-terminator-z790m-d5-ice-motherboard-analysis-featuring-5-m2-slots-and-ultrawhite-design/"><u>In-Depth Maxsun Terminator Z790M D5 Ice Motherboard Analysis – Featuring 5 M.2 Slots & Ultrawhite Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-horizons-in-computing-a-look-at-toms-hardware-discoveries/"><u>Navigating New Horizons in Computing - A Look at Tom's Hardware Discoveries</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-circuitry-maze-with-toms-hardware-wisdom/"><u>Navigating the Circuitry Maze with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-frame-rate-issues-and-lags-for-a-smooth-gameplay-experience-on-resident-evil-village-pc/"><u>Resolving Frame Rate Issues & Lags for a Smooth Gameplay Experience on Resident Evil Village (PC)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-how-to-fix-star-wars-jedi-fallen-order-pc-game-freezes-and-crashes/"><u>Solved! How to Fix 'Star Wars Jedi: Fallen Order' PC Game Freezes and Crashes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-walkthrough-for-combining-gpt-3-with-python-programming/"><u>The Ultimate Walkthrough for Combining GPT-3 with Python Programming</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncovering-the-potential-of-the-latest-geekworm-x1/"><u>Uncovering the Potential of the Latest GeekWorm X1</u></a></li>
+</ul></div>
+

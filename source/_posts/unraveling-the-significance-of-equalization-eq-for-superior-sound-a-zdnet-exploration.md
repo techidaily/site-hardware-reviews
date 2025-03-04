@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Significance of Equalization (EQ) for Superior Sound - A ZDNet Exploration
-date: 2024-09-18 15:40:20
-updated: 2024-09-20 12:35:37
+date: 2025-02-12T16:50:25.461Z
+updated: 2025-02-15T16:55:45.527Z
 tags:
   - headphones
 categories:
@@ -24,6 +24,10 @@ You don't see a lot of physical equalizers these days, which is sad because they
 For those who didn't spend their youth trying to tweak every knob and button on a stereo rack to get the best sound possible from their speakers, you might be wondering, "What is this EQ of which he speaks?"
 
 Let me explain.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's the frequency…
 
@@ -65,6 +69,10 @@ Now, we're talking.
 
 I've used 32-band equalizers and you can imagine how much time I've spent tweaking those. In larger EQs sound is typically broken down into low, low/mid, high/mid, and high. Every EQ is different but they all do the same thing… raise or lower specific frequencies to change the overall sound produced by a device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why use EQ?
 
 Let's say you just purchased a pair of earbuds and out of the box they sound cheap. Usually, cheap headphones and earbuds share similar sonic palettes - little bass, overamped mids, and dull highs. You've heard them before; everyone has. 
@@ -78,6 +86,10 @@ That's where EQ can come in handy. Many Bluetooth earbuds suggest you download a
 Make it a nice sloping curve down to the mids and a rising curve to the highs. Now, play your favorite song and see how those inexpensive earbuds sound now. Vast improvement, right?
 
 You might also find the app has a few presets to choose from, which are often categorized into music genres. As you might expect, the sound of different musical genres is improved by adjusting certain frequencies. For example, if metal is your jam, you'll want to boost lows and highs but be careful about bumping up mid/lows, otherwise, the sound will get muddy. If you listen to a lot of podcasts, you'll want to boost the mids, because the human voice is front and center. Classical music tends to benefit from a fairly flat EQ when listened through headphones or earbuds but can really come alive with some added bass and highs when listening through speakers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## EQ is a personal matter
 
@@ -110,11 +122,33 @@ Any chance I can get to improve the sound I hear, I'll take it. If that means us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-from-separation-to-synergy-unite-obs-with-zoom/"><u>[Updated] 2024 Approved From Separation to Synergy Unite OBS with Zoom</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-getting-started-with-snapchats-new-spotlight/"><u>[Updated] Getting Started with Snapchat's New Spotlight</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-recmaster-screen-recorder-review-2023-for-2024/"><u>[Updated] Recmaster Screen Recorder Review 2023 for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-get-modern-warfare-running-again/"><u>Fixing the Issue: How to Get Modern Warfare Running Again</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-like-never-before-with-nextorages-new-ultra-rapid-handheld-ssd-drive-at-7400mbs-speeds/"><u>Game Like Never Before with Nextorage's New Ultra-Rapid Handheld SSD Drive at 7,400MB/S Speeds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hardware-highlights-with-tom-cutting-edge-gadget-reviews-and-comparisons/"><u>Hardware Highlights with Tom: Cutting-Edge Gadget Reviews and Comparisons</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-gadget-reviews-by-technology-expert-toms-domain/"><u>Innovative Gadget Reviews by Technology Expert, Tom's Domain</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-circuitry-expert-advice-on-tech-equipment-with-tom/"><u>Inside the Circuitry: Expert Advice on Tech Equipment with Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/intel-announces-termination-of-200-series-optane-memory-dimms-final-shipments-slated-for-end-of-2025/"><u>Intel Announces Termination of 200-Series Optane Memory DIMMs; Final Shipments Slated for End of 2025</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/kioxias-cutting-edge-optical-ssds-deliver-blistering-speeds-and-unprecedented-distance-capabilities-up-to-40-meters-away-from-the-processor/"><u>Kioxia's Cutting-Edge Optical SSDs Deliver Blistering Speeds and Unprecedented Distance Capabilities: Up to 40 Meters Away From the Processor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-tom-insights-into-advanced-technology/"><u>Navigating the World of Gadgets with Tom - Insights Into Advanced Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-expertise/"><u>Navigating the World of Gadgets with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-review/"><u>Navigating the World of Gadgets with Tom's Hardware Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-your-device-why-you-shouldnt-download-google-bard-its-malicious/"><u>Protect Your Device: Why You Shouldn't Download Google Bard (It's Malicious)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/revolutionize-your-snapchat-experience-a-compendium-of-over-120-innovative-story-titles-for-2024/"><u>Revolutionize Your Snapchat Experience A Compendium of Over 120 Innovative Story Titles for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/samsung-magician-treiber-nicht-unterstutzt-losung-fur-das-nicht-erkannte-laufwerk/"><u>Samsung Magician-Treiber Nicht Unterstützt: Lösung Für Das Nicht Erkannte Laufwerk</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlocking-visual-potential-the-power-of-lut-transformations/"><u>Unlocking Visual Potential The Power of LUT Transformations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-dvd-burning-made-easy-convert-videos-to-dvd-on-windows-and-mac/"><u>Updated DVD Burning Made Easy Convert Videos to DVD on Windows and Mac</u></a></li>
+</ul></div>
+

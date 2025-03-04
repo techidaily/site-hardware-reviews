@@ -1,7 +1,7 @@
 ---
 title: Discover Why This Lenovo Laptop Captivates Tech Savvy Users with Its Exceptional Duo Features | Exclusive Review by ZDNET
-date: 2025-01-28T01:56:31.267Z
-updated: 2025-02-03T04:15:55.706Z
+date: 2025-02-14T16:10:18.834Z
+updated: 2025-02-15T17:18:46.319Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,17 +134,24 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-outro-crafting-made-easy-the-best-free-guide-top-6/"><u>[New] 2024 Approved Outro Crafting Made Easy - The Best Free Guide (Top 6)</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-streamlining-content-delivery-on-discord-platform/"><u>[New] 2024 Approved Streamlining Content Delivery on Discord Platform</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-from-youtube-to-tiktok-and-now-vimeo-gifs/"><u>[New] From YouTube to TikTok, and Now Vimeo-Gifs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-laughter-ledger-ranking-the-highest-viral-jokes-for-2024/"><u>[Updated] Laughter Ledger Ranking the Highest Viral Jokes for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-taming-the-obs-timeline-glitches/"><u>[Updated] Taming the OBS Timeline Glitches</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-youtubes-top-unboxing-houses-and-their-fanbase/"><u>[Updated] YouTube’s Top Unboxing Houses and Their Fanbase</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-intelligent-features-of-android-systems/"><u>Exploring the Intelligent Features of Android Systems</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-12-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 12</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-pc-hardware-with-toms-authoritative-articles/"><u>Navigating the Latest PC Hardware with Tom's Authoritative Articles</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-wisdom/"><u>Navigating the World of Technology with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/next-level-gameplay-a-comprehensive-review-of-the-alienware-aw2n5df-360hz-gaming-monitor-with-breathtaking-oled-technology/"><u>Next-Level Gameplay: A Comprehensive Review of the Alienware AW2n5DF 360Hz Gaming Monitor with Breathtaking OLED Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-gadget-analysis-with-toms-hardware-experts/"><u>Pioneering Gadget Analysis with Tom's Hardware Experts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-capture-and-compose-best-writing-apps-for-photos-iosandroid/"><u>[New] In 2024, Capture and Compose Best Writing Apps for Photos (iOS/Android)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-for-optimal-spotify-ad-reach-and-engagement/"><u>[New] Strategies for Optimal Spotify Ad Reach and Engagement</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-easy-steps-to-securely-record-your-virtual-gatherings-with-google/"><u>[Updated] Easy Steps to Securely Record Your Virtual Gatherings with Google</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-profitable-content-creation-on-youtube-through-smart-adsense-use/"><u>[Updated] Profitable Content Creation on YouTube Through Smart AdSense Use</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-free-mp3s-galore-10-no-cost-online-tools/"><u>2024 Approved Free Mp3s Galore 10 No-Cost Online Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-rankings-leading-gopro-case-models/"><u>2024 Approved The Ultimate Rankings Leading GoPro Case Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-online-privacy-discover-top-performing-vpns-with-in-depth-reviews-and-polls/"><u>Ace Your Online Privacy: Discover Top-Performing VPNs With In-Depth Reviews & Polls</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-master-your-youtube-banner-essential-guide-for-creators/"><u>In 2024, Master Your YouTube Banner Essential Guide for Creators</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Methods to Change GPS Location On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revealing-concealed-techniques-discover-the-eight-best-approaches-to-charge-your-smartphone-wirelessly/"><u>Revealing Concealed Techniques: Discover the Eight Best Approaches to Charge Your Smartphone Wirelessly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/samsung-pay-vs-google-pay-a-comprehensive-comparison-for-smart-consumers/"><u>Samsung Pay vs Google Pay: A Comprehensive Comparison for Smart Consumers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seamless-power-sharing-using-an-iphone-magsafe-charger-on-your-android-smartphone/"><u>Seamless Power Sharing: Using an iPhone MagSafe Charger on Your Android Smartphone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/simple-steps-to-modify-and-authenticate-your-pdfs-using-android/"><u>Simple Steps to Modify and Authenticate Your PDFs Using Android</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-of-the-curve-understanding-samsung-galaxys-update-longevity-forecast/"><u>Stay Ahead of the Curve: Understanding Samsung Galaxy's Update Longevity Forecast</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/streamline-your-messaging-experience-by-organizing-telegram-chats-into-folders-dont-make-my-mistake/"><u>Streamline Your Messaging Experience by Organizing Telegram Chats Into Folders - Don't Make My Mistake!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-basics-of-capturing-switch-gaming-moments/"><u>The Basics of Capturing Switch Gaming Moments</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-great-shift-embracing-a-smartphone-era-for-superior-accessibility-and-functionality/"><u>The Great Shift: Embracing a Smartphone Era for Superior Accessibility and Functionality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-15-best-looking-android-games-a-match-for-console-quality/"><u>Top 15 Best-Looking Android Games: A Match for Console Quality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transparent-brilliance-unveiled-the-second-look-at-the-nothing-phone/"><u>Transparent Brilliance Unveiled: The Second Look at the Nothing Phone</u></a></li>
 </ul></div>
 

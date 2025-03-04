@@ -1,7 +1,7 @@
 ---
 title: "Huge Cyber Monday Savings: Save 77%% on Lenovo ThinkPad L14 Gen 3 - Limited Time Offer!"
-date: 2025-02-01T04:51:48.475Z
-updated: 2025-02-02T16:47:44.618Z
+date: 2025-02-09T16:45:11.651Z
+updated: 2025-02-15T16:35:44.441Z
 tags:
   - laptops
 categories:
@@ -56,7 +56,7 @@ If you're at all familiar with the previous ThinkPad X1 computers, you'll notice
 Another consequence of the limited space is the lack of ports. You have four inputs in total: two Thunderbolt 4 ports, an 3.5mm headphone/mic combo, and a slot for a Nano SIM, although the last one is optional. It's as barebones as you can get. To be honest, I am pleasantly surprised that there is a headphone jack. With how simple the [third-generation ThinkPad X1 Nano](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-nano-gen-3-%2813-inch-intel%29%2Flen101t0054&publisher_slug=itechdaily19598&exclusive=1) is, I was a little shocked it made the cut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -97,14 +97,21 @@ Prices [start at $1,043](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-express-yourself-accessibility-available-for-free/"><u>2024 Approved Express Yourself, Accessibility Available for Free</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-guides-by-tom-the-definitive-source/"><u>Advanced Hardware Guides by Tom - The Definitive Source</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-34-curved-asus-tuf-gaming-display-for-only-249-on-amazon/"><u>Affordable 34 Curved ASUS TUF Gaming Display for Only $249 on Amazon!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/aocs-new-premium-ultrawide-monitor-240hz-oled-technology-at-just-1399/"><u>AOC's New Premium Ultrawide Monitor - 240Hz OLED Technology at Just $1,399!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asrock-unveils-innovative-duo-of-27-1440p-ips-displays-feature-extra-built-in-wireless-antenna/"><u>ASROCK Unveils Innovative Duo of 27 1440P IPS Displays: Feature Extra - Built-In Wireless Antenna</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-comparing-standard-and-hdr-screens-the-case-for-aurora/"><u>In 2024, Comparing Standard and HDR Screens The Case for Aurora</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oneplus-nord-ce-3-lite-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from OnePlus Nord CE 3 Lite 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/protecting-your-privacy-a-curated-list-of-cam-covers/"><u>Protecting Your Privacy A Curated List of Cam Covers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-6-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 6 Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-preventing-non-bootable-state-due-to-software-issue/"><u>[FIXED] Preventing Non-Bootable State Due to Software Issue</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-leading-edge-the-top-10-mobile-video-chat-platforms/"><u>[New] 2024 Approved Leading Edge The Top 10 Mobile Video Chat Platforms</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-choosing-between-gopro-max-and-hero-11-top-cameras-compared/"><u>2024 Approved Choosing Between GoPro Max and Hero 11 Top Cameras Compared</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-stepwise-methods-for-captivating-collage-compositions/"><u>2024 Approved Stepwise Methods for Captivating Collage Compositions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparing-top-ereader-gadgets-your-go-to-guide-s-best-picks/"><u>Comparing Top eReader Gadgets: Your Go-To Guide 'S Best Picks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-switchbot-remote-overview-does-it-truly-merge-all-your-needs/"><u>Comprehensive SwitchBot Remote Overview: Does It Truly Merge All Your Needs?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-revolutionary-compact-tracker-by-nomad-a-credit-card-sized-solution-for-precise-location-tracking/"><u>Discover the Revolutionary Compact Tracker by Nomad – A Credit Card-Sized Solution for Precise Location Tracking</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embrace-the-future-of-safety-swap-out-your-old-ring-doorbell-today/"><u>Embrace the Future of Safety - Swap Out Your Old Ring Doorbell Today!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhanced-artificial-intelligence-performance-with-intels-ultra-pc-the-new-era-of-optimized-model-integration/"><u>Enhanced Artificial Intelligence Performance with Intel's Ultra PC: The New Era of Optimized Model Integration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-guide-the-best-solar-lantern-for-adventurous-outdoor-excursions-and-sudden-energy-losses/"><u>Essential Guide: The Best Solar Lantern for Adventurous Outdoor Excursions & Sudden Energy Losses</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-top-7-inquiries-for-purchasing-your-next-smart-home-gadget/"><u>Essential Top 7 Inquiries for Purchasing Your Next Smart Home Gadget</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-assortment-of-video-capturing-technology/"><u>In 2024, Assortment of Video Capturing Technology</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/pcs-premier-ps3-clones-2023-edition-for-2024/"><u>PC's Premier PS3 Clones - 2023 Edition for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/shrink-large-screen-on-windows-10/"><u>Shrink Large Screen on Windows 10</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-an-insightful-guide-to-determining-best-practices-for-audio-format-selection/"><u>Updated 2024 Approved An Insightful Guide to Determining Best Practices for Audio Format Selection</u></a></li>
 </ul></div>
 

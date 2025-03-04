@@ -1,7 +1,7 @@
 ---
 title: "Exploring Zen Air SXFI Earbuds: Outstanding Acoustics vs Creative App Drawback | Review on ZDNET"
-date: 2024-09-18 13:12:16
-updated: 2024-09-20 12:56:53
+date: 2025-02-13T17:05:39.199Z
+updated: 2025-02-15T17:00:29.933Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/29d02750ad0cb057d82cf1dca19da27d5429074e0
 ![Describe what's shown in the image.](https://www.zdnet.com/a/img/resize/64eedbea462ff0c2e566f2666eda6f0a89652310/2024/08/13/953eada5-2248-40a9-b81d-7d0a32b4c037/zenairhero.jpg?auto=webp&width=1280)
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -34,6 +38,10 @@ Now, from what I understand (based on a discussion I had with a gentleman who pr
 I'll speak to that more in a bit. In the meantime…
 
 [ZDNET RECOMMENDS Creative Zen Air SXFI earbuds As long as you're not connecting these earbuds to a Pixel phone, you'll find the sound to be stunning. Also, the comfort and battery life will give you all-day listening pleasure. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCreative-Lightweight-Wireless-Cancellation-Bluetooth%2Fdp%2FB0D7VL2SG6%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C73a7d589-7f7d-4c35-ae0a-3969adb30a4f%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The specs
 
@@ -58,6 +66,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## My experience
 
@@ -87,6 +99,10 @@ Speaking of sound, when I was able to use the Creative App, I tweaked the EQ of 
 
 If only I could get enough volume through my Pixel 8 Pro, I could see myself grabbing these earbuds before any other. Although they may not equal the near-perfect sound of the Denon PerL Pro earbuds, the combination of beautiful, smooth sound and the comfort make these babies a real winner.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 It all boils down to the phone (or other device) you plan on using with the Zen Airs. If you have a Pixel phone, avoid these (and other Creative earbuds) like the plague. If, however, your device works with these earbuds, you'll love them. Hopefully, in future updates to the Creative app and the Zen Air firmware, Creative will solve the connectivity issues. Until then, these earbuds will be relegated to the one Android tablet that I could connect to.
@@ -114,11 +130,33 @@ Fortunately, you can purchase these on [Amazon](https://buy.geni.us/Proxy.ashx?T
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-the-secrets-to-steering-clear-of-vr-sickness/"><u>[New] The Secrets to Steering Clear of VR Sickness</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ears-biggest-beauty-influencers-on-youtube/"><u>[New] Year's Biggest Beauty Influencers on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-metrics-of-mastery-assessing-luminances-hdr-capabilities/"><u>[Updated] The Metrics of Mastery Assessing Luminance's HDR Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-hostgators-virtual-private-server-and-sharing-plans/"><u>Comprehensive Analysis: HostGator's Virtual Private Server & Sharing Plans</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-electronics-evaluations-from-toms-circuitry-hub/"><u>Comprehensive Electronics Evaluations From Tom's Circuitry Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/damage-to-central-venous-lines/"><u>Damage to Central Venous Lines</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-top-rated-karaoke-equipment-buyers-guide-and-reviews/"><u>Discover the Top-Rated Karaoke Equipment : Buyer's Guide & Reviews</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-unit-transformation-techniques-with-microsoft-excel-tutorials/"><u>Effortless Unit Transformation Techniques with Microsoft Excel Tutorials</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-pc-performance-collaborate-seamlessly-with-winxdvd/"><u>Enhance PC Performance: Collaborate Seamlessly with WinXDVD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gadgetry-a-deep-dive-into-cutting-edge-electronics/"><u>Inside Tom's Gadgetry: A Deep Dive Into Cutting-Edge Electronics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/performance-evaluation-unveiling-the-power-of-asus-zenbook-s16s-amd-ryzen-ryzen-ai-nine-hx-370-cpu/"><u>Performance Evaluation: Unveiling the Power of Asus Zenbook S16's AMD Ryzen RYZEN AI Nine HX 370 CPU</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/performance-insights-on-pimoronis-nvme-based-dual-storage-solution-a-thorough-evaluation/"><u>Performance Insights on Pimoroni's NVMe-Based Dual Storage Solution: A Thorough Evaluation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quick-tutorial-converting-dvf-tracks-into-mp3s-in-3-easy-methods/"><u>Quick Tutorial: Converting DVF Tracks Into MP3s in 3 Easy Methods</u></a></li>
+<li><a href="https://win-web.techidaily.com/solution-guide-for-no-internet-connection-issues-according-to-yl-software-experts/"><u>Solution Guide for No Internet Connection Issues, According to YL Software Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-pimoroni-nvme-base-duo-solid-state-drive/"><u>The Ultimate Guide to the Pimoroni NVMe Base Duo Solid State Drive</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-pc-components-toms-hardware/"><u>The Ultimate Resource for PC Components: Tom's Hardware</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-tech-picks-of-2024-showdown-apple-vs-dell-and-competitors-featured-on-zdnet/"><u>Top Tech Picks of 2024 Showdown: Apple Vs. Dell & Competitors Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-hardware-mysteries-your-trusted-source-toms-hardware/"><u>Unveiling Hardware Mysteries: Your Trusted Source, Tom's Hardware</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-zte-axon-40-lite-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For ZTE Axon 40 Lite Phones</u></a></li>
+</ul></div>
+

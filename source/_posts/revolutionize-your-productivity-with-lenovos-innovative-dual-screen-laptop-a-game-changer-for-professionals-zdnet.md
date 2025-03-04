@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Productivity with Lenovo's Innovative Dual-Screen Laptop - A Game Changer for Professionals | ZDNet
-date: 2025-01-31T00:32:25.806Z
-updated: 2025-02-03T01:43:59.215Z
+date: 2025-02-13T16:06:53.441Z
+updated: 2025-02-15T17:03:01.160Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -57,10 +57,6 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2bb27470-3aa9-4b54-b4b3-9b78eddc5a5f%7Cdtp&dtb=1) |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -83,7 +79,7 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -106,6 +102,10 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Evaluating Lenovo's dual-screen software
 
 With such unique hardware, Lenovo had to build unique software for Windows 11 so that it behaves properly and gives you extra functionality.
@@ -127,7 +127,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -141,7 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -182,14 +182,24 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-reviews.techidaily.com/ddr5-pushes-past-limits-achieving-9058mhz-overclock-on-amds-ryzen-7000-series-using-new-firmware/"><u>DDR5 Pushes Past Limits: Achieving 9058MHz Overclock on AMD's Ryzen 7000 Series Using New Firmware</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-reality-beyond-exploring-vrs-contemporary-state-and-implications/"><u>In 2024, Reality Beyond Exploring VR's Contemporary State and Implications</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-step-by-step-guide-to-compliant-twitter-media-posts/"><u>In 2024, Step-by-Step Guide to Compliant Twitter Media Posts</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-leap-forward-fastest-to-learn-global-languages/"><u>Language Leap Forward: Fastest-to-Learn Global Languages</u></a></li>
-<li><a href="https://techtrends.techidaily.com/qled-vs-oled-tv-showdown-understanding-key-features-and-performance/"><u>QLED Vs. OLED TV Showdown: Understanding Key Features and Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/tech-insights-by-tom-exploring-advanced-computer-and-electronics-equipment/"><u>Tech Insights by Tom: Exploring Advanced Computer and Electronics Equipment</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/thrilling-breakthrough-in-pc-performance-ddr5-memory-hit-9058mhz-with-ryzen-clockwork-latest-bios-update-secrets-revealed/"><u>Thrilling Breakthrough in PC Performance: DDR5 Memory Hit 9058MHz with Ryzen Clockwork - Latest BIOS Update Secrets Revealed!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-gear-your-ultimate-guide-to-high-performance-components/"><u>Tom's Tech Gear: Your Ultimate Guide to High-Performance Components</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1728462329548-windows-1110/"><u>Windows 11系統影像回復不成功？使用以下10個方法來解決問題</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-christian-ringtone-guide-selection-tips-for-2024/"><u>[Updated] Christian Ringtone Guide – Selection Tips for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-discover-the-art-of-sound-modification-in-free-fire-expert-tips-and-tricks-no-charge/"><u>[Updated] In 2024, Discover the Art of Sound Modification in Free Fire Expert Tips and Tricks (No Charge!)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-whats-the-price-tag-for-1m-youtube-sights/"><u>[Updated] In 2024, What's the Price Tag for 1M YouTube Sights?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-prime-video-editors-for-youtube-enthusiasts/"><u>[Updated] Prime Video Editors for YouTube Enthusiasts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-advancing-beyond-vp9-a-look-at-av1/"><u>2024 Approved Advancing Beyond VP9 A Look at AV1</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/are-we-impressed-the-full-on-evaluation-of-inshot-app-for-2024/"><u>Are We Impressed? The Full-On Evaluation of InShot App for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/building-on-a-budget-an-in-depth-look-at-the-cytrn-maker-uno-rp2040-board-for-hobbyists/"><u>Building on a Budget: An In-Depth Look at the Cytrn Maker Uno RP2040 Board for Hobbyists</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-the-ultimate-guide-to-electronics-hardware/"><u>Expert Reviews by Tom: The Ultimate Guide to Electronics Hardware</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-whos-watching-your-guide-to-instagram-eye-rolls-count/"><u>In 2024, Who's Watching? Your Guide to Instagram Eye-Rolls Count</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-lian-lis-revolutionary-hydroshift-lcd-groovy-surround-gaming-tower-review/"><u>Inside Look at Lian Li's Revolutionary Hydroshift LCD Groovy Surround Gaming Tower Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-pc-building-insights-from-toms-hardware-expertise/"><u>Mastering PC Building: Insights From Tom’s Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computing-tips-from-toms-hardware-experts/"><u>Navigating the World of Computing: Tips From Tom’s Hardware Experts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/professional-video-finishing-touches-device-based-filters/"><u>Professional Video Finishing Touches Device-Based Filters</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/showcasing-spectacular-color-accuracy-and-contrast-with-the-gigabyte-aorus-oled-gaming-screen/"><u>Showcasing Spectacular Color Accuracy and Contrast with the Gigabyte Aorus OLED Gaming Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-computer-and-electronics-gear-toms-insights/"><u>The Ultimate Resource for Computer and Electronics Gear: Tom’s Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-gear/"><u>Tom's Tech Hub: The Ultimate Guide to Computer Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-insights-from-toms-hardware/"><u>Tom's Tech Review: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/form-your-content-strategy-with-tubebuddy/"><u>Transform Your Content Strategy with TubeBuddy</u></a></li>
 </ul></div>
 

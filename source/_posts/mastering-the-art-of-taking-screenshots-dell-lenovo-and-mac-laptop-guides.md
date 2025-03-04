@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Taking Screenshots: Dell, Lenovo & Mac Laptop Guides"
-date: 2025-01-28T03:14:22.899Z
-updated: 2025-02-02T17:02:24.125Z
+date: 2025-02-08T16:07:47.399Z
+updated: 2025-02-15T16:15:40.066Z
 tags:
   - laptops
 categories:
@@ -26,10 +26,14 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to take screenshots on any laptop
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements
@@ -41,10 +45,6 @@ You'll need your laptop and, in some cases, basic image editing software. The en
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
 ### **Option 1: The old fashioned way**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
 
@@ -71,7 +71,7 @@ Michael Gariffo/ZDNET
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
@@ -85,10 +85,6 @@ The main difference in using Windows+Shift+S is that windows won't automatically
 The Windows 11 version of the basic Snipping Tool menu and its icon.
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Screenshotting on Macs
 
@@ -104,15 +100,19 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What's a good, free image editing software to use on my screenshots?
 
@@ -157,15 +157,20 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-facebook-video-extractor-mp3-format-support/"><u>[New] Facebook Video Extractor – MP3 Format Support</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-from-manga-to-screen-applying-snapchats-anime-filter/"><u>[Updated] In 2024, From Manga to Screen Applying Snapchat's Anime Filter</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-smoothscreensaver-lightweight-recording-tool/"><u>2024 Approved SmoothScreenSaver Lightweight Recording Tool</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/efficiency-exploration-4-creative-uses-of-chatgpt-for-time-planning/"><u>Efficiency Exploration: 4 Creative Uses of ChatGPT for Time Planning</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964475970-get-the-ultimate-cooling-with-lian-lis-lancool-iii-for-only-119-the-best-deal-on-pc-gear-today/"><u>Get the Ultimate Cooling with Lian Li's Lancool III for Only $119 – The Best Deal on PC Gear Today</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-electronics-hub-unveiling-cutting-edge-computer-gear-and-accessories/"><u>Inside Tom's Electronics Hub: Unveiling Cutting-Edge Computer Gear and Accessories</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-the-new-deepcool-mini-itx-pc-chassis-equipped-with-a-convenient-handling-loop-and-extensive-ventilation/"><u>Introducing the New DeepCool Mini-ITX PC Chassis: Equipped with a Convenient Handling Loop and Extensive Ventilation</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/revealing-reasons-why-no-videos-pop-up-on-fb-feed/"><u>Revealing Reasons Why No Videos Pop Up on FB Feed?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-portable-literature-how-the-kobo-clara-hd-enhances-your-reading-experience-on-the-go/"><u>The Ultimate Guide to Portable Literature: How the Kobo Clara HD Enhances Your Reading Experience on the Go</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964476216-unbeatable-deal-the-phanteks-eclipse-g360a-your-top-choice-for-an-affordable-pc-case-at-just-59/"><u>Unbeatable Deal: The Phanteks Eclipse G360A, Your Top Choice for an Affordable PC Case at Just $59!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-grandest-video-humor-studio/"><u>[New] Grandest Video Humor Studio</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-craft-a-vibrant-youtube-experience-with-tracks/"><u>[New] In 2024, Craft a Vibrant Youtube Experience with Tracks</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-essential-strategies-for-viewing-your-subscribers/"><u>[Updated] Essential Strategies for Viewing Your Subscribers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1-complete-guide-to-screen-capture-techniques-mastering-the-basics/"><u>1. Complete Guide to Screen Capture Techniques - Mastering the Basics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/approach/"><u>Approach:</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-computer-tech-evaluations-by-toms-hardware-experts/"><u>Comprehensive Computer Tech Evaluations by Tom's Hardware Experts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-fodt-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signatures for .fodt file</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-realme-c33-2023-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Realme C33 2023 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-f34-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://discover-great.techidaily.com/mastering-power-management-with-yl-software-step-by-step-setup-instructions/"><u>Mastering Power Management with YL Software: Step-by-Step Setup Instructions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-frontiers-toms-hardware-evaluations-and-reviews/"><u>Navigating New Tech Frontiers: Tom's Hardware Evaluations and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-tech-a-tour-of-toms-hardware-corner/"><u>Navigating the Latest Tech: A Tour of Tom's Hardware Corner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-gadgets-by-toms-hardware-experts/"><u>The Ultimate Guide to Gadgets by Tom's Hardware Experts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-potential-in-depth-review-of-highpoints-rocket-1608a-card-upgraded-storage-superior-power/"><u>Unveiling the Potential: In-Depth Review of HighPoint's Rocket 1608A Card - Upgraded Storage, Superior Power</u></a></li>
 </ul></div>
 

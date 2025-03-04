@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Snag Lenovo's Flex 지난에 $99 Deal Before Cyber Monday Chaos"
-date: 2025-01-28T20:08:06.286Z
-updated: 2025-02-03T01:42:49.823Z
+date: 2025-02-10T17:13:18.308Z
+updated: 2025-02-15T16:24:10.567Z
 tags:
   - laptops
 categories:
@@ -24,7 +24,7 @@ The model on offer here runs on Intel's 11th-generation [Core i7-11850H](https:/
 **Also:** [**Best Black Friday laptop deals 2022**](https://www.zdnet.com/article/black-friday-laptop-deals-november-23-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -67,14 +67,20 @@ At $1,699 -- 53% off Lenovo's list price -- the [ThinkPad X1 Extreme](https://bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/2024-approved-accelerate-artistry-in-windows-11-photoshop/"><u>2024 Approved Accelerate Artistry in Windows 11 Photoshop</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-laughs-in-layout-designer/"><u>Best Laughs in Layout Designer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/identifying-ipads-equipped-with-internal-navigation-systems/"><u>Identifying iPads Equipped with Internal Navigation Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Oppo A59 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-valorant-graphics-driver-failure-swiftly-and-easily/"><u>Resolve Valorant Graphics Driver Failure Swiftly and Easily</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/samsung-discovery-sale-unbeatable-deal-on-the-top-ultrawide-displays-save-600-now/"><u>Samsung Discovery Sale: Unbeatable Deal on the Top Ultrawide Displays - Save $600 Now!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/satechi-dual-purpose-qi2-charger-unveiled-compact-and-versatile-wireless-power-solution-for-modern-gadgets/"><u>Satechi Dual-Purpose Qi2 Charger Unveiled: Compact and Versatile Wireless Power Solution for Modern Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/score-the-best-with-savings-must-have-headphones-offered-exclusively-during-prime-day/"><u>Score the Best with Savings! Must-Have Headphones Offered Exclusively During Prime Day</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-future-of-display-technology-how-qdel-screens-surpass-oled-limitations/"><u>The Future of Display Technology: How QDEL Screens Surpass OLED Limitations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-discover-how-to-watch-dvds-without-costing-a-penny/"><u>[New] Discover How to Watch DVDs Without Costing a Penny</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-enhance-visibility-essential-youtube-seo-strategies-revealed/"><u>[New] In 2024, Enhance Visibility Essential YouTube SEO Strategies Revealed</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-yearly-compilation-of-exciting-yt-unboxing-clips/"><u>[New] Yearly Compilation of Exciting YT Unboxing Clips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-hardware-insights-by-toms-review/"><u>Comprehensive Hardware Insights by Tom's Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deep-dive-into-new-pc-builds-features-benchmarks-and-analysis-by-experts-at-toms-hardware-the-gadget-guide/"><u>Deep Dive Into New PC Builds: Features, Benchmarks, and Analysis by Experts at Tom's Hardware | The Gadget Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/greatest-selection-of-legacy-films-get-them-for-free-from-trending-online-platforms/"><u>Greatest Selection of Legacy Films - Get Them for Free From Trending Online Platforms!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-xiaomi-redmi-k70e-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Xiaomi Redmi K70E Device SIM</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviewing-sovol-sv08-the-fast-and-nimble-homage-to-voron-series/"><u>Reviewing Sovol SV08: The Fast and Nimble Homage to Voron Series</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/revolutionize-your-music-mixes-using-smart-volume-adjustment-in-pcdj-software/"><u>Revolutionize Your Music Mixes Using Smart Volume Adjustment in PCDJ Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-best-value-ssd-pineboards-hatdrive-nano-unleashed-for-raspberry-pi-5pi-4-users/"><u>The Best Value SSD: Pineboard's HatDrive! Nano Unleashed for Raspberry Pi 5/Pi 4 Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341754179-under-budget-breeze-masters-check-out-our-review-of-upheres-c5c-and-d6sec-coolers/"><u>Under-Budget Breeze Masters? Check Out Our Review of UpHere's C5C and D6Sec Coolers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-with-toms-technology-hub/"><u>Unveiling the Latest in Hardware with Tom's Technology Hub</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-effortless-gopro-video-editing-a-step-by-step-guide-for-2024/"><u>Updated Effortless GoPro Video Editing A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/zen-5-revolution-unveiling-the-power-of-amds-ryzen-5-9600x-and-ryzen-pressing-7-9700x/"><u>Zen 5 Revolution: Unveiling the Power of AMD's Ryzen 5 9600X & Ryzen Pressing 7 9700X</u></a></li>
 </ul></div>
 

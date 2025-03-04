@@ -1,7 +1,7 @@
 ---
 title: ZDNet's In-Depth Review of the Drop eSports H3X Headset – Top Budget Pick for Gamers!
-date: 2024-09-19 19:34:45
-updated: 2024-09-20 11:13:58
+date: 2025-02-08T17:09:53.532Z
+updated: 2025-02-15T17:13:08.774Z
 tags:
   - headphones
 categories:
@@ -33,6 +33,10 @@ If you're in the sub-$100 budget range, the H3X outstrips any other headset I've
 
 Their new entry, the H3X, looks a bit more like recent EPOS headsets, with that multi-jointed, futuristic aesthetic they tend toward. More importantly, it retains a remarkable amount of the DNA of its more expensive cousin, closely mirroring how it feels, performs, and sounds. Let's go in-depth with what I believe just became the best headset you can buy for under $100.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Form factor                   | Closed-back, wired, over-ear                                |
@@ -45,6 +49,10 @@ Their new entry, the H3X, looks a bit more like recent EPOS headsets, with that 
 | Earcup material               | Hybrid suede and leatherette                                |
 | On-device controls            | Mic mute, volume                                            |
 | Weight                        | 9.5 oz (without cable) \| 10.2 oz (with cable)              |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Build and fit
 
@@ -68,6 +76,10 @@ The cheaper build quality shows most in the volume knob, which feels both looser
 
 As I said, the construction more than lives up to its $80 price tag, just don't expect it to beat it. There is, however, one weird exception to this: the cables, which we'll discuss in the next section. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Features and accessories
 
 The mic arm doesn't really have much flex to it, but the pickup is sensitive enough that it works great wherever you put it.
@@ -90,6 +102,10 @@ The device includes two detachable cables. One terminates in a discrete headphon
 
 The single pair of pre-installed earcups are a hybrid leatherette/suede layout, with the suede part being what contacts your ears and head. This design dig a great job of providing the excellent sound seal and passive isolation of leather-like materials, while also preventing the heat retention and sweating it can induce by keeping it from actually contacting your skin. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Sound quality 
 
 The volume knob (left) doesn't feel great, but it's still very useful.
@@ -107,6 +123,10 @@ As you'd expect, the above priorities for its sound profile mean it emphasizes h
 This isn't to say you can't enjoy the full range of sound effects, movies, and music with the H3X. Just expect to do a bit of equalizer tweaking to help the headset counteract its very minor deficits for music or soundtracks. With a bit of tinkering, the H3X can provide enjoyable sound for just about anything. It just needs that tiny bit of extra help.
 
 [Drop + Epos H3X Gaming Headset $79 at Drop](https://massdrop.7eer.net/c/159047/252901/4148?&sharedId=zdnet&u=https%3A%2F%2Fdrop.com%2Fbuy%2Fdrop-epos-h3x-gaming-headset%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom line 
 
@@ -157,11 +177,27 @@ If you want the closest thing to the sound this headset can produce, but still d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-downloading-youtube-srt-a-step-by-step-threefold-approach-for-2024/"><u>[New] Downloading YouTube SRT A Step-by-Step, Threefold Approach for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-pictopeekles-easy-memes-with-a-twist/"><u>[Updated] 2024 Approved PictoPeekles Easy Memes with a Twist</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-innovative-setup-essentials-for-game-streaming/"><u>[Updated] Innovative Setup Essentials for Game Streaming</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cultivating-global-understanding-pathways-to-successful-communication/"><u>Cultivating Global Understanding: Pathways to Successful Communication</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/elite-15-high-definition-action-recorders/"><u>Elite 15 High-Definition Action Recorders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/los-top-12-reproductores-y-grabadores-de-video-4k-sin-coste-para-computadora-o-mac/"><u>Los Top 12 Reproductores Y Grabadores De Video 4K Sin Coste Para Computadora O Mac</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/rise-in-rankings-14-high-impact-gaming-videos-for-youtube/"><u>Rise in Rankings 14 High-Impact Gaming Videos for YouTube</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-buyers-guide-to-the-best-gaming-laptops-real-world-benchmarks-and-evaluations/"><u>Ultimate Buyer's Guide to the Best Gaming Laptops : Real-World Benchmarks and Evaluations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-toms-hardware-reviews/"><u>Unveiling the Latest in Computing - Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-tips-from-tom/"><u>Unveiling the Latest in Computing: Tips From Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-toms-techpicks/"><u>Unveiling the Latest in Computing: Tom's TechPicks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-tech-toms-pioneering-hardware-guides-and-analysis/"><u>Unveiling the Latest in Tech: Tom's Pioneering Hardware Guides and Analysis</u></a></li>
+<li><a href="https://article-posts.techidaily.com/whatsapps-sonic-status-boost/"><u>WhatsApp's Sonic Status Boost</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Choosing Gym-Friendly Earbuds: In-Depth Analysis | WIRED"
-date: 2024-09-19 14:22:48
-updated: 2024-09-20 10:23:32
+date: 2025-02-08T16:41:31.931Z
+updated: 2025-02-15T16:02:57.155Z
 tags:
   - headphones
 categories:
@@ -16,6 +16,10 @@ Listening to music or a podcast may make your workout feel like it's going by fa
 ZDNET and our team of exercise and headphone enthusiasts have done most of the figurative and literal heavy lifting by testing out our favorite earbuds and headphones at the gym, on runs, and while we stay active. We've logged miles and sweat with these headsets and considered options for all budgets. Needless to say, we've got some strong opinions on what makes a good workout headphone. 
 
 **Also:** [**The best noise-canceling headphones**](https://www.zdnet.com/article/best-noise-canceling-headphones/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What are the best workout headphones right now? 
 
@@ -211,6 +215,10 @@ Pros
 Cons 
 * Feels a little cheap
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### JLab JBuds ANC 3
 
 #### Best budget workout earbuds
@@ -236,6 +244,10 @@ The best workout headphones depend on your preference, like whether you want a b
 | Apple AirPods Pro (2nd generation) | In-ear          | $229      | Up to 6 hours   | IPX4                      |
 | JLab Jbuds ANC 3                   | In-ear          | $60       | Up to 33 hours  | IP55                      |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which headphones for working out are right for you?
 
 Much like fitness, earbuds don't have a "one size fits all" approach -- it ultimately comes down to preference. And while specs speak for themselves, there are specific scenarios in which it's better to invest in one headphone pair over the other. Here's a chart to help you compare.
@@ -259,11 +271,19 @@ These headphones were chosen based on an array of factors including:
 * **Special features**: Spatial awareness can be improved with bone conduction, while active noise cancellation can help drown out the outside world so you can get lost in your workout. Whatever you prefer, consider which audio features are available for your next workout and running headphones.
 * **Price**: The price for your headphones can vary significantly, with our top picks running from $50 to $250\. Your budget may determine which workout and running headphones are available to you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How we test headphones for working out
 
 If I didn't exercise in these headphones myself, one of my trusted colleagues has. Here at ZDNET, we only recommend products we have used ourselves, and use these products every day to understand just how long the battery life actually lasts, how the noise cancellation sounds in a loud environment, and how the microphones sound on calls and Zooms. 
 
 **Also:** [**How we test headphones**](https://www.zdnet.com/article/how-we-test-headphones/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is it better to work out with headphones or earbuds?
 
@@ -276,6 +296,10 @@ Given their open-air, over-ear design, many [runners](https://www.zdnet.com/arti
 ## Are AirPods good for working out?
 
 As an avid walker and pilates lover, I love my second-gen AirPods for low-impact exercise, especially since they came out with the extra small ear tip. In the past, however, I've had issues with my AirPods staying in my ears -- which is a shame given their otherwise [excellent performance](https://www.zdnet.com/article/apple-airpods-3rd-generation-review/). If you don't want to buy a whole new pair of AirPods for the tips alone, purchasing [separate ear hooks](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB019BREFE4%2Fref%3Dsspa%5Fdk%5Fdetail%5F1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C32220f30-ff0b-4e01-94f4-07f7ca4b1b4b%7Cdtp&dtb=1) is an effective, low-cost solution to keeping AirPods in place. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative headphones worth considering?
 
@@ -316,11 +340,28 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-innovative-strategies-for-sharing-on-instagram-stories-for-2024/"><u>[Updated] Innovative Strategies for Sharing on Instagram Stories for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-iphone-xs-identity-verification-face-id-repair/"><u>[Updated] Mastering iPhone X's Identity Verification Face ID Repair</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cloud-service-pricing-a-comparative-look/"><u>2024 Approved Cloud Service Pricing A Comparative Look</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-quality-xiaomi-g34wqi-34-inch-180hz-monitor-review-vibrant-color-and-impressive-contrast-ratio-analysis/"><u>Affordable Quality: Xiaomi G34WQi 34-Inch 180Hz Monitor Review - Vibrant Color and Impressive Contrast Ratio Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/alienware-aw2725df-360hz-the-ultimate-battlefield-companion-unleashed-on-an-eye-popping-oled-screen/"><u>Alienware AW2725DF 360Hz: The Ultimate Battlefield Companion Unleashed on an Eye-Popping OLED Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amazing-value-249-asus-tuf-curved-monitor-34-display-available-at-amazon/"><u>Amazing Value: $249 ASUS TUF Curved Monitor, 34 Display Available at Amazon</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/av1-for-the-uncharted-beginner-for-2024/"><u>AV1 for the Uncharted Beginner for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862829005-experience-crystal-clear-visuals-with-the-27-qhd-ips-samsung-odyssey-g50a-now-priced-at-a-bargain-255-on-amazon/"><u>Experience Crystal Clear Visuals with the 27 QHD IPS Samsung Odyssey G50A - Now Priced at a Bargain $255 on Amazon</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862836417-grab-yours-now-the-ultimate-steal-of-a-sceptre-24-inch-curved-tv-game-screen-at-79/"><u>Grab Yours Now! The Ultimate Steal of a Sceptre 24-Inch Curved TV Game Screen at $79</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-designing-a-standout-youtube-video-intro-for-2024/"><u>Step-by-Step Designing a Standout YouTube Video Intro for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-learning-method-behind-mondly/"><u>The Learning Method Behind Mondly</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/troubleshooting-error-with-running-files-in-temp-directory-find-4-fixes-here/"><u>Troubleshooting: Error with Running Files in Temp Directory, Find 4 Fixes Here!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trustworthy-techniques-for-apple-ai-app-discovery/"><u>Trustworthy Techniques for Apple AI App Discovery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-halting-all-updates-on-your-windows-10-system/"><u>Ultimate Guide: Halting All Updates on Your Windows 10 System</u></a></li>
+</ul></div>
+

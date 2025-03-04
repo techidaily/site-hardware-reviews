@@ -1,7 +1,7 @@
 ---
 title: "Key Developments From CES 2023 Day 3: Announcements by HTC and Google, Featuring Top News Coverage"
-date: 2025-01-27T00:13:22.832Z
-updated: 2025-02-02T18:43:51.883Z
+date: 2025-02-10T17:05:00.890Z
+updated: 2025-02-15T16:02:45.974Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Of course, I can't forget the speaker system. Dell's Inspiron 14 2-in-1 has a ni
 For the battery, I performed ZDNET's usual test of running a medium load on the laptop. This consists of playing a YouTube livestream nonstop at 720p and 50% brightness. I clocked the Inspiron 2-in-1 at about eight hours max while on Best Power Efficiency mode. Not too shabby; that's enough to last you a whole day, although it would've been nice if it lasted 10 or 12 hours. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,17 +114,21 @@ I also recommend picking Midnight Blue as your laptop color. The Ice Blue option
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-redesign-twitter-video-header/"><u>[New] 2024 Approved Redesign Twitter Video Header</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/astering-product-reviews-for-monetary-rewards-on-youtube-for-2024/"><u>[New] Mastering Product Reviews for Monetary Rewards on YouTube for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adapting-oculus-quest-2-for-windows-vr-compatibility/"><u>Adapting Oculus Quest 2 for Windows VR Compatibility</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/eficientemente-limpando-sua-memoria-flash-3-tecnicas-de-seguranca-para-pen-drives-usb/"><u>Eficientemente Limpando Sua Memória Flash: 3 Técnicas De Segurança Para Pen Drives USB</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-high-performance-gadgets-with-toms-hardware-insights/"><u>Exploring High-Performance Gadgets with Tom's Hardware Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-ensure-headphone-sounds-arent-leaking-into-your-speakers/"><u>How To Ensure Headphone Sounds Aren't Leaking Into Your Speakers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastering-photo-text-edits-online-and-app-guide/"><u>Mastering Photo Text Edits Online & App Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-game-interruptions-the-definitive-guide-to-fixing-stellaris-crashes/"><u>No More Game Interruptions: The Definitive Guide to Fixing Stellaris Crashes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/taking-a-closer-look-performance-testing-and-review-for-raspberry-pi-intelligent-unit-kit/"><u>Taking a Closer Look: Performance Testing and Review for Raspberry Pi Intelligent Unit Kit</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-stay-chilled-in-depth-analysis-of-the-silent-and-powerful-levelplay-combat-air-ca4-cpu-cooler/"><u>The Ultimate Guide to Stay Chilled: In-Depth Analysis of the Silent & Powerful Levelplay Combat Air CA4 CPU Cooler</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-review-of-the-logitech-g5s-tkl-compact-powerful-keyboard-at-an-attainable-price-point/"><u>The Ultimate Review of the Logitech G5s TKL - Compact, Powerful Keyboard at an Attainable Price Point</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-iphone-features-producing-and-modifying-videos-at-a-tranquil-pace-for-2024/"><u>Unveiling iPhone Features Producing and Modifying Videos at a Tranquil Pace for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-money-on-youtube/"><u>[Updated] In 2024, How To Make Money on YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-pickus-impact-on-mobile-photography-a-comparative-study/"><u>[Updated] In 2024, PickU's Impact on Mobile Photography – A Comparative Study</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-understanding-the-process-of-altering-photo-genders-on-social-networks/"><u>2024 Approved Understanding the Process of Altering Photo Genders on Social Networks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-proart-pa3n16ucr-mini-led-mastery-a-deep-dive-into-professional-level-color-accuracy/"><u>Asus ProArt PA3n16UCR Mini LED Mastery: A Deep Dive Into Professional-Level Color Accuracy</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-samsung-galaxy-f54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Samsung Galaxy F54 5G?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-guides-on-toms-computing-essentials/"><u>Expert Guides on Tom's Computing Essentials</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-honor-80-pro-straight-screen-edition-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Honor 80 Pro Straight Screen Edition Phones with/without a PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-x9a-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instagram-video-quirk-unusual-vertical-display/"><u>In 2024, Instagram Video Quirk Unusual Vertical Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-computers-and-devices-with-tom/"><u>Inside the World of Computers & Devices with Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-equipment-world-the-ultimate-resource-for-enthusiasts/"><u>Inside Tom's Equipment World: The Ultimate Resource for Enthusiasts</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/migrating-to-a-new-era-deploying-windows-11-system-images-onto-upgraded-drives/"><u>Migrating to a New Era: Deploying Windows 11 System Images Onto Upgraded Drives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-tech-gear-with-expertise-from-toms-hardware/"><u>Navigate the World of Tech Gear with Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-m2-ssd-card-adapter-hat-review-budget-friendly-and-fast-performance/"><u>Raspberry Pi M.2 SSD Card Adapter HAT Review - Budget Friendly and Fast Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-computer-components/"><u>Tom's Tech Insights: Your Guide to Computer Components</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-pinnacle-studio-replacements-for-mac/"><u>Updated In 2024, Top Pinnacle Studio Replacements for Mac</u></a></li>
 </ul></div>
 

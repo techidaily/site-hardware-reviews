@@ -1,7 +1,7 @@
 ---
 title: "Protecting Enterprises in a Digital Age: The Tough Road for Cybersecurity Authorities and Absence of Quick Remedies"
-date: 2024-09-18 18:26:52
-updated: 2024-09-20 11:57:10
+date: 2025-02-13T16:30:59.397Z
+updated: 2025-02-15T16:18:36.235Z
 tags:
   - cyber-threats
 categories:
@@ -18,6 +18,10 @@ Image: Maksim Shmeljov/Shutterstock
 As more businesses experience a digital transformation and continue to store consumer information in the cloud, [cybersecurity risks are an increasing concern](https://www.zdnet.com/article/the-scary-future-of-the-internet-how-the-tech-of-tomorrow-will-pose-even-bigger-cybersecurity-threats/) for web surfers, companies, and online buyers.
 
 According to [Foundry's 2022 Security Priorities Study](https://resources.foundryco.com/download/security-priorities-executive-summary), which surveyed nearly 900 surveyed security leaders around the world, 90% think their organization is not doing enough to address cybersecurity risks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Privacy
 
@@ -38,9 +42,17 @@ When it comes to keeping up with security threats when faced with these shortage
 
 Security professionals surveyed by Foundry agreed that automation is a key tool for improving incident responses and maintaining skilled security staff. For example, 34% of companies are looking into SOAR (Security Orchestration, Automation, and Response) technology, which combines human and machine power to address incident reports.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Human error
 
 Employee mistakes remain a leading factor behind IT security scares, Foundry found: 34% of respondents said non-malicious user error was the top cause of cybersecurity incidents, although this was down from 44% in 2021\. This factor was followed by third-party security vulnerabilities (28%), unpatched software vulnerabilities (26%), and software supply chain breaches, which accounted for 17% of incidents.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -84,11 +96,31 @@ Meanwhile, 32% are researching zero-trust technologies, an approach to IT system
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-laugh-out-loud-and-weepy-instagrams-best-meme-communities/"><u>[New] 2024 Approved Laugh Out Loud & Weepy Instagram's Best Meme Communities</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-guide-to-choosing-top-8-free-srt-services-for-2024/"><u>[New] The Ultimate Guide to Choosing Top 8 Free SRT Services for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-funimate-pro-unboxed-your-essential-apk-guide/"><u>[Updated] Funimate Pro Unboxed Your Essential APK Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/0-ssd-controller-the-revolutionary-e29t/"><u>0 SSD Controller - The Revolutionary E29T</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/2024-school-starts-savings-exclusive-offers-on-educational-tech-for-the-upcoming-academic-year/"><u>2024 School Starts Savings! Exclusive Offers on Educational Tech for the Upcoming Academic Year</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-the-validity-of-health-information-provided-by-chatgpt/"><u>Assessing the Validity of Health Information Provided by ChatGPT</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964484111-dropped-to-a-bargain-the-elite-five-star-fractal-design-north-pc-chassis-for-only-109/"><u>Dropped to a Bargain - The Elite Five-Star Fractal Design North PC Chassis for Only $109!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/effortless-google-photo-mosaics-your-accelerated-guide-for-2024/"><u>Effortless Google Photo Mosaics - Your Accelerated Guide for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-technology-with-toms-gadget-review-your-source-for-top-hardware-analysis/"><u>Exploring the Latest in Technology with Tom's Gadget Review: Your Source for Top Hardware Analysis</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-best-apps-to-master-sound-transformation/"><u>In 2024, Unveiling the Best Apps to Master Sound Transformation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-reviews-on-electronic-components-and-gadgets/"><u>Tom's Tech Insights: In-Depth Reviews on Electronic Components & Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guide-to-top-of-the-line-computer-gear/"><u>Tom's Tech Review: Comprehensive Guide to Top-of-the-Line Computer Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-your-ultimate-guide-to-cutting-edge-hardware/"><u>Tom's Tech Review: Your Ultimate Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-recommended-solid-state-drives-and-traditional-hdds-sales/"><u>Top Recommended Solid State Drives & Traditional HDDs Sales</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixes-for-lag-in-fortnite-enhancing-your-gaming-experience/"><u>Troubleshooting and Fixes for Lag in Fortnite: Enhancing Your Gaming Experience</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-elevate-your-vlog-game-top-10-mobile-video-editing-apps-for-2024/"><u>Updated Elevate Your Vlog Game Top 10 Mobile Video Editing Apps for 2024</u></a></li>
+</ul></div>
+

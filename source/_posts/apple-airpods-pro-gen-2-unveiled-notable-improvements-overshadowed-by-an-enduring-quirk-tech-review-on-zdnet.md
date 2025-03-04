@@ -1,7 +1,7 @@
 ---
 title: "Apple AirPods Pro (Gen 2) Unveiled: Notable Improvements Overshadowed by an Enduring Quirk | Tech Review on ZDNet"
-date: 2024-09-19 17:36:46
-updated: 2024-09-20 11:24:11
+date: 2025-02-10T16:11:41.092Z
+updated: 2025-02-15T16:20:07.846Z
 tags:
   - headphones
 categories:
@@ -36,6 +36,10 @@ The AirPods Pro 2 are a fitting encore to the originals, delivering improved aud
 Three years after the launch of the first premium AirPods, Apple is serving us the iPhone's newest side dish: the AirPods Pro 2\. At first glance, they look practically identical to their successful predecessor. So, what exactly is different with the latest earbuds? 
 
 After using them for about a week, here's my take on everything from the fit and finish to the new sensor technology to the overall sound quality. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -76,6 +80,10 @@ A top view of the new AirPods Pro earbuds in their case, displaying upgraded mic
 
 Christina Darby/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can you hear a difference? 
 
 The sound quality, at every level, is crystal clear on the Pro 2's. When it comes to music, both instrumentals and vocals have a full but vibrant sound and equally come through. I wanted to know, though, if I could tell the difference only because I was expecting a difference. So, I conducted a little experiment. 
@@ -98,6 +106,10 @@ With the [iOS 16 update](https://www.zdnet.com/article/ios-16-just-dropped-here-
 
 **Also:** [**How to clean and sanitize your AirPods**](https://www.zdnet.com/article/how-to-clean-and-sanitize-your-airpods/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Active Noise Cancellation gets a little better  
 
 Apple claims Active Noise Cancellation (ANC) is about two times better with the H2 chip. By moving the microphone to the top of the earbuds and focusing on frequency level instead of volume, Apple did indeed improve the ANC capabilities. As I type these very words and listen to music at around 70% volume, I can't hear myself typing, my AC unit blast, or my roommate yelling at the TV as she watches Monday Night Football. 
@@ -113,6 +125,10 @@ I was eager to see if the ANC was good enough to replace the earplugs I usually 
 ## Adaptive Transparency mode
 
 One of the most impressive features of the AirPods Pro 2 is the updated Adaptive Transparency mode. As someone who lives in a very noisy city with lots of construction, I need to stay aware of my surroundings. Whether it's listening to make sure I don't miss my subway stop or the humming of an electric bike as I'm crossing the street, I need to be in tune with the world around me, even if I've got music playing. In my testing, the Pro 2's new Transparency mode effectively balances the sound around me with the audio in the earbuds. That said, I typically have to turn up the volume by about 25% when I transfer from ANC to Transparency mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A smarter charging case  
 
@@ -162,6 +178,10 @@ If you're happy with the [original AirPods Pro](https://buy.geni.us/Proxy.ashx?T
 
 For another perspective on the AirPods Pro 2, check out my colleague Jason Cipriani's [video review here](https://www.youtube.com/watch?v=ACsbPIyr0NM) or watch below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Alternatives to consider  
 
 [AirPods Pro (first generation) $134.99 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B844T634%2Fref%3Dasc%5Fdf%5FB0B844T6341724410800000%3Fcreative%3D395261%26creativeASIN%3DB0B844T634%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C90304bad-45a3-41b6-b7b7-697273a3dcbd%7Cdtp&dtb=1)
@@ -191,11 +211,33 @@ For another perspective on the AirPods Pro 2, check out my colleague Jason Cipri
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-innovate-your-content-leveraging-instagrams-green-screen-magic/"><u>[New] 2024 Approved Innovate Your Content Leveraging Instagram's Green Screen Magic</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-shield-your-snapshots-from-times-tide-explore-cost-effective-solutions/"><u>[New] Shield Your Snapshots From Time's Tide - Explore Cost-Effective Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-channel-creation-chronicles-the-ultimate-beauty-blogging-start-up/"><u>[Updated] 2024 Approved Channel Creation Chronicles The Ultimate Beauty Blogging Start-Up</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-best-selection-turn-your-videos-into-text-fast/"><u>[Updated] Best Selection Turn Your Videos Into Text Fast</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-fast-track-building-elegant-google-photo-collage-art/"><u>[Updated] The Fast Track Building Elegant Google Photo Collage Art</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-proven-techniques-for-captivating-online-audiences-via-zoom-and-youtube-live/"><u>2024 Approved Proven Techniques for Captivating Online Audiences via Zoom & YouTube Live</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/accessing-shared-media-on-messenger-for-2024/"><u>Accessing Shared Media on Messenger for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevating-robotic-process-automation-outcomes-with-cutting-edge-process-analytics-abbyy/"><u>Elevating Robotic Process Automation Outcomes with Cutting-Edge Process Analytics | ABBYY</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-gadgets-with-toms-hardware-wisdom/"><u>Master Your Gadgets with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-digital-world-through-toms-hardware-experts/"><u>Mastering the Digital World Through Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-tips-from-toms-hardware/"><u>Navigating the World of Gadgets with Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/new-era-of-gaming-begins-top-brands-like-acer-dell-hp-and-lenovo-roll-out-1099-snapdragon-x-windows-copilot-pcs-with-exceptional-battery-life/"><u>New Era of Gaming Begins: Top Brands Like Acer, Dell, HP and Lenovo Roll Out $1,099 Snapdragon X Windows Copilot PCs with Exceptional Battery Life</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/revelations-in-storage-technology-discovering-the-power-of-kingston-ssds-through-serial-hacking/"><u>Revelations in Storage Technology: Discovering the Power of Kingston SSDs Through Serial Hacking</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviving-the-iconic-1994-apple-powerbook-520c-enhanced-with-an-ipad-display-and-cutting-edge-2015-macbook-pro-hardware-inside/"><u>Reviving the Iconic 1994 Apple PowerBook 520C - Enhanced with an iPad Display and Cutting-Edge 2015 MacBook Pro Hardware Inside</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-computing-experience-with-acer-dell-hp-and-lenovos-latest-offerings-affordable-snapdragon-x-windows-copilot-pcs-with-impressive-battery-l11/"><u>Revolutionize Your Computing Experience with Acer, Dell, HP and Lenovo's Latest Offerings: Affordable Snapdragon X Windows Copilot PCs With Impressive Battery Life</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-expert-gadget-reviews-and-tech-insights/"><u>Tom's Hardware - Expert Gadget Reviews & Tech Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-components-t17238628794567/"><u>Tom's Tech Hub: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-computer-hardware-analysis/"><u>Tom's Tech Review: In-Depth Computer Hardware Analysis</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unseen-wealth-the-underground-auction-of-elusive-artifacts-2023-edition-for-2024/"><u>Unseen Wealth The Underground Auction of Elusive Artifacts, 2023 Edition for 2024</u></a></li>
+</ul></div>
+

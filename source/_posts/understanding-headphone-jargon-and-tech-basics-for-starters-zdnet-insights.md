@@ -1,7 +1,7 @@
 ---
 title: Understanding Headphone Jargon & Tech Basics - For Starters | ZDNet Insights
-date: 2024-09-19 10:44:36
-updated: 2024-09-20 12:47:29
+date: 2025-02-08T16:48:35.346Z
+updated: 2025-02-15T16:44:06.015Z
 tags:
   - headphones
 categories:
@@ -20,6 +20,10 @@ Headphones are a category of electronics with two very different types of users.
 **Also:** [**30+ Black Friday headphone deals: AirPods, Beats, Bose, and Sony on sale**](https://www.zdnet.com/article/early-black-friday-headphone-deals-november-18-2022/)
 
 That average headphone shopper may believe the technology and terminology they'd need to understand to become join the ranks of headphone enthusiasts are just too impenetrable. We're here to disprove that notion. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -55,6 +59,10 @@ This diminutive style of headphone is easy to toss in a bag or pocket, should be
 * **Style:** Their small size makes them unobtrusive in public. The presence of certain models in your ears can even be a status symbol for some.
 * **Freedom:** Earbuds offer a level of freedom either of the larger forms below can't match. Truly wireless options provide completely cable-free use for workouts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Cons of in-ear headphones**
 
 * **Sound quality:** There are amazing-sounding earbuds out there. But, the miniaturized technology required for them makes them more expensive than equally adept on-ear or over-ear models. Even expensive units still can't match the audio reproduction possible with the larger drivers in other types.
@@ -66,6 +74,10 @@ This diminutive style of headphone is easy to toss in a bag or pocket, should be
 My aged, beat-up Grado SR80s that still sound as great as the day I bought them a very long time ago. 
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## On-ear headphones
 
@@ -115,11 +127,19 @@ Over-ear headphones of this type feature earcups that allow air to freely pass i
 
 **Review: [Sony LinkBuds: Unique open ring facilitates online and offline listening](https://www.zdnet.com/article/sony-linkbuds-review/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pros of open-backed headphones
 
 * **Natural sound:** As mentioned above, the open-backed earcups produce a sound profile that most closely mirrors discrete speakers, or even live music. This is because the soundwaves are allowed to scatter naturally, without ricocheting around in the earcup the way they would in closed-back sets.
 * **Comfort:** The extra ventilation also means your ears are less likely to get hot, since they're not trapped in an airtight chamber warmed by your body heat.
 * **Awareness:** Some users want headphones to block out external sounds. Others prefer to hear the world around them. For the latter, open-backed headphones provide a way to keep your ear, literally, open for your kids, co-workers, or even other people on the street.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cons of open-backed headphones
 
@@ -143,6 +163,10 @@ Closed-back headphones are the precise opposite of those above. Like earbuds, th
 * **Isolation:** In addition to the active noise cancellation (ANC) available in select models across all of the form factors here, closed-back headphones offer the best passive sound blocking of any form factor. Their seal blocks out outside soundwaves, allowing you to focus on the audio that you want to hear, without it being tainted by external sounds.
 * **Privacy:** What keeps sound out will also keep it in. Closed-back headphones can provide great sound quality to you, and only you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cons of closed-back headphones
 
 * **Heat buildup:** Closed-back headphones basically mimic the earmuffs you wear in winter to keep you warm. As such, they trap heat just as well and can get quite uncomfortable in the summer months and in warmer climates.
@@ -152,6 +176,10 @@ Closed-back headphones are the precise opposite of those above. Like earbuds, th
 The dynamic driver used in Sennheiser's HD800 S seen from behind
 
 Sennhesier
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Driver types
 
@@ -196,6 +224,10 @@ Whatever the size of the headphone being used, planar magnetic drivers tend to b
 The STAX SRM-D50 electrostatic headphones sitting atop the specialized amp they require. The duo retails for $1,260\. 
 
 Stax -- HeadAmp
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Electrostatic drivers and other exotic options
 
@@ -280,11 +312,28 @@ Hopefully, this guide has given you a deeper understanding of the basic terminol
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ultimate-tutorial-for-downloading-wm6/"><u>[New] 2024 Approved Ultimate Tutorial for Downloading WM6</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-innovating-human-interface-a-guide-to-hand-perception/"><u>[New] In 2024, Innovating Human Interface A Guide to Hand Perception</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-perfect-pairing-of-xbox-and-zooming-techniques-for-gaming/"><u>[Updated] In 2024, The Perfect Pairing of Xbox and Zooming Techniques for Gaming</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-how-to-convert-youtube-videos-to-gifs/"><u>2024 Approved How to Convert YouTube Videos to GIFs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-insta-to-tik-flow-guidebook/"><u>2024 Approved Insta to Tik Flow Guidebook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-radeon-r9-display-driver-issues-on-windows-10-solved/"><u>AMD Radeon R9 Display Driver Issues on Windows 10 [Solved]</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341735072-approval-from-government-agencies-or-planning-commissions-is-typically-required-before-proceeding/"><u>Approval From Government Agencies or Planning Commissions Is Typically Required Before Proceeding</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-tech-a-deep-dive-into-hardware-by-tomsphere/"><u>Exploring Advanced Tech: A Deep Dive Into Hardware by TomSphere</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/green-consumerism/"><u>Green Consumerism</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-poco-x6-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Poco X6 Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ntegrating-the-ebook-format-since-space-may-be-limited-for-physical-books-in-urban-areas-offering-an-e-book-version-could-appeal-to-tech-savvy-city-dwellers4/"><u>Ntegrating the eBook Format: Since Space May Be Limited for Physical Books in Urban Areas, Offering an E-Book Version Could Appeal to Tech-Savvy City Dwellers Who Prefer Digital over Paper Copies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-alert-the-atlas-air-from-turtle-beach-delivers-top-tier-acoustics/"><u>Review Alert! The ATLAS Air From Turtle Beach Delivers Top-Tier Acoustics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transforming-productivity-a-detailed-look-at-hp-omnibook-xs-revolutionary-16-hour-endurance-powered-by-xpower-processor/"><u>Transforming Productivity: A Detailed Look at HP OmniBook X's Revolutionary 16-Hour Endurance Powered by XPower Processor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-system-change-access-via-trustedinstaller-in-windows-11-explained/"><u>Unlocking System Change Access via TrustedInstaller in Windows 11 Explained</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Speed: Transition to a 2.5 Gigabit Internet Connection Using Firewalla Gold Plus - The Top Choice for SMBs & Home Users [ZDNet Review]"
-date: 2024-09-18 18:59:23
-updated: 2024-09-20 11:37:23
+date: 2025-02-12T16:56:45.390Z
+updated: 2025-02-15T16:11:11.083Z
 tags:
   - cyber-threats
 categories:
@@ -31,6 +31,10 @@ Jason Perlow/ZDNET
 
 Firewalla also has an excellent app for mobile devices to administrate it and receive alerts and a robust remote management web interface. You don't need to be a network security genius to set rules and protect your network. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Wi-Fi routers These routers are suitable for both your home and the office.  Read now](https://www.zdnet.com/article/best-wifi-router/)
@@ -46,6 +50,10 @@ From a functionality and feature standpoint, the Gold and Gold Plus are identica
 **Also:** [**Why is my internet so slow? 11 ways to speed up your connection**](https://www.zdnet.com/home-and-office/networking/how-to-fix-your-slow-internet-11-ways-to-speed-up-your-connection/)
 
 I recently installed Firewalla Gold Plus on my network. You may be wondering what kind of network and home broadband you need to take full advantage of this device's wire-speed packet inspection capabilities: a very fast one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A thirst for speed means upgrades are needed
 
@@ -77,6 +85,10 @@ If you are looking for something a bit less expensive with 2.5Gbps connectivity 
 
 As with the switches, we ran Category 6 cabling to the new AP from the MS108EUP on one of its 60W ports to ensure a clean connection. We also set our broadcast 5Ghz SSID network on the new access point for up to 160Mhz channel width so modern clients like my [iPhone 14 Pro Max](https://support.apple.com/guide/deployment/iphone-wi-fi-specification-details-dep268652e6c/web), recent Android devices, and [Macbook Pros](https://support.apple.com/guide/deployment/macbook-pro-wi-fi-specification-details-dep2ac3e3b51/web) could utilize the Wi-Fi 6 connectivity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cruising at over 2Gbps
 
 To get the Firewalla Gold Plus running, we didn't have to do much differently than with the Gold, which we used previously. We booted it up, loaded the smartphone app, connected to the device using Bluetooth on our iPhone, and set it to "router mode." We also had to configure IP passthrough on the AT&T Fiber residential gateway's web interface to packet-forward everything to the Firewalla's WAN port MAC address, which is an AT&T-specific configuration issue. 
@@ -94,6 +106,10 @@ WiFi 6 speeds using 2x2 80Mhz channel width through Firewalla Gold Plus using a 
 Jason Perlow/ZDNET
 
 And Wi-Fi? Higher than 650Mbps on average in both directions, sometimes over 700Mbps or even 1Gbps depending on the device. On our Qualcomm 888-based Android phone, we could get as high as 800Mbps or 900Mbps Wi-Fi downloads due to advanced wide channel support. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who is it for?
 
@@ -124,11 +140,31 @@ I believe an argument can also be made for 2.5Gbps network upgrades, as it impro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-speed-capture-faceoff-gopro-hero-4-challenges-ghost-s/"><u>[New] 2024 Approved Speed Capture Faceoff GoPro Hero 4 Challenges Ghost-S</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/calable-success-lawful-techniques-for-video-visibility/"><u>[New] Scalable Success Lawful Techniques for Video Visibility</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-the-perfect-pitch-inviting-listeners-to-join-us/"><u>[Updated] 2024 Approved Crafting the Perfect Pitch Inviting Listeners to Join Us</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-quality-computer-system-builders-race-event-q4-2015-competitive-price-at-just-912/"><u>AMD Quality Computer System Builders Race Event, Q4 2015 - Competitive Price at Just $912</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/complete-tutorial-on-extracting-images-from-your-word-docs/"><u>Complete Tutorial on Extracting Images From Your Word Docs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ease-your-build-process-with-the-innovative-features-of-asus-tuf-gaming-desktops/"><u>Ease Your Build Process with the Innovative Features of Asus TUF Gaming Desktops</u></a></li>
+<li><a href="https://win-latest.techidaily.com/easy-steps-migrating-data-from-hdd-to-sandisk-ssd-on-windows-11/"><u>Easy Steps: Migrating Data From HDD to SanDisk SSD on Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhance-academic-performance-with-these-6-essential-pc-improvements-for-students/"><u>Enhance Academic Performance with These 6 Essential PC Improvements for Students</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-geforce-rtx-3080-ti-drivers-latest-version-windows-11-and-7-supported/"><u>Free GeForce RTX 3080 Ti Drivers Latest Version Windows 11 & 7 Supported</u></a></li>
+<li><a href="https://discover-able.techidaily.com/high-quality-axolotl-wallpaper-and-screen-saver-pack-yl-software-solutions/"><u>High-Quality Axolotl Wallpaper & Screen Saver Pack - YL Software Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964467063-skylake-system-construction-showdown-announcing-the-champions-of-toms-hardware-competition/"><u>Skylake System Construction Showdown: Announcing the Champions of Tom’s Hardware Competition!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-windows-media-disconnection-woes-expert-tips-and-solutions/"><u>Solve Windows Media Disconnection Woes: Expert Tips and Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-expert-insights-and-comprehensive-reviews/"><u>Tom's Tech Hub: Expert Insights and Comprehensive Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-into-computer-components-and-performance/"><u>Tom's Tech Review: Expert Insights Into Computer Components and Performance</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-12-by-fonelab-android-recover-video/"><u>Undeleted lost videos from 12</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadget-insights-with-toms-technology-hub/"><u>Unveiling Gadget Insights with Tom’s Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964466307-win-a-free-corsair-t2-road-warrior-gaming-chair-exclusive-online-giveaway/"><u>Win a Free Corsair T2 Road Warrior Gaming Chair - Exclusive Online Giveaway</u></a></li>
+</ul></div>
+

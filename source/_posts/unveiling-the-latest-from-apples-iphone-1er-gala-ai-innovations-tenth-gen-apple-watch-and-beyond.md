@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Latest From Apple's iPhone 1Er Gala: AI Innovations, Tenth-Gen Apple Watch & Beyond"
-date: 2024-09-17 14:17:56
-updated: 2024-09-20 12:37:29
+date: 2025-02-13T16:37:37.139Z
+updated: 2025-02-15T16:21:44.703Z
 tags:
   - headphones
 categories:
@@ -22,6 +22,10 @@ Although the hardware was the star of the show and WWDC, its software event, was
 **Also: [4 best iPhone 16 features that make Apple's standard model worth upgrading to](https://www.zdnet.com/article/4-best-iphone-16-features-that-make-apples-standard-model-worth-upgrading-to/)**
 
 If you didn't get to tune in or want a detailed summary of the announcements, keep reading for ZDNET's full roundup of the news below. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. iPhone 16 series
 
@@ -55,6 +59,10 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Apple Watch Series 10
 
 Kerry Wan/ZDNET
@@ -74,6 +82,10 @@ The Apple Watch Series 10 starts at $399, is available for pre-order starting to
 Alongside the Watch Series 10, Apple announced a new satin black finish for its Watch Ultra 2, which is tailored to avid athletes and outdoor enthusiasts. It starts at $799; pre-orders start today and ship out on September 20\. 
 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. AirPods 4
 
@@ -99,6 +111,10 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Apple Intelligence updates
 
 Screenshot by Kayla Solino/ZDNET
@@ -112,6 +128,10 @@ During today's event, Apple mostly reviewed the features it had previously unvei
 The biggest highlight was the launch of Visual Intelligence, Apple's answer to Google Lens. Like Google Lens, you can take photos of your surroundings, such as a dog or restaurant, and get personalized insights and relevant information on what you captured.
 
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
 
@@ -150,11 +170,33 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-premium-mac-and-pc-fullscreen-recording-apps/"><u>[New] In 2024, Premium Mac & PC Fullscreen Recording Apps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-quick-guide-integrating-snap-camera-with-teams-for-2024/"><u>[New] Quick Guide Integrating Snap Camera with Teams for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-secrets-of-youtube-stardom-3-paths-to-creating-huge-viral-reactions/"><u>[New] The Secrets of YouTube Stardom 3 Paths to Creating Huge Viral Reactions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-global-youtube-elite-earnings-leader/"><u>[Updated] 2024 Approved Global YouTube Elite Earnings Leader</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-depth-analysis-top-9-freeware-logo-designers-unveiled/"><u>[Updated] In-Depth Analysis Top 9 Freeware Logo Designers Unveiled</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-leveraging-videos-to-skyrocket-your-fb-audience/"><u>2024 Approved Leveraging Videos to Skyrocket Your FB Audience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/auto-shutdown-mastery-for-idle-pcs-in-w10w11/"><u>Auto Shutdown Mastery for Idle PCs in W10/W11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/building-your-rig-an-essential-review-of-the-versatile-gigabyte-b76eb-ds3h-ax-micro-atx-motherboard-with-multi-screen-support/"><u>Building Your Rig: An Essential Review of the Versatile Gigabyte B76eb DS3H AX Micro ATX Motherboard with Multi-Screen Support</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-esteemed-creators-best-of-breed-insta-hlv-makers/"><u>In 2024, Esteemed Creators Best-of-Breed Insta HLV Makers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-unveiling-the-secrets-to-producing-popular-youtube-shorts/"><u>In 2024, Unveiling the Secrets to Producing Popular YouTube Shorts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-the-ultimate-resource-by-toms-hardware/"><u>Mastering Electronics: The Ultimate Resource by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-tech-insights-on-tome-hardware-hub/"><u>Navigating Advanced Tech Insights on Tom'e Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-technology-secrets-at-toms-hardware-reviews/"><u>Navigating Through Technology Secrets at Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solution-easements-grant-rights-to-use-portions-of-a-property-for-specific-purposes-such-as-utilities-or-access-roads-impacting-where-structures-can-be-buil6/"><u>Solution: Easements Grant Rights to Use Portions of a Property for Specific Purposes, Such as Utilities or Access Roads, Impacting Where Structures Can Be Built and How Lots Are Developed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-pulse-of-processors-updates-straight-from-toms-computer-lab/"><u>The Pulse of Processors: Updates Straight From Tom's Computer Lab</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-your-datas-new-home-western-digital-my-passport-6tb-revealed/"><u>The Ultimate Guide to Your Data's New Home - Western Digital My Passport 6TB Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-exploring-the-latest-in-computer-components/"><u>Tom's Tech Review: Exploring the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveil-the-latest-in-hardware-at-toms-technical-blog-stay-ahead-of-innovations/"><u>Unveil the Latest in Hardware at Tom's Technical Blog – Stay Ahead of Innovations!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/vol2/"><u>ビデオ容量削減のための効果的なコーディングテクニック:フリーソリューションVol.2</u></a></li>
+</ul></div>
+

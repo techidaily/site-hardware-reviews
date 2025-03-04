@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Future: Exploring the Latest Tech From Apple's iPhone 16 Event - iPhones with Glowtime, Enhanced Apple Watch Series 10 & Improved AirPods | ZDNet"
-date: 2024-09-17 16:14:34
-updated: 2024-09-20 11:59:32
+date: 2025-02-12T16:22:28.518Z
+updated: 2025-02-15T16:17:55.199Z
 tags:
   - headphones
 categories:
@@ -22,6 +22,10 @@ Although the hardware was the star of the show and WWDC, its software event, was
 **Also: [4 best iPhone 16 features that make Apple's standard model worth upgrading to](https://www.zdnet.com/article/4-best-iphone-16-features-that-make-apples-standard-model-worth-upgrading-to/)**
 
 If you didn't get to tune in or want a detailed summary of the announcements, keep reading for ZDNET's full roundup of the news below. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. iPhone 16 series
 
@@ -55,6 +59,10 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Apple Watch Series 10
 
 Kerry Wan/ZDNET
@@ -74,6 +82,10 @@ The Apple Watch Series 10 starts at $399, is available for pre-order starting to
 Alongside the Watch Series 10, Apple announced a new satin black finish for its Watch Ultra 2, which is tailored to avid athletes and outdoor enthusiasts. It starts at $799; pre-orders start today and ship out on September 20\. 
 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. AirPods 4
 
@@ -99,6 +111,10 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Apple Intelligence updates
 
 Screenshot by Kayla Solino/ZDNET
@@ -112,6 +128,10 @@ During today's event, Apple mostly reviewed the features it had previously unvei
 The biggest highlight was the launch of Visual Intelligence, Apple's answer to Google Lens. Like Google Lens, you can take photos of your surroundings, such as a dog or restaurant, and get personalized insights and relevant information on what you captured.
 
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
 
@@ -150,11 +170,25 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-for-using-zoom-via-gmail/"><u>[New] Step-by-Step Guide for Using Zoom via Gmail</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-steer-clear-of-targeted-commercial-content-in-browsing/"><u>[Updated] 2024 Approved Steer Clear of Targeted Commercial Content in Browsing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capture-and-share-your-screens-bandicam-vs-camtasia/"><u>2024 Approved Capture and Share Your Screens Bandicam vs Camtasia</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cytron-maker-rp2nano-review-a-budget-friendly-pick-for-hobbyists-and-professionals-alike/"><u>Cytron Maker RP2nano Review - A Budget-Friendly Pick for Hobbyists and Professionals Alike</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-implementing-precise-timing-features-for-engaged-youtube-audiences/"><u>In 2024, Implementing Precise Timing Features for Engaged YouTube Audiences</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-components-a-deep-dive-into-hardware-by-tom/"><u>Mastering Components: A Deep Dive Into Hardware by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-technology-with-toms-hardware-insights/"><u>Navigating the Latest in Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computing-with-toms-informed-perspective/"><u>Navigating the World of Computing with Tom's Informed Perspective</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-eradicate-wows-fatal-issue-132-in-win-1011/"><u>Strategies to Eradicate WoW's Fatal Issue #132 in Win 10/11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/valkyrie-vind-sl125-analysis-when-animation-meets-an-underperforming-motorcycle/"><u>Valkyrie Vind SL125 Analysis - When Animation Meets an Underperforming Motorcycle</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Unboxing Lenovo ThinkPad X1 Fold: A Curious Blend of Playful Innovation & Premium Pricing Explored by ZDNet"
-date: 2025-02-01T21:22:54.659Z
-updated: 2025-02-02T22:34:52.641Z
+date: 2025-02-10T16:06:46.572Z
+updated: 2025-02-15T16:30:55.983Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Max Buondonno/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ The new version has an improved design, upgraded specs, and a similarly high ask
 [ZDNET RECOMMENDS Lenovo ThinkPad X1 Fold With a huge 16.3-inch foldable screen and a durable design, the ThinkPad X1 Fold is an interesting look at the future of laptops. View at Bhphotovideo](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1795356-REG%2Flenovo%5F21es001wus%5F16%5F3%5Fthinkpad%5Fx1%5Ffold.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -122,7 +122,7 @@ Surprisingly, Windows 11 runs well on the ThinkPad X1 Fold, with one huge except
 It's usable, sure, but it's a very weird bug that's likely caused by the weird form factor of the X1 Fold. It's hard for Windows to figure out when you want to use it as a tablet and when you want to use it as a laptop. The only time it gets it right is when you use the device in clamshell mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -161,24 +161,16 @@ I'm not going to lie, I'll miss the X1 Fold when I send my review unit back. Hav
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unveiling-the-best-practices-for-instagram-story-screenshots/"><u>[Updated] In 2024, Unveiling the Best Practices for Instagram Story Screenshots</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-wealth-accumulation-mr-beasts-journey-for-2024/"><u>[Updated] Wealth Accumulation Mr. Beast's Journey for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/amd-radeon-rx-5700-xt-driver-installation-guide-for-windows-users-windows-11-to-7/"><u>AMD Radeon RX 5700 XT - Driver Installation Guide for Windows Users (Windows 11 to 7)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/boosting-your-fps-on-ark-survival-evolved-for-an-optimal-pc-gaming-experience/"><u>Boosting Your FPS on ARK: Survival Evolved for an Optimal PC Gaming Experience</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-diving-into-periscope-understanding-its-free-access-and-account-creation-process/"><u>In 2024, Diving Into Periscope Understanding Its Free Access & Account Creation Process</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-smile-spawning-creativity-in-adobe-meme-making/"><u>In 2024, Smile Spawning Creativity in Adobe Meme-Making</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-ultimate-lens-selection-tips-for-vloggers-and-editors/"><u>In 2024, Ultimate Lens Selection Tips for Vloggers & Editors</u></a></li>
-<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Samsung Galaxy S24+? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-hardware-by-toms-tech-experts/"><u>The Ultimate Guide to Hardware by Tom’s Tech Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-new-technology-by-toms-experts/"><u>The Ultimate Guide to New Technology by Tom's Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-advanced-hardware-insights-and-reviews/"><u>Tom's Tech Hub: Advanced Hardware Insights and Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-ranking-round-screen-gaming-displays-of-2024/"><u>Top-Ranking Round Screen Gaming Displays of 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/total-circles-capture-systems-for-2024/"><u>Total Circles Capture Systems for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultra-lightweight-laptop-accessory-meet-vaios-revolutionary-visionplus-14-display-at-just-072lbs/"><u>Ultra-Lightweight Laptop Accessory: Meet Vaio's Revolutionary Vision+ 14 Display at Just 0.72Lbs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unbeatable-deal-alert-gaming-powerhouse-dells-32-inch-monitor-for-just-279-on-memorial-day-weekend/"><u>Unbeatable Deal Alert! Gaming Powerhouse - Dell's 32-Inch Monitor for Just $279 on Memorial Day Weekend</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-and-pc-parts-on-toms-gear-hub/"><u>Unveiling the Latest Gadgets and PC Parts on Tom's Gear Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-pro-gamers-dream-the-27-oled-masterpiece-by-dough-spectrum-an-ultimate-review-on-precision-and-premium-gaming-experience/"><u>Unveiling the Pro Gamers' Dream - The 27 OLED Masterpiece by Dough Spectrum: An Ultimate Review on Precision & Premium Gaming Experience!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/vintage-crt-technology-hits-700hz-refresh-rate-with-reduced-display-of-only-120p/"><u>Vintage CRT Technology Hits 700Hz Refresh Rate with Reduced Display of Only 120P</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-smooth-operations-boosting-memory-allocation-to-minecraft-for-2024/"><u>[Updated] Smooth Operations Boosting Memory Allocation to Minecraft for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/discovering-the-best-10-online-tools-for-vimeo-videos-for-2024/"><u>Discovering the Best 10 Online Tools for Vimeo Videos for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-asus-rog-rapture-gt-be98-pro-wi-fi-router-the-ultimate-review-on-performance-and-scalability/"><u>Dive Into the Asus ROG Rapture GT-BE98 Pro Wi-Fi Router - The Ultimate Review on Performance and Scalability</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-laugh-loophole-ideas-for-7-hilarious-youtube-showcases/"><u>In 2024, Laugh Loophole Ideas for 7 Hilarious YouTube Showcases</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-testing-of-the-affordable-dell-g5-5090-a-top-contender-in-entry-level-pcs-with-wide-options/"><u>In-Depth Testing of the Affordable Dell G5 #5090: A Top Contender in Entry-Level PCs with Wide Options</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-from-motion-to-still-a-simple-guide-to-freezing-frames-for-2024/"><u>New From Motion to Still A Simple Guide to Freezing Frames for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-pc-performance-a-deep-dive-into-teamgroup-t-force-dark-airflow-i-ssd-cooler-capabilities/"><u>Revolutionize Your PC Performance: A Deep Dive Into TeamGroup T-Force Dark AirFlow I SSD Cooler Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-picks-in-pc-components-by-tech-savvy-tom/"><u>Top Picks in PC Components by Tech Savvy Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-asus-rog-azoth-extreme-top-review-for-your-money-saving-search/"><u>Unboxing the Asus ROG Azoth Extreme: Top Review for Your Money-Saving Search</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-todays-top-networking-sites-insights-into-facebook-twitter-instagram-and-youtube/"><u>Understanding Today's Top Networking Sites: Insights Into Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725284939830-windows-11dvd/"><u>Windows 11へようこそ：スマートなDVD作成が今日から始まる！</u></a></li>
 </ul></div>
 

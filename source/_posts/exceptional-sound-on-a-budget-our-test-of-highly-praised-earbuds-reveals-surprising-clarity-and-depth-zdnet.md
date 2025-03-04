@@ -1,7 +1,7 @@
 ---
 title: "Exceptional Sound on a Budget: Our Test of Highly Praised Earbuds Reveals Surprising Clarity and Depth | ZDNET"
-date: 2024-09-17 15:16:49
-updated: 2024-09-20 12:52:49
+date: 2025-02-12T16:40:00.221Z
+updated: 2025-02-15T16:42:11.544Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 ![Describe what's shown in the image.](https://www.zdnet.com/a/img/resize/5b5f7239c371510564e8cd35ab7c2bd9843fd93d/2024/09/10/3b3469b6-af0e-4455-bfd6-cdb4e31d759c/capsule3.jpg?auto=webp&width=1280)
 
 Full Name/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -41,6 +45,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The specs
 
 * Cowell MEMS top-firing speakers have a response time 150x faster than dynamic drivers
@@ -52,6 +60,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 * Battery - up to 6.5 hours of continuous play on a single charge and a total playtime of 43 hours (using the included charging case)
 * Single earbud weight - 5g
 * Waterproof rating - IPX4
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## My experience
 
@@ -88,6 +100,10 @@ These earbuds will impress you with both looks and sound.
 
 Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 It's getting harder and harder to tell the difference between expensive and inexpensive earbuds these days, and the [Soundpeats Capsule3 Pro+ earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSoundPEATS-Capsule3-Pro-Earbuds-Cancelling%2Fdp%2FB0D62Q8NYY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C36b7fdc6-f388-41ee-a53d-810930bc0c09%7Cdtp&dtb=1) prove that in a glorious soundscape fashion. Even without using an app to customize the sound, these babies are wonderfully tuned out of the box. 
@@ -115,11 +131,25 @@ If you're looking for a pair of sub-$100 dollar earbuds, and the quality of soun
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-revolutionize-your-virtual-engagements-with-advanced-google-meet-customization-for-2024/"><u>[New] Revolutionize Your Virtual Engagements with Advanced Google Meet Customization for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-photoshops-jiggle-minimizing-effective-or-overstated-in-2024/"><u>[Updated] Photoshop's Jiggle Minimizing - Effective or Overstated, In 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-customized-clips-on-iphone-3-free-music-integration-techniques/"><u>In 2024, Crafting Customized Clips on iPhone – 3 Free Music Integration Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-by-toms-computing-hub/"><u>In-Depth Analysis by Tom's Computing Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-with-toms-hardware-insider-tips/"><u>Navigating New Tech with Tom's Hardware Insider Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-world-tips-and-reviews-from-toms-hardware-specialists/"><u>Navigating the Tech World: Tips & Reviews From Tom's Hardware Specialists</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/resoudre-rapidement-les-problemes-de-synchronisation-des-dossiers-de-travail-sur-votre-ordinateur/"><u>Résoudre Rapidement Les Problèmes De Synchronisation Des Dossiers De Travail Sur Votre Ordinateur</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-massless-carbon-fiber-enhanced-batteries-the-key-to-ultra-lightweight-gadgets/"><u>Revolutionary Massless Carbon-Fiber Enhanced Batteries - The Key to Ultra Lightweight Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ryzens-cutting-edge-ai-300-series-arrives-sooner-than-expected-preorder-before-july-28th-at-best-buy/"><u>Ryzen's Cutting-Edge AI 300 Series Arrives Sooner Than Expected – Preorder Before July 28Th at Best Buy.</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-display-management-in-windows-11/"><u>Understanding Display Management in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-secrets-of-windows-function-fn-control-techniques/"><u>Unlocking Secrets of Windows' Function (Fn) Control Techniques</u></a></li>
+</ul></div>
+

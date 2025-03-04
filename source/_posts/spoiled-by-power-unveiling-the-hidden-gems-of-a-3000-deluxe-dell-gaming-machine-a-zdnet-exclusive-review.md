@@ -1,7 +1,7 @@
 ---
 title: "Spoiled by Power: Unveiling the Hidden Gems of a $3,000 Deluxe Dell Gaming Machine - A ZDNET Exclusive Review"
-date: 2025-01-26T21:55:51.574Z
-updated: 2025-02-03T01:03:16.330Z
+date: 2025-02-08T16:23:16.691Z
+updated: 2025-02-15T16:45:22.266Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -99,7 +99,7 @@ There are a total of five vents on the m18 R2, allowing for maximum internal air
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,18 +138,22 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-look-ultraedit-pro-for-video-cutting-2023/"><u>2024 Approved In-Depth Look UltraEdit Pro for Video Cutting 2023</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964494295-catch-the-steal-of-a-lifetime-premium-corsairs-1000w-small-form-factor-psu-at-an-unbeatable-price/"><u>Catch the Steal of a Lifetime - Premium Corsair's 1000W Small Form Factor PSU at an Unbeatable Price!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-infinix-note-30-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Infinix Note 30 Pro Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-iphone-xs-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On iPhone XS Smoothly</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-performance-detailed-assessment-of-the-85erwatt-thermaltake-toughpower-gf3-atx-v3-power-supply-unit-review/"><u>Inside the Performance: Detailed Assessment of the 85Erwatt Thermaltake Toughpower GF3 ATX V3 Power Supply Unit Review</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/pixelated-prowess-celebrating-the-best-shooter-classics-for-2024/"><u>Pixelated Prowess Celebrating the Best Shooter Classics for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/reviving-your-memories-steps-to-recover-pictures-and-footage-on-smartmedia-cards/"><u>Reviving Your Memories: Steps to Recover Pictures and Footage on SmartMedia Cards</u></a></li>
-<li><a href="https://extra-support.techidaily.com/snapchat-like-stories-adding-movement-to-instagram-texts-for-2024/"><u>Snapchat-Like Stories Adding Movement to Instagram Texts for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-from-toms-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-and-expert-advice-on-latest-gadgets/"><u>Tom's Tech Reviews: In-Depth Analysis and Expert Advice on Latest Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-gadget-analysis-t17239718750361/"><u>Tom's Tech Reviews: In-Depth Gadget Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/two-models-of-cyberpower-uninterruptible-power-supplies-linked-to-potential-fire-danger-by-consumers/"><u>Two Models of CyberPower Uninterruptible Power Supplies Linked to Potential Fire Danger by Consumers</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unleash-your-creativity-wevideos-intuitive-video-creation-platform/"><u>Updated 2024 Approved Unleash Your Creativity WeVideos Intuitive Video Creation Platform</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-reaper-remixing-rituals-volume-control-chronicles/"><u>[New] Reaper Remixing Rituals Volume Control Chronicles</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-action-videography-showdown-hero-5-black-or-km-170/"><u>[Updated] 2024 Approved Action Videography Showdown Hero 5 Black or KM-170?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-learn-quickly-flipping-video-sequence-android-style/"><u>[Updated] Learn Quickly Flipping Video Sequence Android-Style</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-harnessing-the-power-of-burst-mode-for-dynamic-videos/"><u>2024 Approved Harnessing the Power of Burst Mode for Dynamic Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-zenith-of-zoom-audio-fine-tuning-for-peak-performance/"><u>2024 Approved Zenith of Zoom Audio Fine-Tuning for Peak Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-swift-pg3/"><u>Asus ROG Swift PG3</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-the-asus-rog-nuc-970-ultraportable-desktop-with-robust-performance/"><u>Comprehensive Review of the Asus ROG NUC 970 - Ultraportable Desktop with Robust Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-versatile-biz-decks-free-template-and-resource-options/"><u>In 2024, Versatile Biz Decks FREE Template and Resource Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-testing-the-long-lasting-endurance-of-asus-tuf-gaming-a14/"><u>In-Depth Review: Testing the Long-Lasting Endurance of Asus TUF Gaming A14</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/levelplay-combat-air-ca4-cpu-cooler-a-thorough-review-on-low-noise-high-performance-cooling-excellence/"><u>Levelplay Combat Air CA^4 CPU Cooler: A Thorough Review on Low Noise, High Performance Cooling Excellence</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/rev-up-your-earnings-a-deep-dive-into-vimeo-profits/"><u>Rev Up Your Earnings A Deep Dive Into Vimeo Profits</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/startling-discovery-a-look-into-microsofts-groundbreaking-research-on-changes-to-modern-work-practices-based-on-a-whopping-31000-responses/"><u>Startling Discovery! A Look Into Microsoft's Groundbreaking Research on Changes to Modern Work Practices, Based on a Whopping 31,000 Responses</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-performance-to-new-heights-with-overclocked-crucial-c36-memory-sticks-a-ddr5-powerhouse-examined/"><u>Taking Performance to New Heights with Overclocked Crucial C36 Memory Sticks – A DDR5 Powerhouse Examined</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Insights - Your Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-the-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech: The Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrading-your-setup-wisely-turn-to-insider-knowledge-at-toms-hardware/"><u>Upgrading Your Setup Wisely? Turn to Insider Knowledge at Tom's Hardware</u></a></li>
 </ul></div>
 

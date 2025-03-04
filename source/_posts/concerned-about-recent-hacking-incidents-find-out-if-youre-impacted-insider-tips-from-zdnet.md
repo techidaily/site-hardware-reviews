@@ -1,7 +1,7 @@
 ---
 title: Concerned About Recent Hacking Incidents? Find Out If You're Impacted – Insider Tips From ZDNet
-date: 2024-09-18 13:11:59
-updated: 2024-09-20 11:44:24
+date: 2025-02-09T16:09:55.226Z
+updated: 2025-02-15T16:53:36.967Z
 tags:
   - cyber-threats
 categories:
@@ -43,6 +43,10 @@ For individuals, the damage can be more personal than figures on a balance sheet
 
 Here's how data breaches occur, how they can impact you, and what you can do in the aftermath. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to find out if you've been involved in a data breach
 
 ## 1\. Check to see if you've been contacted
@@ -60,6 +64,10 @@ Recent reported data breaches include MCNA Dental, Dish Network, PharMerica, and
 Have I Been Pwned is a search engine that you can use to see if your data has been breached.
 
 Screenshot by Charlie Osborne/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Visit Have I Been Pwned
 
@@ -105,6 +113,10 @@ If your payment card details, bank accounts, or other digital financial services
 
 Screenshot by Charlie Osborne/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Change your passwords immediately
 
 What you do next depends on the **severity** and **type** of data breach. The likelihood is that you have already had your personally identifiable information (PII) leaked in some form or another online regarding basic details -- such as your name and email address. In this scenario, there is not much you can do. 
@@ -116,6 +128,10 @@ It's good practice, in any case, to change your online credentials at least ever
 **Also**: [**Personally identifiable information (PII): What it is, how it's used, and how to protect it**](https://www.zdnet.com/article/personally-identifiable-information-pii-what-it-is-how-its-used-and-how-to-protect-it/)
 
 Screenshot by Charlie Osborne/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Enable two-factor authentication
 
@@ -193,6 +209,10 @@ In some cases, network intrusions are for one reason alone: to [disrupt services
 
 Some miscreants download data and make these data dumps freely available online, posting them to resources such as [Pastebin](https://pastebin.com/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the dark web?
 
 The Internet as a system can be divided into three layers: the clear web, the deep web, and the dark web. 
@@ -230,11 +250,29 @@ Unfortunately, it is up to individuals to deal with the fallout; knowing you've 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-top-5-3d-intro-makers-for-youtube-videos/"><u>[New] In 2024, Top 5 3D Intro Makers for YouTube Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-chromebooks-ultimate-sniping-software-our-5-favorites/"><u>[Updated] 2024 Approved Chromebook's Ultimate Sniping Software Our 5 Favorites</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-from-beginner-to-pro-the-top-tips-for-instagram-stories/"><u>[Updated] From Beginner to Pro The Top Tips for Instagram Stories</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-mirthful-mayhem-makers/"><u>[Updated] In 2024, Mirthful Mayhem Makers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhance-your-typing-experience-upgrade-to-a-luxurious-mx-palm-rest-by-logitech-at-only-11/"><u>Enhance Your Typing Experience: Upgrade to a Luxurious MX Palm Rest by Logitech at Only $11!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964487700-experience-enhanced-productivity-with-sabrents-350-hybrid-display-and-thunderbolt-dock-featuring-65w-usb-c-ethernet-ports-and-more/"><u>Experience Enhanced Productivity with Sabrent's $350 Hybrid Display and Thunderbolt Dock - Featuring 65W USB-C, Ethernet Ports, and More</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-personalized-typing-with-xyza-tiny-keyboard-v20-new-features-include-triple-tailored-keys-and-adjustable-dial-for-enhanced-usability/"><u>Experience Personalized Typing with XYZA Tiny Keyboard v2.0 – New Features Include Triple-Tailored Keys and Adjustable Dial for Enhanced Usability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-insights-by-tom-your-trusted-source/"><u>Expert Hardware Insights by Tom - Your Trusted Source</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-13-mini-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 13 mini With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-professionals-choice-top-10-afx-templates-for-free/"><u>In 2024, Professionals' Choice Top 10 AFX Templates for FREE</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-gadget-analysis-by-toms-electronics-guide/"><u>In-Depth Gadget Analysis by Tom's Electronics Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-best-automatic-transcription-software/"><u>New The Best Automatic Transcription Software</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/preventing-and-remedying-paper-misalignment/"><u>Preventing and Remedying Paper Misalignment</u></a></li>
+<li><a href="https://win-online.techidaily.com/real-time-streaming-of-tweets-mentioning-bitcoin-or-ethereum/"><u>Real-Time Streaming of Tweets Mentioning Bitcoin or Ethereum.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-productivity-with-nuphy-gem80-a-seamless-custom-keyboard-journey/"><u>Unlocking Productivity with Nuphy Gem80: A Seamless Custom Keyboard Journey</u></a></li>
+</ul></div>
+

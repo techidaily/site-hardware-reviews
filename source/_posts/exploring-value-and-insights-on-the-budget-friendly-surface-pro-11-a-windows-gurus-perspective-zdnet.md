@@ -1,7 +1,7 @@
 ---
 title: "Exploring Value & Insights on the Budget-Friendly Surface Pro 11: A Windows Guru's Perspective - ZDNet"
-date: 2025-01-28T00:00:45.394Z
-updated: 2025-02-03T00:26:29.375Z
+date: 2025-02-12T17:21:41.199Z
+updated: 2025-02-15T17:13:58.182Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Ed Bott/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -45,7 +49,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -61,7 +65,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -81,7 +85,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -120,10 +124,6 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,17 +192,20 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-dreamer-to-doer-sign-up-for-a-youtube-channel/"><u>[Updated] In 2024, From Dreamer To Doer Sign Up for a YouTube Channel</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-push-past-a-thousand-views-in-minimal-time/"><u>[Updated] In 2024, Push Past a Thousand Views in Minimal Time</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-direct-tweeting-to-your-facebook-followers/"><u>2024 Approved Direct Tweeting to Your Facebook Followers</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-driving-revenue-with-well-crafted-youtube-channel-trailers/"><u>2024 Approved Driving Revenue with Well-Crafted YouTube Channel Trailers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>How to Fix This Computer Does Not Meet the Minimum Requirement for Installing Software. When Installing Intel Graphics Driver</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-on-windows-7-by-drivereasy-guide/"><u>How to install hardware device drivers manually on Windows 7</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/include-at-least-three-rhetorical-questions-to-engage-the-audience/"><u>Include at Least Three Rhetorical Questions to Engage the Audience</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/professional-gamers-and-developers-must-try-the-corsair-vengeance-ddr5-5200-c38-4x48gb-memory-module-in-depth-review/"><u>Professional Gamers & Developers Must Try the Corsair Vengeance DDR5-5200 C38 4X48GB Memory Module: In-Depth Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/rising-memory-chip-costs-as-output-drops-and-consumer-demand-soars/"><u>Rising Memory Chip Costs as Output Drops and Consumer Demand Soars</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-performance-analysis/"><u>Tom's Tech Insights: Expert Reviews and Performance Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-t17239724903076/"><u>Tom's Tech Insights: The Ultimate Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-and-fixing-the-absent-dciman32dll-error-on-your-pc/"><u>Understanding and Fixing the Absent dciman32.dll Error on Your PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-beyond-binary-boundaries-unveiling-metaverse-vs-multiverse/"><u>[New] Beyond Binary Boundaries Unveiling Metaverse V/S Multiverse</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-iphone-scaling-images-quickly/"><u>[New] Mastering iPhone Scaling Images Quickly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-navigating-the-path-to-prominence-9-proven-strategies-for-instagram-stars/"><u>2024 Approved Navigating the Path to Prominence 9 Proven Strategies for Instagram Stars</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/2x48gb-powerhouse-unveiled-explore-the-might-of-gskills-trident-z5-rgb-ddr5-ram-for-ultimate-motherboard-pairing/"><u>2X48GB Powerhouse Unveiled: Explore the Might of G.SKILL's Trident Z5 RGB DDR5 RAM for Ultimate Motherboard Pairing!</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-tecno-pop-7-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Tecno Pop 7 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-innovations-in-computing-with-toms-hardware-insights/"><u>Exploring Innovations in Computing with Tom's Hardware Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-discord-from-crashing-during-live-streams-solutions-unveiled/"><u>How to Stop Discord From Crashing During Live Streams - Solutions Unveiled</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-advice-from-toms-hardware-hub/"><u>In-Depth Reviews and Advice From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computers-with-tom-essential-hardware-guides/"><u>Navigating the World of Computers with Tom: Essential Hardware Guides</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-unleash-creativity-top-10-must-have-plugins-for-final-cut-pro-x-users/"><u>New Unleash Creativity Top 10 Must-Have Plugins for Final Cut Pro X Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-microsoft-surface-pro-xplored-copilotplus-addition-brings-beauty-and-questionable-ai-strength/"><u>The Microsoft Surface Pro Xplored – Copilot+ Addition Brings Beauty and Questionable AI Strength</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-review-the-ultimate-guide/"><u>Tom's Computer Review: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-performance-and-quality-a-deep-dive-into-the-maxsun-terminator-z790m-d5-ice-white-microatx-motherboard-five-mc2-sockets/"><u>Unveiling Performance & Quality - A Deep Dive Into the Maxsun Terminator Z790M D5 Ice White MicroATX Motherboard (Five M.C2 Sockets)</u></a></li>
 </ul></div>
 

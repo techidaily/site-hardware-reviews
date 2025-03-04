@@ -1,7 +1,7 @@
 ---
 title: "Apple Event Highlights: IPhone 16 Showcases Glowtime Technology, Advanced Watch Series and AirPods Updates - Insights Revealed | ZDNet"
-date: 2024-09-19 20:41:55
-updated: 2024-09-20 10:20:40
+date: 2025-02-09T16:48:14.207Z
+updated: 2025-02-15T16:11:32.980Z
 tags:
   - headphones
 categories:
@@ -22,6 +22,10 @@ Although the hardware was the star of the show and WWDC, its software event, was
 **Also: [4 best iPhone 16 features that make Apple's standard model worth upgrading to](https://www.zdnet.com/article/4-best-iphone-16-features-that-make-apples-standard-model-worth-upgrading-to/)**
 
 If you didn't get to tune in or want a detailed summary of the announcements, keep reading for ZDNET's full roundup of the news below. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. iPhone 16 series
 
@@ -55,6 +59,10 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Apple Watch Series 10
 
 Kerry Wan/ZDNET
@@ -74,6 +82,10 @@ The Apple Watch Series 10 starts at $399, is available for pre-order starting to
 Alongside the Watch Series 10, Apple announced a new satin black finish for its Watch Ultra 2, which is tailored to avid athletes and outdoor enthusiasts. It starts at $799; pre-orders start today and ship out on September 20\. 
 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. AirPods 4
 
@@ -99,6 +111,10 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Apple Intelligence updates
 
 Screenshot by Kayla Solino/ZDNET
@@ -112,6 +128,10 @@ During today's event, Apple mostly reviewed the features it had previously unvei
 The biggest highlight was the launch of Visual Intelligence, Apple's answer to Google Lens. Like Google Lens, you can take photos of your surroundings, such as a dog or restaurant, and get personalized insights and relevant information on what you captured.
 
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
 
@@ -150,11 +170,27 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-direction-and-intensity-in-video-lighting/"><u>[New] In 2024, Direction and Intensity in Video Lighting</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-customize-your-youtube-view-adjust-speed-settings/"><u>[Updated] 2024 Approved Customize Your YouTube View Adjust Speed Settings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-insights-into-whatsapps-voice-chatting-capabilities/"><u>[Updated] Insights Into WhatsApp's Voice Chatting Capabilities</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-multimedia-text-producer/"><u>2024 Approved Multimedia Text Producer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/androids-lightroom-app-a-complete-evaluation-for-2024/"><u>Android's Lightroom App A Complete Evaluation for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/collaborations-with-urban-gardening-influencers/"><u>Collaborations with Urban Gardening Influencers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-x100-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo X100</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-delving-deep-youtubes-revenue-system-from-publisher-to-you/"><u>In 2024, Delving Deep YouTube's Revenue System From Publisher to You</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y36-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y36 Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nuphy-halo75-v2-review-top-performance-at-a-wallet-friendly-price-for-gamers/"><u>Nuphy Halo75 V2 Review: Top Performance at a Wallet-Friendly Price for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-hidden-gem-in-gaming-displays-an-in-depth-evaluation-of-the-pixio-px277-oled-max/"><u>The Hidden Gem in Gaming Displays: An In-Depth Evaluation of the Pixio PX277 OLED MAX</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-high-performance-hardware-according-to-tom/"><u>The Ultimate Guide to High-Performance Hardware According to Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-detailed-reviews-and-gadget-analysis/"><u>Tom's Tech Hub: Detailed Reviews and Gadget Analysis</u></a></li>
+</ul></div>
+

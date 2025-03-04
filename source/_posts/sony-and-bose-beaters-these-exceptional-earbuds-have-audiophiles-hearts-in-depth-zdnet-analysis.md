@@ -1,7 +1,7 @@
 ---
 title: "Sony & Bose Beaters? These Exceptional Earbuds Have Audiophiles' Hearts: In-Depth ZDNet Analysis"
-date: 2024-09-19 18:12:36
-updated: 2024-09-20 12:41:16
+date: 2025-02-08T16:32:05.181Z
+updated: 2025-02-15T16:43:08.458Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
 ![Navy Bowers and Wilkins Pi8 earbuds](https://www.zdnet.com/a/img/resize/bc25202295e80eead7160620c83a7121b488471e/2024/08/20/de5438f7-daa5-426c-bb4a-1e093275405b/dsc02208.jpg?auto=webp&width=1280)
 
 Nina Raemont/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways 
 
@@ -66,6 +70,10 @@ Another area where I had trouble was with connectivity. One earbud, regardless o
 
 Bowers and Wilkins changed the microphone position on these headphones for improved phone call performance, but I used them on a call with my manager, and she pointed out that my voice sounded muffled through the earbuds. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice 
 
 Are the [Bowers & Wilkins Pi8 earbuds](https://bowers.prf.hn/click/camref:1101lAqJH/pubref:zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/destination:https%3A%2F%2Fwww.bowerswilkins.com%2Fen-us%2F) worth $400? It's a tough call, but I'd say to keep an eye out for when they go on sale. These earbuds certainly offer delicious sound and a comfortable, luxurious build that makes them great for audiophiles. But the battery life and connectivity might pose some problems for some users. 
@@ -93,11 +101,27 @@ The bottom line is that it's tough to find earbuds with sound quality at this le
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-become-an-insta-celebrity-overnight-top-15-strategies-from-social-media-experts/"><u>[New] Become an Insta Celebrity Overnight Top 15 Strategies From Social Media Experts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-elite-videochats-enabling-online-meeting-excellence/"><u>[Updated] 2024 Approved Elite Videochats Enabling Online Meeting Excellence</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-visual-gastronomy-a-chefs-guide-to-film-production-for-2024/"><u>[Updated] Visual Gastronomy A Chef's Guide to Film Production for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/bring-your-cartoons-to-life-top-mobile-animation-apps/"><u>Bring Your Cartoons to Life Top Mobile Animation Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-latest-in-computing-with-toms-hardware-review/"><u>Explore the Latest in Computing with Tom's Hardware Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-xiaomi-13t-pro-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Xiaomi 13T Pro with Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-11-pro-max-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 11 Pro Max to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-x-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your iPhone X</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-technology-with-toms-gear-guides/"><u>Navigating Through Technology with Tom's Gear Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-keychron-q1-he-released-experience-the-ultimate-in-wireless-keyboards/"><u>Revolutionary Keychron Q1 HE Released: Experience the Ultimate in Wireless Keyboards</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/strategies-for-monetizing-your-content-without-infringement-for-2024/"><u>Strategies for Monetizing Your Content Without Infringement for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-in-depth-reviews-and-advice/"><u>Tom's Computer Components - In-Depth Reviews and Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-hub-expert-reviews-and-innovative-pc-building-tips/"><u>Tom's Computer Hub: Expert Reviews & Innovative PC Building Tips</u></a></li>
+</ul></div>
+

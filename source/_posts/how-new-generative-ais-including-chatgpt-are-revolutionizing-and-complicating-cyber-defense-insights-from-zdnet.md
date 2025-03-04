@@ -1,7 +1,7 @@
 ---
 title: How New Generative AIs, Including ChatGPT, Are Revolutionizing and Complicating Cyber Defense | Insights From ZDNet
-date: 2024-09-18 17:40:25
-updated: 2024-09-20 10:52:44
+date: 2025-02-10T16:53:37.385Z
+updated: 2025-02-15T17:16:53.700Z
 tags:
   - cyber-threats
 categories:
@@ -82,11 +82,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-climb-the-social-ladder-a-guide-to-higher-facebook-page-ranks/"><u>[New] How to Climb the Social Ladder A Guide to Higher Facebook Page Ranks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-toggle-pip-for-streaming-youtube-videos-more-conveniently-with-iphone/"><u>2024 Approved Toggle PIP for Streaming Youtube Videos More Conveniently with iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/avoid-unwanted-calls-disabling-your-phone-number-visibility-on-android-phones/"><u>Avoid Unwanted Calls: Disabling Your Phone Number Visibility on Android Phones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benefits-of-moving-up-to-the-new-generation-ryzen-cpu-is-it-worth-it/"><u>Benefits of Moving Up to the New Generation Ryzen CPU: Is It Worth It?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/build-the-ultimate-gaming-rig-top-picks-for-z790-mobo-and-aio-cooler-combinations/"><u>Build the Ultimate Gaming Rig: Top Picks for Z790 Mobo & AIO Cooler Combinations</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/enriching-zoom-video-clarity-essential-tips-for-2024/"><u>Enriching Zoom Video Clarity Essential Tips for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-a-display-driver-that-stopped-then-came-back-online/"><u>How to Troubleshoot a Display Driver That Stopped Then Came Back Online</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-gear-guide-the-ultimate-hardware-resource/"><u>Tom's Computer Gear Guide: The Ultimate Hardware Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-in-depth-computer-and-electronics-reviews/"><u>Tom's Tech Hub: In-Depth Computer and Electronics Reviews</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

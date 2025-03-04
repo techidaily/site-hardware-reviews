@@ -1,7 +1,7 @@
 ---
 title: "Top July 2024 Laptop Offers: Exclusive Savings From ZDNet"
-date: 2025-02-01T19:53:07.114Z
-updated: 2025-02-02T23:42:19.212Z
+date: 2025-02-13T16:48:11.774Z
+updated: 2025-02-15T17:16:48.925Z
 tags:
   - laptops
 categories:
@@ -95,6 +95,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64b42205-96dc-4b01-a7c5-12f41ce673a9%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Alternative laptop deals
 
 ### Amazon laptop deals
@@ -124,7 +128,7 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [HP Chromebook X360 14-inch FHD touchscreen 2-in-1 laptop deal for $279 (save $120) $279 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-inch-FHD-IPS-Touch-2-in-1-Laptop-Intel-Processor-N100-4GB-RAM-64GB-eMMC-Sky-Blue%2F5123764557&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best Buy laptop deals
@@ -150,7 +154,7 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these laptop deals?
@@ -175,16 +179,12 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
 
@@ -204,7 +204,7 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best deals by category
@@ -257,18 +257,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-infographic-dji-mavic-air-vs-dji-spark-a-gamer-changer-again/"><u>[Updated] [Infographic] DJI Mavic Air Vs. DJI Spark - A Gamer Changer Again</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-tips-on-how-skip-edgenuity-videos-easily/"><u>[Updated] In 2024, Tips on How Skip Edgenuity Videos Easily</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-from-tiktok-to-instagram-stardom-replicating-popular-reel-techniques/"><u>2024 Approved From TikTok to Instagram Stardom Replicating Popular Reel Techniques</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-ultimate-cooling-detailed-examination-of-the-5-uphere-m201-nvme-ssd-heatsink/"><u>Affordable Ultimate Cooling: Detailed Examination of the $5 UpHere M201 NVMe SSD Heatsink</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-your-hp-laptops-speed-identifying-causes-and-implementing-effective-fixes/"><u>Boost Your HP Laptop's Speed: Identifying Causes and Implementing Effective Fixes</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/discover-the-coolest-20-animated-concepts-on-tiktok-for-2024/"><u>Discover the Coolest 20 Animated Concepts on TikTok for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-chinese-tech-startups-opt-for-affordable-performance-with-geforce-gaming-cards-over-expensive-sanction-compliant-nvidia-ais-the-value-edge-of-the-rtx-408/"><u>How Chinese Tech Startups Opt for Affordable Performance with GeForce Gaming Cards Over Expensive Sanction-Compliant Nvidia AIs: The Value Edge of the RTX 4090</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/nvidias-blackwell-graphics-cards-face-setback-potential-redesign-leads-to-projected-3-month-launch-postponement/"><u>Nvidia's Blackwell Graphics Cards Face Setback: Potential Redesign Leads to Projected 3-Month Launch Postponement</u></a></li>
-<li><a href="https://blog-min.techidaily.com/troubleshooting-itunes-launch-failures-on-macos-devices-for-seamless-music-experience/"><u>Troubleshooting iTunes Launch Failures on macOS Devices for Seamless Music Experience</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/turbocharge-your-mobile-gameplay-nextorages-cutting-edge-ssd-sets-new-speed-benchmark-at-74gbs/"><u>Turbocharge Your Mobile Gameplay: Nextorage's Cutting-Edge SSD Sets New Speed Benchmark at 7.4GB/S</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/unleashing-creativity-in-tiktok-intros-your-ultimate-macguide-for-2024/"><u>Unleashing Creativity in TikTok Intros Your Ultimate MacGuide for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-toms-comprehensive-hardware-analysis/"><u>Unveiling the Latest Gadgets - Tom's Comprehensive Hardware Analysis</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-say-goodbye-to-watermarks-best-online-tiktok-video-editors/"><u>Updated 2024 Approved Say Goodbye to Watermarks Best Online TikTok Video Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-10-finest-iphone-photo-editors-and-filters/"><u>[New] Explore the 10 Finest iPhone Photo Editors & Filters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-first-contact-with-freight-elevating-the-opening-moment/"><u>[Updated] First Contact with Freight Elevating the Opening Moment</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-social-media-strategy-decoding-igtv-versus-youtubes-features/"><u>[Updated] In 2024, Social Media Strategy Decoding IGTV Versus YouTube's Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/assessing-the-lofree-edge-a-lightweight-thin-choice-comparatively-priced-against-the-apple-magic-keyboard/"><u>Assessing the Lofree Edge: A Lightweight, Thin Choice - Comparatively Priced Against the Apple Magic Keyboard</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/beginner-friendly-approach-to-iphone-screen-casts/"><u>Beginner-Friendly Approach to Iphone Screen Casts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-lenovos-latest-innovation-the-ultraportable-yoga-pro-surveying-its-sleek-build-and-satisfying-key-travel/"><u>Comprehensive Review of Lenovo's Latest Innovation – The Ultraportable Yoga Pro Surveying Its Sleek Build and Satisfying Key Travel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341755981-cutting-edge-resin-3d-printing-with-the-new-elegoo-saturn-4-ultra-expert-review-inside/"><u>Cutting-Edge Resin 3D Printing with the New Elegoo Saturn 4 Ultra - Expert Review Inside</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-test-and-analysis-of-levelplay-combat-air-ca4-cpu-cooler-achieving-silent-high-performance/"><u>Detailed Test & Analysis of Levelplay Combat Air CA4 CPU Cooler: Achieving Silent High-Performance</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210934978-9781782499060-empower-your-life-with-sophrology/"><u>Empower Your Life with Sophrology | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-and-buying-guides-for-all-things-electronics-toms-hardware/"><u>Expert Analysis & Buying Guides for All Things Electronics - Tom's Hardware</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-inside-secrets-to-stunning-photography-with-canva/"><u>In 2024, Inside Secrets to Stunning Photography with Canva</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-storm-expert-advice-to-prevent-frequent-crashes-in-risk-of-rain-2/"><u>Master the Storm: Expert Advice to Prevent Frequent Crashes in Risk of Rain 2</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-tech-with-toms-detailed-review-hub/"><u>Navigate the World of Tech with Tom's Detailed Review Hub</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-ultimate-tips-for-editing-audios-using-avidemux-2023-edition/"><u>New Ultimate Tips for Editing Audios Using Avidemux - 2023 Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-flsun-s1-high-speed-performance-in-a-quirky-design/"><u>Review of FLSun S1: High-Speed Performance in a Quirky Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-asrocks-z79-1-lightning-wi-fi-features-review-a-surprising-blend-of-miniaturization-and-power/"><u>The Ultimate Guide to ASRock's Z79 1 Lightning Wi-Fi Features Review: A Surprising Blend of Miniaturization and Power</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-best-iphoneipad-vpn-providers-expert-reviews-and-ratings-zdnet/"><u>Ultimate Guide to Choosing the Best iPhone/iPad VPN Providers: Expert Reviews and Ratings | ZDNET</u></a></li>
 </ul></div>
 

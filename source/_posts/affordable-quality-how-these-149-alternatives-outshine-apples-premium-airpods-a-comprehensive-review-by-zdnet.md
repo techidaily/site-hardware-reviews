@@ -1,7 +1,7 @@
 ---
 title: "Affordable Quality: How These $149 Alternatives Outshine Apple's Premium AirPods - A Comprehensive Review by ZDNet"
-date: 2024-09-18 10:38:17
-updated: 2024-09-20 12:20:26
+date: 2025-02-12T16:53:01.170Z
+updated: 2025-02-15T17:12:44.799Z
 tags:
   - headphones
 categories:
@@ -35,6 +35,10 @@ Anker's audio arm, Soundcore, recently introduced the Liberty 4 earbuds which, a
 
 For how much the Liberty 4 costs, don't expect the earbuds to go toe-for-toe with the [latest and greatest](https://www.zdnet.com/article/best-wireless-earbuds/). Instead, the Soundcore buds excel in smaller aspects, including health tracking and multi-device connectivity, taking small wins that add up to a well-rounded experience. And if those features happen to fall under your priority list, then the Liberty 4 may be one of the best options available. Read on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications 
 
 | Type          | True wireless, In-canal, Active Noise Canceling (ANC), Adaptive Noise Canceling |
@@ -50,6 +54,10 @@ For how much the Liberty 4 costs, don't expect the earbuds to go toe-for-toe wit
 | Price         | [$149](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fliberty-4-a3953z11)                    |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Design and fit
 
@@ -75,6 +83,10 @@ The two earbuds fit snugly in the slide-out charging case.
 
 Christina Darby/ ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Sound quality: Less is more
 
 The sound quality on these earbuds is not market-leading by any means, but it's great for the price. While spatial audio is not as immersive as [Apple's AirPods Pro 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Generation-Cancelling-Personalized-Customizable%2Fdp%2FB0BDHWDR12%2Fref%3Dasc%5Fdf%5FB0BDHWDR12%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C38123440-7154-475c-9ec5-863c9575c9c6%7Cdtp&dtb=1) and the earbuds don't have dozens of fancy certifications, the LDAC encoding is sufficient for wireless, lossless audio playback. Generally speaking, listening to music and podcasts on the Liberty 4 is more than passable, especially if you don't consider yourself to be an audiophile. You may not hear every individual instrument or _feel_ the bass as you would on higher-end earbuds, but coming from the AirPods -- as did my colleague Sabrina Ortiz when she gave the buds a listen -- there were times when we found the Liberty 4 to sound better than Apple's offering.
@@ -90,6 +102,10 @@ In hopes of improving the sound experience, I tried Soundcore's HearID ANC, a cu
 The cushioned ear tips' passive noise cancellation is more useful than HearID ANC.
 
 Christina Darby/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Microphone quality
 
@@ -120,6 +136,10 @@ If I'm listening to my classical playlist as I churn out an article, but suddenl
 With the added health features, the Soundcore app is the cornerstone of the Liberty 4's listening and functional experience. There are pluses and minuses to that. On the positive side, the app is the key to accessing heart rate and stress level data, adjusting EQ, and the ANC HearID test. It gives you greater control over what the earbuds do. On the other end, the heavy reliance on the service can take away from the purity of just popping on a pair of earbuds and listening to them for what they are. 
 
 [Anker Liberty 4 Earbuds $149 at Soundcore](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fus.soundcore.com%2Fproducts%2Fliberty-4-a3953z11)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom Line
 
@@ -156,11 +176,33 @@ Besides the Soundcore Liberty 4, here are three other wireless earbuds that you 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-fabricate-fascinating-face-painting-gifs-on-giphy/"><u>[New] Fabricate Fascinating Face-Painting Gifs on Giphy</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-display-match-top-6-hdmi-21-monitors-compared/"><u>[New] The Ultimate Display Match Top 6 HDMI 2.1 Monitors Compared</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-yts-game-changers-the-elite-ladies-in-gaming/"><u>[New] YT's Game Changers The Elite Ladies in Gaming</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-maximize-youtube-income-insights-and-techniques/"><u>[Updated] Maximize Youtube Income Insights and Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/breaking-down-the-selfie-security-on-insta/"><u>Breaking Down the Selfie Security on Insta</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-de-fichiers-au-vers-wav-service-gratuit-en-ligne-avec-movavi/"><u>Conversion De Fichiers Au Vers WAV - Service Gratuit en Ligne Avec Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mac-camera-issues-resolve-them-with-these-easy-techniques/"><u>Mac Camera Issues? Resolve Them with These Easy Techniques!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadget-trends-discovering-new-horizons-at-toms-hardware-hub/"><u>Navigating Gadget Trends: Discovering New Horizons at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-modern-computing-a-dive-into-toms-world-of-hardware/"><u>Navigating Modern Computing - A Dive Into Tom's World of Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-innovations-insights-from-toms-hardware/"><u>Navigating New Innovations: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-tech-trends-wisdom-from-toms-hardware/"><u>Navigating Tech Trends: Wisdom From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-digital-world-with-toms-hardware-experts/"><u>Navigating the Digital World with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-hardware-with-toms-guides/"><u>Navigating the World of Hardware with Tom's Guides</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/results-with-ethical-audience-engagement-on-youtube/"><u>Real Results with Ethical Audience Engagement on Youtube</u></a></li>
+<li><a href="https://driver-download.techidaily.com/startech-drivers-troubleshooting-solutions-in-windows-10-and-earlier-versions/"><u>StarTech Drivers Troubleshooting Solutions in Windows 10 and Earlier Versions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-hardware-guide-smart-selections-from-toms-technological-insight/"><u>The Ultimate Hardware Guide: Smart Selections From Tom's Technological Insight</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-gt-neo-5-se-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-review-expert-insights-on-tech-gadgets/"><u>Tom's Computer Review: Expert Insights on Tech Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-reviews-on-memory-processors-and-more-at-tome-hardware-hub/"><u>Top Reviews on Memory, Processors, and More at Tom'e Hardware Hub</u></a></li>
+</ul></div>
+

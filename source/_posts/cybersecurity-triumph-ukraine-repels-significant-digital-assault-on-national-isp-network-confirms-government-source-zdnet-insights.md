@@ -1,7 +1,7 @@
 ---
 title: "Cybersecurity Triumph: Ukraine Repels Significant Digital Assault on National ISP Network, Confirms Government Source | ZDNET Insights"
-date: 2024-09-19 18:38:17
-updated: 2024-09-20 10:27:45
+date: 2025-02-08T16:36:46.393Z
+updated: 2025-02-15T16:36:55.447Z
 tags:
   - cyber-threats
 categories:
@@ -53,11 +53,37 @@ The "entire IT-community of the world" is united against Russia's invasion, Shch
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/1716068653545-new-in-2024-top-12-capture-providers-never-stop/"><u>[New] In 2024, Top 12 Capture Providers, Never Stop!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-quick-window-snaps-in-winoses/"><u>[New] Quick Window Snaps in WinOSes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-dynamic-duo-enhancing-fb-live-with-monitor-sharing-capabilities/"><u>[Updated] 2024 Approved Dynamic Duo Enhancing Fb Live with Monitor Sharing Capabilities</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210178621-9781528968249-a-b-c-of-indian-astrology/"><u>A B C of Indian Astrology | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-3-3300x-outperforms-intel-core-i7-7700k-detailed-geekbench-comparisons/"><u>AMD Ryzen 3 3300X Outperforms Intel Core I7-7700K: Detailed Geekbench Comparisons</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oppo-a78-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Oppo A78? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-news-intel-alleged-to-halt-production-of-thunder-bay-hybrid-chip/"><u>Breaking News: Intel Alleged to Halt Production of Thunder Bay Hybrid Chip</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-technology-with-toms-gear-insights-your-source-for-latest-hardware-news/"><u>Dive Into Technology with Tom's Gear Insights: Your Source for Latest Hardware News</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dont-miss-out-next-weeks-thrilling-foldinghome-event-begins-soon/"><u>Don't Miss Out - Next Week's Thrilling Folding@Home Event Begins Soon</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-y78plus-t1-edition-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo Y78+ (T1) Edition FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964465096-galax-unveils-advanced-overclocking-motherboards-equipped-with-ddr5-memory-and-enhanced-voltage-regulation-systems/"><u>Galax Unveils Advanced Overclocking Motherboards - Equipped with DDR5 Memory and Enhanced Voltage Regulation Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tailor-made-ddr5-racks-from-team-group-boost-your-systems-speed-and-stability/"><u>Tailor-Made DDR5 Racks From Team Group: Boost Your System's Speed and Stability</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-racers-dilemma-gopro-hero-4-or-ghost-s/"><u>The Ultimate Racer's Dilemma GoPro Hero 4 or Ghost-S?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-uncovering-the-latest-in-computer-components/"><u>Tom's Tech Review: Uncovering the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-guides-and-insights-on-latest-hardware/"><u>Tom's Tech Reviews: Comprehensive Guides and Insights on Latest Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-the-latest-gadgets-and-computer-components/"><u>Tom's Tech Reviews: Expert Insights on the Latest Gadgets and Computer Components</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-productivity-secrets-the-definitive-list-of-gmails-best-keyboard-shortcuts/"><u>Unlock Productivity Secrets: The Definitive List of Gmail's Best Keyboard Shortcuts</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-rewind-and-play-the-quintet-of-best-opposite-direction-melodies/"><u>Updated 2024 Approved Rewind and Play The Quintet of Best Opposite-Direction Melodies</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

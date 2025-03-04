@@ -1,7 +1,7 @@
 ---
 title: "Maximize Lifespan: Affordable Anker Earbuds Outlast Apple's AirPods - Exclusive ZDNet Review"
-date: 2024-09-18 23:24:32
-updated: 2024-09-20 11:44:39
+date: 2025-02-11T16:52:49.080Z
+updated: 2025-02-15T16:50:09.401Z
 tags:
   - headphones
 categories:
@@ -34,6 +34,10 @@ Less noise, longer listening. That is Anker Soundcore's promise with its newly r
 
 For the past week, I've put these wireless earbuds to the test. Since then, I haven't had to charge them once, even after a series of office commutes, intensive workouts, and catch-up phone calls. Coming from the [Apple AirPods Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fairpods-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the improved endurance is astonishing. But how well do the earbuds fare in general? Let's take a deep dive. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications 
 
 | Microphones                | 1 internal, 1 external                                                                                                                                                                                                           |
@@ -47,6 +51,10 @@ For the past week, I've put these wireless earbuds to the test. Since then, I ha
 | Price                      | [$99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B1LVC5VZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb3b14712-b0cd-4b69-9a5b-31362c6b8416%7Cdtp&dtb=1) |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Design and fit 
 
@@ -65,6 +73,10 @@ On several occasions, I felt the Space A40 earbuds slipping out and I would fran
 Running while wearing the Space A40 was no better. Between the sweat and the more intense movement, the earbuds were constantly falling out just 0.8 of a mile into my usual 3-mile run. I also found them constantly falling out while doing my usual HIIT workout, which includes burpees and push-ups. 
 
 My experience with more weight-oriented training was better though, as there's not as much impact (or sweat) involved. If you, too, have small ears or a sweating issue, maybe reserve these earbuds for light cardio or smaller movements rather than for HIIT workouts and running. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Sound quality and noise cancellation
 
@@ -128,9 +140,17 @@ To charge the earbuds themselves, simply place them back in the case after use, 
 
 [Buy the Anker Soundcore Space A40 $59 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B1LVC5VZ%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb3b14712-b0cd-4b69-9a5b-31362c6b8416%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line  
 
 Despite the issues I encountered when wearing them running, I still think these are quality earbuds -- especially given their price. Whether you use them as a backup for your AirPods, AirPods Pro, or [Galaxy Buds 2](https://www.zdnet.com/product/samsung-galaxy-buds-2/) or as your primary headphones, you will get less sound for longer and at a lower price. They're perfect for commuting, hands-free phone calls, and leisurely exercise -- just maybe not intense cardio. So, if you're looking for an "office-to-gym-or-trail" kind of earbud, these may not be your go-to. If you're in the market for a solid pair of earbuds for your morning commute, I would highly recommend these. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider 
 
@@ -167,11 +187,33 @@ Sony's LinkBuds S noise-canceling earbuds, which are on sale right now at Target
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unlock-the-full-potential-of-pixiz-in-video-making/"><u>[New] 2024 Approved Unlock the Full Potential of Pixiz in Video Making</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-power-of-quantum-hdr-in-visual-arts/"><u>[New] The Power of Quantum HDR in Visual Arts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fresh-ideas-to-talk-about-in-daily-vlogging-for-2024/"><u>[Updated] Fresh Ideas to Talk About in Daily Vlogging for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-premium-webcam-selection-for-expert-recording/"><u>[Updated] In 2024, Premium Webcam Selection for Expert Recording</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-budget-calculation-for-shooting-a-music-video/"><u>2024 Approved Budget Calculation for Shooting a Music Video</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-elite-4k-reflections-the-best-mirrorless-picks/"><u>2024 Approved Elite 4K Reflections The Best Mirrorless Picks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2checkout-digiarty/"><u>2Checkout: Digiartyの信頼できるセキュリティを誇るオンライン支払いソリューション</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/approval-from-government-agencies-or-planning-commissions-is-typically-required-before-proceeding/"><u>Approval From Government Agencies or Planning Commissions Is Typically Required Before Proceeding.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-unresponsive-touchpad-scroll-issues-a-step-by-step-guide/"><u>Fixing Unresponsive Touchpad Scroll Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-honor-magic5-ultimate-is-unlocked-by-drfone-android/"><u>How To Check if Your Honor Magic5 Ultimate Is Unlocked</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-electronics-analysis-by-tom-your-guide-to-top-tech-picks/"><u>In-Depth Electronics Analysis by Tom – Your Guide to Top Tech Picks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-a-hardware-journey/"><u>Mastering Gadgets with Tom - A Hardware Journey</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-toms-hardware-hub/"><u>Mastering Gadgets with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-raspberry-pis-enhanced-speed-and-capacity-insights-from-our-in-depth-analysis-of-the-m2-hatplus/"><u>Navigating Through Raspberry Pi's Enhanced Speed and Capacity: Insights From Our In-Depth Analysis of the M.2 HAT+</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimizing-zoom-video-fidelity-comprehensible-guides-for-2024/"><u>Optimizing Zoom Video Fidelity Comprehensible Guides for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341683638-teamgroups-eco-ddr5-revolution-the-vulcan-memory-kit-ddr5-6000-c30-2x16gb-reviewed/"><u>TeamGroup's Eco-DDR5 Revolution: The Vulcan Memory Kit - DDR5-6000 C30, 2X16GB Reviewed!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-game-changer-amd-ryzen-5-9600x-and-ryzen-7-9700xs-superior-gaming-capabilities-in-zen-5-era/"><u>The Game Changer: AMD Ryzen 5 9600X & Ryzen 7 9700X's Superior Gaming Capabilities in Zen 5 Era</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-electronics-with-toms-hardware-guidance/"><u>Unveiling the Best Electronics with Tom's Hardware Guidance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-the-logitech-g-pro-x-2-lightspeed-the-ultimate-review-for-gamers-perfection/"><u>Unveiling the Power of the Logitech G Pro X 2 Lightspeed: The Ultimate Review for Gamers' Perfection</u></a></li>
+</ul></div>
+

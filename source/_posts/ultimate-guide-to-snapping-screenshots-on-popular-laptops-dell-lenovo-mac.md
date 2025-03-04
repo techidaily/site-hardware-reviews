@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Snapping Screenshots on Popular Laptops - Dell, Lenovo, Mac
-date: 2025-01-29T22:00:55.087Z
-updated: 2025-02-02T21:52:52.296Z
+date: 2025-02-13T16:13:45.761Z
+updated: 2025-02-15T16:29:29.932Z
 tags:
   - laptops
 categories:
@@ -26,29 +26,29 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to take screenshots on any laptop
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 1: The old fashioned way**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
 
@@ -59,6 +59,10 @@ In any case, it should be easy to find by looking for the key marked **Prt**, **
 The button can be just about anywhere, so just look for something that looks as similar as possible to the legend on this one.
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
 
@@ -75,7 +79,7 @@ Michael Gariffo/ZDNET
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
@@ -113,10 +117,6 @@ There sure is. For Mac users, we've already covered [how to capture recordings o
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,14 +157,21 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-top-8-instagram-planners-ios-and-android-edition/"><u>[New] 2024 Approved Top 8 Instagram Planners IOS & Android Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp2-video-moviavi/"><u>無料のオンラインmp2 Videoコンバーター: Moviaviが解説します!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-websites-for-3d-metallic-type-imagery/"><u>In 2024, Excellent Websites for 3D Metallic Type Imagery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-gopro-hero-series-comparison/"><u>In 2024, The GoPro Hero Series Comparison</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-lenovo-legion-pro-5i-gen-9-a-comprehensive-review-showcasing-its-remarkable-value-for-gamers/"><u>The Lenovo Legion Pro 5I Gen 9: A Comprehensive Review Showcasing Its Remarkable Value for Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-gadget-guide-discovering-top-picks-with-toms-hardware-knowledge/"><u>The Ultimate Gadget Guide - Discovering Top Picks with Tom's Hardware Knowledge</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-navigating-the-future-of-computer-components/"><u>Tom's Hardware: Navigating the Future of Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-dive-into-computer-components/"><u>Tom's Tech Insights: A Dive Into Computer Components</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-non-sony-non-bose-soundbar-wows-with-unmatched-audio-experience-zdnet-insights/"><u>Top-Rated Non-Sony, Non-Bose Soundbar Wows With Unmatched Audio Experience | ZDNet Insights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-perfecting-the-art-of-borders-in-instagram-photos/"><u>[Updated] In 2024, Perfecting the Art of Borders in Instagram Photos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mpc-hc-high-quality-audio-and-video/"><u>[Updated] MPC-HC High Quality Audio and Video</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-perfect-video-conferencing-the-essential-list-of-10-free-recorders/"><u>[Updated] Perfect Video Conferencing The Essential List of 10 Free Recorders</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-sever-ties-with-discord-network-for-2024/"><u>[Updated] Sever Ties With Discord Network for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-v30-lite-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo V30 Lite 5G without App | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/audio-matters-ensuring-excellent-sound-in-your-youtube-shots/"><u>Audio Matters Ensuring Excellent Sound in Your YouTube Shots</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-the-corsair-m75-mechanical-keyboard-with-bi-directional-buttons-reviewed/"><u>Comprehensive Evaluation of the Corsair M75 Mechanical Keyboard with Bi-Directional Buttons Reviewed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-fixing-and-repairing-unresponsive-headset-mics/"><u>Comprehensive Guide to Fixing and Repairing Unresponsive Headset Mics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-electronics-hub-in-depth-hardware-analysis-and-tips/"><u>Expert Insights From Tom's Electronics Hub - In-Depth Hardware Analysis & Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964502701-high-speed-savings-alert-secure-32gb-of-team-t-force-vulcan-ddr5-memory-6000-mhz-for-only-86-now/"><u>High-Speed Savings Alert: Secure 32GB of Team T-Force Vulcan DDR5 Memory (6000 MHz) For Only $86 Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/impending-price-surges-for-essential-computer-components-how-industry-wide-output-limits-affect-dram-and-nand-costs/"><u>Impending Price Surges for Essential Computer Components: How Industry-Wide Output Limits Affect DRAM and NAND Costs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964499541-include-at-least-three-rhetorical-questions-to-engage-the-audience/"><u>Include at Least Three Rhetorical Questions to Engage the Audience.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/latest-insights-into-12vhpwr-connection-issues-melting-reports-coming-from-psu-side/"><u>Latest Insights Into 12VHPWR Connection Issues - Melting Reports Coming From PSU Side</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728462000784-ssd/"><u>SSD驚喜回來了:硬碟分區修復技術教程</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tom-hardware-hub-expert-guides-on-technology-and-gadgets/"><u>Tom Hardware Hub: Expert Guides on Technology and Gadgets</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unveiling-the-financial-dynamics-of-youtube-shorts/"><u>Unveiling the Financial Dynamics of YouTube Shorts</u></a></li>
 </ul></div>
 

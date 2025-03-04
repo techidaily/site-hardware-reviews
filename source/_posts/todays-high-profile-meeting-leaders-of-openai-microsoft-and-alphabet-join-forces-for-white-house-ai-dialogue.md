@@ -1,7 +1,7 @@
 ---
 title: "Today's High-Profile Meeting: Leaders of OpenAI, Microsoft, & Alphabet Join Forces for White House AI Dialogue"
-date: 2024-09-17 12:27:33
-updated: 2024-09-20 10:24:25
+date: 2025-02-13T16:49:45.392Z
+updated: 2025-02-15T16:23:18.846Z
 tags:
   - cyber-threats
 categories:
@@ -29,6 +29,10 @@ The Biden administration [has a record](https://www.zdnet.com/article/biden-admi
 
 This meeting is part of that effort, as well as one to engage with companies, researchers, organizations, communities, and others to discuss and mitigate risks on other AI matters. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Evaluating existing generative AI tools
 
 The announcement from the White House Briefing Room also included plans to perform independent, public assessments of some of the most innovative generative AI systems. This will include an evaluation of tools developed by OpenAI, Google, [Hugging Face](https://www.zdnet.com/article/what-is-huggingchat-everything-about-the-new-open-source-ai-chatbot/), Microsoft, Anthropic, [NVIDIA](https://www.zdnet.com/article/nvidia-unveils-a-potential-solution-to-prevent-ai-chatbots-from-hallucinating/), and Stability.ai. 
@@ -40,6 +44,10 @@ The assessments of these models will take place at the AI Village at DEF CON 31,
 **Also:** [**ChatGPT is the most in-demand skill in the workforce**](https://www.zdnet.com/article/chatgpt-is-the-most-sought-out-tech-skill-in-the-workforce-according-to-a-study/)
 
 The goal of this evaluation is to ensure these AI models adhere to the practices outlined in the administration's [Blueprint for an AI Bill of Rights](https://www.zdnet.com/article/the-white-house-passes-an-ai-bill-of-rights-that-attempts-to-put-your-privacy-concerns-at-ease/) and AI Risk Management Framework; and to assess information regarding the impact these models have on the public and allow the AI companies that developed them to fix inconsistencies that may be found.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Other announcements regarding AI use
 
@@ -82,11 +90,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/2024-approved-flarex-media-player-pro-versatile-music-app/"><u>2024 Approved FlareX Media Player Pro Versatile Music App</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-drivers-at-your-fingertips-quick-and-effortless-auto-installation-guide/"><u>AMD Drivers at Your Fingertips - Quick and Effortless Auto-Installation Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-eyes-groundbreaking-respiration-tracking-capability-for-the-upcoming-vision-pro-smartwatch-sources-say-detailed-report-by-zdnet/"><u>Apple Eyes Groundbreaking 'Respiration Tracking' Capability for the Upcoming Vision Pro Smartwatch, Sources Say - Detailed Report by ZDNET</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-avi-video-editor-for-windows-8-latest-2023-features/"><u>Best AVI Video Editor for Windows 8 Latest 2023 Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-computer-hardware-by-tom-the-ultimate-guide-for-buyers/"><u>Expert Insights on Computer Hardware by Tom - The Ultimate Guide for Buyers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-components-with-tom-a-guide-to-cutting-edge-hardware-technology/"><u>Exploring Computer Components with Tom - A Guide to Cutting-Edge Hardware Technology</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-aac-audio-file-converter-toolkit-optimized-for-windows-10-11-and-8-systems/"><u>Free AAC Audio File Converter Toolkit: Optimized for Windows 10, 11 and 8 Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-nubia-red-magic-9-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Nubia Red Magic 9 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-neo-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 40 Neo Phone without Google Account?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/leak-alert-revolutionary-600w-pci-express-50-graphics-card-cable-unveiled/"><u>Leak Alert: Revolutionary 600W PCI Express 5.0 Graphics Card Cable Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-complete-guide-to-computer-equipment-by-tom-expert-insights-and-advice/"><u>The Complete Guide to Computer Equipment by Tom - Expert Insights and Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-review-comprehensive-analysis-and-latest-tech-insights/"><u>Tom's Hardware Review: Comprehensive Analysis & Latest Tech Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-components-with-toms-gear-guides/"><u>Unveiling the Latest in PC Components with Tom’s Gear Guides</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-ideas-for-time-lapse-video/"><u>Updated Best Ideas for Time Lapse Video</u></a></li>
+</ul></div>
+

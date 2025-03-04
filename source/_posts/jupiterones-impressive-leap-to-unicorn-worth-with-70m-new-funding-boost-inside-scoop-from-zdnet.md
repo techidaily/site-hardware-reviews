@@ -1,7 +1,7 @@
 ---
 title: JupiterOne's Impressive Leap to Unicorn Worth with $70M New Funding Boost | Inside Scoop From ZDNET
-date: 2024-09-19 21:43:24
-updated: 2024-09-20 10:36:54
+date: 2025-02-14T16:08:10.542Z
+updated: 2025-02-15T16:55:25.269Z
 tags:
   - cyber-threats
 categories:
@@ -15,6 +15,10 @@ The global annual cost of cyber crime is estimated to be $6 trillion per year, [
 
 "As organizations continue to increase their reliance on the cloud to centralize their operations, cloud security solutions are seeing tremendous growth and adoption," Erkang Zheng, founder and CEO of [JupiterOne](https://www.jupiterone.com), said. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best security key While robust passwords help you secure your valuable online accounts, hardware-based two-factor authentication takes that security to the next level.  Read now](https://www.zdnet.com/article/best-security-key/)
@@ -27,11 +31,19 @@ The cybersecurity market was valued at $217.87 billion in 2021, and it's project
 
 The need for JupiterOne is there. What's worth looking into is how the company defines and approaches its mission.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **A graph-powered cybersecurity platform**
 
 Zheng touts JupiterOne as "the first cloud-native cyber asset attack surface management (CAASM) platform built on a graph data model... uniquely positioned to lead this growing market."
 
 The company promises to help clients easily identify, map, analyze, and secure cyber assets. Its list of clients includes cloud-native enterprises like Cisco, Databricks, Indeed, and Robinhood. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Security
 
@@ -67,11 +79,19 @@ Elaborating on how cyber asset data is monitored and updated to serve different 
 
 Zheng added, "Ask any question and get any answer. Questions can be turned into continuously monitored queries that are connected to alerts, and all data is available via customizable dashboards".
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **One platform, many use cases, strong growth**
 
 Besides CAASM, JupiterOne addresses [cloud security posture management; security operations and engineering; and governance and compliance](https://www.jupiterone.com/solutions). But how can something like [GDPR compliance](https://www.zdnet.com/article/gdpr-in-real-life-transparency-innovation-and-adoption-across-borders-and-organizations/) for data generated via application X and stored in cloud provider Y be assessed and monitored?
 
 As Zheng explained, all of the cyber asset data from application X and cloud provider Y are normalized and stored within the JupiterOne graph system. This allows users to ask questions of that data in extremely complex ways.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -120,11 +140,28 @@ Additionally, the funds will be used to extend the reach of the company's extens
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/solved-warframe-update-failed-error/"><u>[Solved] Warframe Update Failed! Error</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-cultivating-a-thriving-online-community-subscriber-growth-tactics/"><u>[Updated] Cultivating a Thriving Online Community Subscriber Growth Tactics</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-discover-top-5-ios-ps2-games-simulators/"><u>[Updated] Discover Top 5 IOS PS2 Games Simulators</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-demystifying-the-art-behind-live-video-thumbnails/"><u>2024 Approved Demystifying the Art Behind Live Video Thumbnails</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-exploration-by-tom-top-picks-and-advice/"><u>Advanced Hardware Exploration by Tom - Top Picks and Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gear-with-tom-comprehensive-hardware-insights-and-guides/"><u>Exploring Computer Gear with Tom: Comprehensive Hardware Insights and Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-tech-with-tom-your-ultimate-resource-for-cutting-edge-hardware-insights/"><u>Exploring Tech with Tom: Your Ultimate Resource for Cutting-Edge Hardware Insights</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-curated-collection-best-free-footage-websites-ranked/"><u>In 2024, Curated Collection Best Free Footage Websites Ranked</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 8 Plus 3 Ways To Unlock</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-intels-latest-arc-a76na-graphics-card-unleashing-high-performance-aaa-gaming-on-the-go-for-your-vehicle-with-advanced-xe-cores-ample-memory-and-11/"><u>Introducing Intel's Latest Arc A76nA Graphics Card: Unleashing High-Performance 'AAA Gaming on the Go' For Your Vehicle with Advanced Xe-Cores, Ample Memory & Efficient Power Draw</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ight-approach-to-partial-youtube-downloads-for-2024/"><u>The Right Approach to Partial YouTube Downloads for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Review: Your Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-hardware-t17239718723911/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Immersive Recording Techniques Unveiled: Learn How to Enable and Utilize Surround Sound Features on a Samsung Galaxy Phone | Expert Advice by ZDNET"
-date: 2024-09-18 10:58:43
-updated: 2024-09-20 12:39:36
+date: 2025-02-13T17:04:56.323Z
+updated: 2025-02-15T17:03:38.073Z
 tags:
   - headphones
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 June Wan/ZDNET
 
 Most wireless headphones have recently turned to spatial audio to produce the most immersive listening experience. In a recent [software rollout](https://www.cnet.com/tech/mobile/samsung-galaxy-buds-2-pro-add-360-audio-recording-for-video-capture/), Samsung is allowing Galaxy devices running One UI 5.0 or above to record surround sound videos by leveraging the [Samsung Galaxy Buds 2 Pro's](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fmobile%2Faudio%2Fheadphones%2Fgalaxy-buds2-pro-white-sm-r510nzwaxar%2F%3Fcid%3Dsem-mktg-pfs-aacc-us-google-na-08262022-170244-%26ds_e%3DGOOGLE-cr%3A0-pl%3A341636929-%26ds_c%3DFF%7ECore_CN%7Encme%2BGB2P_PH%7Eon_MK%7Eusnat_BS%7Eme_PR%7Ewiaud_SB%7Egalbud_FS%7Elo_CA%7Ekew_KS%7Eba_MT%7Ephrase-%26ds_ag%3DAG%7ECore-PANDA_MK%7Eusnat_AT%7Eta_MD%7Eh_PK%7Eroah_PB%7Egoogle_AI%7Eyes_TG%7Ecrm_SA%7Ecro-%26ds_k%3Dgalaxy%2Bbuds%26gclid%3DCjwKCAiA_vKeBhAdEiwAFb_nrdxDonjvh7f4W7jyUq1GP0xSq90pzKM10R6mPEM6wGb2TsD59LZg4hoClPMQAvD_BwE%26gclsrc%3Daw.ds&publisher_slug=itechdaily19598&exclusive=1) built-in microphones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -32,6 +36,10 @@ With the buds paired, users can capture the sound that's in front of them throug
 
 So now, beyond listening to the spatial audio-enabled soundtracks on Spotify and Apple Music, users can listen to and share their own videos in the most immersive way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use 360 audio recording on a Samsung Galaxy phone
 
 ### Requirements 
@@ -40,6 +48,10 @@ Before we get into how to enable 360 audio recording, note that there are a few 
 
 * Have a pair of [Samsung Galaxy Buds 2 Pro](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fmobile%2Faudio%2Fheadphones%2Fgalaxy-buds2-pro-white-sm-r510nzwaxar%2F%3Fcid%3Dsem-mktg-pfs-aacc-us-google-na-08262022-170244-%26ds_e%3DGOOGLE-cr%3A0-pl%3A341636929-%26ds_c%3DFF%7ECore_CN%7Encme%2BGB2P_PH%7Eon_MK%7Eusnat_BS%7Eme_PR%7Ewiaud_SB%7Egalbud_FS%7Elo_CA%7Ekew_KS%7Eba_MT%7Ephrase-%26ds_ag%3DAG%7ECore-PANDA_MK%7Eusnat_AT%7Eta_MD%7Eh_PK%7Eroah_PB%7Egoogle_AI%7Eyes_TG%7Ecrm_SA%7Ecro-%26ds_k%3Dgalaxy%2Bbuds%26gclid%3DCjwKCAiA_vKeBhAdEiwAFb_nrdxDonjvh7f4W7jyUq1GP0xSq90pzKM10R6mPEM6wGb2TsD59LZg4hoClPMQAvD_BwE%26gclsrc%3Daw.ds&publisher_slug=itechdaily19598&exclusive=1).
 * Your Samsung phone is running One UI 5.0 or above and supports [LE audio](https://www.qualcomm.com/products/features/bluetooth-le-audio#:~:text=A%3A%20LE%20Audio%20extends%20the,wireless%20audio%20devices%20can%20deliver.). So far only five Galaxy phones support that requirement: The [Samsung Galaxy S23](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s23%2Fbuy%2F%3Fcid%3Dsem-mktg-pfs-mob-us-google-na-02012023-141919-%26ds_e%3DGOOGLE-cr%3A0-pl%3A354741076-%26ds_c%3DFF%7ES23-Upper%2BFunnel_CN%7EHHP%2BS23_PH%7Elong_MK%7Eusnat_BS%7Emx_PR%7Esmart_SB%7Es23_FS%7Elo_CA%7Ekew_KS%7Eba_MT%7Eexact-%26ds_ag%3DAG%7ENew_MK%7Eusnat_AT%7Eta_MD%7Eh_PK%7Eroah_PB%7Egoogle_AI%7Eno_TG%7Emas_SA%7Emass-%26ds_k%3Dnew%2Bsamsung%2Bs23%26gclid%3DCjwKCAiA_vKeBhAdEiwAFb_nra_59NcnyNjk0V0GJYTZMpSv69zXMFzSx7eZrwtKpE7DOwh9KA9aiRoCH5oQAvD_BwE%26gclsrc%3Daw.ds&publisher_slug=itechdaily19598&exclusive=1), [S23+](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s23%2Fbuy%2F%3Fcid%3Dsem-mktg-pfs-mob-us-google-na-02012023-141919-%26ds_e%3DGOOGLE-cr%3A0-pl%3A354741076-%26ds_c%3DFF%7ES23-Upper%2BFunnel_CN%7EHHP%2BS23_PH%7Elong_MK%7Eusnat_BS%7Emx_PR%7Esmart_SB%7Es23_FS%7Elo_CA%7Ekew_KS%7Eba_MT%7Eexact-%26ds_ag%3DAG%7ENew_MK%7Eusnat_AT%7Eta_MD%7Eh_PK%7Eroah_PB%7Egoogle_AI%7Eno_TG%7Emas_SA%7Emass-%26ds_k%3Dnew%2Bsamsung%2Bs23%26gclid%3DCjwKCAiA_vKeBhAdEiwAFb_nra_59NcnyNjk0V0GJYTZMpSv69zXMFzSx7eZrwtKpE7DOwh9KA9aiRoCH5oQAvD_BwE%26gclsrc%3Daw.ds&publisher_slug=itechdaily19598&exclusive=1), [S23 Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s23-ultra%2Fbuy%2F&publisher_slug=itechdaily19598&exclusive=1), [Galaxy Z Flip 4](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-z-flip4%2Fbuy%2Fgalaxy-z-flip4-256gb-unlocked-sm-f721uzaexaa%2F&publisher_slug=itechdaily19598&exclusive=1), and [Galaxy Z Fold 4](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-z-fold4%2Fbuy%2Fgalaxy-z-fold4-512gb-unlocked-sm-f936uzaexaa%2F&publisher_slug=itechdaily19598&exclusive=1).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Pair the Galaxy Buds 2 Pro with your Galaxy smartphone
 
@@ -71,7 +83,15 @@ To ensure that the feature is working, there should be a "360 MIC" text on the c
 
 [Samsung Galaxy Buds 2 Pro $115 at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fmobile%2Faudio%2Fheadphones%2Fgalaxy-buds2-pro-white-sm-r510nzwaxar%2F%3Fcid%3Dsem-mktg-pfs-aacc-us-google-na-08262022-170244-%26ds_e%3DGOOGLE-cr%3A0-pl%3A341636929-%26ds_c%3DFF%7ECore_CN%7Encme%2BGB2P_PH%7Eon_MK%7Eusnat_BS%7Eme_PR%7Ewiaud_SB%7Egalbud_FS%7Elo_CA%7Ekew_KS%7Eba_MT%7Ephrase-%26ds_ag%3DAG%7ECore-PANDA_MK%7Eusnat_AT%7Eta_MD%7Eh_PK%7Eroah_PB%7Egoogle_AI%7Eyes_TG%7Ecrm_SA%7Ecro-%26ds_k%3Dgalaxy%2Bbuds%26gclid%3DCjwKCAiA_vKeBhAdEiwAFb_nrdxDonjvh7f4W7jyUq1GP0xSq90pzKM10R6mPEM6wGb2TsD59LZg4hoClPMQAvD_BwE%26gclsrc%3Daw.ds&publisher_slug=itechdaily19598&exclusive=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the Galaxy Buds 360 audio feature?  
 
@@ -115,11 +135,23 @@ Samsung started to roll out the newest feature last month, so be on the lookout 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/diagnosing-and-repairing-the-common-culprits-behind-constant-overwatch-2-game-interruptions-on-windows-machines/"><u>Diagnosing and Repairing the Common Culprits Behind Constant Overwatch 2 Game Interruptions on Windows Machines</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-of-anycubics-trailblazing-multicolor-3d-printer-the-kobra-3-edition/"><u>Exploring the Features of Anycubic's Trailblazing Multicolor 3D Printer: The Kobra 3 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-correctly-update-outdated-minecraft-video-card-drivers/"><u>How to Correctly Update Outdated Minecraft Video Card Drivers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/maximizing-learning-through-recording-classroom-discourse-on-mac-for-2024/"><u>Maximizing Learning Through Recording Classroom Discourse on Mac for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/on-the-go-connectivity-assessment-asus-rt-ax52018-nano-router-a-review-for-wanderers-and-road-warriors/"><u>On-the-Go Connectivity Assessment: Asus RT-AX52018 Nano Router – A Review for Wanderers and Road Warriors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-and-insights/"><u>Tom's Tech Reviews: In-Depth Analysis and Insights</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-capabilities-of-the-kingston-fury-ddr5-6000-a-closer-look-at-its-high-speed-32gbx2-performance/"><u>Unveiling the Capabilities of the Kingston Fury DDR5-6000: A Closer Look at Its High-Speed 32GBx2 Performance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vibrant-visions-practical-color-application-skills/"><u>Vibrant Visions Practical Color Application Skills</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Affordable Gamer's Dream: Experience Unparalleled Audio Quality with This Under-$200 Sound Card - Insights From ZDNet"
-date: 2024-09-18 22:25:33
-updated: 2024-09-20 10:31:16
+date: 2025-02-14T17:10:56.902Z
+updated: 2025-02-15T16:59:07.475Z
 tags:
   - headphones
 categories:
@@ -39,6 +39,10 @@ One of the first big external sound card successes was [Sennheiser's original GS
 
 Now Epos, the former gaming division of Sennheiser, is back with [the second edition](https://eposaudio.evyy.net/c/159047/244439/4104?&sharedId=zdnet&u=https%3A%2F%2Fwww.eposaudio.com%2Fen%2Fus%2Fgaming%2Fproducts%2Fgsx-1000-2nd-edition-gaming-amplifier-1001150&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) of this near-legendary device. Does it still hold up, with a few added upgrades, all these years later? Let's find out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Connectivity             | USB-C (via included 1.2m USB-C to USB-A cable)                                                       |
@@ -51,6 +55,10 @@ Now Epos, the former gaming division of Sennheiser, is back with [the second edi
 | Interface                | Physical volume output knob (ring) and chat volume knob, multiple touch-sensitive on-screen controls |
 | Dimensions               | 150 x 70 x 145 mm                                                                                    |
 | Weight                   | 14 oz                                                                                                |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Build and appearance 
 
@@ -78,6 +86,10 @@ Michael Gariffo/ZDNET
 
 Looking good on your desk is a bonus, but the real benefit of the new GSX 1000 is what it does for your in-game audio. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [Gaming mechanical keyboards: How to choose and are they really worth it? When you're gaming, whether for fun or as a pro, there's just something different about using a gaming mechanical keyboard. The Corsair K100 is ZDNET's No. 1 choice. But there are plenty of gaming mechanical keyboards, and when you choose your next one, look no further than the top five reviewed and compared here.  Read now](https://www.zdnet.com/article/best-gaming-mechanical-keyboard/)
@@ -104,6 +116,10 @@ Luckily, the GSX 1000 can easily be switched to its Music or Story (should proba
 
 The general fidelity is a little worse, the vocals aren't as clear, the instruments aren't as defined, and the overall sound profile is less roomy. But, all of those deltas are far smaller than you'd expect for less than one-third the price of the more expensive setup. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Other features 
 
 The volume percentage (which is tied to Windows' own volume setting) remains visible even when the unit dims.
@@ -123,6 +139,10 @@ All settings can also be saved to one of four presets. These presets can then be
 When you're not actively tweaking it, the GSX 1000 will automatically dim, displaying only your volume level. It also features a handy proximity sensor to brighten the display as your hand approaches. 
 
 [Buy the Epos GSX 1000 (2nd Edition) $200 at Epos Audio](https://eposaudio.evyy.net/c/159047/244439/4104?&sharedId=zdnet&u=https%3A%2F%2Fwww.eposaudio.com%2Fen%2Fus%2Fgaming%2Fproducts%2Fgsx-1000-2nd-edition-gaming-amplifier-1001150&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom line 
 
@@ -165,11 +185,33 @@ The original is still available. If you prefer its slightly more varied color sc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earnings-expansion-the-significance-of-500-subs-club/"><u>[New] 2024 Approved Earnings Expansion The Significance of 500 Subs Club</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-screen-recording-tools-face-off-summary/"><u>[New] In 2024, Top Screen Recording Tools Face-Off Summary</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-revamping-video-meeting-banners-for-teammates/"><u>[Updated] Revamping Video Meeting Banners for Teammates</u></a></li>
+<li><a href="https://win-best.techidaily.com/10-system-repair-disk-on-usb-for-dual-boot-or-fresh-install/"><u>10 System Repair Disk on USB for Dual Boot or Fresh Install</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-stylish-and-functional-the-top-10-gear-for-sj4000-enthusiasts/"><u>2024 Approved Stylish and Functional The Top 10 Gear for SJ4000 Enthusiasts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-c51-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme C51 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/catching-facebooks-favorite-visual-stories/"><u>Catching Facebook's Favorite Visual Stories</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guia-sencilla-para-mover-la-ruta-de-rescate-a-un-disco-duro-nuevo/"><u>Guía Sencilla Para Mover La Ruta De Rescate a Un Disco Duro Nuevo</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-film-school-at-home-mastering-video-editing-via-youtube-and-alternatives/"><u>In 2024, Film School at Home Mastering Video Editing via YouTube & Alternatives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/motherboard-industry-soars-projected-sales-of-39-million-units-matching-pre-crisis-delivery-numbers/"><u>Motherboard Industry Soars: Projected Sales of 39 Million Units Matching Pre-Crisis Delivery Numbers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/overcome-raptor-lake-chips-crashing-woes-how-asus-introduces-baseline-profile-update-for-optimal-performance/"><u>Overcome Raptor Lake Chips' Crashing Woes: How Asus Introduces Baseline Profile Update for Optimal Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/precision-tech-advice-from-toms-hardware-resource/"><u>Precision Tech Advice From Tom's Hardware Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/prepare-for-the-future-how-pcie-60-tackles-heat-with-innovative-cooling-solutions/"><u>Prepare For The Future: How PCIe 6.0 Tackles Heat With Innovative Cooling Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pushing-boundaries-asrock-debuts-revolutionary-amd-ryzen-9000-boards/"><u>Pushing Boundaries: ASRock Debuts Revolutionary AMD Ryzen 9000 Boards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-in-the-tech-world-with-toms-hardware-reviews/"><u>Stay Ahead in the Tech World with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/support-sobriety-efforts-if-you-confirm-that-your-teenager-has-been-using-drugs-or-alcohol-help-them-find-resources-such-as-support-groups-counseling-servic85/"><u>Support Sobriety Efforts: If You Confirm that Your Teenager Has Been Using Drugs or Alcohol, Help Them Find Resources Such as Support Groups, Counseling Services, Rehabilitation Programs, or Sober Activities to Encourage and Maintain Sobriety.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-high-performance-computers-by-toms-tech-sanctuary/"><u>The Ultimate Guide to High-Performance Computers by Tom's Tech Sanctuary</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-high-performance-hardware-by-toms-technology-review/"><u>The Ultimate Guide to High-Performance Hardware by Tom's Technology Review</u></a></li>
+</ul></div>
+

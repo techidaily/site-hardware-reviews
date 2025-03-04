@@ -1,7 +1,7 @@
 ---
 title: "Top 17 Unbeatable Cyber Monday Bargains: Find Discounted Televisions, Audio Equipment & More – Exclusive Offers"
-date: 2025-01-27T20:48:06.962Z
-updated: 2025-02-03T05:00:08.294Z
+date: 2025-02-11T16:39:37.782Z
+updated: 2025-02-15T17:16:34.079Z
 tags:
   - laptops
 categories:
@@ -22,15 +22,15 @@ Black Friday and Cyber Monday just passed, but that doesn't mean you have to giv
 
 [![04-bf-cm.png](https://www.zdnet.com/a/img/resize/954e855aae296b0590d40ff6eba4167fd27f3d67/2022/11/29/2911e8eb-1a11-4aa3-8ff7-015c7e854046/04-bf-cm.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Black Friday and Cyber Monday tech deals still available If you missed out on this year's mega sale events, no problem. ZDNET is rounding up the best tech deals still available, right here.  Read now](https://www.zdnet.com/collection/cyber-monday/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Target has an expansive catalog of items on sale, but we only picked items that have at least a 20% discount since we know there's lots of gift-giving going on. We included all kinds of devices, from smartwatches to TVs and wireless headphones. So, if you're looking for a discount, we've got you covered. 
 
 If you're doing all or most of your holiday shopping at Target, it's important to know that the prices included in this list are how much you'll pay if you buy the item online, and prices will vary if you decide to buy an item in-store. Typically, buying online is cheaper, regardless of whether you then have it shipped or pick it up from the store. 
 
 If you're looking for all holiday deals, our experts searched other major retailers, like [Walmart](https://www.zdnet.com/article/walmart-early-cyber-monday-deals-november-27-2022/), [Costco](https://www.zdnet.com/home-and-office/costco-early-cyber-monday-deals-november-27-2022/), [Best Buy](https://www.zdnet.com/article/best-buy-early-cyber-monday-deals-november-27-2022/), [Amazon](https://www.zdnet.com/article/amazon-early-cyber-monday-deals-november-27-2022/), and [Newegg](https://www.zdnet.com/article/newegg-early-cyber-monday-deals-november-27-2022/) to help you find the [best Cyber Monday deals](https://www.zdnet.com/article/best-early-cyber-monday-deals-november-27-2022/) still available. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Best Target Cyber Monday deals**
 
@@ -69,13 +69,13 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 
 [View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Famazon-fire-tv-stick-with-4k-ultra-hd-streaming-media-player-and-alexa-voice-remote-2nd-generation%2F-%2FA-54188026%23lnk%3Dsametab&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Target Cyber Monday Smartwatch Deals**
 
 [Garmin Venu 2S Smartwatch for $300 (save $50) $300 at Garmin](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.garmin.com/en-US/p/707572/pn/010-02429-01)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Target Cyber Monday headphones deals**
 
@@ -91,10 +91,6 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 
 [Roku 4K Streaming Stick with voice control for $25 (save $25) $25 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Froku-streaming-stick-4k-2021-streaming-device-4k-hdr-dolby-vision-with-voice-remote-and-tv-controls-3820r%2F-%2FA-52709600%23lnk%3Dsametab&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Target Cyber Monday TV deals**
 
 [Vizio D-Series 40-inch Class 1080p LED HD Smart TV for $200 (save $50) $249.99 at Walmart](https://goto.walmart.com/c/159047/568844/9383?veh=aff&sourceid=imp%5F000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F223245823&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -102,7 +98,7 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 [Vizio 50-inch Class M6 4K QLED Smart TV for $400 (save $130) $400 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fvizio-50-34-class-m6-series-4k-qled-hdr-smart-tv-with-dolby-vision-voice-remote-and-gaming-engine-m50q6-j01%2F-%2FA-86871198%23lnk%3Dsametab&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Target Cyber Monday speaker deals**
@@ -125,13 +121,13 @@ Scouring through deals means comparing prices across many retailers and finding 
 
 Black Friday is always the Friday following Thanksgiving Day. This year, Black Friday was on Nov. 25.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is Cyber Monday 2022?
 
 Cyber Monday is the Monday after Thanksgiving and is when most online retailers have a holiday sale. This year, Cyber Monday was on Nov. 28.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals 2022?
 
@@ -149,6 +145,10 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best holiday 2022 deals at Target](https://www.zdnet.com/article/target-best-holiday-deals-2022/)
 * [The best holiday 2022 deals at Walmart](https://www.zdnet.com/article/walmart-best-holiday-deals-2022/)
 * [Top early holiday 2022 deals at Best Buy](https://www.zdnet.com/article/best-buy-holiday-deals-2022/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Holiday deals by brand**
 
@@ -184,7 +184,7 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best holiday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-holiday-deals-under-30-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
@@ -235,20 +235,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-techniques-to-amplify-gopro-battery-duration/"><u>[Updated] Techniques to Amplify GoPro Battery Duration</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-top-tiktok-photo-tricks-for-instant-fame-for-2024/"><u>[Updated] Top TikTok Photo Tricks for Instant Fame for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/chuckle-factory-spooky-androids/"><u>Chuckle Factory Spooky Androids</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-pdf-v14-file-by-stellar-guide/"><u>How Can I Recover Corrupted PDF v1.4 File</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-infinix-hot-30i-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Infinix Hot 30i Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-xiaomi-redmi-12-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Xiaomi Redmi 12 Data? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-htc-vives-diving-into-depth-a-vr-experience-review/"><u>In 2024, HTC Vive's Diving Into Depth A VR Experience Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/metaverse-mates-the-ultimate-shared-playlist-for-2024/"><u>Metaverse Mates The Ultimate Shared Playlist for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ryzen-ai-300-laptop-release-postponed-new-arrival-date-and-best-buy-listings-july-28/"><u>Ryzen AI 300 Laptop Release Postponed: New Arrival Date and Best Buy Listings - July 28</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/samsung-book4-edge-vs-iphone-12-showdown-unveiling-early-benchmarks-of-snapdragon-x-elite/"><u>Samsung Book4 Edge vs iPhone 12 Showdown: Unveiling Early Benchmarks of Snapdragon X Elite</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-savvy-shoppers-toms-computer-components-review/"><u>The Ultimate Resource for Savvy Shoppers: Tom's Computer Components Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-your-guide-to-top-tech-reviews/"><u>Tom's Computer Components: Your Guide to Top Tech Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-review-top-tech-insights/"><u>Tom's Hardware Review - Top Tech Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-computer-hardware-analysis/"><u>Tom's Tech Insights: In-Depth Computer Hardware Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hosting-youtube-webinars-for-no-charge-for-2024/"><u>[New] Hosting YouTube Webinars for No Charge for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-smartphone-identity-iphone-x-and-galaxy-phones-through-the-lens-of-faces/"><u>[Updated] In 2024, Smartphone Identity IPhone X and Galaxy Phones Through the Lens of Faces</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-uncovering-8-honestly-backed-promotion-services/"><u>2024 Approved Uncovering 8 Honestly Backed Promotion Services</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-crownote-analysis-app-your-guide-to-portable-electrified-diy-projects/"><u>Compact CrowNote Analysis App: Your Guide to Portable Electrified DIY Projects</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-the-raspberry-pi-revolutionizes-your-classic-sony-tape-recorder-with-seamless-wireless-audio-streaming/"><u>How the Raspberry Pi Revolutionizes Your Classic Sony Tape Recorder with Seamless Wireless Audio Streaming</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-framework-for-visual-storytelling/"><u>In 2024, Framework for Visual Storytelling</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 12</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-computer-hardware-at-toms-review-sites/"><u>In-Depth Analysis of Computer Hardware at Tom's Review Sites</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-future-with-raspberry-pi-5-meet-bender-your-ai-powered-personal-assistant-inspired-by-futurama/"><u>Introducing the Future with Raspberry Pi 5: Meet Bender, Your AI-Powered Personal Assistant Inspired by Futurama</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mega-gaming-experience-custom-raspberry-pi-5-upgraded-giant-game-boy-xl-featuring-fully-operational-buttons/"><u>Mega Gaming Experience: Custom Raspberry Pi 5 Upgraded Giant Game Boy XL Featuring Fully Operational Buttons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-raspberry-pi-offers-and-savings/"><u>Top Raspberry Pi Offers and Savings</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

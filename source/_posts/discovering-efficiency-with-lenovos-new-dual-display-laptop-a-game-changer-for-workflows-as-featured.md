@@ -1,7 +1,7 @@
 ---
 title: Discovering Efficiency with Lenovo's New Dual-Display Laptop – A Game Changer for Workflows, as Featured
-date: 2025-01-28T23:17:57.086Z
-updated: 2025-02-02T19:54:48.280Z
+date: 2025-02-13T16:21:57.598Z
+updated: 2025-02-15T16:13:31.461Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -44,10 +40,6 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -63,7 +55,7 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -86,6 +78,10 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does it perform?
 
 The twin 13.3-inch OLED displays look exceptional with deep black levels, vibrant colors, and 400 nits of brightness (a.k.a. enough for most lighting situations). They each sport 2.8K resolutions, so everything looks crisp, and Lenovo even includes 16:10 aspect ratios so you get a bit extra vertical room. They're also Dolby Vision certified. I have zero complaints about these screens, besides the fact they only have 60Hz refresh rates.
@@ -105,6 +101,10 @@ The verdict? It's a speedy machine. The Core Ultra processor feels snappier than
 To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about seven to eight hours of usage on a full charge. [In my testing](https://www.zdnet.com/article/how-we-test-laptops/), I was able to get to about seven hours of usage before it conked out, which is perfectly fine since 1.) this laptop has two screens and 2.) some pricier laptops like the [Surface Laptop Studio 2](https://www.zdnet.com/article/microsoft-surface-laptop-studio-2-review/) can't get anywhere near that.
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
 
@@ -127,7 +127,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -141,7 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -182,17 +182,22 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-freesync-freedom-meets-4k-excellence-in-samsung-ue590-for-2024/"><u>[New] FreeSync Freedom Meets 4K Excellence in Samsung UE590 for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-crafting-videos-with-precision-leveraging-storyremix-in-windows-11/"><u>[Updated] Crafting Videos with Precision Leveraging StoryRemix in Windows 11</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-how-much-money-flows-from-a-million-views-on-youtube/"><u>[Updated] How Much Money Flows From A Million Views On YouTube</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-metaverse-wisdom-a-compilation-of-inspiring-thoughts-for-2024/"><u>[Updated] Metaverse Wisdom A Compilation of Inspiring Thoughts for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-tech-evaluations-from-toms-hardware-experts/"><u>In-Depth Tech Evaluations From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-windows-gameplay-unboxing-the-high-end-asus-rog-ally-x-gaming-device/"><u>Mastering Mobile Windows Gameplay: Unboxing the High-End Asus ROG Ally X Gaming Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-in-depth-reviews-by-toms-hardware-experts/"><u>Mastering Technology: In-Depth Reviews by Tom's Hardware Experts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/metaverse-and-multiverse-demystified-an-in-depth-guide/"><u>Metaverse and Multiverse Demystified An In-Depth Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341692803-ocular-trauma-requires-a-thorough-examination-by-an-ophthalmologist-including-assessment-of-visual-acuity-and-intraocular-pressure/"><u>Ocular Trauma Requires a Thorough Examination by an Ophthalmologist, Including Assessment of Visual Acuity and Intraocular Pressure.</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/procedimientos-simplificados-para-desasignar-areas-en-tarjetas-flash-externa-estrategias-eficientes-para-eliminar-particiones-usb/"><u>Procedimientos Simplificados Para Desasignar Áreas en Tarjetas Flash Externa: Estrategias Eficientes Para Eliminar Particiones USB</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-there-was-an-issue-resetting-your-computer-error-in-windows-10-guide/"><u>Resolve 'There Was an Issue Resetting Your Computer' Error in Windows 10 [Guide]</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-insights-and-analysis/"><u>Tom's Tech Reviews: In-Depth Insights and Analysis</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-fb-video-sharing-rules-and-regulations-overview/"><u>[New] 2024 Approved FB Video-Sharing Rules and Regulations Overview</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-ultimate-list-for-fbs-most-popular-song-videos/"><u>[Updated] In 2024, The Ultimate List for FB's Most Popular Song Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-teleconference-recordings-for-2024/"><u>[Updated] Teleconference Recordings for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bring-life-into-your-photos-with-these-top-11-tutorials-for-2024/"><u>Bring Life Into Your Photos with These Top 11 Tutorials for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-chatbot-debate-gpt-pluses-versus-perplexities/"><u>Decoding the Chatbot Debate: GPT Pluses versus Perplexities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminate-that-humsong-from-your-subwoofers-with-these-simple-fixes/"><u>Eliminate That Humsong From Your Subwoofers with These Simple Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/geforce-now-launch-beneficial-for-users/"><u>GeForce NOW Launch - Beneficial for Users?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-honor-v-purse-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Honor V Purse for Free? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862799252-landing-a-bargain-enjoy-yourself-with-a-giant-high-definition-samsung-49-oled-screen-for-less-than-youd-think/"><u>Landing a Bargain: Enjoy Yourself with a Giant, High-Definition Samsung 49 OLED Screen for Less Than You'd Think</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-gaming-display-breakdown-asrock-pg2nqft2a-monitor-at-a-whopping-180hz-is-it-worth-it/"><u>Ultimate Gaming Display Breakdown: ASRock PG2nQFT2a Monitor at a Whopping 180Hz - Is It Worth It?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-your-gadget-potential-trustworthy-reviews-by-toms-experts/"><u>Unleash Your Gadget Potential: Trustworthy Reviews by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-electronics-mysteries-at-toms-hardware-haven/"><u>Unraveling Electronics Mysteries at Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unusual-find-alert-thor-vs-darth-vader-styled-monitor-under-150-by-a-retailer-in-china/"><u>Unusual Find Alert: 'Thor vs Darth Vader' Styled Monitor Under $150 by a Retailer in China</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-essential-utilities-of-feelworlds-compact-and-portable-dh101-display/"><u>Unveiling Essential Utilities of Feelworld’s Compact and Portable DH101 Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-pc-innovations-with-toms-hardware-experts/"><u>Unveiling New PC Innovations with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-guide-to-advanced-tech-the-expertise-of-toms-hardware/"><u>Your Guide to Advanced Tech: The Expertise of Tom's Hardware</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtube-video-ranking-breakdown-how-it-works/"><u>YouTube Video Ranking Breakdown How It Works</u></a></li>
 </ul></div>
 

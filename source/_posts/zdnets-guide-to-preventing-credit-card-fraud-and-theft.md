@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Guide to Preventing Credit Card Fraud and Theft
-date: 2024-09-19 16:40:14
-updated: 2024-09-20 11:42:45
+date: 2025-02-11T16:22:43.712Z
+updated: 2025-02-15T16:55:07.725Z
 tags:
   - cyber-threats
 categories:
@@ -15,6 +15,10 @@ It's never been more important to learn how to secure your personal information.
 
 This guide will help you protect your personal information, know if thieves are using your information, and learn how to recover from identity theft.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## BEFORE: Put safeguards in place as preventative measures
 
 There are a number of ways that your personal identity can be at risk. Some are, unfortunately, out of your hands (like a massive corporate data breach), but others are preventable.
@@ -27,11 +31,19 @@ At a minimum, all consumers should have chip-based cards. If you have any magnet
 
 The same goes for contactless credit cards or mobile wallets. Both options offer more encryption and thus higher amounts of security than magnetic-stripe systems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Encrypting online transactions**
 
 For the unfamiliar, the letters "HTTP" that comes at the beginning of any web address is short for "Hypertext Transfer Protocol" -- it's the protocol that allows your browser to communicate with a website.
 
 Be sure your web address includes "HTTPS" instead of "HTTP." The "S" stands for secure, and it means that all communication between your computer and the website's server is encrypted and private.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Phishing**
 
@@ -53,6 +65,10 @@ Also, almost all financial institutions will involve some kind of two-step verif
 
 Phishing can also lead to malware or ransomware, so be sure to keep all operating systems, antivirus software, and firewalls updated. And always backup your information -- we recommend performing backups at least once a month to remain current.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Typosquatting**
 
 Typosquatting is also known as "URL hijacking". Typosquatters purchase domains with the intent of obtaining traffic through common misspellings of major companies.
@@ -73,6 +89,10 @@ Always be careful if you're entering a web address directly into the navigation 
 Additionally, you can always avoid typos by entering the name of your destination via Google or another search engine or simply by bookmarking all of your most-visited sites.
 
 If you do end up on a typosquatting site, keep an eye out for seemingly minor grammatical errors -- they could be the key to determining whether the site is legitimate or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Telephone scams**
 
@@ -229,11 +249,31 @@ _\[This article was first published on The Simple Dollar in 2020\. It was update
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-explore-best-asmr-apps-both-sides-of-the-os/"><u>[Updated] In 2024, Explore Best ASMR Apps, Both Sides of the OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-smudge-free-sequence-eliminating-gopro-fog/"><u>[Updated] The Smudge-Free Sequence Eliminating GoPro Fog</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/adata-delivers-ultimate-gaming-potential-with-its-1600w-psu-supporting-a-trio-of-high-end-nvidia-geforce-rtx-4090-gpus/"><u>Adata Delivers Ultimate Gaming Potential with Its 1600W PSU, Supporting a Trio of High-End NVIDIA GeForce RTX 4090 GPUs</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/beta-release-of-updated-karaoke-quest-karaoquest-song-query-app-version-111-dj-software/"><u>Beta Release of Updated Karaoke Quest - KaraoQuest Song Query App Version 1.1.1 | DJ Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cooler-master-powerful-energy-solutions-unveiled-a-deep-dive-into-the-versatile-v-sfx-with-a-quiet-750w-option/"><u>Cooler Master Powerful Energy Solutions Unveiled: A Deep Dive Into the Versatile V SFX with a Quiet 750W Option</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-performance-2800w-atx-psu-with-dual-12v-rails-suitable-for-intensive-ai-workloads-featuring-four-6a-power-connectors-perfect-for-quad-gpu-configuration23/"><u>High-Performance 2800W ATX PSU with Dual 12V Rails Suitable for Intensive AI Workloads: Featuring Four 6A Power Connectors Perfect for Quad GPU Configurations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-evaluating-the-performance-of-the-corsair-cx550f-led-rgb-power-supply/"><u>In-Depth Analysis: Evaluating the Performance of the Corsair CX550F LED-RGB Power Supply</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-seasonics-new-power-supplies-with-cutting-edge-12vhpwr-interface-priced-at-230-and-above/"><u>Introducing Seasonic's New Power Supplies with Cutting-Edge 12VHPWR Interface Priced at $230 and Above</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nvidia-connection-controversy-unveiled-corsair-power-unit-specialist-jonny-gurus-insights/"><u>NVIDIA Connection Controversy Unveiled: Corsair Power Unit Specialist Jonny Guru's Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-stabilizing-dwarf-fortress-on-win/"><u>Solutions for Stabilizing Dwarf Fortress on Win</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/specifications-and-features/"><u>Specifications and Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strengthening-remote-meetings-through-ai-interaction/"><u>Strengthening Remote Meetings Through AI Interaction</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-editors-dream-becomes-reality-a-close-look-at-vida-for-2024/"><u>The Editor's Dream Becomes Reality A Close Look at Vida for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-review-xpg-cybercore-1000-platinum-high-performance-psu/"><u>Ultimate Review: XPG Cybercore 1000 Platinum High-Performance PSU</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-gaming-audio-top-rated-speakers-now-up-to-30-discounted-on-amazon-tech-review/"><u>Unbeatable Gaming Audio: Top-Rated Speakers Now Up to 30% Discounted on Amazon Tech Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watch-disney-movies-faster-by-linking-disneyplus-to-googles-chromecast-how-to-guide/"><u>Watch Disney Movies Faster by Linking Disney+ to Google's Chromecast – How-To Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-10-blue-screen-troubles-fix-your-igdkmd64sys-error-today/"><u>Windows 10 Blue Screen Troubles? Fix Your igdkmd64.sys Error Today!</u></a></li>
+</ul></div>
+

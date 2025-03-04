@@ -1,7 +1,7 @@
 ---
 title: "Unleash Powerhouse Performance for Less: Secure Your New HP Victus 15 Laptop Today for a Low Price of $515 with This Special Deal at Best Buy on Prime Day | ZDNET"
-date: 2025-02-02T01:39:49.162Z
-updated: 2025-02-02T16:02:00.800Z
+date: 2025-02-12T16:53:31.190Z
+updated: 2025-02-15T16:47:45.156Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,15 +63,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-10-affordable-and-easy-online-passport-pics-tools/"><u>[New] Top 10 Affordable & Easy Online Passport Pics Tools</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boost-your-channels-a-guide-to-best-youtube-seo-resources/"><u>[Updated] 2024 Approved Boost Your Channels A Guide to Best YouTube SEO Resources</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-itel-a60-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Itel A60 Phone Forgot Password</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-turn-the-tide-how-to-make-a-youtube-playlist-run-backward/"><u>In 2024, Turn the Tide How to Make a YouTube Playlist Run Backward</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-expertise/"><u>Navigating the World of Technology with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-essential-guide-to-cutting-edge-hardware-by-toms-tech-hub/"><u>The Essential Guide to Cutting-Edge Hardware by Tom's Tech Hub</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-hidden-power-of-windows-firewall-management/"><u>The Hidden Power of Windows' Firewall Management</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-hidden-secrets-revealed-in-our-test-of-the-geekworm-x1011-nas-maker/"><u>The Hidden Secrets Revealed in Our Test of the Geekworm X1011 NAS Maker</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-huawei-nova-y71-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Huawei Nova Y71 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlock-performance-secrets-top-tips-from-toms-hardware-specialists/"><u>Unlock Performance Secrets: Top Tips From Tom's Hardware Specialists</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-step-by-step-chroma-mastery-for-green-screen-beginners/"><u>[New] Step-by-Step Chroma Mastery for Green Screen Beginners</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-proven-strategies-to-capture-and-archive-ps3-games/"><u>[Updated] 2024 Approved Proven Strategies to Capture and Archive PS3 Games</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-tug-of-war-youtube-licensing-versus-cc-principles/"><u>[Updated] The Tug-of-War Youtube Licensing Versus CC Principles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-frauds-exposed-the-top-5-scams-to-recognize-and-dodge/"><u>ChatGPT Frauds Exposed: The Top 5 Scams to Recognize and Dodge</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cost-efficiency-in-yt-promotional-campaigns-for-2024/"><u>Cost Efficiency in YT Promotional Campaigns for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exemplary-melodies-set-for-visual-narratives-for-2024/"><u>Exemplary Melodies Set for Visual Narratives for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-gadgets-and-systems-by-toms-hardware/"><u>Expert Analysis on Gadgets and Systems by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-of-anycubic-kobra-3-a-breakthrough-in-multicolor-additive-manufacturing/"><u>Exploring the Features of Anycubic Kobra 3: A Breakthrough in Multicolor Additive Manufacturing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-by-toms-electronics-guide/"><u>In-Depth Analysis by Tom's Electronics Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-gear-choices-with-expert-advice-from-toms-equipment-hub/"><u>Master Your Gear Choices with Expert Advice From Tom's Equipment Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-with-tom-your-ultimate-guide-to-new-hardware/"><u>Navigating Technology with Tom - Your Ultimate Guide to New Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/netgears-value-proposition-with-the-orbi-770-mesh-router-balancing-price-point-and-performance/"><u>Netgear's Value Proposition with the Orbi 770 Mesh Router - Balancing Price Point and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-compute-module-4s-revolutionizing-industrial-automation-a-detailed-examination/"><u>Raspberry Pi Compute Module 4S: Revolutionizing Industrial Automation - A Detailed Examination</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-coredll-not-detected-dilemma-a-comprehensive-guide/"><u>Solving the 'core.dll Not Detected' Dilemma: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-your-logitech-games-app-refuses-to-start/"><u>Troubleshooting Steps When Your Logitech Games App Refuses to Start</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/xiaomi-mi-11-crafting-memories-in-unprecedented-detail/"><u>Xiaomi Mi 11 Crafting Memories in Unprecedented Detail</u></a></li>
 </ul></div>
 

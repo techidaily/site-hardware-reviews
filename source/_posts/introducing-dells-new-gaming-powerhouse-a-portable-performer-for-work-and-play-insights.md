@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights"
-date: 2025-02-01T23:59:19.283Z
-updated: 2025-02-03T05:23:41.218Z
+date: 2025-02-14T16:07:17.100Z
+updated: 2025-02-15T16:25:07.292Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,22 +114,18 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-guide-to-instagram-filters-for-2024/"><u>[New] The Ultimate Guide to Instagram Filters for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-transform-your-content-reach-with-strategic-tagging-insight/"><u>[New] Transform Your Content Reach with Strategic Tagging Insight</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-game-streamers-for-your-watchlist/"><u>[Updated] 2024 Approved Essential Game Streamers for Your Watchlist</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-platforms-for-amplifying-youtube-content/"><u>2024 Approved Top Platforms for Amplifying YouTube Content</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-fixing-high-resource-usage-by-service-host-on-win10-pcs/"><u>Comprehensive Guide to Fixing High Resource Usage by Service Host on Win10 PCs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/creating-your-own-personalized-chatgpt-with-ai-tools/"><u>Creating Your Own Personalized ChatGPT with AI Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-the-cause-of-prolonged-charging-for-googles-pixel-6-smartphone/"><u>Decoding the Cause of Prolonged Charging for Google’s Pixel 6 Smartphone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discovering-the-excellence-of-current-motorola-mobile-devices/"><u>Discovering the Excellence of Current Motorola Mobile Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/diy-personalized-android-user-interface-creation-using-cost-free-tools/"><u>DIY Personalized Android User Interface Creation Using Cost-Free Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/embracing-the-night-my-journey-into-a-world-of-dark-modes/"><u>Embracing the Night: My Journey Into a World of Dark Modes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhance-your-eye-comfort-on-android-devices-with-these-simple-brightness-adjustments/"><u>Enhance Your Eye Comfort on Android Devices with These Simple Brightness Adjustments!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-differences-essential-aspects-of-samsungs-ecosystem-not-found-in-the-google-universe-a-comprehensive-guide-for-switchers/"><u>Experience Differences: Essential Aspects of Samsung's Ecosystem Not Found in the Google Universe – A Comprehensive Guide for Switchers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/guide-disabling-intrusive-notification-alerts-on-android-devices/"><u>Guide: Disabling Intrusive Notification Alerts on Android Devices</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/laughing-liberally-with-our-meme-toolbox/"><u>Laughing Liberally with Our Meme Toolbox</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/limited-time-tech-offers-get-the-new-pixel-8-pro-and-other-high-value-deals-now/"><u>Limited-Time Tech Offers: Get the New Pixel 8 Pro & Other High-Value Deals Now!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-core-upgrades-of-windows-11/"><u>The Core Upgrades of Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-asus-pa32u-in-detail-excellence-in-color-and-contrast/"><u>[New] 2024 Approved Asus PA32U in Detail Excellence in Color and Contrast</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-quick-mac-mastering-screen-recording-via-shortcuts/"><u>2024 Approved Quick Mac Mastering Screen Recording via Shortcuts</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/beachside-tech-essential-items-for-tranquility/"><u>Beachside Tech: Essential Items for Tranquility</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-technology-products-according-to-toms-experts/"><u>Comprehensive Guide to Technology Products According to Tom's Experts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/iently-transfer-vids-from-premiere-to-youtube-for-2024/"><u>Efficiently Transfer Vids From Premiere to YouTube for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-c12-plus-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on C12 Plus</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-electronics-by-toms-expert-team/"><u>In-Depth Analysis of Electronics by Tom's Expert Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-gizmos-with-expertise-from-toms-hardware/"><u>Mastering Gadgets & Gizmos with Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-the-tom-approach/"><u>Mastering Gadgets: The Tom Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-spotify-connections-on-windows-11-devices/"><u>Overcoming Spotify Connections on Windows 11 Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-vivo-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Vivo</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviewing-the-premium-class-leader-asus-rog-rapture-gt-be98-pro-wifi-7-superior-functionality-and-upgradable-features/"><u>Reviewing the Premium Class-Leader, Asus ROG Rapture GT-BE98 Pro WIFI 7: Superior Functionality & Upgradable Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-admin-rights-unlocking-trustedinstaller-access-on-windows-10/"><u>Securing Admin Rights: Unlocking TrustedInstaller Access on Windows 10</u></a></li>
 </ul></div>
 

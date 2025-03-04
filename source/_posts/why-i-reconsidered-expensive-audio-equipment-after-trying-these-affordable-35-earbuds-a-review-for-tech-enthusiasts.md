@@ -1,7 +1,7 @@
 ---
 title: Why I Reconsidered Expensive Audio Equipment After Trying These Affordable $35 Earbuds - A Review for Tech Enthusiasts
-date: 2024-09-18 14:11:23
-updated: 2024-09-20 12:28:39
+date: 2025-02-11T16:13:04.446Z
+updated: 2025-02-15T16:35:23.089Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/topic/headphones/    https://www.zdnet.com/a/im
 ![Describe what's shown in the image.](https://www.zdnet.com/a/img/resize/5ea15817af4776af2e4d6d6c82c5965c88c65ead/2024/07/31/dc5dca84-096a-4d37-9f88-68943b3ad101/x08hero.jpg?auto=webp&precrop=1080,608,x0,y0&width=1280)
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -32,6 +36,10 @@ I'm glad I went that route. Had I known they cost less than $40, I would have au
 Before I go any further, I don't want to mislead anyone. These earbuds will not in any way stand up to the likes of the [Denon PerL Pro earbuds](https://www.zdnet.com/article/i-was-skeptical-of-these-350-wireless-earbuds-until-they-knocked-my-socks-off/) which, for me, are the gold standard when it comes to earbuds. Although the X08s don't have the dynamic range or quality of noise cancellation found in the Denons, these inexpensive earbuds sound like they cost more than they actually do. 
 
 [ZDNET RECOMMENDS Tagry X08 earbuds These earbuds punch well above their price point to deliver solid bass, good battery life, and all day comfort. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FTAGRY-Bluetooth-Headphones-Earphones-Waterproof%2Fdp%2FB09LD2D1TV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce0c25071-fb7a-45f0-af25-0d96c9a2f1e8%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tagry X08 earbuds tech specs
 
@@ -58,6 +66,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## My experience
 
 As I mentioned, when I first connected the X08 earbuds, I was pleasantly surprised at how good the sound was. And when I looked up the price, I was seriously impressed.
@@ -83,6 +95,10 @@ Of course, most consumers put more emphasis on bass than mids or highs, and in t
 I did have one instance where my Pixel 8 Pro assumed it was connected to the earbuds but instead, the sound came from the phone's speaker. I can't be certain if the problem was due to the earbuds or the phone, but a restart of my Pixel solved the problem. 
 
 As far as the controls are concerned, the standard taps apply. The only tap control missing is the three-tap track repeat (something I frequently use when running).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -111,11 +127,28 @@ At $35, you'd be hard-pressed to find a better deal on a pair of solid-sounding 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-seo-playbook-increase-channels-with-effortless-techniques/"><u>[New] The Ultimate SEO Playbook Increase Channels with Effortless Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-ultimate-webcam-users-guide-for-quality-recordings/"><u>2024 Approved The Ultimate WebCam User's Guide for Quality Recordings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862653040-carbon-fiber-structural-battery-breakthroughs-lighter-and-stronger-tech-devices-ahead/"><u>Carbon Fiber Structural Battery Breakthroughs: Lighter and Stronger Tech Devices Ahead!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-guide-epson-perfection-v500-software-and-drivers/"><u>Easy Installation Guide: Epson Perfection V500 Software & Drivers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elite-25-instagram-personalities-worth-following/"><u>Elite 25 Instagram Personalities Worth Following</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-infinix-note-30-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Infinix Note 30 Pro Unlock Without Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-video-konverter-den-lette-og-pligtelige-lystenudskrivnings-app-pa-danskmarkedet/"><u>Movavi Video Konverter - Den Lette Og Pligtelige Lystenudskrivnings App På Danskmarkedet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a78-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A78 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-product-quality-modelfarm-halves-defects-with-unreal-engine-and-intel-eyes-amd-ryzen-9-for-next-level-performance/"><u>Revolutionizing Product Quality: ModelFarm Halves Defects with Unreal Engine and Intel, Eyes AMD Ryzen 9 for Next Level Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-tech-analysis-navigating-new-innovations-at-toms-hardware/"><u>Top Tech Analysis: Navigating New Innovations at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862703895-transform-your-laptop-into-a-morse-code-input-device-just-hit-the-lid-with-precision-disclaimers-apply/"><u>Transform Your Laptop Into a Morse Code Input Device: Just Hit the Lid with Precision - Disclaimers Apply</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-gadget-analysis-by-toms-hardware-stay-informed/"><u>Ultimate Gadget Analysis by Tom's Hardware - Stay Informed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-your-inner-gamer-with-lenovo-legion-slim-5-a-steal-at-under-1100-from-newegg/"><u>Unleash Your Inner Gamer with Lenovo Legion Slim 5 – A Steal at Under $1,100 From Newegg</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-future-of-mac-gaming-apples-strategy-using-its-full-ecosystem-arsenal/"><u>Unveiling the Future of Mac Gaming – Apple's Strategy Using Its Full Ecosystem Arsenal</u></a></li>
+</ul></div>
+

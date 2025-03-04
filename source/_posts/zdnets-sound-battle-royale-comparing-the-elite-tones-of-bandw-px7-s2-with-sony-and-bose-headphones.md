@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Sound Battle Royale: Comparing the Elite Tones of B&W Px7 S2 with Sony and Bose Headphones"
-date: 2024-09-17 23:47:54
-updated: 2024-09-20 10:34:40
+date: 2025-02-09T16:35:40.004Z
+updated: 2025-02-15T16:25:04.515Z
 tags:
   - headphones
 categories:
@@ -52,6 +52,10 @@ Besides the leveled playing field, there are no flashy features or touch-based g
 | Compatibility     | iOS, Android, Windows, Mac, Chrome                                                                                                                                              |
 | Price             | [$399](https://go.shopyourlikes.com/pi/335380a99674d16926d7ca2a475318b4003d0086?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2) |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 ---
@@ -83,6 +87,10 @@ Also, Bowers & Wilkins' attention to detail with the buttons is worth a nod. Sin
 The single left button toggles between sound modes, while the right-side buttons control play/pause and volume levels.
 
 June Wan/ZDNet
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Performance
 
@@ -116,9 +124,17 @@ The Px7 S2's understated black finish is growing on me.
 
 June Wan/ZDNet
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Microphone quality
 
 Naturally, the Px7 S2's microphone was put to the test during my weeks' worth of Zoom meetings and game nights. Based on feedback from my colleagues and friends, the Bowers & Wilkins headset is clear enough to comprehend but not recommended for podcast recording or interviews. That seems to be the case with most microphones in this price range, so I would've loved to have seen the Px7 S2 deliver on this end to differentiate itself. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Software
 
@@ -129,6 +145,10 @@ While the version of the Music app that I tested was in beta until two days ago,
 You won't find branding that's classier than this. 
 
 June Wan/ZDNet
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Battery
 
@@ -177,11 +197,31 @@ One of the more comfortable noise-canceling headphones, the Bose NC 700 is light
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-enhance-tv-screens-with-automatic-loops-of-youtube/"><u>[New] 2024 Approved Enhance TV Screens With Automatic Loops of YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-digital-filmmaking-recording-video-across-various-platforms-for-2024/"><u>[Updated] Digital Filmmaking Recording Video Across Various Platforms for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-transformation-of-video-on-facebook/"><u>[Updated] In 2024, The Transformation of Video on Facebook</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-and-performance-of-western-digitals-new-4tb-wd-blue-sn5000-ssd/"><u>Exploring the Features and Performance of Western Digital's New 4TB WD Blue SN5000 SSD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-nzxt-h7-flow-case-a-cautious-approach-to-performance/"><u>Exploring the NZXT H7 Flow Case: A Cautious Approach to Performance</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-unlocking-success-a-compre-pointed-guide-to-reddit-content-creation/"><u>In 2024, Unlocking Success A Compre Pointed Guide to Reddit Content Creation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lofree-edge-assessment-slim-design-and-higher-cost-compared-with-apples-magic-keyboard/"><u>Lofree Edge Assessment: Slim Design & Higher Cost - Compared with Apple's Magic Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-choices-trustworthy-advice-from-toms-hardware/"><u>Mastering Your Tech Choices: Trustworthy Advice From Tom's Hardware</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-challenges-with-chatgpt-understanding-google-news-revision-policies-and-ensuring-uninterrupted-internet-access-on-the-go/"><u>Overcoming Challenges with ChatGPT, Understanding Google News Revision Policies & Ensuring Uninterrupted Internet Access on the Go</u></a></li>
+<li><a href="https://fox-info.techidaily.com/sparkle-with-style-animating-text-in-your-insta-stories-for-2024/"><u>Sparkle with Style Animating Text in Your Insta Stories for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-implementation-for-new-lexmark-printer-drivers/"><u>Swift Implementation for New Lexmark Printer Drivers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-of-computing-unveiled-at-toms-hardware-review-hub/"><u>The Future of Computing Unveiled at Tom's Hardware Review Hub</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-12-mini-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341752525-toms-tech-hub-in-depth-reviews-and-tips-explore-more-with-us/"><u>Tom's Tech Hub: In-Depth Reviews & Tips - Explore More with Us</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-powerhouse-in-depth-look-at-hps-new-snapdragon-chip-in-omnibook-x/"><u>Unboxing the Powerhouse: In-Depth Look at HP's New Snapdragon Chip in OmniBook X</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unlocking-screen-recording-potential-on-your-hp-notebook-for-2024/"><u>Unlocking Screen Recording Potential on Your HP Notebook for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-electronics-at-toms-device-hub/"><u>Unveiling the Latest in Electronics at Tom’s Device Hub</u></a></li>
+</ul></div>
+

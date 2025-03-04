@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Network: Strategies Against Cyber Threats From NSA & CISA Revealed by ZDNet"
-date: 2024-09-19 22:11:14
-updated: 2024-09-20 12:44:55
+date: 2025-02-09T17:12:15.430Z
+updated: 2025-02-15T16:09:57.405Z
 tags:
   - cyber-threats
 categories:
@@ -20,6 +20,10 @@ The National Security Agency (NSA) and the Cybersecurity and Infrastructure Secu
 The [new joint advisory](https://media.defense.gov/2022/Sep/22/2003083007/-1/-1/0/CSA%5FICS%5FKnow%5Fthe%5FOpponent%5F.PDF) outlines what critical infrastructure operators should know about their opponents, citing recent cyberattacks on Ukraine's energy grid and the ransomware attack against a [fuel distribution pipeline](https://www.zdnet.com/article/white-house-says-person-behind-colonial-pipeline-ransomware-attack-nabbed-during-russian-raid/). 
 
 There are heightened fears that [Russia's invasion of Ukraine and related cyberattacks](https://www.zdnet.com/article/microsoft-russia-has-launched-hundreds-of-cyberattacks-against-ukraine/) against Ukraine could spread to Western critical infrastructure targets. CISA earlier this year warned that attackers had [built custom tools to gain control of ICS and SCADA devices](https://www.zdnet.com/article/us-warning-hackers-have-built-tools-to-attack-these-key-industrial-control-systems/) from major manufacturers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -80,11 +84,31 @@ The US government has issued multiple warnings about cyberattacks on critical in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-enhance-yt-experience-the-most-outstanding-reaction-ideas/"><u>[New] In 2024, Enhance YT Experience The Most Outstanding Reaction Ideas</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-musicreactionvids10-discovering-2023s-stars/"><u>[New] In 2024, MusicReactionVids10 Discovering 2023'S Stars</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-2023s-facebook-video-grabber-windowsmacosandroid/"><u>[Updated] 2024 Approved 2023'S Facebook Video Grabber Windows/macOS/Android</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-aesthetic-ambitions-launching-a-youtube-channel-for-makeup-maven-for-2024/"><u>[Updated] Aesthetic Ambitions Launching a YouTube Channel for Makeup Maven for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-ultimate-guide-to-making-engaging-youtube-video-thumbnails-with-phones/"><u>2024 Approved The Ultimate Guide to Making Engaging YouTube Video Thumbnails with Phones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhanced-power-and-efficiency-intel-unveils-high-performance-bean-canyon-nucs/"><u>Enhanced Power and Efficiency: Intel Unveils High-Performance Bean Canyon NUCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enter-the-contest-for-your-chance-at-a-complimentary-corsair-t2-elite-gaming-seat/"><u>Enter the Contest for Your Chance at a Complimentary Corsair T2 Elite Gaming Seat</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964468515-exclusive-toms-hardware-ama-event-featuring-amd-insights-join-us-this-april-6th/"><u>Exclusive 'Tom's Hardware' AMA Event Featuring AMD Insights – Join Us This April 6Th!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-insights-into-neweggs-strategy-for-reserving-rare-components-before-building-your-pc/"><u>Exclusive Insights Into Newegg's Strategy for Reserving Rare Components Before Building Your PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expertly-assembled-computers-mastering-high-end-performance-demands/"><u>Expertly Assembled Computers: Mastering High-End Performance Demands</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-insights-and-analysis/"><u>Exploring Technology with Tom's Hardware Insights and Analysis</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-nokia-130-music-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/launching-msis-unique-yeswebuild-movement-embracing-the-future-of-computer-building/"><u>Launching MSI's Unique 'YesWeBuild' Movement: Embracing the Future of Computer Building</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-digital-world-top-picks-and-reviews-by-toms-computer-essentials/"><u>Mastering the Digital World: Top Picks & Reviews by Tom's Computer Essentials</u></a></li>
+<li><a href="https://windows11.techidaily.com/mitigating-high-tiworkerexe-cpu-load-in-os/"><u>Mitigating High TiWorker.exe CPU Load in OS</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-how-to-prevent-final-cut-pro-x-from-freezing-and-crashing-for-2024/"><u>New How to Prevent Final Cut Pro X From Freezing and Crashing for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-expert-insights-into-computer-components-and-systems/"><u>Tom's Tech Hub: Expert Insights Into Computer Components and Systems</u></a></li>
+</ul></div>
+

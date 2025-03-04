@@ -1,7 +1,7 @@
 ---
 title: Adapting Office Tech for the Age of Artificial Intelligence - Insights
-date: 2025-01-29T20:11:26.097Z
-updated: 2025-02-02T23:42:17.962Z
+date: 2025-02-14T17:10:42.559Z
+updated: 2025-02-15T16:30:29.309Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,20 +134,24 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-beginning-with-adobe-audition-the-fading-start/"><u>[Updated] In 2024, Beginning with Adobe Audition The Fading Start</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-knowledge-simplified-with-toms-insider-guides-and-reviews/"><u>Advanced Hardware Knowledge Simplified with Tom's Insider Guides and Reviews</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bypass-windows-update-freeze-quick-fixes-to-restart-the-process/"><u>Bypass Windows Update Freeze: Quick Fixes to Restart the Process</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-testing-and-review-of-asus-zenbook-s16-with-amd-ryzen-ai-nine-hx-series-processor/"><u>Comprehensive Guide to Testing and Review of ASUS Zenbook S16 with AMD Ryzen AI Nine HX Series Processor</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/energy-conservation/"><u>Energy Conservation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-performance-a-detailed-look-at-the-pros-and-cons-of-the-cooler-master-ion-360-aio-pc-watercooler/"><u>Evaluating Performance: A Detailed Look at the Pros and Cons of the Cooler Master ION 360 AIO PC Watercooler</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y100-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100 Phone without Google Account?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-video-editing-mastery-top-3-4k8k-software-solutions/"><u>New In 2024, Video Editing Mastery Top 3 4K/8K Software Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-solutions-how-to-rapidly-repair-airdrop-issues-using-16-effective-tips/"><u>Quick Solutions: How to Rapidly Repair AirDrop Issues Using 16 Effective Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-5-upgraded-with-icetower-pi-52-a-comprehensive-review-of-its-ultra-fast-chilling-capabilities/"><u>Raspberry Pi 5 Upgraded with IceTower Pi 52: A Comprehensive Review of Its Ultra-Fast Chilling Capabilities</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-source-for-tech-analysis-toms-hardware-direct/"><u>The Ultimate Source for Tech Analysis - Tom's Hardware Direct</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/understanding-the-risks-in-google-passwords-vault/"><u>Understanding the Risks in Google Passwords Vault</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-with-toms-hardware-test-lab/"><u>Unlocking Performance with Tom's Hardware Test Lab</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-xiaomi-14-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi 14 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-immortal-gameplay-highlights-of-android-samsungs/"><u>[New] 2024 Approved Immortal Gameplay Highlights of Android Samsungs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/chieving-pristine-video-quality-on-youtube-for-2024/"><u>[New] Achieving Pristine Video Quality on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-enhance-your-fb-ads-reach-embrace-the-no-cost-kit-innovations-for-2024/"><u>[New] Enhance Your FB Ads Reach Embrace the No-Cost Kit Innovations for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphone-photo-excellence-simple-tips-and-tricks/"><u>[Updated] IPhone Photo Excellence Simple Tips & Tricks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-from-youtube-to-tiktok-and-now-vimeo-gifs/"><u>2024 Approved From YouTube to TikTok, and Now Vimeo-Gifs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-web-services-unveils-preview-for-ec2-based-apple-silicon-servers-techcrunch/"><u>Amazon Web Services Unveils Preview for EC2-Based Apple Silicon Servers | TechCrunch</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/beat-the-competition-with-an-rtx-4060-enabled-msi-bravo-laptop-priced-below-1000/"><u>Beat the Competition with an RTX 4060-Enabled MSI Bravo Laptop - Priced Below $1,000</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benzalkonium-chloride-commonly-found-in-hand-sanitizers-its-a-quaternary-ammonium-compound-effective-against-bacteria-and-some-viruses-however-its-effective34/"><u>Benzalkonium Chloride - Commonly Found in Hand Sanitizers, It's a Quaternary Ammonium Compound Effective Against Bacteria and some Viruses. However, Its Effectiveness Can Be Reduced by Organic Matter Like Blood or Dirt</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/boosting-mac-gaming-with-the-entire-apple-network-a-new-strategy-unveiled/"><u>Boosting Mac Gaming with the Entire Apple Network – A New Strategy Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-risc-v-computer-revolution-engineers-new-choice-from-china-at-just-300/"><u>Budget-Friendly RISC-V Computer Revolution: Engineers' New Choice From China at Just $300</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-preview-dells-latest-tech-unleashed-xps-and-inspiron-laptops-powered-by-qualcomm-snapdragon-ready-for-q3-launch/"><u>Exclusive Preview: Dell's Latest Tech Unleashed – XPS and Inspiron Laptops Powered by Qualcomm Snapdragon Ready for Q3 Launch!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-computer-and-hardware-analysis/"><u>Expert Insights From Tom’s Computer & Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-computer-hardware-with-tom/"><u>Exploring the Latest in Computer Hardware with Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/fly-high-with-flying-lotus-the-all-in-one-desktop-crafted-from-framework-laptop-and-advanced-3d-components-powered-by-battery/"><u>Fly High with Flying Lotus: The All-in-One Desktop Crafted From Framework Laptop & Advanced 3D Components, Powered by Battery</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oneplus-ace-2v-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-youtubes-premium-service-worth-your-money/"><u>Is YouTube's Premium Service Worth Your Money?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-find-n3-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo Find N3 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-bring-cartoons-to-life-top-10-animation-apps-for-android-and-iphone/"><u>Updated In 2024, Bring Cartoons to Life Top 10 Animation Apps for Android and iPhone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/windows-laptop-revolution-looms-with-mediatek-preparing-arm-processors-as-qualcomms-exclusive-access-ends/"><u>Windows Laptop Revolution Looms with MediaTek Preparing ARM Processors as Qualcomm's Exclusive Access Ends</u></a></li>
 </ul></div>
 

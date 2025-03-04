@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Reveals at Apple's October Showcase: M4 Mac Mini Unveiled, New iPad Lineup, Innovations in AI - Insights for Tech Enthusiasts | ZDNet"
-date: 2025-01-27T18:48:27.657Z
-updated: 2025-02-03T05:22:35.898Z
+date: 2025-02-12T17:16:38.257Z
+updated: 2025-02-15T16:00:58.673Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,24 +118,20 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-innovating-your-teaching-with-interactive-screencasts/"><u>[New] In 2024, Innovating Your Teaching with Interactive Screencasts</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-quick-fix-for-background-removal-in-figma-projects/"><u>[New] Quick Fix for Background Removal in Figma Projects</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-gears-up-to-launch-high-end-ai-computing-systems-at-luxury-price-point/"><u>Asus Gears Up to Launch High-End AI Computing Systems at Luxury Price Point</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gearguide-by-tom-in-depth-analysis-of-pc-parts-and-tech-advice/"><u>GearGuide by Tom: In-Depth Analysis of PC Parts & Tech Advice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/getting-started-with-a-cost-effective-sbm-662-desktop-exploring-core-modules-and-specifications-for-q1-2016-model/"><u>Getting Started with a Cost-Effective SBM $662 Desktop: Exploring Core Modules & Specifications for Q1 2016 Model</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-efficiently-back-up-your-email-with-top-gmail-backup-tools/"><u>How to Efficiently Back Up Your Email with Top Gmail Backup Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-webex-microphone-functionality-this-year/"><u>How to Restore Webex Microphone Functionality This Year</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-15-plus-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 15 Plus without Password?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-xiaomi-mix-fold-3-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Xiaomi Mix Fold 3 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-our-new-covid-19-origami-challenge-unfold-your-way-to-healthier-times/"><u>Introducing Our New COVID-19 Origami Challenge: Unfold Your Way to Healthier Times</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/kid-friendly-guide-easy-steps-to-assemble-your-very-own-computer/"><u>Kid-Friendly Guide: Easy Steps to Assemble Your Very Own Computer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-on-linux-a-straightforward-tutorial/"><u>Mastering ChatGPT on Linux: A Straightforward Tutorial</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-by-step-advice-on-constructing-a-personal-computer-from-scratch/"><u>Step-by-Step Advice on Constructing a Personal Computer From Scratch</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-fresh-windows-11-driver-installation/"><u>The Ultimate Guide to Fresh Windows 11 Driver Installation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-gadget-guide-in-depth-reviews-of-computing-technology-and-hardware-solutions/"><u>Tom's Gadget Guide: In-Depth Reviews of Computing Technology and Hardware Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guide-to-performance-equipment/"><u>Tom's Tech Review: Comprehensive Guide to Performance Equipment</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-performing-gaming-rigs-conquering-the-ultimate-tech-trials/"><u>Top-Performing Gaming Rigs: Conquering the Ultimate Tech Trials</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723002368503-why-is-my-google-chrome-browser-not-starting-find-out-how-to-fix-it/"><u>Why Is My Google Chrome Browser Not Starting? Find Out How To Fix It</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-guide-perfect-your-youtube-video-looping-game/"><u>[Updated] In 2024, How-To Guide Perfect Your YouTube Video Looping Game</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-alternative-recreation-in-the-firstrow-rankings/"><u>2024 Approved Alternative Recreation in the Firstrow Rankings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-action-cameras-for-stabilized-shots/"><u>2024 Approved Ideal Action Cameras for Stabilized Shots</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341723202-cutting-edge-cost-effective-nvme-cooling-discover-the-power-of-the-uphere-m201-heatsink-under-5/"><u>Cutting-Edge, Cost-Effective NVMe Cooling - Discover the Power of the UpHere M201 Heatsink Under $5</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-computing-from-tomntech-space/"><u>Expert Advice on Computing From Tom'nTech Space</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-speed-computing-on-lattepanda-mu-is-it-worth-more-than-raspberry-pi-5/"><u>High-Speed Computing on LattePanda Mu - Is It Worth More Than Raspberry Pi 5?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-troubleshoot-when-elder-scrolls-online-wont-launch-properly/"><u>How to Troubleshoot When Elder Scrolls Online Won't Launch Properly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-on-downloading-processing-and-saving-twitter-vids-as-mp3s/"><u>In 2024, Guide on Downloading, Processing, and Saving Twitter Vids as MP3s</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-the-gigabyte-g6x-game-machine-reliable-fun-with-missing-highlights/"><u>Inside Look at the Gigabyte G6X Game Machine: Reliable Fun with Missing Highlights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/microsoft-surface-pro-assessment-navigating-the-allure-of-design-and-the-underwhelming-ai-capabilities/"><u>Microsoft Surface Pro Assessment: Navigating the Allure of Design and the Underwhelming AI Capabilities</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/pemulihan-vide-terbentuk-dari-penyebab-hamilan-flash-drive-langkah-langkah-terbukti/"><u>Pemulihan Vide Terbentuk Dari Penyebab Hamilan Flash Drive - Langkah-Langkah Terbukti</u></a></li>
+<li><a href="https://fox-links.techidaily.com/photoshops-role-in-crafting-stunning-hdr-visuals/"><u>Photoshop's Role in Crafting Stunning HDR Visuals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-of-eco-performance-dissecting-the-power-of-teamgroups-ddr5-6000-t-force-vulcan-c30-memory-kit/"><u>The Future of Eco Performance: Dissecting the Power of TeamGroup's DDR5-6000 T-Force Vulcan C30 Memory Kit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-hardware-and-software/"><u>Tom's Tech Review: Expert Insights on Hardware and Software</u></a></li>
 </ul></div>
 

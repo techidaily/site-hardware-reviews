@@ -1,7 +1,7 @@
 ---
 title: "Maximizing MacOS Capacity: Expert Tips for Enhanced Hard Drive Management | ZDNet"
-date: 2025-01-26T22:17:14.773Z
-updated: 2025-02-03T05:04:57.480Z
+date: 2025-02-14T16:37:27.095Z
+updated: 2025-02-15T16:23:45.189Z
 tags:
   - laptops
 categories:
@@ -49,7 +49,7 @@ Let me show you how to enable the Optimize Storage feature on your MacOS device.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Optimize Storage
@@ -57,7 +57,7 @@ Let me show you how to enable the Optimize Storage feature on your MacOS device.
 **What you'll need:** The only thing you'll need for this is a device running MacOS. I'll demonstrate the process on a MacBook Pro, running MacOS Ventura 13.5.2\. Make sure your OS is updated so you have all the most recent security patches and any new features Apple has added.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open System Settings
@@ -73,7 +73,7 @@ To access System Settings, you can either go through this menu or open it from t
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open Storage settings
@@ -85,7 +85,7 @@ You'll see the General option in the left-side navigation.
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable Optimize Storage
@@ -134,17 +134,20 @@ And that's all there is to optimizing the storage of your MacOS device. If you p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-luxury.techidaily.com/que-es-el-formato-rapido-y-como-puede-destruir-tus-archivos-sin-querer-consejos-para-recuperar-los-datos-perdidos/"><u>¿Qué Es El Formato Rápido Y Cómo Puede Destruir Tus Archivos Sin Querer? Consejos Para Recuperar Los Datos Perdidos</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-a-comprehensive-look-at-lighting-your-youtube-videos-right/"><u>[New] A Comprehensive Look at Lighting Your YouTube Videos Right</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-social-synergy-connecting-the-two-giants/"><u>[Updated] Social Synergy Connecting the Two Giants</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/10-best-hash-monitoring-apps-for-major-social-platforms-fbtwitterinsta-for-2024/"><u>10 Best Hash Monitoring Apps for Major Social Platforms (FB/Twitter/Insta) for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209008590-connectivity-hacks-for-your-xbox-one-controller-overcoming-synchronization-challenges-easily/"><u>Connectivity Hacks for Your Xbox One Controller – Overcoming Synchronization Challenges Easily!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-top-tier-computer-parts-through-toms-hardware-breakdowns/"><u>Discover Top-Tier Computer Parts Through Tom's Hardware Breakdowns</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/discovering-the-top-10-video-calls-for-mobile-users-worldwide-for-2024/"><u>Discovering the Top 10 Video Calls for Mobile Users Worldwide for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/finding-your-ideal-video-capture-solution-bandicam-vs-camtasia/"><u>Finding Your Ideal Video Capture Solution Bandicam Vs Camtasia</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341707861-keychron-q1-he-unveiled-the-long-awaited-perfect-blend-of-speed-and-portability-for-your-wireless-needs/"><u>Keychron Q1 HE Unveiled: The Long-Awaited Perfect Blend of Speed and Portability for Your Wireless Needs!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-high-performance-systems-with-toms-hardware-tips/"><u>Navigating High-Performance Systems with Tom's Hardware Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-complete-guide-to-the-geekworm-x1011-nas-maker-inside-story-and-evaluation/"><u>The Complete Guide to the Geekworm X1011 NAS Maker: Inside Story and Evaluation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-reviews-and-guides/"><u>Tom's Tech Hub: Comprehensive Reviews and Guides</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-how-to-take-landscape-photos-on-iphone-killer-tips-for-2024/"><u>[Updated] How to Take Landscape Photos on iPhone [Killer Tips] for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-ai-9-hx-370-inside-the-new-asus-zenbook-s16-gaming-and-productivity-performance-evaluated/"><u>AMD Ryzen AI 9 HX 370 Inside the New Asus Zenbook S16 - Gaming and Productivity Performance Evaluated</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/appreciation-roundup-premiumfree-outro-templates-for-2024/"><u>Appreciation Roundup Premium/Free Outro Templates for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benchmark-battles-is-the-samsung-book4-edge-outclassed-by-iphone-12-in-speed-and-efficiency/"><u>Benchmark Battles: Is the Samsung Book4 Edge Outclassed by iPhone 12 in Speed and Efficiency?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-buys-ryzen-ai-300-laptops-delayed-to-july-28th-explore-updated-availability-online/"><u>Best Buy's Ryzen AI 300 Laptops Delayed to July 28Th – Explore Updated Availability Online</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-hardware-with-toms-digital-world-your-guide-to-gadgets-and-components/"><u>Delving Into Hardware with Tom's Digital World: Your Guide to Gadgets and Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/digital-insights-with-toms-hardware-guides/"><u>Digital Insights with Tom's Hardware Guides</u></a></li>
+<li><a href="https://video-capture.techidaily.com/efficiently-record-your-gotomeeting-conferences/"><u>Efficiently Record Your GoToMeeting Conferences</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-leveraging-microsoft-excels-smart-data-recognition-feature/"><u>Expert Tips for Leveraging Microsoft Excel's Smart Data Recognition Feature</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/fast-track-conquering-japans-number-system/"><u>Fast Track: Conquering Japan's Number System</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/groundbreaking-leap-in-computing-global-premiere-risc-v-laptop-receives-unprecedented-core-and-speed-enhancements-including-state-of-the-art-ai-features/"><u>Groundbreaking Leap in Computing: Global Premiere RISC-V Laptop Receives Unprecedented Core and Speed Enhancements, Including State-of-the-Art AI Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hps-omnibook-ultra-14-the-future-of-laptop-innovation-with-integrated-amd-ryzen-ai-300-chipset-and-top-notch-thunderbolt-4-speed/"><u>HP's OmniBook Ultra 14: The Future of Laptop Innovation with Integrated AMD Ryzen AI 300 Chipset & Top-Notch Thunderbolt 4 Speed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-addressing-the-coredll-missing-mistake/"><u>Step-by-Step Guide: Addressing the Core.dll Missing Mistake</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/tailor-made-youtube-music-mixes-a-stepwise-technique-for-webmobile-users/"><u>Tailor-Made YouTube Music Mixes A Stepwise Technique for Web/Mobile Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-live-photos-into-time-lapse-videos-for-2024/"><u>Transforming Live Photos Into Time-Lapse Videos for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Battle of Powerhouses: How Our $4K Durable Laptop Challenges the Dell Latitude on Performance"
-date: 2025-01-28T19:07:56.144Z
-updated: 2025-02-02T17:35:09.726Z
+date: 2025-02-09T16:09:39.355Z
+updated: 2025-02-15T16:19:00.082Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ I spent a good hour and a half moving from station to station, from 240Hz ultraw
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. The numbers don't lie
@@ -47,7 +47,7 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -61,7 +61,7 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -75,7 +75,7 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,24 +114,20 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-dissecting-the-narrative-in-youtube-dialogues-for-2024/"><u>[New] Dissecting the Narrative in YouTube Dialogues for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/acos-2023-update-from-youtube-to-high-quality-mp3s-for-2024/"><u>[New] MacOS 2023 Update From YouTube to High-Quality MP3s for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-immediate-flagging-of-insta-de-following-events/"><u>[Updated] 2024 Approved Immediate Flagging of Insta De-Following Events</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-power-supplies-for-hero5-official-and-alternative-models/"><u>2024 Approved Ultimate Power Supplies for Hero5 Official & Alternative Models</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-of-breed-pages-for-sparkling-3d-text/"><u>Best of Breed Pages for Sparkling 3D Text</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-why-gamers-love-the-xbox-one-elite-series-2-an-ultimate-gamepad-assessment/"><u>Discover Why Gamers Love the Xbox One Elite Series 2: An Ultimate Gamepad Assessment</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862737205-experience-top-tier-performance-with-the-discounted-dell-16-inch-g16-laptop-only-949/"><u>Experience Top-Tier Performance with the Discounted Dell 16-Inch G16 Laptop - Only $949</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-handbook-to-windows-law-filters/"><u>The Complete Handbook to Window's LAW Filters</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-oneplus-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on OnePlus without backup.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-ultimate-guide-to-computer-components/"><u>Tom's Tech Reviews: Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-buyers-guide-to-the-best-gaming-laptops-real-world-benchmarks-and-evaluations/"><u>Ultimate Buyer's Guide to the Best Gaming Laptops : Real-World Benchmarks and Evaluations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862654706-unbeatable-deal-m3-macbook-air-with-16gb-ram-and-13-display-at-just-1149/"><u>Unbeatable Deal: M3 MacBook Air with 16GB RAM & 13 Display at Just $1,149</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-toms-hardware-reviews/"><u>Unveiling the Latest in Computing - Tom's Hardware Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-tips-from-tom/"><u>Unveiling the Latest in Computing: Tips From Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-toms-techpicks/"><u>Unveiling the Latest in Computing: Tom's TechPicks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-tech-toms-pioneering-hardware-guides-and-analysis/"><u>Unveiling the Latest in Tech: Tom's Pioneering Hardware Guides and Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-technology-through-toms-hardware-guides/"><u>Unveiling the Latest in Technology Through Tom's Hardware Guides</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-2024-approved-translate-live-video-making-it-possible-with-the-best-tool/"><u>Updated 2024 Approved Translate Live Video Making It Possible With The Best Tool</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-autofocus-on-iphone-cameras-efficiently/"><u>[New] Mastering Autofocus on iPhone Cameras Efficiently</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-innovating-informative-intros/"><u>[Updated] 2024 Approved Innovating Informative Intros</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-easy-guide-turning-your-favorite-youtube-videos-into-animated-gifs-for-2024/"><u>[Updated] Easy Guide Turning Your Favorite YouTube Videos Into Animated GIFs for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/994841-9781780997629-awaken-your-inner-wisdom/"><u>Awaken Your Inner Wisdom | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-innovation-on-the-go-hackberry-pi-zero-empowers-hands-on-creators-in-a-pocket-sized-package/"><u>Compact Innovation on the Go - Hackberry Pi Zero Empowers Hands-On Creators in a Pocket-Sized Package</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-sunfounder-pironman-5-bicycle-assessment-necessity-of-precise-construction-steps/"><u>Comprehensive SunFounder Pironman 5 Bicycle Assessment: Necessity of Precise Construction Steps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-geekworm-x1011-revealed-unboxing-the-next-gen-network-attached-storage-creator/"><u>Exclusive Geekworm X1011 Revealed: Unboxing the Next-Gen Network Attached Storage Creator</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-retro-gaming-with-raspberry-pi-introducing-the-dual-player-picade-max-from-pimoroni/"><u>Experience Retro Gaming with Raspberry Pi: Introducing the Dual Player Picade MAX From Pimoroni</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-revolutionary-raspberry-pi-pico-discovering-its-armplusrisc-v-core-capabilities-for-just-5/"><u>Exploring the Revolutionary Raspberry Pi Pico: Discovering Its ARM+RISC-V Core Capabilities for Just $5</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-uploading-expansive-content-on-youtube-like-a-pro/"><u>In 2024, Uploading Expansive Content on YouTube Like a Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-raspberry-pi-link-up-seamlessly-run-your-pi-from-anywhere-through-a-web-interface/"><u>Introducing Raspberry Pi Link-Up: Seamlessly Run Your Pi From Anywhere Through a Web Interface</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-the-digital-realm-the-best-9-emulators-for-steam-decks/"><u>Navigate the Digital Realm: The Best 9 Emulators for Steam Decks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-youth-in-digital-dialogues-5-safe-chatgpt-strategies/"><u>Protecting Youth in Digital Dialogues: 5 Safe ChatGPT Strategies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-review-of-the-latest-raspberry-pi-pico-a-deep-dive-into-its-new-arm-plus-risc-v-cores-at-an-affordable-price/"><u>Unboxing Review of the Latest Raspberry Pi Pico: A Deep Dive Into Its New Arm + RISC-V Cores at an Affordable Price</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-of-both-worlds-free-and-paid-3d-video-creation-software/"><u>Updated In 2024, Best of Both Worlds Free and Paid 3D Video Creation Software</u></a></li>
 </ul></div>
 

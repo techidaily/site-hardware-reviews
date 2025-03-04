@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Capturing Screenshots on Dell, Lenovo & Mac Computers - Tips"
-date: 2025-01-29T05:38:26.780Z
-updated: 2025-02-03T04:07:05.339Z
+date: 2025-02-10T16:11:15.685Z
+updated: 2025-02-15T16:53:43.960Z
 tags:
   - laptops
 categories:
@@ -37,14 +37,10 @@ You'll need your laptop and, in some cases, basic image editing software. The en
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 1: The old fashioned way**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
 
@@ -71,7 +67,7 @@ Michael Gariffo/ZDNET
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
@@ -86,16 +82,12 @@ The Windows 11 version of the basic Snipping Tool menu and its icon.
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Screenshotting on Macs
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Press Shift+Cmd+3
@@ -110,6 +102,10 @@ Michael Gariffo/ZDNET
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
@@ -117,6 +113,10 @@ There sure is. For Mac users, we've already covered [how to capture recordings o
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,18 +157,17 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-subtle-start-sequence/"><u>[New] 2024 Approved Subtle Start Sequence</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-advanced-mobile-mounting-accurate-camera-positioning/"><u>[New] Advanced Mobile Mounting Accurate Camera Positioning</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-securely-capturing-your-zoom-sessions/"><u>[Updated] 2024 Approved Securely Capturing Your Zoom Sessions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-tech-breakdown-by-tom-the-ultimate-hardware-guide/"><u>Advanced Tech Breakdown by Tom: The Ultimate Hardware Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/best-acer-predator-orion-5000-laptop-review-top-value-and-high-end-specs/"><u>Best Acer Predator Orion 5000 Laptop Review: Top Value and High-End Specs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-digital-innovations-at-toms-computer-chronicles-expert-electronics-evaluations/"><u>Dive Into Digital Innovations at Tom's Computer Chronicles: Expert Electronics Evaluations</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/essential-internet-security-advice-every-tech-novice-should-follow/"><u>Essential Internet Security Advice Every Tech Novice Should Follow</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-cutting-edge-performance-of-the-pixio-px277-an-underrated-champion-in-monitors-for-gamers/"><u>Exploring the Cutting-Edge Performance of the Pixio PX277 - An Underrated Champion in Monitors for Gamers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-tecno-phantom-v-flip-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Tecno Phantom V Flip Phone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-computing-solutions-on-tomaturbans-hardware-platform/"><u>Navigating Advanced Computing Solutions on Tom'aturbans Hardware Platform</u></a></li>
-<li><a href="https://article-posts.techidaily.com/photographers-guide-to-effective-watermarking-for-2024/"><u>Photographers' Guide to Effective Watermarking for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-the-potential-of-android-and-windows-11-as-one-display/"><u>Unleashing the Potential of Android and Windows 11 as One Display</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rafting-an-impactful-waterway-teaser-for-2024/"><u>[New] Crafting an Impactful Waterway Teaser for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-synaptix-touchpad-drivers-with-simple-steps/"><u>Download the Latest Synaptix Touchpad Drivers with Simple Steps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/elegant-architecture-top-6-sleek-mc-houses/"><u>Elegant Architecture Top 6 Sleek MC Houses</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-electronics-with-toms-gear-advice/"><u>Expert Insights on Electronics with Tom's Gear Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-session-on-harnessing-process-intelligence-with-trinet-and-abbyy/"><u>Expert Session on Harnessing Process Intelligence with TriNet & ABBYY</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-gadgets-with-toms-tech-hub/"><u>Exploring the Latest Gadgets with Tom's Tech Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-fidelity-and-unmatched-clarity-a-comprehensive-look-at-dough-spectrums-oled-monitor-for-gamers/"><u>High Fidelity and Unmatched Clarity: A Comprehensive Look at Dough Spectrum's OLED Monitor for Gamers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-social-media-integration-for-amplified-youtube-shorts-reach/"><u>In 2024, Social Media Integration for Amplified YouTube Shorts Reach</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/my-heartfelt-journey-using-apples-latest-m2-macbook-air-unveiled-at-zdnet/"><u>My Heartfelt Journey Using Apple's Latest M2 MacBook Air, Unveiled at ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-up-to-date-tech-insights-from-toms-hardware/"><u>The Definitive Guide to Up-to-Date Tech: Insights From Tom’s Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-7-most-infamous-technology-commercials-ever-created/"><u>Top 7 Most Infamous Technology Commercials Ever Created</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-gadgets-the-guide-by-toms-hardware-team/"><u>Unveiling Cutting-Edge Gadgets - The Guide by Tom's Hardware Team</u></a></li>
 </ul></div>
 

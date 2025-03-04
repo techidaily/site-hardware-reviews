@@ -1,7 +1,7 @@
 ---
 title: Last-Minute Savings Alert! Grab Your Favorite Games During October's Prime Day 2N4 - Up To $1K Off | TechSpot
-date: 2025-01-31T22:40:40.104Z
-updated: 2025-02-03T05:24:56.022Z
+date: 2025-02-14T17:02:08.120Z
+updated: 2025-02-15T16:07:16.064Z
 tags:
   - laptops
 categories:
@@ -101,6 +101,10 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 gaming deals still available
 
 ZDNET
@@ -132,10 +136,6 @@ ZDNET
 * [WD Black SN850X 4TB SSD for $310 (save $390)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWD%5FBLACK-SN850X-Internal-Gaming-Solid%2Fdp%2FB0B7CQ2CHH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): Instantly add 4TB of storage to your PS5 console for large game downloads and save files.
 * [Metal Gear Solid: Master Collection Vol. 1 for $19 (save $21)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetal-Gear-Solid-Collection-PlayStation-5%2Fdp%2FB0C93LL82B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): Get all three of the original MGS games for the PS1 in a single collection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day Xbox Series X|S deals still available
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -147,6 +147,10 @@ ZDNET
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $168 (save $102 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
 * [Razer Wolverine V2 Chroma for $60 (save $90)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Wolverine-Chroma-Gaming-Controller-x%2Fdp%2FB09CKFSRK7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): A wired, pro-style controller for the Xbox Series X|S console featuring RGB lighting, programmable buttons, and an ergonomic design for marathon gaming.
 * [Starfield standard edition for $40 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FStarfield-Standard-Xbox-X%2Fdp%2FB0C7PN2L5V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): Bethesda's latest action RPG has players exploring more than 1,000 planets to gather resources and allies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals still available
 
@@ -166,7 +170,7 @@ Nintendo/ZDNET
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all-new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals still available
@@ -206,10 +210,6 @@ Samsung/ZDNET
 * [Corsair Scimitar Elite RGB wireless for $100 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-SCIMITAR-ELITE-WIRELESS-Gaming%2Fdp%2FB0CCVYHZ9N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): A wireless mouse designed for MOBAs and MMOs with 16 programmable buttons and a 150-hour battery life.
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day graphics card deals still available
 
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
@@ -228,7 +228,7 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ra
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
@@ -236,7 +236,7 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
@@ -304,18 +304,20 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-expert-strategies-for-full-screen-edits-in-premiere/"><u>[New] Expert Strategies for Full Screen Edits in Premiere</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-earnings-unlocked-strategies-for-content-creators-for-2024/"><u>[New] Vimeo Earnings Unlocked Strategies for Content Creators for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/0-ssd-controller-the-revolutionary-e29t/"><u>0 SSD Controller - The Revolutionary E29T</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/2024-school-starts-savings-exclusive-offers-on-educational-tech-for-the-upcoming-academic-year/"><u>2024 School Starts Savings! Exclusive Offers on Educational Tech for the Upcoming Academic Year</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/comment-proceder-au-formatage-dun-disque-avant-utilisation-les-meilleurs-guides-et-astuces/"><u>Comment Procéder Au Formatage D'un Disque Avant Utilisation: Les Meilleurs Guides Et Astuces</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964484111-dropped-to-a-bargain-the-elite-five-star-fractal-design-north-pc-chassis-for-only-109/"><u>Dropped to a Bargain - The Elite Five-Star Fractal Design North PC Chassis for Only $109!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-pc-gear-with-toms-hardware-analysis/"><u>Expert Guidance on PC Gear with Tom’s Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-technology-with-toms-gadget-review-your-source-for-top-hardware-analysis/"><u>Exploring the Latest in Technology with Tom's Gadget Review: Your Source for Top Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-an-in-depth-guide/"><u>Exploring Tom’s Hardware: An In-Depth Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-honor-magic-6-frp-by-drfone-android/"><u>Full Guide to Bypass Honor Magic 6 FRP</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/grasping-youtube-seo-a-guide-to-keyword-discovery/"><u>Grasping YouTube SEO A Guide to Keyword Discovery</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ws-1002-wifi-ambient-weather-monitor-a-review-on-its-exceptional-quality-against-price-tag/"><u>WS-1002 WiFi Ambient Weather Monitor: A Review on Its Exceptional Quality Against Price Tag</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-deciphering-youtubes-profit-for-a-mil-of-viewers/"><u>[New] 2024 Approved Deciphering YouTube’s Profit for A Mil of Viewers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-seamlessly-explore-facebooks-past-content/"><u>[New] 2024 Approved Seamlessly Explore Facebook's Past Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-androids-top-12-ultimate-wildlife-game-picks-for-2024/"><u>[New] Android's Top 12 Ultimate Wildlife Game Picks for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-windows-graphics-the-top-9-tools-for-capturing-animation-gifs-for-2024/"><u>[Updated] Mastering Windows Graphics The Top 9 Tools for Capturing Animation GIFs for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-y17s-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo Y17s by Name | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/archive-your-albums-in-the-sky-optimal-photo-cloud-storage-compared/"><u>Archive Your Albums in the Sky Optimal Photo Cloud Storage Compared</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-components-with-toms-hardware-a-detailed-insight/"><u>Discovering Components with Tom’s Hardware - A Detailed Insight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dough-spectrum-black-review-a-revolutionary-gaming-odyssey-on-a-premium-crafted-27-inch-oled-screen/"><u>Dough Spectrum Black Review: A Revolutionary Gaming Odyssey on a Premium-Crafted, 27-Inch OLED Screen!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-tom-a-comprehensive-guide/"><u>Exploring Technology with Tom: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-youtubes-creative-commons-shapes-video-production/"><u>In 2024, How YouTube's Creative Commons Shapes Video Production</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-world-toms-expert-analysis-on-computer-hardware/"><u>Navigating the Tech World: Tom's Expert Analysis on Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-gear-insights-from-toms-hardware-analysis/"><u>Navigating the World of PC Gear: Insights From Tom's Hardware Analysis</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/ultimate-strategies-for-restoring-lost-fla-design-files-a-step-by-step-tutorial/"><u>Ultimate Strategies for Restoring Lost .FLA Design Files – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341743549-wirelessly-dominate-your-productivity-with-the-keychron-q1-he-the-wireless-version-youve-been-dreaming-of/"><u>Wirelessly Dominate Your Productivity with the Keychron Q1 HE - The Wireless Version You've Been Dreaming Of!</u></a></li>
 </ul></div>
 

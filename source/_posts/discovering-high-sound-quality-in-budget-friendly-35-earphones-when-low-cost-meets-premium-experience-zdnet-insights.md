@@ -1,7 +1,7 @@
 ---
 title: "Discovering High Sound Quality in Budget-Friendly $35 Earphones: When Low Cost Meets Premium Experience | ZDNET Insights"
-date: 2024-09-18 11:32:28
-updated: 2024-09-20 11:10:15
+date: 2025-02-11T16:35:05.657Z
+updated: 2025-02-15T16:37:57.819Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
 ![Describe what's shown in the image.](https://www.zdnet.com/a/img/resize/5ea15817af4776af2e4d6d6c82c5965c88c65ead/2024/07/31/dc5dca84-096a-4d37-9f88-68943b3ad101/x08hero.jpg?auto=webp&precrop=1080,608,x0,y0&width=1280)
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -32,6 +36,10 @@ I'm glad I went that route. Had I known they cost less than $40, I would have au
 Before I go any further, I don't want to mislead anyone. These earbuds will not in any way stand up to the likes of the [Denon PerL Pro earbuds](https://www.zdnet.com/article/i-was-skeptical-of-these-350-wireless-earbuds-until-they-knocked-my-socks-off/) which, for me, are the gold standard when it comes to earbuds. Although the X08s don't have the dynamic range or quality of noise cancellation found in the Denons, these inexpensive earbuds sound like they cost more than they actually do. 
 
 [ZDNET RECOMMENDS Tagry X08 earbuds These earbuds punch well above their price point to deliver solid bass, good battery life, and all day comfort. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FTAGRY-Bluetooth-Headphones-Earphones-Waterproof%2Fdp%2FB09LD2D1TV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce0c25071-fb7a-45f0-af25-0d96c9a2f1e8%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tagry X08 earbuds tech specs
 
@@ -58,6 +66,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## My experience
 
 As I mentioned, when I first connected the X08 earbuds, I was pleasantly surprised at how good the sound was. And when I looked up the price, I was seriously impressed.
@@ -83,6 +95,10 @@ Of course, most consumers put more emphasis on bass than mids or highs, and in t
 I did have one instance where my Pixel 8 Pro assumed it was connected to the earbuds but instead, the sound came from the phone's speaker. I can't be certain if the problem was due to the earbuds or the phone, but a restart of my Pixel solved the problem. 
 
 As far as the controls are concerned, the standard taps apply. The only tap control missing is the three-tap track repeat (something I frequently use when running).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -111,11 +127,28 @@ At $35, you'd be hard-pressed to find a better deal on a pair of solid-sounding 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/-faqs-about-youtube-shorts-thumbnail-not-showing-problem-for-2024/"><u>[New] 7 FAQs About YouTube Shorts Thumbnail Not Showing Problem for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-save-time-and-energy-with-two-way-recording-on-google-meets-for-2024/"><u>[New] How to Save Time and Energy with Two-Way Recording on Google Meets for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-artistic-arenas-of-2022s-olympians/"><u>[New] In 2024, Artistic Arenas of 2022'S Olympians</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-how-to-use-preview-app-on-mac-complete-guide-for-2024/"><u>[Updated] How to Use Preview App on Mac [Complete Guide] for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-computer-components-and-tech-insights/"><u>Exploring Tom's Computer Components & Tech Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-poco-x6-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Poco X6 Pro Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-establish-an-oculus-meta-headset-account-for-beginners/"><u>How To Establish An Oculus Meta Headset Account For Beginners</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-equipment-testing-and-reviews-toms-hardware-insights/"><u>In-Depth Equipment Testing and Reviews - Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-evaluation-of-lexars-high-speed-storage-exploring-the-sl500-and-sl600-with-over-20gbps-speeds/"><u>In-Depth Evaluation of Lexar's High-Speed Storage: Exploring the SL500 and SL600 with Over 20Gbps Speeds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-gadgets-with-expertise-from-toms-hardware/"><u>Master Your Gadgets with Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-devices-at-toms-electronics-emporium/"><u>Mastering Modern Devices at Tom’s Electronics Emporium</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/optimize-space-compelling-selection-of-20-top-free-cloud-storages-up-to-1tb-for-2024/"><u>Optimize Space Compelling Selection of 20 Top FREE Cloud Storages (Up To 1TB) for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-kept-secret-in-depth-reviews-of-the-gaming-marvel-pixio-px277-oled-max/"><u>Unveiling the Best Kept Secret: In-Depth Reviews of the Gaming Marvel, Pixio PX277 OLED MAX</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-performance-of-a-budget-beast-a-comprehensive-review-of-the-tp-link-archer-c80-router/"><u>Unveiling the Performance of a Budget Beast: A Comprehensive Review of the TP-Link Archer C80 Router</u></a></li>
+</ul></div>
+

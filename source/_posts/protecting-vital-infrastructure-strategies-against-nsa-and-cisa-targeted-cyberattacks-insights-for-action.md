@@ -1,7 +1,7 @@
 ---
 title: "Protecting Vital Infrastructure: Strategies Against NSA & CISA Targeted Cyberattacks – Insights for Action"
-date: 2024-09-18 12:21:40
-updated: 2024-09-20 12:40:53
+date: 2025-02-14T16:11:00.054Z
+updated: 2025-02-15T16:03:30.725Z
 tags:
   - cyber-threats
 categories:
@@ -20,6 +20,10 @@ The National Security Agency (NSA) and the Cybersecurity and Infrastructure Secu
 The [new joint advisory](https://media.defense.gov/2022/Sep/22/2003083007/-1/-1/0/CSA%5FICS%5FKnow%5Fthe%5FOpponent%5F.PDF) outlines what critical infrastructure operators should know about their opponents, citing recent cyberattacks on Ukraine's energy grid and the ransomware attack against a [fuel distribution pipeline](https://www.zdnet.com/article/white-house-says-person-behind-colonial-pipeline-ransomware-attack-nabbed-during-russian-raid/). 
 
 There are heightened fears that [Russia's invasion of Ukraine and related cyberattacks](https://www.zdnet.com/article/microsoft-russia-has-launched-hundreds-of-cyberattacks-against-ukraine/) against Ukraine could spread to Western critical infrastructure targets. CISA earlier this year warned that attackers had [built custom tools to gain control of ICS and SCADA devices](https://www.zdnet.com/article/us-warning-hackers-have-built-tools-to-attack-these-key-industrial-control-systems/) from major manufacturers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -80,11 +84,31 @@ The US government has issued multiple warnings about cyberattacks on critical in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capture-dynamic-movements-ipad-timelapse-tips-for-2024/"><u>[Updated] Capture Dynamic Movements IPad Timelapse Tips for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-guilty-gear-strive-playtime-effective-solutions-for-pc-crashes/"><u>Boost Your Guilty Gear Strive Playtime - Effective Solutions for PC Crashes</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/complete-dell-system-restore-and-recovery-tutorial-for-windows-10-users/"><u>Complete Dell System Restore & Recovery Tutorial for Windows 10 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gaming-setup-steam-deck-and-remote-pc-play/"><u>Elevate Your Gaming Setup: Steam Deck and Remote PC Play</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-combat-and-resolve-code-31-glitches-on-your-windows-operating-system/"><u>Expert Tips to Combat and Resolve Code # 31 Glitches on Your Windows Operating System</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-resource-hardware-breakdown-and-reviews/"><u>Exploring Technology with Tom's Resource: Hardware Breakdown and Reviews</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-avi-to-wav-converter-movavi/"><u>Free Online AVI to WAV Converter - Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-honor-80-pro-straight-screen-edition-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor 80 Pro Straight Screen Edition Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/immediate-remedies-for-palworld-not-starting-up-correctly/"><u>Immediate Remedies for Palworld Not Starting Up Correctly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-msis-innovative-yeswebuild-campaign-a-fresh-take-on-pc-creation/"><u>Introducing MSI's Innovative '#YesWeBuild' Campaign - A Fresh Take on PC Creation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-with-toms-expertise-the-definitive-tech-resource/"><u>Mastering Hardware with Tom's Expertise - The Definitive Tech Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/microsoft-unveils-windows-support-for-qualcomms-new-arm-based-snapdragon-developer-platform/"><u>Microsoft Unveils Windows Support for Qualcomm's New ARM-Based Snapdragon Developer Platform</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadget-innovation-with-tom-expert-analysis-and-comparisons-for-smart-shoppers/"><u>Navigating Gadget Innovation with Tom: Expert Analysis & Comparisons for Smart Shoppers</u></a></li>
+<li><a href="https://games-able.techidaily.com/re-launching-steam-a-triad-of-tips/"><u>Re-Launching Steam: A Triad of Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/skylake-system-construction-showdown-announcing-the-champions-of-toms-hardware-competition/"><u>Skylake System Construction Showdown: Announcing the Champions of Tom’s Hardware Competition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-diy-constructing-an-ice-chilled-living-room-computer-tower-expert-tips-from-toms-hardware/"><u>The Ultimate DIY: Constructing an Ice-Chilled Living Room Computer Tower - Expert Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-gadget-analysis-in-depth-evaluation-of-latest-electronics-and-specs/"><u>Tom's Gadget Analysis: In-Depth Evaluation of Latest Electronics and Specs</u></a></li>
+</ul></div>
+

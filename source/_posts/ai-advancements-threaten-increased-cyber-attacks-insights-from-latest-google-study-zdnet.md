@@ -1,7 +1,7 @@
 ---
 title: AI Advancements Threaten Increased Cyber Attacks - Insights From Latest Google Study | ZDNet
-date: 2024-09-18 12:38:46
-updated: 2024-09-20 11:31:13
+date: 2025-02-08T16:21:28.805Z
+updated: 2025-02-15T17:17:54.970Z
 tags:
   - cyber-threats
 categories:
@@ -82,11 +82,33 @@ Some use cases of generative AI for defenders include leveraging it to synthesiz
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-quick-and-easy-iphone-screen-recording-tutorial-for-2024/"><u>[New] Quick & Easy IPhone Screen Recording Tutorial for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-capture-unbroken-webspace/"><u>[Updated] In 2024, Capture Unbroken Webspace</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apples-compact-wonder-a-thorough-analysis-of-the-homepod-mini-for-music-lovers-and-techies/"><u>Apple's Compact Wonder: A Thorough Analysis of the HomePod Mini for Music Lovers & Techies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-components-with-toms-hardware-experts/"><u>Exploring Computer Components with Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-digital-innovations-with-toms-hardware-review-guide/"><u>Exploring Digital Innovations with Tom's Hardware Review Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hands-on-with-technology-toms-detailed-insights-on-electronics/"><u>Hands-On with Technology: Tom's Detailed Insights on Electronics</u></a></li>
+<li><a href="https://article-posts.techidaily.com/master-recommendations-elite-ios-sound-artists/"><u>Master Recommendations Elite iOS Sound Artists</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/quiet-powerhouse-creation-the-journey-to-an-rgb-less-whisper-quiet-computer-insights-from-toms-hardware/"><u>Quiet Powerhouse Creation: The Journey to an RGB-Less, Whisper-Quiet Computer - Insights From Tom's Hardware</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/rectified-invisible-shortcut-on-youtube-for-2024/"><u>Rectified Invisible Shortcut on YouTube for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionary-convertible-laptop-revealed-the-dell-xps-13-7390-with-exceptional-performance-and-style/"><u>Revolutionary Convertible Laptop Revealed - The Dell XPS 13 7390 with Exceptional Performance and Style</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-art-of-flawless-conversion-from-slides-to-videos-for-2024/"><u>The Art of Flawless Conversion From Slides to Videos for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-tecno-camon-20-frp-by-drfone-android/"><u>The Updated Method to Bypass Tecno Camon 20 FRP</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrade-your-workstation-essential-z790-motherboards-and-liquid-cpu-coolers-reviewed/"><u>Upgrade Your Workstation: Essential Z790 Motherboards and Liquid CPU Coolers Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/win-a-top-ranked-pc-building-contest-toms-hardware-exclusive/"><u>Win a Top-Ranked PC Building Contest: Tom's Hardware Exclusive</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/winner-highlights-from-the-2015-fourth-quarter-at-toms-hardware-system-builder-showdown-results/"><u>Winner Highlights From the 2015 Fourth Quarter at Tom's Hardware: System Builder Showdown Results</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

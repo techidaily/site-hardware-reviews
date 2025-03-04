@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Selection of HP Laptops and Desktops: Exclusive Holiday Bargains at ZDNet"
-date: 2025-01-30T19:16:58.984Z
-updated: 2025-02-03T00:57:57.019Z
+date: 2025-02-12T16:25:52.083Z
+updated: 2025-02-15T17:22:40.383Z
 tags:
   - laptops
 categories:
@@ -95,10 +95,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caa345ffb-4886-4da8-9d60-e419ba1affa3%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Alternative laptop deals
 
 ### Amazon laptop deals
@@ -115,6 +111,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caa345ffb-4886-4da8-9d60-e419ba1affa3%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Walmart laptop deals
 
 [ASUS Vivobook 16-inch laptop deal for $499 (save $200) $499 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-16-PC-Laptop-Intel-Core-i7-1255U-16GB-512GB-Win-11-Home-Black-F1605ZA-WS74%2F5023779612&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -128,7 +128,7 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [HP Chromebook X360 14-inch FHD touchscreen 2-in-1 laptop deal for $279 (save $120) $279 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-inch-FHD-IPS-Touch-2-in-1-Laptop-Intel-Processor-N100-4GB-RAM-64GB-eMMC-Sky-Blue%2F5123764557&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best Buy laptop deals
@@ -153,10 +153,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these laptop deals?
 
 We searched for laptop deals at retailers like Amazon, Walmart, and Best Buy, and also at the websites of leading manufacturers like Lenovo, HP, Dell, Apple, Acer, and Asus. We also used various price trackers to ensure that a claimed deal wasn't spurious.
@@ -179,7 +175,7 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do I need a gaming laptop or a "regular" laptop?
@@ -197,7 +193,7 @@ If you're a gamer who needs a high-spec laptop with a decent graphics card, top-
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best deals by retailer
@@ -206,6 +202,10 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -257,20 +257,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-flying-high-with-husqvarna-the-drone-revolution/"><u>2024 Approved Flying High with Husqvarna The Drone Revolution</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-short-form-content-breakdown-now/"><u>2024 Approved Short Form Content Breakdown Now</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/vm/"><u>無需重新配置，只用此方法即可在VM上成功復制硬碟</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/compact-powerhouse-testing-the-asus-rt-ax57-go-wi-fi-6-travelers-friendly-router/"><u>Compact Powerhouse: Testing the Asus RT-AX57 Go Wi-Fi 6 Traveler's Friendly Router</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-in-pc-hardware-with-toms-insights/"><u>Discover the Best in PC Hardware with Tom's Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-exclusive-asus-frankenboard-variant-with-thirteen-heroic-specs-including-rare-so-dimm-memory-ports-and-iconic-kingston-emblem/"><u>Discover the Exclusive Asus Frankenboard Variant with Thirteen Heroic Specs, Including Rare So-DIMM Memory Ports & Iconic KINGSTON Emblem</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-samsung-galaxy-a34-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Samsung Galaxy A34 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-tecno-spark-10-4g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone 15 Plus</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-connectivity-with-asus-rog-rapture-gt-be98-pro-a-7-in-1-wireless-router-showcase-of-power-and-flexibility/"><u>Mastering Connectivity with Asus ROG Rapture GT-BE98 Pro: A 7-in-1 Wireless Router Showcase of Power & Flexibility</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-components-at-toms-hardware-station/"><u>Mastering Gadgets and Components at Tom's Hardware Station</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-expertise-from-toms-hardware-guide/"><u>Mastering Gadgets with Expertise From Tom's Hardware Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-high-speed-computing-on-budget-with-the-latest-raspberry-pi-m2-hatplus-a-comprehensive-review/"><u>Mastering High-Speed Computing on Budget with the Latest Raspberry Pi M.2 HAT+ - A Comprehensive Review</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-fundamentals-of-pronouncing-french-words-rightly/"><u>The Fundamentals of Pronouncing French Words Rightly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/utilizing-gpt-4-in-chatgpt-conversations-today/"><u>Utilizing GPT-4 in ChatGPT Conversations Today</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-2023-facebook-hack-get-your-account-back/"><u>[Updated] In 2024, 2023 | Facebook Hack? Get Your Account Back</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-anomaly-detecting-possible-block-or-mute/"><u>[Updated] Snapchat Anomaly Detecting Possible Block or Mute</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-chatgpts-overloaded-windows-alert/"><u>Clearing ChatGPT's Overloaded Windows Alert</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/conquer-mixer-broadcasting-on-macos-systems/"><u>Conquer Mixer Broadcasting on macOS Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/delaying-windows-11-shutdown-managing-ongoing-processes/"><u>Delaying Windows 11 Shutdown: Managing Ongoing Processes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/from-lenovo-disappointment-to-upgrade-delight-adding-a-custom-titanium-case-and-mechanical-keyboard/"><u>From Lenovo Disappointment to Upgrade Delight: Adding a Custom Titanium Case and Mechanical Keyboard</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-gaming-discounts-await-october-2024-prime-day-deals-offering-sweeping-savings-of-1000plus-zdnet/"><u>Huge Gaming Discounts Await! October 2024 Prime Day Deals Offering Sweeping Savings of $1,000+ | ZDNET</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-the-latest-in-technology-via-toms-hardware/"><u>Inside Look: The Latest in Technology via Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-power-of-hp-omnibook-x-experience-long-lasting-efficiency-with-snapdragons-innovation/"><u>Inside the Power of HP OmniBook X: Experience Long-Lasting Efficiency with Snapdragon's Innovation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-world-top-picks-for-powerful-systems/"><u>Inside Tom's Hardware World: Top Picks for Powerful Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-tech-haven-comprehensive-computer-gear-reviews/"><u>Inside Tom's Tech Haven: Comprehensive Computer Gear Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-devices-a-deep-look-at-hardware-from-toms-perspective/"><u>Master Your Devices: A Deep Look at Hardware From Tom's Perspective</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-gadgets-with-toms-hardware-wisdom/"><u>Master Your Gadgets with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-pc-crashes-in-battlefield-2042-with-these-proven-fixes-and-tips/"><u>Say Goodbye to PC Crashes in Battlefield 2042 with These Proven Fixes and Tips!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-7-essential-android-accessibility-options-for-enhanced-usability/"><u>Top 7 Essential Android Accessibility Options for Enhanced Usability</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-vr-bikes-to-check-out/"><u>Top VR Bikes to Check Out</u></a></li>
 </ul></div>
 

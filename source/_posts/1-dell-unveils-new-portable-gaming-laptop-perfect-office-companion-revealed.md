@@ -1,7 +1,7 @@
 ---
 title: "1. Dell Unveils New Portable Gaming Laptop: Perfect Office Companion Revealed !"
-date: 2025-01-29T17:28:19.735Z
-updated: 2025-02-02T16:51:16.809Z
+date: 2025-02-14T16:48:34.513Z
+updated: 2025-02-15T16:21:06.240Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,20 +114,19 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-step-into-virtuality-comparing-best-vr-treadmills/"><u>[Updated] Step Into Virtuality Comparing Best VR Treadmills</u></a></li>
-<li><a href="https://win-dash.techidaily.com/burning-your-favorite-tracks-a-step-by-step-guide-to-creating-physical-cds-from-soundcloud/"><u>Burning Your Favorite Tracks: A Step-by-Step Guide to Creating Physical CDs From SoundCloud</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-ways-to-overcome-the-printer-driver-not-found-problem-on-windows-expert-advice/"><u>Easy Ways to Overcome the 'Printer Driver Not Found' Problem on Windows: Expert Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-boot-problems-when-trying-to-reset-your-pc-on-windows-tenth-generation/"><u>How to Fix Boot Problems When Trying to Reset Your PC on Windows Tenth Generation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/kobo-clara-hd-review-a-comprehensive-look-at-the-color-e-reader/"><u>Kobo Clara HD Review: A Comprehensive Look at the Color E-Reader</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/navigating-instagram-hashtags-maximizing-post-exposure-and-engagement-for-2024/"><u>Navigating Instagram Hashtags Maximizing Post Exposure & Engagement for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-core-language-of-cutting-edge-vr-experiences/"><u>The Core Language of Cutting-Edge VR Experiences</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-definitive-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Insights: The Definitive Guide to Computer Components and Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-todays-latest-gadgets/"><u>Tom's Tech Review: In-Depth Analysis of Today's Latest Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-gadget-analysis-t17238642572196/"><u>Tom's Tech Reviews: Comprehensive Gadget Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-into-latest-computer-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights Into Latest Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-insightful-hardware-evaluations/"><u>Tom's Tech Reviews: Insightful Hardware Evaluations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-computer-components-t17238642572184/"><u>Tom's Tech Reviews: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-the-ultimate-guide-to-computer-components/"><u>Tom's Tech: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-14-pro-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 14 Pro</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-earning-on-snapchat/"><u>[New] 2024 Approved The Ultimate Guide to Earning on Snapchat</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ree-film-and-image-repository-highlights-for-2024/"><u>[New] Free Film and Image Repository Highlights for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-survival-in-mc-top-house-ideas-and-plans/"><u>[Updated] 2024 Approved Survival in MC Top House Ideas & Plans</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unlock-hidden-potential-top-10-enhancing-plug-ins/"><u>[Updated] Unlock Hidden Potential Top 10 Enhancing Plug-Ins</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-premium-patches-selecting-shots-for-social-media/"><u>2024 Approved Premium Patches Selecting Shots for Social Media</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/biodiversity/"><u>Biodiversity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-ultra-fast-internet-speeds-a-review-of-asuss-cutting-edge-tri-band-wireless-router-the-rt-be96u-with-enhanced-7-ghz-performance/"><u>Experience Ultra-Fast Internet Speeds: A Review of Asus's Cutting-Edge Tri-Band Wireless Router - The RT-BE96U with Enhanced 7 GHz Performance</u></a></li>
+<li><a href="https://fox-links.techidaily.com/exploring-metaverse-ranking-best-8-vr-headsets/"><u>Exploring Metaverse Ranking Best 8 VR Headsets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-a-comprehensive-gadget-guide/"><u>Inside Tom's Hardware: A Comprehensive Gadget Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/preserve-instagram-pics-and-videos-for-long-term-storage-for-2024/"><u>Preserve Instagram Pics and Videos for Long-Term Storage for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-starting-the-windows-terminal-across-all-versions/"><u>Step-by-Step Guide: Starting the Windows Terminal Across All Versions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-reviews-and-expert-advice/"><u>Tom's Tech Insights: In-Depth Reviews & Expert Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-technology-trends-at-toms-computer-solutions/"><u>Unveiling New Technology Trends at Tom's Computer Solutions</u></a></li>
+<li><a href="https://win-lab.techidaily.com/windows-1011-c/"><u>Windows 10/11 C通道意外溢出问题: 成功解决方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Longevity Test Results: Budget-Friendly Anker Earbuds Outlast Apple's AirPods for Under $100"
-date: 2024-09-17 20:35:10
-updated: 2024-09-20 12:43:58
+date: 2025-02-14T16:04:39.154Z
+updated: 2025-02-15T16:39:56.098Z
 tags:
   - headphones
 categories:
@@ -33,6 +33,10 @@ more buying choices
 Less noise, longer listening. That is Anker Soundcore's promise with its newly released noise-canceling wireless earbuds. At only $99, the Space A40 earbuds are less expensive and boast longer battery life than market favorites from Apple, Sony, and the rest. 
 
 For the past week, I've put these wireless earbuds to the test. Since then, I haven't had to charge them once, even after a series of office commutes, intensive workouts, and catch-up phone calls. Coming from the [Apple AirPods Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fairpods-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the improved endurance is astonishing. But how well do the earbuds fare in general? Let's take a deep dive. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Specifications 
 
@@ -66,6 +70,10 @@ Running while wearing the Space A40 was no better. Between the sweat and the mor
 
 My experience with more weight-oriented training was better though, as there's not as much impact (or sweat) involved. If you, too, have small ears or a sweating issue, maybe reserve these earbuds for light cardio or smaller movements rather than for HIIT workouts and running. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Sound quality and noise cancellation
 
 You may, like me, be a little skeptical and wondering if these $99 earbuds are truly as good as Soundcore makes them out to be. Well, Soundcore touts a noise cancellation level that can block out 98% sound, and I'm 99% sure its advertising is accurate. 
@@ -81,6 +89,10 @@ As for the non-ANC sound, it stacks up closely with more expensive earbuds that 
 The earbuds also feature an automatic adaptive mode, so they will adapt according to your surroundings and turn ANC on and off accordingly. Living in Manhattan, I found this feature to be useful while walking to and from work as the earbuds muffled car honks, sirens, and city sidewalk chatter. If you want to be more aware of your surroundings, you can just press on either earbud for 3 to 5 seconds and the earbuds will switch to ambient mode. You can also manually switch by using the [Soundcore app](https://apps.apple.com/us/app/soundcore/id1331876603).
 
 **More:** [**Anker 757 Powerhouse first look: Is this the perfect power station?**](https://www.zdnet.com/home-and-office/smart-office/first-look-anker-757-powerhouse/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Playing features  
 
@@ -99,6 +111,10 @@ If you download the [Soundcore app](https://apps.apple.com/us/app/soundcore/id13
 While there is a lag, the earbuds are sensitive -- something I found out the hard way during phone calls. If you adjust the earbud in your ear while using them to talk on the phone, you could accidentally end the call, especially if you touch the right earbud for too long. 
 
 One thing I had to get used to with these earbuds was that, unlike AirPods, they do not have an automatic stop when one earbud falls out or you take just one out of your ear. To get the audio to completely stop, you either have to tap the right bud twice or hit pause on your device. Otherwise, the audio will keep playing whether they're in your ears or not. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Microphone quality 
 
@@ -127,6 +143,10 @@ To charge the earbuds themselves, simply place them back in the case after use, 
 **Roundup:** [**Anker's GANPrime power products: Safe, fast, sustainable charging**](https://www.zdnet.com/article/ankers-latest-ganprime-power-products-a-roundup-of-safe-fast-and-sustainable-charging/)
 
 [Buy the Anker Soundcore Space A40 $59 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B1LVC5VZ%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59495a71-2015-4d3d-8141-c94987ea7a17%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottom line  
 
@@ -167,11 +187,29 @@ Sony's LinkBuds S noise-canceling earbuds, which are on sale right now at Target
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-crafting-perfect-youtube-thumbnails-on-macos/"><u>[New] Crafting Perfect YouTube Thumbnails on macOS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-pinnacle-of-funny-photo-artistry/"><u>2024 Approved Pinnacle of Funny Photo Artistry</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-entrepreneurial-guide-to-video-content-monetization/"><u>2024 Approved The Entrepreneurial Guide to Video Content Monetization</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-13-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 13 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-wd-blue-sn5000-4tb-ssd-assessment-the-new-go-to-storage-solution-from-western-digital/"><u>Comprehensive WD Blue SN5000 4TB SSD Assessment: The New Go-To Storage Solution From Western Digital</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/custom-python-script-brings-peace-to-chaos-engineers-take-on-controlling-bursty-fans-in-nzxt-kraken-aio/"><u>Custom Python Script Brings Peace to Chaos: Engineer's Take on Controlling Bursty Fans in NZXT Kraken AIO</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-5-apple-watch-apps-to-optimize-your-nightly-zzzs/"><u>Discover the Ultimate 5 Apple Watch Apps to Optimize Your Nightly Zzz's</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-resilient-build-and-capabilities-of-the-asus-tuf-gaming-a14-laptop/"><u>Exploring the Resilient Build & Capabilities of the Asus TUF Gaming A14 Laptop</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-hardware-solutions-curated-by-tomhemalysis/"><u>Innovative Hardware Solutions Curated by Tom'hemalysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-computer-gear-with-tom-expert-advice-on-hardware-choices/"><u>Navigating Computer Gear with Tom - Expert Advice on Hardware Choices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-activating-slack-alerts-on-apple-watch-tech-insights-by-zdnet/"><u>Step-by-Step Guide: Activating Slack Alerts on Apple Watch | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-samsung-galaxy-a54-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Samsung Galaxy A54 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-gaming-excellence-with-logiteches-g-pro-x-2-lightspeed-a-comprehensive-review-for-elite-players/"><u>Unlocking Gaming Excellence with Logiteche's G Pro X 2 Lightspeed - A Comprehensive Review for Elite Players</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-with-toms-hardware-insights/"><u>Unveiling Tech Secrets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/zooming-into-performance-how-amds-ryzen-5-9600x-and-ryzen-7-9700x-redefine-gaming-excellence-in-the-age-of-zen-5/"><u>Zooming Into Performance: How AMD's Ryzen 5 9600X and Ryzen 7 9700X Redefine Gaming Excellence in the Age of Zen 5</u></a></li>
+</ul></div>
+

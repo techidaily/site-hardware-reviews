@@ -1,7 +1,7 @@
 ---
 title: Ultimate List of Sony Headphones & Earbuds - Professional Evaluation and Ratings | CNET
-date: 2024-09-19 17:45:17
-updated: 2024-09-20 12:33:58
+date: 2025-02-12T16:28:52.912Z
+updated: 2025-02-15T16:33:14.827Z
 tags:
   - headphones
 categories:
@@ -22,6 +22,10 @@ I spend a lot of time testing headphones, and the ZDNET team of experienced head
 ## What are the best Sony headphones and earbuds right now?
 
 Based on extensive testing, my top pick for the best Sony headphones are the [WH-1000XM5 over-ear headphones](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-wh-1000xm5-wireless-noise-canceling-over-the-ear-headphones-silver%2F6505728.p%3FskuId%3D6505728&publisher_slug=itechdaily19598&exclusive=1). These headphones sport large, comfortable ear cups, have solid noise-canceling properties, and have enough battery life to get you through the week. My choice for the best Sony earbuds are the [WF-1000XM5 earbuds](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSony-WF-1000XM5-Truly-Wireless-Noise-Canceling-Earbuds-Silver%2F2009089044&subId1=zd-__COM_CLICK_ID__-dtp) for their comfort, crystal clear mic quality, and effective noise-canceling technology. Read on for the rest of our tested top picks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best Sony headphones and earbuds of 2024
 
@@ -99,6 +103,10 @@ The noise-canceling tech in these earbuds is impressive, and they easily compete
 **Sony WF-1000XM5 tech specs: Form factor:** In-ear | **Bluetooth:** Yes (5.3) | **Battery life:** 12 hours (ANC off) | **Driver size:** 8.4mm dynamic | **Noise cancellation:** Yes | IP rating: IPX4
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Sony Ult Wear
 
@@ -241,6 +249,10 @@ ZDNET's Matthew Miller tested the Sony LinkBuds and wore them while working in h
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best Sony headphones?
 
 Sony offers a variety of headphones, so the best ones are the ones that best suit your lifestyle. If you prefer over-ear headphones and want a versatile pair with plenty of premium features, the WH-1000XM5 are your best option. However, if the XM5 headphones are too expensive, consider the Ult Wear. 
@@ -255,6 +267,10 @@ Sony offers a variety of headphones, so the best ones are the ones that best sui
 | Sony LinkBuds   | $130  | 12 hours           | Open-ear, Bluetooth table     |
 
 \*\*\*Prices reflect the manufacturer's suggested price. You can regularly find all of these headphones for a discounted price during seasonal sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Sony headphones are right for you?
 
@@ -277,6 +293,10 @@ If you've decided you want a pair of Sony headphones, there are a few things you
 * **Battery life:** Sony's headphones and earbuds have spectacular battery life, offering a few more hours than the company's competitors. For example, the WH-1000XM5 over-ear headphones can deliver up to 30 hours of continuous listening with noise-canceling on. In comparison, Apple's AirPods Max and Bose's QuietComfort Ultra offer 24 hours of nonstop listening with noise-canceling on. So, if you want headphones that can give you a few extra hours of listening time, Sony is the way to go.
 * **Use cases:** Like all headphones and earbuds, you should consider how and where you intend to use them the most before buying a pair. If you want versatile Sony headphones that you can take on the train, wear to the office, and bring to the gym, consider buying the XM5 earbuds instead of the XM5 over-ear headphones.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How we test headphones
 
 The ZDNET team spends weeks with a pair of headphones to give you an informed opinion before you make a purchase. Here are [the benchmarks we use to test headphones](https://www.zdnet.com/article/how-we-test-headphones/): 
@@ -293,6 +313,10 @@ There aren't many significant differences between Sony's flagship over-ear headp
 
 * **Design:** The XM4 headphones have a very functional, practical design. The headband hinges are notched where the headband extends. However, this design element allows the XM4 to rotate 180 degrees and fold up at the hinges. Conversely, the XM5 headphones have a cleaner, minimalistic design, replacing the notches for hidden yokes. Although the XM5's headband design may be more aesthetically pleasing, the hidden yokes mean you can only rotate the ear cups -- they don't fold up.
 * **Noise-canceling:** Both generations of Sony's WH-1000X series headphones offer stellar noise-canceling capabilities, but one pair has a slight advantage: the XM5 headphones. The XM5 headphones' noise-canceling tech builds on the XM4's technology, offering listeners added noise-canceling properties. Additionally, Sony redesigned the XM5's ear pads and ear cups, which enhances the headphones' passive noise isolation and creates a better seal between you and the outside world.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I buy headphones or earbuds?
 
@@ -346,11 +370,28 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-the-secrets-to-stellar-tiktok-creation-with-ingenious-templates/"><u>[New] In 2024, The Secrets to Stellar TikTok Creation with Ingenious Templates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-advanced-focus-modifier-app/"><u>[Updated] Advanced Focus Modifier App</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-pump-up-your-viewership-with-these-proven-methods/"><u>2024 Approved Pump Up Your Viewership with These Proven Methods</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-realme-note-50-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Realme Note 50 Phone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-xiaomi-13t-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi 13T Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-the-moment-best-drone-footage-editing-tools-ranked/"><u>Mastering the Moment Best Drone Footage Editing Tools Ranked</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/swift-windows-insight-sharing-methods-for-2024/"><u>Swift Windows Insight Sharing Methods for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-most-trusted-free-open-source-video-meeting-solutions-for-companies-and-schools/"><u>The Most Trusted Free, Open Source Video Meeting Solutions for Companies & Schools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-s17-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo S17 Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-secrets-of-high-performance-pcs-with-toms-hardware-guidance/"><u>Unlocking the Secrets of High-Performance PCs with Tom's Hardware Guidance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unpacking-the-latest-offerings-intels-arrow-lake-and-amd-ryzen-9000-motherboards-by-maxsun-an-array-of-31-models-across-five-unrevealed-chipset-platforms-al94/"><u>Unpacking the Latest Offerings: Intel's Arrow Lake & AMD Ryzen 9000 Motherboards by Maxsun - An Array of 31 Models Across Five Unrevealed Chipset Platforms, All Donning PCIe 800-Series Emblem</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-gadgets-the-toms-hardware-analysis/"><u>Unveiling Cutting-Edge Gadgets: The Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-secrets-of-toms-gadget-analysis-a-deep-dive-into-hardware-reviews/"><u>Unveiling the Secrets of Tom's Gadget Analysis: A Deep Dive Into Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upcoming-amd-ryzen-9000-ready-800-series-motherboard-chipsets-how-numbers-align-with-intel-offerings/"><u>Upcoming AMD Ryzen 9000-Ready 800 Series Motherboard Chipsets: How Numbers Align With Intel Offerings</u></a></li>
+</ul></div>
+

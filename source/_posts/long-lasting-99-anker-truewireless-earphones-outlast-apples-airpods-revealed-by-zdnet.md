@@ -1,7 +1,7 @@
 ---
 title: Long-Lasting $99 Anker TrueWireless Earphones Outlast Apple's AirPods, Revealed by ZDNet
-date: 2024-09-17 22:10:54
-updated: 2024-09-20 12:51:27
+date: 2025-02-08T16:07:35.391Z
+updated: 2025-02-15T16:33:41.793Z
 tags:
   - headphones
 categories:
@@ -34,6 +34,10 @@ Less noise, longer listening. That is Anker Soundcore's promise with its newly r
 
 For the past week, I've put these wireless earbuds to the test. Since then, I haven't had to charge them once, even after a series of office commutes, intensive workouts, and catch-up phone calls. Coming from the [Apple AirPods Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fairpods-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the improved endurance is astonishing. But how well do the earbuds fare in general? Let's take a deep dive. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications 
 
 | Microphones                | 1 internal, 1 external                                                                                                                                                                                                           |
@@ -47,6 +51,10 @@ For the past week, I've put these wireless earbuds to the test. Since then, I ha
 | Price                      | [$99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B1LVC5VZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6e96b191-9693-4703-b431-d273ad5ad3a6%7Cdtp&dtb=1) |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Design and fit 
 
@@ -81,6 +89,10 @@ As for the non-ANC sound, it stacks up closely with more expensive earbuds that 
 The earbuds also feature an automatic adaptive mode, so they will adapt according to your surroundings and turn ANC on and off accordingly. Living in Manhattan, I found this feature to be useful while walking to and from work as the earbuds muffled car honks, sirens, and city sidewalk chatter. If you want to be more aware of your surroundings, you can just press on either earbud for 3 to 5 seconds and the earbuds will switch to ambient mode. You can also manually switch by using the [Soundcore app](https://apps.apple.com/us/app/soundcore/id1331876603).
 
 **More:** [**Anker 757 Powerhouse first look: Is this the perfect power station?**](https://www.zdnet.com/home-and-office/smart-office/first-look-anker-757-powerhouse/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Playing features  
 
@@ -128,9 +140,17 @@ To charge the earbuds themselves, simply place them back in the case after use, 
 
 [Buy the Anker Soundcore Space A40 $59 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B1LVC5VZ%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6e96b191-9693-4703-b431-d273ad5ad3a6%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Bottom line  
 
 Despite the issues I encountered when wearing them running, I still think these are quality earbuds -- especially given their price. Whether you use them as a backup for your AirPods, AirPods Pro, or [Galaxy Buds 2](https://www.zdnet.com/product/samsung-galaxy-buds-2/) or as your primary headphones, you will get less sound for longer and at a lower price. They're perfect for commuting, hands-free phone calls, and leisurely exercise -- just maybe not intense cardio. So, if you're looking for an "office-to-gym-or-trail" kind of earbud, these may not be your go-to. If you're in the market for a solid pair of earbuds for your morning commute, I would highly recommend these. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider 
 
@@ -167,11 +187,31 @@ Sony's LinkBuds S noise-canceling earbuds, which are on sale right now at Target
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-maximize-your-youtube-channels-financial-potential/"><u>[New] 2024 Approved Maximize Your YouTube Channel's Financial Potential</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-premier-live-basketball-experience-at-home/"><u>[New] 2024 Approved Premier Live Basketball Experience at Home</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-assessing-the-financial-impact-of-music-videos-for-2024/"><u>[New] Assessing the Financial Impact of Music Videos for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-speedy-streams-optimizing-fb-videos-essential-extensions-and-apps-guide/"><u>[New] Speedy Streams Optimizing FB Videos - Essential Extensions and Apps Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-detailed-look-into-the-lg-bp350ayering-and-user-experience/"><u>[Updated] In 2024, Detailed Look Into the LG BP350'ayering and User Experience</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-mastering-avi-to-gif-filmora-guide-for-pcmac-for-2024/"><u>[Updated] Mastering AVI to GIF Filmora Guide for PC/Mac for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-pinnacle-virtual-lecture-identifier-for-2024/"><u>[Updated] Pinnacle Virtual Lecture Identifier for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/549-for-the-lg-ultragear-34-qhd-monitor-features-g-sync-available-now-on-amazon/"><u>$549 for the LG Ultragear 34 QHD Monitor - Features G-Sync, Available Now on Amazon!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amazing-deal-gigabyte-aorus-49-oled-gaming-monitor-now-just-969-best-ever-pricing/"><u>Amazing Deal: Gigabyte Aorus 49 OLED Gaming Monitor Now Just $969 – Best Ever Pricing!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/aoc-unveils-powerhouse-triad-the-u3-graphic-pro-monitors-for-professionals/"><u>AOC Unveils Powerhouse Triad - The U3 Graphic Pro Monitors for Professionals</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/decoding-youtubes-revenue-model-for-video-clips-for-2024/"><u>Decoding YouTube's Revenue Model for Video Clips for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-hardware-software-and-more-at-toms-tech-destination/"><u>Delving Into Hardware, Software, and More at Tom's Tech Destination</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862832943-discover-the-alienware-34-inch-curved-gaming-masterpiece-exclusive-deal-for-749-at-best-buy/"><u>Discover the Alienware 34 Inch Curved Gaming Masterpiece - Exclusive Deal for $749 at Best Buy!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862825645-experience-stunning-clarity-with-our-portable-1080p-156-inch-ips-display-priced-at-a-record-6599/"><u>Experience Stunning Clarity with Our Portable 1080P 15.6-Inch IPS Display - Priced at a Record $65.99!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862831009-experience-the-game-like-never-before-with-the-discounted-acer-nitro-monitor-now-81/"><u>Experience the Game Like Never Before with the Discounted Acer Nitro Monitor - Now $81!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/expert-recommendations-the-finest-fee-free-streamers-and-tools-for-2024/"><u>Expert Recommendations The Finest, Fee-Free Streamers and Tools for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862829610-sale-alert-lg-ultragear-34-qhd-monitor-w-g-sync-ultimate-just-549-on-amazon/"><u>Sale Alert: LG Ultragear 34 QHD Monitor W/ G-Sync Ultimate - Just $549 on Amazon!</u></a></li>
+</ul></div>
+

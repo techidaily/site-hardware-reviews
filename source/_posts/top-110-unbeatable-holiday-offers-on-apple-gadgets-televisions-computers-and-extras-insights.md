@@ -1,7 +1,7 @@
 ---
 title: Top 110 Unbeatable Holiday Offers on Apple Gadgets, Televisions, Computers & Extras - Insights
-date: 2025-01-30T04:48:12.489Z
-updated: 2025-02-03T05:22:39.574Z
+date: 2025-02-14T16:34:52.293Z
+updated: 2025-02-15T17:18:48.759Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ This list will be updated throughout the month, so check back to find the latest
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday deals: ZDNET experts' top 20 picks
 
 1. [Apple AirPods Pro 2 with USB-C charging case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Generation-Cancelling-Transparency-Personalized%2Fdp%2FB0CHWRXH8B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $199 (save $50 at Amazon)
@@ -50,10 +54,6 @@ This list will be updated throughout the month, so check back to find the latest
 18. [Rocketbook Core Reusable Smart Notebook](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRocketbook-Innovative-Eco-Friendly-Digitally-Capabilities%2Fdp%2FB06ZXWVZ3X%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $20 (save $10 at Amazon)
 19. [HP Victus 15L gaming desktop](https://www.awin1.com/cread.php?awinmid=7168&awinaffid=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0346st-49n24av-1): $480 (save $400 at HP)
 20. [Roku Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09T4VZDYV%2Fref%3Dcm%5Fgf%5Fadbo%5Fd%5Fp0%5Fe0%5Fqd0%5Ffu24jf571EvEqYFicc8R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $90 (save $10 at Amazon)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best holiday deals under $25
 
@@ -97,10 +97,6 @@ Maria Diaz/ZDNET
 * [Bose Soundbar](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBose-Speaker-Soundbar-Bluetooth-connectivity%2Fdp%2FB088KRPCQJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $199 (save $80 at Amazon)
 * [Bose SoundLink Flex Bluetooth Speaker](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB099TJGJ91%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $119 (save $30 at Amazon)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday deals under $500
 
 Jason Cipriani/ZDNET
@@ -118,6 +114,10 @@ Jason Cipriani/ZDNET
 * [Flexispot dual motor corner standing desk](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FFLEXISPOT-Standing-Computer-Electric-Adjustable%2Fdp%2FB0CD28W7T4%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $300 (save $200 at Amazon with coupon)
 * [Nest Learning Thermostat](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNest-Learning-Thermostat-3rd-Generation-White%2F120823467&subId1=zd-__COM_CLICK_ID__-dtp): $215 (save $34 at Walmart)
 * [Google Next x Yale Smart Lock](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FNest-Yale-Satin-Nickel-Connect%2Fdp%2FB07BH6K3NT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $261 (save $39 at Amazon)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best holiday Apple deals
 
@@ -146,6 +146,10 @@ Beth Mauder/ZDNET
 * [iRobot Roomba 694 robot vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FiRobot-Vacuum-Wi-Fi-Connectivity-Carpets-Self-Charging%2Fdp%2FB08SP5GYJP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $159 (save $116 at Amazon)
 * [Shark AI Ultra Self-Empty Robot Vacuum](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FShark-AI-Ultra-Self-Empty-Robot-Vacuum-Bagless-60-Day-Capacity-Base-Precision-Home-Mapping-Perfect-for-Pet-Hair-Wi-Fi-AV2511AE%2F1883965277&subId1=zd-__COM_CLICK_ID__-dtp): $298 (save $301 at Walmart)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday TV deals
 
 June Wan/ZDNET
@@ -160,6 +164,10 @@ June Wan/ZDNET
 * [Samsung The Frame 55-inch](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSAMSUNG-55-Class-LS03B-The-Frame-QLED-4K-Smart-TV-QN55LS03BAFXZA-New%2F944779027&subId1=zd-__COM_CLICK_ID__-dtp): $1,059 (save $441 at Walmart)
 * [TCL 55-inch Q6 QLED Fire TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FTCL-55-Inch-55Q650F-Streaming-Television%2Fdp%2FB0C1J581SJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $350 (save $150 at Amazon)
 * [Amazon Fire TV Omni QLED 55-inch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fintroducing-amazon-fire-tv-55-inch-omni-qled-series-smart-tv%2Fdp%2FB09N6ZRH6C%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $450 (save $150 at Amazon)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best holiday smartwatch deals
 
@@ -184,7 +192,7 @@ Jada Jones/ZDNET
 * [Samsung Galaxy Buds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Wireless-Bluetooth-Wing-Tip-Assistant%2Fdp%2FB0CF7GYNW2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $70 (save $30 at Amazon)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday phone deals
@@ -211,7 +219,7 @@ Jason Hiner/ZDNET
 * [Lenovo LOQ Tower Intel Edition](https://go.shopyourlikes.com/pi/bc82422a965d3574bb1afda3dd1ab5b7fb336893?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2): $650 (save $380 at Lenovo)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday tablet deals
@@ -225,19 +233,11 @@ Maria Diaz/ZDNET
 * [Samsung Galaxy Tab A8](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-tab-a8-10-5-64gb-wi-fi-gray%2F6492905.p%3FskuId%3D6492905&publisher_slug=itechdaily19598&exclusive=1): $200 (save $80 at Best Buy)
 * [Samsung Galaxy Tab S6 Lite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Android-Lasting-Included-Speakers%2Fdp%2FB09WYWJ46K%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $200 (save $150 at Amazon)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -307,20 +307,18 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/from-the-ashes-how-to-stop-game-crashes-permanently/"><u>'From the Ashes': How to Stop Game Crashes Permanently</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-learn-from-the-best-youtubes-top-green-screen-techniques/"><u>[New] In 2024, Learn From The Best Youtube’s Top Green Screen Techniques</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862873135-1300plus-bidding-war-for-exclusive-evga-classified-x67-prototype-motherboard/"><u>$1,300+ Bidding War for Exclusive EVGA Classified X67# Prototype Motherboard</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-computing-tips-from-toms-hardware-experts/"><u>Advanced Computing Tips From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amd-resolves-significant-security-flaw-with-latest-update-msi-releases-agesa-120c-for-ryzen-processors/"><u>AMD Resolves Significant Security Flaw with Latest Update: MSI Releases AGESA 1.2.0.C for Ryzen Processors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asrock-announces-latest-generation-of-arrow-lake-motherboards-featuring-an-enhanced-taichi-model-supporting-camm2-ram/"><u>ASROCK Announces Latest Generation of Arrow Lake Motherboards - Featuring an Enhanced Taichi Model Supporting CAMM2 RAM</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-prime-x670-p-wifi-am5-motherboard-get-yours-for-a-steal-at-only-135/"><u>ASUS Prime X670-P WiFi AM5 Motherboard - Get Yours for a Steal at Only $135!</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/has-microsoft-lost-its-mind-once-more-a-tale-of-paranoia-and-prudence-as-covered-by-zdnet/"><u>Has Microsoft Lost Its Mind Once More? A Tale of Paranoia and Prudence as Covered by ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/life-beyond-like-and-share-on-facebook/"><u>Life Beyond Like-and-Share on Facebook</u></a></li>
-<li><a href="https://fox-info.techidaily.com/optimal-placement-boosting-youtube-video-visibility-for-2024/"><u>Optimal Placement Boosting YouTube Video Visibility for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/quick-and-simple-technique-to-eliminate-text-watermarks-on-pdf-documents/"><u>Quick and Simple Technique to Eliminate Text Watermarks on PDF Documents</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-tips-for-smooth-gameplay-fixing-csgo-lag-issues-instantly/"><u>Top Tips for Smooth Gameplay: Fixing CS:GO Lag Issues Instantly</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computers-your-guide-to-toms-hardware/"><u>Unveiling the Latest in Computers - Your Guide to Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-performance-a-comprehensive-guide-to-asus-rog-z790-formulas-advanced-cooling-and-elite-hardware/"><u>Unveiling the Performance: A Comprehensive Guide to Asus ROG Z790 Formula's Advanced Cooling and Elite Hardware</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-altering-numbers-on-tiktok/"><u>[New] Step-by-Step Guide Altering Numbers on TikTok</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-complete-business-guide-to-facebook-marketing-mastery-for-2024/"><u>[New] The Complete Business Guide to Facebook Marketing Mastery for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-revenue-from-a-million-watches-on-youtube-for-2024/"><u>[Updated] Decoding Revenue From A Million Watches on YouTube for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/best-3-no-cost-disk-cloning-tools-compatible-with-win-7-8-10-and-11-top-picks/"><u>Best 3 No-Cost Disk Cloning Tools Compatible with Win 7, 8, 10 & 11: Top Picks!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-gentle-volume-declines-using-logic-pro-for-2024/"><u>Crafting Gentle Volume Declines Using Logic Pro for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-apple-iphone-8-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On Apple iPhone 8 - 4 Easy Ways</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-highpoint-rocket-1608a-drive-upgrade-add-in-for-boosted-speed-and-capacity/"><u>In-Depth Look at the HighPoint Rocket 1608A Drive Upgrade Add-In for Boosted Speed and Capacity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-the-economical-and-efficient-asrock-b760m-pro-rs-motherboard-great-for-m2-storage-expansion/"><u>Review of the Economical and Efficient ASRock B760M Pro RS Motherboard: Great for M.2 Storage Expansion</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/techs-picks-the-ultimate-screenshot-list/"><u>Tech's Picks The Ultimate Screenshot List</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-game-changer-in-speed-reviewing-the-unleashed-potential-of-crucials-overclocked-ddr5-6000-16gb-ram-modules/"><u>The Game Changer in Speed: Reviewing the Unleashed Potential of Crucial's Overclocked DDR5-6000 16GB RAM Modules</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-hardware-choices-by-toms-hardware/"><u>The Ultimate Guide to Hardware - Choices by Tom's Hardware</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unleashing-full-potential-phone-and-gear-vr-harmony/"><u>Unleashing Full Potential Phone and Gear VR Harmony</u></a></li>
 </ul></div>
 

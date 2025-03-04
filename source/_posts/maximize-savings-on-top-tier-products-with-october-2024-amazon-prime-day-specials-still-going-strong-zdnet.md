@@ -1,7 +1,7 @@
 ---
 title: Maximize Savings on Top-Tier Products with October 2024 Amazon Prime Day Specials - Still Going Strong | ZDNet
-date: 2025-01-31T21:50:29.402Z
-updated: 2025-02-03T04:03:39.972Z
+date: 2025-02-09T16:01:03.764Z
+updated: 2025-02-15T17:21:18.438Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ Here are some of our favorite Best Buy deals that remain available on the digita
 ![galaxy-s24-ultra-2024](https://www.zdnet.com/a/img/resize/01cdf104edbcfc2824d2887471bb859bd9300f88/2024/07/12/02e3a444-211a-4951-92d4-e777f151db7e/galaxy-s24-ultra-2024.jpg?auto=webp&width=1280)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Amazon/ZDNET
@@ -40,10 +40,6 @@ Amazon/ZDNET
 * [Samsung Galaxy Book 4 Edge Copiot+ PC for $849 (save $500)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-book4-edge-copilot-pc-14-amoled-touch-screen-laptop-snapdragon-x-elite-3-4ghz-16gb-memory-512gb-storage-sapphire-blue%2F6583789.p%3FskuId%3D6583789&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-11%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Optimized for AI, the Copilot+ laptop features a 14-inch touch-screen AMOLED display, 16GB of RAM, and 512GB of storage.
 * [Jabra Elite 10 Earbuds for $199 (save $50)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fjabra-elite-10-dolby-atmos-true-wireless-in-ear-heaphones-titanium-black%2F6553257.p%3FskuId%3D6553257&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-11%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Jabra's latest wireless earbuds have a comfortable and secure fit, good noise cancellation, and excellent sound quality.
 * [Govee Hexa Wall Light Panels for $99 (save $30)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgovee-hexa-wall-light-panels-7-panels-multi%2F6503425.p%3FskuId%3D6503425&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-11%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Create a personalized lighting display with inspiration for your gaming room, living room, bedroom, and more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Buy deals under $30
 
@@ -58,7 +54,7 @@ Best Buy/ZDNET
 **Also:** [**Best Prime Day deals under $25**](https://www.zdnet.com/article/best-prime-day-deals-under-25-2024-10-07/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Buy laptop deals
@@ -72,10 +68,6 @@ Best Buy/ZDNET
 * [Dell Inspiron 15-inch Touchscreen Laptop for $399 (save $230)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-inspiron-15-touch-screen-laptop-intel-core-i5-8gb-512gb-ssd-carbon-black%2F6573731.p%3FskuId%3D6573731&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-11%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This laptop comes with 8GB of high-bandwidth RAM to smoothly run your games and photo- and video-editing applications, as well as multiple programs and browser tabs all at once.
 
 **Also:** [**Best Prime Day laptop deals**](https://www.zdnet.com/article/best-early-prime-day-laptop-deals-2024/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Buy TV deals
 
@@ -93,6 +85,10 @@ Samsung/ZDNET
 
 **Also: [Best Prime Day TV deals](https://www.zdnet.com/home-and-office/home-entertainment/best-prime-day-tv-deals-10-07-2024/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Buy appliance deals
 
 LG/ZDNET
@@ -105,21 +101,25 @@ LG/ZDNET
 
 **Also:** [**Best Prime Day kitchen deals**](https://www.zdnet.com/home-and-office/kitchen-household/best-early-prime-day-kitchen-deals-2024-10-07/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### Does Best Buy price match Amazon Prime Day deals?
 
 No. Best Buy's Price Match Guarantee does not apply to discounts that are exclusive to membership or loyalty programs offered by other retailers. Consequently, member-only events such as Amazon's October Prime Day are not eligible for price matching at Best Buy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How did we choose these Best Buy 48-Hour Flash Sale deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -187,21 +187,20 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-into-the-virtual-epoch-analyzing-present-state-and-ahead/"><u>[New] In 2024, Into the Virtual Epoch Analyzing Present State and Ahead</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-video-performance-following-the-path-of-stars-for-2024/"><u>[Updated] Elevate Video Performance Following the Path of Stars for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-extract-translate-and-save-youtube-subtitles-for-free-for-2024/"><u>[Updated] Extract, Translate & Save YouTube Subtitles for FREE for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-harness-the-power-of-analytics-to-rise-in-fan-counts-for-2024/"><u>[Updated] Harness the Power of Analytics to Rise in Fan Counts for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/analyzing-the-impact-the-role-of-akasas-blower-type-gecko-in-maintaining-optimal-ssd-temperatures/"><u>Analyzing the Impact: The Role of Akasa's Blower-Type Gecko in Maintaining Optimal SSD Temperatures</u></a></li>
-<li><a href="https://media-tips.techidaily.com/guide-complet-pour-convertir-votre-pc-windows-10-en-un-media-server-avec-dlna/"><u>Guide Complet Pour Convertir Votre PC Windows 10 en Un Media Server Avec DLNA</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-speeding-up-your-streams-the-netflix-efficiency-guide/"><u>In 2024, Speeding Up Your Streams The Netflix Efficiency Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-asus-rog-azoth-extreme-at-500-value/"><u>In-Depth Analysis of the Asus ROG Azoth Extreme at $500 Value</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-computer-world-a-deep-dive-into-the-latest-in-hardware-technology/"><u>Inside Tom’s Computer World: A Deep Dive Into the Latest in Hardware Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/insights-into-pc-hardware-by-experts-at-toms-hq/"><u>Insights Into PC Hardware by Experts at Tom's HQ</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/kingstons-fury-beast-ddr5-ram-5000mhz-cas-latency-40-in-depth-2x32gb-memory-module-evaluation/"><u>Kingston's Fury Beast DDR5 RAM (5,000MHz CAS Latency 40) - In-Depth 2X32GB Memory Module Evaluation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-space-and-speed-detailed-insights-into-the-asus-rog-nuc-970-compact-desktop-system/"><u>Mastering Space and Speed: Detailed Insights Into the Asus ROG NUC 970 Compact Desktop System</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-through-circuits-and-systems-at-toms-electronics-expo/"><u>Navigating Through Circuits and Systems at Tom's Electronics Expo</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-lava-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Lava .</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-graphic-suite-on-acer-pcs-running-win11/"><u>Update Graphic Suite on Acer Pcs Running Win11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-snapcutsolutions-reviews-extensive-critique/"><u>[New] SnapCutSolutions Reviews – Extensive Critique</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-stream-perfecting-tweets-with-correct-video-formats-for-2024/"><u>[New] Stream-Perfecting Tweets with Correct Video Formats for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-how-to-use-zoom-for-skype-easy-solutions/"><u>[Updated] How to Use Zoom for Skype [Easy Solutions]</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-optimizing-your-workflow-efficiently-editing-360-degree-videos-in-premiere-pro-for-2024/"><u>[Updated] Optimizing Your Workflow Efficiently Editing 360 Degree Videos in Premiere Pro for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1726026440383-youtube/"><u>「YouTube動画をクリアな画質でセーブする専門的な方法ガイド」</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-hardware-discoveries-from-toms-computer-chronicles/"><u>Dive Into Hardware: Discoveries From Tom's Computer Chronicles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experts-rating-in-depth-analysis-of-dough-spectrum-black-the-ultimate-27-oled-gaming-display-with-superior-color-fidelity-and-exceptional-responsiveness/"><u>Experts' Rating: In-Depth Analysis of Dough Spectrum Black - The Ultimate 27 OLED Gaming Display with Superior Color Fidelity & Exceptional Responsiveness</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gear-with-toms-equipment-insights/"><u>Exploring Computer Gear with Tom's Equipment Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-fusion-of-anime-and-disappointment-in-the-valkyrie-vind-sl125/"><u>Exploring the Fusion of Anime and Disappointment in the Valkyrie Vind SL125</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/get-filmora-for-less-7-proven-methods-to-find-coupons/"><u>Get Filmora for Less 7 Proven Methods to Find Coupons</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-high-tech-terrain-trusted-reviews-and-insights-by-toms-hardware-specialists/"><u>Navigating High-Tech Terrain: Trusted Reviews and Insights by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-trends-on-toms-hardware-platform/"><u>Navigating Technology Trends on Tom's Hardware Platform</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-pick-for-portable-power-players-in-depth-analysis-of-the-asus-rog-ally-x-handheld-console/"><u>Top Pick for Portable Power Players: In-Depth Analysis of the Asus ROG Ally X Handheld Console</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/webcam-integration-for-flawless-gameplay-logs/"><u>Webcam Integration for Flawless Gameplay Logs</u></a></li>
 </ul></div>
 

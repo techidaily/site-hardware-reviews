@@ -1,7 +1,7 @@
 ---
 title: "Innovative Sound with a Healthy Twist: Explore Google's Self-Sanitizing In-Ear Headphones | ZDNet"
-date: 2024-09-17 17:55:35
-updated: 2024-09-20 10:56:30
+date: 2025-02-14T16:18:15.257Z
+updated: 2025-02-15T16:21:26.045Z
 tags:
   - headphones
 categories:
@@ -37,6 +37,10 @@ I first experienced spatial audio with the [Apple AirPods Pro](https://buy.geni.
 
 That said, I've been quite impressed by the earbuds' comfortability, long battery life, and bacteria-killing UV light. But are they worth the $229 asking price? Let's find out. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Microphones      | Four mics with advanced noise reduction                                                                 |
@@ -46,6 +50,10 @@ That said, I've been quite impressed by the earbuds' comfortability, long batter
 | Connectivity     | Bluetooth 5.3                                                                                           |
 | Bluetooth codecs | SBC, AAC, aptX                                                                                          |
 | Earbud weight    | 5.1 grams each                                                                                          |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Hardware
 
@@ -73,6 +81,10 @@ The three sizes of soft, hypoallergenic silicone ear gels certainly help with co
 
 While I like the AirPods Pro experience with the iPhone, the stem-based control system is not my ideal choice. Thankfully, LG went with the outside portion of the earbud for controls, serving as a touch-sensitive surface so you can simply tap one, two, or three times, as well as tap and hold, to trigger different functions. You can customize these gestures within the LG smartphone app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Smartphone software 
 
 To make the most of the earbuds, I highly recommend you download and install the LG Tone Free application. With this app you can view the battery status of each earbud and the charging case, manage equalizer settings, toggle Dolby Atmos head tracking, toggle the multi-point and multi-pairing option, activate noise cancellation, and so much more. It's a very well-designed application that significantly enhances the LG Tone Free experience. 
@@ -91,6 +103,10 @@ Lastly, if you lose one or both earbuds, you can trigger a loud chirping sound i
 
 **More: [Best wireless earbuds that you can buy right now](https://www.zdnet.com/article/best-wireless-earbuds/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Performance
 
 The active noise cancellation on the LG TONE Free T90Q is more subtle than what I'm used to on my AirPods Pro. Still, it works fine at creating a fairly quiet environment. I haven't had a chance to test these earbuds on an airplane, but I was able to mow the lawn and enjoy music so they passed my yard work test.
@@ -106,6 +122,10 @@ LG advertises nine hours of music playback without ANC and 18 more hours with th
 ## Bottom line
 
 LG has a lot packed into the Tone Free T90Q and, overall, I have been quite pleased with their performance. This $220-to-$240 market is loaded with high-quality earbuds right now, so you need to figure out what features are most important to you to decide if the T90Q is worth the pick-up. They are heavy on the bass, have spatial audio support, and are easily the cleanest earbuds on the market.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -138,11 +158,27 @@ The LG Tone Free T90Q offers quite a few unique features, but you may have other
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-layer-audio-onto-video-clips-in-premiere-pro/"><u>[Updated] Layer Audio Onto Video Clips in Premiere Pro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-seamless-screens-and-cameras-recording-methods/"><u>[Updated] Seamless Screens & Cameras Recording Methods</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-computing-solutions-decoded-inside-look-with-toms-hardware/"><u>Advanced Computing Solutions Decoded – Inside Look with Tom's Hardware</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-magic-5-lite-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor Magic 5 Lite Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-insights-from-toms-technology-hub/"><u>Expert Hardware Insights From Tom's Technology Hub</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-evaluating-top-screen-capture-software-which-is-superior-obs-or-fraps/"><u>In 2024, Evaluating Top Screen Capture Software Which Is Superior, OBS or Fraps?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-macbook-air-beginners-guide-to-screen-recording/"><u>Mastering MacBook Air Beginner's Guide to Screen Recording</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-your-switch-with-these-3-networks/"><u>Optimize Your Switch with These 3 Networks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-melodic-brilliance-of-blueant-soundblade-an-in-depth-look-at-its-volume-and-aesthetics/"><u>The Melodic Brilliance of BlueAnt Soundblade - An In-Depth Look at Its Volume & Aesthetics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-tech-resource-toms-hardware-unveiled/"><u>The Ultimate Tech Resource - Tom's Hardware Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleashing-superior-data-transfer-a-review-of-cost-effective-raspberry-pi-m2-hatplus/"><u>Unleashing Superior Data Transfer: A Review of Cost-Effective Raspberry Pi M.2 HAT+</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-the-ultimate-companion-to-toms-gear-advice/"><u>Unveiling Tech Secrets: The Ultimate Companion to Tom's Gear Advice</u></a></li>
+</ul></div>
+

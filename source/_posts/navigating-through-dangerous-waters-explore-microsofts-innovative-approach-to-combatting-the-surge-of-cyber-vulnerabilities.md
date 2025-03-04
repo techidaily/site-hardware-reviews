@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Dangerous Waters: Explore Microsoft's Innovative Approach to Combatting the Surge of Cyber Vulnerabilities"
-date: 2024-09-19 11:43:31
-updated: 2024-09-20 12:41:45
+date: 2025-02-08T16:35:13.504Z
+updated: 2025-02-15T16:36:44.852Z
 tags:
   - cyber-threats
 categories:
@@ -37,6 +37,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. AI-based cyber defense
 
 The AI-based Cyber Defense pillar refers to Microsoft's commitment to leveraging its global network of data centers and advanced foundation AI models to build an AI-based cyber shield that customers and countries can use as protection against cyber attacks.
@@ -55,6 +59,10 @@ An example is [Microsoft's Security Copilot](https://www.zdnet.com/article/micro
 
 Lastly, Microsoft reassures users that the implementation of these AI services will be done in accordance with the company's [Responsible AI principles](https://www.zdnet.com/article/microsoft-commits-to-supporting-customers-on-their-responsible-ai-journeys/) to ensure that the proper security safeguards are in place. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. New engineering advances 
 
 According to Microsoft, another key aspect of a secure future includes advances in software engineering, including advancing the way Microsoft builds, designs, tests, and operates its technology. 
@@ -70,6 +78,10 @@ In light of identity-based threats such as password attacks increasing tenfold i
 **Also: [What is the dark web? Here's everything to know before you access it](https://www.zdnet.com/article/what-is-the-dark-web-heres-everything-to-know-before-you-access-it/)**
 
 Lastly, Microsoft plans to cut the time to mitigate cloud vulnerabilities by 50% and ensure more transparent reporting by Microsoft regarding cloud platforms. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Stronger application of international norms 
 
@@ -106,11 +118,27 @@ Microsoft also calls for governments to foster greater accountability for nation
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-twitch-broadcasting-made-easy-on-social-media/"><u>[Updated] 2024 Approved Twitch Broadcasting Made Easy on Social Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extensive-overview-the-google-podcast-experience/"><u>[Updated] Extensive Overview The Google Podcast Experience</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/expert-picks-ideal-software-for-screenshots-and-recordings/"><u>Expert Picks Ideal Software for Screenshots & Recordings</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/t-masters-essential-stock-youtube-series/"><u>Market Masters Essential Stock YouTube Series</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205901536-ps4-controllers-not-powering-up-here-are-the-solutions/"><u>PS4 Controllers Not Powering Up? Here Are the Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/q4-2015-toms-guide-to-building-systems-announcing-the-winning-configurations/"><u>Q4 2015 Tom's Guide to Building Systems: Announcing the Winning Configurations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-advice-on-constructing-a-personal-computer-from-scratch/"><u>Step-by-Step Advice on Constructing a Personal Computer From Scratch</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-gadget-guide-in-depth-reviews-of-computing-technology-and-hardware-solutions/"><u>Tom's Gadget Guide: In-Depth Reviews of Computing Technology and Hardware Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guide-to-performance-equipment/"><u>Tom's Tech Review: Comprehensive Guide to Performance Equipment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-performing-gaming-rigs-conquering-the-ultimate-tech-trials/"><u>Top-Performing Gaming Rigs: Conquering the Ultimate Tech Trials</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transitioning-visuals-from-android-to-apple-gear/"><u>Transitioning Visuals From Android to Apple Gear</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/1728496796774-windows-11-windows-update/"><u>Windows 11 更新故障措施：修正“Windows Update發生問題請後台重設”</u></a></li>
+</ul></div>
+

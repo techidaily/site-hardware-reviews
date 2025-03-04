@@ -1,7 +1,7 @@
 ---
 title: Get a Superior Lenovo Laptop for Work or Play at an Incredible Discount This Memorial Day
-date: 2025-02-02T01:53:45.227Z
-updated: 2025-02-03T03:08:05.987Z
+date: 2025-02-08T16:12:21.265Z
+updated: 2025-02-15T16:35:26.238Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is the deal?
@@ -31,7 +31,7 @@ The [Lenovo Legion Pro 5i](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=h
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,7 +73,7 @@ The power cable has an extensive power supply; it's a little bit larger than my 
 The [Lenovo Legion Pro 5i](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-pro-series%2Flegion-pro-5i-gen-8-%2816-inch-intel%29%2Flen101g0024&publisher_slug=itechdaily19598&exclusive=1) base configuration starts at $1,260, while the top configuration retails for $1,800\. The configuration I was sent for testing will cost you around $1,450, which is a very decent value for the components and performance you'll get.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -110,18 +110,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ultimate-game-gathering-best-7-shooter-experiences/"><u>[New] 2024 Approved Ultimate Game Gathering Best 7 Shooter Experiences</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-editorsuite-showcase-video-editor-features-and-reviews-for-2024/"><u>[New] EditorSuite Showcase – Video Editor Features & Reviews for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-expert-tips-for-seamless-photo-and-video-import-in-windows-10/"><u>[Updated] In 2024, Expert Tips for Seamless Photo and Video Import in Windows 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/connecting-your-printer-to-your-laptop-seamlessly-wireless-and-usb-methods-explained/"><u>Connecting Your Printer to Your Laptop Seamlessly: Wireless and USB Methods Explained</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/downloader-void-de-conversation-whatsapp-les-meilleurs-rangs-seo-avec-le-telechargement-gratuit/"><u>Downloader VOID De Conversation Whatsapp : Les Meilleurs Rangs SEO Avec Le Téléchargement Gratuit,</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-strategies-for-registry-repair-in-win11/"><u>Effective Strategies for Registry Repair in Win11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-excessive-cpu-consumption-by-msmpengine-in-windows-11-solution-inside/"><u>How to Fix Excessive CPU Consumption by MsMpEngine in Windows 11 (Solution Inside)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-the-qualcomm-snapdragon-development-board-bridging-microsoft-windows-and-arm-technology/"><u>Introducing the Qualcomm Snapdragon Development Board: Bridging Microsoft Windows and ARM Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/quiet-powerhouse-creation-the-journey-to-an-rgb-less-whisper-quiet-computer-insights-from-toms-hardware/"><u>Quiet Powerhouse Creation: The Journey to an RGB-Less, Whisper-Quiet Computer - Insights From Tom's Hardware</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-10-substitutes-for-chatgpt-enhancing-ai-conversations/"><u>Top 10 Substitutes for ChatGPT: Enhancing AI Conversations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upgrade-your-workstation-essential-z790-motherboards-and-liquid-cpu-coolers-reviewed/"><u>Upgrade Your Workstation: Essential Z790 Motherboards and Liquid CPU Coolers Reviewed</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-you-should-regularly-restart-your-mobile-device-for-better-performance/"><u>Why You Should Regularly Restart Your Mobile Device for Better Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/win-a-top-ranked-pc-building-contest-toms-hardware-exclusive/"><u>Win a Top-Ranked PC Building Contest: Tom's Hardware Exclusive</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-best-church-live-streaming-services-uncovered/"><u>[New] 2024 Approved Best Church Live Streaming Services Uncovered</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-from-script-to-screenplay-expert-video-editing-insights/"><u>[Updated] From Script to Screenplay Expert Video Editing Insights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-insiders-look-at-instagram-viewership-metrics-for-2024/"><u>[Updated] Insider's Look at Instagram Viewership Metrics for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-liveoutnow-an-in-depth-look-at-effortless-podcast-live-streaming/"><u>[Updated] LiveOutNow An In-Depth Look at Effortless Podcast Live Streaming</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unveiling-the-hidden-recovering-exclusive-snap-content/"><u>[Updated] Unveiling the Hidden Recovering Exclusive Snap Content</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-and-fast-hatdrive-nano-review-top-pick-for-raspberry-pi-storage-solutions/"><u>Affordable & Fast HatDrive! Nano Review - Top Pick for Raspberry Pi Storage Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rt-be96u-6ghz-dual-band-mesh-wifi-system-evaluation-introducing-the-next-generation-of-high-speed-connectivity/"><u>Asus RT-BE96U 6GHz Dual-Band Mesh WiFi System Evaluation: Introducing the Next Generation of High-Speed Connectivity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-most-exciting-discounts-on-vpn-services-today-insider-tips-and-tricks/"><u>Discover the Most Exciting Discounts on VPN Services Today - Insider Tips and Tricks!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-toms-tools-in-depth-reviews-and-analysis-on-computer-components/"><u>Discovering Tom's Tools: In-Depth Reviews & Analysis on Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-evaluation-of-the-aoc-agon-pro-ag456uczd-a-detailed-look-at-its-45-ultra-wide-oled-gaming-display-with-extremely-curved-edges-and-fast-refresh-rates.3/"><u>Expert Evaluation of the AOC Agon Pro AG456UCZD – A Detailed Look at Its 45 Ultra-Wide OLED Gaming Display with Extremely Curved Edges and Fast Refresh Rates!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-upgrades-tips-and-tricks-from-the-experts-at-toms-hardware/"><u>Master Your PC Upgrades: Tips & Tricks From the Experts at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pixio-px277-oled-monitor-revealed-surpassing-gaming-expectations-in-a-revolutionary-display/"><u>Pixio PX277 OLED Monitor Revealed - Surpassing Gaming Expectations in a Revolutionary Display</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/precision-cuts-at-a-touch-select-the-best-short-form-editors-for-2024/"><u>Precision Cuts at a Touch Select the Best Short Form Editors for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-ssd-heatsink-the-essential-uphere-m201-at-an-unbeatable-price-of-5-our-nvme-cooling-solutions-guide/"><u>Top-Rated SSD Heatsink - The Essential UpHere M201 at an Unbeatable Price of $5: Our NVMe Cooling Solutions Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-now-why-you-need-a-new-portable-power-station-today/"><u>Upgrade Now: Why You Need a New Portable Power Station Today</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fashionable and Functional Earsticks Overview: Evaluating the Latest From Zdnet's Headphone Selection"
-date: 2024-09-18 19:19:57
-updated: 2024-09-20 12:43:22
+date: 2025-02-11T16:39:56.363Z
+updated: 2025-02-15T16:47:10.780Z
 tags:
   - headphones
 categories:
@@ -37,6 +37,10 @@ Nothing says its newest earbuds, the Ear Stick, are not the successor to the Ear
 
 While case design seems to be the earbuds' most obvious draw, Nothing promises that the earbuds themselves are ideal for comfort and other sound aspects -- excluding Active Noise Cancellation (ANC). While fun, the new product seems like another funky concept that Nothing is throwing against a wall, but does it stick? Read on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Dimensions    | Earbuds: 29.8 mm x 18.8 mm; 4.4gCase: 87.1 mm x 29.8 mm; 46.3g                                                                            |
@@ -51,6 +55,10 @@ While case design seems to be the earbuds' most obvious draw, Nothing promises t
 | App           | Nothing X app for iOS and Android devices                                                                                                 |
 | Durability    | IP54 dust and water resistant                                                                                                             |
 | Price         | [$99](https://us.nothing.tech/products/ear-stick) USD                                                                                     |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Nothing makes a case for tech-chic
 
@@ -94,11 +102,19 @@ The actual buds themselves look different than most on the market, with a larger
 
 Christina Darby/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does sound quality stick the landing?  
 
 As trendy as the Ear Stick are, I was surprised that they didn't support one of the market's most-demanded features: Active Noise Cancellation (ANC). At first, I was skeptical about not having ANC, fearing that the lack of noise control would affect the fullness of the playback. I was surprised and glad to be proven wrong. Even in higher treble moments, there wasn't an overwhelming "tinny" sound. Unfortunately, the buds are not the most bass-heavy, even if you take advantage of the custom EQ in the Nothing X app. 
 
 **Also:** [**Best noise-canceling earbuds**](https://www.zdnet.com/article/best-noise-canceling-earbuds/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bass Lock is a bust
 
@@ -144,6 +160,10 @@ I'm impressed with the practicality of the gesture controls, but I have to chann
 
 If there's one thing going for Nothing's latest earbuds, it's the looks. These are uniquely designed, from the buds themselves to the case that protects them. That said, you'll be compromising on sound for such aesthetics. For [$99](https://us.nothing.tech/products/ear-stick), the Ear Stick deliver relatively clear audio, but they're far from market-leading -- not with the lack of ANC and the sound leakage issues. If you are looking to start or add to a quirky headset collection or gift your fashionista friend or family member, Nothing makes a strong case going into the holiday season. But if you're more interested in keeping up with sound trends, look elsewhere. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Alternatives to consider
 
 Besides the Nothing Ear Stick, here are three other wireless earbuds that you should consider: 
@@ -175,11 +195,27 @@ Besides the Nothing Ear Stick, here are three other wireless earbuds that you sh
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-high-definition-horizons-the-intricacies-of-dell-p2715q-screening/"><u>[Updated] 2024 Approved High-Definition Horizons The Intricacies of Dell P2715Q Screening</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-tecno-spark-20-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Tecno Spark 20 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-tech-tips-from-toms-hardware/"><u>Navigating Advanced Tech Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-high-tech-products-with-toms-expertise-on-computer-components/"><u>Navigating High-Tech Products with Tom's Expertise on Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/save-big-lenovo-legion-laptops-now-750-discounted-features-rtx-4080-and-stunning-240hz-screen/"><u>Save Big: Lenovo Legion Laptops Now $750 Discounted - Features RTX 4080 and Stunning 240Hz Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-enable-night-mode-on-ios-devices/"><u>Step-by-Step Tutorial: Enable Night Mode on iOS Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tech-enthusiast-replaces-defective-lenovo-keyboard-goes-for-a-powerful-combo-of-titanium-case-and-mechanical-keys/"><u>Tech Enthusiast Replaces Defective Lenovo Keyboard: Goes for a Powerful Combo of Titanium Case & Mechanical Keys</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-power-of-unity-apple-deploys-its-entire-ecosystem-to-revolutionize-mac-gaming/"><u>The Power of Unity: Apple Deploys Its Entire Ecosystem to Revolutionize Mac Gaming</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-insights-on-latest-hardware-t17238628794305/"><u>Tom's Tech Review: In-Depth Insights on Latest Hardware</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-windows-compatible-bittorrent-apps/"><u>Top 5 Windows-Compatible BitTorrent Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-your-iphone-displays-dial-pads-instead-of-names-for-new-callers/"><u>What to Do When Your iPhone Displays Dial-Pads Instead of Names for New Callers</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Guide to Purchasing Superior Electronic Notebooks – Authoritative Assessments | CNET
-date: 2025-02-02T04:14:22.983Z
-updated: 2025-02-03T03:17:22.298Z
+date: 2025-02-14T17:12:24.578Z
+updated: 2025-02-15T16:04:02.280Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,17 +112,24 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-snapshare-success-the-videoviral-story/"><u>[New] SnapShare Success The #VideoViral Story</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-all-inclusive-vsco-lens-manual/"><u>[Updated] All-Inclusive VSCO Lens Manual</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhancing-sleep-with-android-bedtime-functionality-personal-experience-and-tips/"><u>Enhancing Sleep with Android Bedtime Functionality: Personal Experience and Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/essential-guide-calculating-necessary-internal-storage-for-optimal-performance-on-android-smartphones/"><u>Essential Guide: Calculating Necessary Internal Storage for Optimal Performance on Android Smartphones</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exciting-tech-alert-the-release-date-for-nothing-phone-2-set-for-july-11th-revealed/"><u>Exciting Tech Alert: The Release Date for Nothing Phone 2 Set for July 11Th Revealed!</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/exploring-microsofts-security-features-in-windows-insights-from-yl-software-experts/"><u>Exploring Microsoft's Security Features in Windows # - Insights From YL Software Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/guide-how-to-input-critical-emergency-health-information-into-your-android-smartphone/"><u>Guide: How to Input Critical Emergency Health Information Into Your Android Smartphone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-to-fix-amazon-fire-tablets-unresponsive-play-store/"><u>How to Fix Amazon Fire Tablet's Unresponsive Play Store</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo FRP</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-transform-your-vision-into-reality-essential-movies-maker-skills-on-windows-8/"><u>In 2024, Transform Your Vision Into Reality Essential Movies Maker Skills on Windows 8</u></a></li>
-<li><a href="https://blog-min.techidaily.com/premium-h230mpeg-4-avc-decoder-toolkit-free-download-for-smooth-hd-streaming/"><u>Premium H.230/MPEG-4 AVC Decoder Toolkit - FREE Download for Smooth HD Streaming</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updated-hp-laserjet-p3015-software-for-windows-systems-get-your-driver-now/"><u>Updated HP LaserJet P3015 Software for Windows Systems - Get Your Driver Now</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ownload-premium-quality-designs-at-no-cost-for-youtube-creators/"><u>[New] Download Premium-Quality Designs at No Cost – For YouTube Creators</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-navigating-fun-with-junior-drivers/"><u>[New] Navigating Fun with Junior Drivers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-debunking-myths-top-10-realities-of-instagram-reels/"><u>[Updated] Debunking Myths Top 10 Realities of Instagram Reels</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oppo-a1-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Oppo A1 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/come-inviare-un-hard-disk-allaltro-computer-con-windows-10-guida-facile-e-completa/"><u>Come Inviare Un Hard Disk All'Altro Computer Con Windows 10: Guida Facile E Completa</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-and-economical-a-comprehensive-look-at-the-logitech-g515-lightspeed-tkl-keyboard/"><u>Compact and Economical: A Comprehensive Look at the Logitech G515 Lightspeed TKL Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-the-gigabyte-b760m-ds3h-ax-board-budget-friendly-entry-level-with-triple-monitor-support/"><u>Comprehensive Evaluation of the Gigabyte B760M DS3H AX Board - Budget-Friendly Entry Level with Triple Monitor Support</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-on-flsun-solar-panel-s1-with-warp-speed-efficiency/"><u>Comprehensive Review on FLSun Solar Panel S1 with Warp Speed Efficiency</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/expert-advice-incorfluttering-web-pages-into-ig-stories-and-posts/"><u>Expert Advice Incorfluttering Web Pages Into IG Stories & Posts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-tech-with-tom-comprehensive-guides-on-gadgets-and-systems/"><u>Exploring Tech with Tom - Comprehensive Guides on Gadgets & Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-samsung-galaxy-a34-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Samsung Galaxy A34 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-asus-zenbook-s16-analysis-featuring-the-amd-ryzen-ryzen-ai-9-hx-370/"><u>In-Depth Asus Zenbook S16 Analysis Featuring the AMD Ryzen RYZEN AI 9 HX 370</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-adding-several-images-simultaneously-on-facebook/"><u>Mastering the Art of Adding Several Images Simultaneously on Facebook</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-bypass-tools-to-bypass-lock-screen-oppo-a1x-5g-by-drfone-android-unlock-android-unlock/"><u>Oppo Bypass Tools to Bypass Lock Screen(Oppo A1x 5G)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/premium-pc-gaming-on-the-go-with-the-asus-rog-ally-x-a-comprehensive-review/"><u>Premium PC Gaming On-the-Go with the Asus ROG Ally X - A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-review-top-tech-gadgets-of-2023/"><u>Tom's Hardware Review: Top Tech Gadgets of 2023</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-computer-secrets-the-best-tips-from-toms-hardware/"><u>Unlocking Computer Secrets: The Best Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-technology-with-toms-guide/"><u>Unveiling Cutting-Edge Technology with Tom's Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp4-to-mxf-movavi/"><u>フリーMP4 to MXF 変換 - Movavi が豊富な機能をご用意いたします</u></a></li>
 </ul></div>
 

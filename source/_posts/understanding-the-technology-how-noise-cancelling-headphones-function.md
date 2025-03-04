@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Technology: How Noise-Cancelling Headphones Function"
-date: 2024-09-17 16:19:51
-updated: 2024-09-20 11:13:28
+date: 2025-02-11T16:01:56.561Z
+updated: 2025-02-15T16:04:06.312Z
 tags:
   - headphones
 categories:
@@ -25,6 +25,10 @@ As the name suggests, ANC works to actively cancel out the ambient noise that in
 
 [Noise-canceling earbuds](https://www.zdnet.com/article/best-noise-canceling-earbuds/) or [headphones](https://www.zdnet.com/article/best-noise-canceling-headphones/) can help drown out distraction, but have you ever wondered how they actually work? Are you listening to them or are they listening to you? Read on to learn more about the sound technology behind the silence. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Sound waves: Peaks and valleys 
 
 Getty Images
@@ -41,6 +45,10 @@ Sound wave peaks and valleys, when matched with a similar pattern, can amplify s
 
 On the flip side, when two sound wave peaks and valleys oppose each other, instead of amplification there's a net cancellation. This phenomenon is referred to as destructive interference, and the result is silence. That's where noise-canceling headphones come in. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How ANC headphones listen to create silence
 
 Now, let's talk about how ANC headphones use sound waves' structure to give you peace and quiet. 
@@ -55,6 +63,10 @@ Getty Images
 
 This destructive interference is why ambient noise is often cancelled out when you wear ANC headphones even when you don't play music. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where wearing ANC headphones works best
 
 If you're thinking that it's seemingly impossible for tiny microphones to pick up and transmit a counterattack on every single disruptive sound wave, you're correct. Sound still slips through. 
@@ -63,7 +75,15 @@ If you're thinking that it's seemingly impossible for tiny microphones to pick u
 
 ANC headphones and the overall sound wave cancellation process work best in a consistent environment. Consistent environments include airplanes, subways (minus the conductor speaking), and in a quiet work environment. Plus, some headphones have more effective ANC than others.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Do noise-canceling headphones work by stopping sound waves?
 
@@ -100,11 +120,27 @@ ANC headphones work best to cancel sound when you're in a controlled sound envir
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-collabcanvas-pro-instagram-video-mosaics-unite/"><u>[Updated] 2024 Approved CollabCanvas Pro Instagram Video Mosaics Unite</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-swift-skillz-best-high-speed-games-for-laptopsmobile/"><u>[Updated] 2024 Approved Swift Skillz Best High-Speed Games for Laptops/Mobile</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-ultimate-guide-to-no-charge-subtitle-makers-srt/"><u>[Updated] In 2024, The Ultimate Guide to No-Charge Subtitle Makers (SRT)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-globe-spin-cameras-versus-three-dimensional-photography/"><u>2024 Approved Globe-Spin Cameras versus Three-Dimensional Photography</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-c67-4g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/easy-troubleshooting-get-your-canon-printer-printing-on-windows/"><u>Easy Troubleshooting: Get Your Canon Printer Printing on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-this-app-package-is-not-supported-for-installation-on-windows/"><u>How to Fix This App Package Is Not Supported for Installation on Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-get-ahead-with-these-must-know-pixlr-techniques/"><u>In 2024, Get Ahead with These Must-Know Pixlr Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revo-uninstaller-pro-5-the-ultimate-software-removal-solution/"><u>Revo Uninstaller Pro 5: The Ultimate Software Removal Solution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-hardware-by-toms-tech-experts/"><u>The Ultimate Guide to Hardware by Tom’s Tech Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-new-technology-by-toms-experts/"><u>The Ultimate Guide to New Technology by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-advanced-hardware-insights-and-reviews/"><u>Tom's Tech Hub: Advanced Hardware Insights and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-ranking-round-screen-gaming-displays-of-2024/"><u>Top-Ranking Round Screen Gaming Displays of 2024</u></a></li>
+</ul></div>
+

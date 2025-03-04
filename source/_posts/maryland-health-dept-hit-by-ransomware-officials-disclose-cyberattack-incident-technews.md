@@ -1,7 +1,7 @@
 ---
 title: "Maryland Health Dept. Hit by Ransomware: Officials Disclose Cyberattack Incident | TechNews"
-date: 2024-09-17 14:47:28
-updated: 2024-09-20 10:32:43
+date: 2025-02-13T17:09:40.639Z
+updated: 2025-02-15T16:24:08.134Z
 tags:
   - cyber-threats
 categories:
@@ -13,9 +13,17 @@ thumbnail: https://thmb.techidaily.com/946eb20cab96390f79aadddebd59f08cdd8697ebf
 
 Maryland officials [confirmed](https://htv-prod-media.s3.amazonaws.com/files/mdh-and-doit-statements-on-network-security-incident-jan-12-2022-1642006890.pdf) on Wednesday that the state's Department of Health is dealing with a devastating ransomware attack, which has left hospitals struggling amid a surge of COVID-19 cases. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![2020-03-18-at-12-23-32-pm.jpg](https://www.zdnet.com/a/img/resize/3c34ebf72342b1f0704550e1e2edf445f0628572/2020/03/18/7c2e2258-7566-4e66-9059-a1a8aedf00b4/2020-03-18-at-12-23-32-pm.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best security key While robust passwords help you secure your valuable online accounts, hardware-based two-factor authentication takes that security to the next level.  Read now](https://www.zdnet.com/article/best-security-key/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In a statement released on Wednesday, Maryland Chief Information Security Officer Chip Stewart said the attack began on December 4 and crippled their systems. 
 
@@ -32,6 +40,10 @@ The state began its incident response plan, which started with notifying multipl
 He defended the decision to keep some services offline, writing that he has seen instances where organizations reconstitute services too quickly. 
 
 Multiple news outlets in Maryland [have reported](https://www.marylandmatters.org/2022/01/12/a-month-after-cyberattack-health-officers-and-lawmakers-detail-continued-outages/) that the health department and dozens of local partners have struggled to recover from the ransomware incident over the last six weeks. For weeks, the department [was unable to release COVID-19 case rates](https://www.washingtonpost.com/dc-md-va/2021/12/13/maryland-health-department-second-week-after-cyberattack/) as the Omicron variant devastated other states. While that service has returned, health officials now have to calculate the COVID-19 statistics by hand.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### COVID-19 Testing
 
@@ -85,11 +97,29 @@ Heath Renfrow, CISO of Conversant Group, told _ZDNet_ that it was "bold" of offi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-captivating-content-the-power-of-hashtagging-in-gaming-yt/"><u>[New] 2024 Approved Crafting Captivating Content The Power of Hashtagging in Gaming YT</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-imovie-tricks-for-perfecting-your-video-introduction-craft/"><u>[New] 2024 Approved IMovie Tricks for Perfecting Your Video Introduction Craft</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-a-simple-yet-effective-guide-for-starting-a-skype-group-discussion-across-different-os-platforms/"><u>[Updated] A Simple yet Effective Guide for Starting a Skype Group Discussion Across Different OS Platforms</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-discover-the-best-instagram-video-editors-for-mobile-devices/"><u>[Updated] Discover the Best Instagram Video Editors for Mobile Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-infinix-gt-10-pro-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Infinix GT 10 Pro? Try These Fixes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-guides-on-consumer-electronics-by-toms-hardware-experts/"><u>In-Depth Guides on Consumer Electronics by Tom's Hardware Experts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/music-fmiphone/"><u>Music FMアプリをiPhoneに正しくインストールするためのガイド</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-gadgets-with-tom-an-authoritative-source-on-cutting-edge-computer-hardware/"><u>Navigating New Gadgets with Tom: An Authoritative Source on Cutting-Edge Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-gear-galaxy-with-toms-hardware-experts-the-definitive-resource-for-computer-components/"><u>Navigating the Gear Galaxy with Tom's Hardware Experts: The Definitive Resource for Computer Components</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-list-16-free-avi-video-rotators-for-every-device-and-browser/"><u>New 2024 Approved The Ultimate List 16 Free AVI Video Rotators for Every Device and Browser</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-guides-on-hardware/"><u>Tom's Tech Insights: Comprehensive Guides on Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-analysis-of-the-latest-gadgets/"><u>Tom's Tech Reviews: Comprehensive Analysis of the Latest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-into-the-latest-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights Into the Latest Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-processor-performance-index-of-2024-comprehensive-cpu-ratings/"><u>Top Processor Performance Index of 2024: Comprehensive CPU Ratings</u></a></li>
+</ul></div>
+

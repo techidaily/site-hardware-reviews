@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Exceptional Performance From Long-Lasting 12-Hour Battery Life Bone-Conduction Headsets"
-date: 2024-09-18 14:48:14
-updated: 2024-09-20 11:40:48
+date: 2025-02-14T16:06:59.483Z
+updated: 2025-02-15T16:24:17.306Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/b15acb0e615e51b4bca2cf04ecdca80b947c55215
 ![Shokz OpenRun Pro 2 headphones on head](https://www.zdnet.com/a/img/resize/66e7b1806c3713734abc441d69881af24aa9fcd7/2024/08/27/8e3835ce-6ac2-4afd-ba58-aa16088a21ea/dsc02219.jpg?auto=webp&precrop=2997,1683,x0,y52&width=1280)
 
 Nina Raemont/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways 
 
@@ -67,6 +71,10 @@ As someone motivated most by a booming, loud song as I run, this disappointed me
 
 These headphones are supposed to have improved microphones for clear calls, but while sending voice memos to myself, the audio felt warbly and muddy. I could still hear myself fine, but it wasn't lucid. Another thing I'd like to see is better notifications indicating that the OpenRun Pro 2 have connected to your device and are powered on. Same with powering off: the headphones don't seem to blink or flash to indicate they've turned off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice 
 
 Hardcore marathoners and cyclists will love the longer battery life, the comfortable build, and durability of the [Shokz OpenRun Pro 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Faw%2Fd%2FB0D2HKCMBP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce246722f-e5ea-4da9-8a68-fad035e95c43%7Cdtp&dtb=1). I enjoyed wearing these headphones while exercising because they are light and unobtrusive, perfect for workouts in the park and workdays in the office.
@@ -94,11 +102,24 @@ Plus, the OpenRun Pro 2 is the same price as the OpenRun Pro, but has more batte
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-download-custom-mcb-banner-packs/"><u>[Updated] 2024 Approved Download Custom MCB Banner Packs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-screen-streaming-showdown-whos-the-champion-obs-or-shadowgl/"><u>[Updated] Screen Streaming Showdown Who's the Champion? OBS or ShadowGL?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-or-gemini-assessing-the-strengths-of-googles-newest-artificial-intelligence/"><u>ChatGPT or Gemini? Assessing the Strengths of Google's Newest Artificial Intelligence.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-dynamic-typographic-options/"><u>In 2024, Advanced Dynamic Typographic Options</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-infinix-hot-40-pro-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Infinix Hot 40 Pro Device SIM</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-rode-streamer-x-fulfill-your-live-broadcast-needs/"><u>In-Depth Review of the Rode Streamer X: Fulfill Your Live Broadcast Needs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-tech-world-top-picks-and-insights-by-toms-hardware/"><u>Inside the Tech World: Top Picks and Insights by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976925974-newest-hp-scanjet-driver-updates-for-improved-performance-on-windows-11-7-and-nw/"><u>Newest HP Scanjet Driver Updates for Improved Performance on Windows 11, 7 & Nw!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-expertise-in-motherboards-cpus-and-more-a-tech-hub/"><u>Tom’s Expertise in Motherboards, CPUs & More | A Tech Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-toms-gadget-experts-comprehensive-electronics-analysis/"><u>Unveiling Tom's Gadget Experts: Comprehensive Electronics Analysis</u></a></li>
+</ul></div>
+

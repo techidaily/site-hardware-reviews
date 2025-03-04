@@ -1,7 +1,7 @@
 ---
 title: "Fashionable & Functional: A Comprehensive Review of Nothing's Ear Sticks - The Trendy Alternative to Traditional Earbuds"
-date: 2024-09-19 21:10:22
-updated: 2024-09-20 12:48:30
+date: 2025-02-09T16:56:38.450Z
+updated: 2025-02-15T17:12:42.807Z
 tags:
   - headphones
 categories:
@@ -36,6 +36,10 @@ The Ear Stick wants to be a part of your everyday carry, much like cosmetics.
 Nothing says its newest earbuds, the Ear Stick, are not the successor to the Ear 1, but instead, usher in a separate accessory in a different form factor. What remains, however, is the company's fashion-forward mindset. Debuting as a part of designer [Chet Lo's SS23 runway during London Fashion Week](https://www.vogue.com/fashion-shows/spring-2023-ready-to-wear/chet-lo), Nothing's Ear Stick, inspired by a cosmetic classic -- lipstick -- are more than just a tech gadget, they're a fashion statement. 
 
 While case design seems to be the earbuds' most obvious draw, Nothing promises that the earbuds themselves are ideal for comfort and other sound aspects -- excluding Active Noise Cancellation (ANC). While fun, the new product seems like another funky concept that Nothing is throwing against a wall, but does it stick? Read on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -86,6 +90,10 @@ Nothing says this design helps the earbuds go unnoticed in your ears, even after
 
 My ZDNET colleague, Emery Wright, shared a similar sentiment, saying that she'd rather play it safe with her "[archaic AirPods](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fapple-airpods-true-wireless-bluetooth-headphones-2nd-generation-with-charging-case%2F-%2FA-54191097&publisher_slug=itechdaily19598&exclusive=1)" than try and fit the wider buds into her ears.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Earbuds, but make it fashion
 
 Just as you wouldn't wear Gucci sneakers on a treadmill because they're _technically_ tennis shoes, I wouldn't choose these earbuds as an exercise companion. The Ear Stick works best when you're sitting and relaxing. Anything more and they _will_ fall out -- I've tried.
@@ -93,6 +101,10 @@ Just as you wouldn't wear Gucci sneakers on a treadmill because they're _technic
 The actual buds themselves look different than most on the market, with a larger surface area to fit.
 
 Christina Darby/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Does sound quality stick the landing?  
 
@@ -120,6 +132,10 @@ The Ear Stick fits perfectly with the Nothing Phone 1 aesthetic.
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Mic quality
 
 I use earbuds mostly as a microphone/speaker duo to make calls while walking through New York City. So, I was disappointed that Nothing's clear voice and filtering technology didn't live up to the marketing lingo. I spent most of my phone calls shouting into my phone's speaker for my mom to tell me it sounded like a whisper. So, if you're looking for streetwear earbuds, these have the look, but not quite the right sound filter. 
@@ -143,6 +159,10 @@ I'm impressed with the practicality of the gesture controls, but I have to chann
 ## Bottom Line
 
 If there's one thing going for Nothing's latest earbuds, it's the looks. These are uniquely designed, from the buds themselves to the case that protects them. That said, you'll be compromising on sound for such aesthetics. For [$99](https://us.nothing.tech/products/ear-stick), the Ear Stick deliver relatively clear audio, but they're far from market-leading -- not with the lack of ANC and the sound leakage issues. If you are looking to start or add to a quirky headset collection or gift your fashionista friend or family member, Nothing makes a strong case going into the holiday season. But if you're more interested in keeping up with sound trends, look elsewhere. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -175,11 +195,28 @@ Besides the Nothing Ear Stick, here are three other wireless earbuds that you sh
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-snap-it-all-complimentary-android-recordings-for-2024/"><u>[New] Snap It All Complimentary Android Recordings for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-path-to-perfected-morphvox-control/"><u>[Updated] The Ultimate Path to Perfected MorphVOX Control</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unlock-visual-impact-with-these-7-graders-secrets/"><u>[Updated] Unlock Visual Impact with These 7 Graders' Secrets</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-bypassing-the-unyielding-load-screen-in-fortnite-gaming/"><u>Expert Advice: Bypassing the Unyielding Load Screen in Fortnite Gaming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-redefining-schooling-with-virtual-reality/"><u>In 2024, Redefining Schooling with Virtual Reality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-with-toms-technical-advice/"><u>Mastering Hardware Choices with Tom's Technical Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-knowledge-through-toms-expert-analysis/"><u>Mastering Hardware Knowledge Through Tom's Expert Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-a-guide-with-toms-insights/"><u>Mastering Hardware: A Guide with Tom's Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/memorial-day-special-high-performance-dell-s322ndmg-32monitor-only-279/"><u>Memorial Day Special: High-Performance Dell S322nDMG 32Monitor, Only $279!</u></a></li>
+<li><a href="https://games-able.techidaily.com/meta-in-gaming-definition-purpose-and-conformance/"><u>Meta in Gaming: Definition, Purpose, and Conformance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-tech-innovations-a-deep-dive-by-toms-hardware-team/"><u>Navigating Tech Innovations: A Deep Dive by Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-tips-from-toms-hardware-hub/"><u>Navigating the World of Electronics: Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-infinix-zero-30-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Infinix Zero 30 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+</ul></div>
+

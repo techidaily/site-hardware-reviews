@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the New King of Office Productivity: A Microsoft Surface Pro Ebusiness Guide by DigitalFrontier"
-date: 2025-01-26T17:23:54.299Z
-updated: 2025-02-03T04:52:54.328Z
+date: 2025-02-09T16:51:31.041Z
+updated: 2025-02-15T17:19:25.565Z
 tags:
   - laptops
 categories:
@@ -42,6 +42,10 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
@@ -49,7 +53,7 @@ Jason Cipriani/ZDNet
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -73,10 +77,6 @@ When you open the kickstand, you'll find a small door in the bottom left corner 
 You don't have to use a physical SIM card thanks to the Pro 8's support for an eSIM, but since I often switch between the Pro X and iPad Pro, I already had a dedicated SIM card with a data-only plan tied to it. 
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -103,7 +103,7 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -141,10 +141,6 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## There are still many things the iPad Pro does better
 
 Jason Cipriani/ZDNet
@@ -156,6 +152,10 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 **Also:** [**Want a touchscreen MacBook? This portable monitor makes it possible**](https://www.zdnet.com/home-and-office/smart-office/want-a-touchscreen-macbook-this-portable-monitor-makes-it-possible/)
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -169,11 +169,11 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -212,16 +212,18 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-apeaksoft-2023-screens-recording-insights-for-2024/"><u>[New] Apeaksoft 2023 Screens Recording Insights for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-psychology-behind-effective-interviews/"><u>[New] The Psychology Behind Effective Interviews</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-compression-related-distortion-on-youtube/"><u>[Updated] Navigating Compression-Related Distortion on YouTube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-no-trouble-recorder-for-win10-desktop-for-2024/"><u>[Updated] No-Trouble Recorder for Win10 Desktop for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/can-one-monitor-multiple-digital-coin-holders-through-a-unified-balance-verification-tool-innovations-from-yl-software-solutions/"><u>Can One Monitor Multiple Digital Coin Holders Through a Unified Balance Verification Tool? – Innovations From YL Software Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discovering-the-world-of-technology-with-toms-hardware/"><u>Discovering the World of Technology with Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enthusiasts-guide-to-the-budget-friendly-nuphy-halo75-v2-a-breakdown-of-its-features-and-benefits/"><u>Enthusiast's Guide to the Budget-Friendly Nuphy Halo75 V2 - A Breakdown of Its Features and Benefits</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341696920-imaging-techniques-like-oct-may-be-used-postoperatively-to-confirm-the-success-of-surgical-interventions-such-as-retinal-detachment-repair/"><u>Imaging Techniques Like OCT May Be Used Postoperatively to Confirm the Success of Surgical Interventions Such as Retinal Detachment Repair</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-hardware-solutions-curated-by-team-tom/"><u>Innovative Hardware Solutions Curated by Team Tom</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-and-repairing-missing-or-inaccessible-mfc42dll-errors/"><u>Understanding and Repairing Missing or Inaccessible mfc42.dll Errors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/zenith-in-gaming-computing-evaluating-the-stellar-performance-of-ryzen-5-9600x-and-ryzen-7-9700xs-new-era/"><u>Zenith in Gaming Computing: Evaluating the Stellar Performance of Ryzen 5 9600X and Ryzen 7 9700X's New Era</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-transform-your-video-presentation-with-updated-covers/"><u>[New] Transform Your Video Presentation with Updated Covers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-infographic-exploration-premier-fifa-videos/"><u>[Updated] 2024 Approved Infographic Exploration Premier FIFA Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-of-rode-streamer-x-is-it-worth-transforming-your-filmmaking-experience/"><u>A Comprehensive Review of Rode Streamer X: Is It Worth Transforming Your Filmmaking Experience?</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-discrepancy-c-drive-vs-d-drive/"><u>Decoding the Discrepancy: C: Drive Vs. D: Drive</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-tom-in-depth-hardware-insights/"><u>Exploring Technology with Tom: In-Depth Hardware Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-corsair-mp600-mini-1tb-m2-2280e27t-ssd-evaluation-top-of-the-line-performance-in-a-compact-form-factor/"><u>In-Depth Corsair MP600 Mini 1TB (M.2 2280/E27T) SSD Evaluation: Top of the Line Performance in a Compact Form Factor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximizing-macos-capacity-expert-tips-for-enhanced-hard-drive-management/"><u>Maximizing MacOS Capacity: Expert Tips for Enhanced Hard Drive Management</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-high-tech-tools-at-toms-hardware-hub/"><u>Navigating the World of High-Tech Tools at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-chilled-with-the-uphere-m201-top-notch-nvme-ssd-cooler-for-a-steal-at-5/"><u>Stay Chilled with the UpHere M201: Top-Notch NVMe SSD Cooler for a Steal at $5!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-list-best-screencasting-apps-free-for-2024/"><u>The Ultimate List Best Screencasting Apps (Free) for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-truth-about-bluehosts-hosting-options-cloud-vps-and-sharing-tested/"><u>Unveiling the Truth About Bluehost's Hosting Options - Cloud, VPS, and Sharing Tested</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-llama-2-and-how-can-you-use-it/"><u>What Is Llama 2 and How Can You Use It?</u></a></li>
 </ul></div>
 

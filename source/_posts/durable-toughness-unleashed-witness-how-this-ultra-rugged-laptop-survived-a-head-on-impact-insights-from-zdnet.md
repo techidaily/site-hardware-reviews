@@ -1,7 +1,7 @@
 ---
 title: "Durable Toughness Unleashed: Witness How This Ultra-Rugged Laptop Survived a Head-On Impact - Insights From ZDNet"
-date: 2025-01-31T03:31:02.075Z
-updated: 2025-02-02T22:43:18.891Z
+date: 2025-02-12T16:27:53.458Z
+updated: 2025-02-15T16:05:31.596Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,24 +122,24 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-ultimate-tech-manual-for-saving-web-streamed-television/"><u>[New] In 2024, The Ultimate Tech Manual for Saving Web-Streamed Television</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-zoom-android-tips-for-starting-and-syncing-meetings/"><u>2024 Approved Mastering Zoom Android Tips for Starting & Syncing Meetings</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-comprehensive-affinity-guide-banishing-backgrounds-with-ease/"><u>2024 Approved The Comprehensive Affinity Guide Banishing Backgrounds with Ease</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rog-swift-pg32ucdp-oled-display-a-detailed-review-toward-excellence/"><u>Asus ROG Swift PG32UCDP OLED Display: A Detailed Review Toward Excellence</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rt-be96u-the-ultimate-6ghz-wireless-networking-champion-in-depth-review/"><u>Asus RT-BE96U: The Ultimate 6GHz Wireless Networking Champion - In Depth Review</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-hardware-for-high-quality-livestreams/"><u>Best Hardware for High-Quality Livestreams</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gaming-monitor-insight-asrocks-pg27qft2a-with-ultra-fast-180-hz-display-analyzed/"><u>Gaming Monitor Insight: ASRock's PG27QFT2A with Ultra-Fast 180 Hz Display Analyzed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-best-minecraft-experience-for-every-age-group/"><u>In-Depth Analysis of the Best Minecraft Experience for Every Age Group</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-orbi-tri-band-mesh-wireless-6-system-ensuring-rapid-connection-in-every-corner/"><u>In-Depth Analysis of the Orbi Tri-Band Mesh Wireless 6 System: Ensuring Rapid Connection in Every Corner</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-expert-hardware-analysis/"><u>Mastering Gadgets with Tom - Expert Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-inside-scoop-from-toms-hardware-experts/"><u>Mastering Technology: Inside Scoop From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/public-hearings-may-provide-community-members-with-a-platform-to-influence-the-land-division-process/"><u>Public Hearings May Provide Community Members with a Platform to Influence the Land Division Process.</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-uncovered-the-power-of-facebook-twitter-instagram-and-youtube-in-todays-world/"><u>Social Media Uncovered: The Power of Facebook, Twitter, Instagram & YouTube in Today's World</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-modern-broadcasters-guide-to-iphone-and-android-streaming-for-2024/"><u>The Modern Broadcaster's Guide to iPhone and Android Streaming for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-battle-screen-gigabyte-aorus-oled-gaming-monitors-vivid-colors-and-dynamic-range-unveiled/"><u>The Ultimate Battle-Screen: Gigabyte Aorus OLED Gaming Monitor's Vivid Colors & Dynamic Range Unveiled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-advisor-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Advisor: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-lava-blaze-curve-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Lava Blaze Curve 5G Phone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-technology-with-tom-comprehensive-hardware-guides/"><u>Unveiling the Latest in Technology with Tom - Comprehensive Hardware Guides</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-creating-jpeg-on-png-image-files-from-the-video-you-recorded-with-a-smartphone-or-a-professional-video-camera-takes-only-a-few-moments/"><u>Updated 2024 Approved Creating JPEG on PNG Image Files From the Video You Recorded with a Smartphone or a Professional Video Camera Takes only a Few Moments of Your Time. Here Are some Best Video to Image Converters You Ca</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-thrilling-theme-journey-10-bestdiscord-classics/"><u>[New] 2024 Approved Thrilling Theme Journey 10 BestDiscord Classics</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-unveiling-the-secrets-of-fisheye-imaging/"><u>[New] In 2024, Unveiling the Secrets of Fisheye Imaging</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-steady-shot-enhancer-for-traveling-filmmakers/"><u>[New] Steady Shot Enhancer for Traveling Filmmakers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-unmatched-hdds-for-enhanced-xbox-experience/"><u>[Updated] In 2024, Unmatched HDDs for Enhanced Xbox Experience</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-vive-motion-sickness-prevention-guide/"><u>[Updated] In 2024, Vive Motion Sickness Prevention Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimal-zoom-techniques-for-efficient-skype-communication/"><u>[Updated] Optimal Zoom Techniques for Efficient Skype Communication</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210840461-9781578598366-american-ghost-stories/"><u>American Ghost Stories | Free Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-red-magic-8s-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Red Magic 8S Pro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msi-unveils-high-performance-gaming-displays-240hz-qd-oled-monitors-in-new-sizes/"><u>MSI Unveils High Performance Gaming Displays - 240Hz QD-OLED Monitors in New Sizes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-gadgets-insights-from-toms-technology-corner/"><u>Navigating Advanced Gadgets: Insights From Tom's Technology Corner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-high-tech-components-at-toms-system-analysis/"><u>Navigating High-Tech Components at Tom's System Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-tomhardware/"><u>Navigating the World of Electronics with TomHardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-circuits-with-tom-an-authoritative-source-for-tech-enthusiasts/"><u>Navigating Through Circuits with Tom: An Authoritative Source for Tech Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-your-workspace-samsung-unveils-updated-odyssey-and-view-monitors-featuring-cutting-edge-ai-innovation/"><u>Revolutionizing Your Workspace: Samsung Unveils Updated Odyssey and View Monitors Featuring Cutting-Edge AI Innovation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-advanced-gadget-reviews/"><u>Tom's Tech Hub: Advanced Gadget Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-expert-advice/"><u>Tom's Tech Review: In-Depth Analysis & Expert Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-insights-on-hardware-innovations/"><u>Tom's Tech Review: Insights on Hardware Innovations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-revolutionary-ai-programs-for-tackling-mathematical-challenges/"><u>Top 7 Revolutionary AI Programs for Tackling Mathematical Challenges</u></a></li>
 </ul></div>
 

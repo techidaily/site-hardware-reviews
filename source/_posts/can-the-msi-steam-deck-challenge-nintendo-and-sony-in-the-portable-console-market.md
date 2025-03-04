@@ -1,7 +1,7 @@
 ---
 title: Can the MSI Steam Deck Challenge Nintendo and Sony in the Portable Console Market?
-date: 2025-01-31T19:14:51.283Z
-updated: 2025-02-02T20:17:08.275Z
+date: 2025-02-12T16:51:40.151Z
+updated: 2025-02-15T16:46:42.944Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Furthermore, there are very few ports. You get three in total: two USB-C inputs 
 My last critique is admittedly a nitpick. I would've appreciated a free stylus in the overall package. Microsoft's 11th-gen Surface Pro had one when I got it, and I thoroughly enjoyed it. So unless you already have a pen, you'll have to buy one for the PZ13, which isn't a big issue since the laptop is fairly cheap.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ Prices for the Asus ProArt PZ13 start at [$1,100 on Best Buy](https://shop-links
 Other than that, they're the same device. Get the Hexagon version only if you are expecting heavy workloads.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -140,22 +140,22 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-saving-your-iphone-screen-a-step-by-step-approach/"><u>[New] 2024 Approved Saving Your iPhone Screen A Step-by-Step Approach</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-cut-the-clutter-convert-videos-discover-the-best-alternatives-for-flv-to-yt/"><u>[New] In 2024, Cut the Clutter, Convert Videos Discover the Best Alternatives for Flv to YT</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-c65-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on C65.</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-v30-lite-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo V30 Lite 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722975784261-easy-synaptic-driver-installation-and-updates-for-windows-users/"><u>Easy Synaptic Driver Installation and Updates for Windows Users!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/linus-torvalds-on-artificial-intelligence-embracing-rust-and-the-heartbeat-of-linux-technology/"><u>Linus Torvalds on Artificial Intelligence, Embracing Rust, and the Heartbeat of Linux Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-visual-experience-shop-the-cutting-edge-pixel-dense-viewfinity-s9-monitor-by-samsung-for-just-899-with-a-built-in-4k-webcam-grab-your-dis52/"><u>Revolutionize Your Visual Experience - Shop the Cutting-Edge Pixel-Dense ViewFinity S9 Monitor by Samsung for Just $899 with a Built-In 4K Webcam – Grab Your Discounted Deal Now, Save 44%!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/score-big-savings-with-a-sharp-fast-paced-gaming-screen-acer-nitro-27-for-under-150/"><u>Score Big Savings with a Sharp, Fast-Paced Gaming Screen – Acer Nitro 27 for Under $150</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/score-the-ultimate-bargain-279-32-dell-s322dmg-monitor-perfect-for-gamers-this-memorial-day/"><u>Score the Ultimate Bargain: $279 32” Dell S322DMG Monitor, Perfect for Gamers This Memorial Day!</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-shoppers-guide-to-inexpensive-recording-gear-for-2024/"><u>Smart Shopper's Guide to Inexpensive Recording Gear for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/spectacular-gaming-screen-bargain-acer-nitro-34-curved-wqhd-monitor-for-just-200-on-newegg/"><u>Spectacular Gaming Screen Bargain – Acer Nitro 34 Curved WQHD Monitor for Just $200 on Newegg.</u></a></li>
-<li><a href="https://article-posts.techidaily.com/strategies-to-alleviate-vr-motion-woes-for-2024/"><u>Strategies to Alleviate VR Motion Woes for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-gadget-reviews-and-performance-analysis/"><u>Tom's Tech Insights: Expert Gadget Reviews and Performance Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-gadget-analysis/"><u>Tom's Tech Reviews: Comprehensive Gadget Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-computer-and-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Computer & Gadget Analysis</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-15-nyare-sonderdelar-i-cutcap-applen-for-djupkat-och-onlinespel-2024/"><u>Top 15 Nyare Sönderdelar I CutCap Äpplen För Djupkat Och Önlinespel 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-cutting-edge-hardware-by-toms-technology-digest/"><u>Ultimate Guide to Cutting-Edge Hardware by Tom's Technology Digest</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-effective-ways-of-extracting-snapchat-videos/"><u>[New] 2024 Approved Effective Ways of Extracting Snapchat Videos</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/windows-11-10-8-7-ssd/"><u>解決方案: Windows 11, 10, 8, 7 複製 SSD 重新運行</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-connection-between-iphone-and-computer-try-these-fixes/"><u>Lost Connection Between iPhone and Computer? Try These Fixes</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-vivo-y27s-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Vivo Y27s</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/restaurar-imagenes-borradas-en-tu-onedrive-5-metodos-clave-para-la-recuperacion/"><u>Restaurar Imágenes Borradas en Tu OneDrive: 5 Métodos Clave Para La Recuperación</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplify-your-inbox-with-this-simple-technique-no-junk-emails-needed-tech-advice/"><u>Simplify Your Inbox with This Simple Technique, No Junk Emails Needed! | Tech Advice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/surprising-top-picks-a-highly-competent-alternative-to-hp-or-lenovos-2-in-1-devices-discovered-by-zdnet-experts/"><u>Surprising Top Picks: A Highly Competent Alternative to HP or Lenovo's 2-in-1 Devices, Discovered by ZDNet Experts!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-lenovo-chromebox-mini-a-new-compact-powerhouse-for-diy-enthusiasts-and-tech-explorers/"><u>The Lenovo Chromebox Mini: A New Compact Powerhouse for DIY Enthusiasts and Tech Explorers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-keychron-q1eron-max-perfectly-balanced-for-every-user/"><u>The Ultimate Guide to the Keychron Q1eron Max - Perfectly Balanced for Every User!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-6-indicators-of-poor-pc-cable-organization-avoid-the-chaos/"><u>Top 6 Indicators of Poor PC Cable Organization – Avoid the Chaos!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-2024-outdoor-surveillance-cameras-a-comprehensive-guide/"><u>Top Rated 2024 Outdoor Surveillance Cameras: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-electronics-sale-exclusive-offers-on-beats-solo-headphones-djis-premium-quadcopter-drone-plus-immersive-bose-television-soundbars/"><u>Ultimate Electronics Sale: Exclusive Offers on Beats Solo Headphones, DJI's Premium Quadcopter Drone, Plus Immersive Bose Television Soundbars!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-choosing-the-ideal-bluetooth-speaker-in-2e24/"><u>Ultimate Guide to Choosing the Ideal Bluetooth Speaker in 2E24</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-a-thunderous-sound-discover-sonys-revolutionary-ult-lineup-for-superior-bass-quality-in-speakers-and-headsets/"><u>Unleash a Thunderous Sound: Discover Sony's Revolutionary ULT Lineup for Superior Bass Quality in Speakers and Headsets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-exclusive-discounts-on-gadgets-ankers-mini-power-bank-latest-google-pixel-timepiece-and-secure-your-home-with-blink-cameras/"><u>Unlock Exclusive Discounts on Gadgets: Anker's Mini Power Bank, Latest Google Pixel Timepiece, and Secure Your Home with Blink Cameras!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/watching-indiana-jones-a-step-by-step-guide-to-see-them-all-correctly/"><u>Watching Indiana Jones: A Step-by-Step Guide to See Them All Correctly</u></a></li>
 </ul></div>
 

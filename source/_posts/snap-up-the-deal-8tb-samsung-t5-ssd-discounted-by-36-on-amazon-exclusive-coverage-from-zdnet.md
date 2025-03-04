@@ -1,7 +1,7 @@
 ---
 title: "Snap Up the Deal: 8TB Samsung T5 SSD Discounted by 36%% on Amazon - Exclusive Coverage From ZDNet"
-date: 2025-01-30T02:47:44.322Z
-updated: 2025-02-02T22:11:08.850Z
+date: 2025-02-11T16:54:40.422Z
+updated: 2025-02-15T16:16:47.287Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe585739-b63f-4436-9ded-d80941ea63f3%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,18 +65,24 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-achieving-flawless-gameplay-optimizing-your-switch-pro-experience-on-steam/"><u>[New] 2024 Approved Achieving Flawless Gameplay Optimizing Your Switch Pro Experience on Steam</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-yuneec-typhoon-h-review/"><u>[New] 2024 Approved Yuneec Typhoon H Review</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-streamlined-video-tools-for-twitter-sharing/"><u>[New] Streamlined Video Tools for Twitter Sharing</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-discover-the-best-tools-and-tips-to-accurately-tag-your-videos/"><u>[Updated] Discover the Best Tools & Tips to Accurately Tag Your Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-become-a-gif-expert-in-snapchat-today/"><u>[Updated] In 2024, Become a GIF Expert in Snapchat Today</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-leveraging-luts-for-rich-color-grading-in-ar-apps/"><u>[Updated] In 2024, Leveraging LUTs for Rich Color Grading in AR Apps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-hardware-guided-by-toms-expertise/"><u>Exploring Computer Hardware - Guided by Tom's Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-value-of-cytrons-uno-rp2040-board-for-cost-conscious-makers/"><u>Exploring the Value of Cytron's Uno RP2040 Board for Cost-Conscious Makers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-driver-update-for-brother-hl-l23er-full-version/"><u>Get the Latest Driver Update for Brother HL-L23er: Full Version</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/proactive-gaming-enhancing-minecraft-through-ram-upgrade-for-2024/"><u>Proactive Gaming Enhancing Minecraft Through RAM Upgrade for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveil-the-secrets-of-quality-hardware-through-toms-lens/"><u>Unveil the Secrets of Quality Hardware Through Tom's Lens</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-insights-from-toms-computer-gear-exploration/"><u>Unveiling the Insights From Tom's Computer Gear Exploration</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-update-on-pause-four-simple-steps/"><u>Windows Update on Pause: Four Simple Steps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-eliminating-iphoneandroid-issues-with-fb-message-video-sharing/"><u>[New] In 2024, Eliminating iPhone/Android Issues with FB Message Video Sharing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-sharing-youtube-content-on-facebook-a-step-by-step-guide/"><u>[New] Sharing YouTube Content on Facebook A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-essential-techniques-for-color-correction-in-gopro/"><u>[Updated] 2024 Approved Essential Techniques for Color Correction in GoPro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-videography-7-free-sound-effects-collection-for-2024/"><u>[Updated] Elevate Your Videography - 7 Free Sound Effects Collection for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-top-free-audio-samples-for-youtube-creators/"><u>2024 Approved Top Free Audio Samples for YouTube Creators!</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/6ksh5pww44k144ow44on44od44oi44gr44kp44gf44kl44kv44op44kk44ki44oz44oi566h55cg44ks44kk44oj/"><u>複数サブネットにわたるクライアント管理ガイド</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/acemagic-x1-dual-screen-laptop-unveil-the-price-and-purchase-details-this-coming-month/"><u>AceMagic X1 Dual-Screen Laptop: Unveil the Price & Purchase Details This Coming Month!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/busting-the-code-28-glitch-a-detailed-walkthrough-for-windows-users/"><u>Busting the Code 28 Glitch: A Detailed Walkthrough for Windows Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862690223-get-the-msi-katana-gaming-laptop-just-1199-a-156-inch-machine-with-ultra-fast-rtx4070-graphics/"><u>Get the MSI Katana Gaming Laptop: Just $1,199 - A 15.6 Inch Machine with Ultra-Fast RTX^4070 Graphics!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-blowout-unlock-20-more-savings-on-the-ultimate-plant-care-application-limited-time-offer/"><u>Labor Day Blowout: Unlock 20% More Savings on the Ultimate Plant Care Application - Limited Time Offer!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-carbon-fiber-cells-the-new-era-of-lightweight-high-performance-device-power/"><u>Revolutionary Carbon-Fiber Cells: The New Era of Lightweight, High-Performance Device Power</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sneak-peek-of-the-future-new-ai-integrated-dell-laptops-set-for-a-summer-release/"><u>Sneak Peek of the Future - New AI-Integrated Dell Laptops Set for a Summer Release</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-elite-selection-premium-notebooks-and-high-performance-laptops/"><u>The Elite Selection: Premium Notebooks & High-Performance Laptops</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-computer-hardware-t17238628794254/"><u>Tom's Tech Insights: Exploring the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unlocking-the-secrets-of-hardware/"><u>Tom's Tech Insights: Unlocking the Secrets of Hardware</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-apple-watch-display/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Apple Watch Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-game-changing-risc-v-dev-laptop-engineers-dream-at-an-unbeatable-price-of-around-300-from-china/"><u>Unveiling the Game-Changing RISC-V Dev Laptop: Engineers' Dream at an Unbeatable Price of Around $300 From China</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-technology-toms-hardware-breakdown/"><u>Unveiling the Latest in Technology: Tom's Hardware Breakdown</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-instant-and-simple-connection-guide-for-scansnap-s510-scanner/"><u>Update: Instant and Simple Connection Guide for ScanSnap S510 Scanner</u></a></li>
 </ul></div>
 

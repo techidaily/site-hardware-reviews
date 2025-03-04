@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Decision Alert: Comparing the New M2 to M3 MacBook Air From Apple | Tech Insights"
-date: 2025-01-28T05:16:37.414Z
-updated: 2025-02-02T22:25:02.431Z
+date: 2025-02-08T16:32:30.477Z
+updated: 2025-02-15T17:06:01.496Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple is _officially_ in the AI PC race
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -67,7 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -110,22 +110,18 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-practical-steps-in-mastering-telegram-web-services/"><u>[Updated] In 2024, Practical Steps in Mastering Telegram Web Services</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-streamline-your-life-with-these-5-chrome-tools-for-fb-video-grabs-for-2024/"><u>[Updated] Streamline Your Life with These 5 Chrome Tools for FB Video Grabs for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-the-art-and-science-of-buying-profitable-yt-content/"><u>2024 Approved The Art and Science of Buying Profitable YT Content</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/easy-processes-for-downloading-live-conversations-for-2024/"><u>Easy Processes for Downloading Live Conversations for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-officejet-pro-8610-driver-downloads-for-windows-users-windows-11-8-7-xp-and-vista/"><u>HP Officejet Pro 8610 Driver Downloads for Windows Users (Windows 11, 8, 7, XP & Vista)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Itel S23? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-sticky-visuals-at-a-glance-iphoneandroids-best-sticker-add-on-apps/"><u>In 2024, Sticky Visuals at a Glance – iPhone/Android's Best Sticker Add-On Apps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-exploring-the-finest-computer-screens/"><u>Ultimate Selection: Exploring the Finest Computer Screens</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unbeatable-dell-gaming-screen-at-an-amazing-price-199/"><u>Unbeatable Dell Gaming Screen at an Amazing Price: $199!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-technology-secrets-toms-detailed-guide-to-computer-components/"><u>Unlocking Technology Secrets: Tom's Detailed Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-value-a-deep-dive-into-the-mammoth-yet-economical-monoprice-144-hz-44-inch-gaming-display-review/"><u>Unlocking Value: A Deep Dive Into the Mammoth, Yet Economical Monoprice 144 Hz 44-Inch Gaming Display Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-gadgets-toms-hardware-rundown/"><u>Unveiling the Latest in Gadgets - Tom's Hardware Rundown</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-tech-trends-at-toms-digital-workshop/"><u>Unveiling the Latest Tech Trends at Tom's Digital Workshop</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-secrets-of-hardware-with-toms-expertise/"><u>Unveiling the Secrets of Hardware with Tom's Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upgrade-to-a-sharp-27-display-get-the-built-in-webcam-and-pixel-dense-viewfinity-tech-with-samsungs-s9-monitor-for-899-discounted-by-44/"><u>Upgrade to a Sharp 27 Display - Get the Built-In Webcam & Pixel-Dense Viewfinity Tech with Samsung's S9 Monitor for $899, Discounted by 44%</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-navigating-new-frontiers-metaverses-vs-omniverse/"><u>[New] In 2024, Navigating New Frontiers Metaverses Vs. Omniverse</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-prime-streamers-selection-the-best-websites/"><u>[Updated] In 2024, Prime Streamers' Selection The Best Websites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-pixels-to-power-top-photo-editing-strategies-unlocked/"><u>2024 Approved Pixels to Power Top Photo Editing Strategies Unlocked</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-power-of-ai-10-tactics-to-secure-your-next-role-with-chatgpt-on-linkedin/"><u>Discover the Power of AI: 10 Tactics to Secure Your Next Role with ChatGPT on LinkedIn</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-guide-troubleshooting-windows-11-sound-difficulties-step-by-step/"><u>Essential Guide: Troubleshooting Windows 11 Sound Difficulties – Step-by-Step</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-zero-empty-directory-error-in-windows-11-and-11/"><u>How to Overcome Zero-Empty Directory Error in Windows 11 & 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-xiaomi-mix-fold-3-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Xiaomi Mix Fold 3, is it possible?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-full-potential-effortlessly-operate-windows-with-your-new-steam-deck-oled-device/"><u>Unlocking Full Potential: Effortlessly Operate Windows with Your New Steam Deck OLED Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-seamless-connectivity-a-step-by-step-for-combining-various-mesh-network-systems/"><u>Unlocking Seamless Connectivity: A Step-by-Step for Combining Various Mesh Network Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-the-origin-whats-behind-the-name-bluetooth/"><u>Unraveling the Origin: What's Behind the Name 'Bluetooth'?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/wake-up-gently-with-philips-hue-transform-your-mornings-into-breathtaking-sunrises-by-your-bedside/"><u>Wake Up Gently with Philips Hue - Transform Your Mornings Into Breathtaking Sunrises by Your Bedside</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/wi-fi-standard-8-wi-fi-7-advantages-explained-and-why-you-should-consider-switching/"><u>Wi-Fi Standard 8 (Wi-Fi 7): Advantages Explained & Why You Should Consider Switching!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-smart-tvs-secret-beyond-entertainment-it-monitors-all-you-do/"><u>Your Smart TV's Secret: Beyond Entertainment, It Monitors All You Do</u></a></li>
 </ul></div>
 

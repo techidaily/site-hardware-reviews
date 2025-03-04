@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's In-Depth Analysis: Jabra Elite 5 - Exceptional Combination of Affordability and Functionality"
-date: 2024-09-17 20:25:26
-updated: 2024-09-20 12:45:34
+date: 2025-02-13T16:48:11.062Z
+updated: 2025-02-15T16:17:22.098Z
 tags:
   - headphones
 categories:
@@ -36,6 +36,10 @@ Admittedly, it's a bit of a challenge to figure out which Jabra Elite earbud is 
 
 After figuring out what your top price level is for a set, dive into some of the features and functions. The Elite 5 has a slightly shorter battery life and the water resistance level is just a bit lower than the Elite 7 Pro. Compared to the [Elite 3](https://www.zdnet.com/product/jabra-elite-3-true-wireless-earphones-with-mic/), the Elite 5 has ANC and a wireless charging case so there are some feature differences between all of the models.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Microphones           | Six microphones with wind noise reduction                        |
@@ -47,6 +51,10 @@ After figuring out what your top price level is for a set, dive into some of the
 | Battery life          | 7 hours with 21 more hours provided by charging case             |
 | Wireless connectivity | Bluetooth multipoint with Google Fast Pair, Microsoft Swift Pair |
 | Earbud weight         | TBD                                                              |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Hardware
 
@@ -74,6 +82,10 @@ A large physical button is positioned on the outside surface of the Elite 5 and 
 
 **Also: [Jabra Elite 3 review: Forget AirPods, these $80 earbuds offer more for less](https://www.zdnet.com/product/jabra-elite-3-true-wireless-earphones-with-mic/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Smartphone software
 
 * **Needed for full experience**
@@ -96,6 +108,10 @@ Matthew Miller/ZDNet
 
 [Early-bird offer: Jabra Elite 5 $130 at Jabra](https://www.jdoqocy.com/click-9041660-15459428-1676571532000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 The [Jabra Elite 7 Pro](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.jabra.com/bluetooth-headsets/jabra-elite-7-pro) received a software update to address a couple of the issues I had before with that model and I also see the price for them is currently down to $129.99, a $70 reduction. The Elite 7 Pro fit a bit differently than the Elite 5 and while they are good for my ears, I prefer the fit of the Elite 5\. The 7 Pro provides a bit longer battery life and are optimized for calling.
@@ -103,6 +119,10 @@ The [Jabra Elite 7 Pro](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-
 At $149.99 (currently [marked down to $130](https://www.kqzyfj.com/click-9041660-15415754-1671657513000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)), the Elite 5 is a solid earbud as long as you are not looking for a powerful and noticeable active noise-cancellation experience. While ANC is subtle, I listened to music and podcasts on a recent flight and the annoying airplane background noises were canceled out fairly well. In a quiet environment I did not notice much ANC, but then again some people may prefer not to have such strong ANC in their ears.
 
 Battery life over the past couple of weeks has been as advertised, I love the Gold Beige color, the earbuds snap securely into the case, charging via a cable or wireless charging pad is great, music and movies have sounded awesome, and callers have been very satisfied with my audio quality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -135,11 +155,29 @@ There are a few Jabra options available, including the Elite 7 Pro and Elite 3, 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-leading-tech-review-the-top-10-screen-recorders/"><u>[New] 2024 Approved Leading Tech Review The Top 10 Screen Recorders</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlocking-the-potential-for-igtv-videos-on-smartphonedslr/"><u>[New] 2024 Approved Unlocking the Potential for IGTV Videos on Smartphone/DSLR</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/oredom-be-gone-find-joy-with-these-top-15-humorists-for-2024/"><u>[New] Boredom Be Gone Find Joy with These Top 15 Humorists for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-investing-wisely-in-subscribers-get-more-for-less/"><u>[Updated] 2024 Approved Investing Wisely in Subscribers Get More for Less</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-a-balanced-narrative-with-b-roll-content/"><u>[Updated] Crafting a Balanced Narrative with B-Roll Content</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-youtube-for-educators-maximizing-its-classroom-potential/"><u>[Updated] In 2024, YouTube for Educators Maximizing Its Classroom Potential</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/aquatic-artistry-how-makers-engineered-a-functional-underwater-3d-printer-for-submerged-environments/"><u>Aquatic Artistry: How Makers Engineered a Functional Underwater 3D Printer for Submerged Environments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-x100-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo X100 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-14-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 14 When You Forget the Passcode?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-electronics-hub-innovations-in-computing-and-more/"><u>Tom's Electronics Hub: Innovations in Computing and More</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-reviews-and-gadget-analysis/"><u>Tom's Tech Insights: In-Depth Reviews & Gadget Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-insightful-gadget-analysis-and-hardware-breakdown/"><u>Tom's Tech Review: Insightful Gadget Analysis and Hardware Breakdown</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-gear-tech-advice-the-toms-hardware-way/"><u>Top Gear Tech Advice - The Tom's Hardware Way</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-choosing-a-widescreen-gaming-screen/"><u>Ultimate Guide to Choosing a Widescreen Gaming Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-hardware-secrets-with-toms-authoritative-reviews/"><u>Unveiling Hardware Secrets with Tom's Authoritative Reviews</u></a></li>
+</ul></div>
+

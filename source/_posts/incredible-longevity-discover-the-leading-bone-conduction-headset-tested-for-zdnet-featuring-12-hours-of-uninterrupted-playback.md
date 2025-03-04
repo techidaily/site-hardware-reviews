@@ -1,7 +1,7 @@
 ---
 title: "Incredible Longevity: Discover the Leading Bone Conduction Headset Tested for ZDNET Featuring 12 Hours of Uninterrupted Playback"
-date: 2024-09-19 21:57:13
-updated: 2024-09-20 11:39:45
+date: 2025-02-13T17:09:10.328Z
+updated: 2025-02-15T16:41:46.418Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/9494fa406dacd27bc0a8399abf0f5c2cdeea0b8aa
 ![Shokz OpenRun Pro 2 headphones on head](https://www.zdnet.com/a/img/resize/66e7b1806c3713734abc441d69881af24aa9fcd7/2024/08/27/8e3835ce-6ac2-4afd-ba58-aa16088a21ea/dsc02219.jpg?auto=webp&precrop=2997,1683,x0,y52&width=1280)
 
 Nina Raemont/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways 
 
@@ -67,6 +71,10 @@ As someone motivated most by a booming, loud song as I run, this disappointed me
 
 These headphones are supposed to have improved microphones for clear calls, but while sending voice memos to myself, the audio felt warbly and muddy. I could still hear myself fine, but it wasn't lucid. Another thing I'd like to see is better notifications indicating that the OpenRun Pro 2 have connected to your device and are powered on. Same with powering off: the headphones don't seem to blink or flash to indicate they've turned off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice 
 
 Hardcore marathoners and cyclists will love the longer battery life, the comfortable build, and durability of the [Shokz OpenRun Pro 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Faw%2Fd%2FB0D2HKCMBP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf443c279-d638-42a7-819b-566cfb131e81%7Cdtp&dtb=1). I enjoyed wearing these headphones while exercising because they are light and unobtrusive, perfect for workouts in the park and workdays in the office.
@@ -94,11 +102,29 @@ Plus, the OpenRun Pro 2 is the same price as the OpenRun Pro, but has more batte
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capturing-clarity-ranking-5-excellent-live-stream-devices/"><u>[New] 2024 Approved Capturing Clarity Ranking 5 Excellent Live Stream Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-jocular-video-hacker-review/"><u>[New] 2024 Approved Jocular Video Hacker Review</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-lens-tricks-editing-secrets-to-photo-wonders-for-2024/"><u>[New] Lens Tricks Editing Secrets to Photo Wonders for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/expert-advice-on-virtual-dialogue-how-to-excel-in-remote-conversations-for-2024/"><u>Expert Advice on Virtual Dialogue How to Excel in Remote Conversations for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-definition-showdown-sj6-versus-yi-4k-innovator/"><u>High Definition Showdown SJ6 Versus Yi 4K Innovator</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-essential-tips-for-extracting-vimeo-content-as-high-quality-mp4s/"><u>In 2024, Essential Tips for Extracting Vimeo Content as High-Quality MP4s</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-iphone-hdr-photo-guidebook/"><u>In 2024, Ultimate iPhone HDR Photo Guidebook</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-advice-on-computer-hardware-with-toms-expertise/"><u>In-Depth Reviews and Advice on Computer Hardware with Tom's Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/laptop-induced-crisis-leads-to-immediate-exit-for-travelers-on-american-airlines-flight/"><u>Laptop-Induced Crisis Leads to Immediate Exit for Travelers on American Airlines Flight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/leading-gaming-laptops-of-the-year-2024-thoroughly-tested-reviewed-and-benchmarked/"><u>Leading Gaming Laptops of the Year 2024 - Thoroughly Tested, Reviewed, and Benchmarked</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/leaked-visuals-showcase-next-gen-arm-powered-inspiron-and-xps-from-dell-expected-to-hit-shelves-by-q3/"><u>Leaked Visuals Showcase Next-Gen ARM-Powered Inspiron & XPS From Dell: Expected to Hit Shelves by Q3</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lenovo-thinkpad-x1-carbon-gen-12-evaluation-ultra-light-design-meets-advanced-artificial-intelligence/"><u>Lenovo ThinkPad X1 Carbon Gen 12 Evaluation: Ultra-Light Design Meets Advanced Artificial Intelligence</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-pcs-the-toms-expertise-collection/"><u>Mastering Gadgets and PCs: The Tom's Expertise Collection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gear-quality-a-deep-dive-into-hardware-reviewed-by-tom/"><u>Mastering Gear Quality: A Deep Dive Into Hardware Reviewed by Tom</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fix-solve-rage-2-crash-problems-instantly-and-with-minimal-hassle/"><u>Quick Fix: Solve RAGE 2 Crash Problems Instantly and With Minimal Hassle</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Essential USB-C Hub for Your iPad Pro: Seamless Connectivity Anytime with ZDNet's Top Pick"
-date: 2025-01-29T23:08:04.897Z
-updated: 2025-02-02T17:36:46.148Z
+date: 2025-02-11T17:01:12.590Z
+updated: 2025-02-15T16:20:01.251Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -45,7 +41,7 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -83,7 +79,7 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -107,7 +103,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -130,6 +126,10 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -141,7 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -182,22 +182,14 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harmonious-histories-exploring-musical-legends-with-these-15-video-documentaries-for-2024/"><u>[Updated] Harmonious Histories Exploring Musical Legends with These 15 Video Documentaries for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/action-packed-strategies-how-to-upload-your-gameplays-as-live-videos-on-youtube/"><u>Action-Packed Strategies: How to Upload Your Gameplays as Live Videos on YouTube</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-motorola-g24-power-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Motorola G24 Power</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo Reno 9A? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-realize-your-vision-a-comprehensible-list-of-3d-animation-software/"><u>In 2024, Realize Your Vision A Comprehensible List of 3D Animation Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-nokia-c12-plus-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Nokia C12 Plus Phone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-repair-of-error-0x80072f8f-in-windows-operating-systems-version-11-and-10/"><u>Mastering Repair of Error 0X80072F8F in Windows Operating Systems (Version 11 and 10)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-trends-with-insights-from-toms-hardware/"><u>Mastering Tech Trends with Insights From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/memorial-day-special-unlock-epic-savings-on-dells-32-inch-gaming-display-for-only-279/"><u>Memorial Day Special: Unlock Epic Savings on Dell's 32-Inch Gaming Display for Only $279!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/minisforum-unveils-portable-gaming-device-a-budget-friendly-option-at-189-with-a-15ninch-display-and-144-hz-refresh-rate/"><u>Minisforum Unveils Portable Gaming Device: A Budget-Friendly Option at $189 - with a 15.nInch Display and 144 Hz Refresh Rate</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-latest-in-computing-with-toms-hardware-analysis/"><u>Navigate the Latest in Computing with Tom's Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/nextgen-gear-insights-deciphering-todays-cutting-edge-hardware-choices/"><u>NextGen Gear Insights: Deciphering Today's Cutting-Edge Hardware Choices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/optimize-your-system-expert-advice-from-the-tech-vault-of-toms-hardware/"><u>Optimize Your System: Expert Advice From the Tech Vault of Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-discussions-with-toms-tech-analysis/"><u>Pioneering Hardware Discussions with Tom's Tech Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/portable-powerhouse-a-comprehensive-eyoyo-em105-105-screen-value-assessment/"><u>Portable Powerhouse: A Comprehensive EYOYO EM105 10.5” Screen Value Assessment</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1728490500439-wechat/"><u>WeChat終身制限措施下如何提取消息——解析方法</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-archivists-toolkit-techniques-for-capturing-social-events/"><u>[Updated] 2024 Approved The Archivist's Toolkit Techniques for Capturing Social Events</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-streamline-your-obs-outputs/"><u>[Updated] In 2024, Streamline Your OBS Outputs</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/expertise-in-quick-creation-professional-valorant-thumbnail-art/"><u>Expertise in Quick Creation Professional Valorant Thumbnail Art</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/outperforming-competitors-4-unbeatable-arguments-for-why-claude-3-eclipses-chatgpt-in-conversational-intelligence/"><u>Outperforming Competitors: 4 Unbeatable Arguments for Why Claude 3 Eclipses ChatGPT in Conversational Intelligence</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviving-retro-tech-the-impressive-similarities-of-8bitdos-latest-mechanical-keyboard-to-the-iconic-ibm-model-m/"><u>Reviving Retro Tech: The Impressive Similarities of 8BitDo's Latest Mechanical Keyboard to the Iconic IBM Model M</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-enhancements-exploring-the-features-of-the-latest-apple-pencil-pro/"><u>Revolutionary Enhancements: Exploring the Features of the Latest Apple Pencil Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/story-2-the-cohort-confusion/"><u>Story 2: The Cohort Confusion</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-decline-of-light-gun-video-gaming-how-current-televisions-have-impacted-the-genre/"><u>The Decline of Light Gun Video Gaming: How Current Televisions Have Impacted the Genre</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-gaming-systems-in-22024/"><u>Top-Rated Gaming Systems in 2#2024</u></a></li>
 </ul></div>
 

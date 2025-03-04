@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's In-Depth Look at Dyson's Flagship Audio Gear: High End for Half a Grand and Worth It?"
-date: 2024-09-17 14:44:25
-updated: 2024-09-20 11:14:38
+date: 2025-02-09T16:46:10.522Z
+updated: 2025-02-15T16:54:14.382Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 ![Dyson OnTrac on a glass table](https://www.zdnet.com/a/img/resize/bc9ed5c261980f98010653a2c94718bb6e364d2a/2024/08/22/04f54e6b-f2e8-4fb5-879d-11d3b74ae63a/ontrac-8.jpg?auto=webp&width=1280)
 
 Jada Jones/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -77,6 +81,10 @@ I frequently used the MyDyson app because I found OnTrac's controls finicky and 
 
 Dyson's out-of-the-box design choices don't end with the headphones; the carrying case is unique, too. The Slimline case is more like a sleeve for storing headphones, and its level of protection and functionality is as questionable as Apple's headphone "case." 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 [Dyson's OnTrac headphones](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=36310&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.dyson.com%2Fheadphones%2Fontrac%2Fcnc-copper) prove that innovation is still possible despite the saturation in the headphones market. 
@@ -106,11 +114,30 @@ If you want premium headphones with intuitive physical controls, great sound, an
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-android-screencasting-methods-unveiled/"><u>[New] 2024 Approved Android Screencasting Methods Unveiled</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-budget-computer-mastering-obs-configurations/"><u>[Updated] Budget Computer - Mastering OBS Configurations</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-top-10-customizable-tikfilters-for-unique-content/"><u>[Updated] Top 10 Customizable TikFilters for Unique Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-tutorial-for-free-burning-dvd-with-multiple-subtitle-formats-srtassssa-compatible-with-windows-11/"><u>Easy Tutorial for Free Burning DVD with Multiple Subtitle Formats (SRT/ASS/SSA) Compatible with Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-pass-the-next-chapter-for-xbox-live-gold-users/"><u>Game Pass: The Next Chapter for Xbox Live Gold Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-screen-recording-the-benefits-of-using-bandicam/"><u>In 2024, Mastering Screen Recording The Benefits of Using Bandicam</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-next-purchase-insights-from-toms-hardware-experts/"><u>Mastering Your Next Purchase - Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maxsun-debuts-backside-gpu-placement-on-their-latest-mini-itx-motherboard-a-game-changer/"><u>MaxSun Debuts Backside GPU Placement on Their Latest Mini-ITX Motherboard: A Game Changer!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-technologies-through-toms-hardware-wisdom/"><u>Navigating New Technologies Through Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-parts-through-toms-lens/"><u>Navigating the World of Computer Parts Through Tom's Lens</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tech-insights-with-tom-exploring-the-latest-in-hardware-innovation/"><u>Tech Insights with Tom - Exploring the Latest in Hardware Innovation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-electronics-wisdom-from-toms-hardware/"><u>The Ultimate Guide to Electronics: Wisdom From Tom's Hardware</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-visual-vault-in-depth-recorder-comparisons/"><u>The Visual Vault In-Depth Recorder Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-insights-on-the-latest-gadgets/"><u>Tom's Tech Reviews: In-Depth Insights on the Latest Gadgets</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo Android SIM Unlock APK</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-benefits-of-cumuluspros-standing-desk-surface-review/"><u>Unveiling the Benefits of CumulusPRO's Standing Desk Surface Review</u></a></li>
+</ul></div>
+

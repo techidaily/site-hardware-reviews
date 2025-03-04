@@ -1,7 +1,7 @@
 ---
 title: "Surprisingly Superior Sound: Discover Exceptional Earbuds Beyond Apple and Bose - On Special Offer | ZDNET Insights"
-date: 2024-09-19 20:12:16
-updated: 2024-09-20 10:11:12
+date: 2025-02-14T17:12:05.701Z
+updated: 2025-02-15T16:41:47.336Z
 tags:
   - headphones
 categories:
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
 
 Max Buondonno/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the deal?
 
 The [LG Tone Free T80 earbuds](https://www.jdoqocy.com/click-9041660-15865906-1721856070000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) are now $50 off, and ZDNET readers can get an additional $20 off with the code ZDNETTONE20 now through August 4, 2024\. 
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -87,6 +95,10 @@ Regarding the battery life; it's good, but not quite as good as advertised. LG s
 
 The battery life on the T80s is measured with the ANC off. When you turn it on, those estimates drop to five hours on a full charge and 20 hours with the case. In reality, I was able to get between 3.5 and 4.5 hours of battery life with ANC on, around six hours of battery life with it off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [LG Tone Free T80 earbuds](https://www.jdoqocy.com/click-9041660-15865906-1721856070000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) offer a solid feature set for $199\. I enjoyed their comfortable design and good sound quality, as well as the surprisingly solid ANC. Battery life could be better, and I'm still not sold on the whole Dolby Atmos spatial audio thing. But overall, I was surprised by how much I liked the T80s.
@@ -114,11 +126,29 @@ That being said, they can't match the pair of $149 earbuds I recommend to everyo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-essential-10-no-cost-video-conference-platforms-worklearn-edition/"><u>[New] Essential 10 No-Cost Video Conference Platforms Work/Learn Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-on-finding-optimal-free-srt-translator-services/"><u>[New] Expert Tips on Finding Optimal Free SRT Translator Services</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-peeling-back-the-layers-of-visual-past-a-guide-to-fb-image-searching-reversed/"><u>[New] In 2024, Peeling Back the Layers of Visual Past A Guide to FB Image Searching (Reversed)</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-crucial-steps-for-altering-songs-playback-rate-in-spotify/"><u>[Updated] In 2024, Crucial Steps for Altering Songs' Playback Rate in Spotify</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-economical-aerial-aviators-affordable-drones-guide-(500/"><u>2024 Approved Economical Aerial Aviators Affordable Drones Guide <$500</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-cutting-edge-learning-with-the-brainiac-raspberry-pi-ai-kit-evaluation/"><u>Experience Cutting-Edge Learning with the 'Brainiac' Raspberry Pi AI Kit Evaluation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-breakdown-the-blend-of-excellent-sonic-qualities-and-simplicity-in-the-beyerdynamic-mmx-30e-pro-headphones/"><u>Expert Breakdown: The Blend of Excellent Sonic Qualities and Simplicity in the Beyerdynamic MMX 30E Pro Headphones</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-backup-dropbox-files-to-sd-card-using-windows-os/"><u>How to Backup Dropbox Files to SD Card Using Windows OS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-hardware-choices-with-expert-advice-from-toms-domain/"><u>Mastering Modern Hardware Choices with Expert Advice From Tom's Domain</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pi52-icetower-plus-revolutionizes-raspberry-pi-5-cooling-efficiency-in-our-in-depth-review/"><u>Pi52 IceTower Plus Revolutionizes Raspberry Pi 5 Cooling Efficiency in Our In-Depth Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quintessential-filters-to-perfect-ocean-shoots-for-2024/"><u>Quintessential Filters to Perfect Ocean Shoots for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-comparison-patriot-viper-vp4300-lite-4tb-ssd-high-capacity-meets-reasonable-pricing/"><u>The Ultimate Comparison: Patriot Viper VP4300 Lite 4TB SSD - High Capacity Meets Reasonable Pricing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-s18-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo S18 Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-expert-review-on-the-id-cooling-frozn-a62ebit-pro-series-for-enthusiasts/"><u>Unveiling the Power: Expert Review on the ID-Cooling Frozn A62ebit - Pro Series for Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/western-digitals-latest-achievement-in-storage-an-intriguing-review-of-the-4tb-wd-blue-sn50n0-ssd/"><u>Western Digital's Latest Achievement in Storage: An Intriguing Review of the 4TB WD Blue SN50n0 SSD</u></a></li>
+</ul></div>
+

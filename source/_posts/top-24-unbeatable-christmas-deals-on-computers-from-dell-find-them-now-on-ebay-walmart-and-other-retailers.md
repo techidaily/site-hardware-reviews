@@ -1,7 +1,7 @@
 ---
 title: Top 24 Unbeatable Christmas Deals on Computers From Dell - Find Them Now on eBay, Walmart & Other Retailers!
-date: 2025-02-01T01:35:42.949Z
-updated: 2025-02-03T04:22:29.582Z
+date: 2025-02-08T17:28:16.678Z
+updated: 2025-02-15T17:11:12.666Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ It also just so happens to coincide with [back-to-school sales](https://www.zdne
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Our favorite laptop deals for Labor Day 2024
@@ -40,6 +40,10 @@ Kerry Wan/ZDNET
 * [Lenovo ThinkPad X1 Carbon Gen 11](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-21HM002DUS-i7-1355U-1920x1200%2Fdp%2FB0CCKS8FVL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb033c5c8-f141-4e55-867b-8096aab20dab%7Cdtp&dtb=1) for $1,096 (Save $303): We went [hands-on with the latest generation](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/) of Lenovo's ThinkPad X1 Carbon line earlier this year and were impressed with its smart design and high performance. Last year's version is still a solid choice, however, especially at $300 off.
 * [HP Newest 14" Ultra Light Laptop for Students](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Students-Business-Quad-Core-Storage%2Fdp%2FB0B2D77YB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb033c5c8-f141-4e55-867b-8096aab20dab%7Cdtp&dtb=1) for $249: If you're looking for a portable, inexpensive laptop to bring to school or the office, it doesn't get much more affordable than this.
 * [MSI Prestige 13](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fmsi-a1mg-002us-13-3-intel-core-ultra-5-125h-16gb-intel-arc-graphics-512-gb-pcie%252Fp%252FN82E16834156582) for $720 (Save $330): [We tested MSI's Prestige 13](https://www.zdnet.com/article/forget-macbook-air-this-windows-alternative-is-just-as-lightweight-and-full-of-features/) earlier this year and couldn't help but compare it to the MacBook for its sleek, ultraportable form factor. Creators will love the performance and, at this price, could act as a secondary or travel machine that's more than ready to tackle visual workflows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best gaming laptop deals for Labor Day 2024
 
@@ -93,14 +97,10 @@ The first thing you notice about Samsung's Galaxy Book 4 Ultra is the gorgeous d
 
 [View now at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-books%2Fgalaxy-book4-series%2Fbuy%2Fgalaxy-book4-ultra-16-intelcore-ultra-7-1tb-moonstone-gray-np960xgl-xg2us%2F&publisher_slug=itechdaily19598&exclusive=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Labor Day HP deals
@@ -111,6 +111,10 @@ Kyle Kucharski/ZDNET
 * [HP 15.6" Chromebook](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-15-6-chromebook-intel-processor-n200-8gb-memory-64gb-emmc-natural-silver%2F6535992.p&publisher_slug=itechdaily19598&exclusive=1) for $199 (Save $200)
 * [HP Omen](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-omen-16-1-165hz-full-hd-gaming-laptop-intel-core-i9-16gb-ddr5-memory-nvidia-geforce-rtx-4060-1tb-ssd-shadow-black%2F6589390.p%3FskuId%3D6589390&publisher_slug=itechdaily19598&exclusive=1) for $999 (save $400)
 * [HP Envy 16" Ultra XGA Touchscreen Laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-envy-16-wide-ultra-xga-touch-screen-laptop-intel-core-i7-16gb-memory-nvidia-geforce-rtx-4060-1tb-ssd-natural-silver%2F6572058.p&publisher_slug=itechdaily19598&exclusive=1) for $1,100 (save $400)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Labor Day Chromebook deals
 
@@ -127,10 +131,6 @@ Kerry Wan/ZDNET
 
 * [Apple MacBook Air M1](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) for $649 (Save $50): Walmart is offering Apple's M1 laptop for a price drop. It's one of the least expensive ways to get a brand-new, lightweight Mac with excellent performance.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More Labor Day 2024 laptop deals
 
 Lenovo
@@ -139,10 +139,6 @@ Lenovo
 * [Dell Inspiron 15](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-inspiron-15-touch-screen-laptop-intel-core-i5-8gb-512gb-ssd-carbon-black%2F6573731.p&publisher_slug=itechdaily19598&exclusive=1) for $380 (Save $250): With 8 gigs of RAM and 512GB of storage, this is a great sale price on one of the most well-rounded laptops on the market.
 * [Lenovo IdeaPad 1 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-IdeaPad-Ryzen5-5500U-1920x1080-Storage%2Fdp%2FB0CJB5N9BQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb033c5c8-f141-4e55-867b-8096aab20dab%7Cdtp&dtb=1) for $304 (Save $25): Lenovo's IdeaPad 1 is a solid budget pick for a work laptop, with enough hardware to cover day-to-day productivity.
 * [Asus Vivobook 15 (2023)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Vivobook-Windows-Transparent-M515DA-WS33%2Fdp%2FB0CRDCFNHW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb033c5c8-f141-4e55-867b-8096aab20dab%7Cdtp&dtb=1) for $269 (Save $60): Last year's Vivobook is highly marked down, but it still has the sharp, FHD display the series is known for, along with a Ryzen 3 processor and 8 gigs of RAM.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -153,6 +149,10 @@ Labor Day is Monday, September 2nd, 2024, but many products will go on sale befo
 ### Are laptops really cheaper during Labor Day sales?
 
 Absolutely. Some of the markdowns on these laptops are the lowest we've ever seen. Labor Day holds a unique position in the calendar year because it's after all the product launches of the first half of the year, yet before the huge ramp-up in sales for the holidays. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is the cheapest time of year to buy a laptop?
 
@@ -202,21 +202,16 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-step-by-step-methodology-for-video-filter-addition-on-tech-devices/"><u>[New] 2024 Approved Step-by-Step Methodology for Video Filter Addition on Tech Devices</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-smooth-and-quick-download-4-websites-for-tones/"><u>[New] In 2024, Smooth and Quick Download 4 Websites for Tones</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-luminous-upgrades-5-must-try-online-video-tools/"><u>[Updated] 2024 Approved Luminous Upgrades 5 Must-Try Online Video Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-precision-with-the-new-logitech-g515-lightspeed-tkl-a-low-profile-mechanical-keyboard-review/"><u>Affordable Precision with the New Logitech G515 Lightspeed TKL: A Low Profile Mechanical Keyboard Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-netgear-orbi/"><u>Budget-Friendly Netgear Orbi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-pixel-to-prospectus-the-top-7-generators-for-artistic-conversion/"><u>From Pixel to Prospectus - The Top 7 Generators for Artistic Conversion</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-magic-5-lite-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor Magic 5 Lite</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unplugged-joy-a-list-of-great-offline-ipad-games/"><u>In 2024, Unplugged Joy A List of Great Offline iPad Games</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/intel-iris-xe-graphics-software-update-for-windows-11-available-now/"><u>Intel Iris Xe Graphics Software Update for Windows 11 Available Now</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-through-new-technology-with-toms-hardware-insights/"><u>Navigate Through New Technology with Tom's Hardware Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-through-disorder-revolutionary-fixes-for-cluttered-linux-and-open-source-guides-on-zdnet/"><u>Navigating Through Disorder: Revolutionary Fixes for Cluttered Linux & Open-Source Guides on ZDNet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/substance-related-behaviors-leading-to-increased-exposure/"><u>Substance-Related Behaviors Leading to Increased Exposure</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-hardware-analysis/"><u>Tom's Tech Reviews: In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/the-hours-off-custom-youtube-shorts-image-creation-for-2024/"><u>Trim The Hours Off Custom YouTube Shorts Image Creation for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-the-gigabyte-g6x-adequate-for-play-yet-lacking-in-impressive-features/"><u>Unboxing & Testing the Gigabyte G6X: Adequate for Play, Yet Lacking in Impressive Features</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-tech-secrets-with-toms-comprehensive-hardware-analysis/"><u>Unveiling High-Tech Secrets with Tom's Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-simplified-approach-to-decoding-facebook-statistics-for-2024/"><u>[New] Simplified Approach to Decoding Facebook Statistics for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-harnessing-technology-the-art-of-capturing-ios-devices-in-media/"><u>[Updated] Harnessing Technology The Art of Capturing iOS Devices in Media</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-unleashing-your-cellphones-potential-in-videography/"><u>[Updated] In 2024, Unleashing Your Cellphone's Potential in Videography</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-plain-definitions-in-storytelling-basics/"><u>[Updated] Plain Definitions in Storytelling Basics</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/fifa-visuals-key-youtube-video-trends/"><u>FIFA Visuals Key YouTube Video Trends</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-needs-with-expert-guides-from-toms-hardware/"><u>Mastering Your Tech Needs with Expert Guides From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-through-technology-with-toms-gear-hub/"><u>Navigate Through Technology With Tom's Gear Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/performance-meets-savings-in-our-lenovo-legion-pro-5i-gen-9-review-a-must-have-for-value-driven-gamers/"><u>Performance Meets Savings in Our Lenovo Legion Pro 5I (Gen 9) Review: A Must-Have for Value-Driven Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/powerbook-520c-back-from-history-now-features-a-refined-ipad-touchscreen-and-the-heart-of-a-201n5-core-i5-macbook-pro/"><u>PowerBook 520C Back From History: Now Features a Refined iPad Touchscreen & the Heart of a 201N5 Core I5 MacBook Pro!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-exclusive-savings-cut-700-from-your-price-tag-for-this-beastly-rtx-4090-gaming-laptop-by-alienware/"><u>Score Exclusive Savings: Cut $700 From Your Price Tag for This Beastly, RTX 4090 Gaming Laptop by Alienware!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo Y100i? | Dr.fone</u></a></li>
 </ul></div>
 

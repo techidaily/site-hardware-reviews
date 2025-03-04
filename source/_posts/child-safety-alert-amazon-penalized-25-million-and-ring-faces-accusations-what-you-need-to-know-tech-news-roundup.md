@@ -1,7 +1,7 @@
 ---
 title: "Child Safety Alert: Amazon Penalized $25 Million & Ring Faces Accusations - What You Need to Know | Tech News Roundup"
-date: 2024-09-18 17:49:24
-updated: 2024-09-20 11:41:43
+date: 2025-02-10T16:55:58.207Z
+updated: 2025-02-15T17:01:08.389Z
 tags:
   - cyber-threats
 categories:
@@ -53,6 +53,10 @@ As far as the demands in the order, Amazon will have to delete inactive child ac
 
 "We built Alexa with strong privacy protections and customer controls, designed Amazon Kids to comply with COPPA, and collaborated with the FTC before expanding Amazon Kids to include Alexa", the statement from Amazon read. "As part of the settlement, we agreed to make a small modification to our already strong practices, and will remove child profiles that have been inactive for more than 18 months unless a parent or guardian chooses to keep them".
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Ring doorbell charged for illegally surveilling customers
 
 Ring, a home security company owned by Amazon, is also facing charges by the FTC for compromising user privacy. According to [a separate order](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users), Ring failed to provide basic privacy and security protections by allowing its employees and contractors illegal access to private videos of its customers.
@@ -88,11 +92,27 @@ No information on how the customer refunds would be distributed is available at 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-enhance-fb-story-visibility-with-these-tips/"><u>[Updated] Enhance FB Story Visibility with These Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cost-effective-audio-equipment-for-newcomers/"><u>[Updated] In 2024, Cost-Effective Audio Equipment for Newcomers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delve-into-digital-unraveling-the-wonders-of-technology-with-toms-guidance/"><u>Delve Into Digital: Unraveling the Wonders of Technology with Tom's Guidance</u></a></li>
+<li><a href="https://discover-great.techidaily.com/enhance-your-livestreams-using-manycams-advanced-video-editing-and-virtual-cam-capabilities/"><u>Enhance Your Livestreams Using ManyCam's Advanced Video Editing and Virtual Cam Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-with-toms-in-depth-reviews-and-buying-guides/"><u>Exploring Hardware with Tom's: In-Depth Reviews & Buying Guides</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2172907-9781908556677-laughing-buddha-waving-cat/"><u>Laughing Buddha, Waving Cat | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964477196-pure-base-500dx-mid-tower-desktop-chassis-steal-the-deal-at-only-84/"><u>Pure Base 500DX Mid Tower Desktop Chassis - Steal the Deal at Only $84</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-lian-li-s-sup01-micro-atx-case-upfront-gpu-placement-and-back-to-future-mobo-connectivity-for-enhanced-gaming-experience/"><u>Revolutionary Lian Li 'S' SUP01 Micro ATX Case: Upfront GPU Placement & Back-to-Future Mobo Connectivity for Enhanced Gaming Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-in-depth-reviews-and-guides-by-toms-hardware/"><u>Tom's Tech Hub: In-Depth Reviews and Guides by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964474740-upcoming-transparent-customization-options-for-your-steam-deck/"><u>Upcoming Transparent Customization Options for Your Steam Deck</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-when-the-run-command-wont-save-history-on-windows/"><u>What to Do When the Run Command Won’t Save History on Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-introduction-design-made-simple-and-inexpensive-for-2024/"><u>YouTube Introduction Design Made Simple and Inexpensive for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Get a Powerhouse 15-Inch Asus Notebook at an Unbeatable Price of $2ˈ/ ZDNET's Inside Scoop on Walmart’s Latest Offer!
-date: 2025-01-29T01:06:01.381Z
-updated: 2025-02-03T04:19:41.017Z
+date: 2025-02-08T17:12:55.636Z
+updated: 2025-02-15T16:41:38.488Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,15 +63,16 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-essential-tactics-for-viral-fb-video-marketing/"><u>[Updated] 2024 Approved Essential Tactics for Viral FB Video Marketing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1-successful-steps-adding-your-dvd-collection-to-apple-tv-via-ripping/"><u>1. Successful Steps: Adding Your DVD Collection to Apple TV via Ripping</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/compact-crownote-analysis-app-your-guide-to-portable-electrified-diy-projects/"><u>Compact CrowNote Analysis App: Your Guide to Portable Electrified DIY Projects</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/compact-innovation-on-the-go-hackberry-pi-zero-empowers-hands-on-creators-in-a-pocket-sized-package/"><u>Compact Innovation on the Go - Hackberry Pi Zero Empowers Hands-On Creators in a Pocket-Sized Package</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-sunfounder-pironman-5-bicycle-assessment-necessity-of-precise-construction-steps/"><u>Comprehensive SunFounder Pironman 5 Bicycle Assessment: Necessity of Precise Construction Steps</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Realme 11X 5G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-permission-fixes-resolve-access-denied-headaches-for-windows-files-and-folders/"><u>Mastering Permission Fixes: Resolve 'Access Denied' Headaches for Windows Files & Folders</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-honor-magic-6-pro-by-drfone-android/"><u>Three Ways to Sim Unlock Honor Magic 6 Pro</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-raspberry-pi-offers-and-savings/"><u>Top Raspberry Pi Offers and Savings</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-13-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 13 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-prime-windows-10-photoviewing-suite/"><u>[New] Prime Windows 10 Photoviewing Suite</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-soundscapes-for-the-eye-ranking-the-best-photographers-plus-videographers-w-tunes/"><u>[New] Soundscapes for the Eye Ranking the Best Photographers + Videographers W/ Tunes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-asus-rog-azoth-gaming-laptop-extreme-evaluation-500-price-point/"><u>Comprehensive Asus ROG Azoth Gaming Laptop (Extreme) Evaluation - $500 Price Point</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-modern-gear-from-your-go-to-source-toms-hardware/"><u>Expert Advice on Modern Gear From Your Go-To Source, Tom's Hardware</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/expert-analysis-the-alienware-pro-wireless-keyboard-balancing-luxury-and-performance-in-gaming/"><u>Expert Analysis: The Alienware Pro Wireless Keyboard - Balancing Luxury and Performance in Gaming</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341746651-experts-rating-in-depth-analysis-of-dough-spectrum-black-the-ultimate-27-oled-gaming-display-with-superior-color-fidelity-and-exceptional-responsiveness/"><u>Experts' Rating: In-Depth Analysis of Dough Spectrum Black - The Ultimate 27 OLED Gaming Display with Superior Color Fidelity & Exceptional Responsiveness!</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/free-alternatives-to-backup-and-sync-now-that-its-discontinued/"><u>Free Alternatives to Backup & Sync Now That It's Discontinued</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-apple-books-software-a-thorough-critique-and-analysis/"><u>The Apple Books Software: A Thorough Critique and Analysis</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/unveiling-history-assessing-the-influence-of-chinas-original-republican-era-insights-by-yl-tech/"><u>Unveiling History: Assessing the Influence of China’s Original Republican Era – Insights by YL Tech</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-pros-and-cons-of-hostgators-vps-and-shared-hosting-services/"><u>Unveiling the Pros and Cons of HostGator's VPS and Shared Hosting Services</u></a></li>
 </ul></div>
 

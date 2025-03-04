@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Verdict on Jabra Elite 5: Striking the Ideal Price-to-Feature Ratio, as Rated by ZDNet"
-date: 2024-09-17 23:51:39
-updated: 2024-09-20 10:51:24
+date: 2025-02-12T16:58:51.412Z
+updated: 2025-02-15T16:23:14.433Z
 tags:
   - headphones
 categories:
@@ -36,6 +36,10 @@ Admittedly, it's a bit of a challenge to figure out which Jabra Elite earbud is 
 
 After figuring out what your top price level is for a set, dive into some of the features and functions. The Elite 5 has a slightly shorter battery life and the water resistance level is just a bit lower than the Elite 7 Pro. Compared to the [Elite 3](https://www.zdnet.com/product/jabra-elite-3-true-wireless-earphones-with-mic/), the Elite 5 has ANC and a wireless charging case so there are some feature differences between all of the models.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Microphones           | Six microphones with wind noise reduction                        |
@@ -47,6 +51,10 @@ After figuring out what your top price level is for a set, dive into some of the
 | Battery life          | 7 hours with 21 more hours provided by charging case             |
 | Wireless connectivity | Bluetooth multipoint with Google Fast Pair, Microsoft Swift Pair |
 | Earbud weight         | TBD                                                              |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Hardware
 
@@ -74,6 +82,10 @@ A large physical button is positioned on the outside surface of the Elite 5 and 
 
 **Also: [Jabra Elite 3 review: Forget AirPods, these $80 earbuds offer more for less](https://www.zdnet.com/product/jabra-elite-3-true-wireless-earphones-with-mic/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Smartphone software
 
 * **Needed for full experience**
@@ -96,6 +108,10 @@ Matthew Miller/ZDNet
 
 [Early-bird offer: Jabra Elite 5 $130 at Jabra](https://www.jdoqocy.com/click-9041660-15459428-1676571532000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 The [Jabra Elite 7 Pro](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.jabra.com/bluetooth-headsets/jabra-elite-7-pro) received a software update to address a couple of the issues I had before with that model and I also see the price for them is currently down to $129.99, a $70 reduction. The Elite 7 Pro fit a bit differently than the Elite 5 and while they are good for my ears, I prefer the fit of the Elite 5\. The 7 Pro provides a bit longer battery life and are optimized for calling.
@@ -103,6 +119,10 @@ The [Jabra Elite 7 Pro](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-
 At $149.99 (currently [marked down to $130](https://www.kqzyfj.com/click-9041660-15415754-1671657513000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)), the Elite 5 is a solid earbud as long as you are not looking for a powerful and noticeable active noise-cancellation experience. While ANC is subtle, I listened to music and podcasts on a recent flight and the annoying airplane background noises were canceled out fairly well. In a quiet environment I did not notice much ANC, but then again some people may prefer not to have such strong ANC in their ears.
 
 Battery life over the past couple of weeks has been as advertised, I love the Gold Beige color, the earbuds snap securely into the case, charging via a cable or wireless charging pad is great, music and movies have sounded awesome, and callers have been very satisfied with my audio quality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -135,11 +155,26 @@ There are a few Jabra options available, including the Elite 7 Pro and Elite 3, 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-mobile-magic-instagram-covers-iphone-plus-android/"><u>[New] Mobile Magic Instagram Covers IPhone + Android</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-optimizing-hashtag-performance-on-facebook-ads/"><u>[Updated] Optimizing Hashtag Performance on Facebook Ads</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-vivo-y100t-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Vivo Y100t to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-microsofts-surface-pro-with-copilotplus-stunning-design-meets-modest-ai-capabilities/"><u>Evaluating Microsoft's Surface Pro with Copilot+: Stunning Design Meets Modest AI Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-performance-of-levelplay-combat-air-ca4-cpu-cooler-unmatched-quietness-and-reliability/"><u>Evaluating the Performance of Levelplay Combat Air CA4 CPU Cooler: Unmatched Quietness & Reliability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-top-notch-equipment-with-toms-hardware-insights/"><u>Exploring Top-Notch Equipment with Tom's Hardware Insights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-educators-excellence-the-best-10-recording-equipment-rankings/"><u>In 2024, Educator's Excellence The Best 10 Recording Equipment Rankings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oppo-find-n3-flip-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Oppo Find N3 Flip to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-patriot-viper-vp4300-lite-4tb-high-capacity-low-cost-reviewed/"><u>In-Depth Look at the Patriot Viper VP4300 Lite 4TB: High Capacity, Low Cost Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/latest-android-automotive-update-enhances-user-experience-with-added-bluetooth-headphone-compatibility-tech-news-by-zdnet/"><u>Latest Android Automotive Update Enhances User Experience with Added Bluetooth Headphone Compatibility - Tech News by ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-fps-for-a-smoother-forza-horizon-5-experience-on-computer/"><u>Optimizing FPS for a Smoother Forza Horizon 5 Experience on Computer</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unlocking-tech-secrets-thorough-reviews-and-tips-by-toms-gear-experts/"><u>Unlocking Tech Secrets: Thorough Reviews and Tips by Tom's Gear Experts</u></a></li>
+</ul></div>
+

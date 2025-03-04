@@ -1,7 +1,7 @@
 ---
 title: Discover When Black Friday Occurs & Unveil the Best Deals Locations | Insights by ZDNET
-date: 2025-01-30T18:09:56.393Z
-updated: 2025-02-03T04:50:02.303Z
+date: 2025-02-13T16:23:48.316Z
+updated: 2025-02-15T16:42:06.675Z
 tags:
   - laptops
 categories:
@@ -22,13 +22,13 @@ I've scoured the site to find the best deals on everything from gaming PCs and S
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday 2023 Newegg deals
 
 ![An MSI Modern 14 laptop on a blue background](https://www.zdnet.com/a/img/resize/5c8bdb145c79b7395c0743cd9d856b4df611cb4d/2023/11/17/7bcdb4cf-3869-419a-bb3b-03b2acc9be6b/msi-modern-14.jpg?auto=webp&width=1280)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 MSI/ZDNET
 
@@ -44,7 +44,7 @@ MSI/ZDNET
 * [EVGA XR1 Pro capture card](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fevga-144-u1-cb21-lr-usb-3-1-type-c%252Fp%252FN82E16815101015): $90 (save $130)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Newegg holiday desktop deals
@@ -78,10 +78,6 @@ Dell/ZDNET
 * [Gigabyte G5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16834233559): $750 (save $349)
 * [Acer Nitro 5:](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fobsidian-black-acer-nitro-5-an515-58-73rs-gaming%252Fp%252F2WC-000K-027V4) $860 (save $320)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Newegg Holiday PC component deals
 
 * [Intel Core i9-12900K](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fintel-core-i9-12900k-core-i9-12th-gen%252Fp%252FN82E16819118339): $340 (save $310)
@@ -109,10 +105,6 @@ Dell/ZDNET
 * [Samsung Odyssey G9 OLED 49-inch curved smart gaming monitor](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsilver-metal-samsung-ls49cg954snxza-49%252Fp%252FN82E16824027256): $1300 (save $500)
 * [Acer Predator X45 45-inch curved monitor](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16824011463): $1200 (save $400)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When is Black Friday 2023?
 
 In the United States, the popular shopping day known as Black Friday takes place the day after Thanksgiving. This year, Black Friday will be November 24\. And if you aren't able to keep an eye on digital sales events or make it to a store in person: many retailers like [Amazon](https://www.zdnet.com/home-and-office/the-best-early-black-friday-2023-amazon-deals/), [Best Buy](https://www.zdnet.com/home-and-office/the-best-early-best-buy-black-friday-2023-deals/), and Walmart extend sales and deals events through the weekend and into the Monday or even Tuesday after Thanksgiving. This is typically known as the Cyber 5 event, with each day having a loose theme for sales purposes: Black Friday, Small Business Saturday (for shopping at local stores), Cyber Sunday/Monday (focusing on internet retailers like Amazon), and Giving Tuesday (focusing on charitable donations). 
@@ -120,7 +112,7 @@ In the United States, the popular shopping day known as Black Friday takes place
 Newegg is running their Black Friday sales event through November 25th, backed by their Black Friday price guarantee to automatically refund you the difference if the price drops on what you bought before the 25th.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these early Black Friday deals?
@@ -129,6 +121,10 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best gaming PC?
 
  My choice for the [best gaming PC](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-pc/) is the Alienware Aurora R15 for its liquid cooling system, dual storage drives, and range of configuration options. You can create your own build with either an Intel or AMD-based chipset, and with up to an RTX 4080 graphics card for all the power you need to play the latest triple-A PC games. 
@@ -136,6 +132,10 @@ We also looked over customer reviews to find out what matters to real people who
 ## Does Newegg have a Black Friday price guarantee?
 
 Newegg launched their [Black Friday price guarantee](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Fpromotions%2Fnepro%2F23-1613%2Findex.html%23%3A%7E%3Atext%3DThe%2520Program%2520guarantees%2520that%2520our%2Cthrough%2520Nov.%252016%252C%25202023.) policy back in 2021, which applies to products sold and shipped by Newegg themselves. Products that are eligible for the program have a special badge on their store page, guaranteeing that you're getting the best price. And if the price drops before Black Friday, Newegg will automatically refund you the difference. No claim ticket or price tracking necessary. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best early Black Friday deals right now?
 
@@ -203,21 +203,24 @@ ZDNET's experts have been searching for early Black Friday deals across sites li
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-advanced-filming-techniques-for-your-live-streaming-needs-using-logitech-cam/"><u>[Updated] In 2024, Advanced Filming Techniques for Your Live-Streaming Needs Using Logitech Cam</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1-expert-analysis-the-unmatched-elegance-and-power-of-the-samsung-galaxy-s23-ultra/"><u>1. Expert Analysis: The Unmatched Elegance and Power of the Samsung Galaxy S23 Ultra</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-guide-to-quality-iphone-filmmaking-top-8-tips/"><u>2024 Approved The Ultimate Guide to Quality iPhone Filmmaking (Top 8 Tips)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-misinterpretation-phenomena-recognizing-and-handling-digital-illusions/"><u>AI Misinterpretation Phenomena: Recognizing and Handling Digital Illusions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/altering-default-communication-software-on-android-devices/"><u>Altering Default Communication Software on Android Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/android-13-release-latest-features-and-availability-dates/"><u>Android 13 Release: Latest Features & Availability Dates</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/are-airpods-compatible-with-android-devices/"><u>Are AirPods Compatible with Android Devices?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/complete-tutorial-how-to-successfully-run-the-android-n-13-preview-on-smartphones/"><u>Complete Tutorial: How to Successfully Run the Android N 13 Preview on Smartphones</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/concealing-images-and-footage-on-your-samsung-smartphone-a-comprehensive-guide/"><u>Concealing Images & Footage on Your Samsung Smartphone: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-best-overlooked-2-in-1-robot-cleaner-thats-outperforming-established-names-a-surprising-revelation-smarthometechreview/"><u>Discover the Best Overlooked 2-in-1 Robot Cleaner That's Outperforming Established Names – A Surprising Revelation | SmartHomeTechReview</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-nokia-105-classic-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Nokia 105 Classic to Protect Your Individual Information</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862859663-revealed-the-ultimate-guide-to-the-newly-unveiled-evga-classified-x67t-amd-board-demanding-over-1300/"><u>Revealed: The Ultimate Guide to the Newly Unveiled EVGA Classified X67t AMD Board - Demanding Over $1,300!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-comprehensive-walkthrough-refreshing-your-pc-to-factory-conditions-on-windows-n11/"><u>The Comprehensive Walkthrough: Refreshing Your PC to Factory Conditions on Windows N11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-10-awesome-mobile-gaming-experiences-without-internet/"><u>Top 10 Awesome Mobile Gaming Experiences Without Internet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-building-a-vimeo-portfolio-from-the-ground-up-for-2024/"><u>[Updated] Building a Vimeo Portfolio From the Ground Up for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-engaging-subjects-for-consistent-vlogging-for-2024/"><u>[Updated] Engaging Subjects for Consistent Vlogging for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-enhancing-youtube-viewing-experience-with-right-video-formats-for-2024/"><u>[Updated] Enhancing YouTube Viewing Experience with Right Video Formats for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-essential-polarr-tips-for-pro-level-photography-editing/"><u>[Updated] Essential Polarr Tips for Pro-Level Photography Editing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-cross-social-video-broadcasting-from-twitter-to-snapchat/"><u>2024 Approved Cross-Social Video Broadcasting From Twitter, To Snapchat</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-speed-demon-with-style-in-depth-evaluation-of-flsun-s1-model/"><u>A Speed Demon with Style – In-Depth Evaluation of FLSun S1 Model</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-platforms-maximizing-your-youtube-reach/"><u>Best Platforms Maximizing Your YouTube Reach</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bringing-color-to-your-gameplay-viewsonics-240hz-xg272-oled-monitor-reviewed-in-detail/"><u>Bringing Color to Your Gameplay: ViewSonic's 240Hz XG272 OLED Monitor Reviewed in Detail</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-x-fold-2-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo X Fold 2 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-nokia-c22-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Nokia C22 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-insight-into-akasa-geckos-blower-cooler-performance-in-securing-enhanced-ssd-temperature-regulation/"><u>In-Depth Insight Into Akasa Gecko's Blower Cooler Performance in Securing Enhanced SSD Temperature Regulation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-hostinger-comparing-their-vps-cloud-compute-and-shared-server-services/"><u>In-Depth Review of Hostinger - Comparing Their VPS, Cloud Compute, and Shared Server Services</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-digital-workshop-a-closer-look-at-cutting-edge-hardware/"><u>Inside Tom's Digital Workshop: A Closer Look at Cutting-Edge Hardware</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/lighten-up-the-internet-craft-memes-with-kapwing-for-2024/"><u>Lighten Up the Internet Craft Memes With Kapwing for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-computer-setup-advanced-reviews-by-toms-hardware-experts/"><u>Master Your Computer Setup: Advanced Reviews by Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-hardware-with-toms-authority/"><u>Navigating the World of Computer Hardware with Tom's Authority</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-id-cooling-frozn-a620-pro-se-revolutionizing-value-with-advanced-cooling-innovation-for-pc-enthusiasts/"><u>The ID-Cooling Frozn A620 Pro SE: Revolutionizing Value with Advanced Cooling Innovation for PC Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-definitive-guide-to-computer-components/"><u>Tom's Tech Insights: The Definitive Guide to Computer Components</u></a></li>
 </ul></div>
 

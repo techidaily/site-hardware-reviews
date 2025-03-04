@@ -1,7 +1,7 @@
 ---
 title: "Sony INZINE-H9 Evaluation: A Comprehensive Guide Comparing It to the Ultimate XM5 in Gaming Audio - ZDNet"
-date: 2024-09-17 15:20:10
-updated: 2024-09-20 10:48:53
+date: 2025-02-10T16:05:30.345Z
+updated: 2025-02-15T17:09:08.890Z
 tags:
   - headphones
 categories:
@@ -90,9 +90,17 @@ On the bottom of the headphones, you'll find the power button, Bluetooth pairing
 
 Lastly, a boom mic that stems from the left earcup completes the gaming headset requirements for the H9\. It's not detachable but is malleable enough to twist, rotate, and flex to your ideal microphone position. Sony also added a clicking mechanism to the mic so that when you lift it back up, your audio output switches to mute. As for the input quality, there's definitely something left to be desired. On either connection channel, my voice sounded raspy and lacking in clarity. The H9's microphone isn't the worst that I've tested but falls behind the likes of the [Corsair Virtuoso](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07VSHL7V6%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7f125c1d-3ea1-43b2-8ad6-d48b0a952c7e%7Cdtp&dtb=1) and [Audio-Technica ATH-G1](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAudio-Technica-ATH-G1-Premium-Detachable-Connector%2Fdp%2FB07T4M8GJV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7f125c1d-3ea1-43b2-8ad6-d48b0a952c7e%7Cdtp&dtb=1). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Performance
 
 The best way for me to describe the sound quality of the H9 headphones is rich and multi-dimensional. I was surprised to find the default sound profile of the H9 to be adequate and balanced just right. But if you're more in favor of a bass-heavy sound or want to emphasize the higher frequencies, Sony's companion software, INZONE Hub, lets you tweak the equalizer settings of the headphones. More on the app later.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Spatial Sound
 
@@ -130,6 +138,10 @@ Bouncing between the 2.4GHz and Bluetooth connections, there wasn't any noticeab
 
 If you're pairing the H9 to a PlayStation 5, you'll even gain support for Tempest 3D Audiotech and on-screen indicators for volume and battery levels, mic status, and game/chat balance. Note that the overlays are only available for the H9 and H7 models.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Software
 
 Beyond the scope of physical settings buttons, the H9 can be modified via Sony's INZONE Hub. As companion apps should, the program allows you to fine-tune the equalizer settings of the headset, its noise-canceling modes and strength, volume levels for the master channel and game/chat channel, and more. The Spatial Sound setting is turned off by default, so make sure you toggle it to get the immersive gaming experience that I praised earlier.
@@ -148,11 +160,19 @@ June Wan/ZDNet
 
 [Buy the Sony INZONE H9 $228 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1221885796&subId1=zd-__COM_CLICK_ID__-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line  
 
 There's a lot to like about the [INZONE H9](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-inzone-h9-wireless-noise-canceling-gaming-headset-white%2F6510363.p%3FskuId%3D6510363&publisher_slug=itechdaily19598&exclusive=1), including its sound performance, clean design, and software support. It helps immensely that Sony carried over key features from its WH1000-XM line, including the same noise-canceling tech that earned the XM5 a top spot on ZDNet's [headset rankings](https://www.zdnet.com/article/best-noise-canceling-headphones/). 
 
 Is this the perfect gaming headset? Almost. I'd love to see Sony implement some form of vibrational feedback in the INZONE H9, much like Razer's HyperSense technology on its [high-end headphones](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Kraken-HyperSense-Headset-Technology%2Fdp%2FB09HJC1X9P%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7f125c1d-3ea1-43b2-8ad6-d48b0a952c7e%7Cdtp&dtb=1). That, paired with the PS5's [DualSense controller](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDualSense-Wireless-Controller-PlayStation-5%2Fdp%2FB08FC6C75Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7f125c1d-3ea1-43b2-8ad6-d48b0a952c7e%7Cdtp&dtb=1) would make the H9 the undisputed accessory to buy for PlayStation owners. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -191,11 +211,30 @@ Before there was INZONE, there was the Pulse 3D, a wireless headset dedicated to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-add-a-personal-touch-using-branded-graphic-elements-in-your-instagram-content/"><u>[New] 2024 Approved Add a Personal Touch Using Branded Graphic Elements in Your Instagram Content</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-legality-check-taking-screencasts-of-youtube-videos/"><u>[New] 2024 Approved Legality Check Taking Screencasts of YouTube Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-pro-tips-for-kinemaster-dominance-plus-best-digital-platforms-on-the-web/"><u>[New] In 2024, Pro Tips for KineMaster Dominance + Best Digital Platforms on the Web</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebooks-micro-video-revolution-insights-into-2023-landscape-for-2024/"><u>[Updated] Facebook's Micro-Video Revolution Insights Into 2023 Landscape for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-color-grading-techniques-unraveling-the-mystery-of-luts/"><u>[Updated] In 2024, Color Grading Techniques Unraveling the Mystery of LUTs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-subtle-reduction-of-volume-in-fl-studio/"><u>[Updated] In 2024, Subtle Reduction of Volume in FL Studio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-restore-pristine-photos-easily-discover-top-10-online-enhancers/"><u>2024 Approved Restore Pristine Photos Easily Discover Top 10 Online Enhancers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-up-close-with-microsofts-revolutionary-surface-and-surface-pro-laptops-featuring-innovative-copilotplus-technology/"><u>Get Up Close With Microsoft’s Revolutionary Surface & Surface Pro Laptops Featuring Innovative Copilot+ Technology</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-key-strategies-for-navigating-complex-youtube-discussions/"><u>In 2024, Key Strategies for Navigating Complex YouTube Discussions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/intel-and-amd-collaborate-inside-high-end-designs-of-asus-zenbook-s-and-tuf-a1-4-laptops/"><u>Intel & AMD Collaborate Inside High-End Designs of Asus' Zenbook S and TUF A1 4 Laptops</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-angle-adjustment-victory/"><u>Laptop Angle Adjustment - Victory</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/massive-rtx-4090-gaming-laptop-at-a-steal-save-700-on-the-alienware-m18-r2/"><u>Massive RTX 4090 Gaming Laptop at a Steal: Save $700 on the Alienware M18 R2!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-devices-with-precision-the-comprehensive-toms-hardware-encyclopedia/"><u>Mastering Devices with Precision - The Comprehensive Tom's Hardware Encyclopedia</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-advanced-pc-components-with-insights-from-tomhardware-zone/"><u>Navigate the World of Advanced PC Components with Insights From TomHardware Zone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-computing-guided-by-tom-hardware-experts/"><u>Navigate the World of Computing - Guided by Tom Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-comprehensive-reviews-at-toms-hardware/"><u>Navigating the World of Electronics with Comprehensive Reviews at Tom's Hardware</u></a></li>
+</ul></div>
+

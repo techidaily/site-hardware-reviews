@@ -1,7 +1,7 @@
 ---
 title: College Comeback? Score Top Discounts on Laptops & Tablets From Samsung
-date: 2025-01-30T18:10:30.045Z
-updated: 2025-02-02T17:39:51.649Z
+date: 2025-02-14T17:07:29.587Z
+updated: 2025-02-15T17:18:48.696Z
 tags:
   - laptops
 categories:
@@ -51,7 +51,7 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -90,20 +90,16 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-snug-winter-atmospheres-for-engaging-online-content/"><u>[New] In 2024, Crafting Snug Winter Atmospheres for Engaging Online Content</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-introduce-circular-smoothing-transition-via-adobe-photoshop/"><u>[Updated] In 2024, Introduce Circular Smoothing Transition via Adobe Photoshop</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-earnings-expedition-navigating-your-way-to-wealth-with-youtube-mobile-content/"><u>2024 Approved Earnings Expedition Navigating Your Way to Wealth with YouTube Mobile Content</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/from-picture-perfect-videos-to-melodious-mp3-files/"><u>From Picture-Perfect Videos to Melodious MP3 Files</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/harmonic-hits-how-to-choose-the-perfect-song-for-ig-videos-for-2024/"><u>Harmonic Hits How to Choose the Perfect Song for IG Videos for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-find-n3-flip-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Find N3 Flip</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-redmi-a2plus-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Redmi A2+ and stops randomly</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/1726030269759-ncs/"><u>NCSファイルの取り扱いとセキュリティガイド</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-advanced-gadget-reviews/"><u>Tom's Tech Hub: Advanced Gadget Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-expert-advice/"><u>Tom's Tech Review: In-Depth Analysis & Expert Advice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-insights-on-hardware-innovations/"><u>Tom's Tech Review: Insights on Hardware Innovations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-hardware-t17238628801617/"><u>Tom's Tech Reviews: The Ultimate Guide to Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-tech-advice-on-computer-components-by-professionals-at-toms-hardware/"><u>Top Tech Advice on Computer Components by Professionals at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-toms-computer-and-electronics-store-pioneering-tech-solutions/"><u>Top Tom's Computer & Electronics Store: Pioneering Tech Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/transform-your-gaming-setup-with-innocns-budget-friendly-27-240hz-ips-display-purchase-now-at-only-1ebn/"><u>Transform Your Gaming Setup with Innocn's Budget-Friendly, 27 240Hz IPS Display - Purchase Now at Only $1Ebn!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-supreme-creation-studio-test/"><u>[New] Supreme Creation Studio Test</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-tailoring-trailers-to-amplify-your-youtube-channels-earnings/"><u>[Updated] In 2024, Tailoring Trailers to Amplify Your YouTube Channel's Earnings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/high-impact-vectors-discover-the-best-10-websites/"><u>High-Impact Vectors Discover the Best 10 Websites</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-display-apple-iphone-se-2020-screen-on-pc-easily-drfone-by-drfone-ios/"><u>In 2024, How to Display Apple iPhone SE (2020) Screen on PC Easily? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-next-generation-of-communication-explore-5-cutting-edge-voice-transformers-for-google-meet/"><u>New 2024 Approved The Next Generation of Communication Explore 5 Cutting-Edge Voice Transformers for Google Meet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-10-diy-electronics-add-ons-create-them-with-your-own-3d-printer/"><u>Top 10 DIY Electronics Add-Ons: Create Them with Your Own 3D Printer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-5-frequent-issues-with-android-devices-solutions-and-troubleshooting-tips/"><u>Top 5 Frequent Issues with Android Devices: Solutions & Troubleshooting Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-of-durable-case-options-for-your-samsung-z-flip-5-smartphone/"><u>Ultimate Selection of Durable Case Options for Your Samsung Z Flip 5 Smartphone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-rooting-in-android-devices-benefits-and-risks-is-it-worth-considering/"><u>Understanding Rooting in Android Devices: Benefits & Risks – Is It Worth Considering?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-secrets-a-comprehensive-guide-to-identifying-incoming-calls-on-your-android-device/"><u>Unlocking the Secrets: A Comprehensive Guide to Identifying Incoming Calls on Your Android Device</u></a></li>
 </ul></div>
 

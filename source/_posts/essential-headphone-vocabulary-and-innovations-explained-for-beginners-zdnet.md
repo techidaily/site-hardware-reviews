@@ -1,7 +1,7 @@
 ---
 title: Essential Headphone Vocabulary and Innovations Explained for Beginners | ZDNet
-date: 2024-09-17 23:23:31
-updated: 2024-09-20 10:23:45
+date: 2025-02-11T16:50:21.322Z
+updated: 2025-02-15T16:54:09.948Z
 tags:
   - headphones
 categories:
@@ -20,6 +20,10 @@ Headphones are a category of electronics with two very different types of users.
 **Also:** [**30+ Black Friday headphone deals: AirPods, Beats, Bose, and Sony on sale**](https://www.zdnet.com/article/early-black-friday-headphone-deals-november-18-2022/)
 
 That average headphone shopper may believe the technology and terminology they'd need to understand to become join the ranks of headphone enthusiasts are just too impenetrable. We're here to disprove that notion. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -49,6 +53,10 @@ This diminutive style of headphone is easy to toss in a bag or pocket, should be
 * **Wireless:** This type is often lumped in with the third type below, but it originally tended to refer to a pair of earbuds that didn't need to physically connect to a device, but still had a single cable running from one earbud to the other. These remain popular among some athletes and those looking for inexpensive wireless earbuds.
 * **Truly wireless:** This is the most recent type to be introduced. They require no cables whatsoever, connecting wirelessly, usually via Bluetooth. They charge via their included charging cases. This makes them ultra-convenient for use on the go, unobtrusive (Airpod stems aside), and usually able to last an impressive amount of time without needing external power, thanks to their charging cases functioning as a portable battery pack.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Pros of in-ear headphones**
 
 * **Portability:** Their size makes them easy to take anywhere and stow in a bag or pocket for use when commuting, taking a run or bike ride, or sitting at your desk.
@@ -76,6 +84,10 @@ However, this form factor actually supports a much wider range of sizes. Some ea
 **More: [The best Bose headphones: For audiophiles to athletes](https://www.zdnet.com/article/best-bose-headphones/)**
 
 As mentioned above, these are the least common of the three form factors. Still, several iconic lines continue to inhabit the space. [Koss' Portapro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FKoss-Porta-Headphones-Black-Silver%2Fdp%2FB00001P4ZH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C361af066-e032-4837-8b5f-11b4f3fd64dc%7Cdtp&dtb=1) family sits atop almost every "great sound for the price" headphone list, while models like the [Grado's SR](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGRADO-SR60x-Prestige-Open-Back-Headphones%2Fdp%2FB091GGWP2Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C361af066-e032-4837-8b5f-11b4f3fd64dc%7Cdtp&dtb=1) line have remained on sale for decades thanks to the quality their on-ear drivers provide. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Pros of on-ear headphones**
 
@@ -109,6 +121,10 @@ Beyerdynamic's DT1990 Pro headphones. Note the mesh screen on the earcups that m
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Open-backed** **headphones**
 
 Over-ear headphones of this type feature earcups that allow air to freely pass in and out of them. They're the opposite of closed-back models and earbuds that strive to seal in sound by creating an airtight seal around or within the user's ear. The result of this ventilation is a more open-feeling sound that mirrors listening to your audio through speakers. This can also help enhance a pair's "soundstage," or the sensation that the reproduced sound is coming at you from a more nuanced selection of directions than simply left or right. 
@@ -120,6 +136,10 @@ Over-ear headphones of this type feature earcups that allow air to freely pass i
 * **Natural sound:** As mentioned above, the open-backed earcups produce a sound profile that most closely mirrors discrete speakers, or even live music. This is because the soundwaves are allowed to scatter naturally, without ricocheting around in the earcup the way they would in closed-back sets.
 * **Comfort:** The extra ventilation also means your ears are less likely to get hot, since they're not trapped in an airtight chamber warmed by your body heat.
 * **Awareness:** Some users want headphones to block out external sounds. Others prefer to hear the world around them. For the latter, open-backed headphones provide a way to keep your ear, literally, open for your kids, co-workers, or even other people on the street.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cons of open-backed headphones
 
@@ -152,6 +172,10 @@ Closed-back headphones are the precise opposite of those above. Like earbuds, th
 The dynamic driver used in Sennheiser's HD800 S seen from behind
 
 Sennhesier
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Driver types
 
@@ -213,9 +237,17 @@ Left to right: a 3.5mm connector, a 1/4-inch connector, and an XLR connector, al
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Connection types
 
 Now that we know how the sound's produced, let's talk about how it gets to the headphones in the first place. There are two methods: via a wire, or wirelessly. As you should expect by now, there are also several variations to each of those. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Wired 
 
@@ -280,11 +312,26 @@ Hopefully, this guide has given you a deeper understanding of the basic terminol
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-expert-strategies-for-audio-smoothness/"><u>[New] Expert Strategies for Audio Smoothness</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-your-guide-to-8-best-fb-movies-downloader-selection/"><u>[New] In 2024, Your Guide to #8 Best FB Movies Downloader Selection</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-skyrocket-your-earnings-by-mastering-youtube-shorts-monetization/"><u>2024 Approved Skyrocket Your Earnings by Mastering YouTube Shorts Monetization</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-2024s-must-have-apps-to-monitor-and-enhance-your-exercise-habits/"><u>Best 2024'S Must-Have Apps to Monitor and Enhance Your Exercise Habits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-its-unique-code-translator-what-makes-it-crucial-for-ai/"><u>ChatGPT and Its Unique Code Translator – What Makes It Crucial for AI?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-technology-reviews-hardware-and-more/"><u>Expert Insights From Tom's Technology Reviews: Hardware and More</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-tom-in-depth-hardware-insights/"><u>Exploring Technology with Tom: In-Depth Hardware Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-realme-c33-2023-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Realme C33 2023 Through Google Earth?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-motorola-g24-power-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Motorola G24 Power Data? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-corsair-mp600-mini-1tb-m2-2280e27t-ssd-evaluation-top-of-the-line-performance-in-a-compact-form-factor/"><u>In-Depth Corsair MP600 Mini 1TB (M.2 2280/E27T) SSD Evaluation: Top of the Line Performance in a Compact Form Factor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-hardware-with-tom-insights-and-reviews-by-toms-gear/"><u>Navigating Hardware with Tom: Insights & Reviews by Tom's Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-chilled-with-the-uphere-m201-top-notch-nvme-ssd-cooler-for-a-steal-at-5/"><u>Stay Chilled with the UpHere M201: Top-Notch NVMe SSD Cooler for a Steal at $5!</u></a></li>
+</ul></div>
+

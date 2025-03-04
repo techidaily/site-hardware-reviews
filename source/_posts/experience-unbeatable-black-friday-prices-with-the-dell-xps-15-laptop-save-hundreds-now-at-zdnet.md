@@ -1,7 +1,7 @@
 ---
 title: Experience Unbeatable Black Friday Prices with the Dell XPS 15 Laptop | Save Hundreds Now at ZDNET
-date: 2025-02-01T00:01:29.749Z
-updated: 2025-02-03T01:44:36.151Z
+date: 2025-02-14T16:46:23.431Z
+updated: 2025-02-15T16:59:11.868Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ You can pick up a new [MSI Stealth 14 Studio gaming laptop](https://shop-links.c
 **Also:** [**The best gaming laptops**](https://www.zdnet.com/article/best-gaming-laptop/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended:
@@ -65,7 +65,7 @@ Speaking of which: I absolutely adore the MUX switch, which is what lets you cho
 Taylor Clemons/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## My only real complaint
@@ -81,7 +81,7 @@ Taylor Clemons/ZDNET
 The laptop also has a decently fast charging time, taking about an hour to reach full charge from completely dead. This is perfect for situations when you forget to charge overnight or need to quickly top up the laptop during a lunch break or meeting. As with all fast-charging devices, you'll notice a slowdown in power transfer as the battery approaches full charge. This helps prevent damage from overcharging, which can shorten the overall life and performance of the battery.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it handles gaming
@@ -95,7 +95,7 @@ Taylor Clemons/ZDNET
 The laptop even was able to handle the [ARMA III](https://store.steampowered.com/app/107410/Arma%5F3/) base game, which is notorious for requiring Herculean efforts from graphics cards and CPUs to even be able to load you into a server. I'd bought ARMA III years ago to play with friends over Discord, and this was the first time I'd been able to just load into the lobby and mess around with controls, settings, and mods before _finally_ being able to play a match after all this time. So the Stealth 14 Studio gets extra points in my book for letting me spend time with and stay connected to friends I don't get to see very often in-person. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A worthy investment
@@ -140,19 +140,19 @@ _Correction: This review has been edited to reflect accurate information as prov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-step-by-step-guide-to-outstanding-ppt-in-google-meet-iosandroid/"><u>[Updated] 2024 Approved Step-by-Step Guide to Outstanding PPT in Google Meet (iOS/Android)</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/macos-3/"><u>如何在 macOS 上無需花錢就能將檔案移動到外接硬碟：3 種技術指南</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-equipment-evaluations-by-toms-electronics/"><u>Advanced Equipment Evaluations by Tom's Electronics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/approach-assess-the-influence-of-community-input-on-planning-decisions/"><u>Approach: Assess the Influence of Community Input on Planning Decisions.</u></a></li>
-<li><a href="https://win11.techidaily.com/developing-a-secure-quick-access-for-hardware-uninstall-in-win11/"><u>Developing a Secure, Quick Access for Hardware Uninstall in Win11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/implement-a-take-back-program-to-encourage-recycling-or-repurposing-of-used-products/"><u>Implement a Take-Back Program to Encourage Recycling or Repurposing of Used Products</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-basic-principles-of-story-artistry/"><u>In 2024, Basic Principles of Story Artistry</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-what-are-the-best-sites-to-download-tamil-ringtones-and-how-to-cut-a-son/"><u>In 2024, What Are the Best Sites to Download Tamil Ringtones & How to Cut a Son</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-hardware-analysis-by-tom-your-trusted-guide/"><u>In-Depth Hardware Analysis by Tom - Your Trusted Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/online-oasis-video-vault/"><u>Online Oasis Video Vault</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/step-by-step-guide-to-optimal-sound-quality-with-zooms-features-for-2024/"><u>Step-by-Step Guide to Optimal Sound Quality with Zoom's Features for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-lowdown-on-sabrents-rocket-nano-an-in-depth-examination-of-the-1tb-m2-222-gen3-x4-ssd/"><u>The Lowdown on Sabrent's Rocket Nano – An In-Depth Examination of the 1TB M.2 22#2 Gen3 X4 SSD</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-the-power-of-iphones-bluetooth-a-novices-handbook/"><u>Unlocking the Power of iPhone's Bluetooth - A Novice's Handbook</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-notch-hardware-at-toms-reviews/"><u>Unveiling Top-Notch Hardware at Tom's Reviews</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/urning-youtube-shorts-into-a-money-machine-essentials-and-earnings-prospects-for-2024/"><u>[New] Turning YouTube Shorts Into a Money Machine Essentials and Earnings Prospects for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-creative-composers-cache-essential-no-cost-afx-tools/"><u>[Updated] In 2024, Creative Composer's Cache Essential, No-Cost AFX Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-swift-success-stories-leveraging-instagram-likes-and-videos-for-2024/"><u>[Updated] Swift Success Stories Leveraging Instagram Likes and Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleash-potential-deciding-between-studio-and-beta-version/"><u>[Updated] Unleash Potential Deciding Between Studio and Beta Version</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-gear-insights-with-toms-hardware-mastery/"><u>Discover Top Gear Insights with Tom's Hardware Mastery</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-from-toms-computer-gear-hub/"><u>Expert Advice From Tom's Computer Gear Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-electronics-the-toms-hardware-compendium/"><u>Expert Advice on Electronics - The Tom's Hardware Compendium</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-top-tier-hardware-reviews-with-toms-electronics-insights/"><u>Explore Top-Tier Hardware Reviews with Tom's Electronics Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-asus-rog-zephyrus-g1-6-can-its-top-notch-hardware-delivery-a-smooth-gaming-journey/"><u>Exploring the Asus ROG Zephyrus G1 6: Can Its Top-Notch Hardware Delivery a Smooth Gaming Journey?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-11-pro-max-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 11 Pro Max In Different Conditionsin</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-recommendations-the-highest-rated-18-video-recorders-now/"><u>In 2024, Expert Recommendations The Highest-Rated 18 Video Recorders Now</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Realme V30T | Dr.fone</u></a></li>
 </ul></div>
 

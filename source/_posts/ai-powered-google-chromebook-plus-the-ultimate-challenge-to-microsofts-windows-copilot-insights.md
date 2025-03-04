@@ -1,7 +1,7 @@
 ---
 title: "AI-Powered Google Chromebook Plus: The Ultimate Challenge to Microsoft's Windows Copilot - Insights"
-date: 2025-01-28T02:10:43.600Z
-updated: 2025-02-03T04:54:43.865Z
+date: 2025-02-13T17:11:55.580Z
+updated: 2025-02-15T17:10:00.959Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Microsoft Surface Pro and Laptop
@@ -61,7 +61,7 @@ The Surface Laptop comes in two configurations: 13.8 and 15 inches, with memory 
 The laptop is also thinner than its predecessors, now has a haptic touchpad, and can extend to up to three 4K _monitors while_ the device screen is active -- a subtle dig at Apple's M3 MacBook Air. As far as battery life goes, Microsoft says the new Surface Laptop has "nearly double the battery life of Surface Laptop 5," offering up to 22 hours of local video playback.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Lenovo Yoga Slim 7x and ThinkPad T14s Gen 6
@@ -79,7 +79,7 @@ Thanks to the Snapdragon X Elite and Lenovo's AI Core, the Yoga Slim 7x and Thin
 The Lenovo Yoga Slim 7x will go on sale starting in June, with an _expected_ starting price of $1,199, while the ThinkPad T14s Gen 6 will launch around the same time with a starting price of $1,699.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. HP OmniBook X and EliteBook Ultra
@@ -93,10 +93,6 @@ HP's new OmniBook X and EliteBook Ultra are among the thinnest Copilot+ PC unvei
 Designed for freelancers and developers, the new HP laptops leverage the Snapdragon X Elite chip for various generative AI and on-device tasks, including analyzing Excel spreadsheets, real-time coaching feedback for presentations, and other Copilot features. With the OmniBook X and EliteBook Ultra, HP is so committed to the AI narrative that it has applied a new "AI Helix" logo on the covers of the systems.
 
 The [OmniBook X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-omnibook-x-copilot-pc-14-2-2k-touch-screen-laptop-snapdragon-x-elite-16gb-memory-1tb-sdd-meteor-silver%2F6583279.p%3FskuId%3D6583279&publisher_slug=itechdaily19598&exclusive=1) and [EliteBook Ultra](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-elitebook-ultra-14-inch-g1q-notebook-ai-pc&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) are available for preorders today for starting prices of $1,199 (up to 2TB of storage and 32GB of RAM) and $1,699 (512GB of storage with 16GB of RAM), respectively, and will begin shipping on June 18.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Dell XPS 13, Latitude 7455
 
@@ -124,6 +120,10 @@ Powering the system is your choice of Qualcomm's Snapdragon X Elite or X Plus, b
 
 The Acer Swift 14 AI will first be available in Europe, the Middle East, and Asia in June, and eventually be sold in North America in July, with a starting price of $1,099.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Samsung Galaxy Book 4 Edge
 
 Sabrina Ortiz/ZDNET
@@ -137,7 +137,7 @@ The rest of the specs are relatively similar to the company's standard Galaxy Bo
 The [14-inch Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-books%2Fgalaxy-book4-edge%2F%3F&publisher_slug=itechdaily19598&exclusive=1) will start at $1,349, while the 16-inch size will start at $1,749 with 1TB of storage. Samsung says the laptops are available for preorder today and will even toss in a 50-inch Crystal UHD 4K TV to sweeten the pot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Asus Vivobook S 15
@@ -184,24 +184,24 @@ The [Vivobook S 15](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-amplify-engagement-a-compilation-of-powerful-30-freegame-tags-for-2024/"><u>[New] Amplify Engagement A Compilation of Powerful 30 FreeGame Tags for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-phantom-3-rivalry-veil-4-strikes-back-for-2024/"><u>[Updated] Phantom 3 Rivalry Veil 4 Strikes Back for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/achieve-peak-efficiency-with-ideal-memory-settings-on-your-amd-ryzen-3000-processors-in-depth-review-from-toms-hardware/"><u>Achieve Peak Efficiency with Ideal Memory Settings on Your AMD Ryzen 3000 Processors - In-Depth Review From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhanced-performance-unleashed-nvidias-latest-update-features-gpu-turbocharge-and-obs-audio-clarity/"><u>Enhanced Performance Unleashed: Nvidia's Latest Update Features GPU Turbocharge & OBS Audio Clarity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-by-tom-on-computer-hardware-components/"><u>Expert Insights by Tom on Computer Hardware Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-digital-gadgets-by-tom-unveiling-the-best-tech-tools/"><u>Expert Insights on Digital Gadgets by Tom - Unveiling the Best Tech Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computing-with-toms-equipment-innovative-solutions-for-every-user/"><u>Exploring Computing with Tom's Equipment: Innovative Solutions for Every User</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-performance-issues-in-the-elder-scrolls-online-blackwood-edition/"><u>How to Overcome Performance Issues in The Elder Scrolls Online: Blackwood Edition</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-days-viewing-assessing-file-size-in-gb/"><u>In 2024, Day's Viewing Assessing File Size in GB</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-infinix-zero-30-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Infinix Zero 30 5G Location | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-with-tom-comprehensive-gadget-analysis-and-advice/"><u>Mastering Tech with Tom: Comprehensive Gadget Analysis & Advice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionary-amd-tech-unveiled-intuitive-self-overclocking-memory-manager/"><u>Revolutionary AMD Tech Unveiled: Intuitive Self-Overclocking Memory Manager</u></a></li>
-<li><a href="https://win-info.techidaily.com/seamless-guide-mastering-the-art-of-adding-soundtracks-to-your-videos/"><u>Seamless Guide: Mastering the Art of Adding Soundtracks to Your Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/seamless-listening-the-ipodcast-guidebook/"><u>Seamless Listening The iPodcast Guidebook</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/tailoring-your-video-content-for-wide-platform-distribution-for-2024/"><u>Tailoring Your Video Content for Wide Platform Distribution for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-expert-insights-on-hardware-and-performance/"><u>Tom's Tech Hub: Expert Insights on Hardware & Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-components-t17239718670261/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Components</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unfreeze-handbrake-on-widows-effortlessly/"><u>Unfreeze HandBrake on Widows, Effortlessly</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-best-practices-aspect-ratio-in-twitters-videos/"><u>[New] 2024 Approved Best Practices Aspect Ratio in Twitters Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-a-step-by-step-approach-to-perfecting-vlog-soundtracks-for-2024/"><u>[New] A Step-by-Step Approach to Perfecting Vlog Soundtracks for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-best-twitter-tools-for-purifying-and-personalizing-your-timeline/"><u>[New] Best Twitter Tools for Purifying & Personalizing Your Timeline</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341710115-affordable-essential-cooling-at-just-5-uphere-m201-ssd-heatsink-unveiled/"><u>Affordable Essential Cooling at Just $5 - UpHere M201 SSD Heatsink Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-high-end-cooling-solved-a-comprehensive-look-at-the-id-cooling-fx360-pro-for-60/"><u>Affordable High-End Cooling Solved: A Comprehensive Look at the ID-Cooling FX360 Pro for $60</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/beneath-the-surface-instagrams-hidden-reality-for-viewers/"><u>Beneath the Surface Instagram’s Hidden Reality for Viewers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-raspberry-pi-5-enhanced-by-pi-52s-cooling-tower-speedy-performance-uncovered/"><u>Expert Analysis: Raspberry Pi 5 Enhanced by Pi 52'S Cooling Tower - Speedy Performance Uncovered</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341695805-expert-analysis-raspberry-pi-5-enhanced-by-pi-52s-cooling-tower-speedy-performance-uncovered/"><u>Expert Analysis: Raspberry Pi 5 Enhanced by Pi 52'S Cooling Tower - Speedy Performance Uncovered!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-technology-hub-gadgets-and-hardware-insights/"><u>Exploring Tom's Technology Hub: Gadgets & Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hardware-insights-by-tom-top-tech-pickups-and-gear-advice/"><u>Hardware Insights by Tom: Top Tech Pickups and Gear Advice</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-xr-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone XR Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-syncing-scores-and-screenplays-top-tunes-for-video-unboxing/"><u>In 2024, Syncing Scores and Screenplays Top Tunes for Video Unboxing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-circuitry-with-toms-hardware-reviews/"><u>Navigating the Circuitry with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/nine-key-points-before-investing-in-a-new-4k-lens/"><u>Nine Key Points Before Investing in a New 4K Lens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-uninstall-failure-windows-1011-access-issue/"><u>Resolving Uninstall Failure: Windows 10/11 Access Issue</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionize-your-fitness-routine-with-cubefits-innovative-terramat-platform/"><u>Revolutionize Your Fitness Routine with CubeFit's Innovative TerraMat Platform.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-race-for-excellence-in-solid-state-drives-unveiling-performance-secrets-of-lexars-elite-sl500-and-sl600-series-with-exceptional-20g-transfer-rates/"><u>The Race for Excellence in Solid State Drives: Unveiling Performance Secrets of Lexar's Elite SL500 and SL600 Series with Exceptional 20G Transfer Rates</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-tech-trends-on-toms-hardware-portal/"><u>Unveiling the Latest Tech Trends on Tom's Hardware Portal</u></a></li>
 </ul></div>
 

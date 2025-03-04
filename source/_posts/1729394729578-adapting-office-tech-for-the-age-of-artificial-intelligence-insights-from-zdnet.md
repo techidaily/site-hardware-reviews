@@ -1,7 +1,7 @@
 ---
 title: Adapting Office Tech for the Age of Artificial Intelligence - Insights From ZDNet
-date: 2025-01-30T17:30:16.746Z
-updated: 2025-02-02T17:38:08.798Z
+date: 2025-02-08T17:20:40.620Z
+updated: 2025-02-15T17:02:09.944Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,22 +134,20 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-from-long-to-brief-how-to-shorten-youtube-footage/"><u>[New] 2024 Approved From Long to Brief How to Shorten YouTube Footage</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-how-to-make-profitable-youtube-ads-for-free/"><u>[Updated] How To Make Profitable YouTube Ads for Free?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comprehensive-guide-to-masterful-win11-zoom-use-for-2024/"><u>Comprehensive Guide to Masterful Win11 Zoom Use for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-technology-masterful-tips-from-toms-experts-in-hardware/"><u>Decoding Technology: Masterful Tips From Tom’s Experts in Hardware</u></a></li>
-<li><a href="https://discover-community.techidaily.com/effizientes-festplattenduplikation-mit-windows-systemen-windows-111087/"><u>Effizientes Festplattenduplikation Mit Windows-Systemen (Windows 11/10/8/7)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/elevate-zooms-audio-tailored-settings-for-immersive-listening-for-2024/"><u>Elevate Zoom's Audio Tailored Settings for Immersive Listening for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-technology-with-toms-hardware-guides/"><u>Exploring the Latest in Technology with Tom's Hardware Guides</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-essential-guidelines-for-implementing-music-emojis-in-instagram/"><u>In 2024, Essential Guidelines for Implementing Music Emojis in Instagram</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-iphone-12-mini-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From iPhone 12 mini without Password?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-setting-up-and-managing-discord-channels-step-by-step-guide/"><u>In 2024, Setting Up and Managing Discord Channels Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-with-tom-insights-on-advanced-components-and-gadgets/"><u>Mastering Hardware with Tom: Insights on Advanced Components and Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-on-electronics-toms-hardware-insights/"><u>The Ultimate Resource on Electronics - Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-equipment-mastery-in-depth-analysis-for-savvy-gamers-and-builders/"><u>Tom's Equipment Mastery: In-Depth Analysis for Savvy Gamers and Builders</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-features-gigabytes-b760m-ds3h-ax-micro-atx-motherboard-for-beginners-and-multi-screen-lovers/"><u>Unveiling the Features: Gigabyte's B760M DS3H AX Micro ATX Motherboard for Beginners and Multi-Screen Lovers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-hardware-with-toms-expertise/"><u>Unveiling the Latest in Computer Hardware with Tom's Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/valkyrie-syn-240-aio-pc-chiller-review-exceptional-heat-dispersion-compromised-by-unrefined-user-interface/"><u>Valkyrie Syn 240 AIO PC Chiller Review – Exceptional Heat Dispersion Compromised by Unrefined User Interface</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-honor-x50i-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Honor X50i Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-collageknights-syncing-videos-across-devices/"><u>[New] 2024 Approved CollageKnights Syncing Videos Across Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-enhancing-engagement-through-effective-video-strategies-on-fb-for-2024/"><u>[New] Enhancing Engagement Through Effective Video Strategies on FB for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-prime-selection-top-ranked-gopro-case-models/"><u>[New] The Prime Selection Top-Ranked GoPro Case Models</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-vlc-recordings-tips-and-tricks/"><u>[Updated] In 2024, VLC Recordings Tips and Tricks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-nubia-red-magic-9-pro-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Nubia Red Magic 9 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-build-with-gskills-trident-z5-rgb-memory-sticks-an-ideal-choice-for-2x48gb-motherboard-setups/"><u>Elevate Your Build with G.SKILL's Trident Z5 RGB Memory Sticks - An Ideal Choice for 2X48GB Motherboard Setups</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341710933-experience-unmatched-precision-and-comfort-in-depth-look-at-the-keychron-q1-he-the-long-awaited-wireless-mx-version/"><u>Experience Unmatched Precision and Comfort - In-Depth Look at the Keychron Q1 HE, The Long-Awaited Wireless MX Version!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-the-ultimate-guide-to-nikon-j5s-4k-capability/"><u>In 2024, The Ultimate Guide to Nikon J5's 4K Capability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-tech-insights-at-toms-hardware-hub/"><u>In-Depth Tech Insights at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-device-choices-with-toms-hardware-wisdom/"><u>Mastering Your Device Choices with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-digital-world-top-reviews-from-toms-hardware-experts/"><u>Mastering Your Digital World: Top Reviews From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-mu-reviewed-speedy-performance-that-surpasses-raspberry-pi-4-yet-comes-with-a-price-tag/"><u>The Mu Reviewed: Speedy Performance That Surpasses Raspberry Pi 4 Yet Comes With a Price Tag</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-comprehensive-guide-and-reviews/"><u>Tom's Tech: Comprehensive Guide and Reviews</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-lava-blaze-2-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Lava Blaze 2 Pro FRP Bypass</u></a></li>
 </ul></div>
 

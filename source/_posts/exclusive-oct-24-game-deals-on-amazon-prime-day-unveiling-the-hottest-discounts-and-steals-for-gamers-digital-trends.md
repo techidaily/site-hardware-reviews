@@ -1,7 +1,7 @@
 ---
 title: Exclusive Oct '24 Game Deals on Amazon Prime Day! Unveiling the Hottest Discounts & Steals for Gamers | Digital Trends
-date: 2025-01-26T22:02:42.101Z
-updated: 2025-02-02T23:42:55.123Z
+date: 2025-02-09T16:16:43.232Z
+updated: 2025-02-15T16:29:32.802Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ Brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-day-sam
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Our favorite early Amazon October Prime Day gaming deals
@@ -107,6 +107,10 @@ ZDNET
 * [MSI Claw 512GB for $642 (save $108)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Claw-Gaming-Handheld-Thunderbolt%2Fdp%2FB0CXG3DBQV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc7d776f8-5462-40c9-a4d1-f13733f0b840%7Cdtp&dtb=1): Built with an Intel Core Ultra 7 CPU, 16GB of RAM, a 512GB SSD, and a 7-inch display, the MSI Claw rivals the Steam Deck handheld gaming PC in power and performance.
 * [Amazon eero Pro 6E mesh Wi-Fi router 3-pack for $350 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-eero-Wi-Fi-router-newest%2Fdp%2FB091G64GVK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc7d776f8-5462-40c9-a4d1-f13733f0b840%7Cdtp&dtb=1): This mesh Wi-Fi system is rated for up to 2,000 square feet of coverage and supports both wireless and hardwired Ethernet connectivity at 1.6 Gbps and 2.5Gbps, respectively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day PlayStation 5 deals
 
 ZDNET
@@ -122,10 +126,6 @@ ZDNET
 * [God of War Ragnarok standard edition for $40 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGod-of-War-Ragnar-k-Standard-Edition-Playstation-5%2F1336533270%3FclassType%3DVARIANT%26athbdg%3DL1102&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The sequel to the hit GoW 2018 follows Kratos and his son Atreus as they traverse the realms to gather allies and stop the gods from going to war.
 * [The Last of Us Part 1 standard edition for $46 (save $24 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FThe-Last-of-Us-Part-I-PlayStation-5%2F1643604134%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Experience the award-winning story of Ellie and Joel as they make their way to Denver and the Fireflies through hordes of dangerous, fungus-infected zombies.
 * [Corsair Void RGB Elite wireless gaming headset for $80 (save $30 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Wireless-Premium-Headset-Surround%2Fdp%2FB07X8SJ8HM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc7d776f8-5462-40c9-a4d1-f13733f0b840%7Cdtp&dtb=1): With 7.1CH surround sound, an omnidirectional mic, and up to a 40-foot range, the Void RGB Elite gives you immersive game music and sound cues, clear chat, and freedom of movement.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
 
@@ -199,6 +199,10 @@ Lenovo
 * [HP Victus 16 laptop for $850 (save $450 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-gaming-laptop-16t-r100-161-91c59av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-grade gamign laptop with a 16-inch 1080p IPS display, 144Hz refresh rate, 14th gen Intel Core i5 CPU, 16GB of RAM, GeForce RTX 4050 GPU, and a 512GB SSD.
 * [Alienware m18 R2 for $3,200 (save $800 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming monitor deals
 
 Samsung/ZDNET
@@ -208,10 +212,6 @@ Samsung/ZDNET
 * [Samsung Odyssey Neo G8 32-inch curved monitor for $800 (save $500 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-odyssey-neo-g8-32-curved-4k-uhd-freesync-premium-pro-g-sync-compatible-240hz-1ms-gaming-monitor-black%2F6507933.p%3FskuId%3D6507933&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This 32-inch display support both AMD FreeSync Premium Pro and Nvidia G-Sync VRR, a 240Hz refresh rate, a 1ms response time, and 4K resolution.
 * [AOC AG27 27-inch monitor for $600 (save $450 at B&H Photo, deal ends Oct 5)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1741859-REG%2Faoc%5Fag274qzm%5F27%5F16%5F9%5Fqhd.html): This 27-inch IPS monitor has 1440p resolution, a 240Hz refresh rate, a 1ms response time, and Nvidia G-Sync VRR support.
 * [Acer Predator X27U for $680 (save $320 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1772478-REG%2Facer%5Fum%5Fhxxaa%5F001%5Fpredator%5Fx27u%5F27%5Fgaming.html%2Fspecs): A 27-inch gaming monitor with a 240Hz refresh rate, 1440p resolution, a 0.03ms response time, and support for AMD FreeSync Premium Pro VRR.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals
 
@@ -229,7 +229,7 @@ Samsung/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
@@ -241,7 +241,7 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, wi
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
@@ -313,16 +313,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-2023-full-movement-analysis/"><u>[New] 2023 Full Movement Analysis</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-elevate-ps2-gameplay-on-ios-devices/"><u>[Updated] In 2024, Elevate PS2 Gameplay on iOS Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-pfr-rate-for-sluggish-film-speed/"><u>[Updated] Top PFR Rate for Sluggish Film Speed</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo V30? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-holiday-memories-revisited-summertimes-best-vacation-flicks/"><u>In 2024, Holiday Memories Revisited Summertime’s Best Vacation Flicks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-msis-pioneering-z790-project-zero-the-first-motherboard-to-integrate-camm2-memory-standard-in-desktops-elevating-pc-performance/"><u>Introducing MSI's Pioneering Z790 Project Zero: The First Motherboard to Integrate CAMM2 Memory Standard in Desktops, Elevating PC Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-knowledge-through-toms-expert-guides/"><u>Mastering Electronics Knowledge Through Tom's Expert Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/meet-gigabytes-solution-to-massive-gpu-support-a-new-motherboard-designed-for-unprecedented-weight-but-will-it-prevent-notorious-board-failures/"><u>Meet Gigabyte's Solution to Massive GPU Support: A New Motherboard Designed for Unprecedented Weight – But Will It Prevent Notorious Board Failures?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/motherboard-for-all-you-anime-lovers-out-there/"><u>Motherboard for All You Anime Lovers Out There</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-film-makers-quick-guide-to-perfect-sea-scenes/"><u>The Film-Maker’s Quick Guide to Perfect Sea Scenes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-hidden-wonders-a-comprehensive-review-of-yokus-island-adventures-gameplay/"><u>Unveiling Hidden Wonders - A Comprehensive Review of Yoku's Island Adventures Gameplay</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-mastering-video-quality-with-yi-4k-action-camera-for-2024/"><u>[New] Mastering Video Quality with Yi 4K Action Camera for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-google-meet-zoom-tips-maximizing-participant-visibility/"><u>[Updated] In 2024, Google Meet Zoom Tips Maximizing Participant Visibility</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unveiling-public-domain-paintings-insights-and-links-for-2024/"><u>[Updated] Unveiling Public Domain Paintings Insights & Links for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-webcamwizardry-techniquesforperfectrecordings/"><u>[Updated] WebCamWizardry TechniquesForPerfectRecordings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-sky-dominance-top-5-fpv-glasses-for-pilots/"><u>2024 Approved Sky Dominance Top 5 FPV Glasses for Pilots</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-iphone-experts-guide-to-capturing-and-reducing-pace-in-footage/"><u>2024 Approved The iPhone Expert’s Guide to Capturing and Reducing Pace in Footage</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/amplifi-hd-smart-mesh-wi-fi-system-review-bid-farewell-to-wi-fi-signal-blackouts/"><u>Amplifi HD Smart Mesh Wi-Fi System Review: Bid Farewell to Wi-Fi Signal Blackouts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-keris-ii-ace-vs-deathadder-v3-pro-head-to-head-gaming-mouse-review/"><u>Asus ROG Keris II Ace vs DeathAdder V3 Pro: Head-to-Head Gaming Mouse Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-digital-innovation-with-toms-hardware-insights/"><u>Delving Into Digital Innovation with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-performance-perfection-a-review-of-the-updated-dell-xps-13-9345-featuring-cutting-edge-snapdragon-x-elite-integration/"><u>Discovering Performance Perfection: A Review of the Updated Dell XPS 13 (9345), Featuring Cutting-Edge Snapdragon X Elite Integration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dough-spectrum-blacks-game-changing-27-oled-display-unleashed-highly-accurate-visually-stunning-gaming-perfection-revealed/"><u>Dough Spectrum Black's Game-Changing 27 OLED Display Unleashed: Highly Accurate, Visually Stunning Gaming Perfection Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-4tb-patriot-viper-vp4300-lite-a-balance-between-capacity-and-cost-explored/"><u>Evaluating the 4TB Patriot Viper VP4300 Lite: A Balance Between Capacity and Cost Explored</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-powerful-features-of-highpoints-rocket-1608a-usb-drives-card-ultimate-review/"><u>Evaluating the Powerful Features of HighPoint's Rocket 1608A USB Drives Card - Ultimate Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-build-a-showstopper-iphone-photomosaic-with-ease-and-fun-for-2024/"><u>How to Build a Showstopper iPhone Photomosaic with Ease and Fun for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-oneplus-11r-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on OnePlus 11R Quickly? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-of-digital-devices-with-toms-tech-wisdom/"><u>In-Depth Reviews of Digital Devices with Tom's Tech Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-hostgator-offerings-a-detailed-vps-and-shared-hosting-overview/"><u>Navigating Through HostGator Offerings: A Detailed VPS & Shared Hosting Overview</u></a></li>
 </ul></div>
 

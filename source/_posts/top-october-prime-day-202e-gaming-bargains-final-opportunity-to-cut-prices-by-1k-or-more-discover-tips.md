@@ -1,7 +1,7 @@
 ---
 title: Top October Prime Day 202E Gaming Bargains - Final Opportunity to Cut Prices by $1K or More! Discover Tips
-date: 2025-01-26T16:02:46.693Z
-updated: 2025-02-03T03:53:06.125Z
+date: 2025-02-08T16:35:53.546Z
+updated: 2025-02-15T17:15:05.214Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ Major brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day gaming deals still available
 
@@ -123,7 +119,7 @@ ZDNET
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day PlayStation 5 deals still available
@@ -139,6 +135,10 @@ ZDNET
 * [Final Fantasy VII Rebirth for $50 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FFinal-Fantasy-VII-Rebirth-PlayStation-5%2Fdp%2FB0CGXZQ4CD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): The anticipated FFVII remaster includes an Amazon exclusive PS5 controller skin.
 * [WD Black SN850X 4TB SSD for $310 (save $390)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWD%5FBLACK-SN850X-Internal-Gaming-Solid%2Fdp%2FB0B7CQ2CHH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): Instantly add 4TB of storage to your PS5 console for large game downloads and save files.
 * [Metal Gear Solid: Master Collection Vol. 1 for $19 (save $21)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetal-Gear-Solid-Collection-PlayStation-5%2Fdp%2FB0C93LL82B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): Get all three of the original MGS games for the PS1 in a single collection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals still available
 
@@ -169,6 +169,10 @@ Nintendo/ZDNET
 * [Pokemon Scarlet/Violet dual pack for $103 (save $17 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Scarlet-Pokemon-Violet-Dual-Pack-Nintendo-Switch%2F1545999884%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This bundle includes copies of both Pokemon Scarlet and Violet, which is perfect for pokedex completionists and collectors alike.
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all-new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming PC deals still available
 
 Kyle Kucharski/ZDNET
@@ -189,10 +193,6 @@ Lenovo
 * [Acer Nitro 17 for $1,177 (save $222 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FOcta-Core-GeForce-Display-Backlit-AN17-41-R7G3%2Fdp%2FB0BTQ61Z6D%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): This gaming laptop boasts a wide 17-inch display with a 165Hz refresh rate and is built with an Nvidia GeForce RTX 4056 graphics card.
 * [Acer Predator Triton Neo 16 for $1,500 (save $400 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPredator-Verified-AI-Powered-processor-PTN16-51-932N%2Fdp%2FB0CZBVRSXT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce54baab3-81a7-430b-87cd-f882017d4a2b%7Cdtp&dtb=1): The 16-inch display is Calman Verified for color accuracy, and the laptop is built with both an Intel Core Ultra 9 CPU and Nvidia GeForce RTX 4070 GPU.
 * [Alienware m18 for $1,750 (save $800 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-m18-fhd-480hz-gaming-laptop-amd-ryzen-9-32gb-memory-nvidia-geforce-rtx-4070-1tb-ssd-windows-11-pro-dark-metallic-moon%2F6543535.p%3FskuId%3D6543535&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's high-end gaming laptop has an 18-inch display with an impressive 480Hz refresh rate. It's built with an AMD Ryzen 9 7000 series CPU, 32GB of RAM, a 1TB SSD, and Nvidia RTX 4070.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals still available
 
@@ -217,7 +217,15 @@ Samsung/ZDNET
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $770 (save $130 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When was Amazon Prime Day 2024?
 
@@ -227,17 +235,9 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ra
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -304,15 +304,19 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-expert-routines-for-flawless-webinar-replays/"><u>[New] Expert Routines for Flawless Webinar Replays</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-top-10-capture-cards-for-youtube-you-should-know-for-2024/"><u>[New] The Top 10 Capture Cards for YouTube You Should Know for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-unveiling-the-secrets-of-striking-youtube-live-images/"><u>[Updated] In 2024, Unveiling the Secrets of Striking YouTube Live Images</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-capturing-moments-like-never-before-with-sj-cam-s6/"><u>2024 Approved Capturing Moments Like Never Before with SJ-CAM S6</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successful-troubleshooting-of-windows-10-system-restore-problem-error-0x80070091/"><u>Successful Troubleshooting of Windows 10 System Restore Problem (Error 0X80070091)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/supercharge-your-chinese-processor-asus-latest-innovation-in-overclocking-boosts-the-kx-7000-series-by-an-impressive-25/"><u>Supercharge Your Chinese Processor: Asus' Latest Innovation in Overclocking Boosts the KX-7000 Series by an Impressive 25%</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-computer-equipment-reviews/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Computer Equipment Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-source-for-computer-enthusiasts-tips-and-reviews-on-toms-hardware/"><u>The Ultimate Source for Computer Enthusiasts: Tips & Reviews on Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-gadget-galaxy-unveiling-the-secrets-of-high-performance-hardware/"><u>Tom's Gadget Galaxy - Unveiling the Secrets of High-Performance Hardware</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/bmp/"><u>오피니 공간의 스마트 방법: BMP이미지를 무료로 변환하는 여정</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ai-for-beginners-unveiling-the-potential-with-the-raspberry-pi-brainiac-kit-our-in-depth-review/"><u>'AI for Beginners': Unveiling the Potential with the Raspberry Pi Brainiac Kit - Our In-Depth Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-quick-tips-simplified-techniques-for-capturing-google-meets/"><u>[New] Quick Tips Simplified Techniques for Capturing Google Meets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-sports-and-screen-capture-the-best-ways-to-document-the-action/"><u>[Updated] In 2024, Sports and Screen Capture The Best Ways to Document the Action</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadgets-by-tom-a-detailed-look-at-latest-tech/"><u>Advanced Gadgets by Tom: A Detailed Look at Latest Tech</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-guide-for-capturing-console-playbacks/"><u>Essential Guide for Capturing Console Playbacks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-for-your-next-upgrade-at-toms-hardware-recommendations/"><u>Expert Advice for Your Next Upgrade at Tom's Hardware Recommendations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-assessment-of-the-pimoronis-high-speed-ssd-base-duo-for-enhanced-computing-speeds/"><u>Expert Assessment of the Pimoroni's High-Speed SSD Base Duo for Enhanced Computing Speeds</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-the-crash-in-star-wars-squadrons-solution-guide/"><u>How To Fix The Crash In Star Wars Squadrons - Solution Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-open-source-chill-beats/"><u>In 2024, Open Source Chill Beats</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/optimal-media-formats-ensuring-seamless-endless-broadcasts-with-quicktime-support/"><u>Optimal Media Formats Ensuring Seamless, Endless Broadcasts with QuickTime Support</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-drivers-with-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Reinstall drivers with Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-tom-comprehensive-hardware-analysis/"><u>Unveiling Gadgets with Tom - Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-tier-hardware-secrets-at-toms-expert-platform/"><u>Unveiling Top-Tier Hardware Secrets at Tom's Expert Platform</u></a></li>
 </ul></div>
 

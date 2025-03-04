@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Score a Steep Discount on Lenovo ThinkPad X1 Extreme Gen 4 - Now Under $500 | ZDNet"
-date: 2025-01-27T02:24:57.254Z
-updated: 2025-02-03T00:30:53.926Z
+date: 2025-02-13T16:37:53.482Z
+updated: 2025-02-15T17:07:23.888Z
 tags:
   - laptops
 categories:
@@ -24,7 +24,7 @@ The model on offer here runs on Intel's 11th-generation [Core i7-11850H](https:/
 **Also:** [**Best Black Friday laptop deals 2022**](https://www.zdnet.com/article/black-friday-laptop-deals-november-23-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -67,24 +67,16 @@ At $1,699 -- 53% off Lenovo's list price -- the [ThinkPad X1 Extreme](https://bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-essential-youtube-for-asmr-enthusiasts-for-2024/"><u>[New] Essential YouTube for ASMR Enthusiasts for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-tricks-for-recording-online-discussions-easily-for-2024/"><u>[New] Tricks for Recording Online Discussions Easily for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-capturing-pc-gaming-moments-6-innovative-techniques/"><u>[Updated] 2024 Approved Capturing PC Gaming Moments 6 Innovative Techniques</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-captivating-imagery-with-these-20-top-video-thumbnail-fonts-for-2024/"><u>[Updated] Captivating Imagery with These 20 Top Video Thumbnail Fonts for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-unveils-new-rog-strix-xg227-wcs-a-27-va-panel-monitor-with-blistering-180hz-performance-for-gamers/"><u>Asus Unveils New Rog Strix XG2^27 WCS: A 27 VA Panel Monitor with Blistering 180Hz Performance for Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-by-tom-decoding-computer-hardware/"><u>Comprehensive Guide by Tom: Decoding Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/conquer-virtual-worlds-in-depth-analysis-of-alienwares-aw2725df-360-hz-oled-monitor-for-serious-gamers/"><u>Conquer Virtual Worlds: In-Depth Analysis of Alienware's AW2725DF 360 Hz OLED Monitor for Serious Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dells-affordable-24-inch-freesync-display-now-only-99-shop-today/"><u>Dell's Affordable 24-Inch FreeSync Display Now Only $99 - Shop Today!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-new-technology-discover-toms-hardware/"><u>Expert Guidance on New Technology - Discover Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-hub-the-ultimate-guide/"><u>Exploring Technology with Tom's Hardware Hub - The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/first-portable-gaming-monitor-by-minisforum-high-performance-with-a-15ninch-display-and-144-hz-at-only-189/"><u>First Portable Gaming Monitor by Minisforum: High Performance with a 15.nInch Display and 144 Hz at only $189</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/from-simple-reader-to-multi-functional-display-repurpose-your-kindle-with-these-steps-from-devrepo/"><u>From Simple Reader to Multi-Functional Display: Repurpose Your Kindle with These Steps From DevRepo</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gigabytes-ultrawide-49-inch-aorus-oled-monitor-for-gamers-price-slashed-to-a-record-low-of-969/"><u>Gigabyte's Ultrawide 49-Inch Aorus OLED Monitor for Gamers - Price Slashed to a Record Low of $969</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-get-warzone-20-running-smoothly-on-your-pc-7-key-fixes-you-need-in-2nd4/"><u>How to Get Warzone 2.0 Running Smoothly on Your PC: 7 Key Fixes You Need in 2nD4</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-14-pro-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone 14 Pro From Your Apple ID</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-se-2020-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone SE (2020) without passcode</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-vectors-unveiled-a-novices-path-through-types-and-apps/"><u>In 2024, Vectors Unveiled A Novice’s Path Through Types and Apps</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastering-adsense-earnings-insights-into-payments-from-youtube-viewers-for-2024/"><u>Mastering AdSense Earnings Insights Into Payments From YouTube Viewers for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-ais-involvement-in-cyber-threats/"><u>Understanding AI's Involvement in Cyber Threats</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fixing-video-transmission-issues-on-facebook-chat-for-iosandroid-for-2024/"><u>[New] Fixing Video Transmission Issues on Facebook Chat for iOS/Android for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-critical-choices-for-perfect-snaps/"><u>2024 Approved Critical Choices for Perfect Snaps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-voice-adaptation-solutions-picks-for-video-makers/"><u>2024 Approved Voice Adaptation Solutions Picks for Video Makers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-crafting-protective-custom-exercise-regimens/"><u>ChatGPT: Crafting Protective, Custom Exercise Regimens</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convertissez-vos-documents-jp2-en-lignes-sans-frais-movavi/"><u>Convertissez Vos Documents JP2 en Lignes Sans Frais - Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cross-platform-collaboration-enhanced-share-files-from-android-to-windows-easily/"><u>Cross-Platform Collaboration Enhanced: Share Files From Android to Windows Easily</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-magsafe-charging-beyond-iphone-enhanced-power-experience-with-android-devices/"><u>Discover MagSafe Charging Beyond iPhone: Enhanced Power Experience with Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-ultimate-7-alternative-android-interfaces/"><u>Discover the Ultimate 7 Alternative Android Interfaces</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/easy-methods-for-relocating-apps-onto-external-sd-cards-on-your-android-device/"><u>Easy Methods for Relocating Apps Onto External SD Cards on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/effective-ways-to-prevent-unexpected-shutdowns-on-your-android-device/"><u>Effective Ways to Prevent Unexpected Shutdowns on Your Android Device</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-judgment-properly-ban-trump-with-time-restriction/"><u>Facebook's Judgment: Properly Ban Trump, With Time Restriction</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Explore the Enhancements in Lenovo's Revamped ThinkPad X1 Ultrabook - Insights From ZDNet
-date: 2025-02-01T20:54:20.234Z
-updated: 2025-02-03T01:44:34.317Z
+date: 2025-02-12T16:38:43.658Z
+updated: 2025-02-15T16:40:01.830Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,24 +218,17 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-unmatched-mac-visual-scriber-with-sound-capture/"><u>[New] In 2024, Unmatched Mac Visual Scriber with Sound Capture</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-mac-screen-capturing-tips-unveiling-5-efficient-techniques/"><u>[New] Ultimate Mac Screen Capturing Tips Unveiling 5 Efficient Techniques</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-screen-capture-a-compreenas-android-guide/"><u>[Updated] 2024 Approved Mastering Screen Capture A Compreenas Android Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-the-affordable-art-of-youtube-introsends/"><u>2024 Approved The Affordable Art of YouTube Intros/Ends</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/facial-lockout-a-deep-dive-into-iphones-face-id-vs-galaxys-recognition-for-2024/"><u>Facial Lockout A Deep Dive Into iPhone's Face ID Vs. Galaxy’s Recognition for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-itel-s23-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Itel S23 Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-spark-10-4gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Spark 10 4GFRP Lock</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/partnered-amd-motherboards-deploy-critical-bios-patch-to-resolve-emblematic-failure-issue/"><u>Partnered AMD Motherboards Deploy Critical BIOS Patch to Resolve Emblematic Failure Issue</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-tech-discovery-through-toms-hardware-reviews/"><u>Pioneering Tech Discovery Through Tom's Hardware Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-pc-setup-the-asrock-z89et-taichi-aqua-motherboard-comes-with-10x-usb-type-c-and-2x-lightning-fast-thunderbolt-ports/"><u>Revolutionize Your PC Setup: The ASRock Z89eT Taichi Aqua Motherboard Comes with 10X USB Type-C & 2X Lightning-Fast Thunderbolt Ports</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/shop-high-performance-motherboards-and-boards-with-longsun-cpus-beginning-at-just-373-available-in-the-us/"><u>Shop High-Performance Motherboards & Boards with Longsun CPUs: Beginning at Just $373 - Available in the U.S</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/snag-your-asus-x670-p-wifi-am5-mobo-now-unbelievable-sale-135/"><u>Snag Your Asus X670-P WiFi AM5 Mobo Now - Unbelievable Sale @$135</u></a></li>
-<li><a href="https://driver-install.techidaily.com/swift-gpu-firmware-upgrade-amd/"><u>Swift GPU Firmware Upgrade, AMD</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-asrock-z790i-lightning-wi-fi-board-review-packed-potency-in-a-petite-package/"><u>The ASROCK Z790I Lightning Wi-Fi Board Review - Packed Potency in a Petite Package</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-complete-guide-to-computers-and-peripherals-by-toms-technology-hub/"><u>The Complete Guide to Computers and Peripherals by Tom's Technology Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-definitive-source-for-pc-hardware-at-toms-hardware/"><u>The Definitive Source for PC Hardware at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-perfect-blend-of-form-and-function-in-a-thin-motherboard-asrocks-x600tm-itx-mini-itx-option/"><u>The Perfect Blend of Form and Function in a Thin Motherboard: ASRock's X600TM-ITX Mini-ITX Option</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/top-10-instagram-hashtags-you-need-to-start-using-today/"><u>Top 10 Instagram Hashtags You Need to Start Using Today</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/1725287619493-dvd/"><u>デジタルメディアの完全性を守る: DVD コピーガードの原理と回避手段に関する包括的なガイド</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-quintessential-quotient-subscriber-rankings/"><u>[New] In 2024, The Quintessential Quotient Subscriber Rankings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-art-of-conversion-boosting-click-through-rates-on-social-platforms/"><u>[New] The Art of Conversion Boosting Click-Through Rates on Social Platforms</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-analysis-the-leading-mac-screenshots-and-recorders-ranked/"><u>[Updated] 2024 Approved Expert Analysis The Leading Mac Screenshots & Recorders Ranked</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effortless-time-lapse-videos-in-gopro-studio-tutorial/"><u>Effortless Time Lapse Videos in GoPro Studio Tutorial</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-v30t-lock-screen-password-by-drfone-android/"><u>How To Change Realme V30T Lock Screen Password?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/is-the-affordable-netgear-orbi-770-worth-it-examining-quality-vs-price-for-budget-conscious-shoppers/"><u>Is the Affordable Netgear Orbi 770 Worth It? Examining Quality vs Price for Budget Conscious Shoppers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-technology-essential-reviews-by-the-tomer/"><u>Mastering Modern Technology: Essential Reviews by The Tom'er</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-grand-quests-a-riveting-review-of-yokus-island-express-adventures/"><u>Navigating Grand Quests: A Riveting Review of Yoku's Island Express Adventures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-disruptive-sound-cuts-in-windows-11-with-these-proven-techniques/"><u>Resolve Disruptive Sound Cuts in Windows 11 with These Proven Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/trustworthy-advice-on-building-your-dream-machine-from-toms-hardware-pioneers/"><u>Trustworthy Advice on Building Your Dream Machine From Tom's Hardware Pioneers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unmatched-precision-meets-pristine-quality-in-the-dough-spectrum-black-an-elite-27-oled-monitor-tailored-for-true-gamers-satisfaction/"><u>Unmatched Precision Meets Pristine Quality in the Dough Spectrum Black - An Elite 27 OLED Monitor Tailored for True Gamers' Satisfaction</u></a></li>
 </ul></div>
 

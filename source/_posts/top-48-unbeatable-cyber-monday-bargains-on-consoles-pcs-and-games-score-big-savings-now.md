@@ -1,7 +1,7 @@
 ---
 title: Top 48 Unbeatable Cyber Monday Bargains on Consoles, PCs & Games – Score Big Savings Now!
-date: 2025-01-26T21:04:18.670Z
-updated: 2025-02-03T03:37:45.155Z
+date: 2025-02-14T16:58:26.415Z
+updated: 2025-02-15T17:07:09.563Z
 tags:
   - laptops
 categories:
@@ -22,10 +22,6 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Cyber Monday 2023 Dell deals
 
 * [Dell OptiPlex 7000 7090 Intel Core i7 desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-7090-business-desktops-workstations%252Fp%252F1VK-0001-6G7A2) for $939 (save $230)
@@ -44,7 +40,7 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 ---  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Cyber Monday 2023 Dell deals
@@ -105,7 +101,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc7bd95a-cf51-4930-9dd0-5f630b942e68%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Cyber Monday Dell laptop deals
@@ -128,7 +124,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Inspiron 27 7720 Intel Core i5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Inspiron-24-5400-Touchscreen%2Fdp%2FB0BGQSKN8N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc7bd95a-cf51-4930-9dd0-5f630b942e68%7Cdtp&dtb=1): $744 (save $186)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Cyber Monday Dell monitor deals
@@ -138,19 +134,23 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc7bd95a-cf51-4930-9dd0-5f630b942e68%7Cdtp&dtb=1): $80 (save $50)
 * [Dell 32-inch 4K monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-SE3223Q-31-5-inch-Monitor-Gray%2Fdp%2FB0B2GRMGFL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc7bd95a-cf51-4930-9dd0-5f630b942e68%7Cdtp&dtb=1): $248 (save $117)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is Cyber Monday 2023?
 
 Cyber Monday happens each year on the Monday following Black Friday. This year, Cyber Monday is today, November 27.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When was Black Friday 2023?
 
 Black Friday 2023 was on November 24, 2023\. 
 
 Black Friday is always the day after Thanksgiving, which was November 23 this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these Cyber Monday deals?
 
@@ -228,20 +228,24 @@ ZDNET's experts have been searching for Cyber Monday deals across sites like Ama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-capturing-on-win10-the-leading-apps-to-check-out/"><u>[New] In 2024, Capturing on Win10 The Leading Apps to Check Out</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-ultimate-tutorial-uploading-360-degree-footage-on-facebook/"><u>[Updated] In 2024, Ultimate Tutorial Uploading 360-Degree Footage on Facebook</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-navigating-your-way-through-youtube-tvs-unique-offerings/"><u>[Updated] Navigating Your Way Through YouTube TV's Unique Offerings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/beginners-blueprint-for-a-lush-eco-conscious-vegetable-garden-organic-practices-that-work/"><u>Beginner’s Blueprint for a Lush, Eco-Conscious Vegetable Garden: Organic Practices That Work</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breaking-down-the-features-in-depth-review-of-the-white-microatx-maxsun-terminator-z790m-d5-ice-motherboard-equipped-with-5-m2-slots/"><u>Breaking Down the Features: In-Depth Review of the White MicroATX Maxsun Terminator Z790M D5 Ice Motherboard, Equipped With 5 M.2 Slots</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-the-sabrent-rocket-nano-2242-1tb-your-standard-bearer-for-m2-2242-storage-solutions/"><u>Comprehensive Review of the Sabrent Rocket Nano 2242 1TB - Your Standard-Bearer for M.2 2242 Storage Solutions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/eight-superb-mobile-game-choices-for-uninterrupted-fun/"><u>Eight Superb Mobile Game Choices for Uninterrupted Fun</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-silent-on-calls-discover-these-12-troubleshooting-steps-for-immediate-fixes/"><u>IPhone Silent on Calls? Discover These 12 Troubleshooting Steps for Immediate Fixes!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-the-tech-world-wisdom-from-toms-hardware-insights/"><u>Mastering the Tech World: Wisdom From Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-tech-gear-toms-expert-hardware-analysis/"><u>Navigating Tech Gear: Tom's Expert Hardware Analysis</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/scopri-come-usare-freecam-2024-con-la-tua-guida-definitiva-scaricabile-gratuitamente-ora/"><u>Scopri Come Usare FreeCam 2024 Con La Tua Guida Definitiva: Scaricabile Gratuitamente Ora!</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/rt-of-optimizing-your-yt-channel-description/"><u>The Art of Optimizing Your YT Channel Description</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-asrock-pg27qft2a-a-comprehensive-180hz-monitor-performance-and-cost-assessment/"><u>The ASRock PG27QFT2A: A Comprehensive 180Hz Monitor Performance and Cost Assessment</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-definitive-10-screenshot-boosters-with-stickers-on-iphones-and-androids-for-2024/"><u>The Definitive 10 Screenshot Boosters with Stickers on iPhones & Androids for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-speed-and-efficiency-with-corsair-mp600-mini-1tb-the-premier-review-of-the-leading-m2-nvme-ssd/"><u>Unlocking Speed and Efficiency with Corsair MP600 Mini 1TB: The Premier Review of the Leading M.2 NVMe SSD</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-illuminating-origins-a-comprehensible-guide-to-inverted-images-in-instagram/"><u>[New] 2024 Approved Illuminating Origins A Comprehensible Guide to Inverted Images in Instagram</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-best-adblock-apps-for-android-for-2024/"><u>[New] 7 Best AdBlock Apps for Android for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-enhancing-memories-date-insertion-techniques-for-photos-for-2024/"><u>[New] Enhancing Memories Date Insertion Techniques for Photos for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-ultimate-guide-to-creating-free-youtube-outros-1-6/"><u>[New] In 2024, The Ultimate Guide to Creating FREE YouTube Outros #1-6</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-effortless-broadcast-blending-a-guide-to-obspluszoom/"><u>[Updated] In 2024, Effortless Broadcast Blending A Guide to OBS+Zoom</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unlocking-personalized-vocal-elements-on-instagram/"><u>[Updated] In 2024, Unlocking Personalized Vocal Elements on Instagram</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-review-center/"><u>Exploring Gadgets with Tom's Hardware Review Center</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-with-toms-technology-insights/"><u>Exploring Hardware with Tom's Technology Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-response-boundaries-does-chatgpt-have-length-restrictions-on-answers/"><u>Exploring Response Boundaries: Does ChatGPT Have Length Restrictions on Answers?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-gaming-laptop-excellence-for-less-acers-rtx-4070-and-amd-powered-nitro-16-just-1129/"><u>Get Gaming Laptop Excellence for Less: Acer's RTX 4070 & AMD-Powered Nitro 16 - Just $1,129</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-xs-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone XS without Password?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hurry-exclusive-deal-on-the-rog-strix-g16-2024-just-1164-available-now-on-amazon/"><u>Hurry! Exclusive Deal on the ROG Strix G16 2024: Just $1,164 Available Now on Amazon!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-updates-to-laptop-frameworks-now-offer-new-intel-amd-zen-4-options-for-enthusiasts/"><u>Innovative Updates to Laptop Frameworks Now Offer New Intel, AMD Zen 4 Options for Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-circuitry-insightful-guidance-from-toms-tech-domain/"><u>Inside the Circuitry: Insightful Guidance From Tom's Tech Domain</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lenovo-thinkpad-t14s-launches-with-stunning-features-qualcomm-snapdragon-x-elite-processor-impressive-32gb-ram-and-a-whopping-1tb-ssd/"><u>Lenovo ThinkPad T14s Launches with Stunning Features: Qualcomm Snapdragon X Elite Processor, Impressive 32GB RAM & a Whopping 1TB SSD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/level-up-your-game-with-discounted-lenovo-legion-immersive-experience-rtx-graphics-and-crystal-clear-240-hz-visuals-at-unbeatable-prices/"><u>Level Up Your Game with Discounted Lenovo Legion: Immersive Experience, RTX Graphics & Crystal-Clear 240 Hz Visuals at Unbeatable Prices!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-the-latest-in-pc-and-components-expert-advice-from-toms-digital-world/"><u>Master the Latest in PC and Components - Expert Advice From Tom’s Digital World</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-realme-note-50-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Realme Note 50 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-unstick-a-laptop-when-it-freezes-during-boot-up/"><u>Troubleshooting: How to Unstick a Laptop When It Freezes During Boot Up</u></a></li>
 </ul></div>
 

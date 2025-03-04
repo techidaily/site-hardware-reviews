@@ -1,7 +1,7 @@
 ---
 title: "Buy Them Now: Essential Technologies Released During CES 2023 You Can Own Immediately | ZDNET"
-date: 2024-09-19 20:40:18
-updated: 2024-09-20 10:58:23
+date: 2025-02-12T17:08:16.913Z
+updated: 2025-02-15T17:11:14.880Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 CES has kicked off in Las Vegas, and brands like Dell, LG, and GE have announced some truly impressive tech. And if you've been making a wishlist of everything that's been revealed, you're in luck: You can pre-order a few things right now, which means you won't have to wait until autumn or winter to get your hands on next-level tech. 
 
 **Also:** [**CES 2023 tech you can actually buy now**](https://www.zdnet.com/article/ces-2023-tech-you-can-buy/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -119,19 +123,35 @@ LG has taken all of their TV expertise to create a 48-inch OLED gaming monitor t
 
 [View now at LG](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.lg.com%2Fus%2Fmonitors%2Flg-48gq900-b) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is CES?
 
 [CES](https://www.zdnet.com/article/zdnets-guide-to-ces-what-is-it-and-who-can-attend/) is a tech and trade convention that is held annually in Las Vegas. Every year, thousands of representatives from hundreds of brands come together for a few days to talk about exciting new tech in the pipeline for consumers. This tech can range from production software and logistics programs for manufacturing to consumer tech like smartphones, laptops, and gaming monitors. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is CES 2023?
 
 This year, CES is being held from Thursday, Jan. 5 to Sunday, Jan. 8.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why is some CES 2023 tech not up for sale or pre-order yet?
 
 While it's always frustrating to rush to pre-order cool new tech announced at CES 2023 and other tech shows, only to find they won't be available until fall or winter. Companies often use CES and other trade shows to not only announce and sell new tech, but to build relationships with PR agents and journalists. Tech that gets announced, but not a pre-order link, is usually something that is almost ready for market but is absolutely ready for testing by reviewers. 
 
 It also gives companies the chance to get everyone excited for new features and designs, answer questions from journalists and consumers, and get the marketing machine in motion for when the product actually drops. So while you're able to get your hands on a few things from this year's CES, you'll have to be patient for some otehrs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Where can I see what other tech announced at CES 2023?
 
@@ -164,11 +184,31 @@ You can catch up with all of the pre-show announcements and the biggest reveals 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-proven-methods-for-crafting-big-head-effects-in-tiktok-3-approaches-for-2024/"><u>[New] Proven Methods for Crafting Big Head Effects in TikTok (3 Approaches) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-creator-to-kingmaker-ajays-youtube-revenue-revolution/"><u>[Updated] 2024 Approved From Creator to Kingmaker Ajay’s YouTube Revenue Revolution</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-pro-editors-top-list-best-portable-devices-for-visual-storytelling/"><u>[Updated] 2024 Approved Pro-Editors' Top List Best Portable Devices for Visual Storytelling</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2023-ranking-top-6-apps-for-fb-lite-video-downloads/"><u>2023 Ranking Top 6 Apps for FB Lite Video Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bitlocker-free-windows-4-effective-security-measures/"><u>BitLocker-Free Windows: 4 Effective Security Measures</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-repair-an-unresponsive-hp-bluetooth-keypad/"><u>How to Repair an Unresponsive HP Bluetooth Keypad</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-s17t-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo S17t with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-through-toms-comprehensive-analysis/"><u>Mastering Hardware Choices Through Tom's Comprehensive Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-tech-world-insights-from-toms-gear-analysis/"><u>Mastering the Tech World: Insights From Tom's Gear Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msi-unveils-top-tier-z890-and-b8n60-boards-for-intel-arc-s-certified-before-the-excitement-of-computex-2024-begins/"><u>MSI Unveils Top-Tier Z890 and B8n60 Boards for Intel Arc S, Certified Before the Excitement of Computex 2024 Begins!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msis-pre-computex-2024-launch-premium-z890-and-b860-motherboards-for-intel-arc-s-system-leak-detected/"><u>MSI's Pre-Computex 2024 Launch: Premium Z890 and B860 Motherboards for Intel Arc S System Leak Detected</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-from-armory-crate-to-advanced-illumination-with-microsoft-and-asus-collaborative-bios-enhancement/"><u>Navigating From Armory Crate to Advanced Illumination with Microsoft and Asus' Collaborative BIOS Enhancement</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-hardware-solutions-with-toms-reviews/"><u>Navigating Hardware Solutions with Tom's Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-innovations-in-computing-a-guide-by-toms-hardware/"><u>Navigating New Innovations in Computing - A Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-todays-tech-landscape-a-tour-of-tomn-hardware-world/"><u>Navigating Today's Tech Landscape: A Tour of Tom'n Hardware World</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/one-week-with-an-ergo-split-keyboard-how-my-entire-setup-transformed-after-the-change/"><u>One Week with an Ergo-Split Keyboard: How My Entire Setup Transformed After the Change!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974805276-upgrade-to-top-tier-graphics-with-newest-intel-hd-graphics-version-for-windows-10/"><u>Upgrade to Top-Tier Graphics with Newest Intel HD Graphics Version for Windows 10</u></a></li>
+</ul></div>
+

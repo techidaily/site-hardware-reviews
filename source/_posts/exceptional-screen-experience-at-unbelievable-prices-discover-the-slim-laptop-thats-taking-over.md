@@ -1,7 +1,7 @@
 ---
 title: Exceptional Screen Experience at Unbelievable Prices! Discover the Slim Laptop That's Taking Over
-date: 2025-01-28T16:40:02.342Z
-updated: 2025-02-03T01:22:16.322Z
+date: 2025-02-13T16:39:54.208Z
+updated: 2025-02-15T17:20:55.268Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the Amazon Prime Day deal?
@@ -33,7 +33,7 @@ Ahead of the Prime Big Deal Days sale, the [LG Gram Pro 16 2-in-1](https://buy.g
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -101,7 +101,7 @@ For most users, this is not much of an issue, but during exceptionally heavy loa
 Finally, the battery life on this machine was about what you'd expect from a 2-in-1 with an OLED screen. This is a laptop that can last a full day of work, but only barely. Depending on how hard you're pushing it, expect to see 7-8 hours on a single charge. I got around that during my testing. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,7 +111,7 @@ In a market of dozens of 2-in-1 laptops that were released this year, the [LG Gr
 If you're looking for more budget-friendly options, the [Acer Swift Edge 16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-swift-edge-16-16-3-2k-120hz-oled-laptop-amd-ryzen-7-7840u-with-16gb-lpddr5-memory-1tb-pcie-gen-4-ssd-olivine-black%2F6546242.p&publisher_slug=itechdaily19598&exclusive=1) features the same sized OLED screen and weighs slightly more at 2.73 pounds, but will only cost you $1,300.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,15 +148,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-enhance-collaboration-with-these-zoom-tools/"><u>[New] In 2024, Enhance Collaboration with These Zoom Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-up-your-game-expert-tips-for-tiktok-editing/"><u>[New] Step Up Your Game Expert Tips for TikTok Editing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastering-distance-remote-podcast-broadcast/"><u>[Updated] In 2024, Mastering Distance Remote Podcast Broadcast</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/grab-your-bargain-a-thor-darth-vader-motif-monitor-is-just-1e6-more-than-expected-retailer-selling-24-inch-ips-display-at-low-price/"><u>Grab Your Bargain: A 'Thor Darth Vader' Motif Monitor Is Just $1E6 More Than Expected - Retailer Selling 24-Inch IPS Display at Low Price</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/handpicked-selections-ringtones-directly-from-snap/"><u>Handpicked Selections Ringtones Directly From Snap</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-honor-magic-v2-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Honor Magic V2? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-systems-with-toms-tech-wisdom/"><u>Mastering Gadgets and Systems with Tom’s Tech Wisdom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-the-top-picks-of-toms-hardware/"><u>Mastering Technology: The Top Picks of Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-new-tech-horizons-with-thorough-analysis-by-toms-hardware/"><u>Navigate New Tech Horizons with Thorough Analysis by Tom's Hardware</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-exploring-the-world-of-youtube-where-are-my-comments-for-2024/"><u>[Updated] Exploring the World of YouTube Where Are My Comments for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-optimized-recording-software-seamless-every-time/"><u>[Updated] In 2024, Optimized Recording Software - Seamless Every Time</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-essential-video-gear-the-ultimate-12-camera-guide/"><u>2024 Approved Essential Video Gear The Ultimate 12 Camera Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-quintessential-browsers-screen-recorder-guide-for-professionals/"><u>2024 Approved The Quintessential Browsers' Screen Recorder Guide for Professionals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-beginners-guide-converting-m4v-videos-into-common-mpg-mpeg-and-mp4-file-types-effortlessly/"><u>A Beginner's Guide: Converting M4V Videos Into Common MPG, MPEG and MP4 File Types Effortlessly</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/crafting-captivating-content-the-instagram-reel-way/"><u>Crafting Captivating Content The Instagram Reel Way</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/locating-and-understanding-your-android-smartphones-operating-instructions/"><u>Locating and Understanding Your Android Smartphone's Operating Instructions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-art-of-mobile-recording-tips-and-tricks-for-android-users/"><u>Mastering the Art of Mobile Recording: Tips and Tricks for Android Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mophies-compact-power-bank-features-convenient-ac-adapter-option/"><u>Mophie's Compact Power Bank Features Convenient AC Adapter Option</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/persistent-android-application-crashes-discover-9-reliable-solutions/"><u>Persistent Android Application Crashes? Discover 9 Reliable Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pixel-timepieces-lifespan-limited-to-a-three-year-update-cycle/"><u>Pixel Timepiece's Lifespan: Limited to a Three-Year Update Cycle</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/quick-fixes-for-your-download-pending-problems-on-the-play-store/"><u>Quick Fixes for Your Download Pending Problems on the Play Store</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revamp-crashy-connections-in-granblue-fantasy-for-windows-expert-link-fix-techniques/"><u>Revamp Crashy Connections in Granblue Fantasy for Windows – Expert Link Fix Techniques</u></a></li>
 </ul></div>
 

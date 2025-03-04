@@ -1,7 +1,7 @@
 ---
 title: "Protecting Essential Infrastructures From Cyber Attacks: Insights Into NSA & CISA Strategies | TechGuardian"
-date: 2024-09-17 17:12:34
-updated: 2024-09-20 12:57:31
+date: 2025-02-10T16:38:56.738Z
+updated: 2025-02-15T16:11:29.934Z
 tags:
   - cyber-threats
 categories:
@@ -20,6 +20,10 @@ The National Security Agency (NSA) and the Cybersecurity and Infrastructure Secu
 The [new joint advisory](https://media.defense.gov/2022/Sep/22/2003083007/-1/-1/0/CSA%5FICS%5FKnow%5Fthe%5FOpponent%5F.PDF) outlines what critical infrastructure operators should know about their opponents, citing recent cyberattacks on Ukraine's energy grid and the ransomware attack against a [fuel distribution pipeline](https://www.zdnet.com/article/white-house-says-person-behind-colonial-pipeline-ransomware-attack-nabbed-during-russian-raid/). 
 
 There are heightened fears that [Russia's invasion of Ukraine and related cyberattacks](https://www.zdnet.com/article/microsoft-russia-has-launched-hundreds-of-cyberattacks-against-ukraine/) against Ukraine could spread to Western critical infrastructure targets. CISA earlier this year warned that attackers had [built custom tools to gain control of ICS and SCADA devices](https://www.zdnet.com/article/us-warning-hackers-have-built-tools-to-attack-these-key-industrial-control-systems/) from major manufacturers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -80,11 +84,25 @@ The US government has issued multiple warnings about cyberattacks on critical in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-a-comprehensively-reviewed-list-of-youtube-video-extractor-apps-android/"><u>[Updated] 2024 Approved A Comprehensively Reviewed List of YouTube Video Extractor Apps (Android)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-best-practices-in-finding-quality-photo-and-video-banners/"><u>[Updated] Best Practices in Finding Quality Photo & Video Banners</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-gears-up-to-launch-high-end-ai-computing-systems-at-luxury-price-point/"><u>Asus Gears Up to Launch High-End AI Computing Systems at Luxury Price Point</u></a></li>
+<li><a href="https://blog-min.techidaily.com/could-the-meta-quest-represent-an-upcoming-vr-counterpart-to-the-steam-deck/"><u>Could the Meta Quest Represent an Upcoming VR Counterpart to the Steam Deck?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gearguide-by-tom-in-depth-analysis-of-pc-parts-and-tech-advice/"><u>GearGuide by Tom: In-Depth Analysis of PC Parts & Tech Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/getting-started-with-a-cost-effective-sbm-662-desktop-exploring-core-modules-and-specifications-for-q1-2016-model/"><u>Getting Started with a Cost-Effective SBM $662 Desktop: Exploring Core Modules & Specifications for Q1 2016 Model</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-our-new-covid-19-origami-challenge-unfold-your-way-to-healthier-times/"><u>Introducing Our New COVID-19 Origami Challenge: Unfold Your Way to Healthier Times</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mastering-wd-ses-usb-installation-tips-for-secure-data-transfer-on-newer-devices-post-2n11/"><u>Mastering WD SES USB Installation: Tips for Secure Data Transfer on Newer Devices (Post-2n11)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionizing-imaging-with-quantum-hdrs-potential/"><u>Revolutionizing Imaging with Quantum HDR's Potential</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Enhances Security Portfolio by Securing Deal with International Cyber Intelligence Firm Miburo - TechNews
-date: 2024-09-19 15:25:15
-updated: 2024-09-20 10:21:34
+date: 2025-02-12T16:20:11.681Z
+updated: 2025-02-15T16:52:07.501Z
 tags:
   - cyber-threats
 categories:
@@ -46,11 +46,28 @@ Miburo is a leading expert in the identification of foreign information operatio
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-15-best-free-youtube-introduction-tools-for-2024/"><u>[Updated] 15 Best Free YouTube Introduction Tools for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-podcastpioneer-diving-beyond-dacast/"><u>[Updated] PodcastPioneer Diving Beyond DaCast</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-guide-personalized-youtube-shorts-images-without-hassle/"><u>2024 Approved Quick Guide Personalized YouTube Shorts Images Without Hassle</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/capturesocial-fb-videos-to-files/"><u>CaptureSocial FB Videos to Files</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-best-out-of-streaming-unbeatable-discount-on-logitech-g-yeti-gx-mic-shop-now/"><u>Get the Best Out of Streaming: Unbeatable Discount on Logitech G Yeti GX Mic – Shop Now</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210513866-9781739770457-le-reve-des-anges/"><u>Le Rêve des Anges | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-by-tom-in-depth-computer-hardware-evaluations/"><u>The Ultimate Guide by Tom: In-Depth Computer Hardware Evaluations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-reviews-the-ultimate-guide/"><u>Tom's Computer Reviews: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-analysis-of-modern-electronics/"><u>Tom's Tech Reviews: Comprehensive Analysis of Modern Electronics</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-nokia-150-2023-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Nokia 150 (2023) Android SIM Unlock APK</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

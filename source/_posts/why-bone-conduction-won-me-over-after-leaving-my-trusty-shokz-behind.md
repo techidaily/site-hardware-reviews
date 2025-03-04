@@ -1,7 +1,7 @@
 ---
 title: Why Bone Conduction Won Me Over After Leaving My Trusty Shokz Behind
-date: 2024-09-17 21:41:32
-updated: 2024-09-20 12:30:42
+date: 2025-02-10T16:47:42.415Z
+updated: 2025-02-15T16:34:46.995Z
 tags:
   - headphones
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/topic/headphones/    https://www.zdnet.com/a/im
 ![The Mojawa Run Plus bone-conducting headphones.](https://www.zdnet.com/a/img/resize/842c1a8136b33bf2d7aa4cfacbf242db971a8622/2023/06/21/3862f643-622d-42fb-9eb3-282a2ad687f8/mojawa1.jpg?auto=webp&width=1280)
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -32,6 +36,10 @@ I've been using [Shokz](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5
 On top of all that, earbuds rarely stay in my ears when I'm running. The last thing I need is to lose an expensive pair of earbuds when physics gets the best of the tiny technology and gravity takes the earbud for a crash landing on the pavement. 
 
 I recently started testing a Mojawa pair that resembles my favorite [Shokz Open Run Pros](https://www.zdnet.com/article/shokz-openrun-pro-say-goodbye-to-in-ear-buds/). Since then, it's safe to say the [Mojawa Run Plus](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fmojawa-Run-Plus-Conduction-Headphones%2Fdp%2FB0C374SW7J%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6ebe932c-fdc5-4fb5-a96d-f0c0bab617af%7Cdtp&dtb=1) have become my new go-to bone conduction headphones. Here's why.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The tech specs
 
@@ -59,6 +67,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The first run
 
 I'm not going to lie. The first run wasn't exactly a spectacular outing. However, the initial impression of the hardware itself was impressive. One complaint I've had (for the longest time) about the Shokz headphones: The button to pause and skip songs is tiny. Even worse, getting the double-click right to skip a song can be challenging. Double-click too quickly, and it registers as a single click. I've always had problems with that Open Run Pro button.
@@ -74,6 +86,10 @@ The first run outing was less than spectacular because I had trouble with the so
 **Also:** [**Best earbuds you can buy right now**](https://www.zdnet.com/article/best-earbuds/)
 
 Fortunately, the ensuing runs didn't suffer from that issue. I'm not sure if it was a Spotify or Android issue, but they sounded considerably louder the next time I went to test the Mojawa Run Plus. In fact, I would easily place them on par with the [Shokz Open Run Pro](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1741105-REG%2Fshokz%5Fs811%5Fmn%5Fbk%5Fus%5Fshokz%5Fopenrun%5Fpro%5Fmini%5Fbone.html%2F%3F) (which are the best bone-conducting headphones I've tried).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -104,11 +120,28 @@ These headphones have supplanted my Shokz Open Run Pros for the time being. We'l
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-editing-made-easy-youtube-editiontop-10-tips-for-newbies-for-2024/"><u>[Updated] Editing Made Easy YouTube Edition—Top 10 Tips for Newbies for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-ways-to-control-chatgpt-with-your-voice/"><u>5 Ways to Control ChatGPT With Your Voice</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-honor-90-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/avoid-these-common-mistakes-when-interacting-with-a-disc-jockey-top-10-donts/"><u>Avoid These Common Mistakes When Interacting With a Disc Jockey: Top 10 Don'ts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/from-jarring-edits-to-seamless-inshot-integration/"><u>From Jarring Edits to Seamless Inshot Integration</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-honor-100-pro-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Honor 100 Pro Device SIM</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-se-2020-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone SE (2020) Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-teamgroup-t-force-dark-airflow-i-ultimate-nvme-ssd-cooling-solution/"><u>In-Depth Analysis of the TeamGroup T-Force Dark AirFlow I: Ultimate NVMe SSD Cooling Solution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-hardware-analysis-with-toms-technology-review/"><u>In-Depth Hardware Analysis with Tom's Technology Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-motherboards-and-more-a-trip-through-toms-electronic-explorations/"><u>Mastering Motherboards and More: A Trip Through Tom’s Electronic Explorations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-the-future-of-home-networking-in-depth-analysis-and-insights-on-the-revolutionary-asus-wifi-7-router-rt-be96u/"><u>Pioneering the Future of Home Networking: In-Depth Analysis and Insights on the Revolutionary Asus WiFi 7 Router - RT-BE96U</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-gamers-perspective-crucial-pro-ddr5-6000-memory-kit-review-a-step-by-step-overclocking-journey/"><u>The Gamer’s Perspective: Crucial Pro DDR5 6000 Memory Kit Review – A Step-by-Step Overclocking Journey</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/uncovering-untapped-territories-in-meme-culture-for-2024/"><u>Uncovering Untapped Territories in Meme Culture for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-a-look-into-toms-hardware-insights/"><u>Unlocking Performance: A Look Into Tom’s Hardware Insights</u></a></li>
+</ul></div>
+

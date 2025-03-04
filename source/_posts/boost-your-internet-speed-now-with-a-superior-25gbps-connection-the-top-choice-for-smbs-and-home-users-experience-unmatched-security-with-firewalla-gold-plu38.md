@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Internet Speed Now with a Superior 2.5Gbps Connection - The Top Choice for SMBs & Home Users: Experience Unmatched Security with Firewalla Gold Plus"
-date: 2024-09-18 16:21:46
-updated: 2024-09-20 12:10:17
+date: 2025-02-11T16:07:17.714Z
+updated: 2025-02-15T16:31:53.198Z
 tags:
   - cyber-threats
 categories:
@@ -31,6 +31,10 @@ Jason Perlow/ZDNET
 
 Firewalla also has an excellent app for mobile devices to administrate it and receive alerts and a robust remote management web interface. You don't need to be a network security genius to set rules and protect your network. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Wi-Fi routers These routers are suitable for both your home and the office.  Read now](https://www.zdnet.com/article/best-wifi-router/)
@@ -46,6 +50,10 @@ From a functionality and feature standpoint, the Gold and Gold Plus are identica
 **Also:** [**Why is my internet so slow? 11 ways to speed up your connection**](https://www.zdnet.com/home-and-office/networking/how-to-fix-your-slow-internet-11-ways-to-speed-up-your-connection/)
 
 I recently installed Firewalla Gold Plus on my network. You may be wondering what kind of network and home broadband you need to take full advantage of this device's wire-speed packet inspection capabilities: a very fast one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A thirst for speed means upgrades are needed
 
@@ -77,6 +85,10 @@ If you are looking for something a bit less expensive with 2.5Gbps connectivity 
 
 As with the switches, we ran Category 6 cabling to the new AP from the MS108EUP on one of its 60W ports to ensure a clean connection. We also set our broadcast 5Ghz SSID network on the new access point for up to 160Mhz channel width so modern clients like my [iPhone 14 Pro Max](https://support.apple.com/guide/deployment/iphone-wi-fi-specification-details-dep268652e6c/web), recent Android devices, and [Macbook Pros](https://support.apple.com/guide/deployment/macbook-pro-wi-fi-specification-details-dep2ac3e3b51/web) could utilize the Wi-Fi 6 connectivity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cruising at over 2Gbps
 
 To get the Firewalla Gold Plus running, we didn't have to do much differently than with the Gold, which we used previously. We booted it up, loaded the smartphone app, connected to the device using Bluetooth on our iPhone, and set it to "router mode." We also had to configure IP passthrough on the AT&T Fiber residential gateway's web interface to packet-forward everything to the Firewalla's WAN port MAC address, which is an AT&T-specific configuration issue. 
@@ -94,6 +106,10 @@ WiFi 6 speeds using 2x2 80Mhz channel width through Firewalla Gold Plus using a 
 Jason Perlow/ZDNET
 
 And Wi-Fi? Higher than 650Mbps on average in both directions, sometimes over 700Mbps or even 1Gbps depending on the device. On our Qualcomm 888-based Android phone, we could get as high as 800Mbps or 900Mbps Wi-Fi downloads due to advanced wide channel support. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who is it for?
 
@@ -124,11 +140,31 @@ I believe an argument can also be made for 2.5Gbps network upgrades, as it impro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-promote-youtube-videos-without-paying-for-2024/"><u>[New] How to Promote YouTube Videos (Without Paying) for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-two-keys-to-intriguing-tiktok-videos-for-2024/"><u>[New] Two Keys to Intriguing TikTok Videos for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-decreasing-mix-intensity-step-by-step/"><u>[Updated] In 2024, Decreasing Mix Intensity Step by Step</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-5-cameras-for-precision-slow-mo/"><u>2024 Approved Prime 5 Cameras for Precision Slow-Mo</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-reno-11-pro-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo Reno 11 Pro 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964489740-cable-matters-unveils-revolutionary-23-thunderbolt-5-with-120gbps-and-240w-power-shop-the-worlds-first-superfast-charger-now/"><u>Cable Matters Unveils Revolutionary $23 Thunderbolt 5 with 120Gbps & 240W Power: Shop the World's First Superfast Charger Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-insights-a-deep-dive-into-technology-trends/"><u>Exploring Gadgets with Tom's Hardware Insights: A Deep Dive Into Technology Trends</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-comprehensive-reviews-and-insights/"><u>Exploring Tom's Hardware: Comprehensive Reviews & Insights</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-insights-into-youtube-live-image-crafting/"><u>In 2024, Essential Insights Into YouTube Live Image Crafting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-night-avenger-black-vs-day-defender-silver/"><u>In 2024, Night Avenger (Black) VS Day Defender (Silver)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-electronic-devices-by-tom-a-trustworthy-guide/"><u>In-Depth Analysis of Electronic Devices by Tom - A Trustworthy Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/miniaturized-x-ray-chip-technology-seeing-beyond-obstacles-with-cell-phone-integration-expert-insights/"><u>Miniaturized X-Ray Chip Technology: Seeing Beyond Obstacles with Cell Phone Integration - Expert Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/retrace-astra-pilots-path-on-ws11-compatible-pcs/"><u>Retrace Astra Pilot's Path on WS11 Compatible PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/special-memorial-day-deal-alert-high-quality-full-size-roccat-pyro-mechanical-keyboard-just-34-awaits-you/"><u>Special Memorial Day Deal Alert: High-Quality, Full-Size Roccat Pyro Mechanical Keyboard - Just $34 Awaits You!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-guides-and-reviews-by-toms-hardware/"><u>Tom's Tech Insights: In-Depth Guides and Reviews by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-sifives-revolutionary-256-core-risc-v-processor-the-power-of-the-p870-d-series/"><u>Unveiling SiFive's Revolutionary 256-Core RISC-V Processor: The Power of the P870-D Series</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-the-tp-link-archer-c80-is-a-winner-for-speed-lovers-on-a-budget-under-100-bucks/"><u>Why the TP-Link Archer C80 Is a Winner for Speed Lovers on a Budget Under 100 Bucks</u></a></li>
+</ul></div>
+

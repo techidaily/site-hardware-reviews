@@ -1,7 +1,7 @@
 ---
 title: "Save Big on Cyber Monday: Unveiling the Ultimate List of 2022'S Best Offers | Featured"
-date: 2025-01-30T16:24:03.267Z
-updated: 2025-02-02T18:15:16.251Z
+date: 2025-02-12T16:31:13.933Z
+updated: 2025-02-15T16:01:07.899Z
 tags:
   - laptops
 categories:
@@ -29,10 +29,6 @@ ZDNET editors have been tracking the [best Cyber Monday 2022 sales](https://www.
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Latest Cyber Monday deals still available**
 
@@ -75,7 +71,7 @@ LG
 * [Toshiba 65-inch smart Fire TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ftoshiba-65-class-c350-series-led-4k-uhd-smart-fire-tv%2F6458646.p%3FskuId%3D6458646&publisher_slug=itechdaily19598&exclusive=1) for $430 (save $170) at Best Buy
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday laptop deals**
@@ -98,6 +94,10 @@ Best Buy
 * [Samsung 13.3-inch Galaxy Book2 Pro Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09R8VGY83%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf3826361-77a2-4798-85d6-2f1623f93359%7Cdtp&dtb=1) for $958.40 (save $342) at Amazon
 * [HP Pavilion Laptop 15t-eg200](https://www.anrdoezrs.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-pavilion-laptop-15t-eg200-6m7m8av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $700 (save $320) at HP
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Best Cyber Monday tablet deals**
 
 Black Friday and Cyber Monday are the biggest shopping times of the year, and it is when tablets go on sale for $100 or even $500 off. We've rounded up the best Cyber Monday tablet deals from brands like Apple and Samsung. 
@@ -115,10 +115,6 @@ Image: ZDNET
 * [Open Box Apple iPad Mini 4](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FOpen-Box-Apple-iPad-Mini-4-7-9-inch-Wi-Fi-Only-128GB-Bundle-Tempered-Glass-Case-Rapid-Charger-Stylus-Pen-comes-in-Original-Packaging%2F389781578&subId1=zd-__COM_CLICK_ID__-dtp) for $219 (save $40) at Walmart
 * [2022 Apple 11-inch iPad Pro, 128GB, with WiFi and Cellular](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLF3QVN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf3826361-77a2-4798-85d6-2f1623f93359%7Cdtp&dtb=1) for $899 (save $100) at Amazon
 * [Wacom Intuos Pro Medium Bluetooth Graphics Drawing Tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWacom-Digital-Graphic-Drawing-PTH660%2Fdp%2FB01MQU5LW7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf3826361-77a2-4798-85d6-2f1623f93359%7Cdtp&dtb=1) for $240 (save $26) at Amazon
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Best Cyber Monday gaming deals**
 
@@ -140,10 +136,6 @@ Image: Best Buy
 * [LG UltraGear 34" Nano IPS Curved 21:9 Monitor](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-ultragear-34-nano-ips-curved-219-wqhd-g-sync-ultimate-monitor-with-vesa-displayhdr-600-hdmi-displayport-usb-x2-black%2F6451084.p%3F&publisher_slug=itechdaily19598&exclusive=1) for $900 (save $400) at Best Buy
 * [ASUS TUF Gaming 27" Gaming Monitor](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-TUF-Gaming-27-LED-Gaming-Monitor-1080P-Full-HD-165Hz-Supports-144Hz-IPS-1ms%2F1544229980&subId1=zd-__COM_CLICK_ID__-dtp) for $159 (save $140) at Walmart
 * [HP V223ve FHD Monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-V223ve-21-5-inch-certified-Ergonomic%2Fdp%2FB09GKZ71PJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf3826361-77a2-4798-85d6-2f1623f93359%7Cdtp&dtb=1) for $105 (save $145) at Amazon
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Best Cyber Monday home deals**
 
@@ -176,6 +168,10 @@ Sherin Shibu
 
 * [Roku Express HD Streaming Device](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRoku-Express-Streaming-Device-High-Speed%2Fdp%2FB0BCH5H2R3%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf3826361-77a2-4798-85d6-2f1623f93359%7Cdtp&dtb=1) for $18 (save $12) at Amazon
 * [Apple TV HD 32GB](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-TV-HD-32GB-2nd-Generation%2F525801397&subId1=zd-__COM_CLICK_ID__-dtp) for $59 (save $40) at Walmart
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Best Cyber Monday headphone deals**
 
@@ -225,6 +221,10 @@ Apple
 * [Restored Apple Watch Series 3- 42 mm](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRestored-Apple-Watch-Series-3-42mm-Space-Gray-Aluminum-Case-Gray-Sport-Band-Refurbished%2F346346528&subId1=zd-__COM_CLICK_ID__-dtp) for $79 (save $40) at Walmart
 * [Citizen CZ Smart Hybrid smartwatch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCitizen-smartwatch-Continuous-Notifications-Connection%2Fdp%2FB09FFQFFRB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf3826361-77a2-4798-85d6-2f1623f93359%7Cdtp&dtb=1) for $262 (save $88) at Amazon
 * [Samsung Galaxy Watch 5 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B2HXJZ98%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf3826361-77a2-4798-85d6-2f1623f93359%7Cdtp&dtb=1) for $399 (save $49) at Amazon
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Best Cyber Monday speaker deals**
 
@@ -283,7 +283,7 @@ We've shopped online just as much as you, but we're experts at finding tech deal
 **\*** Except for Apple products and other devices that seldom go on sale.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When was Black Friday 2022?
@@ -303,7 +303,7 @@ ZDNET scoured Cyber Monday sales to find the best deals this year, and many are 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Cyber Monday deals still available by retailer**
@@ -314,10 +314,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best Cyber Monday 2022 deals at Target](https://www.zdnet.com/article/target-cyber-monday-deals-still-available-november-30-2022/)
 * [The best Cyber Monday 2022 deals at Walmart](https://www.zdnet.com/article/walmart-cyber-monday-deals-still-available-november-30-2022/)
 * [Top early Cyber Monday 2022 deals at Best Buy](https://www.zdnet.com/article/best-buy-cyber-monday-deals-still-available-november-30-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Cyber Monday deals still available by brand**
 
@@ -351,6 +347,10 @@ Our experts split out the best deals by retailer, brand, and category, which you
  Here are some of the cheapest deals we found that are still available:
 
 * [The best Cyber Monday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-cyber-monday-deals-under-30-still-available-november-30-2022/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
 
@@ -398,21 +398,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-advanced-steganography-in-videos-hiding-the-unseen/"><u>[New] Advanced Steganography in Videos Hiding the Unseen</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-techniques-for-streamlining-console-video-saves/"><u>[Updated] 2024 Approved Top Techniques for Streamlining Console Video Saves</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-from-fresh-footage-to-flashy-frames-best-gif-tools-for-2024/"><u>[Updated] From Fresh Footage to Flashy Frames Best GIF Tools for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-exploring-8-premium-open-source-videoconferencing-platforms/"><u>[Updated] In 2024, Exploring 8 Premium Open-Source Videoconferencing Platforms</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-guide-to-silent-screen-time-view-unseen-stories-on-devices/"><u>[Updated] In 2024, Guide to Silent Screen Time View Unseen Stories on Devices</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitter-gif-repository-capturing-the-essence-in-frames/"><u>2024 Approved Twitter Gif Repository Capturing the Essence in Frames</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/accelerating-your-workflow-with-lexar-ssds-the-sl500-and-professional-sl600-breakdown-for-speeds-beyond-20gbps/"><u>Accelerating Your Workflow with Lexar SSDs: The SL500 & Professional SL600 Breakdown for Speeds Beyond 20Gbps</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dell-xps-13-review-consistent-elegance-upgraded-with-the-latest-snapdragon-x-elite-processor/"><u>Dell XPS 13 Review - Consistent Elegance, Upgraded with the Latest Snapdragon X Elite Processor</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-next-level-gaming-with-asuss-rog-swift-pg34wcdm-a-thorough-review-of-its-exquisite-240hz-oled-visual-experience-and-top-tier-gameplay-dynamics/"><u>Discover Next-Level Gaming with ASUS's ROG Swift PG34WCDM: A Thorough Review of Its Exquisite 240Hz OLED Visual Experience & Top-Tier Gameplay Dynamics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-the-powerful-symphony-with-blueants-soundblade-vibrant-sounds-and-style-combined/"><u>Experience the Powerful Symphony with BlueAnt's Soundblade - Vibrant Sounds & Style Combined</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-advice-from-toms-equipment-hub-for-savvy-gamers-and-pros/"><u>Expert Advice From Tom's Equipment Hub for Savvy Gamers and Pros</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computer-components-with-toms-hardware/"><u>Exploring the World of Computer Components with Tom's Hardware</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lava-yuva-2-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Lava Yuva 2 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/paww-harmony-3-evaluation-affordable-high-fidelity-earbuds/"><u>Paww Harmony 3 Evaluation: Affordable High-Fidelity Earbuds</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-pc-performance-the-toms-guide-to-tech-essentials/"><u>Pioneering PC Performance: The Tom's Guide to Tech Essentials</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-artistic-endeavour-exploring-and-ranking-the-finest-8-drawing-apps-for-iphones/"><u>[Updated] 2024 Approved Artistic Endeavour Exploring and Ranking the Finest 8 Drawing Apps for iPhones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-ace-your-edits-pro-level-tips-for-lunapic-users/"><u>[Updated] Ace Your Edits Pro-Level Tips for LunaPic Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-mastery-for-phones-choose-from-the-top-8-timers-for-2024/"><u>[Updated] Instagram Mastery for Phones - Choose From The Top 8 Timers for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-art-of-audio-design-in-magix-vst-2023-for-2024/"><u>[Updated] The Art of Audio Design in Magix VST 2023 for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-essential-skills-for-proficient-use-of-gdoc-transcription-service/"><u>2024 Approved Essential Skills for Proficient Use of GDoc Transcription Service</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-glimpse-into-great-weather-graphics-for-windows-11/"><u>A Glimpse Into Great Weather Graphics for Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-z790i-lightning-wireless-review-unveiling-the-power-of-miniaturized-wi-fi/"><u>ASRock Z790I Lightning Wireless Review: Unveiling the Power of Miniaturized Wi-Fi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-solutions-to-fix-common-alienware-driver-problems-in-windows-systems/"><u>Expert Solutions to Fix Common Alienware Driver Problems in Windows Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-gear-hub/"><u>Exploring Technology with Tom's Gear Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-in-depth-analysis-and-gear-reviews/"><u>Inside Tom's Hardware: In-Depth Analysis and Gear Reviews</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-no-more-scrolling-find-your-filmora-promo-code-now/"><u>New In 2024, No More Scrolling Find Your Filmora Promo Code Now</u></a></li>
+<li><a href="https://fox-place.techidaily.com/resolved-windows-10-auto-delete-files-how-to-stop-and-fix/"><u>Resolved: Windows 10 Auto-Delete Files - How To Stop & Fix</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-hardware-insights/"><u>Tom's Tech Review: In-Depth Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-the-secrets-of-gadgets-with-expert-guidance-from-toms-hardware/"><u>Unlock the Secrets of Gadgets with Expert Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-a-closer-look-at-components-with-toms-hardware/"><u>Unveiling Tech Secrets: A Closer Look at Components with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-differences-a-critical-review-of-hostgator-vps-and-shared-plans/"><u>Unveiling the Differences: A Critical Review of HostGator VPS and Shared Plans</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-speed-reviewing-kingstons-high-performance-fury-beast-ddr5-at-6000mhz-with-latency-c40/"><u>Unveiling the Power of Speed: Reviewing Kingston's High-Performance Fury Beast - DDR5 at 6,000MHz with Latency C40</u></a></li>
 </ul></div>
 

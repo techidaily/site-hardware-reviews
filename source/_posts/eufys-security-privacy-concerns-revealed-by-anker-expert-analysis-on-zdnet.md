@@ -1,7 +1,7 @@
 ---
 title: Eufy's Security Privacy Concerns Revealed by Anker - Expert Analysis on ZDNet
-date: 2024-09-19 19:11:53
-updated: 2024-09-20 10:54:14
+date: 2025-02-09T16:16:09.062Z
+updated: 2025-02-15T16:17:34.640Z
 tags:
   - cyber-threats
 categories:
@@ -22,6 +22,10 @@ This week Anker Electronics has finally acknowledged that, yes, Eufy Security ca
 **Also:** [**The best security cameras**](https://www.zdnet.com/home-and-office/smart-home/best-security-camera/)
 
 In the fall of 2022, the smart home devices manufacturer was caught [uploading user data to cloud servers without consent](https://www.zdnet.com/article/eufys-security-cameras-send-data-to-the-cloud-without-consent-and-thats-not-the-worst-part/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -70,6 +74,10 @@ Screenshot of Eufy's "Proof of Privacy" on its website at the time of the incide
 
 Screenshot by Maria Diaz/Eufy Security
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best security cameras Our top picks for commercial properties will help secure your workplace.  Read now](https://www.zdnet.com/article/best-security-camera/)
@@ -77,6 +85,10 @@ Screenshot by Maria Diaz/Eufy Security
 Eufy also denies that it ever sent facial recognition data to the cloud, but it does mention an update was done for the [Video Doorbell Dual](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Feufy-Security-Battery-Powered-Detection-Recognition%2Fdp%2FB099RX62SC%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce984f298-a272-464b-a2b6-7ecb2b72150b%7Cdtp&dtb=1), which was the only one that used AWS cloud servers to send an initial facial recognition image to other cameras, but now uses LAN/P2P process to do so. ZDNET still hasn't heard back from Anker about any of these issues. 
 
 The company is also planning on launching a microsite with information on which of its key processes are done locally and which require the use of the cloud, and is promising to provide "more timely updates in our community (and to the media!) to keep consumers better informed on any updates to these strategies," with one of those updates coming in early February.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## So, can you trust Eufy security cameras?
 
@@ -112,11 +124,33 @@ Regarding an apology, Villines said, "An apology should come with more details o
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-superior-mics-for-video-blogging-professionals/"><u>[New] 2024 Approved Superior Mics for Video Blogging Professionals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-black-and-white-to-richness-embracing-hdrs-power/"><u>[Updated] From Black and White to Richness Embracing HDR's Power</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-from-silence-to-sounds-recording-with-audacity-on-a-mac/"><u>[Updated] In 2024, From Silence to Sounds Recording with Audacity on a Mac</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastering-iphone-macro-and-microphotography-techniques-for-2024/"><u>[Updated] Mastering iPhone Macro & Microphotography Techniques for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-elevate-your-experience-a-compreayers-guide-to-selecting-the-best-4k-screen/"><u>2024 Approved Elevate Your Experience A Compreayer's Guide to Selecting the Best 4K Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cooler-master-ncore-100-max-tower-case-a-robust-rack-for-hefty-graphics-cards/"><u>Cooler Master Ncore 100 Max Tower Case: A Robust Rack for Hefty Graphics Cards</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/digital-chuckles-the-ultimate-10-meme-guidebook/"><u>Digital Chuckles The Ultimate #10 Meme Guidebook</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-hardware-with-tom-comprehensive-guides-and-comparisons/"><u>Exploring Computer Hardware with Tom: Comprehensive Guides and Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hands-on-experience-enhancing-silence-with-the-be-quiet-dark-base-pro-901-soundproofing-kit/"><u>Hands-On Experience: Enhancing Silence with the Be Quiet Dark Base Pro 901 Soundproofing Kit</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-itel-p55-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Itel P55? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-new-era-of-metal-3d-printing-the-compact-and-economical-micronics-sls-printer-2999/"><u>Introducing the New Era of Metal 3D Printing: The Compact and Economical Micronics' SLS Printer ($2,999)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/jonsbo-unveils-elegant-handled-t6-itx-case-with-walnut-finish-and-metallic-accents-choose-between-sophisticated-black-or-modern-silver-variants/"><u>Jonsbo Unveils Elegant Handled T6 ITX Case with Walnut Finish and Metallic Accents – Choose Between Sophisticated Black or Modern Silver Variants</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-adventures-via-mondlys-augmented-realities/"><u>Linguistic Adventures via Mondly's Augmented Realities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pure-base-500dx-mid-tower-desktop-chassis-steal-the-deal-at-only-84/"><u>Pure Base 500DX Mid Tower Desktop Chassis - Steal the Deal at Only $84!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-overcoming-black-screen-glitches-in-windows-11/"><u>Step-by-Step Guide: Overcoming Black Screen Glitches in Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-gadget-comparisons/"><u>Tom's Tech Insights: Expert Reviews and Gadget Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-computer-and-hardware-analysis/"><u>Tom's Tech Insights: In-Depth Computer and Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-toms-tech-insights-detailed-analysis-and-reviews/"><u>Understanding Tom’s Tech Insights: Detailed Analysis and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrade-your-gaming-experience-secure-extra-1tb-on-xbox-using-the-affordable-125-seagate-hard-drive-enhancer/"><u>Upgrade Your Gaming Experience: Secure Extra 1TB on Xbox Using the Affordable $125 Seagate Hard Drive Enhancer</u></a></li>
+</ul></div>
+

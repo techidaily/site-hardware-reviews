@@ -1,7 +1,7 @@
 ---
 title: AI Security Breaches Now Eligible for Google's Expanded Bug Bounty Program - New Rewards Included | CyberSecurity Today
-date: 2024-09-18 13:31:52
-updated: 2024-09-20 11:27:37
+date: 2025-02-10T16:57:54.052Z
+updated: 2025-02-15T16:07:11.973Z
 tags:
   - cyber-threats
 categories:
@@ -71,11 +71,32 @@ Users who want to join Google's bug bounty program can submit a bug or security 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-boosting-your-fb-following-top-10-strategies-unveiled/"><u>[New] In 2024, Boosting Your FB Following Top 10 Strategies Unveiled</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-perfecting-iphone-photography-for-vr-spheres/"><u>[Updated] 2024 Approved Perfecting iPhone Photography for VR Spheres</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-shutters-symphony-top-techniques-for-exquisite-images/"><u>[Updated] 2024 Approved The Shutter's Symphony Top Techniques for Exquisite Images</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-mastering-youtube-full-length-view-control-for-2024/"><u>[Updated] Mastering YouTube Full-Length View Control for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ring-biggest-fifa-footage-trends-in-graphics/"><u>Exploring Biggest FIFA Footage Trends in Graphics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/join-the-frontline-secure-exclusive-preview-of-apple-vision-pro-through-testflight-a-step-by-step-guide-techinsights/"><u>Join the Frontline: Secure Exclusive Preview of Apple Vision Pro Through TestFlight – A Step-by-Step Guide | TechInsights</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/start-up-hacks-fur-ihr-ipad-mehr-effizienz-und-erfolg-mit-4-schlusseltipps/"><u>Start-Up Hacks Für Ihr iPad: Mehr Effizienz Und Erfolg Mit 4 Schlüsseltipps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-guides-t17239718716218/"><u>Tom's Tech Insights: Expert Reviews and Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-hardware-reviews-and-news/"><u>Tom's Tech Insights: In-Depth Hardware Reviews & News</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-insights-t17239718716229/"><u>Tom's Tech Review: In-Depth Analysis and Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-guides-and-insights-on-computer-hardware/"><u>Tom's Tech Reviews: In-Depth Guides & Insights on Computer Hardware</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforming-life-as-we-know-it-the-impactful-role-of-artificial-intelligence/"><u>Transforming Life As We Know It: The Impactful Role Of Artificial Intelligence</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-gadgets-and-pc-hardware-with-toms-guide/"><u>Unveiling the Best in Gadgets and PC Hardware with Tom's Guide</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

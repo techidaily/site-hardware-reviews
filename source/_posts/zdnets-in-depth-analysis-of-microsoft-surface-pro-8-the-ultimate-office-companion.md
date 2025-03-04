@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's In-Depth Analysis of Microsoft Surface Pro 8: The Ultimate Office Companion"
-date: 2025-01-30T03:15:17.990Z
-updated: 2025-02-02T16:39:16.135Z
+date: 2025-02-13T16:24:36.536Z
+updated: 2025-02-15T17:24:58.039Z
 tags:
   - laptops
 categories:
@@ -26,10 +26,6 @@ We prioritized machines that scored well in durability, portability, and of cour
 
 At ZDNET, we've [thoroughly tested the best laptops for college](https://www.zdnet.com/article/how-we-test-laptops/) to help you pick the right one, no matter what you're studying. Our pick for the best laptop for college overall goes to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6c886657-35ab-4930-8089-40c4b0f4086b%7Cdtp&dtb=1). In terms of portability, sleek form factor, and a solid battery life, the MacBook Air M3 is as light as it is powerful, and is future-proofed to last the duration of a multi-year degree program. It might not be the best pick for you, however, so we included other options that round out the spectrum of most common use cases. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best laptop for college in 2024
 
 Show less 
@@ -46,7 +42,7 @@ Cons
 * Uninspiring speakers
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple MacBook Air M3
@@ -84,7 +80,7 @@ Cons
 ## HP Dragonfly Pro Chromebook
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best Chromebook for college
@@ -117,11 +113,11 @@ Cons
 * Screen isn't very bright
 * A little bulky
 
-## Acer Aspire Go 15
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Acer Aspire Go 15
 
 ### Best college laptop under $500
 
@@ -195,7 +191,7 @@ There are a few considerations, however. First, the $2,000 price tag puts it at 
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best laptop for college?
@@ -209,6 +205,10 @@ The best laptop for college in 2024 is the [Apple MacBook Air M3](https://www.zd
 | Acer Aspire Go 15           | $299              | Intel Core i3-N305, Intel UHD        | 8GB, 128GB                  | 3.75             |
 | Asus ROG Zephyrus G14       | $1,600            | AMD Ryzen 9, GeForce RTX 4070        | 32GB, 1TB SSD               | 3.3              |
 | Lenovo YogaBook 9i          | $1,999            | Intel Core Ultra 155U, Intel Iris Xe | 16GB, 512GB                 | 3.15             |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which is the right laptop for college for you?
 
@@ -239,7 +239,7 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Factors to consider when choosing a laptop for college
@@ -253,6 +253,10 @@ These are the factors that I weighed when selecting the best laptops for college
 * **Portability:** Carrying around a heavy laptop all day while on campus is a tough ask. That's why all five of these laptops were considered to be light enough to be carried around a full day at school, the heaviest of which (the Acer Aspire Go 15) is only 3.7 pounds.
 * **Storage:** The amount of storage on your college laptop determines not only how much data your computer can hold but also how fast it can move. If you plan to use this laptop for all of your college classes, you will likely need a larger amount of storage if you plan to store all those papers and projects on the local drive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
 
 While every computing platform has its loyal supporters, most people end up using a particular operating system because of key applications running on it, employer preferences, or budgetary constraints. Windows, which ranges from budget to premium, and Apple's MacOS, which is exclusive to premium devices, cover a broad spectrum. Chrome OS is mostly limited to mid-range devices.
@@ -260,10 +264,6 @@ While every computing platform has its loyal supporters, most people end up usin
 **Also: [The best security keys you can buy: Expert tested](https://www.zdnet.com/article/best-security-key/)**
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What's the difference between a Chromebook and a Windows or Mac laptop?
 
@@ -317,18 +317,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-discover-top-asmr-for-iosandroid-devices/"><u>[New] Discover Top ASMR for iOS/Android Devices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-boosting-profitability-in-the-world-of-youtube-shorts/"><u>[Updated] 2024 Approved Boosting Profitability in the World of Youtube Shorts</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-syncing-sound-with-visuals-on-facebook-essential-guide/"><u>[Updated] Syncing Sound with Visuals on Facebook - Essential Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-seamlessly-integrate-your-switch-pro-into-steam-gaming/"><u>2024 Approved Seamlessly Integrate Your Switch Pro Into Steam Gaming</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-snapchat-blueprint-for-effective-marketing/"><u>2024 Approved The Snapchat Blueprint for Effective Marketing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cod-black-ops-cold-war-launch-problems-for-pc-users-solved/"><u>Cod: Black Ops Cold War Launch Problems for PC Users Solved</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-gadget-breakdown-with-tom-focus-on-hardware/"><u>Comprehensive Gadget Breakdown with Tom - Focus on Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-pc-world-a-comprehensive-resource/"><u>Exploring Tom's PC World: A Comprehensive Resource</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-pixio-px277-oled-the-hidden-gem-among-gaming-displays/"><u>In-Depth Analysis of the Pixio PX277 OLED - The Hidden Gem Among Gaming Displays</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-gaming-displays-a-closer-look-at-the-speedy-performance-of-a-45-inch-oled-monitor-aoc-agon-pro-ag456uczd/"><u>Revolutionizing Gaming Displays – A Closer Look at the Speedy Performance of a 45-Inch OLED Monitor (AOC Agon Pro AG456UCZD)</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-power-of-technology-with-toms-hardware-tips/"><u>Unlocking the Power of Technology with Tom's Hardware Tips</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-navigating-the-legality-of-facebooks-immediate-video-takedowns/"><u>[Updated] 2024 Approved Navigating the Legality of Facebook's Immediate Video Takedowns</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-can-i-see-all-my-connected-peers-shared-vids-and-pics/"><u>[Updated] In 2024, How Can I See All My Connected Peers' Shared Vids and Pics?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-overview-of-magix-audio-enhancer/"><u>[Updated] In 2024, Overview of MAGIX Audio Enhancer</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-step-by-step-instagram-filter-guide-keeping-up-with-2023-trends/"><u>[Updated] In 2024, Step-by-Step Instagram Filter Guide - Keeping Up with 2023 Trends</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pcs-picks-the-finest-ps1-game-emulators/"><u>[Updated] PC's Picks The Finest PS1 Game Emulators</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-tech-asus-pro-b760m-ct-csm-review-is-it-worth-the-investment/"><u>Cutting Edge Tech: ASUS Pro B760M-CT CSM Review - Is It Worth The Investment?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-sessions-with-asus-rog-swift-a-comprehensive-review-of-its-breathtaking-240hz-oled-display-and-unmatched-visual-clarity-for-competitive-1/"><u>Elevate Your Gaming Sessions with ASUS ROG Swift - A Comprehensive Review of Its Breathtaking 240Hz OLED Display & Unmatched Visual Clarity for Competitive Gamers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevating-ancs-marshall-aesthetics-and-rhythms-enhanced/"><u>Elevating ANC's Marshall - Aesthetics & Rhythms Enhanced</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-gigabyte-aorus-co49dq-oled-stunning-display-colors-and-contrast-performance/"><u>In-Depth Analysis of the Gigabyte Aorus CO49DQ OLED - Stunning Display Colors & Contrast Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-electronics-insights-and-reviews-by-tom/"><u>Inside the World of Electronics: Insights and Reviews by Tom</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/section-4b-five-facts-to-remember/"><u>Section 4B: Five Facts to Remember</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-deactivated-sliders-for-volume-control/"><u>Troubleshooting Deactivated Sliders for Volume Control</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/wirelessly-dominate-your-productivity-with-the-keychron-q1-he-the-wireless-version-youve-been-dreaming-of/"><u>Wirelessly Dominate Your Productivity with the Keychron Q1 HE - The Wireless Version You've Been Dreaming Of</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Acknowledges Challenges in Combating Newly-Evolved Scammer Tactics: Insights From ZDNet"
-date: 2024-09-18 15:15:10
-updated: 2024-09-20 12:22:23
+date: 2025-02-09T16:16:13.952Z
+updated: 2025-02-15T16:23:09.300Z
 tags:
   - cyber-threats
 categories:
@@ -21,6 +21,10 @@ I don't like little red circles on my [iPhone](https://www.zdnet.com/topic/iphon
 
 Lately, though, more and more strange things have been appearing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Security
 
 * [The best VPN services of 2024: Expert tested](https://www.zdnet.com/article/best-vpn/)
@@ -38,6 +42,10 @@ But let's focus on the phishy and the evil-minded that appear in both my junk ma
 Often misspelled and written in strange typefaces, they sometimes even claim they're from, oh, Microsoft. 
 
 But I've been noticing some disturbing and changing patterns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## My Company Is Taking The Trouble To Help You.  
 
@@ -61,6 +69,10 @@ Swindled, eh? Truly?
 
 They're still doing it and this one is so blessedly all-encompassing. It must still be fooling somebody. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## My Business Would Like To Do Business With Your Business.  
 
 Recently, though, a new trope has appeared. New to me, at least. 
@@ -76,6 +88,10 @@ I can imagine that these sorts of despicable things might tempt small business o
 One careless eye, one inattentive moment, and the small business owner, or their lone, inexperienced assistant, might just get caught up in the promise of more revenue from some far-off place.
 
 The problem now is that sometimes even these emails are now appearing in my inbox, and no matter how many times I mark them as phishing, still they come. (While emails from PR companies most often appear in junk.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## We Try, But We Can't Stop It.  
 
@@ -118,11 +134,33 @@ If tech companies have now become so adept at stalking us and knowing our every 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-using-inshot-for-laptoppc-and-other-video-editing-alternatives/"><u>[New] Using Inshot for Laptop/PC and Other Video Editing Alternatives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-impactful-video-elements-cardsannotations/"><u>[Updated] 2024 Approved How to Create Impactful Video Elements Cards/Annotations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-addressing-mute-problems-in-obs-live-recording/"><u>2024 Approved Addressing Mute Problems in OBS Live Recording</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964488440-asus-rog-azoth-extreme-ultimate-gamers-choice-oled-touch-screen-robust-aluminum-body-with-carbon-fiber-at-499/"><u>ASUS ROG AZOTH Extreme: Ultimate Gamer's Choice - OLED Touch Screen, Robust Aluminum Body with Carbon Fiber at $499</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/beyond-the-gameplay-unveiling-the-devoted-reception-of-the-meletrix-boog75-gaming-console/"><u>Beyond the Gameplay: Unveiling the Devoted Reception of the Meletrix BOOG75 Gaming Console</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-poco-m6-pro-4g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Poco M6 Pro 4G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-ultra-speed-charging-like-never-before-get-cable-matters-trailblazing-23-thunderbolt-5-cable-120gbps-and-240w-of-power-awaits-you/"><u>Experience Ultra-Speed Charging Like Never Before! Get Cable Matters' Trailblazing $23 Thunderbolt 5 Cable - 120Gbps and 240W of Power Awaits You</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-tech-solutions-with-toms-expertise-in-computer-hardware/"><u>Exploring Advanced Tech Solutions with Tom's Expertise in Computer Hardware</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-12-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme 12 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/secrets-of-asmr-success-with-top-recorder-mics/"><u>Secrets of ASMR Success with Top Recorder Mics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964487998-steep-discount-alert-8bitdos-nes-style-retro-keyboard-now-at-just-79-on-amazon-prime-day/"><u>Steep Discount Alert: 8BitDo's NES-Style Retro Keyboard Now at Just $79 on Amazon Prime Day!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-selection-of-premium-gaming-chairs/"><u>The Ultimate Selection of Premium Gaming Chairs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-ultimate-strategy-to-turn-your-fb-page-into-cash-for-2024/"><u>The Ultimate Strategy to Turn Your FB Page Into Cash for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-gear-guide-comprehensive-hardware-analysis-and-comparisons/"><u>Tom's Computer Gear Guide: Comprehensive Hardware Analysis and Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-review-expert-insights-and-comprehensive-analysis/"><u>Tom's Hardware Review: Expert Insights and Comprehensive Analysis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-5-budget-friendly-gaming-mice-under-100/"><u>Top 5 Budget-Friendly Gaming Mice (Under $100)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-free-solutions-converting-mkv-files-into-mp4-format-both-on-and-off-the-web/"><u>Top Free Solutions: Converting MKV Files Into MP4 Format Both On & Off the Web</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transform-your-low-profile-keyboard-setup-the-ultimate-comfort-addition-for-just-11-featuring-logitechs-mx-palm-rest/"><u>Transform Your Low-Profile Keyboard Setup: The Ultimate Comfort Addition for Just $11 – Featuring Logitech's MX Palm Rest</u></a></li>
+</ul></div>
+

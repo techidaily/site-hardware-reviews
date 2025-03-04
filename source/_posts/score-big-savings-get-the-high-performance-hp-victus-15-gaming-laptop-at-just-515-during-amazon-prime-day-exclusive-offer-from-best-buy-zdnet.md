@@ -1,7 +1,7 @@
 ---
 title: "Score Big Savings: Get the High-Performance HP Victus 15 Gaming Laptop at Just $515 During Amazon Prime Day - Exclusive Offer From Best Buy | ZDNet"
-date: 2025-01-31T19:21:34.051Z
-updated: 2025-02-02T21:13:33.515Z
+date: 2025-02-12T17:22:23.983Z
+updated: 2025-02-15T17:07:58.166Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,19 +63,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-top-5-cost-effective-video-editing-software-for-gamers/"><u>[New] Top 5 Cost-Effective Video Editing Software (For Gamers)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-peeling-back-layers-what-every-snapchat-emoji-hides/"><u>[Updated] 2024 Approved Peeling Back Layers What Every Snapchat Emoji Hides</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-understanding-youtube-community-interaction/"><u>[Updated] 2024 Approved Understanding YouTube Community Interaction</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-scalable-success-lawful-techniques-for-video-visibility/"><u>[Updated] In 2024, Scalable Success Lawful Techniques for Video Visibility</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-quantum-hdr-101-a-complete-breakdown/"><u>[Updated] Quantum HDR 101 A Complete Breakdown</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-transform-your-videos-first-impression-with-these-fonts/"><u>[Updated] Transform Your Video's First Impression with These Fonts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-pc-hardware-expert-insights-from-toms-tech-corner/"><u>Discover the Latest in PC Hardware: Expert Insights From Tom's Tech Corner</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-syncing-scenes-merging-pc-and-cloud-images/"><u>In 2024, Syncing Scenes Merging PC & Cloud Images</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-computer-systems-the-ultimate-guide-by-toms-hardware-specialists/"><u>Mastering Computer Systems: The Ultimate Guide by Tom's Hardware Specialists</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-your-next-buy-let-toms-hardware-be-your-tech-coach/"><u>Navigating Your Next Buy? Let Tom's Hardware Be Your Tech Coach</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-synthesis-how-meditation-transforms-cognition-and-emotion/"><u>Seamless Synthesis: How Meditation Transforms Cognition & Emotion</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-gadgets-and-components/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Gadgets and Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/turtle-beach-atlas-air-review-effortless-sound-quality-in-a-lightweight-package/"><u>Turtle Beach Atlas Air Review: Effortless Sound Quality in a Lightweight Package</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-foster-viewer-connection-easy-anime-subscribe-buttons-for-youtube-creators/"><u>[Updated] 2024 Approved Foster Viewer Connection Easy Anime Subscribe Buttons for YouTube Creators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-opening-overtures-10-superior-tunes-to-pique-interest/"><u>2024 Approved Opening Overtures 10 Superior Tunes to Pique Interest</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/acemagic-x1-the-new-dual-screen-laptop-watch-out-for-pre-launch-discount-and-details-next-month/"><u>AceMagic X1 - The New Dual-Screen Laptop: Watch Out for Pre-Launch Discount & Details Next Month</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862699721-acemagic-x1-dual-screen-laptop-unveil-the-price-and-purchase-details-this-coming-month/"><u>AceMagic X1 Dual-Screen Laptop: Unveil the Price & Purchase Details This Coming Month</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-300-risc-v-developers-laptop-by-chinese-tech-startup/"><u>Affordable $300 RISC-V Developer's Laptop by Chinese Tech Startup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862709133-amazon-prime-day-alert-discounted-16-inch-macbook-pro-with-m3-pro-saving-you-500/"><u>Amazon Prime Day Alert: Discounted 16-Inch MacBook Pro with M3 Pro, Saving You $500</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-introduces-vibrant-display-with-color-e-paper-technology-in-zephyrus-g14s-lid-the-future-of-personalized-gaming/"><u>Asus Introduces Vibrant Display with Color E-Paper Technology in Zephyrus G1^4's Lid – The Future of Personalized Gaming</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-xiaomi-redmi-note-12r-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Xiaomi Redmi Note 12R Quickly | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862738874-get-your-hands-on-the-game-changing-lenovo-legion-slim-5-for-less-than-1100-shop-now-at-newegg/"><u>Get Your Hands on the Game-Changing Lenovo Legion Slim 5 for Less Than $1,100 – Shop Now at Newegg</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-15-pro-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 15 Pro Max Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/master-meeting-magic-key-ways-to-tweak-with-zoom-converter/"><u>Master Meeting Magic Key Ways to Tweak with Zoom Converter</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-gionee-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Gionee Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unveiling-vrecorder-download-and-install-made-simple-for-2024/"><u>Unveiling VRecorder Download & Install Made Simple for 2024</u></a></li>
 </ul></div>
 

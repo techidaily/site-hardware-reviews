@@ -1,7 +1,7 @@
 ---
 title: Top 98 Unbeatable Cyber Monday Bargains of 2022 - Explore Your Savings on ZDNet
-date: 2025-01-29T00:30:11.746Z
-updated: 2025-02-03T01:03:56.603Z
+date: 2025-02-11T16:50:47.097Z
+updated: 2025-02-15T16:56:59.431Z
 tags:
   - laptops
 categories:
@@ -18,7 +18,7 @@ Amazon
 Cyber Monday is finally here! Laptops are the first thing I think of today: I want the most affordable laptop with the best possible features. If you're in the same boat, there are three laptops to keep in mind that ring in for less than $1,000: [The MacBook Air with Apple's M1 chip](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-256GB-Storage%2Fdp%2FB08N5LNQCX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9726ad23-f28c-4202-9966-09e24683054e%7Cdtp&dtb=1) for $799 at Amazon (save $200), [the LG gram 17-inch laptop](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/lg-gram-17%22-intel-evo-platform-laptop---12th-gen-intel-i7-1260p---2560-x-1600-display---windows-11.product.100971154.html) at Costco for $999 (save $500), and [the Latitude 7420 business laptop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fdeals.dell.com%2Fen-us%2Fproductdetail%2Ffqnp) at Dell for $889 (save $1,320). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -79,14 +79,21 @@ Dell has the [Latitude 7420](https://shop-links.co/link/?exclusive=1&publisher_s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-x-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone X Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-y17s-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo Y17s</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/innovative-strategies-for-sharing-on-instagram-stories-for-2024/"><u>Innovative Strategies for Sharing on Instagram Stories for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/outstanding-savings-on-electronics-with-sony-psvr-69-apple-airpods-and-the-versatile-anker-power-station/"><u>Outstanding Savings on Electronics with Sony PSVR², $69 Apple AirPods, & the Versatile Anker Power Station</u></a></li>
-<li><a href="https://techtrends.techidaily.com/perfect-progression-watching-the-wizarding-worlds-cinematic-journey-step-by-step/"><u>Perfect Progression: Watching the Wizarding World's Cinematic Journey Step by Step</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/raspberry-pis-latest-budget-friendly-upgrade-the-new-2gb-ram-option-for-enthusiasts/"><u>Raspberry Pi's Latest Budget-Friendly Upgrade: The New 2GB RAM Option for Enthusiasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-of-jmgo-n1s-laser-projector-excellent-imaging-with-an-exceptional-designed-stand/"><u>Review of JMGO N1S Laser Projector - Excellent Imaging with an Exceptional Designed Stand</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/rising-cost-of-hard-drives-discover-affordable-options-and-secrets/"><u>Rising Cost of Hard Drives? Discover Affordable Options and Secrets</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-convert-spoken-words-into-written-content-using-ms-words-in-built-tools/"><u>[Updated] Convert Spoken Words Into Written Content Using MS Word's In-Built Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-windows-screen-imaging-technique-for-2024/"><u>[Updated] Windows Screen Imaging Technique for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/csm-technology-empowered-the-ultimate-review-of-the-asus-pro-b760m-ct-motherboard/"><u>CSM Technology Empowered: The Ultimate Review of the Asus Pro B760M-CT Motherboard</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-fixing-bluetooth-connection-problems-in-win-11/"><u>Essential Guide: Fixing Bluetooth Connection Problems in Win 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-infinix-smart-8-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Infinix Smart 8 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-easy-way-to-edit-youtube-videos-in-imovie/"><u>In 2024, Easy Way to Edit YouTube Videos in iMovie</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-knowledge-through-toms-authoritative-articles/"><u>Mastering Hardware Knowledge Through Tom's Authoritative Articles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-inside-look-at-toms-hardware-discoveries/"><u>Mastering Technology: Inside Look at Tom's Hardware Discoveries</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-digital-world-the-ultimate-guide-to-devices-from-toms-hardware/"><u>Mastering the Digital World: The Ultimate Guide to Devices From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-future-of-technology-with-toms-comprehensive-hardware-analysis/"><u>Navigating the Future of Technology with Tom's Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/step-by-step-guide-embedding-vimeo-videos-into-presentations/"><u>Step-by-Step Guide Embedding Vimeo Videos Into Presentations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-converting-dvd-films-into-high-quality-digital-backups-without-loss-of-quality/"><u>Step-by-Step Tutorial on Converting DVD Films Into High-Quality Digital Backups Without Loss of Quality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-perfect-balance-of-price-and-design-in-the-logitecug515-lightspeed-tkl-mechanical-keyboard-review/"><u>The Perfect Balance of Price & Design in the LogitecuG515 Lightspeed TKL Mechanical Keyboard Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341718123-the-ultimate-listening-experience-awaits-with-turtle-beachs-atlas-air-headphones-discover-the-difference/"><u>The Ultimate Listening Experience Awaits with Turtle Beach's Atlas Air Headphones – Discover the Difference!</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-v29-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo V29 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-pova-5-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Pova 5 Pro? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 
